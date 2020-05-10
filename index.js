@@ -124,12 +124,13 @@ setInterval(() => {
 const writeTweetsToFile = (username, tweetArr) => {
     let content = ''
     try {
-        if (!fs.existsSync(`${username}.csv`)) {
+        if (!fs.existsSync(`./tweets/${username}.csv`)) {
             content+='id,created_at,text\n'
         }
     } catch (err) {
         console.error(err)
     }
+    
     tweetArr.forEach(tweet => {
         const search = `\n`;
         const replacer = new RegExp(search, 'g')

@@ -1,0 +1,797 @@
+id,created_at,text
+1258111443569795000,Wed May 06 19:08:37 +0000 2020,Rails 6.0.3 has been released! This release solve most of the Ruby 2.7 related warnings. https://t.co/abywTFwLhL
+1256286413781446700,Fri May 01 18:16:36 +0000 2020,Rails 6.0.3.rc1 has been released!  Please try it and report any regressions you found. https://t.co/c7OZPZJoa3
+1240688751082221600,Thu Mar 19 17:17:03 +0000 2020,Rails 6.0.2.2 and 5.2.4.2 have been released! They contain an important security fix, so please check them out! Mor… https://t.co/cq05U1XbbP
+1234940660756762600,Tue Mar 03 20:36:12 +0000 2020,RT @fxn: Zeitwerk 2.3 is out with support for collapsing directories, use case are folders for organizational purposes.  For example, now b…
+1225726790087454700,Fri Feb 07 10:23:34 +0000 2020,RT @gsamokovarov: I’m happy to announce the first public release of break! ⚡️  Lightweight debugger integrated into `binding.irb` and `bind…
+1207413879921246200,Wed Dec 18 21:34:36 +0000 2019,A new Rack was released today with a security fix. We highly recommend upgrading. https://t.co/EXgnGprB5M
+1205565185739673600,Fri Dec 13 19:08:33 +0000 2019,Rails 6.0.2 has been released!  https://t.co/M41ukIOA01
+1204077029232132000,Mon Dec 09 16:35:09 +0000 2019,Rails 6.0.2.rc2 has been released!  Please give it a try and report any issues. https://t.co/e94xbB6xg3
+1201248476299808800,Sun Dec 01 21:15:29 +0000 2019,@kanniball Thanks. https://t.co/WiSLJKKRgX is the right URL. The http -&gt; https redirect is likely broken. We’ll take a look
+1199718153309147100,Wed Nov 27 15:54:32 +0000 2019,Rails 5.2.4 has been released! https://t.co/gbyUCn2q49
+1199712073237688300,Wed Nov 27 15:30:22 +0000 2019,Rails 6.0.2.rc1 has been released!  Please give it a try and report any regression https://t.co/6wS3PIXL2R
+1198043093574049800,Sat Nov 23 00:58:26 +0000 2019,Rails 5.2.4.rc1 has been released! This is going to be the last bug fix release of the 5.2 series, so please test t… https://t.co/NYz9Imn69z
+1188890057278517200,Mon Oct 28 18:47:32 +0000 2019,RT @dhh: Getting quick access to full logs for a request in production can be a real hassle. Maybe your logs are aggregated into one bundle…
+1186971839400206300,Wed Oct 23 11:45:14 +0000 2019,RT @fxn: been actively keeping these two figures down to 0 — and, indeed, there have been no bugs for a long time, questions, small new fea…
+1181495920439021600,Tue Oct 08 09:05:53 +0000 2019,@RiettaInc @Neovim @laravelphp Rails goes even an extra mile! https://t.co/ObT5YWJuVO
+1180024066033496000,Fri Oct 04 07:37:15 +0000 2019,some good tips in this post https://t.co/m9HUnsEgro
+1164595612861513700,Thu Aug 22 17:50:05 +0000 2019,@madlewski @dhh It was already updated last week. You can see either here https://t.co/sLzsOqDE7B and here https://t.co/LHq69uJCys
+1163446323384897500,Mon Aug 19 13:43:13 +0000 2019,RT @alchemy_cms: Good news everyone. Alchemy runs with Rails 6 w/o any changes to runtime code necessary. Just dependency updates and test…
+1162446643213549600,Fri Aug 16 19:30:51 +0000 2019,801 people have contributed to this massive release, here's their names 👏👏👏 https://t.co/OLlyTqk9NZ
+1162426813575880700,Fri Aug 16 18:12:03 +0000 2019,RT @dhh: Rails 6.0: Action Mailbox, Action Text, Multiple DBs, Parallel Testing, Webpacker by default, and Zeitwerk! What a monumental fina…
+1156291736328536000,Tue Jul 30 19:53:27 +0000 2019,RT @dhh: Rails 6.0 RC2 has been released! Plan is to ship the final version in a few weeks. Please help us test and verify that that's a go…
+1121134556525019100,Wed Apr 24 19:31:22 +0000 2019,@nullvoxpopuli @dhh @basecamp @github @Shopify The same happens in Rails. No upgrades should break things without d… https://t.co/HZ7AmCW9lJ
+1121132648771084300,Wed Apr 24 19:23:47 +0000 2019,@cm_richards @dhh @basecamp @github @Shopify The last db write is stored in the client session so any process will… https://t.co/krlRTEbFsK
+1121131385249566700,Wed Apr 24 19:18:46 +0000 2019,@nullvoxpopuli @dhh @basecamp @github @Shopify Yes, we did. While that works for EmberJS team that is not what we w… https://t.co/wf1OqjNHq7
+1121129137538785300,Wed Apr 24 19:09:50 +0000 2019,@nullvoxpopuli @dhh @basecamp @github @Shopify Rails follows a shifted version of semver see https://t.co/FKrlCv43dq
+1121126646092828700,Wed Apr 24 18:59:56 +0000 2019,RT @dhh: Release candidate for Rails 6 is out! It includes Action Mailbox, Action Text, multi-db support, parallel testing, Webpacker-by-de…
+1111108859492356100,Thu Mar 28 03:32:50 +0000 2019,Rails 5.2.3 has been released https://t.co/Y4GXvh1x0k
+1111106203176714200,Thu Mar 28 03:22:16 +0000 2019,Rails 5.1.7 has been released  https://t.co/SidJOPJNJE
+1108948663500329000,Fri Mar 22 04:28:59 +0000 2019,Rails 5.1.7.rc1 has been released! This is going to be the last release of the 5.1 series. Please give it a try and… https://t.co/BCYjI2Vut3
+1108944322337005600,Fri Mar 22 04:11:44 +0000 2019,Rails 5.2.3.rc1 has been released! Please give it a try and report bugs back before the final release https://t.co/3FRPb9IIAn
+1105887919867347000,Wed Mar 13 17:46:41 +0000 2019,Mis-typed 5.2.21 should be 5.2.2.1!
+1105882173784113200,Wed Mar 13 17:23:51 +0000 2019,Rails 4.2.11.1, 5.0.7.2, 5.1.6.2, 5.2.21, and 6.0.0.beta3 have been released with important security fixes. See ann… https://t.co/RgTeXVCfXA
+1100185293146255400,Tue Feb 26 00:06:28 +0000 2019,RT @dhh: Rails 6.0 beta2 has been released! It includes the exciting new code loader for Ruby called Zeitwork, as well as a bunch of other…
+1098886684450738200,Fri Feb 22 10:06:16 +0000 2019,The second beta of Rails 6 is just around the corner, let's warm up the engines by presenting its new shiny and awe… https://t.co/jSfG2gExkK
+1090286976069034000,Tue Jan 29 16:34:06 +0000 2019,RT @dhh: Another great Rails 6 feature en route for merging: Automatic read/write splitting based on HTTP verbs and predicted replication l…
+1086395996358160400,Fri Jan 18 22:52:44 +0000 2019,RT @dhh: Rails 6.0 beta1 has been released! Two major new frameworks – Action Mailbox and Action Text – and two important scalable-by-defau…
+1075897350919475200,Thu Dec 20 23:34:52 +0000 2018,RT @dhh: We're intending to release Rails 6.0 by @RailsConf 2019. Here's the full "aspirational timeline" 😄. https://t.co/IivQAK21nn
+1073395081070108700,Fri Dec 14 01:51:44 +0000 2018,RT @dhh: It is also such an honor to welcome @georgeclaghorn to @Rails Core in celebration of his work on this second major framework. Geor…
+1073392255820476400,Fri Dec 14 01:40:31 +0000 2018,RT @dhh: Proud to announce Action Mailbox is coming to Rails 6! Route incoming emails to controller-like mailboxes from Amazon, Sendgrid, M…
+1070035842914271200,Tue Dec 04 19:23:19 +0000 2018,Rails 5.2.2 has been released!  https://t.co/rgxEjP98F2
+1067917050801258500,Wed Nov 28 23:04:00 +0000 2018,Rails 5.2.2.rc1 has been released ! Please give it a try and report any regressions. https://t.co/aHkgcLqIwu
+1067530840371015700,Tue Nov 27 21:29:20 +0000 2018,Rails 4.2.11, 5.0.7.1, 5.1.6.1 and 5.2.1.1 have been released! https://t.co/DhHGFWTWFc
+1047648443471036400,Thu Oct 04 00:43:47 +0000 2018,RT @dhh: Action Text is coming to Rails 6! Rich text editing and display by virtue of the Trix editor. It's never been so easy to get all t…
+1037415722144526300,Wed Sep 05 19:02:37 +0000 2018,It's been an honor and a privilege to have @spastorino serve on Rails Core since 2010! With a new baby girl in the… https://t.co/m8pbymLShk
+1034126616191033300,Mon Aug 27 17:12:53 +0000 2018,@67darwin @sgrif Can you ping @rafaelfranca on GitHub? That will be easier to track which PR it is.
+1026948635051925500,Tue Aug 07 21:50:09 +0000 2018,Rails 5.2.1 has been released! https://t.co/BIYkKJISMg
+1024033555998036000,Mon Jul 30 20:46:40 +0000 2018,Rails 5.2.1.rc1 has been released. Please give it a try and report regressions. https://t.co/fbLvwKh8SV
+999667924221734900,Thu May 24 15:06:20 +0000 2018,"4999 people" — Many thanks to all people who have contributed to the Rails code base over the years, and also to a… https://t.co/cn5jjqQjGV
+983447298335273000,Mon Apr 09 20:51:22 +0000 2018,RT @rafaelfranca: I’m pleased to announce that Rails 5.2.0 final is finally released. Just in time for RailsConf. It includes Active Storag…
+979429053257089000,Thu Mar 29 18:44:17 +0000 2018,Rails 5.0.7 and 5.1.6 have been released!  https://t.co/1gUBm9S9SE
+976178509310607400,Tue Mar 20 19:27:47 +0000 2018,RT @dhh: Rails 5.2 is virtually done. Here's the last dress rehearsal in form of release candidate 2. So much good stuff in this one: Activ…
+964704212469755900,Sat Feb 17 03:33:02 +0000 2018,RT @dhh: On Writing Software Well #4: Not every model is backed by a database. When to use Concerns for appearance, when to encapsulate log…
+964704101396172800,Sat Feb 17 03:32:35 +0000 2018,RT @eileencodes: So excited to be keynoting at RailsConf this year. Hope to see you there so I can tell you all about what we're working on…
+964703972761026600,Sat Feb 17 03:32:05 +0000 2018,RT @dhh: On Writing Software Well, Episode 3: Using globals when the price is right. https://t.co/SwF6OKsLyq
+964703854397812700,Sat Feb 17 03:31:36 +0000 2018,RT @dhh: On Writing Software Well, Episode 2: Callbacks! See how we use them to create mentions in Basecamp without cluttering the main con…
+963901466841727000,Wed Feb 14 22:23:12 +0000 2018,Rails 5.1.5 has been released! https://t.co/g3BooQpeRz
+963228839596867600,Tue Feb 13 01:50:25 +0000 2018,RT @dhh: Here's a pilot episode of a YouTube show I'm considering doing. It's tentatively called On Writing Software (Well?), and features…
+963228793564352500,Tue Feb 13 01:50:14 +0000 2018,RT @bitsweat: HAY STUDENTS → Ruby, Rails, and SciRuby are all participating in Google Summer of Code 2018. Dive in to Ruby this summer and…
+959148065214091300,Thu Feb 01 19:34:53 +0000 2018,Rails 5.1.5.rc1 has been released!  Please give it a try and report any regressions. https://t.co/VjpEXArxBR
+958497848508563500,Wed Jan 31 00:31:09 +0000 2018,RT @dhh: Rails 5.2.0 RC1: Active Storage, Redis Cache Store, HTTP/2 Early Hints, CSP, Credentials. This is almost ready to go! Another mont…
+958446359614337000,Tue Jan 30 21:06:33 +0000 2018,RT @dhh: Stimulus 1.0: A modest JavaScript framework for the HTML you already have. Make your majestic monolith sparkle with the best in Ja…
+935254893874389000,Mon Nov 27 21:11:57 +0000 2017,RT @dhh: Rails 5.2 is out in beta with the brand new framework of Active Storage. File uploads and processing has never been easier! 🌟 http…
+913057438756212700,Wed Sep 27 15:07:11 +0000 2017,Rails 4.2.10 final has been released! It includes 2 bug fixes for regressions introduced in earlier 4.2 versions. https://t.co/n7JmuTA8RG
+910607517922799600,Wed Sep 20 20:52:05 +0000 2017,Due to some regressions in 4.2.9 we released Rails 4.2.10.rc1! Test your app &amp; let us know if you find any bugs. https://t.co/i2c0nZJ78w
+906166590974111700,Fri Sep 08 14:45:25 +0000 2017,RT @bmarkons: Just got confirmation about passing GSoC 2017 🍾🎉 super happy! Thanks @codefolio @robin850 @rails  https://t.co/anbGhp3ZNP
+902982715900928000,Wed Aug 30 19:53:50 +0000 2017,RT @dhh: Webpacker 3.0: No separate process needed, less config generated 🎉 https://t.co/SKZZsJgLIL
+900810887417798700,Thu Aug 24 20:03:46 +0000 2017,Rails 5.1.4.rc1 and 5.0.6.rc1 have been released! Test your apps and let us know if you find any bugs! https://t.co/jFZJXcI6Hw
+897594750798356500,Tue Aug 15 23:03:59 +0000 2017,RT @dhh: Thrilled to welcome @georgeclaghorn, @javan, and @kamipo to the Rails committers team! 🎉👏 https://t.co/0UqZB2gvCL
+893190719288074200,Thu Aug 03 19:23:56 +0000 2017,Rails 5.1.3 is done! Thanks for the help with finding regressions and fixes 🎉😘  https://t.co/qGZ3SJjkQb
+892105452556877800,Mon Jul 31 19:31:29 +0000 2017,@Espen_Antonsen Thanks! Accidentally only pushed the tags to my Rails fork. I've pushed them to the mainline repo — @kaspth
+892104213207162900,Mon Jul 31 19:26:33 +0000 2017,Rails 5.0.5 is out! Rails 5.1.3.rc3 is also out with more regressions fixed — thanks for the help! ❤️  https://t.co/nNpto6YCoD
+891682471456239600,Sun Jul 30 15:30:42 +0000 2017,Rails has reached 30,000 issues/PRs https://t.co/gp7lVTfBEq
+891058077671313400,Fri Jul 28 22:09:35 +0000 2017,RT @dhh: Current release target for Rails 5.2 – which will include Active Storage, Current, recyclable cache keys, and more – is before end…
+891056617839611900,Fri Jul 28 22:03:47 +0000 2017,RT @dhh: With on-demand image variants and direct-to-cloud uploads done, we're ready to put Active Storage in Rails proper 👌 https://t.co/2…
+890720500896460800,Thu Jul 27 23:48:10 +0000 2017,RT @dhh: Active Storage just got direct-to-cloud uploads courtesy of @javan. Lovely JS implementation ❤️. https://t.co/6fUvJr6BAT
+889948714680406000,Tue Jul 25 20:41:22 +0000 2017,@tenderlove That email must have been generated with Action Mailer 😂
+889947790641684500,Tue Jul 25 20:37:42 +0000 2017,Those last rcs didn't have enough wroom wroom for you? Good news, everyone! Two wild rc2s appeared: https://t.co/c7IPjoCA6I
+889501847974793200,Mon Jul 24 15:05:41 +0000 2017,RT @dhh: All versions of Rails: 316 versions since October 25, 2004 😄 https://t.co/L49tIR0Kfa
+888517697331482600,Fri Jul 21 21:55:01 +0000 2017,RT @dhh: And Gaurav is working on adding direct-to-cloud uploads via JavaScript as well: https://t.co/mexAn0bama
+888517468674719700,Fri Jul 21 21:54:07 +0000 2017,RT @dhh: Active Storage continues to move forward at a furious pace. Just added on-demand image variations: https://t.co/AmbXvPRxkV
+887766508130234400,Wed Jul 19 20:10:04 +0000 2017,Rails 5.1.3.rc1 and 5.0.5.rc1 have been released! Help us smooth out the releases by testing in your apps.  https://t.co/oUZyfWPvf7
+885800525907841000,Fri Jul 14 09:57:57 +0000 2017,RT @leo_hetsch: @dhh At @oncetheapp we peak daily at 250-300k rpm with a standard Rails 5 setup. Bottlenecks usually come from external ser…
+885800358567710700,Fri Jul 14 09:57:17 +0000 2017,RT @dhh: Shopify @ 80,000 requests per second on Rails. One of the oldest (Rails 0.5-&gt;5.1!!) apps as well. Half a million LOCs. Amazing. 👏👏…
+882971798224195600,Thu Jul 06 14:37:36 +0000 2017,@matthaliski @dhh It uses its own active records rather than mixing into others, as one difference. But same goal: Make files easy.
+882965369866080300,Thu Jul 06 14:12:03 +0000 2017,RT @dhh: Active Storage is coming to Rails 5.2: A brand-new framework for managing cloud and local files in Rails. Overdue! https://t.co/BF…
+882893421924556800,Thu Jul 06 09:26:09 +0000 2017,RT @dhh: Rails has passed 100 million downloads on RubyGems 😄🎊https://t.co/4cNTEFvu2k
+880903712033710100,Fri Jun 30 21:39:46 +0000 2017,RT @dinahshi: I made my very first contribution to rails today! Thanks @eileencodes for all the guidance and patience ❤️ https://t.co/46dxL…
+879458237606744000,Mon Jun 26 21:55:58 +0000 2017,Rails 5.1.2 has been released https://t.co/7e01kWtYJk
+879453815304585200,Mon Jun 26 21:38:23 +0000 2017,Rails 4.2.9 has been released! https://t.co/fEHFObor0X
+877217226088165400,Tue Jun 20 17:30:59 +0000 2017,Rails 5.1.2.rc1 has been released! Final will be released on monday. Please give it a try https://t.co/riBmRrA0ka
+876931011459809300,Mon Jun 19 22:33:40 +0000 2017,Rails 4.2.9.rc2 has been released! One more round of releases candidates. Please give it a try https://t.co/6NNXPTUndH
+876927167569027100,Mon Jun 19 22:18:23 +0000 2017,Rails 5.0.4 has been released! https://t.co/6SnKair6eZ
+875094302862561300,Wed Jun 14 20:55:14 +0000 2017,Rails 5.0.4.rc1 has been released! Please give it a try and report back https://t.co/2vIWkQPn8w
+874703437115646000,Tue Jun 13 19:02:05 +0000 2017,Rails 4.2.9.rc1 has been released! This is going to be the last bug fix release of the 4.2 series so please test it  https://t.co/Sk47TooxAd
+873298543456288800,Fri Jun 09 21:59:32 +0000 2017,RT @bitsweat: Running a Rails 3.2 app? → Upgrade to Mail 2.5.5. Running a Rails 4.0-5.1 app? → Upgrade to Mail 2.6.6. 🐞 https://t.co/Tkh67G…
+872406090180374500,Wed Jun 07 10:53:15 +0000 2017,RT @dhh: Unix Stickers is selling Rails stickers signed by yours truly for $50 where all the proceeds go to @EFF ✌️ https://t.co/GHpZWpR9p5
+867388064951349200,Wed May 24 14:33:24 +0000 2017,RT @dhh: Webpacker 2.0 for Rails is out: https://t.co/QM1KaGn3gj – new config format, so some upgrading required. Kudos to @javan &amp; Gaurav…
+863130368160915500,Fri May 12 20:34:50 +0000 2017,Rails 5.0.3 and 5.1.1 have been released! Happy Friday!!! 💘💙💜💗💚❤💓💛💚💗 https://t.co/qR7wYUyeFK
+857703877248004100,Thu Apr 27 21:11:54 +0000 2017,RT @dhh: Rails 5.1 FINAL has been released! Loving JavaScript, System Tests, Encrypted Secrets, and more. Happy @RailsConf 🎉 https://t.co/M…
+855235294953713700,Fri Apr 21 01:42:38 +0000 2017,[ANN] Rails 5.1.0.rc2 has been released! Give it a try. We are now closer to the final release https://t.co/frITaua4ox
+854092656808534000,Mon Apr 17 22:02:12 +0000 2017,@Joachim8675309 it was already 2 years ago.
+849109215880896500,Tue Apr 04 03:59:47 +0000 2017,@djforth it was merged inside rails/rails
+844605573152849900,Wed Mar 22 17:43:55 +0000 2017,RT @gsamokovarov: Google Summer of Code applications for @rails are now open! Learn how to apply on https://t.co/Mh9IhEgM8w.  The deadline…
+843902655525273600,Mon Mar 20 19:10:46 +0000 2017,Rails 5.1.0.rc1 has been released! https://t.co/UrJWbNIUb7
+842084809434366000,Wed Mar 15 18:47:18 +0000 2017,RT @rubygems_status: Official statement from Ruby Central, Inc. regarding RubyGems' finances and continued operation: https://t.co/dcADu8u3…
+837703348237258800,Fri Mar 03 16:36:56 +0000 2017,Google Summer of Code 2017 https://t.co/pXGGLXglFU
+837079891107590100,Wed Mar 01 23:19:32 +0000 2017,[ANN] Rails 5.0.2 has been released! https://t.co/ExB7wXLwMN
+835854242883731500,Sun Feb 26 14:09:15 +0000 2017,RT @widdnz: Had my first contribution merged into @rails. Hopefully it will make it into 5.1.0 🙂 https://t.co/GyxPwSC1BS
+835294540542140400,Sat Feb 25 01:05:12 +0000 2017,[ANN] Rails 5.0.2.rc1 has been released! Please give it a try and report regressions https://t.co/B1F9D9fnLz
+835050345382445000,Fri Feb 24 08:54:51 +0000 2017,“Rails 5.1 applications can be a lot more secretive on Cloud Foundry and Heroku”, https://t.co/CWUjJEGexM
+834861813883891700,Thu Feb 23 20:25:42 +0000 2017,RT @dhh: Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and MORE. So. Much. Good. Stuff! 🎉❤️ https://t.co/QSij6qm01I
+834379329232572400,Wed Feb 22 12:28:28 +0000 2017,RT @dhh: Proud to welcome @eileencodes to Rails core as a wonderful programmer and our first woman on the team ❤️🎉👏 https://t.co/ixcW6sacTS
+834078213794123800,Tue Feb 21 16:31:57 +0000 2017,[ANN] Rails 4.2.8 has been released! https://t.co/LL4mnq0uJC
+832329258219536400,Thu Feb 16 20:42:13 +0000 2017,The final release of 4.2.8 will delay a little bit. We will release it tomorrow!
+829888039661031400,Fri Feb 10 03:01:41 +0000 2017,[ANN] Rails 4.2.8.rc1 has been released! Please give it a try and report regressions https://t.co/RXhxFFzag5
+828845347137007600,Tue Feb 07 05:58:24 +0000 2017,RT @bitsweat: Witness 👉 @kamipo is driving Active Record in Rails 5. A journey of 520 PRs: https://t.co/WYkUpZ0lNV
+827557905956294700,Fri Feb 03 16:42:34 +0000 2017,RT @RailsGirlsSoC: 🚀 Applications for RGSoC 2017 are now officially open! Apply by March 1st — we can’t wait to hear from you 💃🏻💪 https://t…
+825378442078191600,Sat Jan 28 16:22:10 +0000 2017,What makes Rails a framework worth learning in 2017? https://t.co/nZKt1Ab6Pc
+825287829748117500,Sat Jan 28 10:22:06 +0000 2017,RT @dhh: New parameterized mailers make it easier to share filters, defaults across actions in Rails mailers. Coming in 5.1! https://t.co/P…
+823540041964195800,Mon Jan 23 14:37:01 +0000 2017,[ANN] New Action Pack caching gems released https://t.co/j2pg3MO3a3
+812096805739470800,Fri Dec 23 00:45:41 +0000 2016,Thanks to @phusion_nl for their help fixing a slow-client DoS vulnerability in Rails 5.0.1 👏. Their full report: https://t.co/DiXkIom9No
+811368425347944400,Wed Dec 21 00:31:21 +0000 2016,[ANN] Rails 5.0.1 has been released! https://t.co/N79oSpMDsg
+783021173982556200,Mon Oct 03 19:09:30 +0000 2016,RT @kaspth: At @rails we’re not always the quickest to respond. Still, it’s nice when it happens: https://t.co/oiQQyVW58x 🎃
+775834423795322900,Tue Sep 13 23:11:55 +0000 2016,RT @_william_burns: Upgrading to #rails5 was a breeze. Thanks @rails team and contributors!!
+763796999468490800,Thu Aug 11 17:59:29 +0000 2016,Rails 5.0.0.1, 4.2.7.1, and 3.2.22.3 have been released with important security fixes. See the announcement here: https://t.co/IlYwUIG6vn
+761997532855668700,Sat Aug 06 18:49:03 +0000 2016,hat tip to the RuboCop team, we have been able to normalize style across the whole project with massive but correct patches, amazing job
+760499949029036000,Tue Aug 02 15:38:11 +0000 2016,RT @dhh: The Rails Doctrine has been translated to Traditional Chinese: https://t.co/sGSenMCcwX and simplified Chinese: https://t.co/WKYyih…
+758378526189899800,Wed Jul 27 19:08:25 +0000 2016,RT @gopumago: Announcing puma-dev! A successor to pow, helping make rails 5 development easy! https://t.co/uCLVJAMDZh
+755426642634289200,Tue Jul 19 15:38:41 +0000 2016,RT @dhh: It took 13 years, but I finally snuck another Dane onto Rails core: Welcome @kaspth! 🇩🇰👏😀 https://t.co/DZ3m0jSanV
+753071023512248300,Wed Jul 13 03:38:18 +0000 2016,[ANN] Rails 4.2.7 and 4.1.16 have been released! https://t.co/2D4Fc6QL3B
+752511221312598000,Mon Jul 11 14:33:50 +0000 2016,👏 to @phusion_nl for identifying a couple of race-condition bugs in Action Cable under heavy load: https://t.co/UpjMHOT8Hz. Fixed in master!
+749642005958066200,Sun Jul 03 16:32:36 +0000 2016,RSpec 3.5 just got released with full Rails 5.0 compatibility 👏 https://t.co/sMQh5qxuIx
+749085175225606100,Sat Jul 02 03:39:57 +0000 2016,@tzvetkoff the reason is: blindly passing parameters to url helpers can lead to security issues, so now we require users to filter them
+749074958291243000,Sat Jul 02 02:59:21 +0000 2016,@thelambostory hahaha, a lot of companies care about that
+749072697754284000,Sat Jul 02 02:50:22 +0000 2016,[ANN] Rails 4.2.7.rc1 and 4.1.16.rc1 have been released! Please test them and report regressions. https://t.co/y7zs6alsOW
+748874189709291500,Fri Jul 01 13:41:34 +0000 2016,RT @derekprior: Clearance and Scenic both already support Rails 5. Enjoy!
+748866088851476500,Fri Jul 01 13:09:23 +0000 2016,RT @railstutorial: Rails 5 is out! https://t.co/uqIOXX23fe  And the @railstutorial has already been updated accordingly. :-)  https://t.co/…
+748684778015076400,Fri Jul 01 01:08:55 +0000 2016,RT @sgrif: Thank you to everyone who contributed with bug reports, discussion, code review, feature requests, community management, and any…
+748664248285356000,Thu Jun 30 23:47:20 +0000 2016,RT @rafaelfranca: To all the 948 contributors that made this possible, my sincere THANK YOU! https://t.co/JvUhHDmcJQ
+748660038743400400,Thu Jun 30 23:30:37 +0000 2016,RT @rafaelfranca: But what I’m more happy is with the community around it. Lot of new faces, new contributors were important to make this r…
+748660024537296900,Thu Jun 30 23:30:33 +0000 2016,RT @rafaelfranca: I’m really happy with the release of Rails 5. The framework continue strong with a lot of improvements and features (1/?)
+748659957105459200,Thu Jun 30 23:30:17 +0000 2016,RT @arthurnn: Awesome job @eileencodes and @sgrif as release managers on the Rails5 release. I am happy we have you in our community.. ❤❤❤
+748659805481377800,Thu Jun 30 23:29:41 +0000 2016,RT @chancancode: Instructions for Rails 5 support on @skylight:  Step 1: there is no step 1 😗👌  Enjoy your 🇨🇦 Day and 🇺🇸🎆 weekend!!!  https…
+748659700699275300,Thu Jun 30 23:29:16 +0000 2016,RT @fxn: 9999 commits https://t.co/U7qL3rIsJP
+748633995223699500,Thu Jun 30 21:47:08 +0000 2016,RT @dhh: Rails 5.0 is finally done: https://t.co/x33xN855YX - enjoy Action Cable, API mode, and so much more ⚡️⭐️✨
+745715826112798700,Wed Jun 22 20:31:22 +0000 2016,We’re happy to announce Rails 5 RC2 has been released https://t.co/fh7OYlPrbW
+738333439401812000,Thu Jun 02 11:36:24 +0000 2016,RT @dhh: I recorded a new introduction video for Rails 5. Just live coding for 20 minutes. Voila! https://t.co/N4XG596BNO
+729780324637487100,Mon May 09 21:09:22 +0000 2016,the first RC of Rails 5 is out https://t.co/fYXt646R0g, getting closer to final!
+727830727665045500,Wed May 04 12:02:22 +0000 2016,RT @christianblais: Although it's been 7 years, I still get goose bumps every time one of my PR gets merged into @rails core.
+727830247413059600,Wed May 04 12:00:28 +0000 2016,RT @Betterment: See how we recently migrated a single-page backbone app to a server-driven Rails experience https://t.co/vBNdCecTCv https:/…
+725475353284599800,Thu Apr 28 00:02:57 +0000 2016,RT @dhh: Rails 5.0 is back on the release track: Beta 4 has just shipped and RC1 is finally back in sight! https://t.co/sqn2EaEE3S 🎉✌️
+720269118134493200,Wed Apr 13 15:15:14 +0000 2016,Want a sticker with the latest Rails logo? Unixstickers got ‘em: https://t.co/USXPeNJJO9 – portion of profits go to @CharityWater
+711667230174548000,Sun Mar 20 21:34:24 +0000 2016,RT @RailsGirlsSoC: Our 2016 fundraising campaign is now open!! Let’s make another amazing summer happen!✨💜💪💚✨👉 https://t.co/R8Jg36xaQx http…
+711665456818556900,Sun Mar 20 21:27:21 +0000 2016,RT @RailsGirlsSoC: 🎉 It’s today! Applications for Rails Girls Summer of Code 2016 are officially open! ✨ 💖 💛 💚  https://t.co/Gh2HAur9N2 htt…
+708391024696160300,Fri Mar 11 20:35:56 +0000 2016,@bishop_afl welcome to our community!
+708305841821257700,Fri Mar 11 14:57:27 +0000 2016,[ANN] Rails 4.2.6 and 4.1.15 have been released! https://t.co/SLDWrXDdc0
+704775960332279800,Tue Mar 01 21:10:57 +0000 2016,[ANN] Rails 4.2.6.rc1 and 4.1.15.rc1 have been released! Please try them and report regressions https://t.co/GsncWC9kSh
+704393614579929100,Mon Feb 29 19:51:39 +0000 2016,[Security ANN] Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released! https://t.co/w6FQNiMhDt
+704296184786108400,Mon Feb 29 13:24:30 +0000 2016,RT @dhh: You can read more about the new Rails 5 feature of ApplicationController.render in Ravil’s write-up: https://t.co/KHNcE2KmuG
+704296174656819200,Mon Feb 29 13:24:27 +0000 2016,RT @dhh: Action Cable pattern: Onboard a specialized broadcast/method method for rendering, https://t.co/EYJNiJARjv
+703623638189252600,Sat Feb 27 16:52:02 +0000 2016,Rails 5.0.0.beta3 actually went out a couple of days ago, but here’s the overdue announcement: https://t.co/IvY3ttSCWo – getting closer now!
+703248426356625400,Fri Feb 26 16:01:05 +0000 2016,RT @dhh: Turbolinks 5 for Android is now available: https://t.co/xY2ou59kLW – @dankim did a great job with it 👏
+702516230004056000,Wed Feb 24 15:31:36 +0000 2016,RT @dhh: Fantastic job on the new documentation for Turbolinks 5 by @sstephenson and @packagethief: https://t.co/lKRjeRXq3z https://t.co/Jz…
+702485152488935400,Wed Feb 24 13:28:06 +0000 2016,@TheBlandee good luck! And enjoy!
+701347853940236300,Sun Feb 21 10:08:53 +0000 2016,RT @dhh: Good walk through of all the test runner improvements in Rails 5: https://t.co/sdd2mKbuHW
+701347837435580400,Sun Feb 21 10:08:49 +0000 2016,RT @RubyInside: Active Support Improvements in Rails 5: https://t.co/I2g2uBpvuG
+700768510755151900,Fri Feb 19 19:46:47 +0000 2016,@jankeesvw thank you for the pull request and welcome to our contributors list! https://t.co/GelxtTq0QK
+697736979736346600,Thu Feb 11 11:00:33 +0000 2016,RT @alexander_dymo: Is #Ruby 2.3 faster? Find out in my blog series. Today's issue: Faster ERB Template Rendering in #ruby and @rails https…
+695269744123969500,Thu Feb 04 15:36:39 +0000 2016,RT @dhh: Turbolinks 5.0.0.beta1: https://t.co/KmPRS8Nxkb – rewritten from ground up, native mobile app wrapper integration, powers Basecamp…
+694831531756511200,Wed Feb 03 10:35:21 +0000 2016,@dixpac The latter. Controller should be responsible for fetching the root scope. Can change that without changing view.
+694630640856219600,Tue Feb 02 21:17:05 +0000 2016,RT @testdouble: We're proud &amp; excited to see @rails "double down" on concurrent-ruby, maintained by our very own @jerrydantonio 💚 https://t…
+694552350904696800,Tue Feb 02 16:05:59 +0000 2016,RT @dhh: Rails 5.0.0.beta2 is ready: https://t.co/AX0s9jhGUX – all the big dependencies from Action Cable are gone, tons of other fixes 🎊✌️
+694416275175559200,Tue Feb 02 07:05:16 +0000 2016,@mantia @bozicivan Do you mind submitting a PR with the changed svg? Thanks! It's rails/homepage on Github.
+694415593655701500,Tue Feb 02 07:02:33 +0000 2016,RT @inacubicle: Been playing with the @rails 5 beta all weekend! Really impressed with the API mode! Coming out with a few sites soon on Ra…
+692022874014621700,Tue Jan 26 16:34:44 +0000 2016,How to write a Chess game with Action Cable and Rails 5: https://t.co/hgeBNmv799
+691981818917167100,Tue Jan 26 13:51:36 +0000 2016,@civrot See https://t.co/ScWusTcMwn
+691710961032409100,Mon Jan 25 19:55:19 +0000 2016,Happy Monday everyone! There are new releases of Rails with important security fixes, and you should upgrade: https://t.co/NApzGTgJ5z &lt;3&lt;3
+691247099086766100,Sun Jan 24 13:12:05 +0000 2016,We’ve adopted some slight tweaks to the Rails logo following the great feedback from designers in the community: https://t.co/VbtTRx6gIQ 👍
+691239811689111600,Sun Jan 24 12:43:08 +0000 2016,RT @galori: "Ruby on Rails: Doctrine" from @DHH - this is a great distilled writeup of most of the reasons I still love Rails. https://t.co…
+691233460988551200,Sun Jan 24 12:17:54 +0000 2016,RT @sea_local: My first PR to Rails was merged! Thank, @rails! The PR documents a short-hand that you may not know about. https://t.co/0EC6…
+691232966199136300,Sun Jan 24 12:15:56 +0000 2016,RT @joyvuu_dave: Woo hoo! First code commit to @rails! https://t.co/6vxaOSEMB3
+691232674204291100,Sun Jan 24 12:14:46 +0000 2016,@hamdisy SVG version: https://t.co/Mlv1Ub7n7B
+691232253641412600,Sun Jan 24 12:13:06 +0000 2016,So once again, flurry of activity around Action Cable shows just how quickly the Rails community rounds out major new frameworks. 👏
+691232001949601800,Sun Jan 24 12:12:06 +0000 2016,Action Cable is on the cusp of removing EventMachine as dependency, https://t.co/nZ76WvBbLM - we recently removed Redis + Celluloid as well.
+691231649024073700,Sun Jan 24 12:10:42 +0000 2016,Action Cable now supports PostgreSQL in addition to Redis as the backend: https://t.co/zZyuezP1wg – thanks @applerebel!
+689487461802618900,Tue Jan 19 16:39:55 +0000 2016,@katafrakt_pl Can you show a screenshot of what you see without that?
+689485750300110800,Tue Jan 19 16:33:07 +0000 2016,@dperrera Pull requests are always welcome. The repo is at https://t.co/XyOi9jID4k. Thanks!
+689484252237340700,Tue Jan 19 16:27:10 +0000 2016,RT @aviflombaum: More behind @rails site: “We aren't courting cutting-edge early adopters…Rails is now for everyone and our site should ref…
+689483664745332700,Tue Jan 19 16:24:50 +0000 2016,“The brief was that Rails shouldn't feel slick. It should be warm, approachable, and welcoming”, https://t.co/ScWusSVb7N
+689482385239310300,Tue Jan 19 16:19:45 +0000 2016,RT @dhh: The Rails Doctrine: https://t.co/c1EYt0uzB9 https://t.co/I5pFRWFkBU
+689481823806599200,Tue Jan 19 16:17:31 +0000 2016,RT @dhh: Mega thanks to @asianmack for the amazing work on the new Rails site. The illustrations are just lovely. https://t.co/PddoXK9EwR
+689480911432249300,Tue Jan 19 16:13:53 +0000 2016,How do you like our new logo? https://t.co/e4hYdB3l55
+689480777692643300,Tue Jan 19 16:13:21 +0000 2016,RT @dhh: After ten years, Ruby on Rails finally has a fresh new identity: https://t.co/LkzenDnHOg https://t.co/uv41ZB3zIO
+685517766015713300,Fri Jan 08 17:45:46 +0000 2016,@martijnstorck @mperham EventMachine remains a dependency for now. But by no means an essential one. Do hack on removing it!
+685517190334910500,Fri Jan 08 17:43:29 +0000 2016,@mperham Ha! I was just hacking on Active Job and my brain did the substitution. WUPS! ^dhh
+685516990333751300,Fri Jan 08 17:42:41 +0000 2016,Action Cable no longer depends on Celluloid. @mperham converted it to use concurrent-ruby instead 👏 https://t.co/WosS7Br1W3
+685516568067989500,Fri Jan 08 17:41:00 +0000 2016,RT @bendhalpern: I'm pumped to kick off a @ThePracticalDev interview series with @rails creator @dhh https://t.co/NOiv6409GA
+685489905351393300,Fri Jan 08 15:55:03 +0000 2016,RT @dhh: The Ruby on Rails website has basically been unchanged since 2005! Can’t wait to share the new look @asianmack cooked up for us 👌
+679318131588898800,Tue Dec 22 15:10:38 +0000 2015,RT @dhh: I returned to @fullstackradio to talk  Basecamp 3, Rails 5, majestic monoliths, and big rewrites with @adamwathan, https://t.co/VB…
+678621086796406800,Sun Dec 20 17:00:49 +0000 2015,RT @dhh: Action Cable is the highlight of Rails 5: WebSockets made incredibly easy. I made a video to show you, https://t.co/2kJ9tMrSjr ✌️
+678621086796406800,Sun Dec 20 17:00:49 +0000 2015,RT @dhh: Action Cable is the highlight of Rails 5: WebSockets made incredibly easy. I made a video to show you, https://t.co/2kJ9tMrSjr ✌️
+677966688025972700,Fri Dec 18 21:40:29 +0000 2015,RT @eileencodes: So cool to be a part of the @Rails 5 beta release today. It's a seriously awesome version.  https://t.co/oWZnR0dlOI
+677964434539716600,Fri Dec 18 21:31:31 +0000 2015,RT @dhh: Rails 5.0.0.beta1: Action Cable, API mode, Rails command, https://t.co/Q1Q85ciiNM – It's out! "gem install rails -v 5.0.0.beta1" a…
+677953244258279400,Fri Dec 18 20:47:03 +0000 2015,RT @Miguelgraz: Today my first PR to @rails was merged https://t.co/ILEBtDZMwq it'll be part of Rails 5, so glad to be helping at least a l…
+677950790510751700,Fri Dec 18 20:37:18 +0000 2015,RT @dhh: "266 versions of Rails since October 25, 2004", https://t.co/L49tIR0Kfa – about to add one more!
+677459052687982600,Thu Dec 17 12:03:19 +0000 2015,RT @dhh: Action Cable just landed on rails/master: https://t.co/Ls4I5ROFpm – we're getting close to Rails 5.0.0.beta1! 🏁
+676415273424035800,Mon Dec 14 14:55:43 +0000 2015,RT @dhh: Yesterday was the ten-year anniversary of Ruby on Rails 1.0: https://t.co/YtOfiDFfRP – what a glorious run! Here's to another 10! …
+674573820846477300,Wed Dec 09 12:58:26 +0000 2015,RT @dhh: Ten years of RailsConf keynotes, https://t.co/Vkj82SIJDd
+671771951501832200,Tue Dec 01 19:24:48 +0000 2015,@DevotionGeo we make no promises. But, you can already use Rails 5 without a formal release. Checkout the master branch.
+671771039710486500,Tue Dec 01 19:21:11 +0000 2015,@DevotionGeo soon! 🔜
+670731254023721000,Sat Nov 28 22:29:27 +0000 2015,RT @chancancode: **This Weekend Only!**  Don't miss these unbelievable Black Friday/Cyber Monday deals from @rails! 🆓 offers inside! https:…
+664921953099206700,Thu Nov 12 21:45:21 +0000 2015,@iLuisDaniel not yet but we will have it read in the beta 1
+664856258583920600,Thu Nov 12 17:24:19 +0000 2015,@iLuisDaniel in time for christmas!
+664339021737435100,Wed Nov 11 07:09:00 +0000 2015,Snappier Development Mode in Rails 5: https://t.co/5TiA5bqjB6
+662751235347492900,Fri Nov 06 21:59:42 +0000 2015,[ANN] Rails 4.2.5.rc2 and 4.1.14.rc2 have been released! Please give them a try https://t.co/U9qiuHHraf
+662534481622904800,Fri Nov 06 07:38:24 +0000 2015,@tenderlove ¯\_(⊙ ε ⊙)_/¯
+662035811265835000,Wed Nov 04 22:36:52 +0000 2015,@olivierlacan docrails is a private repository now. We will fix the guides
+661666850112184300,Tue Nov 03 22:10:44 +0000 2015,@ClayShentrup yes, the basecamp fork is the version 5 of turbolinks
+661666733154041900,Tue Nov 03 22:10:17 +0000 2015,@jt_coleman rails/docrails is a private repository now to avoid people to send PRs to it
+661666644364800000,Tue Nov 03 22:09:55 +0000 2015,@jt_coleman documentation PRs should go to rails/rails, but if you want straight access push to rails/docrails we can add you
+661659944169680900,Tue Nov 03 21:43:18 +0000 2015,@ClayShentrup Turbolinks 5
+661656985620906000,Tue Nov 03 21:31:33 +0000 2015,First production app running Action Cable, Turbolinks 5, and Rails 5.0.alpha in the wild is live: Basecamp 3.0 – https://t.co/lDaZKEGOuB
+660202350284550100,Fri Oct 30 21:11:20 +0000 2015,[ANN] Rails 4.2.5.rc1 and 4.1.14.rc1 have been released! Try it and report if you find any issue. https://t.co/VVF2qV5vA9
+657326786007580700,Thu Oct 22 22:44:52 +0000 2015,RT @bitsweat: Please welcome @_matthewd to Rails core and @josevalim to Rails alumni 🖖 https://t.co/NNGuJ01QCs
+656266979133780000,Tue Oct 20 00:33:35 +0000 2015,@akpersad I'm not magic. All my behaviour is defined in my source files. 🎩🔮💫
+651592715189227500,Wed Oct 07 02:59:43 +0000 2015,@jkerr838 thank you and welcome to our contributors list!
+648587259860643800,Mon Sep 28 19:57:07 +0000 2015,RT @dhh: The Ruby Rails GoldieBlox skydive action figure character is shipping on October 20. http://t.co/Uvpz6Xi4s2 👌 http://t.co/gRlNRTLr…
+647559339427803100,Fri Sep 25 23:52:32 +0000 2015,Our @gsoc students did some great work for Rails this summer, check out their projects on our blog! http://t.co/qwQYGG8OeT
+646131608844664800,Tue Sep 22 01:19:14 +0000 2015,@dezguy please file a new issue with environment information and steps to reproduce this problem. Thanks
+635886139631632400,Mon Aug 24 18:47:24 +0000 2015,[ANN] Rails 4.2.4 and 4.1.13 have been released! http://t.co/CD6S1GzSqq
+634394147676389400,Thu Aug 20 15:58:45 +0000 2015,RT @tgx_world: We've also started to benchmark @rails on a per commit basis! http://t.co/ZqGt1qw9fq and for the various releases http://t.c…
+634216904496939000,Thu Aug 20 04:14:27 +0000 2015,Ruby on Rails team has adopted a Code of Conduct https://t.co/KxSx0uQjH5
+633299580621324300,Mon Aug 17 15:29:20 +0000 2015,@applerebel Welcome to http://t.co/BquddYzypZ!
+632227630704685000,Fri Aug 14 16:29:48 +0000 2015,[ANN] Rails 4.2.4.rc1 and 4.1.13.rc1 have been released! Please give them a try and report back! http://t.co/k5j0UMZsoE
+632227342040059900,Fri Aug 14 16:28:39 +0000 2015,@myrridin Thank you! Your contributions are really appreciated &lt;3
+631519307567099900,Wed Aug 12 17:35:10 +0000 2015,RT @schneems: Hot off the presses Sprockets v3.3.0 come and get it https://t.co/Qa56iNMKze ! Now the cache uses relative instead of absolut…
+624224482396405800,Thu Jul 23 14:28:08 +0000 2015,Passenger has a new simple guide for how to configure your Rails app with it on AWS, Digital Ocean, and Heroku https://t.co/JLnPdgkH68 👍
+618886731711017000,Wed Jul 08 20:57:49 +0000 2015,RT @dhh: Action Cable v0.1.0 is now available for alpha testers: https://t.co/ryqK2ZAKG7. I'll be setting up a demo repo shortly as well. E…
+617595572703395800,Sun Jul 05 07:27:13 +0000 2015,docs server maintenance is over, up and running now - it took half the time, not sure if that was underpromising or overperforming
+617589076976345100,Sun Jul 05 07:01:24 +0000 2015,the docs server is going to be offline for approximately 40 minutes
+617586215307620400,Sun Jul 05 06:50:02 +0000 2015,the scheduled maintenance window in the docs server is going to start in about ten minutes
+615764511459446800,Tue Jun 30 06:11:14 +0000 2015,scheduled downtime: next Sunday 5th at 7:00 AM UTC the documentation server is going to be down for about 40 minutes
+614543725012852700,Fri Jun 26 21:20:16 +0000 2015,Welcome @kaspth to the Rails Commiters team! 🎉
+614436528371183600,Fri Jun 26 14:14:18 +0000 2015,[ANN] Rails 4.2.3 and 4.1.12 have been released! http://t.co/pb7e3jQ6KT
+613002530163961900,Mon Jun 22 15:16:06 +0000 2015,[ANN] [ANN] Rails 4.2.3.rc1 and 4.1.12.rc1 have been released! Please, try them and report any regressions. http://t.co/pIVkCAA5XO
+611226933196668900,Wed Jun 17 17:40:31 +0000 2015,Meanwhile, our other #GSoC student @genkisugimoto is working on something called TTNT: Test This, Not That over at https://t.co/Dcdea2w4J4
+611226315237236700,Wed Jun 17 17:38:04 +0000 2015,Our Google Summer of Code student @wazery_ has some updates to share about his project! http://t.co/xGCRznxrcd
+610880419572109300,Tue Jun 16 18:43:36 +0000 2015,[Sec ANN] Rails 3.2.22, 4.1.11 and 4.2.2 have been released and more! Upgrade as soon as possible. http://t.co/xeUXoTjFv9
+608975445183336400,Thu Jun 11 12:33:55 +0000 2015,@cyri_ the LINK and UNLINK methods are currently in draft status AFAICS - has that status changed?
+605500810487808000,Mon Jun 01 22:26:57 +0000 2015,@illegalnumbers no, the default is UTC as mentioned in config/application.rb
+604675115612135400,Sat May 30 15:45:56 +0000 2015,Follow one of our @gsoc student @sh19910711 on his journey of developing the web-console browser extensions: http://t.co/SOP2Y56oLm
+602901120101425200,Mon May 25 18:16:43 +0000 2015,Also, thank you @pat_shaughnessy and @nostarch for giving a copy of "Ruby Under a Microscope" to our @gsoc students! http://t.co/wHS5SBNU5N
+602900951922389000,Mon May 25 18:16:02 +0000 2015,The Google Summer of Code coding period begins today! Meet our students and check out their projects here: http://t.co/TDPUuHDmZ8
+601643867864211500,Fri May 22 07:00:50 +0000 2015,RT @teabass: Early days, but it looks like the switch to turbolinks on @librariesio has dropped the bounce rate by 25% and increased pagevi…
+599592749881491500,Sat May 16 15:10:26 +0000 2015,RT @Sherlok_it: Learning a lot about @rails from @pixeltrix  at @railsgirls_ldn http://t.co/orKF0ouxs3
+594437996369334300,Sat May 02 09:47:17 +0000 2015,@AncyPhilip https://t.co/rQEsTV0NUj - unfortunately it’s closed now for 2015 so you’ll have to look to apply around mid-February 2016
+594318785701548000,Sat May 02 01:53:35 +0000 2015,Meet our Google Summer of Code students and mentors! http://t.co/TDPUuHDmZ8
+590972985957310500,Wed Apr 22 20:18:34 +0000 2015,RT @chancancode: oh hai, Rails core team etc are at @heroku booth for community office hours 🙋 #railsconf
+590509303116779500,Tue Apr 21 13:36:03 +0000 2015,RT @andredelrio: About to see @rails' creator @dhh speak! Is this really happening? #railsconf http://t.co/iR3lm0zYow
+588829652623478800,Thu Apr 16 22:21:43 +0000 2015,A bunch of member of the @rails team will attend @railsconf next week. Don't be shy and come to meet us.
+588828848810254300,Thu Apr 16 22:18:32 +0000 2015,If you like to know how to start contributing to @rails don't miss @eileencodes's lab at @railsconf next week http://t.co/Dcc93bS6Ze
+588599401184034800,Thu Apr 16 07:06:47 +0000 2015,@kjsthree this is how CGI works: https://t.co/80FmrtQrvD - we’re just following the spec. All other web frameworks are the same.
+584631780961030100,Sun Apr 05 08:20:53 +0000 2015,@allenwlee actually that’s not true for development mode - routes.rb should be reloaded automatically after any changes
+582781236252438500,Tue Mar 31 05:47:28 +0000 2015,RT @fxn: Rails Contributors shows now when people got started, and BTW congrats to @eileencodes on her 1st anniversary :) http://t.co/jifS9…
+578990866431221800,Fri Mar 20 18:45:54 +0000 2015,In case you missed it, our Google Summer of Code application is live! There's only 7 days left, so you better hurry! https://t.co/FUjxkfStR2
+578603040351129600,Thu Mar 19 17:04:49 +0000 2015,[ANN] Rails 4.2.1 and 4.1.10 have been released! Finally!! http://t.co/mQPr9wU42e
+576561581158355000,Sat Mar 14 01:52:47 +0000 2015,RT @chancancode: If your company could afford it, perhaps consider becoming a @RailsGirlsSoC sponsor! http://t.co/0LG9Y5qdmc
+576561332272508900,Sat Mar 14 01:51:48 +0000 2015,RT @chancancode: Speaking of that, @RailsGirlsSoC just opened their applications today, too! http://t.co/RKG7EnfrLn
+576561305852641300,Sat Mar 14 01:51:41 +0000 2015,RT @chancancode: We just stocked the #rails GSoC ideas page with some exciting new projects!!! https://t.co/mfOd3WSl7I (Student application…
+576137131749449700,Thu Mar 12 21:46:10 +0000 2015,[ANN] Rails 4.2.1.rc4 and 4.1.10.rc4 have been released! Please try them and report possible regressions. http://t.co/9CZS7jQR1R
+573910061023674400,Fri Mar 06 18:16:35 +0000 2015,RT @dhh: I appeared on @TheChangelog for close to two hours to talk about 10+ years of Rails, http://t.co/sUTVaPZUki – culture, code, organ…
+573904073071570940,Fri Mar 06 17:52:48 +0000 2015,Rails has been accepted into GSoC 2015, student application will open soon. Know a student? Help spread the word! http://t.co/8LjNAK8tyA
+573140513332863000,Wed Mar 04 15:18:41 +0000 2015,@jamesjelinek @excid3 thanks!
+573138831714742300,Wed Mar 04 15:12:00 +0000 2015,@jamesjelinek @excid3 please don’t file github issues for security issues - please read: http://t.co/Vif2LWwEmH
+572513521688322050,Mon Mar 02 21:47:15 +0000 2015,[ANN] Rails 4.2.1.rc3 and 4.1.10.rc3 have been released! Please try them and report possible regressions. http://t.co/2PfaIggbdg
+570715684910592000,Wed Feb 25 22:43:17 +0000 2015,[ANN] Rails 4.2.1.rc2 and 4.1.10.rc2 have been released! Please try them and report possible regressions. http://t.co/J4P5tB2MFf
+570714059819122700,Wed Feb 25 22:36:49 +0000 2015,Please welcome our newest Rails Committer @schneems!
+569959830015893500,Mon Feb 23 20:39:47 +0000 2015,RT @iainbeeston: Holy crap. @rails has 409 open pull requests, and still I don’t think I’ve ever raised one and not had it reviewed within …
+569916330461270000,Mon Feb 23 17:46:56 +0000 2015,RT @rafaelfranca: Just a reminder that Ruby 1.9.3 reached its end of life https://t.co/iIefVUMWJL
+568899819042967550,Fri Feb 20 22:27:41 +0000 2015,[ANN] Rails 4.2.1.rc1 and 4.1.10.rc1 have been released! Please try them and report possible regressions. http://t.co/qUBHuCN83j
+568824538223550460,Fri Feb 20 17:28:32 +0000 2015,RT @dhh: More than 3800 people have contributed code to the core Rails framework: http://t.co/0OLmA8VZVM. And many, many more gems/docs/etc.
+568824510641786900,Fri Feb 20 17:28:26 +0000 2015,RT @dhh: Staggering collaborative effort on Rails. Almost 12,000 pull requests processed. Just 419 still open. Incredible. https://t.co/qVf…
+566733392725549060,Sat Feb 14 22:59:04 +0000 2015,RT @chancancode: Looking for "find solutions to this concrete problem"/"refactor this internal thing" type projects; not so much "dream up …
+566733381392547840,Sat Feb 14 22:59:02 +0000 2015,RT @chancancode: #rails contributors/developers: any suggestions for Google summer of code project ideas?
+565420709661642750,Wed Feb 11 08:02:56 +0000 2015,@hoshomoh it’s cool, just having some early morning fun - use whatever’s best for your project
+565415891916320800,Wed Feb 11 07:43:48 +0000 2015,@hoshomoh you could just use @rails and then you wouldn’t have to imagine it ;-)
+562639967982063600,Tue Feb 03 15:53:16 +0000 2015,Are you subscribed to This Week in Rails? If not, get on it: https://t.co/HHhBenU6Ro – that site also has the full archive.
+562300100169728000,Mon Feb 02 17:22:45 +0000 2015,Please welcome our newest Rails Committer @eileencodes
+562299952047857660,Mon Feb 02 17:22:10 +0000 2015,RT @tenderlove: ( ͡° ͜ʖ ͡°) .oO( I just added @eileencodes as a Rails committer. )
+561348947675852800,Sat Jan 31 02:23:13 +0000 2015,What an exciting week for Rails: Relation#or, file fixtures, controller tests kwarg APIs just landed on master! https://t.co/3pjCxuy7w4
+561248081069740000,Fri Jan 30 19:42:24 +0000 2015,@jeatonsolutions at the download pages you find a list of recommended editors http://t.co/2RVShHax4j
+561243540148482050,Fri Jan 30 19:24:22 +0000 2015,@viewflexdev we don't know any vagrant box but you can use our guides to learn http://t.co/znw9GiYWSA
+561240742199586800,Fri Jan 30 19:13:14 +0000 2015,Please welcome our newest Rails Committer @arthurnn
+558435307818070000,Fri Jan 23 01:25:27 +0000 2015,@fabcarrega &lt;3
+558434629909508100,Fri Jan 23 01:22:45 +0000 2015,@frankdaza2 &lt;3
+558171623694819300,Thu Jan 22 07:57:40 +0000 2015,@enriquegonzalez because http://t.co/rMN1qxPYtD is not TZ aware and Date.yesterday is: https://t.co/1CbXJrbcH1
+557331479055695900,Tue Jan 20 00:19:13 +0000 2015,RT @railsconf: We also have a new location page, complete with a link to book your discounted RailsConf 2015 room ($169/night): http://t.co…
+557331435980222460,Tue Jan 20 00:19:03 +0000 2015,RT @railsconf: Today's the day! We've just opened registration for RailsConf 2015, so go here for more info and to grab your ticket: http:/…
+557074721280651260,Mon Jan 19 07:18:58 +0000 2015,@dpehrson @middlemanapp maybe it’s a beautiful monster :-)
+556220812965867500,Fri Jan 16 22:45:50 +0000 2015,This week in Rails: tokens migrations, method_source and more http://t.co/wQX4LPMPkJ
+555594112477720600,Thu Jan 15 05:15:33 +0000 2015,@jonathanhculver @NYUSPS glad to hear that!!!
+555593780993474560,Thu Jan 15 05:14:14 +0000 2015,@esbanarango @embercli fast and simple?
+553752415200366600,Sat Jan 10 03:17:18 +0000 2015,@gazmcghee @emberjs we are working on it !!!
+553736944270991360,Sat Jan 10 02:15:50 +0000 2015,The wait is over, This week in Rails is back, this time on the Riding Rails blog! http://t.co/DxL4sE0XLq
+553282729023135740,Thu Jan 08 20:10:56 +0000 2015,RT @dhh: Congratulations to @shopify for deploying on Rails 4.1. Same app has been on Rails since 2005. 10 yrs later they're an ecommerce p…
+552560000355545100,Tue Jan 06 20:19:04 +0000 2015,[ANN] Rails 4.1.9 and 4.0.13 have been released! http://t.co/bt3jKjufOg
+552311524174626800,Tue Jan 06 03:51:43 +0000 2015,@lourencokf have good dreams!
+552163364043243500,Mon Jan 05 18:02:59 +0000 2015,Also Rails 4.0.13 will be the last release of the 4.0 series, so make sure your application is working on it. http://t.co/7UgSyLOIRs
+552162932709425150,Mon Jan 05 18:01:16 +0000 2015,Remembering that Rails 4.1.9 and 4.0.13 will be released tomorrow. Have you already tested the release candidates? http://t.co/7UgSyLOIRs
+550823709540626400,Fri Jan 02 01:19:40 +0000 2015,[ANN] Rails 4.1.9.rc1 and 4.0.13.rc1 have been released! Final release planned to January, 6. http://t.co/7UgSyLOIRs
+549057635778301950,Sun Dec 28 04:21:56 +0000 2014,We sorry to hear of @jamesgolick’s passing. He will be missed so much by the Ruby community.
+548814044204109800,Sat Dec 27 12:13:59 +0000 2014,RT @sgrif: Library authors who depend on Arel: https://t.co/MjHiCouNOx will greatly affect you. Please contact me if we need APIs to help y…
+546103389005053950,Sat Dec 20 00:42:48 +0000 2014,Are you signed up for the This Week in Rails newsletter yet? No?! PLEASE REMEDY: http://t.co/YP3LNigzcp — last issue: http://t.co/BX1Ba05k3S
+546097511031525400,Sat Dec 20 00:19:27 +0000 2014,Merry Christmas! The Rails team has officially released ~~Christmas~~ the final version of Rails 4.2.0 today! http://t.co/omLmmVNAAz
+546086635591311360,Fri Dec 19 23:36:14 +0000 2014,2014 has seen 708 contributors get their patches accepted into Rails: http://t.co/18k1hh0vd7 — what a spectacular community effort!
+543611920364761100,Sat Dec 13 03:42:36 +0000 2014,Rails 4.2.0 RC3 has been released! http://t.co/utTRj5IoKg
+541011743309189100,Fri Dec 05 23:30:25 +0000 2014,Rails 4.2.0.rc2 has been released! http://t.co/JHxEKttVUu
+540869485448949760,Fri Dec 05 14:05:08 +0000 2014,@ayb Works here?
+540853715167891460,Fri Dec 05 13:02:28 +0000 2014,Memorial fund for Ezra Zygmuntowicz's son Ryland. If you want to honor Ezra's work, please consider contributing, https://t.co/ZAbW0yfm62
+539460857332502500,Mon Dec 01 16:47:45 +0000 2014,We pay our last respects to @ezmobius, who did so much for the Ruby and Rails community. Saddened by your passing.
+538484541703200800,Sat Nov 29 00:08:13 +0000 2014,Rails 4.2.0 RC1 has been released to the world! http://t.co/GpT4wC9Tkj
+535153362518683650,Wed Nov 19 19:31:18 +0000 2014,Rails 4.0.11.1 and 4.1.7.1 have been released http://t.co/lxitSzK4yL
+534379608125104100,Mon Nov 17 16:16:41 +0000 2014,[ANN] Rails 3.2.12, 4.0.12, and 4.1.8 have been released! It’s a security release, so check it out! http://t.co/YZg3gu5Zd0
+528261428428693500,Fri Oct 31 19:05:13 +0000 2014,@SamyOteroGlez welcome! Hope you enjoy the framework
+527965803166314500,Thu Oct 30 23:30:31 +0000 2014,Rails 4.2.0.beta4 has been released! http://t.co/O42ds6wVww
+527898212326076400,Thu Oct 30 19:01:56 +0000 2014,Rails 3.2.20, 4.0.11, 4.1.7, and 4.2.0.beta3 have been released! This contains a security fix so please update! http://t.co/Jow6HQaUgk
+527473091107364860,Wed Oct 29 14:52:39 +0000 2014,@ryanbigg @apotonick —skip-gems was removed a few days ago: https://t.co/Hm8sNxKmuF due to problems with gems in groups
+527472762013888500,Wed Oct 29 14:51:21 +0000 2014,@khalleth @apotonick there will be a —skip-turbolinks option in Rails 4.2
+526094981644038140,Sat Oct 25 19:36:32 +0000 2014,Please welcome our newest Rails Committer @sgrif!
+522418871178125300,Wed Oct 15 16:08:59 +0000 2014,@piagomezq de pronto somos #antiwindowseros :D
+521108614124437500,Sun Oct 12 01:22:29 +0000 2014,@arielle_van remember that @rails loves you also :P
+520349260433592300,Thu Oct 09 23:05:05 +0000 2014,@mcculloughsean http://t.co/K1UlWtdIz3
+519253064638029800,Mon Oct 06 22:29:12 +0000 2014,@edooan I miss you too
+519173657562984450,Mon Oct 06 17:13:40 +0000 2014,RT @guilleiguaran: The ladies @PaoMarGarcia and @Melipaots have finished their @RailsGirlsSoC and now are looking for a dev position. Ping …
+519173616840507400,Mon Oct 06 17:13:30 +0000 2014,RT @GirlsARIA: We’re looking for internship/entry-level jobs as Rails dev, ping to @PaoMarGarcia and @Melipaots . Please RT. /cc @RailsGirl…
+516660176405790700,Mon Sep 29 18:45:59 +0000 2014,Rails 4.2.0.beta2 has been released! Check it out! ( ͡° ͜ʖ ͡°) http://t.co/1Hkgt4Wkv6
+510500420935245800,Fri Sep 12 18:49:19 +0000 2014,Rails 4.1.6 and 4.0.10 have been released! http://t.co/hj0uAFbuhj
+509046639441752060,Mon Sep 08 18:32:31 +0000 2014,[ANN] Rails 4.1.6.rc2 and 4.0.10.rc2 have been released! If no regressions are found expect the final to September 11 http://t.co/76ohbInITV
+507603384312946700,Thu Sep 04 18:57:32 +0000 2014,RT @dhh: "Can you imagine?", http://t.co/9qEiekjhat — On the virtues of monkey patching from the "Why Ruby?" talk I gave a few years back.
+507389488327557100,Thu Sep 04 04:47:35 +0000 2014,RT @wycats: "My core philosophy about open source is that we should all be working on the things that we personally use and care about." - …
+507389394857492500,Thu Sep 04 04:47:13 +0000 2014,@wycats THANK YOU YEHUDA!!!
+507358494933393400,Thu Sep 04 02:44:26 +0000 2014,RT @wycats: On the occasion of my Rails Core retirement, this post by @dhh re the Merb merge is spot on about OSS: http://t.co/WFgvCWxLqm
+507222883765334000,Wed Sep 03 17:45:33 +0000 2014,RT @dhh: Please welcome @yves_senn and @chancancode to Rails core, and thank @wycats on his way to alumni, http://t.co/ZNH51e8cFK
+505186335402246140,Fri Aug 29 02:53:02 +0000 2014,@mykhaelpierce love my experience with @mykhaelpierce so far &lt;3
+505183370515861500,Fri Aug 29 02:41:16 +0000 2014,RT @dhh: 3rd edition of @mhartl's much celebrated The Ruby on Rails Tutorial is in out in draft: http://t.co/LhCMhuNEcR — looks like a grea…
+504524300482002940,Wed Aug 27 07:02:21 +0000 2014,@jonathansimmons fixed - thanks for letting us know
+504482482839113700,Wed Aug 27 04:16:11 +0000 2014,@jonathansimmons thanks, i'll update it
+504482357718827000,Wed Aug 27 04:15:41 +0000 2014,@YonathanSeleshi rails? &lt;3
+504481879576543200,Wed Aug 27 04:13:47 +0000 2014,@Leydisli #yes
+504370181268074500,Tue Aug 26 20:49:56 +0000 2014,@GirlsARIA @RailsGirlsSoC @railsgirls &lt;3
+504044440156389400,Mon Aug 25 23:15:33 +0000 2014,RT @wycats: Ruby anti pattern of the day: Using nil to represent abnormal result from a computation. Use a symbol instead
+503283589484916740,Sat Aug 23 20:52:12 +0000 2014,@apotonick &lt;3 :D
+502916621053485060,Fri Aug 22 20:34:00 +0000 2014,We found regressions on 4.0.10 and 4.1.6. The release will be delayed.
+502149986168356860,Wed Aug 20 17:47:40 +0000 2014,RT @dhh: Initial commit of Rails to subversion (switching from CVS!) has been preserved: https://t.co/zMxO0dXkdX - framework was ~1.5yr old…
+502149974902468600,Wed Aug 20 17:47:38 +0000 2014,RT @dhh: 3601 people have contributed 46,544 commits to Rails since we started tracking in late 2004: http://t.co/4LDpA0YBIG
+502149962155970560,Wed Aug 20 17:47:35 +0000 2014,RT @dhh: Open source is a special kind of magic. 480 different people contributed code just to this last 4.2 release. Amazing: http://t.co/…
+502122046990848000,Wed Aug 20 15:56:39 +0000 2014,RT @dhh: ICYMI: Rails 5.0 will target Ruby 2.2 and be released next spring/summer, http://t.co/rymNjwN7zL — Ruby on Rails moves forward tog…
+501923347224350700,Wed Aug 20 02:47:05 +0000 2014,RT @dhh: Rails 4.2.0 Beta1: Active Job, Deliver Later, Adequate Record, Web Console, http://t.co/rymNjwN7zL — awesome new release!
+501839996668502000,Tue Aug 19 21:15:53 +0000 2014,[ANN] Rails 4.1.6.rc1 and 4.0.10.rc1 have been released! Please give a try. http://t.co/ZR8kaU662I
+501418941370351600,Mon Aug 18 17:22:46 +0000 2014,[Sec ANN] Rails 4.0.9 and 4.1.5 have been released! Upgrade as soon is possible http://t.co/RC7vN4sFOG
+484471868288954400,Wed Jul 02 23:01:09 +0000 2014,@IdahoEv you can find this information here http://t.co/FVMvxcm8Ki
+484425505912148000,Wed Jul 02 19:56:55 +0000 2014,[ANN] Rails 4.0.8 and 4.1.4 have been released to fix regressions introduced in the latest security release. http://t.co/EIAwET6fBE
+484419072718024700,Wed Jul 02 19:31:21 +0000 2014,@sockmonk 3.2.x only gets severe security updates as explained in our maintenance policy http://t.co/FVMvxcm8Ki
+484385280435449860,Wed Jul 02 17:17:04 +0000 2014,[Sec ANN] Rails 3.2.19, 4.0.7 and 4.1.3 have been released! Upgrade as soon is possible http://t.co/4tJhjlaU1e
+482207893627076600,Thu Jun 26 17:04:55 +0000 2014,Rails 4.1.2 and Rails 4.0.6 are finally out! Enjoy http://t.co/28TVcqyaGz
+481128600725643260,Mon Jun 23 17:36:12 +0000 2014,[ANN] Rails 4.1.2.rc3 and 4.0.6.rc3 have been released! http://t.co/8wMcej5bW2
+478586412460433400,Mon Jun 16 17:14:27 +0000 2014,Rails 4.1.2.rc2 and 4.0.6.rc2 released! If no regressions are found expect the final release to Jun, 19 http://t.co/DAWTKvqqqT
+475034762307199000,Fri Jun 06 22:01:27 +0000 2014,@joseluis_torres thanks!!
+474823796814532600,Fri Jun 06 08:03:09 +0000 2014,@LynnMagic we're clear
+474773119945941000,Fri Jun 06 04:41:47 +0000 2014,@alexanmtz &lt;3
+474765780962521100,Fri Jun 06 04:12:37 +0000 2014,@panasosa We are working in a version of the Rails Guides and docs for ebook readers, we will post some details about it on the blog soon!!.
+472643649826992100,Sat May 31 07:40:02 +0000 2014,@CodificadasMx @railsbridge buena suerte!!!
+472643549708951550,Sat May 31 07:39:38 +0000 2014,@vhuertahnz @CodificadasMx @railsbridge no se :(
+472643143524167700,Sat May 31 07:38:01 +0000 2014,@myrridin &lt;3
+472643053665390600,Sat May 31 07:37:39 +0000 2014,@Egan___ &lt;3
+472642994324406300,Sat May 31 07:37:25 +0000 2014,@apotonick thanks &lt;3
+472642941207707650,Sat May 31 07:37:13 +0000 2014,RT @apotonick: Big thanks to @railscore for Rails 4.x, the overall performance + startup times are fantastic! ❤
+471325351562719200,Tue May 27 16:21:35 +0000 2014,Rails 4.1.2.rc1 and 4.0.6.rc1 have been released! Please help us to find regressions by giving them a try. http://t.co/sk80zVQWya
+471024811020660740,Mon May 26 20:27:20 +0000 2014,@Ujjwal_Thaakar @michaelrkn glad to read that!!!
+470790283563921400,Mon May 26 04:55:25 +0000 2014,@sarcosahad lol, no
+470230090488770560,Sat May 24 15:49:24 +0000 2014,You should also check out @RailsGirlsSoC initiative, where another awesome teams will be working some impressive projects in our ecosystem.
+470229505295257600,Sat May 24 15:47:05 +0000 2014,Meet our Google Summer of Code students and mentors! http://t.co/ebqPL5vNkk
+469574280247009300,Thu May 22 20:23:27 +0000 2014,@djcesar @BogotaRuby y para cuando RubyConf Colombia? /cc @RubyMedellin @dafevara #Calirb #Medellinrb #Bogotarb
+467390219088826400,Fri May 16 19:44:46 +0000 2014,@harisb2012 hello Haris
+467333217222393860,Fri May 16 15:58:16 +0000 2014,RT @RailsGirlsSoC: SOOO CLOSE:  We only need 3k to fund all 10 teams for #rgsoc 2014. Let's Do It!!  http://t.co/E99va9EYVH http://t.co/huV…
+467098452699381760,Fri May 16 00:25:24 +0000 2014,Eight @RailsGirlsSoC teams have been funded so far, help us funding the last two teams!! http://t.co/RRurbBDoBx
+467096788315672600,Fri May 16 00:18:47 +0000 2014,@ailj1989 ruby ;)
+467095913882988540,Fri May 16 00:15:18 +0000 2014,@justinlicata thanks ;)
+467095747557851140,Fri May 16 00:14:39 +0000 2014,@netguru @ryanleesipes thanks!!!!
+465924514111815700,Mon May 12 18:40:35 +0000 2014,@soyunrandom gem install rails -v 4.1.1 ? :P
+465923610650374140,Mon May 12 18:36:59 +0000 2014,@RVirgie Ruby on Rails ;)
+464424342043238400,Thu May 08 15:19:26 +0000 2014,RT @RailsGirlsSoC: THEY ARE HERE! Meet the first 7 teams of Rails Girls Summer of Code 2014!   http://t.co/8lfhGv3SJa
+463716929187110900,Tue May 06 16:28:26 +0000 2014,[Sec ANN] Rails 3.2.18, 4.0.5 and 4.1.1 have been released! http://t.co/9HFq3TVSoA
+463683723146571800,Tue May 06 14:16:29 +0000 2014,RT @RailsGirlsSoC: We’ve got 100 applications but only 7 teams funded so far. Thank glob, there is givie.io now: http://t.co/O7VTOROIHw
+463376315094425600,Mon May 05 17:54:57 +0000 2014,RT @rails_apps: my personal appeal to support Rails Girls Summer of Code @RailsGirlsSoC http://t.co/NnOOhhiLDd
+463319643986595840,Mon May 05 14:09:45 +0000 2014,RT @tenderlove: Have you donated to rails girls summer of code yet? If not, you should! 💘💙💜💗💚❤💓💛💚💗  http://t.co/jMqsJopbtF
+462257921687322600,Fri May 02 15:50:51 +0000 2014,@jennlv17 bienvenida a Rails!!!
+462249784519458800,Fri May 02 15:18:31 +0000 2014,@jennlv17 no es brujería, es inteligencia artificial ;)
+462249327373860860,Fri May 02 15:16:42 +0000 2014,@cupakromer ping to @pixeltrix!!
+462248968723107840,Fri May 02 15:15:16 +0000 2014,RT @railsgirls: Almost there! It’s the FINAL SPURT for our Summer of Code! Help fund the last teams:  http://t.co/j392CmdE4w / #rgsoc http:…
+462248968723107840,Fri May 02 15:15:16 +0000 2014,RT @railsgirls: Almost there! It’s the FINAL SPURT for our Summer of Code! Help fund the last teams:  http://t.co/j392CmdE4w / #rgsoc http:…
+461300707019481100,Wed Apr 30 00:27:13 +0000 2014,RT @RailsGirlsSoC: FINAL SPURT: Help us fund the last #rgsoc teams this week:  http://t.co/9HA1OXJGja #communitypower http://t.co/7GyGxeajfM
+459714567258796000,Fri Apr 25 15:24:28 +0000 2014,@josevalim Congrats José!!!
+459388498982621200,Thu Apr 24 17:48:47 +0000 2014,RT @dhh: Congratulations to all the Ruby hero award winners for this year: @kytrinyx, @deadprogram, @rafaelfranca, @sferik, @tom_enebo, @dr…
+459388257248108540,Thu Apr 24 17:47:50 +0000 2014,Congrats to our new Ruby Hero @rafaelfranca and all the Ruby hero award winners!!
+459387284941725700,Thu Apr 24 17:43:58 +0000 2014,RT @cantoniodasilva: Awesome team of @rails contributors "@fxn: http://t.co/on0vQaGlMK"
+458709731930951700,Tue Apr 22 20:51:37 +0000 2014,Ping to @rails core members at #railsconf: @dhh @bitsweat @wycats @spastorino @tenderlove @fxn @rafaelfranca @guilleiguaran @cantoniodasilva
+458698727201325060,Tue Apr 22 20:07:53 +0000 2014,RT @chadfowler: Free hug from @konstantinhaase for any @railsconf speaker that puts this link in a slide http://t.co/UzQqTCZnwn
+458684074547499000,Tue Apr 22 19:09:39 +0000 2014,RT @chadfowler: Hey #railsconf, please spread the word that @RailsGirlsSoC is still looking for sponsors! http://t.co/UzQqTCZnwn &lt;3
+457760239753109500,Sun Apr 20 05:58:40 +0000 2014,RT @railsconf: For those who can't attend RailsConf, we'll be livestreaming the keynotes here: http://t.co/R0xT9bsUuZ Schedule here: http:/…
+457759916611358700,Sun Apr 20 05:57:23 +0000 2014,@agoodno @railsguide thanks to all our awesome docs contributors!!!
+456647944460980200,Thu Apr 17 04:18:48 +0000 2014,RT @pixeltrix: This looks like a really cool way of keeping an eye on what your Rails app is doing: https://t.co/xDLGSfknMp  (via @holman)
+455545697971236860,Mon Apr 14 03:18:52 +0000 2014,@freddietw yo te recomiendo seguir con @rails ;)
+454639126630133760,Fri Apr 11 15:16:29 +0000 2014,@marcelmorgan @rafaelfranca thanks for your contributions &lt;3
+454637837343014900,Fri Apr 11 15:11:21 +0000 2014,@apotonick afaik we are using MiniTest
+453621089013215200,Tue Apr 08 19:51:10 +0000 2014,@calvinwl It's similar, but less configuration needed.
+453620996675624960,Tue Apr 08 19:50:48 +0000 2014,607 different contributors got commits into Rails 4.1.0: http://t.co/oO7MVevscT — awesome job, everyone!
+453616307234431000,Tue Apr 08 19:32:10 +0000 2014,RT @dhh: Rails 4.1.0: Spring, Variants, Enums, Mailer previews, secrets.yml, and so much more, http://t.co/VYc0bPuYV5 - awesome release!
+449891895142277100,Sat Mar 29 12:52:41 +0000 2014,Planet Aragon are conducting their yearly Rails Hosting Survey, http://t.co/7IOu2DrKJJ
+448555298320830460,Tue Mar 25 20:21:31 +0000 2014,Rails 4.1.0: Release candidate 2, http://t.co/TqCkJOT2kt — only a few weeks away from final! Try it while hot.
+445773720834285600,Tue Mar 18 04:08:31 +0000 2014,Applications for Rails Girls Summer of Code 2014 are open! http://t.co/eYJU9s6elE
+445772174159523840,Tue Mar 18 04:02:23 +0000 2014,@marzapower http://t.co/WIV3WfCCj6
+445771691999100900,Tue Mar 18 04:00:28 +0000 2014,@jmmcduffie soon http://t.co/WIV3WfCCj6
+444528942847119360,Fri Mar 14 17:42:13 +0000 2014,[ANN] Rails 4.0.4, Regression Not Found, has been released! http://t.co/vlwnhZYMZY
+443441678884831200,Tue Mar 11 17:41:49 +0000 2014,[ANN] Rails 4.0.4.rc1 has been released! If no regressions are found the final will be released Friday. http://t.co/5WQIQTJwyE
+442536386613485600,Sun Mar 09 05:44:31 +0000 2014,@LxoEduardo thanks!!! We love Agile Web Development with Rails: http://t.co/CQD2nJwMSd
+441979651242881000,Fri Mar 07 16:52:15 +0000 2014,@RubyOnCrack we love Action Pack Variants also &lt;3
+441979489657290750,Fri Mar 07 16:51:36 +0000 2014,@kailgriff glad to read that you're starting with Rails!!!
+441979108638347260,Fri Mar 07 16:50:05 +0000 2014,@fox_keegs &lt;3
+441978966556295200,Fri Mar 07 16:49:31 +0000 2014,@__Neha hahahaha :)
+441978051854094340,Fri Mar 07 16:45:53 +0000 2014,More details about participating in Google Summer of Code 2014: http://t.co/9xjNzjvRDS
+438045703177506800,Mon Feb 24 20:20:08 +0000 2014,RT @yukihiro_matz: link: The History of Ruby - https://t.co/m4JkdhwwGC
+438045612567986200,Mon Feb 24 20:19:47 +0000 2014,Rails has been accepted into Google Summer of Code!! Check our ideas page and feel free to contribute new ideas: https://t.co/y82rEzexR6
+436956496971431940,Fri Feb 21 20:12:01 +0000 2014,RT @dhh: So very sad to hear about the passing of Ruby legend Jim Weirich. He taught me and many others so much. He will be dearly missed.
+436244010546769900,Wed Feb 19 21:00:51 +0000 2014,RT @tenderlove: Blurrggghhh post about making ActiveRecord 2x faster. http://t.co/KTk9JmgXEE
+435881565558943740,Tue Feb 18 21:00:38 +0000 2014,Rails 4.1.0: Release candidate 1 is out in all its splendor and glory, http://t.co/QHDcFdEY07 - final version just weeks away?
+435858695394562050,Tue Feb 18 19:29:45 +0000 2014,Rails 3.2.17, 4.0.3 and 4.1.0.beta2 has been released with important security fixes. http://t.co/hJmmiLp6y2
+434919970527399940,Sun Feb 16 05:19:36 +0000 2014,@mdx_jsilver we love Linux also and some contributors use Linux as primary OS.
+434918492609867800,Sun Feb 16 05:13:43 +0000 2014,@3runoTweets hmm, sounds tempting...
+434917599030177800,Sun Feb 16 05:10:10 +0000 2014,@mofodox and you're awesome too!!
+434917440321904640,Sun Feb 16 05:09:32 +0000 2014,@DavidSonique welcome to the dark side, we have cookies!!!
+426216320032837600,Thu Jan 23 04:54:24 +0000 2014,@MorningCrane we don’t own that url, it’s just running an (unfinished) Rails application - use http://t.co/eH6Wc3JeOH to find the registrant
+413372932639821800,Wed Dec 18 18:19:21 +0000 2013,How to use the Rails 4.1 config/secrets.yml file together with ENV variables: https://t.co/NuIE9mMAOV
+413104383128129540,Wed Dec 18 00:32:14 +0000 2013,RT @dhh: First beta of Rails 4.1.0 is out with tons of awesome new features: http://t.co/JTJNI6M3Gn. Basecamp is already using it in produc…
+413036489535008800,Tue Dec 17 20:02:27 +0000 2013,RT @bitsweat: Please join me in welcoming @chancancode as the newest Rails committer. Chan can code, indeed! http://t.co/GGn9ERHuqe
+408312407678025700,Wed Dec 04 19:10:38 +0000 2013,RT @bitsweat: One weird trick to split up monolithic Ruby classes, discovered by stay-at-home programmer https://t.co/mw3G64KywL
+407953134275657700,Tue Dec 03 19:23:01 +0000 2013,Rails 3.2.16 and 4.0.2 have been released! These are security releases, so please upgrade! http://t.co/kLRT8RGTxt
+407651054294028300,Mon Dec 02 23:22:39 +0000 2013,RT @dhh: First ingredient to Russian Doll caching: Move local times to JavaScript. @javan has open sourced our Local Time, http://t.co/ICwF…
+402941898341363700,Tue Nov 19 23:30:09 +0000 2013,RT @jonleighton: I've finally decided spring is good enough to be called 1.0. It's taken a long time to get here! https://t.co/TgKDy1zAmq
+402937075164389400,Tue Nov 19 23:10:59 +0000 2013,RT @dhh: Basecamp is now running rails/master in production. Rails 4.1.0.beta1 shouldn't be too far off.
+397500872764035100,Mon Nov 04 23:09:28 +0000 2013,RT @samsaffron: We are now shipping with Rails 4 as the default for @discourse https://t.co/UjAp5TRRiS
+396358548168265700,Fri Nov 01 19:30:16 +0000 2013,Rails 4.0.1 has been released! http://t.co/Sq59c8bJ8D
+396213500647067650,Fri Nov 01 09:53:54 +0000 2013,@tweet4ESTtweet have you considered: https://t.co/1uiJdA3rdg ?
+395654874680946700,Wed Oct 30 20:54:07 +0000 2013,[ANN] Rails 4.0.1.rc4 has been released! https://t.co/dMlfLqVZtE
+393132854843961340,Wed Oct 23 21:52:31 +0000 2013,[ANN] Rails 4.0.1.rc3 has been released! https://t.co/0MVsdXgvBi
+392410664011960300,Mon Oct 21 22:02:47 +0000 2013,[ANN] Rails 4.0.1.rc2 has been released! https://t.co/pvNZlJHe4H
+390884337442234400,Thu Oct 17 16:57:42 +0000 2013,Rails 4.0.1.rc1 has been released! Please give a try http://t.co/rqSDEcFKyF
+390532231871365100,Wed Oct 16 17:38:34 +0000 2013,Rails 3.2.15 has been released! Please check out this blog post for more details. http://t.co/jgfU65u9l2
+388779018008281100,Fri Oct 11 21:31:55 +0000 2013,Rails 3.2.15.rc3 is out! Please give it a try! http://t.co/KElTlFbEYR
+386234289236373500,Fri Oct 04 21:00:05 +0000 2013,Rails 3.2.15.rc2 has been released! Please give it a try! http://t.co/uVj0hFwR4w
+385842304126177300,Thu Oct 03 19:02:28 +0000 2013,Rails 3.2.15.rc1 has been released! Please try the release candidate before the final version.
+380744194341363700,Thu Sep 19 17:24:24 +0000 2013,RT @devnulled: The Rails Girls presentation at @strangeloop_stl is awesome for a lot of reasons.  Thanks for giving them a voice.
+380691754057338900,Thu Sep 19 13:56:01 +0000 2013,At @strangeloop_stl? Don't miss "Rails Girls: Empowering women through code" by @RailsGirls students @Lau_Garcia and @Nanampp at 11:50.
+377826897419599900,Wed Sep 11 16:12:06 +0000 2013,Rails Israel 2013 is happening on October 9. Lots of great speakers lined up: http://t.co/k8WlxXcQ0E. Check it out!
+366620806064783360,Sun Aug 11 18:03:06 +0000 2013,Started planning for Rails 4.1. Is there any feature, fix, or gem integration you'd love to see happen?
+365114753233854460,Wed Aug 07 14:18:35 +0000 2013,WindyCityRails is happening September 12-13. Today is the last early-bird registration day for saving $100: http://t.co/kdqV4jXGVx
+362707080769441800,Wed Jul 31 22:51:21 +0000 2013,RT @threedaymonk: First Ruby 2/Rails 4 project. When did everything get so fast?
+359790529229242400,Tue Jul 23 21:42:01 +0000 2013,Rails 3.2.14 was released! Also we are announcing the sunset of 3.2.x for bug fixes http://t.co/WiKtOQ5Aiw
+357172059274608640,Tue Jul 16 16:17:09 +0000 2013,Rails 3.2.14.rc2 has been released. http://t.co/1UX0MvbpWD
+355848899103174660,Sat Jul 13 00:39:23 +0000 2013,Rails 3.2.14.rc1 has been released. Please try it and report back http://t.co/OIrXc5Lr8t
+351729441564659700,Mon Jul 01 15:50:08 +0000 2013,Rails Rumble 2013 is on for Oct 19-20: http://t.co/hikn2gxnbm
+349891147939848200,Wed Jun 26 14:05:25 +0000 2013,RT @nahi: Only few days left for you to prepare 1.8.7 sunset. Please move to 2.0.0.
+349536293325258750,Tue Jun 25 14:35:21 +0000 2013,RT @dhh: Rails 4.0.0: Final version released, http://t.co/N2ALEQu1GL -- still love this framework after 10 years of working on it!
+346718671017762800,Mon Jun 17 19:59:07 +0000 2013,Great to see Heroku move to Ruby 2.0 as the default for new applications: https://t.co/1McQEJDY0p
+346718468864872450,Mon Jun 17 19:58:19 +0000 2013,@mattly @robotdeathsquad @blowmage Also, we don't support Rails 0.5 -- even though it's only been 9 years.
+346718232071266300,Mon Jun 17 19:57:22 +0000 2013,@scotty82 They're shipping 2.0 with 10.9.
+346674093128556540,Mon Jun 17 17:01:59 +0000 2013,@Frankiezzy Scheduled for June 25: http://t.co/0gRE3OdeNw
+346673440176078850,Mon Jun 17 16:59:23 +0000 2013,Celebrate the life of Rails 2.3 with the top song of 2009: http://t.co/pPO1b2IxqB (so 2000-and-late!)
+346672222745813000,Mon Jun 17 16:54:33 +0000 2013,It's been more than four glorious years since Rails 2.3 was released. Cheers for the good times: http://t.co/gAVpZeX953
+346671755223498750,Mon Jun 17 16:52:41 +0000 2013,Also note that Ruby 1.8.x is going to be end of life by the end of this month. Nobody is as of yet offering a support contract for that one.
+346671447839739900,Mon Jun 17 16:51:28 +0000 2013,The maintenance policy for Rails was updated earlier this year: http://t.co/OEcOLf7J5T
+346671286149337100,Mon Jun 17 16:50:50 +0000 2013,If you intend to stay on Rails 2 after Rails 4 has been released, you might want to get a support contract: http://t.co/FBG1y2w3PD
+346220701549727740,Sun Jun 16 11:00:22 +0000 2013,@nertzy do you have a link to the issue/pull request ?
+345589889124941800,Fri Jun 14 17:13:44 +0000 2013,We've closed over 10,000 issues on Github: https://t.co/e6NHEwXuAt
+345576618477109250,Fri Jun 14 16:21:01 +0000 2013,"docrails, back to the roots": http://t.co/QezKSmKpxY
+345163965208342500,Thu Jun 13 13:01:16 +0000 2013,RT @dhh: "Beyond the default Rails environments: How we use beta, staging, and rollout environments in Basecamp", http://t.co/SEliJErFQx
+344832413530206200,Wed Jun 12 15:03:48 +0000 2013,RT @dhh: Basecamp is running Rails 4.0.0.rc2 in production now.
+344553532260757500,Tue Jun 11 20:35:38 +0000 2013,Rails 4.0.0.rc2 has been released: http://t.co/0gRE3OdeNw. Target date for final set to June 25th, 2013.
+342254392675799040,Wed Jun 05 12:19:40 +0000 2013,Rails Girls Summer of Code is getting close to reaching their goal. Help them the rest of the way: http://t.co/Jw4jyjAdvh
+341618573518704640,Mon Jun 03 18:13:09 +0000 2013,We only have 6 known blockers left before Rails 4.0.0.rc2 can be shipped: https://t.co/x1QeyZOgWO. Final release in sight!
+341241653656440800,Sun Jun 02 17:15:24 +0000 2013,lifo/docrails is read-only now, we are going to transfer ownership to rails next week and write a post about it, please issue PRs meanwhile
+339110707628998660,Mon May 27 20:07:47 +0000 2013,2013 Rails Google Summer of Code Projects: http://t.co/Cujbqyte4N
+330029325090975740,Thu May 02 18:41:37 +0000 2013,Less than 24 hours to get your Google Summer of Code application in - deadline is May 3, 19:00 UTC: http://t.co/Auz0JVfTm9
+329713159868915700,Wed May 01 21:45:17 +0000 2013,Rails 4.0: Release Candidate 1 released - http://t.co/SQl7f3WSbN
+322001298843127800,Wed Apr 10 15:01:06 +0000 2013,More details about participating in Google Summer of Code 2013: http://t.co/Auz0JVfTm9
+321343424391421950,Mon Apr 08 19:26:57 +0000 2013,We’re happy to tell you that Ruby on Rails has been accepted into Google Summer of Code 2013! https://t.co/07yM2GwpYJ
+313709731787190300,Mon Mar 18 17:53:23 +0000 2013,[SEC] [ANN] Rails 3.2.13, 3.1.12, and 2.3.18 have been released!  Please check out the announcement! http://t.co/uqUpZ0CByf
+309754174831206400,Thu Mar 07 19:55:24 +0000 2013,Rails 3.2.13.rc2 has been released. Please try it before we release the final! http://t.co/0LBMlEg9ml
+309745124802445300,Thu Mar 07 19:19:27 +0000 2013,RT @dhh: Basecamp is running Ruby 2.0 and Rails 4.0.0.beta1 in production now. Jump in, the water is fine!
+306865606945284100,Wed Feb 27 20:37:16 +0000 2013,[ANN] Rails 3.2.13.rc1 has been released! http://t.co/HRXoDpDSHr
+306195373700042750,Tue Feb 26 00:14:00 +0000 2013,RT @dhh: Rails 4.0: Beta1 released -- http://t.co/oC5e3A7pyb. FINALLY!
+306035366937378800,Mon Feb 25 13:38:11 +0000 2013,In case you missed it, we've published a maintenance policy for Rails: http://t.co/tqNEspvvcO.
+304241112493735940,Wed Feb 20 14:48:28 +0000 2013,Spring is really shaping up as a great way to drastically speed-up test/console/rake boot times: https://t.co/vptL69JE. Check it out!
+301038004749869060,Mon Feb 11 18:40:28 +0000 2013,[SEC][ANN] Rails 3.2.12, 3.1.11, and 2.3.17 have been released! Please see the announcement here: http://t.co/FNozsVco
+296006014728294400,Mon Jan 28 21:25:08 +0000 2013,Weblog should be updated with the correct versions! Please update! http://t.co/FR07NWYQ
+296001808101412860,Mon Jan 28 21:08:25 +0000 2013,[SEC][ANN] Rails 3.0.20, and 2.3.16 have been released! Please upgrade IMMEDIATELY!! http://t.co/FR07NWYQ
+292266257082892300,Fri Jan 18 13:44:40 +0000 2013,@barttenbrinke Please post any bug reports to http://t.co/BiJ961AX -- thanks!
+289027869798195200,Wed Jan 09 15:16:28 +0000 2013,@manishbhandekar Yes
+288743490744094700,Tue Jan 08 20:26:27 +0000 2013,[SEC][ANN] Rails 3.2.11, 3.1.10, 3.0.19, and 2.3.15 released. Upgrade IMMEDIATELY. Details can be found here: http://t.co/8DNNXWOm
+288742950777810940,Tue Jan 08 20:24:18 +0000 2013,RT @bitsweat: If you run a Rails app, drop what you're doing and upgrade now: https://t.co/dg1EdDTt
+287839704878034940,Sun Jan 06 08:35:08 +0000 2013,@davidrhyswhite It was replaced with this approach: https://t.co/NJK78pex
+287839511109582850,Sun Jan 06 08:34:21 +0000 2013,RT @bitsweat: Please give a warm Rails welcome to our newest committer, @a_matsuda! http://t.co/BjwWZimr
+286587584812032000,Wed Jan 02 21:39:39 +0000 2013,Rails 3.2.10, 3.1.9, and 3.0.18 have been released. They contain an important security fix! Please upgrade! http://t.co/N9JwT1rZ
+284715397549281280,Fri Dec 28 17:40:15 +0000 2012,RT @dhh: Even more nostalgic magic. You can download the ORIGINAL VINTAGE release of Rails 0.5.0 from Rubyforge: http://t.co/2zNA9eSz. S ...
+284715378830090240,Fri Dec 28 17:40:10 +0000 2012,RT @dhh: Release history goes all the way back to 0.9.1 from 2004: http://t.co/8ttJJCj1. Trip down memory lane for commits. Awesome.
+284709405176512500,Fri Dec 28 17:16:26 +0000 2012,What Is New in Rails Contributors http://t.co/tnxWPc6b
+283905233296449540,Wed Dec 26 12:00:56 +0000 2012,We've added @pixeltrix, @guilleiguaran, and @cantoniodasilva to Rails core: http://t.co/iJYnU2d5 after years of great work. Welcome guys!
+281421546227105800,Wed Dec 19 15:31:39 +0000 2012,@robinkomiwes model.try(:relation).try(:property)
+281421303318188030,Wed Dec 19 15:30:41 +0000 2012,RT @dhh: In other Rails news: Queuing has been punted out of 4.0. Too many unanswered design questions. Upshot of that, beta1 is getting ...
+281065335891828740,Tue Dec 18 15:56:12 +0000 2012,RT @dhh: Put chubby models on a diet with concerns: http://t.co/ug1qHkKY
+277131968301367300,Fri Dec 07 19:26:24 +0000 2012,@magizh Yes.
+277121523649740800,Fri Dec 07 18:44:54 +0000 2012,Say goodbye to before_filter, hello to before_action: https://t.co/a5AXS0GR
+271307555878346750,Wed Nov 21 17:42:16 +0000 2012,The People Behind Rails 4 http://t.co/XLSqAtqo
+268462012886036480,Tue Nov 13 21:15:06 +0000 2012,RT @spastorino: Rails 4 compilation links: http://t.co/Iaj1NNgN I encourage everyone to give a look at the links and to start guides abo ...
+268012953150816260,Mon Nov 12 15:30:42 +0000 2012,Rails 3.2.9 has been released! http://t.co/81Xp3VIw
+268011569403809800,Mon Nov 12 15:25:12 +0000 2012,RT @spastorino: Rails 3.2.9 final version was released!!!. There is also an important consideration about security http://t.co/bGwqsP7U
+266964350949019650,Fri Nov 09 18:03:55 +0000 2012,Rails 3.2.9.rc3 was released http://t.co/nQz4r2Kg
+266964246582140930,Fri Nov 09 18:03:30 +0000 2012,RT @spastorino: We've just released Rails 3.2.9.rc3. Final version will be ready this Monday 12th if there are no blockers http://t.co/2 ...
+265561719772962800,Mon Nov 05 21:10:22 +0000 2012,RT @spastorino: Might have hit a last minute problem, so delaying 3.2.9 while we investigate
+264060667168956400,Thu Nov 01 17:45:43 +0000 2012,Rails 3.2.9.rc2 was released http://t.co/9qzyQg4I
+264060334434824200,Thu Nov 01 17:44:24 +0000 2012,RT @spastorino: We've just released Rails 3.2.9.rc2. Final version will be ready this Monday 5th if there are no blockers http://t.co/7t ...
+263001874121244670,Mon Oct 29 19:38:27 +0000 2012,RT @spastorino: I've posted the english version of my Rails 4 in 30 minutes slides http://t.co/G2NCQMFm Feel free to use everything ther ...
+262965757019844600,Mon Oct 29 17:14:56 +0000 2012,Rails 3.2.9.rc1 is out http://t.co/vPBVU674
+262965687994155000,Mon Oct 29 17:14:40 +0000 2012,RT @spastorino: We've just released Rails 3.2.9.rc1, final version will be ready this Thursday if there are no blockers http://t.co/ujbTbS63
+262855316314664960,Mon Oct 29 09:56:05 +0000 2012,@veader thanks, and welcome! http://t.co/Jgi8etCg
+261516146702966800,Thu Oct 25 17:14:42 +0000 2012,It's official: @rafaelfranca is the latest member of the Rails core team: http://t.co/2TLZEOxg. Congrats mate!
+256403572726587400,Thu Oct 11 14:39:10 +0000 2012,Good details on changes to the asset pipeline coming for Rails 4.0: http://t.co/31yOEP25
+255235207400153100,Mon Oct 08 09:16:30 +0000 2012,@pestbarn See this: http://t.co/1uzDcgA9
+253947084028399600,Thu Oct 04 19:57:57 +0000 2012,@PhilipJBasile When It's Ready. Hopefully that this year.
+253923335426166800,Thu Oct 04 18:23:35 +0000 2012,@mguterl @anatomyofashane Welcome to the world of progress!
+253916039283355650,Thu Oct 04 17:54:35 +0000 2012,Page and action caching will no longer be part of Rails 4.0 core, but are available as gems: https://t.co/XMF7iqrt &amp; https://t.co/bs9xtg6s
+253458051003199500,Wed Oct 03 11:34:43 +0000 2012,The British Ruby Conference is happening March 15/16, 2013 in Manchester, England: http://t.co/eVjFtXtv -- Lots of great Rails/Ruby talks!
+251048706596552700,Wed Sep 26 20:00:50 +0000 2012,RT @dhh: Introducing Turbolinks: http://t.co/dNNsSQjt. This will ship as default-on in Rails 4.0 Gemfile. PRESS TURBO BUTTON! http://t.c ...
+240906694262136830,Wed Aug 29 20:20:06 +0000 2012,RT @dhh: The cache_digests plugin is now part of rails/master: https://t.co/vMsx0MCh. Let a thousand Russian Dolls dance!
+236286177085370370,Fri Aug 17 02:19:49 +0000 2012,Rails Hosting Survey Results: http://t.co/xkP5ivUc. Great adoption of Rails 3.2 + Ruby 1.9.3!
+235521753416359940,Tue Aug 14 23:42:16 +0000 2012,contributing to Ruby on Rails is now easier than ever with the Rails development box https://t.co/9bNzi6Vn
+235500761990189060,Tue Aug 14 22:18:51 +0000 2012,RT @dhh: Wrapped up the initial release of cache_digests: http://t.co/NitLgrh0. The easy way to track versions in Russian Doll cache setups.
+235175818471555070,Tue Aug 14 00:47:39 +0000 2012,The routing_concerns gem functionality is now a part of rails/master: https://t.co/YxMXyWTv (thanks to @rafaelfranca!)
+233678899085705200,Thu Aug 09 21:39:25 +0000 2012,Rails 3.2.8, 3.1.8 and 3.0.17 have been released
+233678792051290100,Thu Aug 09 21:39:00 +0000 2012,RT @spastorino: I've just released Rails 3.2.8, 3.1.8 and 3.0.17. This version contains three important security fixes, please upgrade i ...
+231397385920716800,Fri Aug 03 14:33:30 +0000 2012,Rails 3.2.8.rc2 has been released http://t.co/lai6rMTr
+231397297827758080,Fri Aug 03 14:33:09 +0000 2012,RT @spastorino: Rails 3.2.8.rc2 has been released. http://t.co/jsEbw2sp Please let us know if your test suites are fine with this releas ...
+230770329453223940,Wed Aug 01 21:01:48 +0000 2012,Rails 3.2.8.rc1 has been released! http://t.co/wDAdrMVI
+230770246540214270,Wed Aug 01 21:01:28 +0000 2012,RT @spastorino: Rails 3.2.8.rc1 has been released! It has an important fix for RSpec users so upgrade http://t.co/Mmkac5gm
+230725527235862530,Wed Aug 01 18:03:47 +0000 2012,All this should mean that point releases truly become drop-in. Just bug and security fixes.
+230725393156542460,Wed Aug 01 18:03:15 +0000 2012,So next flood of deprecations (and there are plenty!) will happen in Rails 4.0.0 and those deprecations will be removed in 4.1.0.
+230725164298563600,Wed Aug 01 18:02:20 +0000 2012,We are preparing a 3.2.x release that'll remove all the deprecations that were introduced in 3.2 point releases.
+230724881900261380,Wed Aug 01 18:01:13 +0000 2012,We have decided to stop introducing API deprecations in all point releases going forward. From now on, it'll only happen in majors/minors.
+230083082970091520,Mon Jul 30 23:30:56 +0000 2012,@BeeEmmDoubleU awesome, thanks and welcome! http://t.co/5C7xJU8K
+230030189529284600,Mon Jul 30 20:00:45 +0000 2012,RT @tenderlove: Live Streaming in Rails 4.0 (new blllluuurrrggghhh post, also HAPPY MONDAY!) http://t.co/gM9UHGxl
+228620740159762430,Thu Jul 26 22:40:06 +0000 2012,Rails 3.2.7 has been released! Read about it here: http://t.co/CAwyyHI5
+228620647390146560,Thu Jul 26 22:39:44 +0000 2012,Good news everybody! Rails 3.2.7, 3.1.7, and 3.0.16 have been released! They all contain an important security fix, so please upgrade soon!
+227524459341443070,Mon Jul 23 22:03:52 +0000 2012,Rails 3.2.7 release candidate has been released! Please give it a try. &lt;3&lt;3 http://t.co/NC1MYEB5
+222324748783329280,Mon Jul 09 13:42:05 +0000 2012,@envygeeks Do Post.new(params.permit(x).merge(data: y)).
+222324596504924160,Mon Jul 09 13:41:29 +0000 2012,RT @jskirst: The @Rails 3.1 asset pipeline and @heroku Cedar stack ROCKS SOME SOCKS. http://t.co/D0p7U6op
+218492391756275700,Thu Jun 28 23:53:40 +0000 2012,RT @dhh: I just released a future Rails 4 feature candidate called Routing Concerns as a gem. Here's the git repo: https://t.co/WXdFhs60
+216210687775608830,Fri Jun 22 16:46:59 +0000 2012,Survey: How are you hosting your Rails app? - http://t.co/nYDEeCTi
+212661306984112130,Tue Jun 12 21:43:01 +0000 2012,Good news everyone! Rails 3.0.14 has been released. There are important security fixes, so please take a look. http://t.co/alvPvs2E
+212661180081258500,Tue Jun 12 21:42:31 +0000 2012,Good news everyone! Rails 3.1.6 has been released. There are important security fixes, so please take a look. http://t.co/3MpsjM8o
+212661096706883600,Tue Jun 12 21:42:11 +0000 2012,Good news everyone! Rails 3.2.6 has been released. There are important security fixes, so please take a look. http://t.co/rENavXfB
+208405099595300860,Fri Jun 01 03:50:22 +0000 2012,Good news everyone! Rails 3.2.5 has been released.  http://t.co/8bXFXl7o
+208269203730481150,Thu May 31 18:50:22 +0000 2012,Good news everyone! Rails 3.2.4, 3.1.5, and 3.0.13 have been released! http://t.co/FbYws18G http://t.co/DPP0WI2P http://t.co/DwIyLVQz
+207190748796420100,Mon May 28 19:24:58 +0000 2012,Good news everyone! Rails 3.x release candidates have been pushed! http://t.co/BIXkD47E
+204661370753527800,Mon May 21 19:54:07 +0000 2012,@avakarev welcome! http://t.co/ybQjrfl1
+203124765584658430,Thu May 17 14:08:12 +0000 2012,Three quick Rails console tips: http://t.co/4nuAAqfW
+199449200684044300,Mon May 07 10:42:49 +0000 2012,Create an app while riding the Chicago brown line train:  http://t.co/O61UEVqP
+197489577617915900,Wed May 02 00:55:59 +0000 2012,@rodrigopavano thanks, and welcome http://t.co/vdPS9WSx
+187584086884356100,Wed Apr 04 16:55:06 +0000 2012,RT @rbates: Finally a debugger for Ruby 1.9.3: https://t.co/4nAVrjQU
+185856371667894270,Fri Mar 30 22:29:46 +0000 2012,Rails 3.2.3 was released!!! http://t.co/gdfFqFsz
+185856096764825600,Fri Mar 30 22:28:41 +0000 2012,RT @spastorino: I've just released Rails 3.2.3 http://t.co/eo7bCkVo Thanks to everyone for making this possible!!!
+185741183320985600,Fri Mar 30 14:52:03 +0000 2012,RT @spastorino: If there are no more blockers, Rails 3.2.3 final will come out today. It will be equal to rc2 + https://t.co/vJTL7CeE
+185617148482297860,Fri Mar 30 06:39:11 +0000 2012,RT @glv: @wycats It's long past time I said this: When you first told me about bundler, I thought it was a bad idea. I WAS WRONG. Ignore ...
+185405955951964160,Thu Mar 29 16:39:59 +0000 2012,Rails 3.2.3.rc2 was released http://t.co/bOpGKh1h
+185399769580060670,Thu Mar 29 16:15:24 +0000 2012,RT @spastorino: I've just released Rails 3.2.3.rc2 http://t.co/Ep6yIc7J. Give it a try I will release the final version tomorrow!!!
+185114670686937100,Wed Mar 28 21:22:31 +0000 2012,RT @dhh: Finally got the API done for the new Basecamp: http://t.co/Zfv7YCNk -- lovingly crafted using jbuilder: https://t.co/2kj72glC
+185072161969549300,Wed Mar 28 18:33:36 +0000 2012,@Rackspace Sent!
+185063421518155780,Wed Mar 28 17:58:52 +0000 2012,@rackspace Would you guys be interested in sponsoring some slices for the Rails project? Need some for docs, tests, etc.
+184692595958611970,Tue Mar 27 17:25:20 +0000 2012,Rails 3.2.3.rc1 was released https://t.co/xUrsoRJ6
+184692511174959100,Tue Mar 27 17:25:00 +0000 2012,RT @spastorino: I've just released Rails 3.2.3.rc1 https://t.co/R6MgrTkC. Give it a try I will release the final version on March 30th
+184654668809502720,Tue Mar 27 14:54:38 +0000 2012,RT @dhh: (Latest bike shed moment: https://t.co/XVaBBhVS -- @fxn was so unfortunate to get tangled up in over the weekend.)
+184654643840815100,Tue Mar 27 14:54:32 +0000 2012,RT @dhh: Rookies in the bike shed: http://t.co/Je4d77DJ
+183273944369987600,Fri Mar 23 19:28:08 +0000 2012,RT @dhh: Just merged a bunch of pull requests for https://t.co/kJfKDzHF as well. New gem too. Putting the final touches on the new Basec ...
+183273925776637950,Fri Mar 23 19:28:03 +0000 2012,RT @dhh: It's such a joy to build a Rails API with the Jbuilder template engine: http://t.co/zSTWJiKW http://t.co/XWLDYnRa
+182805942038048770,Thu Mar 22 12:28:27 +0000 2012,Strong parameters: http://t.co/K63qD8nu
+182591086148071420,Wed Mar 21 22:14:41 +0000 2012,RT @dhh: Strong parameters for Rails: Move mass-assignment protection out of the model and into the controller https://t.co/eRYZmk4x
+177474979884052480,Wed Mar 07 19:25:07 +0000 2012,What is docrails? http://t.co/jFIKXPkh
+175286443143475200,Thu Mar 01 18:28:39 +0000 2012,Rails 3.2.2 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/4I1buLnj
+175286345676234750,Thu Mar 01 18:28:16 +0000 2012,Rails 3.1.4 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/eYHMyYYX
+175286260762546180,Thu Mar 01 18:27:55 +0000 2012,Rails 3.0.12 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/XhnbSu3J
+175286260762546180,Thu Mar 01 18:27:55 +0000 2012,Rails 3.0.12 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/XhnbSu3J
+173587571501318140,Sun Feb 26 01:57:56 +0000 2012,Edge Rails: PATCH is the new primary HTTP method for updates http://t.co/dkYFvkWR
+172458275214864400,Wed Feb 22 23:10:31 +0000 2012,Rails 3.2.2.rc1, 3.1.4.rc1, and 3.0.12.rc1 have been released! Please give them a try and report any issues. https://t.co/cHEttjqS
+171159465092071420,Sun Feb 19 09:09:31 +0000 2012,RT @dhh: How key-based cache expiration works: http://t.co/3zPY7IPG
+170937397041827840,Sat Feb 18 18:27:05 +0000 2012,RT @rbates: Cool, Ruby and Rails doc apps for iOS: http://t.co/DasHmv36
+170560926951546880,Fri Feb 17 17:31:08 +0000 2012,RT @dhh: How Basecamp Next got to be so damn fast without using much client-side UI: http://t.co/vxZ4xFHm -- full scoop on pushState + c ...
+167329473065259000,Wed Feb 08 19:30:29 +0000 2012,RT @SteelCityRuby: @rails Steel City Ruby is August 3-4th
+167225580612354050,Wed Feb 08 12:37:39 +0000 2012,Barcelona Ruby Conference 2012 will take place September 8-9: http://t.co/iQP8LHrz
+165821659733958660,Sat Feb 04 15:38:59 +0000 2012,How to run Rails on Windows in production at full speed: http://t.co/5i55mkZ0
+164748927629926400,Wed Feb 01 16:36:19 +0000 2012,RT @rubynortheast: UK Government using Ruby (@rails and @sinatra) for their new digital platform: http://t.co/NVM1xYFo
+162809301986058240,Fri Jan 27 08:08:57 +0000 2012,@larzconwell please check the blog post http://t.co/EY7CsbHt
+162675042046586880,Thu Jan 26 23:15:27 +0000 2012,Ruby on Rails 3.2.1 is out with some fixes and doc improvements
+161922355298447360,Tue Jan 24 21:24:32 +0000 2012,Upgrading to Rails 3.2 by RailsCasts: http://t.co/zRBASTok
+161472778913062900,Mon Jan 23 15:38:05 +0000 2012,@kapso You need latest RubyGems when running on other Rubies than 1.9.3.
+161228827677298700,Sun Jan 22 23:28:42 +0000 2012,@matiaskorhonen @sdsykes yes, the wiki should be down
+160429944906842100,Fri Jan 20 18:34:14 +0000 2012,If you're having trouble installing the Rails 3.2 gems on Ruby 1.8.7, please upgrade to latest RubyGems with "gem update --system".
+160412625979703300,Fri Jan 20 17:25:25 +0000 2012,Rails 3.2: http://t.co/QXmNao1b. It's done, baked, and ready to roll!
+154673962993983500,Wed Jan 04 21:22:01 +0000 2012,Rails 3.2.0.rc2 is out http://t.co/XlYndwsO
+154673882345914370,Wed Jan 04 21:21:41 +0000 2012,RT @spastorino: Rails 3.2.0.rc2 has been released http://t.co/ce8wa56J
+150920715812614140,Sun Dec 25 12:47:57 +0000 2011,RT @fxn: edge guides are already available for the Kindle and Kindle apps http://t.co/sEVYzkmU, we'll have them in 3.2 - awesome work by ...
+149155362640105470,Tue Dec 20 15:53:04 +0000 2011,RT @dhh: Rails/master is now 4.0.0.beta -- http://t.co/DSUS8adY. Writeup of all the details and our future plans for 4.0.
+149149309307326460,Tue Dec 20 15:29:01 +0000 2011,RT @dhh: Rails 3.2.x is planned to be the last 3.x release branch. rails/master is now 4.0.0.beta and will only support Ruby 1.9.3+. Far ...
+148928383387045900,Tue Dec 20 00:51:08 +0000 2011,RT @dhh: Rails 3.2 RC1: Faster dev mode & routing, explain queries, tagged logger, store -- http://t.co/dcIC9kAb. Get it while it's hot!
+144164856512253950,Tue Dec 06 21:22:34 +0000 2011,What's new in Edge Rails: EXPLAIN http://t.co/ipvjaQVJ
+137692900032126980,Sat Nov 19 00:45:20 +0000 2011,@olivierlacan starting with 3.1.0, each method in the API (docs) has a link to its implementation in GitHub
+137671890201350140,Fri Nov 18 23:21:51 +0000 2011,the API of 3.1.2 does not have the links to GitHub due to a bug, we hope to restore them as soon as possible
+137567952890372100,Fri Nov 18 16:28:50 +0000 2011,Please read this if you need to use the v3.1.2 tag in a clone of the rails repository: http://t.co/hXRiozti
+137349785723211780,Fri Nov 18 02:01:55 +0000 2011,Rails 3.0.11 [http://t.co/aRTMBRqh] and 3.1.2 [http://t.co/sQLy9JCa] have been released. Important security fix, please upgrade!
+136115664598474750,Mon Nov 14 16:17:58 +0000 2011,Rails 3.1.2.rc2 has been released! Please test! http://t.co/TtqoXeY9
+122333680239783940,Fri Oct 07 15:33:16 +0000 2011,Rails 3.1.1 has been released http://t.co/Idgw3yDJ
+122333350819135490,Fri Oct 07 15:31:58 +0000 2011,RT @spastorino: Rails 3.1.1 has been released http://t.co/CHImfiyn
+121775693989294080,Thu Oct 06 02:36:02 +0000 2011,Rails 3.1.1.rc3 was released http://t.co/VHqxeiFp
+121775632303661060,Thu Oct 06 02:35:47 +0000 2011,RT @spastorino: Rails 3.1.1.rc3 was released http://t.co/WD7LOTxJ This is the last rc (hopefully) :)
+119537352837304320,Thu Sep 29 22:21:40 +0000 2011,Rails 3.1.1.rc2 was released http://t.co/ygkYnYE6
+119537279877398530,Thu Sep 29 22:21:23 +0000 2011,RT @spastorino: Rails 3.1.1.rc2 was released http://t.co/q29TvaZO I strongly recommend you to give it a try, several issues were addressed.
+116251831268683780,Tue Sep 20 20:46:11 +0000 2011,Please help us give @jonleighton a warm welcome to Rails Core: http://t.co/DIQWaxgs. His contribution history rocks: http://t.co/RFXrzVnK
+114134645024628740,Thu Sep 15 00:33:14 +0000 2011,Rails 3.1.1.rc1 was released http://t.co/BMwBPPxd
+114134575701176320,Thu Sep 15 00:32:58 +0000 2011,RT @spastorino: Rails 3.1.1.rc1 was released http://t.co/PVk307zi We've fixed several bugs, pushing the weblog post in a little while ...
+108909677978456060,Wed Aug 31 14:31:05 +0000 2011,Vijay Dev has been doing an extraordinaire work in the documentation front, please welcome Rails new committer @vijay_dev!
+108740744306634750,Wed Aug 31 03:19:48 +0000 2011,Rails 3.1.0 has been released. Party with the asset pipeline, HTTP streaming, and lots of other new features: http://t.co/mcwVxmA
+108188593046028290,Mon Aug 29 14:45:45 +0000 2011,The Ruby on Rails API Switches to SDoc http://t.co/ls02PpH kudos to @voloko
+108019099308802050,Mon Aug 29 03:32:14 +0000 2011,RT @spastorino: Rails 3.1.0.rc8 was released http://t.co/sbTXulR
+103611874289008640,Tue Aug 16 23:39:30 +0000 2011,In other news, Rails 3.1.0.rc6 has been released! http://t.co/1HJdMOH
+103611792554602500,Tue Aug 16 23:39:11 +0000 2011,OMG! Rails 3.0.10 has also been released! http://t.co/kokNoIN
+103611689743810560,Tue Aug 16 23:38:46 +0000 2011,Rails 2.3.14 has been released! http://t.co/c9jbzSv
+99281384476123140,Fri Aug 05 00:51:41 +0000 2011,Rails 3.0.10.rc1 has been released. See the announcement here: http://bit.ly/nqLHih Please try it out!
+91614220730372100,Thu Jul 14 21:05:06 +0000 2011,RT @spastorino: Want to contribute to Rails?. We are having a Rails 3.1 HackFest http://weblog.rubyonrails.org/2011/7/14/rails-3-1-hackf ...
+81307765045346300,Thu Jun 16 10:30:56 +0000 2011,Rails 3.0.9 has been released! Get it while it's hot! http://bit.ly/lLkerE
+80041769143767040,Sun Jun 12 22:40:19 +0000 2011,OMG! [ANN] Rails 3.0.9.rc5 has been released! http://bit.ly/ih4Yur
+78962896058597380,Thu Jun 09 23:13:16 +0000 2011,[ANN] Rails 3.0.9.rc3 has been released! http://bit.ly/irTpnR
+78962769663246340,Thu Jun 09 23:12:46 +0000 2011,[ANN] Rails 3.1.0.rc4 has been released! &lt;3 &lt;3 &lt;3 http://bit.ly/mS0CDN
+78587666958000130,Wed Jun 08 22:22:14 +0000 2011,Rails 3.1.0.rc3 has been released! You should try it out! http://bit.ly/l7ZFeW
+78585514403438600,Wed Jun 08 22:13:41 +0000 2011,Rails 3.0.9.rc1 has been released. Please test it out! http://bit.ly/kEjGVK
+75938899775594500,Wed Jun 01 14:56:59 +0000 2011,@stevenharman Going over FastCGI, I believe.
+75913749009145860,Wed Jun 01 13:17:02 +0000 2011,Need to run Rails on Microsoft IIS? Helicon Zoo makes it a one-click install option: http://bit.ly/k5hx3O
+75912871053238270,Wed Jun 01 13:13:33 +0000 2011,Rake 0.9.1 has been released w/ fix for the breakage (the Rake::DSL is available top-level again, but it warns). Yay!
+75592097310326780,Tue May 31 15:58:55 +0000 2011,@NaturalArtMedia @wycats Thus binstubs or do alias be="bundle exec" on your system. (I use the latter).
+75587239299653630,Tue May 31 15:39:36 +0000 2011,Eye & Mind did a bunch of short interviews w/ @dhh, @drnic, @dchelimsky, @greggpollack, and others at RailsConf: http://bit.ly/k6AqKe
+75585430669631490,Tue May 31 15:32:25 +0000 2011,Gem Versioning and Bundler: Doing it Right -- http://bit.ly/lCbPKY. @wycats explains why you need "bundle exec rake".
+75561944182046720,Tue May 31 13:59:06 +0000 2011,@konstantinhaase Agree. We'll fix that in a forthcoming release.
+75293160900804600,Mon May 30 20:11:03 +0000 2011,[ANN] Rails 3.0.8.rc3 has been released! Try it out! http://bit.ly/lryWpi
+74525754238574600,Sat May 28 17:21:39 +0000 2011,RT @ruby_news: Speeding up Rails startup time http://bit.ly/isd8tT
+74485509942026240,Sat May 28 14:41:44 +0000 2011,@yedingding Yeah, that's an unfortunate conflict. We'll add "assets" to the list of reserved names so at least the conflict is obvious.
+74163878497493000,Fri May 27 17:23:41 +0000 2011,Rails 3.0.8.rc2 has been released! See here: http://bit.ly/jGRSpY
+73761884842635260,Thu May 26 14:46:18 +0000 2011,We love commit comedy: http://bit.ly/l6lt1I (because surely, this is a joke, right?)
+73558411018637310,Thu May 26 01:17:46 +0000 2011,Thanks to @refinerycms, we've already fixed a boog in the rc1! Look for an rc2 tomorrow morning!
+73544466891411460,Thu May 26 00:22:21 +0000 2011,Rails 3.0.8.rc1 has been released! Check out the annoucement here http://bit.ly/jKVbcV and here http://bit.ly/j1VJNB
+73388287766708220,Wed May 25 14:01:45 +0000 2011,@Anderson760 Add gem "rake", "0.8.7" to your Gemfile and run "bundle exec rake" and it'll work.
+73357385900638200,Wed May 25 11:58:58 +0000 2011,@hschoimd It's fixed in the latest version of sprockets. Thanks for the reminder though.
+73140918739406850,Tue May 24 21:38:48 +0000 2011,@mislav Because it'd make the asset pipeline less general and it's not worth the change of convention from regular views.
+73135241425989630,Tue May 24 21:16:15 +0000 2011,@mislav posts.css is the final product, no magic needed. Preprocessors can be applied to anything. So you can have posts.js.erb.
+73101985422913540,Tue May 24 19:04:06 +0000 2011,RT @klickmich: Boy, I like CoffeeScript. Thx, @rails for making sure it will get widely adopted.
+72801149769621500,Mon May 23 23:08:41 +0000 2011,Yes, booting a Rails app on Ruby 1.9.2 is much slower due to a require loading bug/feature. Fix is coming soon. Looking for runtime perf #'s
+72785675996512260,Mon May 23 22:07:12 +0000 2011,Looking for rigorous benchmarks from people who've ported their Rails app to Ruby 1.9.2. (Informal studies show 2-4x speed boost).
+72784752423346180,Mon May 23 22:03:31 +0000 2011,Also, given the incompatibility ordeal with Rake 0.9.0, Rails 3.1 final will use ~&gt; on tiny to lock deps. So only tiny updates auto include.
+72783751293308930,Mon May 23 21:59:33 +0000 2011,June 6th is the informal target for either another release candidate or the final version of Rails 3.1. So please help test RC1 now!
+72130517918683140,Sun May 22 02:43:50 +0000 2011,Rails 3.1: Release Candidate is out! Asset pipeline, HTTP streaming, jQuery default, and much more: http://bit.ly/iZXRye
+71986671016611840,Sat May 21 17:12:14 +0000 2011,Rails 3.1 is now compatible with Rake 0.9. For existing apps, you'll probably still want to bind to Rake 0.8.7 to avoid incompatibilities.
+71984037333438460,Sat May 21 17:01:46 +0000 2011,The plan is still to fulfill the promise from RailsConf and release the Rails 3.1 release candidate this week. So today or tomorrow.
+71983682994450430,Sat May 21 17:00:22 +0000 2011,Great railscast explaining how and when to use streaming in Rails 3.1: http://railscasts.com/episodes/266-http-streaming
+60095895085137920,Mon Apr 18 21:42:32 +0000 2011,Rails 3.0.7 has been released! See the announcement here: http://bit.ly/hnce2Y
+58946925810028540,Fri Apr 15 17:36:56 +0000 2011,Rails 3.0.7.rc2 was released http://bit.ly/gwSxfu
+58653201003585540,Thu Apr 14 22:09:47 +0000 2011,Rails 3.0.7.rc1 was released http://bit.ly/hIoXY6 with an important performance regression fixed.
+55408963948257280,Tue Apr 05 23:18:21 +0000 2011,[ANN] Rails 3.0.6 has been released! It contains security fixes, so please check out the announcement: http://bit.ly/fsTXnI
+53334320873619460,Thu Mar 31 05:54:27 +0000 2011,[ANN] Rails 3.0.6.rc2 has been released! See the announcement here: http://bit.ly/g4P1qq
+52839990295670780,Tue Mar 29 21:10:10 +0000 2011,[ANN] Rails 3.0.6.rc1 has been released! See announcement here: http://bit.ly/eHYcAC list of changes here: http://bit.ly/hTT1R8
+41687931739439100,Sun Feb 27 02:35:52 +0000 2011,Rails 3.0.5 has been released! See the announcement here: http://bit.ly/eLikBU Make sure to file tickets here: http://bit.ly/eCW2nl Thanks!
+40819934271520770,Thu Feb 24 17:06:45 +0000 2011,Rails plugins http://bit.ly/h6aWAN (except arel, ujs drivers and rails_xss) have a new home. Take a look at each one to see the new location
+40490752723132420,Wed Feb 23 19:18:42 +0000 2011,Changes for 3.0.4 to 3.0.5 can be viewed here: http://bit.ly/dHDyoT
+40489854122860540,Wed Feb 23 19:15:08 +0000 2011,Rails 3.0.5.rc1 has been released. Please try out this release candidate before the final release is made!
+32849214073479170,Wed Feb 02 17:13:57 +0000 2011,RT @spastorino: We are starting to automatically mark old tickets as stale in Rails, if you think the ticket is still valid, open it wit ...
+32651303771447296,Wed Feb 02 04:07:32 +0000 2011,RT @spastorino: We are looking for maintainers for the rails plugins more info here http://bit.ly/eAkXVR
+31853657007857664,Sun Jan 30 23:17:58 +0000 2011,People with 2.3.x applications should also test the current 2-3-stable branch asap, the 2.3.11 release will ship soon.
+31852315501662210,Sun Jan 30 23:12:38 +0000 2011,Rails 3.0.4.rc1 now available.  Update your Gemfile and test your applications! Let's make sure the final 3.0.4 release is smooth as can be
+30137305343729664,Wed Jan 26 05:37:48 +0000 2011,Potential security vulnerability in the mail gem could affect rails 3.0.x applications.  Be sure to read the advisory http://goo.gl/Zwk10
+27888480017195010,Thu Jan 20 00:41:46 +0000 2011,RT @dhh: Please welcome the newest member to Rails Core. The wonderful @tenderlove. Official announcement to follow. Welcome on board!
+27961361741,Wed Oct 20 20:10:22 +0000 2010,RT @codyfauser: Shopify is now running Rails 3 in production. The switchover was super smooth. Props to @jstorimer for leading the migration
+27377551884,Thu Oct 14 21:23:21 +0000 2010,Ruby on Rails 3.0.1 and 2.3.10 are now available, these are security releases.  For details see http://goo.gl/QRiO
+25894866665,Wed Sep 29 15:50:47 +0000 2010,RT @fxn: +75 people have contributed to Rails this month http://contributors.rubyonrails.org/contributors?window=this-month
+24027729340,Thu Sep 09 17:07:47 +0000 2010,RT @dhh: Rails Core is joined by Santiago Pastorino (@spastorino): http://bit.ly/cSvOOM -- congrats man!
+23008230504,Sat Sep 04 22:05:31 +0000 2010,Rails 2.3.9 is out! Fixes bugs and deprecates old features to ease your upgrade to 3.0. http://bit.ly/9GjclZ
+22548316589,Mon Aug 30 19:01:30 +0000 2010,RT @konstantinhaase: Reloading Ruby Code http://rkh.im/2010/08/code-reloading @rubysoc
+22545257266,Mon Aug 30 18:11:55 +0000 2010,RT @sweetlew: Congrats to the Rails 3 team!  @newrelic is delighted to announce immediate support for Rails 3!
+22495607986,Mon Aug 30 04:13:05 +0000 2010,RT @jm: Rails 3 Upgrade Handbook is $3 off for 3 days in celebration of Rails 3 stable!  Grab it now: http://bit.ly/aM1RMg
+22493813024,Mon Aug 30 03:43:44 +0000 2010,RT @bitsweat: Pushed Rails 2.3.9.pre gems with a handful of deprecations and bugfixes. Give it a spin before release tomorrow!
+22491883705,Mon Aug 30 03:13:44 +0000 2010,RT @dhh: Rails 3.0: It's ready http://bit.ly/bqyTHh - after two years of work & thousands of commits. What an amazing community achievement!
+19367387985,Fri Jul 23 20:42:16 +0000 2010,RT @qrush: BOOM! @gemcutter (http://rubygems.org) now running on Rails 3. What's your excuse now?
+14672573749,Tue May 25 04:56:26 +0000 2010,Rails 2.3.8 ends the magic carpet ride, fixes the 2.3.7 forced upgrade to rails_xss: http://bit.ly/aK3zCI
+14648497950,Mon May 24 21:31:28 +0000 2010,Rails 2.3.8 coming soon; fixes rails_xss forced upgrade. That was no icing on the cake! Try the prerelease: http://bit.ly/becuwV
+14636406692,Mon May 24 17:23:13 +0000 2010,RT @rubysoc: Day one of work on the Ruby Summer of Code! Good luck everyone...
+14610701245,Mon May 24 08:31:29 +0000 2010,Rails 2.3.6, meet 2.3.7. We missed some the icing on the cake for rails_xss and HAML: http://bit.ly/cxq0jg
+14544977193,Sun May 23 08:07:35 +0000 2010,Rails 2.3.6, fresh from the oven: http://bit.ly/bAUHjJ
+14327620061,Thu May 20 00:46:20 +0000 2010,When using Rails 3.0 with Ruby 1.9.2-final, you will generally not have to care about encodings. http://bit.ly/b0jBjO
+13990408919,Fri May 14 18:26:45 +0000 2010,RT @evanphx: Holy shit. Rubinius 1.0. Words can not express how happy I am. http://bit.ly/9NGiRA
+13861264803,Wed May 12 17:01:22 +0000 2010,RT @railsconf: Today is the last day to apply for a #RailsConf scholarship. Get a free pass + 3 nights hotel + $250 http://oreil.ly/aKLlmT
+13519449957,Fri May 07 01:09:02 +0000 2010,20 top @rubysoc proposals selected. Tough choices from a great field. Will announce soon. Well done, all!
+12715180000,Fri Apr 23 17:38:31 +0000 2010,Last day to submit a @rubysoc proposal!
+12292887423,Fri Apr 16 16:45:47 +0000 2010,@soprano Bingo! High school students welcome. Show those college snobs who's boss.
+12237219679,Thu Apr 15 18:23:09 +0000 2010,It's raining proposals in @rubysoc land. Tool up your best idea and run with it -- one week left! http://bit.ly/9PYf2g
+11946760428,Sat Apr 10 17:12:45 +0000 2010,RT @fxn: Rails Contributors: "Showing 1500 people" awesome http://bit.ly/a7SDmJ
+11592040441,Sun Apr 04 15:18:04 +0000 2010,Students: @rubysoc opens tomorrow! Start polishing your best pitch. Ideas at http://bit.ly/d5DHRJ
+11493647500,Fri Apr 02 18:11:23 +0000 2010,RT @railsconf: We just accepted ~30 more talks for #RailsConf! They'll start appearing here as speakers confirm: http://oreil.ly/cubjxE
+11446584028,Thu Apr 01 21:56:33 +0000 2010,RT @dhh: Rails 3.0 beta 2 is out: http://bit.ly/aKK8iR -- now is the time to jump in, the water is fine!
+11321494919,Tue Mar 30 18:19:37 +0000 2010,Xavier Noria, Rails documentation hero, is our newest committer. Welcome, @fxn!
+11234465910,Mon Mar 29 05:29:35 +0000 2010,RT @_ko1: @rubysoc I can help you if there is a proposal around VM.
+11178661692,Sun Mar 28 04:16:44 +0000 2010,Wow, just wow. We raised $100,000 in less than 4 days to fully fund the first @rubysoc. Students: it's your turn!
+11115447258,Fri Mar 26 23:26:24 +0000 2010,RT @dhh: Ruby Summer of Code has raised more than $75,000 already. Just $25K left before we reach our $100K/20 project limit! http://rub ...
+11098013529,Fri Mar 26 16:32:04 +0000 2010,We broke the 100 contributor mark for 2010: http://bit.ly/cUJzme  Way to go team! Thx @github & @lighthouseapp.
+11093737530,Fri Mar 26 15:07:08 +0000 2010,Matz pitching in to @rubysoc! RT @yukihiro_matz: Ruby SoCに寄付した。
+11056676599,Thu Mar 25 22:28:23 +0000 2010,RT @dhh: The money is flowing in for Ruby Summer of Code. Lots of great response. It's going to be capped at 20 projects ($100k). Get in ...
+10988847645,Wed Mar 24 17:12:00 +0000 2010,Making a living with Ruby and Rails? Life is good. Sponsor a student: http://rubysoc.org. Donate this week and @tenderlove matches!
+10988741070,Wed Mar 24 17:09:22 +0000 2010,The first @rubysoc. Rock it: http://bit.ly/bSLmVd
+10937814186,Tue Mar 23 18:29:51 +0000 2010,Why wait for the next @gsoc? Get ready to pitch in to @rubysoc, sponsors, mentors, STUDENTS!
+10685448004,Thu Mar 18 19:21:22 +0000 2010,Our application to Google Summer of Code was denied. Next time! Students, your summer contributions are still very welcome :)
+10632446978,Wed Mar 17 18:13:11 +0000 2010,RT @railsconf: Today is the deadline! Submit your proposal to speak at #RailsConf by 11:59pm EDT tonight http://bit.ly/3V30qy #ruby #ope ...
+10363313427,Fri Mar 12 08:25:21 +0000 2010,2010 @gsoc ideas: http://bit.ly/aedSVJ
+10362739240,Fri Mar 12 08:01:21 +0000 2010,2009 @gsoc rocked it: Active Model @joshpeek, Arel @miloops, Agnosticism @josevalim, DTrace @ecin. Here's to the 2010 contenders.
+10362651205,Fri Mar 12 07:57:48 +0000 2010,We applied to participate in Google Summer of Code again this year. Start your engines, students!
+8675489950,Fri Feb 05 12:47:46 +0000 2010,Rails 3 Beta release is out http://weblog.rubyonrails.org/2010/2/5/rails-3-0-beta-release
+8083602132,Fri Jan 22 20:42:25 +0000 2010,Relational algebra has come to Active Record. New delicious, chain-able API in Rails 3.0. @lifo explains all http://bit.ly/7ROQ67 (via @dhh)
+3696641883,Tue Sep 01 20:55:23 +0000 2009,Gem Packaging: Best Practices - http://bit.ly/3R1xrI
+3197085090,Sat Aug 08 20:05:02 +0000 2009,Bugmash is on with 50 contributors already! Come join us in #railsbridge @ irc.freenode.net. Visit http://bit.ly/1ae36W for details.
+2929014077,Thu Jul 30 12:16:04 +0000 2009,Want to help Rails handle tickets more efficiently ? Participate in the first Rails Bugmash - http://is.gd/1Ujbs
+2743445043,Mon Jul 20 18:56:36 +0000 2009,Rails 2.3.3 is out  http://is.gd/1Fs4O - Some minor features and many bug fixes
+2193873728,Tue Jun 16 16:02:40 +0000 2009,We've updated the Rails Security Policy so people know what's going on - http://rubyonrails.org/security
+2096628271,Wed Jun 10 00:17:02 +0000 2009,DoS Vulnerability in Ruby - http://is.gd/WcZh. All users are advised to upgrade their Ruby installations.
+2022587462,Wed Jun 03 23:14:20 +0000 2009,Security issue with the digest authentication in Rails 2.3.x - http://is.gd/Nzam
+1836964180,Mon May 18 15:54:40 +0000 2009,Rails contributors app is live http://contributors.rubyonrails.org ! Special thanks to @fxn
+1568315012,Mon Apr 20 19:51:14 +0000 2009,And the @gsoc winners are: "Agnostic" generators, @josevalim; Rack probes, @ecin; Active Model, @joshpeek; Active Relation, @miloops
+1568236944,Mon Apr 20 19:41:43 +0000 2009,Congrats to all our @gsoc students! Winning proposals: http://socghop.appspot.com/org/home/google/gsoc2009/rails
+1561108339,Sun Apr 19 22:50:27 +0000 2009,Tough @gsoc decisions: selecting the top 4 from a very competitive field.
+1508089732,Mon Apr 13 08:40:19 +0000 2009,One week left to review 44 @gsoc proposals! Mentors, go to http://tinyurl.com/dmdaxb
+1443355296,Fri Apr 03 04:30:26 +0000 2009,We're up to 36 @gsoc proposals -- 14 hours left to apply!
+1432459146,Wed Apr 01 16:47:06 +0000 2009,Rolling with 28 @gsoc proposals and 24 mentors -- two days left!
+1420867790,Mon Mar 30 23:03:43 +0000 2009,Up to 18 @gsoc proposals and 22 mentors -- four days left to apply!
+1396641842,Thu Mar 26 20:35:17 +0000 2009,We have 9 @gsoc proposals so far and 18 mentors lined up! Students: one week left; submit early for mentor feedback.
+1360752181,Fri Mar 20 15:19:38 +0000 2009,This week in edge and the road to 3.0 - http://is.gd/ocxg
+1350166674,Wed Mar 18 19:43:03 +0000 2009,Accepted to @gsoc. College students, you can spend the summer working on Rails 3 and get paid for it!
+1336682843,Mon Mar 16 15:12:25 +0000 2009,Rails 2.3 final is out http://is.gd/nygu
+1317304939,Thu Mar 12 18:04:11 +0000 2009,We applied to @gsoc - Google Summer of Code 2009! Let's brainstorm up some tantalizing projects: http://wiki.rubyonrails.org/gsoc/2009/ideas
+1315411859,Thu Mar 12 10:35:41 +0000 2009,Rails gets an official documentation team and more - http://is.gd/mVZW
+1305981690,Tue Mar 10 16:10:18 +0000 2009,Plan is to release Rails 2.3 final this Sunday. If you think some critical fix is missing, please speak now - http://is.gd/mHzW
+1293718600,Sat Mar 07 19:30:35 +0000 2009,How *you* can make me better - http://tinyurl.com/day82x
+1176400006,Wed Feb 04 14:44:04 +0000 2009,@JZ gives Rails Guides a Facelift - http://guides.rails.info
+1168113002,Sun Feb 01 23:52:15 +0000 2009,Rails 2.3 RC1 is out http://is.gd/i21v
+1149445371,Mon Jan 26 16:36:19 +0000 2009,Nested model forms are about to make their way into the core, thanks to @alloy ! Please give your feedback at http://is.gd/hhjC
+1099995036,Tue Jan 06 18:10:45 +0000 2009,Meet the Rails Activists team http://is.gd/eHZu Join the discussion at http://is.gd/eHZJ
+1079374542,Fri Dec 26 14:57:57 +0000 2008,This week in Edge Rails http://tinyurl.com/8ws9vk by @MikeG1
+1074932160,Tue Dec 23 20:06:26 +0000 2008,I'm getting merged with Merb ! http://rubyonrails.org/merb
+1067065116,Fri Dec 19 14:05:43 +0000 2008,This week in Edge Rails - http://tinyurl.com/4rt7vt
+1060424337,Tue Dec 16 11:27:26 +0000 2008,Videos from RailsConf Europe '08 http://is.gd/bW7R and Paris on Rails '08 http://is.gd/bW86 are live now
+1037299846,Thu Dec 04 01:19:15 +0000 2008,Edge Rails gets shiny new templates, thanks to @jeremymcanally. Check http://is.gd/a8CO and http://is.gd/a8CA for more!
+1028229456,Fri Nov 28 17:37:22 +0000 2008,This week in edge http://is.gd/9oGz by @MikeG1. What an exciting week it has been!
+1017266009,Fri Nov 21 22:05:04 +0000 2008,Rails 2.2 final is out! Read more at http://xrl.us/ox2g7
+1009463565,Mon Nov 17 12:13:22 +0000 2008,Myth 6: I only speaks English (http://xrl.us/oxk5m)
+1007102917,Sat Nov 15 15:51:28 +0000 2008,Myth #4: I'm a big monolithic framework (http://xrl.us/oxe3f)
+1005656802,Fri Nov 14 16:07:11 +0000 2008,Myth #3: You must use Prototype with Rails (http://xrl.us/oxcbe)
+1003662686,Thu Nov 13 11:33:09 +0000 2008,Myth #2: Rails is expected to crash 400 times/day (http://xrl.us/ow8jz)
+1003634640,Thu Nov 13 10:58:49 +0000 2008,Here's @d2h dealing with my myths (http://xrl.us/ow8ha) - Myth #1: Rails is hard to deploy (http://xrl.us/ow8hc)
+988116100,Mon Nov 03 19:48:38 +0000 2008,Rails Guides Wants You - http://is.gd/6ekt
+977250439,Mon Oct 27 11:42:11 +0000 2008,After 131 app complected in 48 hours, Rails Rumble voting has opened now. Sign up and vote at http://railsrumble.com
+973530658,Fri Oct 24 13:00:17 +0000 2008,Rails 2.2 RC1 is out! Announcement : http://is.gd/4HDJ and Release Notes : http://is.gd/4HDU
+963879339,Fri Oct 17 14:31:10 +0000 2008,Rails Rumble starts in a few hours! Please make sure you've filled in your Github details. Join #railsrumble (irc.freenode.net) for help/fun
+940437718,Tue Sep 30 11:46:22 +0000 2008,Registrations are open for the 2008 Rails Rumble, a 48 hours Rails competition. Hurry!! Grab your spots at http://is.gd/3jRK
+939977641,Tue Sep 30 01:03:58 +0000 2008,@MikeG1 completes one more guide - Active Record Associations Basics http://is.gd/3iTt
+921434370,Sun Sep 14 22:36:16 +0000 2008,Second guide completed by Frederick Cheung - http://is.gd/2CBJ
+919967577,Sat Sep 13 10:19:48 +0000 2008,Thanks to @MikeG1, I have my first complete guide - http://is.gd/2yXZ &lt;/happy&gt;
+909506193,Thu Sep 04 15:17:40 +0000 2008,Guides Hackfest is here http://tinyurl.com/5okhvt !
+908393873,Wed Sep 03 18:30:05 +0000 2008,RailsConf Portland 2008 keynote videos are available at http://railsconf.blip.tv/
+908102456,Wed Sep 03 14:12:17 +0000 2008,2.0.4 maintenance release is out http://tinyurl.com/5rc2vh
+905104061,Sun Aug 31 21:08:44 +0000 2008,My mailers can have layouts now http://tinyurl.com/mailerlayouts :-)
+903946606,Sat Aug 30 13:23:31 +0000 2008,Guides/Manuals hackfest coming soon (exciting prizes too) - http://hackfest.rubyonrails.org/guide Stay tuned for the official announcement!
+891486658,Mon Aug 18 21:41:53 +0000 2008,@joshpeek officially has the keys to my source now http://tinyurl.com/67ntf6
+879643338,Wed Aug 06 19:34:59 +0000 2008,My hackfests are here http://weblog.rubyonrails.org/2008/8/6/hackfest
+873489616,Thu Jul 31 10:18:35 +0000 2008,My hackfests are coming this August :) Stay tuned for the announcement.
+866091719,Wed Jul 23 13:21:21 +0000 2008,I don't check my Github inbox. So please file a ticket at http://rails.lighthouseapp.com instead of sending me PM/pull requests
+865005934,Tue Jul 22 11:32:41 +0000 2008,I speak so many languages now http://tinyurl.com/68qtjz

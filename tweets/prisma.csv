@@ -1,0 +1,953 @@
+id,created_at,text
+1257287041458602000,Mon May 04 12:32:44 +0000 2020,@harisvsulaiman Right now, we're focused on making Client and Migrate production-ready with the currently supported… https://t.co/qaS553Ei1Q
+1255902283096887300,Thu Apr 30 16:50:12 +0000 2020,Prisma replaces traditional ORMs but the landscape of approaches to working with a database isn't always straightfo… https://t.co/ZOy6OpXhK3
+1255101245372665900,Tue Apr 28 11:47:10 +0000 2020,✨ See you soon! Join in for Prisma Day 2! ✨   🗓 When: June 26th, 2020!  👩🏽‍💻 Where: Online, at your desk, and aroun… https://t.co/GRKKajUZTR
+1253357418601500700,Thu Apr 23 16:17:49 +0000 2020,💌 Prisma version 2.0.0-beta.3 released: ◆ Improved validation of the Prisma schema ◆ prisma2 CLI is deprecated and… https://t.co/7bkjjfcvRE
+1252509784487743500,Tue Apr 21 08:09:37 +0000 2020,📚 The Prisma Docs, https://t.co/OxgE4YNZiO, are open source!   👀 Take a look: https://t.co/MBJndxEqEx https://t.co/YvFEIRTTwA
+1251460167595589600,Sat Apr 18 10:38:49 +0000 2020,@flexbox_ We've opened a support ticket with Facebook about this. If you'd be open to sending in a comment through… https://t.co/wMWQbYq85u
+1247903368833458200,Wed Apr 08 15:05:22 +0000 2020,RT @leeerob: Full tutorial on how to create your own static site with Next.js 9.3 + @prisma!  🚀https://t.co/gyPZK1qlBV ✨https://t.co/1jBRN4…
+1247044604123283500,Mon Apr 06 06:12:57 +0000 2020,RT @leeerob: Woah 🤯 Next.js 9.3 with Prisma is incredible.  ◆ `getStaticProps` allows for direct DB queries, only ran at build time – not e…
+1245050785660100600,Tue Mar 31 18:10:13 +0000 2020,@Rezaavoor Kind words = "Great job btw! 🥳"  — it was very encouraging to read. 😃  The note about the docs was total… https://t.co/2xZVsB3hbb
+1245047601071820800,Tue Mar 31 17:57:34 +0000 2020,@Rezaavoor You'll be able to find the old docs by version number, for example: https://t.co/reL0lZ90hu  There's cur… https://t.co/P9WR9Ze18v
+1245035817443176400,Tue Mar 31 17:10:45 +0000 2020,@remidej Thanks for letting us know. We'll get it fixed up! 😁
+1245029499198156800,Tue Mar 31 16:45:38 +0000 2020,@MikeLanders Thanks so much for the heads up! We're looking into this now. 🔎
+1245021628922241000,Tue Mar 31 16:14:22 +0000 2020,🚀 Prisma 2.0 is Now in Beta: Type-safe Database Access with Prisma Client  https://t.co/oL636VJepx
+1244877810461741000,Tue Mar 31 06:42:53 +0000 2020,RT @mojombo: So happy we chose @Prisma Client &amp; Migrate for @RedwoodJS. Finally we have something akin to Rails' ActiveRecord but for JavaS…
+1243822767360876500,Sat Mar 28 08:50:31 +0000 2020,@_Xetera @AryanJabbari @kylemathews This is a major focus area for the development of Prisma 2.0. It’s now compatib… https://t.co/jAjQbLHtKz
+1243613630882615300,Fri Mar 27 18:59:29 +0000 2020,💌 Prisma 2 preview release 25: ◆ 🚨 Prisma CLI npm package renamed from prisma2 to @prisma/cli ◆ Introspection impro… https://t.co/5umYyz5IK2
+1240649757158264800,Thu Mar 19 14:42:06 +0000 2020,RT @mxstbr: I finally get why @prisma is not an ORM! 🤯  The Troublesome Active Record Pattern: https://t.co/s4sOYKAzt9 https://t.co/hmdH2vu…
+1238516218874810400,Fri Mar 13 17:24:11 +0000 2020,👩‍✈️🚀 Are you currently building or are planning to build an application with Prisma 2.0? Then apply to our pilot p… https://t.co/1n5DZclj92
+1238489854742331400,Fri Mar 13 15:39:26 +0000 2020,@windkomo @schickling Our support team is looking into it. They'll get back to you via email in a bit 🙌 Sorry again for the inconvenience!
+1238455155110142000,Fri Mar 13 13:21:33 +0000 2020,@windkomo @schickling Hey Maxime 👋 apologies for the delayed response times, do you still have any support requests… https://t.co/bQ38AWQ6eq
+1237450401261199400,Tue Mar 10 18:49:01 +0000 2020,RT @mojombo: Introducing RedwoodJS (https://t.co/4qsI2JP2Ld), a new JS web framework I’ve been working on for the past year! Today we are r…
+1235264700084105200,Wed Mar 04 18:03:49 +0000 2020,💌 Prisma version 2.0.0-preview023 ◆ Allows models without IDs ◆ Supports tables with composite primary keys ◆ Suppo… https://t.co/hXYVDEzcwZ
+1230529131898704000,Thu Feb 20 16:26:21 +0000 2020,✨ Help us build a great online presence! ✨  We're looking for a Web Development Lead to kickstart Prisma's web deve… https://t.co/TGfZJEbrG3
+1230414102872326100,Thu Feb 20 08:49:16 +0000 2020,@ThomphoMadula Not yet — but we have an issue open for it here: https://t.co/BDZK4WME6F
+1230195593441493000,Wed Feb 19 18:21:00 +0000 2020,💌 Prisma 2 preview release 22: ◆ Send raw SQL queries ◆ Stopped shipping TS with Prisma Client ◆ Introspection impr… https://t.co/645GOGF8gJ
+1228359249039937500,Fri Feb 14 16:44:01 +0000 2020,@AfricanSinatra We're actively working towards the launch! 🔜  You can find more information on our site: https://t.co/Bo6q3GinBC 👀
+1228270343325986800,Fri Feb 14 10:50:44 +0000 2020,https://t.co/Ly0BwBbZkJ
+1227633904108101600,Wed Feb 12 16:41:45 +0000 2020,@flybayer Sorry about that! Can you send over an email to hello@prisma.io, and we'll invite you to the slack channel via email.
+1224995139174719500,Wed Feb 05 09:56:15 +0000 2020,🦀 We loved kicking off the year hosting the January edition of @RustBerlin's Rust and Tell Meetup!  📸 Photos from t… https://t.co/qwCpqVkCF4
+1224632127536423000,Tue Feb 04 09:53:46 +0000 2020,👀 At Prisma, we're building the next-generation of database tools for JavaScript and TypeScript – in Rust 🦀 https://t.co/8IS1gZxcq6
+1220379143298306000,Thu Jan 23 16:13:55 +0000 2020,💌 Prisma 2 preview release 20: ◆ Many breaking, important changes 🚨🚨 ◆ Photon.js renamed to Prisma Client JS ◆ Lift… https://t.co/PE6b0cxRZe
+1219638015355752400,Tue Jan 21 15:08:57 +0000 2020,RT @schickling: ⁉️ JavaScript/TypeScript developers: What are you using to manage/import environment variables during local development?…
+1216733467226054700,Mon Jan 13 14:47:19 +0000 2020,RT @nikolasburk: 🎓 Are you an experienced Node.js/TypeScript dev who enjoys ...  ✅ designing learning experiences? ✅ creating technical con…
+1215197254862233600,Thu Jan 09 09:02:57 +0000 2020,RT @adrianmg: Spent the last few hours building a small blog system from scratch with @redwoodjs and… HOLY COW! It's the best JAMStack I've…
+1214936672653205500,Wed Jan 08 15:47:29 +0000 2020,👕 Help improve Prisma &amp; win a T-Shirt  We're looking for SQL schemas to test Prisma. Send yours to schemas@prisma.i… https://t.co/1mGPRVwNdy
+1214642660432130000,Tue Jan 07 20:19:11 +0000 2020,RT @mxstbr: What React is to the DOM, @prisma is to databases.
+1214545642716115000,Tue Jan 07 13:53:41 +0000 2020,RT @mojombo: Wow, thanks, Max! We are quickly approaching a public release and will start talking about Redwood a lot more in the next few…
+1208081270640717800,Fri Dec 20 17:46:34 +0000 2019,✨ GitHub now supports syntax highlighting for Prisma!   Use the .prisma file extension or annotate code snippets in… https://t.co/BpvtaU1he0
+1208022539517276200,Fri Dec 20 13:53:12 +0000 2019,💌 Prisma 2 preview release 19 features: ◆ Multiple breaking changes.🚨 We recommend reading the notes! 🚨 ◆ Changes i… https://t.co/qyCgXxLuz0
+1206317389035556900,Sun Dec 15 20:57:32 +0000 2019,RT @schickling: 🤯 Just tried out the upcoming Next.js version (via canary) together with Prisma 2 for type-safe DB access within (!) your R…
+1205147112637374500,Thu Dec 12 15:27:16 +0000 2019,RT @jferrettiboke: 📣 I’m looking for remote work. Is there any opportunity out there? I’m a full-stack JavaScript dev. My skills include mo…
+1205142558076285000,Thu Dec 12 15:09:10 +0000 2019,👀 GraphQL Berlin talks by @fdesverne, @vilvaathibanpb are up!   ✨ GraphQL Subscriptions: DJ TurnTable with Apollo,… https://t.co/xxDhwHZoCF
+1204814666997936000,Wed Dec 11 17:26:15 +0000 2019,@Josh_Dev1205 @codesandbox @unubohq We'd be happy to look more closely into it. Would you mind opening an issue:  https://t.co/WaE1CL8qvJ
+1204808593574387700,Wed Dec 11 17:02:07 +0000 2019,@hugenslouis Prisma2 is currently still in preview mode. We recently published a blog post to share an updated time… https://t.co/I87wqY7nI8
+1204066885215670300,Mon Dec 09 15:54:50 +0000 2019,💌 Prisma 2 preview release 18 features: ◆  The removal of the `prisma2 convert` command from the Prisma Framework C… https://t.co/FPGMgLlPGE
+1202998679239614500,Fri Dec 06 17:10:10 +0000 2019,🥳 It's December and we have exciting news to share: We've finally ironed out a timeline for Prisma 2. Learn more on… https://t.co/JPENya8HOY
+1199717638991073300,Wed Nov 27 15:52:29 +0000 2019,RT @MichalLytek: I am thrilled to present the first preview of the upcoming @typegraphql &amp; @prisma integration 🎉 It allows to generate Type…
+1199001018979246000,Mon Nov 25 16:24:53 +0000 2019,✨ We are looking for a Developer Success Engineer— someone who is growing as an engineer themselves and loves helpi… https://t.co/pInGs3sBeJ
+1198997447722381300,Mon Nov 25 16:10:42 +0000 2019,💌 Prisma 2 preview release 17 features: ◆ Breaking changes in where Photon.js gets generated and how it's imported… https://t.co/mtipbCOBJM
+1197873656761852000,Fri Nov 22 13:45:09 +0000 2019,@homoky Here they are: https://t.co/7HbdtgTQ9g
+1197872245898645500,Fri Nov 22 13:39:33 +0000 2019,👀 TypeScript Berlin Meetup talks by @TimSuchanek, @hexrcs, @TejasKumar_ are live!   ✨ Generics, Conditional &amp; Mappe… https://t.co/H6L3hYs9cM
+1197861505976459300,Fri Nov 22 12:56:52 +0000 2019,@homoky Definitely! Those are coming shortly :D
+1197827153435484200,Fri Nov 22 10:40:22 +0000 2019,💙 Awesome talks and a full house at the November TypeScript Meetup!  📸 Photos from the event:… https://t.co/knbMEdQwbf
+1197823517993111600,Fri Nov 22 10:25:55 +0000 2019,@dmzza Most roles are in Berlin. We have a couple remotes around the world. It's really case by case. Feel free to… https://t.co/xIrTNSsvXZ
+1197823053016838100,Fri Nov 22 10:24:04 +0000 2019,@_3mard Thanks for coming. You can find the slides here: https://t.co/RZAgI4T1Gn
+1197523560446808000,Thu Nov 21 14:34:00 +0000 2019,🙌 Prisma is hiring! We're looking for great folks to join the team across a variety of departments and functions!… https://t.co/b2wBS9OMem
+1197187015466463200,Wed Nov 20 16:16:41 +0000 2019,RT @designatednerd: Packed house for @nikolasburk’s #GraphQL talk today at #GoToCPH https://t.co/S234iFPATJ
+1197104437954789400,Wed Nov 20 10:48:33 +0000 2019,💡 We use them daily, but what are databases?   😎 Here are some fundamentals!  https://t.co/AwHtBSomZN
+1194994293229916200,Thu Nov 14 15:03:36 +0000 2019,💝 Prisma's Quaint (currently in preview) is an abstraction over certain SQL databases. Written in Rust, it can:  ◆… https://t.co/wery3Sw274
+1194641948419731500,Wed Nov 13 15:43:30 +0000 2019,🧪 GraphQL Nexus update: Plugin System PR merged! (thanks, @tgriesser)  🥽 It adds a comprehensive "Plugins" API exte… https://t.co/rD8GWArYTk
+1193876783696957400,Mon Nov 11 13:03:01 +0000 2019,🌍 Prisma has employees from 10 different countries, a number of whom now live in Berlin.   Some tips and considerat… https://t.co/XaQYFcjpRx
+1192751579335659500,Fri Nov 08 10:31:51 +0000 2019,💌 Prisma 2 preview release 16 features: ◆ Vast increases in query engine throughput. The limitation that the query… https://t.co/aihAYxdgqR
+1192133280377790500,Wed Nov 06 17:34:57 +0000 2019,🎉 The 2nd Berlin TypeScript Meetup is coming soon: Thursday, November 21st!  📆 RSVP and join in:… https://t.co/5uSn4WSl2s
+1192104565841236000,Wed Nov 06 15:40:51 +0000 2019,👾 Share your database schema!  🤩 Prisma is collecting database schemas to improve the Prisma Framework (and they ca… https://t.co/vdTVgEpNzv
+1191735980014870500,Tue Nov 05 15:16:13 +0000 2019,RT @etelsverdlov: .@Prisma is hiring for a Community Support Specialist, a role that's great for students. ⏰  👩‍🎓 https://t.co/63Gdq25CAt h…
+1189929006973497300,Thu Oct 31 15:35:57 +0000 2019,Boo! https://t.co/iBHzKvjncb
+1189559550338355200,Wed Oct 30 15:07:52 +0000 2019,@timsuchanek @3nmga Hi! Thanks for reporting 🙌. We have fixed the type.
+1189284227554119700,Tue Oct 29 20:53:50 +0000 2019,🦀 We loved hosting the October edition of @RustBerlin's Rust and Tell Meetup in the Prisma office today!  📸 Photos… https://t.co/kSe6cTVsTr
+1189238210779586600,Tue Oct 29 17:50:59 +0000 2019,RT @RustNeon: @prisma is looking for a @rustlang programmer for a short-term contract to help with our N-API port. If you have Rust experti…
+1188820949275201500,Mon Oct 28 14:12:56 +0000 2019,🙌 Prisma is headed to Vienna!  🔜 @TimSuchanek is giving a talk at ViennaJS this Wednesday, October 30th on Prisma t… https://t.co/PCrb3q38Ha
+1188735325952196600,Mon Oct 28 08:32:41 +0000 2019,@maximelebreton You will need to implement file resizing the you node application using one of many existing soluti… https://t.co/6Dz4pjc9lt
+1188347719057842200,Sun Oct 27 06:52:29 +0000 2019,RT @MichalLytek: I am happy to announce that @typegraphql has reached 3000 🌟 on @github! 🎉 Please stay tuned to hear some amazing info abou…
+1187620796375679000,Fri Oct 25 06:43:57 +0000 2019,@thislekan Hello! You will need to create an application server first that will consume the Prisma Server instance… https://t.co/eBGd1mZvCT
+1187617313677287400,Fri Oct 25 06:30:07 +0000 2019,@schickling @roach_iam In production, you would compile the typescript file to a javascript files and run them like… https://t.co/NJGAcRCGqd
+1186939578495705000,Wed Oct 23 09:37:02 +0000 2019,💌 Prisma 2 preview release 15 features: ◆ An explicit warning in Lift for destructive changes before a schema migra… https://t.co/6fpmOx4wCa
+1185125878772195300,Fri Oct 18 09:30:02 +0000 2019,🐣 nexus-prisma is now a Nexus plugin!  🐥 Read the release notes: https://t.co/3g4SZ3pmv6 https://t.co/tCaooHBqgY
+1183713543968952300,Mon Oct 14 11:57:55 +0000 2019,Check out last week's GraphQL Berlin Meetup talks! 🙌  🏛System Design &amp; Architecture @ GraphQL @bogdanned32 ✨ Pursui… https://t.co/pSYTSIkw7I
+1183687711871377400,Mon Oct 14 10:15:17 +0000 2019,💌 Prisma 2 preview release 14 has breaking changes: ◆ `nexus-prisma` generator removed from the Prisma schema ◆ Sel… https://t.co/BozmTRre5A
+1177652393938473000,Fri Sep 27 18:33:05 +0000 2019,💌 Prisma 2 preview release 13 features: ◆ A more stable Prisma Studio. Try it: `prisma2 dev` 📊 ◆ Being able to dire… https://t.co/ZjsQmE1wPj
+1176781748794994700,Wed Sep 25 08:53:27 +0000 2019,👾 Help create an amazing learning experience for devs!   🙌 We're looking for a content fullstack engineer to build… https://t.co/VHaDJpf1cu
+1176508054604517400,Tue Sep 24 14:45:53 +0000 2019,🧐 Curious about the difference between:  • relational databases • document databases • key-value databases • graph… https://t.co/yIbnM4q8Xw
+1175091276087287800,Fri Sep 20 16:56:07 +0000 2019,@victorhqc @AtomEditor This looks really cool! Thank you so much for creating and sharing it!
+1175085953943253000,Fri Sep 20 16:34:58 +0000 2019,RT @victorhqc: Hey @prisma I just published a package to enable syntax highlighting for @AtomEditor! 🎉 https://t.co/7BavJZUwaC its tree-sit…
+1175085352593363000,Fri Sep 20 16:32:34 +0000 2019,💌 Prisma 2 preview release 12 features: ◆ Breaking Change! A new way that the `Photon` constructor is exported 🚨 ◆… https://t.co/Q1QtCTYjFz
+1175011699629293600,Fri Sep 20 11:39:54 +0000 2019,RT @etelsverdlov: Joining in the #climatestrike with the office! 🌍 https://t.co/wiCa8bxgKD https://t.co/18ZAO7jTBx
+1174734154426134500,Thu Sep 19 17:17:02 +0000 2019,@and3rsonsousa Our support team has fixed this issue. Please check your email for more information.
+1174705128512901000,Thu Sep 19 15:21:42 +0000 2019,@and3rsonsousa   We just checked and https://t.co/NTflCxgwjw is not down. If you are facing some issues, please wri… https://t.co/NrNnUL4vnm
+1174675686059061200,Thu Sep 19 13:24:42 +0000 2019,RT @CodeMochi: Create nested GraphQL mutations with Prisma 2 and Photon so you can do things like create a user and all of their blog posts…
+1174008887508381700,Tue Sep 17 17:15:05 +0000 2019,🙌 Very excited about the new features in @Yugabyte DB's 2.0 release today! 🎉  🚀 Learn more about how Prisma and Yug… https://t.co/DzYTMnbinZ
+1173619429835513900,Mon Sep 16 15:27:31 +0000 2019,RT @schickling: 💯 ORM usage in a nutshell. We're working on a new version of @prisma to fix it! https://t.co/FKOBhXTp9Y
+1173572893210534000,Mon Sep 16 12:22:36 +0000 2019,🐬 Dive into Photon.js with Node or TypeScript! Ready-to-run examples cover basic Photon.js usage with a database or… https://t.co/twdOM62SUj
+1173281621086224400,Sun Sep 15 17:05:11 +0000 2019,@lstevenm10 At the time of general release only SQLite, MySQL and PostgreSQL will be supported.  We will release mo… https://t.co/pCHScHeQHs
+1172886961348128800,Sat Sep 14 14:56:57 +0000 2019,@lstevenm10 We are aiming for a general release this fall. It is taking a considerable amount of time because we wa… https://t.co/kMnCryIQOO
+1172531739488637000,Fri Sep 13 15:25:25 +0000 2019,💌 Prisma 2 preview release 11 features: ◆ Initial support for Windows! Try it out! 😎 ◆ 32 bug fixes and improvement… https://t.co/1CHfuKqFyl
+1172190358492655600,Thu Sep 12 16:48:54 +0000 2019,@thirdcreed Yes, you can send your question to support.
+1172186436042449000,Thu Sep 12 16:33:19 +0000 2019,@thirdcreed We actually stopped managing the forum now. You can get community support on our public slack: https://t.co/5yFFJvNyEh
+1172185510929928200,Thu Sep 12 16:29:38 +0000 2019,@thirdcreed I am sorry that you had a bad experience. Can you please write us at "support@prisma.io" so that we can… https://t.co/a1csA1EpUK
+1172105923436982300,Thu Sep 12 11:13:23 +0000 2019,@alisalahio  Hi, fortunately, we are not down right now 😅. I think you are hitting a bug and the databrowser is not… https://t.co/gEx2RbL2ye
+1171134938437116000,Mon Sep 09 18:55:02 +0000 2019,@iheanyiaguwa We are aiming for a release this fall. It is taking time because we want to make sure that we have mi… https://t.co/Tn2dHG2vdW
+1171072665249095700,Mon Sep 09 14:47:35 +0000 2019,RT @nikolasburk: Hey #GraphQLDay 👋 thanks everyone for coming to my talk! You can find the runnable demo project as well as a link to my sl…
+1169949699610153000,Fri Sep 06 12:25:19 +0000 2019,💌 Prisma 2 preview release 10 features: ◆ New fixes to Prisma Studio! Check it out! 🤩 ◆ 11 bug fixes and improvemen… https://t.co/nCI5Ctms4J
+1168526055612792800,Mon Sep 02 14:08:16 +0000 2019,@shebs_72 Thanks for the heads up!
+1168440556181176300,Mon Sep 02 08:28:31 +0000 2019,💫 Congratulations, GraphQL Nexus, created by @tgriesser, on reaching 1000 GitHub stars! ✨  🌌… https://t.co/liAGpmCsvK
+1168282014740406300,Sun Sep 01 21:58:32 +0000 2019,RT @schickling: @KenScambler We're working on proving you wrong @prisma. While we're not aiming to create a 100% feature compatible abstrac…
+1167432857972805600,Fri Aug 30 13:44:17 +0000 2019,😍 Our Friday Favorite this week is @sourcetree, from @Atlassian. It's a cross platform (MacOS &amp; Windows) Git UI tha… https://t.co/TKqcDJtGIu
+1167375605844840400,Fri Aug 30 09:56:47 +0000 2019,Thanks you, @NovalisGoesCraz, @_RyKi_ , @alizahid0 &amp; GitHub handles serotonyn, reiwa, WeslleyNasRocha for opening P… https://t.co/UT9wgV4Fwo
+1167374481431629800,Fri Aug 30 09:52:19 +0000 2019,💌 Prisma 2 preview release 9 features: ◆ An improved, more approachable `prisma2 init` command, which launches a wi… https://t.co/56LkvWH018
+1167078277841862700,Thu Aug 29 14:15:19 +0000 2019,@leahayes Right now there is no read only mode for data access using the studio. But I will add your +1 to this feature request 👍
+1166739327818391600,Wed Aug 28 15:48:27 +0000 2019,👨‍🏫 Yesterday was the first Meetup in the new Prisma office, and the start of many more to come!  While the talks w… https://t.co/Zl22jarQ9M
+1164900562040688600,Fri Aug 23 14:01:51 +0000 2019,🤝 Thanks so much @NovalisGoesCraz, @yovano_c, @deadcoder0904, @alizahid0, @cdebotton, @_RyKi_, @terion_fallen,… https://t.co/7fus8ASyWf
+1164899248342732800,Fri Aug 23 13:56:38 +0000 2019,💌 Prisma 2 preview release 8 addressed three issues this week: ◆ SQLite relative path is broken 🔧 ◆ Tab characters… https://t.co/TBZXrZOeGd
+1164117076149248000,Wed Aug 21 10:08:33 +0000 2019,📚 The Prisma 2 docs are continuously getting built out! Take a look and share your feedback!   https://t.co/6xI169TwLY
+1162402702078484500,Fri Aug 16 16:36:15 +0000 2019,Thank you so much to @terion_fallen and GitHub handles: cypcz, loycord, james-ff, sameoldmadness, weaversam8 for re… https://t.co/N7oDdqaJOf
+1162401852585123800,Fri Aug 16 16:32:52 +0000 2019,💌 Prisma 2 preview release 7 shipped with: ◆ A more performant Lift migration engine, especially for remote migrati… https://t.co/nV6IJgHlx5
+1161659350953472000,Wed Aug 14 15:22:26 +0000 2019,🤝 The Guild Takes over Development of the GraphQL CLI &amp; Other Libraries (by @UriGoldshtein from @TheGuildDev)  https://t.co/vOzK4jHkau
+1161299701796356000,Tue Aug 13 15:33:19 +0000 2019,@awefulbrown Yes
+1161269506259468300,Tue Aug 13 13:33:20 +0000 2019,@awefulbrown Yes, you can use this endpoint to access the Prisma GraphQL Playground. But in order to authenticate y… https://t.co/msU5MtDeAD
+1160957331695440000,Mon Aug 12 16:52:52 +0000 2019,🙌 A huge thank you to everyone who reported Prisma 2 issues last week: @ellipticaldoor, @jsep_do, @schmid_si,… https://t.co/8GxpWyIiA7
+1160957329703080000,Mon Aug 12 16:52:51 +0000 2019,💌 Prisma 2 preview release 6 shipped with: ◆ 26 bug fixes across the Photonjs, Lift, and Prisma2 repos🙅‍♀️🕷 ◆ an ov… https://t.co/0tdhAKkPPB
+1159865326881976300,Fri Aug 09 16:33:37 +0000 2019,So much ❤️ for this week's Friday Favorite, @codesandbox, created by @CompuIves!   We use CodeSandbox to run Prisma… https://t.co/LJFKAl1rgM
+1159568733523914800,Thu Aug 08 20:55:04 +0000 2019,RT @CodeMochi: Easy breezy one-command #fullstack serverless stack deployment with Prisma 2, React with Next.js, AWS MySQL RDS and Zeit Now…
+1159134223070048300,Wed Aug 07 16:08:29 +0000 2019,RT @elmotta: Today we are launching the beta app for @thenuwardrobe. Couldn't be more excited!! Huge shout to the people behind @reactnativ…
+1158663442825453600,Tue Aug 06 08:57:46 +0000 2019,💌 Latest Prisma 2 preview release shipped with 19 bug fixes to increase stability and resolve critical and annoying… https://t.co/4Iv7b2kGDP
+1156571871753789400,Wed Jul 31 14:26:36 +0000 2019,@valcanbuild This is going to change with new aggregations API in Prisma 2. You can read the specification for the… https://t.co/32KKLNpHjc
+1156211657112244200,Tue Jul 30 14:35:15 +0000 2019,RT @honeypotio: Get the most out of @GraphQL but don’t forget your sun cream.. 🔥🔥 #GraphQLDay is fast approaching!  @nikolasburk (Dev Relat…
+1155873982970847200,Mon Jul 29 16:13:27 +0000 2019,💌 Prisma 2 preview-3 release is shipped!  ◆ Photon JS can now be deployed to ZEIT, AWS, Netlify, &amp; more ◆ `autoConn… https://t.co/2wWQWKLRxN
+1154774592759709700,Fri Jul 26 15:24:52 +0000 2019,😍 This week's Friday Favorite, @Getinsomnia, is really handy! Created by @GregorySchier, it lets you quickly test y… https://t.co/hVgWGptz1p
+1152264102623846400,Fri Jul 19 17:09:04 +0000 2019,😍 For those who use @code, this week's Friday Favorite is a helpful list, created by @burkeholland and @sarah_edo,… https://t.co/eOeSFVW31j
+1152213369392250900,Fri Jul 19 13:47:29 +0000 2019,🚀 @nikolasburk spoke at GraphQL Conf last month and his full talk on code-first GraphQL server development with Pri… https://t.co/DAzUf1oS7T
+1151096129670529000,Tue Jul 16 11:47:58 +0000 2019,@james2mid Thanks for reporting! We have taken down that post.
+1151095293758378000,Tue Jul 16 11:44:39 +0000 2019,🙌 A huge thank you to everyone who joined in for the first Prisma Day! Check out all of the videos and photos from… https://t.co/1DAHBY9x4v
+1149664075951087600,Fri Jul 12 12:57:30 +0000 2019,😍 We're big fans of Flycut, created by @termit. A simple clipboard manager for developers, it lets you easily acces… https://t.co/9vreqTUn7m
+1149602585239703600,Fri Jul 12 08:53:09 +0000 2019,💌 The latest Prisma 2 Preview release is shipped!  ◆ Support for ZEIT Now deployments for Photon JS ◆ 20 bug fixes… https://t.co/AtWp8Z6pwR
+1148634168382959600,Tue Jul 09 16:45:00 +0000 2019,🙌 Which of the new Prisma 2 tools have you tried so far?   ✨ https://t.co/iHlaY6bxuN  ✨ https://t.co/1eZAXTeiWe
+1145640783732756500,Mon Jul 01 10:30:22 +0000 2019,@darioielardi Hi! Currently we have an RFC for the upcoming Go client: https://t.co/y5Dz00T1Tw  We will love to hear your feedback on this.
+1144535527095447600,Fri Jun 28 09:18:28 +0000 2019,@mohsenzzardeyni Hi! Subscription are already implemented but they are documented yet.   Please refer to the follow… https://t.co/CMjIPylzpI
+1144294972813918200,Thu Jun 27 17:22:36 +0000 2019,@apollographql @krcomet We are currently working on dedicated test utils for Prisma 2 here: https://t.co/R7u7NkQAXV… https://t.co/HQtsOpV9bf
+1144286902184529900,Thu Jun 27 16:50:31 +0000 2019,@bradgarropy Master 🙏
+1144194142253256700,Thu Jun 27 10:41:56 +0000 2019,@tombozwell Currently Prisma 2 is in preview. Right now we are focusing on stabilizing the engines and the API. Exp… https://t.co/6UwCKpGNYU
+1143943959212900400,Wed Jun 26 18:07:47 +0000 2019,@codemochi @lawjolla There are plans for an event engine which will handle use case of subscriptions.
+1143925428928876500,Wed Jun 26 16:54:10 +0000 2019,@codemochi @heymartinadams Prisma Admin has been renamed to Prisma Studio in Prisma 2
+1143922685900206100,Wed Jun 26 16:43:16 +0000 2019,RT @CodeMochi: The future of GraphQL with Prisma 2 is amazing- a beautiful admin UI (Prisma Studio), a super fast query engine that doesn’t…
+1143509724714979300,Tue Jun 25 13:22:18 +0000 2019,RT @chrisgrice: Code-first GraphQL Server Development with Prisma, from @nikolasburk - Prisma v2, Photon and Lift look *great*, the splitti…
+1141999966333915100,Fri Jun 21 09:23:03 +0000 2019,@pete_tnt Thanks for the heads up! Here is the link you were looking for https://t.co/RKFDxj5KcP
+1141986447282647000,Fri Jun 21 08:29:20 +0000 2019,RT @leeb: And @nikolasburk might just have showed my favorite slide of the entire @thegraphqlconf week. https://t.co/2xM9Q7b27F
+1141986228285444100,Fri Jun 21 08:28:28 +0000 2019,.@nikolasburk does a live demo at #GraphQLConf using SQLite, Photon JS (https://t.co/QdSzq9xoTM), Nexus, and Apollo… https://t.co/R3fEsDtIsW
+1141629946395336700,Thu Jun 20 08:52:44 +0000 2019,We are at @thegraphqlconf— come by and chat with us about Nexus-Prisma, Prisma 2, or just say hello! 👋 https://t.co/BU0pAcOafw
+1141629331422306300,Thu Jun 20 08:50:17 +0000 2019,@otrebu Definitely! They'll all be on YouTube once they're ready!
+1141427293564411900,Wed Jun 19 19:27:28 +0000 2019,RT @nikolasburk: What a great turnout for Prisma Day! Huge thanks to all the speakers and our MC @pvh who made this day awesome. A special…
+1141355853154533400,Wed Jun 19 14:43:35 +0000 2019,We're almost done! @marklarosa giving the second to last talk at Prisma Day discussing how data access in enterpris… https://t.co/1ey4hi5gDq
+1141353012394434600,Wed Jun 19 14:32:18 +0000 2019,After a short coffee break, we're back with @_mavilein explaining more about Prisma's query engine, the Rust rewrit… https://t.co/h1ELIBOEPo
+1141352652506390500,Wed Jun 19 14:30:52 +0000 2019,. @lydiahallie did a great job on showing the Prisma Day crowd best practices for using databases in integration te… https://t.co/wzGjjBHRMz
+1141333058626498600,Wed Jun 19 13:13:00 +0000 2019,RT @etelsverdlov: .@TimSuchanek shares the powerful migration capabilities of Prisma 2! 😎🚀  #prismaday https://t.co/FKZVfE05bq
+1141331275283861500,Wed Jun 19 13:05:55 +0000 2019,Now it's @TimSuchanek's turn to give a practical introduction to database migrations using Lift from Prisma 2 😎 https://t.co/loSKItVQVH
+1141330468929003500,Wed Jun 19 13:02:43 +0000 2019,In this talk, @evan from @faunadb gives a history of the evolution of databases and explains the guiding principles… https://t.co/vpUXEIfX1M
+1141319880932806700,Wed Jun 19 12:20:38 +0000 2019,RT @dzello: Zoom in on the text #PrismaDay #RealTalk #ServerlessOpinions @rauchg https://t.co/LqhOvHTdju
+1141318955757445100,Wed Jun 19 12:16:58 +0000 2019,After a nice lunch in the sun, we're continuing the sessions with @rauchg from @zeithq who talks to us about statef… https://t.co/k7PGfzhmOh
+1141298724968325100,Wed Jun 19 10:56:34 +0000 2019,. @thorwebdev from Stripe and @fdesverne from the Prisma team are presenting what a modern development stack looks… https://t.co/CfCHhOmFUq
+1141296599773188100,Wed Jun 19 10:48:08 +0000 2019,@grounzero2 @ziegfri3d @splunk It is not being livestreamed, but we will have videos available after the event. :)
+1141293127715708900,Wed Jun 19 10:34:20 +0000 2019,. @ziegfri3d from @splunk explains how end-to-end type safety lets developers move fast and makes them more product… https://t.co/rSHCEBMGs1
+1141283917858820100,Wed Jun 19 09:57:44 +0000 2019,RT @passionkind: #codesandbox being presented by 22yo genius creator @CompuIves himself #prismaday https://t.co/uhowFIW0TW
+1141283272388948000,Wed Jun 19 09:55:10 +0000 2019,Next up: @NikkitaFTW  and @compuives talking about using databases in CodeSandbox and showcasing how Photon can be… https://t.co/yLQlYH6TB0
+1141268916137799700,Wed Jun 19 08:58:08 +0000 2019,. @RajInWonderland and @rovvum doing an amazing live coding session to demo how to build REST, gRPC and REST APIs w… https://t.co/grRn9dkAPR
+1141261803458089000,Wed Jun 19 08:29:52 +0000 2019,RT @nikolasburk: Prisma Day has kicked off with nice welcome words from @pvh, a keynote from @schickling and a practical introduction to Pr…
+1141258632836919300,Wed Jun 19 08:17:16 +0000 2019,.@schickling kicks off #PrismaDay! 🙌 https://t.co/fHt8H6Abkp
+1141256128510267400,Wed Jun 19 08:07:19 +0000 2019,@n44ps It's not being streamed, but we will have videos available afterward! 😊
+1141025713723719700,Tue Jun 18 16:51:44 +0000 2019,🚀 Prisma 2 Preview: Type-safe Database Access &amp; Declarative Migrations  https://t.co/jlrZH6lY4k
+1140628421841756200,Mon Jun 17 14:33:02 +0000 2019,💡 Large enterprises have data scattered across various legacy systems which makes it difficult to move fast and inn… https://t.co/d0j4DfOpVB
+1140538747865444400,Mon Jun 17 08:36:42 +0000 2019,‼ Tickets for Prisma Day this Wednesday are almost sold out! Grab yours before they're all gone. 💨  https://t.co/IXzhaXFnDQ
+1139551526911955000,Fri Jun 14 15:13:50 +0000 2019,😍 This week's Friday Favorite, direnv, created and maintained by @zimbatm, lets you manage environment variables pe… https://t.co/mTNPPfpi0S
+1139544285949415400,Fri Jun 14 14:45:04 +0000 2019,🏋️‍♂️ Database migrations can be painful. Join us at Prisma Day to watch @TimSuchanek's talk and learn how to perfo… https://t.co/FKtU5k5LSE
+1139211982798819300,Thu Jun 13 16:44:36 +0000 2019,Available at Prisma Day next Wednesday! https://t.co/TblBw8kySm
+1139171182752751600,Thu Jun 13 14:02:29 +0000 2019,@numberToString DM us about it. 😁
+1139168419843051500,Thu Jun 13 13:51:30 +0000 2019,🚀 End-to-end type-safe applications enable developers to move fast by automatically mapping data structures between… https://t.co/Oes5u3NqUf
+1139038318501539800,Thu Jun 13 05:14:32 +0000 2019,@heymartinadams 👀 https://t.co/F0Y3TfuuM7
+1138367636042145800,Tue Jun 11 08:49:28 +0000 2019,🔨 Prisma simplifies database access – no matter what you're building. Join @RajInWonderland and @rovvum when they s… https://t.co/RG1Ad68x80
+1136996704971108400,Fri Jun 07 14:01:53 +0000 2019,⁉️ Prisma 2 will feature a more powerful datamodel syntax and we're looking for feedback on formatting and readabil… https://t.co/XOqvzovVHc
+1136913041193394200,Fri Jun 07 08:29:26 +0000 2019,Hey friends @WeAreDevs 👋  Want to learn about latest API trends, modern app development and DB best practices? 🧐 Jo… https://t.co/QlBibDrOGw
+1136278822242914300,Wed Jun 05 14:29:16 +0000 2019,🎤 We are very excited to welcome @pvh as our MC at Prisma Day!  Peter was an early employee at @heroku where he lat… https://t.co/o69m1Awf1g
+1135890761847857200,Tue Jun 04 12:47:16 +0000 2019,@rudin We are on it. Thanks for reporting 👍
+1135582558379544600,Mon Jun 03 16:22:34 +0000 2019,@CodeMochi YES! 🙌
+1135575392532742100,Mon Jun 03 15:54:06 +0000 2019,👀 Prisma 2 is Coming Soon  https://t.co/83JenyNv4G
+1134749432069726200,Sat Jun 01 09:12:01 +0000 2019,😎 Don't miss the post Prisma Day barbecue! After a great day of sessions, join in for a relaxing evening of yummy f… https://t.co/rikMwfj0Cy
+1134066629225209900,Thu May 30 11:58:49 +0000 2019,🧩 12 ready-to-run Prisma examples with TypeScript help you quickly and easily try out a variety of use cases with d… https://t.co/yiUpqumYzg
+1133773899546669000,Wed May 29 16:35:36 +0000 2019,📣 Prisma Day opportunity tickets are available for just 2️⃣ more days!   🤳 Don't forget to get yours before the app… https://t.co/QXv2wwVkjQ
+1133288044935696400,Tue May 28 08:25:00 +0000 2019,@TeamOnMyBack_Zo The talks will be posted on Youtube. We will not be livestreaming during the event, though.
+1133032638053343200,Mon May 27 15:30:06 +0000 2019,💡 The "Serverless age" has changed the way how developers interact with databases. At Prisma Day, @rauchg explains… https://t.co/cluCbF075o
+1131965252705357800,Fri May 24 16:48:41 +0000 2019,😍 Today's Friday Favorite is @audiosampling, a library of over 150 fully customizable noise generators including:… https://t.co/tHAx4mv9La
+1131875334159294500,Fri May 24 10:51:23 +0000 2019,@sebastiansoft @thorwebdev @fdesverne @thegraphqlconf Send us an email at day@prisma.io and we'll hook you up! 🙌
+1131858519458799600,Fri May 24 09:44:34 +0000 2019,🔨 Building for the web can feel overwhelming. Join us at Prisma Day and see @thorwebdev &amp; @fdesverne share best pra… https://t.co/kwutPBpIvY
+1131483539420209200,Thu May 23 08:54:32 +0000 2019,🏰 For those curious about code-first vs SDL-first approaches, and looking for a way to get more familiar with code-… https://t.co/p3fHD4YzGn
+1131162575171981300,Wed May 22 11:39:08 +0000 2019,🤯 SQL, NoSQL, NewSQL?! Join us at Prisma Day to see @evan (founder &amp; CEO at @fauna) dissect the modern database spa… https://t.co/u7F38ichhD
+1130793615503036400,Tue May 21 11:13:01 +0000 2019,🤔 Using databases in integration tests can be challenging. Watch @lydia_hallie highlight common problems and soluti… https://t.co/NBvMjqENUj
+1130792533838184400,Tue May 21 11:08:43 +0000 2019,@otrebu @thegraphqlconf There will be videos after the events for both Prisma Day and GraphQL Conf. Only GraphQL Co… https://t.co/UyxihiIHSF
+1130553882365423600,Mon May 20 19:20:24 +0000 2019,More details here: https://t.co/NPK4RyJvz6
+1130446078090850300,Mon May 20 12:12:02 +0000 2019,🛍 Join in for 3 packed days of amazing speakers and events this June in Berlin!   🌞 If you don't have your tickets… https://t.co/xIsKA88qN3
+1129376783021871100,Fri May 17 13:23:02 +0000 2019,✨ CodeSandbox is the best online code editor! Learn how to use the library-version of Prisma (without a server) fro… https://t.co/Ao9BqytIWC
+1129313722898554900,Fri May 17 09:12:27 +0000 2019,😍 When regex is necessary, RegExr, created by the @gskinner_team is awesome! 💫  🔎 We love how it shows matches visu… https://t.co/hbr0vqKDqX
+1129022788914896900,Thu May 16 13:56:23 +0000 2019,🙌 All ready for GraphQL Conf? It's June 20th &amp; 21st in Berlin!  🚀 @nikolasburk will speak about the Yoga framework… https://t.co/fZXKwFBe9N
+1129022788914896900,Thu May 16 13:56:23 +0000 2019,🙌 All ready for GraphQL Conf? It's June 20th &amp; 21st in Berlin!  🚀 @nikolasburk will speak about the Yoga framework… https://t.co/fZXKwFBe9N
+1128676925801627600,Wed May 15 15:02:03 +0000 2019,🌎 Spencer Kimball, CEO &amp; Founder of @CockroachDB, will discuss the challenges &amp; opportunities of modern databases a… https://t.co/C7FYqXxTpq
+1128650432878907400,Wed May 15 13:16:47 +0000 2019,🎉 Prisma v1.33 is now available. Check out the announcement and learn more on Spectrum!   ✨ https://t.co/lggdoPsN6C https://t.co/gVymnqlTWP
+1128328823588651000,Tue May 14 15:58:49 +0000 2019,🔎 Introspection for MySQL is available for Prisma v1.31 and up!   🚀 https://t.co/XaawLC49jW https://t.co/pOPsF5wqR0
+1126871020894289900,Fri May 10 15:26:02 +0000 2019,😍 GraphQL Code Generator makes creating type safe code so easy! With a single function call, it automatically gener… https://t.co/aGFFWvHa62
+1126832196591980500,Fri May 10 12:51:45 +0000 2019,RT @nikolasburk: The lineup for Prisma Day is insane! We'll have the founders of @CockroachDB, @faunadb, @zeithq &amp; @prisma on stage talking…
+1126818871632171000,Fri May 10 11:58:48 +0000 2019,RT @lydia_hallie: 🙌🔥 Excited to be speaking among such great speakers at Prisma Day on Database Integration Testing!  I’ll be covering some…
+1126461390397608000,Thu May 09 12:18:18 +0000 2019,🌈 Prisma Day opportunity tickets are still available til May 31st! Apply to get your ticket for Prisma Day in Berli… https://t.co/8uPTIsrPw8
+1125758090685689900,Tue May 07 13:43:39 +0000 2019,@kaihendry  Hi Kai 👋 ! Unfortunately there is no current solution that supports Prisma which solves your problem. W… https://t.co/SxYFd3wvKJ
+1125678918768431100,Tue May 07 08:29:02 +0000 2019,@orenmizr Yes, Prisma is production ready. You can find some of our customers that use Prisma in production here: https://t.co/bri0kWU8a3
+1125383367606841300,Mon May 06 12:54:38 +0000 2019,@glenngijsberts Hi Glenn 👋 ! You can find tutorials on deployment here: https://t.co/C04vk9Yfem
+1125324913361981400,Mon May 06 09:02:21 +0000 2019,🎉 Prisma v1.32 is now available. Check out the announcement, the related links about upcoming Prisma features, and… https://t.co/3N6Zbz5gKb
+1124250266314977300,Fri May 03 09:52:05 +0000 2019,😍 This week's Friday Favorite is Christophe Kalenzaga's incredible article: "How does a relational database work".… https://t.co/3WLnGxDkoJ
+1123975771637391400,Thu May 02 15:41:21 +0000 2019,@JasonEtco We’re working on the one-dep framework! Watch out! 👀
+1123975681610788900,Thu May 02 15:40:59 +0000 2019,RT @JasonEtco: The more I learn about @Prisma's OSS libraries, the more I'm sure that they're doing the right things. Libs that remove boil…
+1123874065796804600,Thu May 02 08:57:12 +0000 2019,🎯 Build a fully type-safe GraphQL server without boilerplate.   `nexus-prisma` auto-generates CRUD resolvers for Pr… https://t.co/9cPzNG0pT2
+1121746858710380500,Fri Apr 26 12:04:26 +0000 2019,😍 echo 'easy to use shell with various helpful features including auto-suggestions, syntax highlighting, and robust… https://t.co/GW9sr8YDaA
+1121717232562843600,Fri Apr 26 10:06:43 +0000 2019,RT @thegraphqlconf: 🎉 The official GraphQL Conf 2019 schedule is live! https://t.co/L8udzx2pyo  ✨ Read the announcement post to learn more…
+1120654469723775000,Tue Apr 23 11:43:40 +0000 2019,💜 Very excited about the new Prisma blog now running on @gatsbyjs and featuring a series view and an integration… https://t.co/kimFw0GoGV
+1120269723256672300,Mon Apr 22 10:14:50 +0000 2019,@errancarey Ok, the issue is more related to Prisma Admin and it is not very related to the new datamodel. We are w… https://t.co/m52QIeFWeg
+1120259402332868600,Mon Apr 22 09:33:49 +0000 2019,@wesbos @timsmith23 Hi 👋 ! Can you please tell us what problems you are facing with the new datamodel ?
+1119176565777215500,Fri Apr 19 09:51:01 +0000 2019,😍 For this Friday Favorite, we love how easy making and sharing beautiful code snippets is with Carbon. Created by… https://t.co/DM7VH8TZQl
+1118914026610753500,Thu Apr 18 16:27:47 +0000 2019,RT @novvumio: Confused about code-first schema development? Here's a breakdown of two options for @typescriptlang! 🎉  https://t.co/JhFDBcjA…
+1118886667102904300,Thu Apr 18 14:39:04 +0000 2019,🌥 ORM users: Where do you hit your ORM limitations?
+1118792475823484900,Thu Apr 18 08:24:47 +0000 2019,🎉 Prisma v1.31 is now available. Check out all of the updates on Spectrum.  https://t.co/zn9YzT622X
+1118556662988668900,Wed Apr 17 16:47:44 +0000 2019,@wcastand @jevakallio We might have something for you soon... 👀   (Be sure to grab your ticket for Prisma Day to no… https://t.co/BKK53Aro0P
+1118550886526148600,Wed Apr 17 16:24:47 +0000 2019,RT @travis_fnd: Hooray, @prisma are offering #DiversityTickets for their event! Apply for them before May 31st, 2019: https://t.co/y6d1zxe6…
+1118536691281793000,Wed Apr 17 15:28:23 +0000 2019,🚀 New Datamodel Syntax: More Schema Control &amp; Simpler Migrations  https://t.co/Zv9YaEXYEc
+1118459503631061000,Wed Apr 17 10:21:40 +0000 2019,RT @nikolasburk: At @prisma, we're trying to build exactly this with new version of GraphQL Yoga: https://t.co/RVzYGidlhu  - Type-safe by d…
+1118121791187300400,Tue Apr 16 11:59:43 +0000 2019,@Root3d @thegraphqlconf Thank you for reaching out. We've replied over email :)
+1116673325374242800,Fri Apr 12 12:04:02 +0000 2019,😍 A TypeScript Friday Favorite! For those who want to get into TypeScript, we love these cheatsheets created by… https://t.co/sH7vrO5qMX
+1116386400302182400,Thu Apr 11 17:03:53 +0000 2019,🎆 Announcing Prisma Day!   https://t.co/Trjy2bSSpx
+1115140444848103400,Mon Apr 08 06:32:55 +0000 2019,@sctx Hi 👋 ! Can you please DM us your email so that we manually send you an invite. Also, can you please ask the b… https://t.co/dzZDCkyBqm
+1114207266767540200,Fri Apr 05 16:44:48 +0000 2019,@notrab We've seen this issue in the past. Thanks for the heads up! We're going to take a look into it!
+1114177783666806800,Fri Apr 05 14:47:38 +0000 2019,@graphcool @colevels 💚
+1114167557488087000,Fri Apr 05 14:07:00 +0000 2019,🎉 Prisma v1.30 is now available. Check out the announcement and share your thoughts on Spectrum.   https://t.co/ahXcmykPLh
+1113744189932671000,Thu Apr 04 10:04:41 +0000 2019,@ezeikel_ Yes, it is the same one but it includes more features now as more parts of the spec have been implemented.
+1113678355365277700,Thu Apr 04 05:43:05 +0000 2019,@rohitghatol It is!
+1113378371600355300,Wed Apr 03 09:51:04 +0000 2019,@nirmal_kumar Hi Nirmal 👋 ! Yes, indeed it is a typo. Thanks for reporting this!
+1113373191140008000,Wed Apr 03 09:30:28 +0000 2019,🚀 We're currently testing an early beta of a more powerful datamodel syntax and would love to get your help. Read a… https://t.co/2mIp923Qku
+1113052098264993800,Tue Apr 02 12:14:34 +0000 2019,RT @schickling: ⁉️🔒 Are you using the auth features of your database as part of your application logic? (e.g. user/role-level access contro…
+1113005895800250400,Tue Apr 02 09:10:58 +0000 2019,@etelsverdlov 💚
+1112709749185884200,Mon Apr 01 13:34:12 +0000 2019,@luisromansilva Hi 👋! We really appreciate the feedback. Could you please open an issue about the problem that you… https://t.co/gWey7WvbF0
+1111702076424441900,Fri Mar 29 18:50:04 +0000 2019,😍 This Friday, we're all about lazygit, created by @DuffieldJesse. A lovely terminal based git UI, so you never aga… https://t.co/dxS2Azb6yW
+1111625944098373600,Fri Mar 29 13:47:32 +0000 2019,@graphcool @chmac It will be sooner than you expect. Also, we have a heroku one click deployment in Prisma cloud as… https://t.co/6B0WuSZU5x
+1111606300406935600,Fri Mar 29 12:29:29 +0000 2019,@seyz_ Hi 👋 , We really appreciate your feedback. We have built our documentation from scratch and we use tools lik… https://t.co/vkrDrgZVqn
+1111601055329067000,Fri Mar 29 12:08:38 +0000 2019,@nikolasburk @aravindxk Hi 👋 , Currently you cannot run Prisma without docker. But we will soon enable you to use P… https://t.co/k9XhlR9zvi
+1111587844605259800,Fri Mar 29 11:16:09 +0000 2019,@graphcool @chmac Right now we only provide hosting in our enterprise plans. But in the future we are going to enab… https://t.co/xDj8DQiEu2
+1111569962429280300,Fri Mar 29 10:05:05 +0000 2019,@graphcool @chmac We are currently focusing all our resources on Prisma. We encourage all new projects to use Prism… https://t.co/4WjtkM1lnI
+1110862524419846100,Wed Mar 27 11:13:59 +0000 2019,📌 ORM Users: what kind of ORM style do you prefer?
+1110523585003696100,Tue Mar 26 12:47:09 +0000 2019,⏱ What a migration! A great talk on how @novvumio rebuilt a complex legacy app with GraphQL and Prisma in 60 days!… https://t.co/NfASsUVIsh
+1110127522820382700,Mon Mar 25 10:33:21 +0000 2019,@d3vhound Thanks for reporting this! We have identified the problem and we will fix this problem very soon.
+1110111403879350300,Mon Mar 25 09:29:18 +0000 2019,@vysinsky Hey Michal 👋 thanks a lot for pointing this out. We're already working on fixing it, the code snippets should be back very soon!
+1109444144861192200,Sat Mar 23 13:17:51 +0000 2019,@paulogdm @JimTheDev @zeithq We’re working on a new “library version” that works without a server component. Stay tuned 📻
+1109101495226646500,Fri Mar 22 14:36:17 +0000 2019,RT @nikolasburk: At @prisma, we're expanding our content &amp; DevRel team.   Profile: 🔨 Technical background (= professional experience in bui…
+1109036756161253400,Fri Mar 22 10:19:02 +0000 2019,😍 This Friday we wanted to share one of our favorite screen recorders: Kap (created by @wulkanocom). Bonus points:… https://t.co/HY4tCvdQN1
+1108741112318124000,Thu Mar 21 14:44:15 +0000 2019,@healves82 Hi! You really can't access the service without a token(otherwise it will be a big security flaw). But y… https://t.co/HVkryOXYSc
+1108685224089710600,Thu Mar 21 11:02:10 +0000 2019,@alexey_rodionov Scala uses JVM which is quite memory heavy. Prisma server is quite stable at around 1GB but still… https://t.co/bfY76zgdWA
+1108335006890508300,Wed Mar 20 11:50:32 +0000 2019,@digitalocean @chanlitohem  Right now we don't have an one click setup for DigitalOcean but I will add your +1 to t… https://t.co/PDd8uMOuar
+1108330909751824400,Wed Mar 20 11:34:15 +0000 2019,@aws @hbarve1 We really can't give you an estimate right now for a cloud integration. But you can deploy prisma to… https://t.co/KYhqJhKYKI
+1108045514963148800,Tue Mar 19 16:40:11 +0000 2019,🤔 How Prisma and GraphQL fit together  https://t.co/9DuV6L4UGf
+1108004345419886600,Tue Mar 19 13:56:36 +0000 2019,🧗‍♂️ Prisma among the peaks at the Everest basecamp!   (just for the photo, of course. #nolittering 😎) https://t.co/2BjEtXq0ES
+1107557407616655400,Mon Mar 18 08:20:38 +0000 2019,@dpyzo0o Thank you &lt;3
+1107197875707146200,Sun Mar 17 08:31:58 +0000 2019,@jayphen Thank you &lt;3
+1106950093251534800,Sat Mar 16 16:07:23 +0000 2019,@immanuelrosal Thanks for reporting this. We will have a look.
+1106526460624470000,Fri Mar 15 12:04:01 +0000 2019,😍 For our Friday Favorite this week, we love "Use the Index, Luke", a super straightforward guide to SQL tuning and… https://t.co/BYqA287qn2
+1105939930818248700,Wed Mar 13 21:13:21 +0000 2019,🛰 Introducing Prisma Admin (Beta): A Modern UI to Manage Your Data  https://t.co/cnaxJLCzaP
+1103993415602184200,Fri Mar 08 12:18:36 +0000 2019,😍 We are inspired by and huge fans of Diversify Tech, created by @venikunche! A collection of great resources for u… https://t.co/GsxUGO4Xzq
+1103990779754831900,Fri Mar 08 12:08:07 +0000 2019,😸 Thrilled to have the Woman World Wide map featured on Product Hunt! We appreciate your support spreading the word… https://t.co/16zghJxYhe
+1103978013635608600,Fri Mar 08 11:17:24 +0000 2019,💜 Happy International Women's Day! To celebrate, we mapped some of the many amazing organization for women in tech… https://t.co/mZem7cdvbr
+1103647244883034100,Thu Mar 07 13:23:02 +0000 2019,💃🕺 Learn more about Prisma ➕ gRPC with Node and Typescript examples....   👉 https://t.co/yW8rzTt6Ib https://t.co/pAcqJj4dsd
+1103221231917121500,Wed Mar 06 09:10:13 +0000 2019,@khvleuri Material Theme Darker High Contrast 😎
+1102971279991287800,Tue Mar 05 16:37:00 +0000 2019,🧞‍♂️With generated type definitions, the Prisma client sets you up with auto-completion as you code (even for JavaS… https://t.co/gIfR32f2Wg
+1102835955604570100,Tue Mar 05 07:39:16 +0000 2019,RT @adamhjk: Auto-generating your ORM style model from the schema is a really great feature of Prisma. Combine it with typescript, and you…
+1101427619206180900,Fri Mar 01 10:23:02 +0000 2019,😍 This week's Friday Favorite @ThereHQ, created by @morajabi, makes connecting with remote teammates at the right t… https://t.co/X3XGWhHjRW
+1101121598214602800,Thu Feb 28 14:07:01 +0000 2019,✌️ Check out Prisma ➕ REST use cases among the Prisma examples made with Typescript, Node, and Go!  💫… https://t.co/r9O1aWBtrE
+1100348256545067000,Tue Feb 26 10:54:02 +0000 2019,🎯 With the new `set`-operation, you can now simply provide the records you want to have a relation to, without have… https://t.co/lTuSu5FxKd
+1100326389302079500,Tue Feb 26 09:27:08 +0000 2019,@cakemakerjake @MichaelSharer The Material Theme (Darker High Contrast) 🙂
+1099999391149105200,Mon Feb 25 11:47:46 +0000 2019,🎉 If you use the Material Icon Theme in your VSCode setup, you can now brighten it up further with a Prisma folder… https://t.co/dCun7BVbys
+1098898452405198800,Fri Feb 22 10:53:02 +0000 2019,😍 For this week's Friday Favorite, we wanted to highlight @useloom, which helps us share information faster interna… https://t.co/j5m5yCjsQS
+1098621375659548700,Thu Feb 21 16:32:02 +0000 2019,🚀 Big thanks to our friends at @novvumio for some helpful new features in the GraphQL Playground, including schema… https://t.co/kznSB8mjKV
+1098311386038521900,Wed Feb 20 20:00:14 +0000 2019,⏳ GraphQL Day is almost here! 🍁  GraphQL Day Toronto is next Thursday, February 28th! 🗓 Conference and GraphQL trai… https://t.co/1g9QE6ubSL
+1097923304931946500,Tue Feb 19 18:18:08 +0000 2019,@spgalh While we perform transactions for any nested operations, the API is restricted right now for manual transac… https://t.co/e7bHGdMmEn
+1097921319646187500,Tue Feb 19 18:10:15 +0000 2019,@raulghm Yes, it is possible as you can pass an array to connect or disconnect to perform multiple operations at on… https://t.co/aOmTkYcCle
+1097811828015542300,Tue Feb 19 10:55:10 +0000 2019,@PeterJacob @Docker Glad to hear you were able to get it working. We're always happy to help through our support ch… https://t.co/UeKHK27CcN
+1097494700624363500,Mon Feb 18 13:55:01 +0000 2019,🤸‍♂️ Starting with Prisma 1.25, the JavaScript &amp; TypeScript client now lets you perform batch operations on nested… https://t.co/umKeTpXLug
+1096411034229694500,Fri Feb 15 14:08:55 +0000 2019,RT @mxstbr: I wish this had existed when we started building Spectrum! 😍😍😍  https://t.co/hbGdrLP7hU
+1096398735670689800,Fri Feb 15 13:20:03 +0000 2019,😍 This week's Friday Favorite takes markdown to a whole new level! We use it to add interactive and helpful React c… https://t.co/NmSc7xUpr6
+1096105278775443500,Thu Feb 14 17:53:57 +0000 2019,A huge shoutout to our open-source engineer @fdesverne for his incredible work on the `nexus-prisma` plugin 💪✨
+1096104638569431000,Thu Feb 14 17:51:25 +0000 2019,🚀 Using GraphQL Nexus with a Database  https://t.co/yk985VtZYk
+1096101787361267700,Thu Feb 14 17:40:05 +0000 2019,🌓 The difference is night and day 😜  🎠 https://t.co/MFx7TylBAq https://t.co/euaWyZmqep
+1095702061025542100,Wed Feb 13 15:11:43 +0000 2019,@williamgueiros We definitely want to have meetups in more cities and countries. If you may be interested in helpin… https://t.co/sJTWSqAHLx
+1095701208327696400,Wed Feb 13 15:08:19 +0000 2019,@mdomarus Thanks for the heads up! We'll take a look into it! 🔎
+1095699837708894200,Wed Feb 13 15:02:53 +0000 2019,@Nishchit14 🙌 We currently have a Prisma Meetup Group in Bangalore: https://t.co/5J2jRXt39i
+1095699614706135000,Wed Feb 13 15:01:59 +0000 2019,@gsushil999 We're setting up a Prisma meetup group in Bangalore ✨ https://t.co/5J2jRXt39i
+1095699203483975700,Wed Feb 13 15:00:21 +0000 2019,@ouyeahbro Hey Julian! We're really eager to have more Prisma meetups and would love help setting up more local one… https://t.co/2HTNcMROsC
+1095698630260998100,Wed Feb 13 14:58:05 +0000 2019,@douglaseggleton :-) We want to have meetups in more cities and countries around the world! If you'd be interested… https://t.co/IokUrGpZwT
+1095697756604121100,Wed Feb 13 14:54:36 +0000 2019,@czystyl We'd love to have meetups in more cities around world. If you'd like to work with us to start a local meet… https://t.co/xPkWEwrdRI
+1095697164087513100,Wed Feb 13 14:52:15 +0000 2019,@woss_io We're definitely interested in having meetups in more cities! If you'd be interested in helping us set som… https://t.co/2Cyath3oWO
+1095683385350066200,Wed Feb 13 13:57:30 +0000 2019,@svrcekmichal While it's hard to reach an inconsistent state without  `--force`, seeing the migration steps can giv… https://t.co/AAk1Fnqs3I
+1095683266122797000,Wed Feb 13 13:57:02 +0000 2019,@svrcekmichal As `deploy` migrates your db, dry-run shows the impact of an operation without it happening, eg. the… https://t.co/XP2neE3fEt
+1095661676110721000,Wed Feb 13 12:31:14 +0000 2019,🔮 The new Prisma `--dry-run` flag when deploying Prisma:   It could be the difference between 🤔👩‍💻😎 and  🤔👩‍💻🤬.  Le… https://t.co/9WKu2tR23t
+1094949402039500800,Mon Feb 11 13:20:55 +0000 2019,👾 Have you tried out the Prisma Examples❓  Over 30 ready-to-run examples of Prisma use cases made with:  💜 Typescri… https://t.co/RpPlgxnx0P
+1094246043649273900,Sat Feb 09 14:46:01 +0000 2019,🙋🏿‍♂️👩🏽‍🏫🧕🏼 Are you in 🇦🇺🇮🇳🇩🇪🇫🇷🇬🇧🇺🇸? We're starting up some local Prisma Meetups!  🌍 Check out the full list:… https://t.co/IhMAIVG6rX
+1093916874520301600,Fri Feb 08 16:58:01 +0000 2019,😍 For this week's Friday Favorite we're really digging the state machines that we can create with XState (made by… https://t.co/id9rzIFsKS
+1093567305408229400,Thu Feb 07 17:48:57 +0000 2019,🚀 Introducing GraphQL Nexus: Code-First GraphQL Server Development (by @tgriesser)  https://t.co/cpBy9vwM5I
+1093242430634315800,Wed Feb 06 20:18:01 +0000 2019,🛫 GraphQL Day is going international! 🛬  🍁 GraphQL Day Toronto is coming February 28th! 🎟 Grab your conference &amp; tr… https://t.co/Jo9BA55msB
+1092479738445209600,Mon Feb 04 17:47:21 +0000 2019,… and a huge shout out to our Chinese speaking Prisma community and translators! Thank you and Happy Chinese New Ye… https://t.co/9PDexv6YcD
+1092479150286401500,Mon Feb 04 17:45:01 +0000 2019,🇨🇳 非常感谢Viktor Kang将Prisma文档翻译成中文  A big thank you to @Yixian_victor for translating the Prisma docs into Chinese!… https://t.co/qhbLhh1WgC
+1092431265234673700,Mon Feb 04 14:34:44 +0000 2019,💂🏽✨ Get an overview of authentication and authorization basics for both REST and GraphQL web apps in this article b… https://t.co/6CNsn3uKqD
+1091679386871435300,Sat Feb 02 12:47:02 +0000 2019,💯 Doing #100daysofcode and learning Prisma? 💪Go you!  If you want to connect with others or chat with us about it,… https://t.co/Fq4Zi7yX6r
+1091360278904750100,Fri Feb 01 15:39:01 +0000 2019,😍A new feature for Fridays. We want to share the tools we love!   This week we're playing with @typora, a minimalis… https://t.co/JGxAfXNgOR
+1090978090908557300,Thu Jan 31 14:20:20 +0000 2019,😵 The Problems of "Schema-First" GraphQL Server Development  https://t.co/ci6KSy5hxZ
+1090659162797867000,Wed Jan 30 17:13:02 +0000 2019,Shout out to @jasonkuhrt 👏 for his work in supporting interfaces and unions in graphqlgen! Let us know what you thi… https://t.co/aRZy3dD2Nh
+1089852841777381400,Mon Jan 28 11:49:00 +0000 2019,🌟@cangoektas 's community article shows you how to build a React &amp; GraphQL app with just Fetch; understand the basi… https://t.co/GZzkwdmZ1O
+1086539182154149900,Sat Jan 19 08:21:42 +0000 2019,@angelozehr We’ll look into it! Thanks for letting us know! 🙏
+1086539027245944800,Sat Jan 19 08:21:05 +0000 2019,RT @estejs: Yet again, I finally got why @prisma client is so much better than the previous bindings. Good work. Also, it forces me to lear…
+1085598556310908900,Wed Jan 16 18:03:59 +0000 2019,@BrentSum @NotionHQ @gatsbyjs @pioneerdotapp @SuperhumanCo @TransistorFM @shipstreams 📈
+1085127452979064800,Tue Jan 15 10:52:00 +0000 2019,Prisma is nominated for a Golden Kitty Award on Product Hunt 🙀🏆  Please help us out with your vote 🙏 before voting… https://t.co/xB5n53UPEq
+1083002198936744000,Wed Jan 09 14:07:00 +0000 2019,RT @nikolasburk: It's not easy to describe how @prisma is different from traditional ORMs. I ❤️ @schickling's analogy for it:  💡 What React…
+1082741067643080700,Tue Jan 08 20:49:21 +0000 2019,RT @smashingmag: Free and comprehensive tutorials to learn all around GraphQL to go from zero to production.  ↬ How to GraphQL, by @prisma…
+1080404102968942600,Wed Jan 02 10:03:05 +0000 2019,RT @schickling: 🔮 GraphQL prediction for 2019: Resolver-first server frameworks will begin to replace the currently popular schema-first ap…
+1079791174771228700,Mon Dec 31 17:27:32 +0000 2018,Thank you, everyone, for an amazing year! ✨🎉🌟  Want to keep in touch in 2019? We have the scoop on Meetups, the Sla… https://t.co/CYFSCU3kFo
+1079437033049870300,Sun Dec 30 18:00:18 +0000 2018,🇪🇺 GraphQL Europe was a major highlight for us this year, we're so excited for an even greater GraphQL Conf (… https://t.co/sVGexveQmL
+1079435216878518300,Sun Dec 30 17:53:05 +0000 2018,RT @thegraphqlconf: 🔥 Really excited to announce that @dlschafer is a confirmed speaker for GraphQL Conf in June 2019. Want to see his talk…
+1079120647756886000,Sat Dec 29 21:03:06 +0000 2018,RT @oloyedeshadrach: I just finished the How to GraphQL tutorial by @prisma  🎉 Check it out on https://t.co/9M9vg6UjPu. GraphQL is so amazi…
+1079089660738109400,Sat Dec 29 18:59:58 +0000 2018,🎆  We hope y'all are excited for 2019 and ready to get started with your new year's resolutions 💪 In case you're st… https://t.co/FU0KDEjLyS
+1075083109366927400,Tue Dec 18 17:39:22 +0000 2018,We just released Prisma v1.23 🚀 https://t.co/JOWJ1yiKeq https://t.co/VYsPABDpMp
+1073511361219608600,Fri Dec 14 09:33:48 +0000 2018,RT @nikolasburk: Learn how the recently introduced support for MongoDB works in Prisma. We just added 3 examples for:  ✅ Node.JS ✅ TypeScri…
+1071328805921394700,Sat Dec 08 09:01:06 +0000 2018,@levioza_fadi We’re currently working on the foundation for Geospatial queries
+1070001407468687400,Tue Dec 04 17:06:29 +0000 2018,🍃 Prisma Now Supports MongoDB (Preview)  https://t.co/NDt0GbLHJQ
+1067342088893804500,Tue Nov 27 08:59:18 +0000 2018,RT @nikolasburk: We are hiring @prisma, join us if you:  💡 like solving hard technical problems 🔨 want to work with cutting-edge tech 💚 car…
+1063494235637391400,Fri Nov 16 18:09:19 +0000 2018,RT @pranaygp: Just noticed @prisma's new website only mentions #GraphQL 9 times, 8 of which are examples, solidifying their rebranding as t…
+1062745410710708200,Wed Nov 14 16:33:45 +0000 2018,RT @nikolasburk: Really cool article by @MeeshkanML about building type-safe GraphQL servers using Apollo Server, graphqlgen and Prisma 💡…
+1058832200504754200,Sat Nov 03 21:24:03 +0000 2018,RT @schickling: ❓ Are you modularizing your GraphQL schema? If so – how? 💬 Please comment with your best practice how you organize your Gra…
+1058819957968924700,Sat Nov 03 20:35:24 +0000 2018,RT @theinfamousrj: If you have not tried @prisma I would suggest giving it a shot. It’s ridiculously easy and powerful. I have no idea how…
+1057313242232602600,Tue Oct 30 16:48:15 +0000 2018,🤖 Introducing graphqlgen: Generate &amp; scaffold type-safe resolvers based on your GraphQL schema  https://t.co/yzUnd9pumv
+1054768501771132900,Tue Oct 23 16:16:22 +0000 2018,RT @emmenko: I just published "Prisma Horizontal Scaling: a practical guide 📘" https://t.co/thV9vs3da7 @prisma #GraphQL #Kubernetes #DevOps
+1053657862793244700,Sat Oct 20 14:43:05 +0000 2018,@canariasjs @dDiaLar We'd love to send you some Prisma swag for the event 🌟 If you'd be interested, can you DM us t… https://t.co/Ee5bwqKmsh
+1053298854299361300,Fri Oct 19 14:56:30 +0000 2018,RT @thegraphqlconf: 🚀 Announcing GraphQL Conf!  🌟 June 20th &amp; 21st in Berlin 🙋‍♀️ Featuring: @leeb, @dlschafer, @MirelaIclodean 🔥 CfP now o…
+1050417375600930800,Thu Oct 11 16:06:32 +0000 2018,RT @nikolasburk: I'm a huge fan of Wes Bos and his teaching skills 👨‍🏫 His latest course on https://t.co/D1bIh17aGq is about React, GraphQL…
+1050384660184920000,Thu Oct 11 13:56:32 +0000 2018,RT @wesbos: 🔥 Announcing Advanced React &amp; GraphQL! Come and learn to build a fullstack JavaScript online store with me → https://t.co/sgSyO…
+1049642928732295200,Tue Oct 09 12:49:10 +0000 2018,RT @mediaquery: I'm in love with the stack that I'm setting up right now 😍 @Netlify hosted @gatsbyjs site, graphql api on a cloud function…
+1047130947240566800,Tue Oct 02 14:27:27 +0000 2018,RT @andrew_j_mead: I’m excited to announce that my GraphQL course is now live! Learn how to use GraphQL, Prisma, Apollo, and more. You can…
+1045179808261517300,Thu Sep 27 05:14:19 +0000 2018,RT @designthrottle: Seriously love the tech community!😍 The fact that I can learn and teach myself, at my own time, with top notch quality…
+1044140572884324400,Mon Sep 24 08:24:46 +0000 2018,@johnschenk Thanks John for reaching out, the support team is aware of your situation and is awaiting your response… https://t.co/QySpBE45WB
+1044140560037150700,Mon Sep 24 08:24:43 +0000 2018,@johnschenk Thanks John for reaching out, the support team is aware of your situation and is awaiting your response… https://t.co/KVVWNGuAZw
+1040280134354444300,Thu Sep 13 16:44:46 +0000 2018,RT @pranaygp: Just when I thought @prisma couldn't get any better  https://t.co/Fxb5eumuV6
+1039557944600395800,Tue Sep 11 16:55:02 +0000 2018,🔥 Prisma Client (Beta): Simplified &amp; Type-safe Database Access https://t.co/LItCYklKEr
+1037294444679245800,Wed Sep 05 11:00:42 +0000 2018,🌟 Prisma has just crossed 10k stars on GitHub. A huge thanks to our community for all the support!… https://t.co/hQw3CVQw18
+1031955606079516700,Tue Aug 21 17:26:03 +0000 2018,⚡️ Improving Scalability: Up to Four Times More Throughput in Prisma 1.14  https://t.co/rRSBBWltRf
+1030970184679317500,Sun Aug 19 00:10:21 +0000 2018,@tboytim @zeithq Working on it! 👶
+1029694849879089200,Wed Aug 15 11:42:37 +0000 2018,👉 We've moved our GitHub account to https://t.co/DAN96fKcw0 making it a lot easier to find and open in your browser!
+1028895783226171400,Mon Aug 13 06:47:25 +0000 2018,RT @nikolasburk: Are you using an ORM to facilitate database access in your apps?  I'm also interested in hearing what your best/worst ORM…
+1027500552714903600,Thu Aug 09 10:23:16 +0000 2018,RT @PureFazz: I've been using @prisma for the last 7 months and I can't rate it highly enough. I had never done any backend development but…
+1026882083900276700,Tue Aug 07 17:25:42 +0000 2018,With huge thanks to @maticzav who worked very hard on building the library 💪
+1026881740198084600,Tue Aug 07 17:24:20 +0000 2018,🌟 Open Sourcing GraphQL Middleware - A Library to Simplify Your Resolvers  https://t.co/m1wPCKTC3X
+1026495292143808500,Mon Aug 06 15:48:43 +0000 2018,🇫🇮 Make sure to grab your early-bird ticket for GraphQL Finland before Friday! It's a great opportunity to connect… https://t.co/0Ai0kMPIZs
+1024340247516274700,Tue Jul 31 17:05:20 +0000 2018,RT @schickling: 💯 One of GraphQL's biggest superpowers is code-generation and end-to-end type-safety. We're currently working on some prett…
+1024306522996830200,Tue Jul 31 14:51:20 +0000 2018,RT @notrab: 📺 Just finishing up the last remaining videos for my new tutorial series "Build a @ProductHunt #GraphQL server with @Prisma".…
+1019610597577691100,Wed Jul 18 15:51:24 +0000 2018,RT @schickling: Are you putting business logic (e.g. RBAC) into your database (Postgres, Mongo, ...)?
+1016965805290999800,Wed Jul 11 08:41:56 +0000 2018,@nickochee Hey Nicholas, we are resolving this as fast as possible. We have responded to all your support tickets a… https://t.co/KsiAGCRAtd
+1016965637485285400,Wed Jul 11 08:41:16 +0000 2018,@BWayRoulette Thanks a lot for reaching out, we are resolving this as fast as possible and also got back to your su… https://t.co/a5gv5GK1UU
+1012351162513875000,Thu Jun 28 15:05:00 +0000 2018,⚡️ Instant Prisma deployment to Heroku  https://t.co/xcDz73EnG0
+1011583268326727700,Tue Jun 26 12:13:40 +0000 2018,🌟 Prisma just hit 9000 stars on GitHub! 👉 https://t.co/V7u1hWs49T https://t.co/jfnmIdevhs
+1009124108540567600,Tue Jun 19 17:21:50 +0000 2018,@kaylacohn_ @GraphQL Welcome to the party! 👋🎉
+1009124015284289500,Tue Jun 19 17:21:28 +0000 2018,RT @kaylacohn_: Know I’m late to the party but super excited to play with and learn more about @GraphQL and @prisma
+1009043859064655900,Tue Jun 19 12:02:57 +0000 2018,RT @graphqleu: 🇪🇺 Thanks to everyone for making GraphQL Europe 2018 such a fun and inspiring event! See you all in next year  👋  📷 Find all…
+1007573937692266500,Fri Jun 15 10:42:01 +0000 2018,Introducing GraphQL for Visual Studio Code  ✅ Intelligent autocompletion ✅ Jump-to-definition from anywhere ✅ Schem… https://t.co/XOgpLR0C1R
+1006879618719277000,Wed Jun 13 12:43:02 +0000 2018,RT @schickling: 👨🏼‍💻 I'm very excited to speak about "Layered GraphQL Architectures" on Friday @graphqleu. I'm having a hard time fit every…
+1004661663818281000,Thu Jun 07 09:49:41 +0000 2018,RT @graphqleu: 🇪🇺 Join us at GraphQL Europe next week to see @schickling (CEO &amp; Founder of @prisma) speak about layered architectures for G…
+1003665659396608000,Mon Jun 04 15:51:55 +0000 2018,🇪🇺 GraphQL Europe 2018: The GraphQL community comes together in Berlin  https://t.co/gODPdmQBwL
+1003597450295349200,Mon Jun 04 11:20:52 +0000 2018,RT @graphqleu: ⏰ Less than 2 weeks until GraphQL Europe with awesome speakers like @schrockn, @leeb, @leeshapton, @jnwng, @schickling,  @th…
+1001493271338782700,Tue May 29 15:59:37 +0000 2018,🌟 New Release Process for Prisma  https://t.co/ubMcH7HAwA
+999682987674472400,Thu May 24 16:06:12 +0000 2018,@fixitup2 Thank you for this great blog post 🙏
+999674308816506900,Thu May 24 15:31:42 +0000 2018,👨‍🔬  Experimental GraphQL - How Can We Stretch GraphQL to Its Limits, and beyond? Thanks a lot to @fixitup2 for thi… https://t.co/QqVTwc5p70
+997145462149959700,Thu May 17 16:02:58 +0000 2018,RT @tboytim: Y'all should checkout @prisma Strongly-typed, platform agnostic layer in front of traditional databases. Write your schemas in…
+997145115222249500,Thu May 17 16:01:36 +0000 2018,RT @graphqleu: 🎉 We have officially published the conference schedule. Visit https://t.co/Bwi083px0l to learn about the awesome talks you c…
+996777702752473100,Wed May 16 15:41:38 +0000 2018,@asciithoughts Will be available shortly!
+996769542029414400,Wed May 16 15:09:12 +0000 2018,RT @changelog: 🎉 New episode of The Changelog!  💬 Prisma and the GraphQL data layer ✨ @_schickling, @adamstac, @jerodsanto 🏷 #graphql, #jav…
+996486394452291600,Tue May 15 20:24:04 +0000 2018,@jaredforsyth Thanks a lot, Jared!  🙌
+996464166603927600,Tue May 15 18:55:45 +0000 2018,RT @codebeast: I have been using @prismagraphql for few weeks and it:  🖇️ Provides binding for easy resolvers 🏬 Open source 365deg database…
+996443135562657800,Tue May 15 17:32:11 +0000 2018,RT @kkuldar: New illustrations from our fresh @prismagraphql redesign on @dribbble! 🔥 This is my first time using @figmadesign for heavy is…
+996412616351322100,Tue May 15 15:30:54 +0000 2018,RT @zeithq: Congratulations to our friends at Prisma. You can look forward to examples and integrations with Now coming soon!  https://t.co…
+996394945257922600,Tue May 15 14:20:41 +0000 2018,RT @wesbos: Prisma - the GraphQL Database layer I’m using in my advanced react course - just raised $4,500,000. This is a huge step for the…
+996389420860354600,Tue May 15 13:58:44 +0000 2018,🚀 Exciting news: We've raised a $4.5M seed round! ⚡️ Here is our plan to build the GraphQL data layer for all datab… https://t.co/o62Uu4aZXy
+996314291467845600,Tue May 15 09:00:12 +0000 2018,✨ Watch out – we have some big news coming up today and just revealed our new website on @ProductHunt https://t.co/k7ugxQr25M
+994634016518262800,Thu May 10 17:43:23 +0000 2018,🙌 GraphQL Binding 2.0: Improved API, schema transforms &amp; automatic codegen   https://t.co/8SOOD1Vogz
+994504240612732900,Thu May 10 09:07:42 +0000 2018,🌟 GraphQL Playground has reached 2.000 stars on GitHub and is becoming the default for most GraphQL servers 🎉… https://t.co/TvtVYZ36pH
+994159564659490800,Wed May 09 10:18:05 +0000 2018,RT @notrab: I’m looking to run a workshop in #Newcastle around September on building a #GraphQL server with Prisma by @graphcool   DM me if…
+993903218253058000,Tue May 08 17:19:27 +0000 2018,🐘 Prisma 1.8 is out – Introducing support for Postgres (incl. experimental support for existing databases). Try it… https://t.co/4Ya0aLlGwT
+993567188543049700,Mon May 07 19:04:11 +0000 2018,RT @_marktani: What a great initiative, thanks Ben! I posted information for contributions to @graphcool #Prisma, would love to help anyone…
+992321777438163000,Fri May 04 08:35:22 +0000 2018,@fmdfrank 👀
+989549686796292100,Thu Apr 26 17:00:04 +0000 2018,⚡️ Learn how to build a realtime GraphQL Server with subscriptions  https://t.co/hhOfbzUDzw
+988841877947502600,Tue Apr 24 18:07:30 +0000 2018,🚢 Prisma 1.7 is now available making it easier than ever to get started and introducing alpha support for Postgres… https://t.co/YoWAMBUpqD
+988320730017402900,Mon Apr 23 07:36:38 +0000 2018,@jpdriver @expo @apollographql Have you looked into Prisma for the production implementation?
+986528694494814200,Wed Apr 18 08:55:44 +0000 2018,🌟 Prisma just hit 7.000 stars on GitHub! https://t.co/JuSGsncbHV https://t.co/rUlDAW57iG
+983112002888458200,Sun Apr 08 22:39:01 +0000 2018,@lolcoolkat We’ll look into it! 👀
+982574700781023200,Sat Apr 07 11:03:58 +0000 2018,RT @jbaxleyiii: What have you found hard about building a GraphQL server?
+981931156307349500,Thu Apr 05 16:26:45 +0000 2018,🚢 How to deploy a Prisma cluster to AWS Fargate using Docker &amp; CloudFormation  https://t.co/X14BVTFsVW
+980812875605381100,Mon Apr 02 14:23:06 +0000 2018,RT @thekitze: I can't write a raw SQL query to save my life, but I can develop an entire backend with Prisma by @graphcool It's just amazin…
+980629332954624000,Mon Apr 02 02:13:46 +0000 2018,@tibotiber Thanks for writing this great and informative post! 👌
+978686347228647400,Tue Mar 27 17:33:02 +0000 2018,🎓 Learn how to use the new render props API in React Apollo 2.1. with this fullstack tutorial.  https://t.co/dWIpswHumZ
+977098860861337600,Fri Mar 23 08:24:56 +0000 2018,@thoughtspeed7 @apollographql Yes. That’s 💯 possible.   Let us know if you have any further questions.
+976157708775841800,Tue Mar 20 18:05:08 +0000 2018,✨ Top 5 Reasons to Use GraphQL  https://t.co/DZOkh56G5N
+976147145836261400,Tue Mar 20 17:23:10 +0000 2018,RT @Netlify: 🚀Today we’re bringing #serverless all the way to the frontend. Introducing AWS Lambda functions that deploy along with your si…
+975528627914793000,Mon Mar 19 00:25:23 +0000 2018,@lolcoolkat As of breaking changes: There shouldn't have been any kind of breaking changes since the 1.0 release.… https://t.co/4cOLXx4kiE
+975527961905393700,Mon Mar 19 00:22:45 +0000 2018,@lolcoolkat Atomic operations are coming! https://t.co/PuKfjvNV94
+975097039523491800,Sat Mar 17 19:50:25 +0000 2018,RT @_schickling: SF/Bay Area: Does your team need help with adopting GraphQL on the server-side (ideally Node)? Reach out to me via DM - ha…
+973958498164895700,Wed Mar 14 16:26:15 +0000 2018,🆙 Deploying GraphQL Servers with Apex Up  https://t.co/VUfFbi9RIJ
+973500422987108400,Tue Mar 13 10:06:02 +0000 2018,👩‍🎓 Tune in for this live-streamed fullstack course on Apollo, GraphQL &amp; Prisma https://t.co/PvXYMNcpHV
+972654267357171700,Sun Mar 11 02:03:43 +0000 2018,RT @ianrtracey: @graphcool's #primsa is a pure joy to use. Really great stuff coming out of the @graphcool team. https://t.co/CuLYhip63v
+971118399442051100,Tue Mar 06 20:20:43 +0000 2018,@NikkitaFTW 🙏😇
+971072553497382900,Tue Mar 06 17:18:33 +0000 2018,RT @ProductHunt: Prisma Cloud is a powerful GraphQL database platform ☁️📊 https://t.co/7toir7JYcc https://t.co/v763RweCPK
+971043269982539800,Tue Mar 06 15:22:11 +0000 2018,☁️  Introducing Prisma Cloud – A GraphQL Database Platform https://t.co/8O1hVdiv8j
+970676794092347400,Mon Mar 05 15:05:56 +0000 2018,RT @graphqleu: 🚀 GraphQL Europe is coming to Amsterdam with a mini-conference on April 14!  🙌 See awesome speakers like @ken_wheeler, @Nikk…
+969251420053626900,Thu Mar 01 16:42:01 +0000 2018,🔒 Authorization made simple with GraphQL directive permissions by @lawjolla https://t.co/9kTTifs6lo
+969204577827479600,Thu Mar 01 13:35:52 +0000 2018,RT @_schickling: 📦 `graphql-import` is now available as a Webpack loader which makes it super intuitive to import .graphql files into your…
+967523953353920500,Sat Feb 24 22:17:40 +0000 2018,@huv1k Awesome job 💚
+966765101180227600,Thu Feb 22 20:02:16 +0000 2018,🌯  Easily wrap your REST API with GraphQL by following this 3-step tutorial https://t.co/PuxvpMWseh
+965337416432308200,Sun Feb 18 21:29:09 +0000 2018,@operatino @ReactAmsterdam Hi Robert! Great timing! @nikolasburk will be there! 💯
+965164047770570800,Sun Feb 18 10:00:15 +0000 2018,RT @sergiodxa: Prisma by @graphcool can become the best ORM in the history, database agnostic (SQL and NoSQL), define data as a GraphQL sch…
+964221328659308500,Thu Feb 15 19:34:13 +0000 2018,🧘‍♀️ Tutorial: How to build a GraphQL Server with `graphql-yoga` https://t.co/mrBUSOhhTo
+964133984430166000,Thu Feb 15 13:47:09 +0000 2018,RT @kentcdodds: How many people could simply use https://t.co/FVjUQtQsi5 for their simple graphql stuff but instead are shipping a TON of k…
+963465123737342000,Tue Feb 13 17:29:20 +0000 2018,@beedesignllc Hi Brandon. No, Prisma Cloud and Graphcool Cloud are two very different offerings. However, you'll be… https://t.co/d0wS7Nqrbg
+963415069437648900,Tue Feb 13 14:10:26 +0000 2018,RT @wsakaren: Prisma (@graphcool) is by far the smartest piece of technology I’ve seen in a very long time. Paired with @GraphQL its an abs…
+961744929230868500,Thu Feb 08 23:33:54 +0000 2018,RT @leeb: The GraphQL Schema Definition Language is now officially in the spec! https://t.co/L7ywmMuBpi https://t.co/RUesMSJE0e
+961669967061057500,Thu Feb 08 18:36:01 +0000 2018,👀 Are you curious about Prisma Cloud? Get your invite for the preview today!  https://t.co/I93RQRWyKr
+960936309098537000,Tue Feb 06 18:00:44 +0000 2018,💡 Ever wondered what the `info` object in your GraphQL resolvers is actually used for? Check out our latest blog ar… https://t.co/c9NEgGXpe2
+960793282812014600,Tue Feb 06 08:32:23 +0000 2018,RT @beedesignllc: 🛠 The #7 product on @ProductHunt today is built with:  • Next.js &amp; React • Styled-components • CSS Grid • Hosted on @zeit…
+959128600376090600,Thu Feb 01 18:17:32 +0000 2018,RT @graphcool: 🚀 Bootstrap your GraphQL app from the command line using `graphql create` &amp; GraphQL boilerplates! https://t.co/bUqD1yUsnX
+959115900480868400,Thu Feb 01 17:27:04 +0000 2018,🚀 Bootstrap your GraphQL app from the command line using `graphql create` &amp; GraphQL boilerplates! https://t.co/bUqD1yUsnX
+958355288171593700,Tue Jan 30 15:04:40 +0000 2018,@kennethaasan @apollographql @oddulf95 @PrettierCode @peggyrayzis There is no reason you shouldn’t use graphql-impo… https://t.co/xGstIQUOnE
+958181578089234400,Tue Jan 30 03:34:25 +0000 2018,RT @stubailo: .@_schickling presenting about Prisma from @graphcool at the #serverless #GraphQL meetup! https://t.co/ITqVpW1Rrl
+958130204995592200,Tue Jan 30 00:10:16 +0000 2018,RT @estejs: We all know that object relational mapping (ORM) is an anti-pattern. Auto mapping object graph to relational DB is the opposite…
+957689457272004600,Sun Jan 28 18:58:54 +0000 2018,@raytorresFD3S That's awesome, Raymond! Would you be open to writing up a blog post about your experience on Medium? 👋
+957175518440276000,Sat Jan 27 08:56:41 +0000 2018,RT @wesbos: Took some time to figure out how Prisma and Yoga fit into a GraphQL Stack, but having some big ah-ha moments this morning!   I…
+956604046256861200,Thu Jan 25 19:05:52 +0000 2018,❓ Do you have any questions about Graphcool or Prisma? Join us for our Q&amp;A on Reactiflux from 1pm - 2pm PST. https://t.co/mwSaAFx4Vl
+956591778592968700,Thu Jan 25 18:17:07 +0000 2018,🎓 Learn how to deploy your #GraphQL server with Now (an amazing one-click deployment tool by @zeithq)   https://t.co/XnggAzlgWb
+956552240457830400,Thu Jan 25 15:40:00 +0000 2018,RT @wesbos: Talking to @thekitze about Prisma and it looks like we’re going to have the "RAP Stack”   React, Apollo, Prisma 👌
+955377122087985200,Mon Jan 22 09:50:30 +0000 2018,@erd_xyz This will soon be supported by Prisma!
+955079223613558800,Sun Jan 21 14:06:46 +0000 2018,RT @_schickling: GraphQL bindings (in different programming languages) will become a HUGE deal for developing GraphQL servers. https://t.co…
+954839529248182300,Sat Jan 20 22:14:18 +0000 2018,@_selfagency @Benjie Please reach out if you have any questions! We're happy to help!  Thanks @Benjie for the shout out! 👋
+953579486632693800,Wed Jan 17 10:47:20 +0000 2018,@kimfransman While Postgres is not yet supported, yes, this is exactly how it works.  You can track the progress on… https://t.co/Py5lAAkbF5
+953564320792707100,Wed Jan 17 09:47:05 +0000 2018,@fromcortes @probablyup @Zach462 Apologies for the confusion. We just reached out to the design agency we've been w… https://t.co/QrfeoLYCgH
+953347884971429900,Tue Jan 16 19:27:02 +0000 2018,@ken_wheeler Boom! 💥
+953342294169739300,Tue Jan 16 19:04:49 +0000 2018,@StephenFJohnson @kkuldar We'll shortly write up a follow-on blog post which explains all of this in detail.  Short… https://t.co/IzfKCtf5co
+953335983621230600,Tue Jan 16 18:39:45 +0000 2018,🎉  Introducing Prisma: Turn your database into a GraphQL API https://t.co/cW8QDbyrEG
+953013532383117300,Mon Jan 15 21:18:26 +0000 2018,@pie6k Hi Adam, this was only introduced to allow people to use the Graphcool Framework and the upcoming 1.0 beta a… https://t.co/6QV9kIT8Q9
+951855040284823600,Fri Jan 12 16:35:00 +0000 2018,🔗  GraphQL Binding: Compose, reuse and share GraphQL APIs https://t.co/35NDCfJR5m
+951350761014943700,Thu Jan 11 07:11:11 +0000 2018,@wesbos @falconmick Hi Michael, with Graphcool 1.0 it will be possible to use Graphcool either directly from the fr… https://t.co/m9xAZjHI1d
+950840149079941100,Tue Jan 09 21:22:11 +0000 2018,✨ We just published the first release candidate of Graphcool 1.0 – read more about it on our blog and give it a try! https://t.co/ScQHp0NaQS
+950400477463744500,Mon Jan 08 16:15:06 +0000 2018,@hernas Which URL and browser/OS are you using?
+950324628291031000,Mon Jan 08 11:13:42 +0000 2018,RT @kriswep: GraphQL Playground from @graphcool is pretty slick. Tabs, good schema, custom headers ++ Thought it would only be part of thei…
+950294356325490700,Mon Jan 08 09:13:24 +0000 2018,@peterpme @_marktani Thanks for sharing, Peter! 🙌
+948674049684762600,Wed Jan 03 21:54:53 +0000 2018,@brianleroux That's literally what we're doing. One database at a time!
+943189283824947200,Tue Dec 19 18:40:23 +0000 2017,@wesbos @michaelpumo Sorry to hear about your confusion. We’ll soon publish extensive materials that help you to ea… https://t.co/3leSOa4iIe
+941436766942318600,Thu Dec 14 22:36:30 +0000 2017,RT @stubailo: This is a really cool direction for @graphcool, you can get all the flexibility of #GraphQL with the benefits of GraphQL-spec…
+941420743912493000,Thu Dec 14 21:32:50 +0000 2017,⚡️ GraphQL databases  —  A preview into the future of Graphcool https://t.co/4IHjJSNlTB
+940654491568832500,Tue Dec 12 18:48:01 +0000 2017,💡  Schema stitching is on the cutting edge of the GraphQL ecosystem. This post explains how it works and shows a si… https://t.co/r3oIfbY5EY
+940257215927210000,Mon Dec 11 16:29:24 +0000 2017,RT @thekitze: My 2017 wrapped 🎉  Tnx to @reactjs @reactnative @apollographql @GraphQL @graphcool @WebStormIDE @expo_io @glamorousCSS @Prett…
+939179039985725400,Fri Dec 08 17:05:06 +0000 2017,RT @leeb: Super excited for the next GraphQL Europe. Have something novel or interesting you’re doing with GraphQL? I want to see you prese…
+938839678664527900,Thu Dec 07 18:36:36 +0000 2017,RT @graphqleu: 📣 Want to speak at the next big GraphQL conference? The CfP for GraphQL Europe 2018 in Berlin is now open! We're looking for…
+938476129895223300,Wed Dec 06 18:32:00 +0000 2017,💡 Ever wondered how `makeRemoteExecutableSchema` works? This article dives deep into a core concept of GraphQL sche… https://t.co/GAQ53ATMKS
+937826581770317800,Mon Dec 04 23:30:55 +0000 2017,RT @keeskluskens: I was skeptic when learning GraphQL, but since I discovered the GraphQL eslint plugin along with graphql-cli to verify if…
+935620625493880800,Tue Nov 28 21:25:14 +0000 2017,👏  It's great to see AWS adopting GraphQL as part of their offering which perfectly complements a new product we've… https://t.co/j5eqIwKskO
+935619484525695000,Tue Nov 28 21:20:42 +0000 2017,RT @AdamRackis: Friendly reminder that @graphcool's been doing Serverless GraphQL since well before the Amazon Borg decided to assimilate i…
+935619421867053000,Tue Nov 28 21:20:27 +0000 2017,@TheAndrewWyatt @AdamRackis @leeb We've been working on some exciting product changes over the last couple of month… https://t.co/gLIEEsQEla
+935576594248360000,Tue Nov 28 18:30:16 +0000 2017,💡 Learn how GraphQL and the HTTP network layer fit together. https://t.co/kkrJ7YYNQB
+935223439299895300,Mon Nov 27 19:06:58 +0000 2017,⁉️ What's your favorite way of building a GraphQL server in Node.js?
+933397339108233200,Wed Nov 22 18:10:41 +0000 2017,@pugson The chances are not too bad 🎅
+933396983095709700,Wed Nov 22 18:09:17 +0000 2017,😤 Dealing with CORS can be frustrating. This tutorial shows you how to enable CORS for your Node.js GraphQL server. https://t.co/C2uI39VRc2
+933356724987334700,Wed Nov 22 15:29:18 +0000 2017,RT @jlengstorf: A GraphQL feature I've been missing just landed thanks to the @graphcool team. Schema imports!  # import User from "name.gr…
+931511512979689500,Fri Nov 17 13:17:05 +0000 2017,@michaelpumo Thanks for the heads up, we'll make it private!
+931156538819055600,Thu Nov 16 13:46:33 +0000 2017,RT @xav_cz: 🔥 Working on a new flow for @graphcool GraphQL Playground, I'm stoked on the "Animation" pane in Chrome DevTools!  💅 It plays w…
+930855210066509800,Wed Nov 15 17:49:11 +0000 2017,🎓 Get started with #GraphQL, #Angular and #Apollo with a new tutorial on https://t.co/3SVBr6tRXy!  👨🏾‍🏫 Shoutout an… https://t.co/W9WqztB233
+930734764931403800,Wed Nov 15 09:50:34 +0000 2017,RT @graphqlweekly: 💡 GraphQL Native vs API Gateway 💚 "Instant path to greatness w/ @graphcool" by @cball_ 🔨 graphql-boilerplate on GitHub 🌟…
+930734705573494800,Wed Nov 15 09:50:20 +0000 2017,@elie2222 @emmenko @apollographql @GraphQL @nikolasburk Yes, this will be possible. We’ll soon release a blog post about this.
+930518625190056000,Tue Nov 14 19:31:43 +0000 2017,💡 Everything you need to know to implement a GraphQL server in Node.js https://t.co/FLd0ILOs1g
+929266692752109600,Sat Nov 11 08:36:59 +0000 2017,RT @kylemathews: .@graphcool is super nice — really streamlines building backends
+927935436118478800,Tue Nov 07 16:27:02 +0000 2017,💡 Read about the biggest changes coming with Apollo Client 2.0 https://t.co/LzeJFggnnT
+927656221154381800,Mon Nov 06 21:57:32 +0000 2017,@gallaghermikey Yes you can!
+926611980680495100,Sat Nov 04 00:48:06 +0000 2017,@matfrana @notrab It's definitely something that would be a good fit. Can you open a feature request here? https://t.co/1gdZPq20rv
+926611044700524500,Sat Nov 04 00:44:23 +0000 2017,@deiucanta There is an open feature request for this: https://t.co/rYwbuOcoWq
+926445875118800900,Fri Nov 03 13:48:03 +0000 2017,@matfrana @notrab Aggregate queries are coming soon!
+925100837684183000,Mon Oct 30 20:43:21 +0000 2017,💡 Learn about the 2 ways of using GraphQL: API Gateway &amp; GraphQL Native https://t.co/MqZezsfYFT
+923899603140755500,Fri Oct 27 13:10:05 +0000 2017,RT @pie6k: @graphcool first in github trending. good times comes to #GraphQL
+923698792674635800,Thu Oct 26 23:52:08 +0000 2017,Come hang out with the Graphcool Community at 7pm tonight to wrap up the awesome #graphqlsummit https://t.co/fnHGRIBcao
+923344358232825900,Thu Oct 26 00:23:44 +0000 2017,RT @graphcool: 🌟 Graphcool is now open-source – Introducing the Graphcool Framework https://t.co/qC0ZES3ONN
+923341273041330200,Thu Oct 26 00:11:29 +0000 2017,🌟 Graphcool is now open-source – Introducing the Graphcool Framework https://t.co/qC0ZES3ONN
+921120510162948100,Thu Oct 19 21:06:57 +0000 2017,RT @GeanaRaul: started using @graphcool for our clients. now we know how the future of back-end looks like.
+921047172191342600,Thu Oct 19 16:15:32 +0000 2017,🎟 Join us next week for GraphQL Summit. Our CEO will be giving a talk about "Building GraphQL-native Microservices". https://t.co/pvMUJr46cD
+920668377751916500,Wed Oct 18 15:10:21 +0000 2017,🎮 Have you already downloaded the GraphQL Playground? Check it out on Github: https://t.co/Qim6LSmVch https://t.co/WcT4EydbXw
+920321119139360800,Tue Oct 17 16:10:28 +0000 2017,📺 Looking forward to GraphQL Summit? Here you'll find all talks about GraphQL in the meanwhile. https://t.co/SzRPUBrkgk
+919931732962496500,Mon Oct 16 14:23:11 +0000 2017,RT @_schickling: 📣 Call for project:  Someone please port `graphql-tools` incl. GraphQL schema stitching to other languages (Python, Java/S…
+918550972430979100,Thu Oct 12 18:56:32 +0000 2017,@swyx We'll look into it! Apologies for the inconvenience!
+918462437787099100,Thu Oct 12 13:04:44 +0000 2017,RT @thekitze: Just tried the preview of the @graphcool framework. This is my favorite backend and GraphQL movement at the moment 👍 https://…
+918168761680658400,Wed Oct 11 17:37:46 +0000 2017,⚡️ Announcing the Preview of the Graphcool Framework https://t.co/lXQadP46GI
+917325310055669800,Mon Oct 09 09:46:11 +0000 2017,🎟 Do you already have your ticket for GraphQL Summit? We can't wait to see you there! https://t.co/8HN6GOQllz
+916727709241430000,Sat Oct 07 18:11:32 +0000 2017,@fredrikanderzon Apologies for the inconvenience - it should be fixed by now!
+915697039014580200,Wed Oct 04 21:56:01 +0000 2017,@lawjolla 💚
+915696759959060500,Wed Oct 04 21:54:55 +0000 2017,RT @stubailo: You can use #GraphQL schema stitching to combine services like @YelpEngineering and @graphcool! Thx @freiksenet https://t.co/…
+915605022272098300,Wed Oct 04 15:50:23 +0000 2017,💡  Understanding the cursor-based pagination mechanism in GraphQL APIs https://t.co/nnSAe4nyUD
+915283462818582500,Tue Oct 03 18:32:37 +0000 2017,RT @thekitze: Yeaaaah! *punches a wall and wrestles a bear*  This is just getting more and more awesome 😻 https://t.co/ijsr9ZbtPI
+915276143187591200,Tue Oct 03 18:03:32 +0000 2017,🎉 Introducing Resolver Functions to extend your GraphQL API https://t.co/Ny0kwOWr6I
+914881495642394600,Mon Oct 02 15:55:20 +0000 2017,👨‍🏫  Want to learn about GraphQL in Java? Get started with this step-by-step tutorial. https://t.co/EjAJOOiOHm https://t.co/fZ9BZBecvD
+914843779173158900,Mon Oct 02 13:25:28 +0000 2017,Thanks a lot for bringing this up. There are quite a few open issues still. Please feel free to get involved! 💪… https://t.co/7xbZHoaUbu
+913446988359913500,Thu Sep 28 16:55:07 +0000 2017,💡  Learn how fragments work in GraphQL and when to use them https://t.co/WbftGvgCBL
+913084589761028100,Wed Sep 27 16:55:05 +0000 2017,⚡️  Freecom Tutorial: Realtime Updates with GraphQL Subscriptions https://t.co/5w4tZJGV2H
+913030949402800100,Wed Sep 27 13:21:56 +0000 2017,Introducing the GraphQL Playground:  🔸 Interactive schema docs 🔸 Query sharing 🔸 Subscriptions, HTTP headers &amp; more… https://t.co/a0KAlQST2h
+912754440880390100,Tue Sep 26 19:03:11 +0000 2017,RT @_schickling: What a day for the GraphQL universe! Thanks so much for pushing through on this @leeb &amp; team! 💚 https://t.co/YjjuE13LwE
+912754071009988600,Tue Sep 26 19:01:43 +0000 2017,RT @leeb: We’re relicensing the GraphQL spec under the Open Web Foundation Agreement v1.0 and GraphQL.js &amp; Relay under MIT. 🎉 https://t.co/…
+912722200532275200,Tue Sep 26 16:55:04 +0000 2017,🖌 Learnings &amp; best practices for GraphQL API design https://t.co/jua6z3axUn
+912358778045124600,Mon Sep 25 16:50:58 +0000 2017,@ebaerbaerbaer Uh oh. We're looking into it! Thanks for the heads up!
+912344833456472000,Mon Sep 25 15:55:33 +0000 2017,🎥 New videos on https://t.co/4gH4TBuNg3: REST over GraphQL @_Axxiss, Live APIs with Elixir @wbruce, GraphQL EU Recap @philippspo &amp; more
+911159704298164200,Fri Sep 22 09:26:16 +0000 2017,RT @_marktani: Never had so much fun sending SMS before! 📲 Check out the @twilio module in the @graphcool module collection 🎁 https://t.co/…
+911119916882853900,Fri Sep 22 06:48:10 +0000 2017,RT @kgoggin: Shout out to @graphcool for providing an amazing dev experience + backend, @zeithq for Next.js, and @glamorousCSS - all a joy…
+910859169896583200,Thu Sep 21 13:32:03 +0000 2017,@_miguelangel Apologies for the inconvenience. @Netlify resolved the issue for us.
+910859096504586200,Thu Sep 21 13:31:46 +0000 2017,@Parrotmac @jeromeky @letsencrypt Apologies for the inconvenience. @Netlify resolved the issue for us.
+908373532505251800,Thu Sep 14 16:55:01 +0000 2017,👨🏼‍💻  In-depth guide on how to get started with Relay Modern (including 1h step-by-step video tutorial) https://t.co/cuynzOKSNn
+908011139858092000,Wed Sep 13 16:55:00 +0000 2017,⚛️  5-minute video tutorial to get started with GraphQL, Apollo and React. https://t.co/YSf1gfl7xS
+907648772058107900,Tue Sep 12 16:55:05 +0000 2017,🐠  Want to dive deeper? Learn more about advanced GraphQL features like nested mutations, pagination and filtering. https://t.co/7QOC4CVapJ
+905836855320617000,Thu Sep 07 16:55:10 +0000 2017,💡  Learn how to use the @skip / @include directives in GraphQL https://t.co/ojyhDVriw7
+905474424320741400,Wed Sep 06 16:55:00 +0000 2017,💧 How to build a GraphQL server in Elixir using Absinthe https://t.co/ZlXnwK1HeC
+905112060861833200,Tue Sep 05 16:55:06 +0000 2017,🌎  GraphQL Subscriptions Tutorial: How to build a real-time chat app with Apollo https://t.co/4JZlSEIVIB
+904407790269210600,Sun Sep 03 18:16:34 +0000 2017,@trevordmiller @ChromeDevTools + a more convenient API
+904249518585204700,Sun Sep 03 07:47:40 +0000 2017,@trevordmiller @ChromeDevTools Hey Trevor, this post should give you more context: https://t.co/iaf4IAP8g5
+903876320689614800,Sat Sep 02 07:04:42 +0000 2017,RT @_marktani: Awesome to see Mirage featured in the App Store! Built with @graphcool 💚 https://t.co/vS3bpiMgGb
+903290397945946100,Thu Aug 31 16:16:27 +0000 2017,👨🏼‍💻  There are 3 new How to GraphQL tutorials available: Vue, Ember and Python. Big thank you to all contributors! https://t.co/nbRt8HYPPB
+903264477805727700,Thu Aug 31 14:33:28 +0000 2017,RT @yusinto: Having an awesome time adding realtime capabilities to my app using @graphcool and @apollographql !
+902937729767534600,Wed Aug 30 16:55:05 +0000 2017,🤵  Can't wait for GraphQL Summit? Here are all talks of GraphQL Europe in the meanwhile. https://t.co/7TQBOC9zKA
+902639098007097300,Tue Aug 29 21:08:25 +0000 2017,RT @estejs: With @Firebase, we had to establish a special queue for that. @graphcool rocks. https://t.co/04TQTMCyc2
+901482446977466400,Sat Aug 26 16:32:18 +0000 2017,🗒  Check out the latest changelog with improvements to JSON &amp; Enums and examples for @Firebase &amp; @Twilio auth ⚡️ https://t.co/nmuNHQFEhW
+901409658497355800,Sat Aug 26 11:43:04 +0000 2017,🌟 Chromeless just hit 10.000 stars on Github. Thanks to all the awesome contributors! 💚 https://t.co/GETC95kt6N
+901353989643567100,Sat Aug 26 08:01:52 +0000 2017,@estejs Thanks a lot for that suggestion! We'll tweet about it going forward!
+900763390737567700,Thu Aug 24 16:55:02 +0000 2017,⚛️ How to get started with CRA (create-react-app) and GraphQL using Apollo https://t.co/12adECYIhb
+900462891798855700,Wed Aug 23 21:00:57 +0000 2017,@kaqqao Interesting point! So far we've had good feedback for the term as being descriptive. Do you have a better t… https://t.co/X0TEaSZA96
+900400999067787300,Wed Aug 23 16:55:01 +0000 2017,💡 All you need to know about GraphQL SDL (sometimes called IDL) https://t.co/ktzbvYYK09
+900327279355625500,Wed Aug 23 12:02:05 +0000 2017,🇩🇪 Living in Berlin and interested in learning GraphQL? Join this free workshop! https://t.co/ERkouHLgKi
+900038607406329900,Tue Aug 22 16:55:00 +0000 2017,💯 Our learnings &amp; best practices when designing GraphQL APIs https://t.co/jua6z3axUn
+898670135115829200,Fri Aug 18 22:17:11 +0000 2017,RT @zeithq: Announcing two more incredible speakers!  ◆ Johannes Schickling from @graphcool  ◆ Maaret Pyhäjärvi from @fsecure  https://t.co…
+898226669806334000,Thu Aug 17 16:55:00 +0000 2017,👩‍💻  Learn how to design the schema for your GraphQL backend by building Freecom - a free Intercom clone https://t.co/DbeOvbIkI7
+897929069144264700,Wed Aug 16 21:12:27 +0000 2017,@pie6k https://t.co/oohJk2YXMD
+897929053889478700,Wed Aug 16 21:12:23 +0000 2017,@pie6k Yes, that's possible. It would be great if you could also ask this question in the forum. We're happy to provide an example!
+897928801090285600,Wed Aug 16 21:11:23 +0000 2017,@thetomscholz 🤓 💯
+897864307530231800,Wed Aug 16 16:55:07 +0000 2017,🎥  Learn how to migrate your GraphQL server to Graphcool https://t.co/Wb6NdBY5UX
+897755266527227900,Wed Aug 16 09:41:49 +0000 2017,@kl_support Done. Seems to apply for both.
+897564850150178800,Tue Aug 15 21:05:10 +0000 2017,@kl_support Kaspersky is blocking our customers' API endpoints. Can you please whitelist it as we don't want to advise turning off your app.
+897508282230820900,Tue Aug 15 17:20:24 +0000 2017,❓  Deciding between Relay and Apollo is tough. Here is an un-opinionated comparison of the two GraphQL clients. https://t.co/6KNw4dm6u3
+897503166681329700,Tue Aug 15 17:00:04 +0000 2017,RT @graphqlradio: 🙌 We're back with a new episode! This time @nikolasburk walks us through the process of building #HowToGraphql 🎓 https://…
+897343478111371300,Tue Aug 15 06:25:31 +0000 2017,RT @ImTheDeveloper: Really impressed with @graphcool very easy to use interface and the docs are really helpful.
+895956950550282200,Fri Aug 11 10:35:57 +0000 2017,RT @ashteya: Graphcool is so cool! 😍 I'll be writing a tutorial for @Ionicframework apps with a @graphcool backend soon!
+895956823152439300,Fri Aug 11 10:35:27 +0000 2017,RT @wesbos: Built a full online shopping cart with React/Apollo/Next.js/Graphql/Graph cool/Serverless - really fun!   Clearly missing: Styl…
+895694057552232400,Thu Aug 10 17:11:19 +0000 2017,@ScottDevTweets Sorry, the link was broken! https://t.co/fzjDdRwPNK
+895693909090738200,Thu Aug 10 17:10:43 +0000 2017,🔥  Learn about the differences between GraphQL and Firebase https://t.co/uaD8yl8mjv https://t.co/BJM2NbgKuN
+895579745416613900,Thu Aug 10 09:37:05 +0000 2017,RT @reactdayberlin: ✨Call for speakers OPEN for React Day Berlin!✨ https://t.co/eO9jFOedHF https://t.co/RbskGiQMYU
+895573895872471000,Thu Aug 10 09:13:50 +0000 2017,RT @notrab: Migrate your @GraphQL server to @graphcool 🚗 https://t.co/lQq2iralQA
+895536793449312300,Thu Aug 10 06:46:24 +0000 2017,@estejs @lucasavila00 This is incredible! ✨
+895536610615406600,Thu Aug 10 06:45:40 +0000 2017,RT @estejs: New Este is completed. It's based on Next.js, GraphQL, Relay Modern, @graphcool. So many things were improved. It took me 5 mon…
+895327604881768400,Wed Aug 09 16:55:10 +0000 2017,⚛️  How to get started with React Native, Apollo and GraphQL https://t.co/ND1OJdGZaM
+895169536357433300,Wed Aug 09 06:27:03 +0000 2017,RT @R_N_Radio: 🚀 Episode 70 👽 - GraphCool and GraphQL feat @nikolasburk of @graphcool, @peterpme, &amp; @dabit3 https://t.co/mTvO2Dt9bX #graphq…
+895008983597142000,Tue Aug 08 19:49:04 +0000 2017,@der_bingle @Medium We're currently migrating our Blog to Medium! 📗
+894854314300067800,Tue Aug 08 09:34:28 +0000 2017,RT @notrab: I just recorded a video on migrating to @graphcool - Check it out. https://t.co/C5OLUKFkyl
+894623891712356400,Mon Aug 07 18:18:51 +0000 2017,RT @cezarneaga: 2 hours and i have a graphql backend for a cute little app. amazing @graphcool! just amazing! https://t.co/dNI12NU64b
+893475548592296000,Fri Aug 04 14:15:45 +0000 2017,⁉️ Where do you prefer reading tutorials?
+893191613903773700,Thu Aug 03 19:27:30 +0000 2017,RT @auth0: Learn how to build a Rotten Tomatoes clone with @graphcool, @apollographql, @reactjs and Auth0! 🛠🍅⚛🚀 #GraphQL ➡️ https://t.co/8S…
+892773183996272600,Wed Aug 02 15:44:48 +0000 2017,RT @nikolasburk: 📆 Save the date: The 5th #GraphQL Berlin Meetup will take place on August 24 with talks by @_Axxiss &amp; @mesirii 🙌 https://t…
+892491970135896000,Tue Aug 01 21:07:22 +0000 2017,RT @stubailo: Very cool! This will make it much easier for people to set up tooling in their #GraphQL projects. https://t.co/b0IAqP4xJj
+892459971681693700,Tue Aug 01 19:00:13 +0000 2017,⚙️ Introducing graphql-cli to improve your GraphQL workflow and graphql-config to unify tooling configuration https://t.co/kk6Ko5O156?
+892428474945876000,Tue Aug 01 16:55:03 +0000 2017,👩‍🎓  Learn more about Subscriptions and Pagination in Relay with the latest additions to How to GraphQL https://t.co/BFX3WXoCRp
+890616595046846500,Thu Jul 27 16:55:17 +0000 2017,💡  Use GraphQL Introspection Queries to get insights into your GraphQL Schema https://t.co/By3kO56bqp
+890289612618432500,Wed Jul 26 19:15:59 +0000 2017,💎 We just open-sourced Chromeless: Headless Chrome Automation on AWS Lambda https://t.co/GETC95kt6N
+890254169164193800,Wed Jul 26 16:55:08 +0000 2017,🎓  Build awesome apps with create-react-app, GraphQL and Apollo https://t.co/fYlnZERWyu
+889891768258441200,Tue Jul 25 16:55:05 +0000 2017,💡  Consume the GitHub GraphQL API with a Graphcool Function ⚡️ https://t.co/BC4FJwcc7z
+889540081396179000,Mon Jul 24 17:37:36 +0000 2017,@tomincode Thanks so much for the kind words! We couldn't be happier to see your appreciation for the work we put into the details! 💎
+889539770057183200,Mon Jul 24 17:36:22 +0000 2017,RT @tomincode: Today I learnt how to deliver an amazing onboarding process, thanks to the folks at @graphcool - https://t.co/Rij8KZBlkq
+889371349285838800,Mon Jul 24 06:27:08 +0000 2017,RT @irreduce: thanks @graphcool for making it unbelievably easy to get into #GraphQL! graphcool + create-react-app + apollo = 😇
+888079858726830100,Thu Jul 20 16:55:12 +0000 2017,💡  How to evolve your data schema using GraphQL SDL https://t.co/ktzbvYYK09
+887961900994228200,Thu Jul 20 09:06:29 +0000 2017,RT @graphqleu: 📺  All talk recordings of GraphQL-Europe 2017 are online including talks from @leeb, @dlschafer, @stubailo and more! https:/…
+887717422005923800,Wed Jul 19 16:55:01 +0000 2017,🎓  Learn about GraphQL Fundamentals in this introduction to GraphQL https://t.co/ASWPMJFph7
+887355036141051900,Tue Jul 18 16:55:01 +0000 2017,⚡️ Send Slack notifications using Graphcool Functions https://t.co/dTaRAMA0X4
+886655096423100400,Sun Jul 16 18:33:42 +0000 2017,RT @burin: omg @graphcool’s onboarding experience is so good. SO GUD  if you’re interested in #graphql, give them a try
+886290639545126900,Sat Jul 15 18:25:29 +0000 2017,@trevordmiller @GraphQL Thanks for sharing Trevor!
+885490953657606100,Thu Jul 13 13:27:49 +0000 2017,@gabe_g2i 💚
+885269771981402100,Wed Jul 12 22:48:55 +0000 2017,RT @ChenAlon_: @graphcool, your onboarding experience was one of the best, well done! :) The sound effect at the end is so surprising &amp; del…
+884863808950423600,Tue Jul 11 19:55:46 +0000 2017,@ton1main We definitely want to include a track for php. If you know someone who could be interested in collaborati… https://t.co/wjVzaYDlpR
+884809441471627300,Tue Jul 11 16:19:44 +0000 2017,👩‍🎓 Introducing How to GraphQL - The Fullstack Tutorial to Learn GraphQL https://t.co/OpHH5CH3t4
+883038789039530000,Thu Jul 06 19:03:48 +0000 2017,📹 Explore &amp; watch all GraphQL Talks in one place 🇪🇺 First @graphqleu videos released https://t.co/sprp9Xepel
+883006407750148100,Thu Jul 06 16:55:07 +0000 2017,🔥📈 Do you know all the differences of Firebase and GraphQL? https://t.co/iOxnt7G2SE
+882821300246466600,Thu Jul 06 04:39:34 +0000 2017,RT @notrab: Do you use #GraphQL? Save time writing your own backend by using @graphcool ⭐️⭐️⭐️⭐️ https://t.co/QdD2ecwRab
+882644024468938800,Wed Jul 05 16:55:08 +0000 2017,👮 Build secure apps with GraphQL permission queries https://t.co/klWaSABstm
+882281620312608800,Tue Jul 04 16:55:04 +0000 2017,⚛️ Migrate your Relay Classic app to Relay Modern https://t.co/wlmFk8OyHL
+882241237553631200,Tue Jul 04 14:14:36 +0000 2017,RT @AbhiAiyer: I love @graphcool. Its the gateway drug for people to get into @GraphQL
+881126230082428900,Sat Jul 01 12:23:58 +0000 2017,RAN makes setting up Graphcool + React + Apollo + Next.js projects super easy 👏 https://t.co/2KtPzK9TS3
+880869699504001000,Fri Jun 30 19:24:36 +0000 2017,RT @apollographql: We're launching a new site to help people discover #GraphQL, collect best practices, and showcase success stories! https…
+880469673220997100,Thu Jun 29 16:55:03 +0000 2017,💡  Upgrade your Queries with GraphQL Directives https://t.co/ojyhDVriw7
+880107284071944200,Wed Jun 28 16:55:02 +0000 2017,💫  Using GraphQL Subscriptions with Apollo https://t.co/6ILw3WryU0
+879787824228249600,Tue Jun 27 19:45:37 +0000 2017,RT @b_b4rry: Big shoutout to @graphcool for their backend where we ran your GraphQL server :) https://t.co/Dllq5wEtdU
+879744891328266200,Tue Jun 27 16:55:01 +0000 2017,⚡️  Slack Notifications using GraphQL &amp; Zapier https://t.co/JRPPgohDJX
+878972635291545600,Sun Jun 25 13:46:21 +0000 2017,RT @Kelset: ~13 hrs left in @reactriot, I don't think we'll end up doing 💯% we planned. But in the past 15hrs I've been using @graphcool an…
+878972635291545600,Sun Jun 25 13:46:21 +0000 2017,RT @Kelset: ~13 hrs left in @reactriot, I don't think we'll end up doing 💯% we planned. But in the past 15hrs I've been using @graphcool an…
+878673073054113800,Sat Jun 24 17:56:00 +0000 2017,RT @heckchuckman: This is me reading the @graphcool docs. AWESOME. #reactnative #appdev https://t.co/Ztbg65g9l1
+878513503799320600,Sat Jun 24 07:21:55 +0000 2017,RT @dabit3: Just posted 🔥 Full Stack React Native Development using GraphCool and Apollo Subscriptions + React Navigation 🔥 https://t.co/h8…
+878147388254281700,Fri Jun 23 07:07:07 +0000 2017,RT @dabit3: About to publish how to use React Native + @graphcool + @apollographql web socket subscriptions! #graphql https://t.co/Qdz2YNKA…
+878147278430765000,Fri Jun 23 07:06:41 +0000 2017,@gerardsans @ragavkumarv Let us know if you need any help! Here is a tutorial to get you started: https://t.co/klWaSABstm
+877599894336405500,Wed Jun 21 18:51:34 +0000 2017,🌍  Introducing global regions and improved performance for much faster responses 🏇 https://t.co/MPZq9reZav
+877570563191042000,Wed Jun 21 16:55:01 +0000 2017,🎬👩‍🎓  Build a Realtime App with GraphQL Subscriptions and Apollo https://t.co/5BDnDANNsI
+877446388061278200,Wed Jun 21 08:41:35 +0000 2017,@mwickett Hi Mike! We're not behind https://t.co/AMIfigCrg5 but we're currently working on a new way how to get sta… https://t.co/M3wYhGXhA9
+877269924464525300,Tue Jun 20 21:00:23 +0000 2017,RT @thereal_scottv: Just learned about @graphcool from some web devs I was working next to at Starbucks. Going to check it out tonight.
+877208201049124900,Tue Jun 20 16:55:07 +0000 2017,💡  Learn about the new connection directive in Relay Modern  https://t.co/lVY91MR2Zl
+875826796192813000,Fri Jun 16 21:25:54 +0000 2017,@dubstrike @helenvholmes How about tonight you rebuild Pinterest instead using GraphQL? 🧙‍♂️
+875396266473214000,Thu Jun 15 16:55:08 +0000 2017,👩🏻‍🏫  Build your own Intercom clone with GraphQL and Apollo  in this full-stack tutorial! https://t.co/odzVp8G5bg
+875033861415211000,Wed Jun 14 16:55:04 +0000 2017,👩‍🎓  Graphcool Webinar: Preparing a Workshop with @hackages  https://t.co/h5MolsbiHE https://t.co/Zs3uJIScsg
+874606267460988900,Tue Jun 13 12:35:58 +0000 2017,RT @dailydripcom: Using @graphcool with @reactnative - https://t.co/89Er9Pp75U #reactNative #programming https://t.co/oT43r5lfD6
+872898008270196700,Thu Jun 08 19:27:57 +0000 2017,📙 Are you already using Relay Modern? Check out this in-depth tutorial on how to build React apps with Relay Modern. https://t.co/OJ9JLd3xxf
+872891314609717200,Thu Jun 08 19:01:21 +0000 2017,RT @huv1k: Today is @graphcool Q&amp;A on @reactiflux go check it out. Great product and great community ❤️🚀
+872691562584657900,Thu Jun 08 05:47:37 +0000 2017,RT @reactiflux: Excited to have @graphcool (A Serverless GraphQL backend for frontend devs) on a Q&amp;A tmrw!! 1pm - 2pm PST June 8 https://t.…
+872544669107990500,Wed Jun 07 20:03:54 +0000 2017,RT @apollographql: 📸 Build a #Reactjs Instagram clone with Apollo &amp; #GraphQL in this tutorial from @graphcool:  https://t.co/PnJIfFblIY
+872183924046352400,Tue Jun 06 20:10:26 +0000 2017,⚛️  Join @ReactRiot which is a 48h hackathon all about the #ReactJS ecosystem. It starts in 2 weeks. Signup here:… https://t.co/VzgNRBj5g2
+872098048700280800,Tue Jun 06 14:29:12 +0000 2017,RT @wesbos: Drinking the GraphQLaid even more after @_schickling demoed @graphcool to me
+871683543956586500,Mon Jun 05 11:02:06 +0000 2017,@graphql_london @ragavkumarv @apollographql @graphqleu Have you already seen this tutorial? https://t.co/efbq3sMRIX
+871654704719286300,Mon Jun 05 09:07:30 +0000 2017,RT @kgoggin: ✅ @graphcool back end ✅ @apollographql front end ✅ @zeithq Next.js SSR  All working together in about 30 min. Can’t believe ho…
+871464934143664100,Sun Jun 04 20:33:25 +0000 2017,RT @_hellojony: One of the best tutorials I've seen - https://t.co/MSO9lojJ0U  @graphcool 🙌 awesome work guys
+871464851377410000,Sun Jun 04 20:33:06 +0000 2017,@kandros5591 Hey Jaga! Thanks a lot for the heads up. We'll fix it asap!
+871434365674410000,Sun Jun 04 18:31:57 +0000 2017,RT @stackshareio: .@graphcool - The GraphQL Backend for Mobile &amp; Web Developers https://t.co/WUqJCmZlV3
+870978645560627200,Sat Jun 03 12:21:05 +0000 2017,@jtrollip Glad to hear! 🙌  What are you going to build?
+870566679859822600,Fri Jun 02 09:04:05 +0000 2017,📡 `graphql-request` is now open source. A minimal and lightweight GraphQL client for Node scripts and simple apps. https://t.co/kLhLLGwxVP
+870523428180078600,Fri Jun 02 06:12:13 +0000 2017,RT @notrab: Get up and running with Create React App, @apollographql and @graphcool in a few easy to follow steps! #GraphQL  https://t.co/t…
+870400487421378600,Thu Jun 01 22:03:42 +0000 2017,RT @erhankaradeniz: I ❤️ @graphcool serverless functions 😍
+870322802527744000,Thu Jun 01 16:55:00 +0000 2017,⚡️  Validating and Transforming Mutation Input https://t.co/8hTk6Jeqc7
+869960415157112800,Wed May 31 16:55:00 +0000 2017,Do you know about the Mutation Payload in GraphQL? 💡 https://t.co/fY75dtsUBL
+869848683218645000,Wed May 31 09:31:01 +0000 2017,@abtris Could you please send a mail to hello @ graph . cool?
+869598061554786300,Tue May 30 16:55:08 +0000 2017,👩‍🔬 Explore the Serverless GraphQL Backend https://t.co/4kaI5ucbpD
+869235647818629100,Mon May 29 16:55:02 +0000 2017,🚀 Getting started with GraphQL &amp; Apollo on iOS https://t.co/Qu5CbwuhaI
+869146918785568800,Mon May 29 11:02:28 +0000 2017,@onurakpolat Thanks so much Onur! 👋
+869146805187084300,Mon May 29 11:02:00 +0000 2017,RT @onurakpolat: . @graphcool is the coolest new services I've discovered for a while. Awesome work everyone!
+868834542622318600,Sun May 28 14:21:11 +0000 2017,@erhankaradeniz @jesstelford Better schema export in the UI is a great idea and coming soon. A cheatsheet of the ge… https://t.co/YZpkJaU4z3
+868735782147764200,Sun May 28 07:48:45 +0000 2017,@jesstelford Thanks a lot for the suggestion. Would you mind describing your idea here? https://t.co/6TawiIL3YS
+867833071734751200,Thu May 25 20:01:42 +0000 2017,RT @erhankaradeniz: @jchiatt @wesbos I'd suggest taking a look at https://t.co/ecGQqkyUaR they have some good resources to get started also…
+867807761442025500,Thu May 25 18:21:08 +0000 2017,👩🏻‍🏫  Freecom Tutorial (5/6): Using serverless functions to implement business logic in a GraphQL backend https://t.co/glNOvsJhey
+867441081092370400,Wed May 24 18:04:04 +0000 2017,⚛️  Do you want to use GraphQL for your next React app? Check out this video to get started with GraphQL &amp; Apollo.… https://t.co/cmfnTbJkA1
+866659796170223600,Mon May 22 14:19:31 +0000 2017,@fkadev Thanks a lot! Appreciate your feedback! 🙌
+866658848588927000,Mon May 22 14:15:45 +0000 2017,@neoberg @fkadev Our sales team is actually very technical so it can help you with the architecture of your applica… https://t.co/rllGpygLao
+866658368835944400,Mon May 22 14:13:51 +0000 2017,@fkadev We're reworking this section right now. Thanks for your feedback! 👌
+866658204184449000,Mon May 22 14:13:12 +0000 2017,@fkadev Good point Faith! We need to be more clear on this. Some of these companies are using Graphcool, for others… https://t.co/gpVZUqYIDb
+866578088787939300,Mon May 22 08:54:51 +0000 2017,💚  Thank you to everybody from all over the world joining us for @graphqleu. See you next year!
+866576860817371100,Mon May 22 08:49:58 +0000 2017,@thelamkin 💚
+866576525486940200,Mon May 22 08:48:38 +0000 2017,@apollographql @honeypotio @easyangel 💚
+866576387116761100,Mon May 22 08:48:05 +0000 2017,RT @apollographql: Huge thank you (and congrats) to @graphcool @honeypotio @easyangel &amp; others for organizing this fantastic conference! 💞…
+866556560214028300,Mon May 22 07:29:18 +0000 2017,RT @gerardsans: Very impressed by @graphcool service. During Q&amp;A it handled 350 att w +3M messages over an hour with no hiccups! #graphqleu…
+866329357299613700,Sun May 21 16:26:29 +0000 2017,RT @stubailo: Quickly try #GraphQL subscriptions today with @apollographql and @graphcool with this handy tutorial! https://t.co/J9tFjqwyJW…
+865663181003210800,Fri May 19 20:19:20 +0000 2017,@dev_gar We'd love to see a contribution for that! Are you already in our Slack?
+865619269228343300,Fri May 19 17:24:50 +0000 2017,⁉️  Which is your favourite quickstart example? Please reply why and which additions you'd like to see (like auth, file handling, ...)
+865150903178940400,Thu May 18 10:23:43 +0000 2017,RT @ferdinandvde: Great talk about event driven serverless backend architecture using GraphQL by @graphcool #awssummitberlin #netlight http…
+865145894718582800,Thu May 18 10:03:49 +0000 2017,RT @sorenbs: @graphcool rockin #awssummitberlin https://t.co/rCCzyDhHG3
+865115783550185500,Thu May 18 08:04:10 +0000 2017,RT @_schickling: I'm speaking today about building Serverless GraphQL application at #AWSSummit. Looking forward to seeing you there! 👋 htt…
+865105075592712200,Thu May 18 07:21:37 +0000 2017,RT @ProductHunt: This is cool. The GraphQL backend for mobile &amp; web developers 👩‍💻👨‍💻 https://t.co/dhRNaFZ6RU https://t.co/wyl0VjrFAV
+864857819895529500,Wed May 17 14:59:07 +0000 2017,@artyomchel @MrLoh We're created an internal ticket for this. We'll try to come up for a solution for this!
+864848887776989200,Wed May 17 14:23:37 +0000 2017,Great example of GraphQL subscription and already uses the new CLI 👌 https://t.co/baElDmTmB7
+864749162872553500,Wed May 17 07:47:21 +0000 2017,@der_bingle @alfredapp That's awesome ! 👌
+864573117355753500,Tue May 16 20:07:48 +0000 2017,RT @graphcool: Based on our learnings from building Graphcool, we're presenting a new architecture: Serverless GraphQL Backend https://t.co…
+864572939609440300,Tue May 16 20:07:06 +0000 2017,The new inline functions are powered by Auth0 Extend and support more than 1000 dependencies out of the box ⚡️ https://t.co/uwxIoT67UI
+864568780424392700,Tue May 16 19:50:34 +0000 2017,Based on our learnings from building Graphcool, we're presenting a new architecture: Serverless GraphQL Backend https://t.co/O5KjSaQw82
+864507700222341100,Tue May 16 15:47:52 +0000 2017,⚡️ Introducing the Graphcool CLI, Migrations &amp; Functions https://t.co/zIWAqrkRXs https://t.co/xlhePbGiWS
+864410739423023100,Tue May 16 09:22:34 +0000 2017,💚 We are featured on Producthunt. Join the conversation in the comments! https://t.co/E3h1dxmr62 https://t.co/ORHTKXvcWq
+864159874418184200,Mon May 15 16:45:44 +0000 2017,RT @MickeJunell: @graphcool's onboarding just nailed it. Really impressed.
+863788363060576300,Sun May 14 16:09:28 +0000 2017,@tarasm Thanks a lot for the headsup. We're shortly releasing a new page with a fix for this.
+863530782530424800,Sat May 13 23:05:56 +0000 2017,RT @NicR_: Just tried @graphcool's GraphQL backend-as-a-service - it's AMAZING how quickly you can backend your #reactjs or #VueJS app.
+863295683096322000,Sat May 13 07:31:44 +0000 2017,@steida Hi Daniel, that's already possible. Just use this CLI tool to download your schema: https://t.co/nASxulrRQo
+862916039268606000,Fri May 12 06:23:10 +0000 2017,@pauloelias @kentcdodds We can send you all needed resources. Happy to help! 📚
+862750343482011600,Thu May 11 19:24:45 +0000 2017,RT @heavybit: Learn all about @graphcool in Ep. 13 @JAMstackradio w/ @bdougieYO feat. @_schickling &amp; @eliwilliamson #JAMstack https://t.co/…
+862350310324523000,Wed May 10 16:55:10 +0000 2017,Build a secure CMS with GraphQL Permission Queries 🔐 https://t.co/klWaSABstm
+861987889055494100,Tue May 09 16:55:02 +0000 2017,🚚 Tracking product deliveries with GraphQL https://t.co/3bUqToSGu3
+861320733053653000,Sun May 07 20:43:59 +0000 2017,RT @goserverless: [Serverless Example] Building a Web Store with #GraphQL, @stripe, @Mail_Gun &amp; the #Serverless Framework @graphcool   http…
+860624195109171200,Fri May 05 22:36:12 +0000 2017,RT @mvp_space: “What happens when you combine React Native, Expo, and @graphcool” by @enricocerroni https://t.co/HBBew1AccB
+860497898995404800,Fri May 05 14:14:21 +0000 2017,RT @notrab: If you're looking to get started with GraphQL I highly recommend you try @graphcool - The team &amp; community are so supportive. ⚛
+860214258491170800,Thu May 04 19:27:15 +0000 2017,👩🏻‍🏫  Freecom Tutorial (4/6): Using authentication &amp; authorization with GraphQL &amp; Apollo https://t.co/iEEFYPkULD
+859813564663640000,Wed May 03 16:55:03 +0000 2017,Use GraphQL Fragments to upgrade your queries! 💡 https://t.co/WbftGvgCBL
+859716417675034600,Wed May 03 10:29:01 +0000 2017,RT @graphqleu: 🤵  Johannes Schickling from @graphcool will be speaking about "Schema first development" with GraphQL IDL https://t.co/EnljD…
+859650298154975200,Wed May 03 06:06:17 +0000 2017,@b_b4rry @davyengone @andrestaltz Hi André, we're also running data centers in Europe. Happy to get you started! 🇪🇺
+859521302817902600,Tue May 02 21:33:42 +0000 2017,Thanks a lot for the shoutout @ShortJared! We couldn't be more excited for a serverless future! 🚀 https://t.co/7tTCbndxsa
+859451168849788900,Tue May 02 16:55:01 +0000 2017,Send GraphQL queries and mutations with jQuery ⚙️  https://t.co/1iweRGGk8n
+859095481967939600,Mon May 01 17:21:38 +0000 2017,RT @ArtsyOpenSource: The Magic behind Relay Mutations from @nikolasburk of @graphcool  A great cover of how @GraphQL mutations work.  📝http…
+859006401758343200,Mon May 01 11:27:40 +0000 2017,@cold_lestat Thanks a lot for the heads up! We'll look into it right away!
+859005966821544000,Mon May 01 11:25:56 +0000 2017,@superhighfives @hoscilo @glenmaddern Hi Charlie! Let us know if you need any help getting started! 👋
+858273447239090200,Sat Apr 29 10:55:10 +0000 2017,@ben11kehoe @ShortJared @Swype Thanks a lot! 🙏
+858042199895887900,Fri Apr 28 19:36:16 +0000 2017,RT @ben11kehoe: @ShortJared calling out @graphcool for enabling serverless #GraphQL. They are doing awesome stuff #ServerlessConf
+858002862873432000,Fri Apr 28 16:59:58 +0000 2017,RT @leeb: Are you a student or don't see many people like you in the industry? We want to see you at GraphQL EU! https://t.co/eMyjeKzFaH
+857646269837213700,Thu Apr 27 17:22:59 +0000 2017,RT @thekitze: This is how you take care of your users. @graphcool, @_marktani you rock!!! 🙌 😄 https://t.co/40kYbJ53qQ
+857639262166110200,Thu Apr 27 16:55:08 +0000 2017,All you need to know about GraphQL variables for increased flexibility and control 💡 https://t.co/93nYOOMegZ
+857592896069013500,Thu Apr 27 13:50:54 +0000 2017,RT @richtacular: Just started out with @graphcool and loving it. Onboarding process is excellent, and filtering really powerful. 🚀👌🔥
+857334358704881700,Wed Apr 26 20:43:34 +0000 2017,@adampietrasiak sorry about this. Please send a mail to Soren@graph.cool and I'll get this sorted out asap!
+857276878524207100,Wed Apr 26 16:55:09 +0000 2017,How to combine multiple GraphQL operations in one request 💡 https://t.co/gagFTnVusd
+857174001550065700,Wed Apr 26 10:06:22 +0000 2017,@matthiasak @fccincinnati @nodejs @postgresql @preactjs Congratulations on the launch, Matt! Fanflow turned out fantastic! ✨
+857161900479696900,Wed Apr 26 09:18:17 +0000 2017,💎  react-sketchapp is a huge breakthrough for design &amp; prototyping. GraphQL is the perfect fit for bringing in data. https://t.co/FXjiOKDTqu
+856976683051692000,Tue Apr 25 21:02:17 +0000 2017,🔐  Introducing Permission Queries - a declarative way to handle authorization with the power of GraphQL https://t.co/fjPTepxT3p
+856928283912544300,Tue Apr 25 17:49:58 +0000 2017,RT @bganicky: I've just tried @graphcool and I must say I've never experienced such an awesome onboarding process before! The `cool` part i…
+856812151448666100,Tue Apr 25 10:08:30 +0000 2017,@matzatorski @huv1k We'd be super happy to help you getting started with authentication!
+856812054933647400,Tue Apr 25 10:08:07 +0000 2017,@matzatorski @huv1k Hi Mateusz! We totally can understand your concerns that's why we've written this article about… https://t.co/6hnR9XemY0
+856598012457562100,Mon Apr 24 19:57:35 +0000 2017,🔥  Want to use Relay Modern? Here is a step-by-step migration guide including a full video tutorial.  https://t.co/wlmFk8OyHL
+856387726576431100,Mon Apr 24 06:01:59 +0000 2017,@Baconbrix @Firebase Haha. Happy to help you getting started 👋
+855560451131928600,Fri Apr 21 23:14:41 +0000 2017,@calebmer @graphqlradio Sure! The link is in the blog post: https://t.co/yi3Zyzd5iJ
+855177012675309600,Thu Apr 20 21:51:02 +0000 2017,📻  Say hello to GraphQL Radio @graphqlradio. A new regular podcast about GraphQL and its ecosystem. https://t.co/KZXJhpdTJ6
+855102534792470500,Thu Apr 20 16:55:05 +0000 2017,How to use the GraphQL directives @skip and @include? 💡 https://t.co/ojyhDVriw7
+855097199394525200,Thu Apr 20 16:33:53 +0000 2017,@DrWicked Thanks for your kind words! Can't wait to see what you'll build! 🤘
+855097049439666200,Thu Apr 20 16:33:18 +0000 2017,RT @DrWicked: I am playing with @graphcool for a project and it's amazing. GraphQL in the cloud with a gorgeous interface and great support…
+854737482918875100,Wed Apr 19 16:44:30 +0000 2017,👩🏻‍🏫  Freecom Tutorial (3/6): Learn how to build a real-time chat with GraphQL subscriptions, Apollo &amp; React https://t.co/sGKqUp1oVK
+854377737708023800,Tue Apr 18 16:55:00 +0000 2017,Four Simple Tricks for the #GraphQL Playground https://t.co/qopKh2w8Dk
+854085505897685000,Mon Apr 17 21:33:47 +0000 2017,RT @geirmanc: Big ups to @graphcool! Their #onboarding experience is on point! #graphql
+853510205983871000,Sun Apr 16 07:27:45 +0000 2017,RT @goserverless: [Serverless Example] Building a Web Store with #GraphQL, @stripe, @Mail_Gun &amp; the #Serverless Framework @graphcool   http…
+853228017556082700,Sat Apr 15 12:46:26 +0000 2017,@BogdanSoare Glad you like it! Let us know when you need any help! 👋
+853013827314647000,Fri Apr 14 22:35:19 +0000 2017,RT @VitorAmaral_Dev: The easiest way to get started with #GraphQL, the perfect backend platform for your applications @graphcool
+852819527108673500,Fri Apr 14 09:43:14 +0000 2017,@Orcanist @horrorbuns Let us know if you need some help or have any other questions!
+852819356849381400,Fri Apr 14 09:42:33 +0000 2017,@Orcanist @horrorbuns Apologies for our "progressive" Twitter outreach efforts. We're very glad you enjoy using Graphcool for your apps! 🙌
+852618880572948500,Thu Apr 13 20:25:56 +0000 2017,RT @AaronKcHsu: So... @Graphcool is literally the future!! Building the @blerp imessage app with it has been so nice! #GraphQl #goodbyerest
+852566384211001300,Thu Apr 13 16:57:20 +0000 2017,Graphcool Webinar: Building a follower system with #GraphQL https://t.co/n4Yk0u7hjb https://t.co/dPulAQvvMi
+852541725457383400,Thu Apr 13 15:19:21 +0000 2017,RT @graphqleu: 🌈  We have great news: @github is sponsoring 25 free opportunity tickets for GraphQL-Europe! You can apply here: https://t.c…
+852203410329927700,Wed Apr 12 16:55:00 +0000 2017,Relay vs Apollo - Comparing #GraphQL clients for React apps https://t.co/rVC4SlYyED
+852109313917243400,Wed Apr 12 10:41:06 +0000 2017,❓  How do you like to configure your GraphQL endpoint in your web/mobile apps (React, ReactNative, Angular, Vue, ...)?
+851867417244569600,Tue Apr 11 18:39:53 +0000 2017,👩🏻‍🏫  Freecom Tutorial (2/6): Learn how to set up Apollo in your React app &amp; run GraphQL Queries/Mutations https://t.co/Si1yaYb4us
+851433434505457700,Mon Apr 10 13:55:24 +0000 2017,@PierB Have you already seen our File API? Here's more information: https://t.co/zMN5N9AtVW Oh, and every project c… https://t.co/onRgcNObb5
+851323410428960800,Mon Apr 10 06:38:12 +0000 2017,@intelligibabble @alex_frantic That's awesome! We're happy to help you prepare these materials! 🎓
+851323075643813900,Mon Apr 10 06:36:52 +0000 2017,RT @intelligibabble: playing around with @graphcool for use in a react native course i will be teaching. It's super slick!
+851322877358088200,Mon Apr 10 06:36:05 +0000 2017,RT @sperand_io: @ilyasu App: Next.js (w redux &amp; apollo https://t.co/93Gg7e0BAd)  Managed backend: @graphcool  Self-hosted: @keystonejs  Dep…
+851161534051090400,Sun Apr 09 19:54:58 +0000 2017,RT @dk0r: @graphcool was feeling a bit overwhelmed by the js ecosystem until I found graphcool + it's youtube channel --keep up the good wo…
+850821653445693400,Sat Apr 08 21:24:24 +0000 2017,RT @meghafon: Nice day working on my side project iOS app: combines 🚴🏼‍♀️🚴 + machine learning + gpu programming + @graphcool. stay tuned fr…
+850499773568299000,Sat Apr 08 00:05:22 +0000 2017,RT @leeb: Just met with the GraphQL Europe conf crew to select talks and plan the schedule. Holy $#!+ that was hard. This conf is going to…
+850242629669339100,Fri Apr 07 07:03:34 +0000 2017,@browniefed @okbel @notbrent @coralproject @apollographql Also check out graphql-up to get a instant GraphQL API wh… https://t.co/bXFLmWbpKP
+850029094469349400,Thu Apr 06 16:55:03 +0000 2017,This is how you can send Slack notifications with GraphQL via @zapier 👩‍💻 https://t.co/KnKHac4c1I
+850000018413166600,Thu Apr 06 14:59:31 +0000 2017,RT @nikolasburk: Last prep for my talk tomorrow at #UDConf2017! Hit me up if you have questions or just want to chat about #GraphQL 🚀 https…
+849722011127611400,Wed Apr 05 20:34:49 +0000 2017,RT @DavidWells: Building a Web Store with GraphQL, Stripe, Mailgun and the Serverless Framework https://t.co/CHoCJ1ng2v
+849666703193714700,Wed Apr 05 16:55:02 +0000 2017,Using &lt;create-react-app/&gt; with @apollographql &amp; #GraphQL https://t.co/C9gMXjgE13
+849343780859912200,Tue Apr 04 19:31:52 +0000 2017,👩🏻‍🏫  Introducing Freecom - a full-stack tutorial series building an Intercom-clone with GraphQL, Apollo &amp; Stdlib https://t.co/odzVp8G5bg
+848462385392353300,Sun Apr 02 09:09:31 +0000 2017,RT @IgorVanian: @graphcool, are you some kind of backend magicians? Took me 2 hours to achieve a result that took me 2 weeks with REST #gra…
+848259950203854800,Sat Apr 01 19:45:06 +0000 2017,RT @ReactGuru: How I made a company dictionary with https://t.co/dLNUM9CAzq and webtask.io https://t.co/dXJ7BHDy0O https://t.co/1R54ZryeQk
+847827794394566700,Fri Mar 31 15:07:52 +0000 2017,🔃  Want to learn more about real-time GraphQL? Check out this talk about GraphQL Subscriptions with @apollographql. https://t.co/6ILw3WryU0
+847745331248873500,Fri Mar 31 09:40:11 +0000 2017,@rem Thanks a lot for the heads up. We're already fixing it 🔧
+847528772723232800,Thu Mar 30 19:19:40 +0000 2017,RT @apollographql: We're excited to announce Apollo Client 1.0! https://t.co/XPC4XUvOaw #GraphQL
+847506182956736500,Thu Mar 30 17:49:54 +0000 2017,RT @erikschlegel1: Join me at the next ReactJS Austin meetup to learn about @GraphQL Subscriptons for realtime apps and @graphcool  https:/…
+847492374767063000,Thu Mar 30 16:55:02 +0000 2017,Improving developer experience means allowing developers to do what they're best at - delivering kickass software 💯… https://t.co/RXJS0kJvS7
+847129980710654000,Wed Mar 29 16:55:00 +0000 2017,Designing powerful APIs with #GraphQL query parameters 🎨🖌️https://t.co/hgiQ8uDyC0 https://t.co/H6ovTZj7us
+847024084139589600,Wed Mar 29 09:54:13 +0000 2017,RT @rem: I've got my toe in GraphQL, Apollo, Next.js, auth0, sparkpost, algolia…and kinda thinking I can build apps without code… 😱😕🤔💥🔥
+846767594652799000,Tue Mar 28 16:55:01 +0000 2017,Graphcool Webinar: Building a booking system with #GraphQL 🎥👨‍🔧  https://t.co/oBdDrX6P7j
+846382284605444100,Mon Mar 27 15:23:56 +0000 2017,RT @abstractionslyr: @rem check out #GraphQL by way of @graphcool! Best developer experience I've had in a dogs age!
+846051511138488300,Sun Mar 26 17:29:33 +0000 2017,@mxstbr @JI @sgrove @_vramana we're happy to help you migrate the project if your situation changes! 🙌
+846051240622600200,Sun Mar 26 17:28:29 +0000 2017,RT @JI: @mxstbr Parse's ACLs had the same problem. @graphcool is much nicer: offers declarative rules but allows imperative logic. @sgrove…
+845761354787160000,Sat Mar 25 22:16:35 +0000 2017,RT @petrvlcek: Do you know what is cooler than Firebase? Check out @graphcool. Creating backend for you app has never been easier. ❤️
+845655074139488300,Sat Mar 25 15:14:15 +0000 2017,RT @nicklewis: This is really cool. Recently I have been exploring what I can build in terms of developing our own apps @headforcode and @g…
+845437286338773000,Sat Mar 25 00:48:51 +0000 2017,RT @ShortJared: Make schemas, not backends. https://t.co/bxpYGxPVPv Haven't seen a product this compelling to build on top of since Firebas…
+845243052453253100,Fri Mar 24 11:57:02 +0000 2017,@statebox We're really sorry for the inconvenience. Everything is up &amp; running again. Here is a post-mortem report: https://t.co/wm9nMHypmN
+845242764552015900,Fri Mar 24 11:55:53 +0000 2017,@JimTheDev @GraphcoolStatus Hi Jim. We're really sorry for the inconvenience. Here is a post-mortem report: https://t.co/wm9nMHypmN
+845017542955556900,Thu Mar 23 21:00:56 +0000 2017,RT @nickhudkins: One time in a job interview I was asked to architect a system and I responded @graphcool and walked out.
+844874690040606700,Thu Mar 23 11:33:17 +0000 2017,@ben11kehoe @ServerlessConf Not at this one but we'll probably be at the next one! But maybe you'd like to come to @graphqleu?
+844644667807404000,Wed Mar 22 20:19:16 +0000 2017,What is GraphQL IDL? Here is an overview of all the concepts behind the schema definition language. 💡 https://t.co/40mZ0TAHig
+844277358580453400,Tue Mar 21 19:59:42 +0000 2017,Building A Realtime Chat App With #GraphQL Subscriptions And @apollographql 🌏 🎊 https://t.co/5BDnDANNsI
+844178367347900400,Tue Mar 21 13:26:21 +0000 2017,RT @VinSpee: I’ve been digging deeply into @graphcool recently. Amazing tool with great docs and community. This was helpful: https://t.co/…
+843467730250534900,Sun Mar 19 14:22:32 +0000 2017,@trevordmiller @NaveenS16 @zeithq Do you already use it for your projects?
+843379063226060800,Sun Mar 19 08:30:12 +0000 2017,@NaveenS16 @trevordmiller Hey Trevor! Did you already check out graphql-up? ⬆️
+842425785348685800,Thu Mar 16 17:22:13 +0000 2017,@faceyspacey Please feel free to join our Slack. It's the best place to discuss your use case: https://t.co/fQ01Zr3tsG
+842425533271035900,Thu Mar 16 17:21:13 +0000 2017,@faceyspacey you're absolutely right, this tutorial just covers a part of what's possible with Stripe. We'll soon publish some more guides!
+842424883221000200,Thu Mar 16 17:18:38 +0000 2017,Building a GraphQL app with React &amp; Apollo? Here is how you set up a GraphQL backend in 5 minutes ⏱ https://t.co/p8RppOhfjk
+842366615480066000,Thu Mar 16 13:27:06 +0000 2017,@faceyspacey take a look at https://t.co/Qcc0rbV8lA
+842103100731191300,Wed Mar 15 19:59:59 +0000 2017,RT @jesseflorig: ICYMI @graphcool's @reactjs &amp; @apollographql QuickStart is amazingly fast and easy to get going: https://t.co/12COph3wDP #…
+842066623108395000,Wed Mar 15 17:35:02 +0000 2017,@luisrudge We'll first roll out US + Asia. South America is on our radar as well.
+841906611023155200,Wed Mar 15 06:59:12 +0000 2017,@luisrudge soon you'll can!
+841906500993974300,Wed Mar 15 06:58:46 +0000 2017,RT @colinmegill: Work by @graphcool seems like a really interesting direction for some services https://t.co/Y36BdwA2iE. Like the step afte…
+841906350116503600,Wed Mar 15 06:58:10 +0000 2017,@tjholowaychuk thanks for the shoutout btw 🙌
+841906215399624700,Wed Mar 15 06:57:38 +0000 2017,@tjholowaychuk there will soon be a way to extend Graphcool with your own serverless functions. i.e. you can use both!
+841905847777263600,Wed Mar 15 06:56:10 +0000 2017,RT @tjholowaychuk: I still like my Postgres but they're doing nice stuff! https://t.co/LyXqWYWEnc
+841793133297995800,Tue Mar 14 23:28:17 +0000 2017,RT @Grmiade: Thanks @graphcool and @apollographql, it's simply awesome! Real time becomes so easy https://t.co/QzDTzAPLo4
+841766571630579700,Tue Mar 14 21:42:44 +0000 2017,RT @leeb: 🎉 graphql-up is an awesome way to get a backend in seconds. https://t.co/RYa8EYV65z
+841763326157819900,Tue Mar 14 21:29:50 +0000 2017,We've built `graphql-up` to make it as easy as possible to get started with GraphQL. This is how you get started: 📚 https://t.co/a9Ve0X9kBy
+841752805333434400,Tue Mar 14 20:48:02 +0000 2017,@benadam11 thanks a lot, Ben! 👋
+841719298540335100,Tue Mar 14 18:34:53 +0000 2017,⬆️  Introducing `graphql-up` - the fastest way to get a free &amp; ready-to-use GraphQL API for your schema… https://t.co/rTqrIvlCRH
+841232965069897700,Mon Mar 13 10:22:22 +0000 2017,@floydophone Looking forward to the poll results! We've written up an unopinionated comparison here: 💡 https://t.co/QIZzqQ4n4g
+841232490580836400,Mon Mar 13 10:20:29 +0000 2017,RT @floydophone: Which GraphQL implementation have you had more success with?
+840643075580018700,Sat Mar 11 19:18:22 +0000 2017,💯  Learn Apollo just hit 1000 stars on Github! Go ahead and get started with @apollographql over the weekend. https://t.co/PUzUxagjDI
+840208582083764200,Fri Mar 10 14:31:50 +0000 2017,RT @designorant: Firebase has just got even better. Next stop: GraphQL. https://t.co/MY8wkw2X3H
+840191333230886900,Fri Mar 10 13:23:18 +0000 2017,@Charles_Mangwa Hi Charles! Thanks for the heads-up. This should be fixed now! ⛑
+839560018416570400,Wed Mar 08 19:34:41 +0000 2017,Wondering when and how to use #GraphQL introspection queries? Here are a few tips. 💡 https://t.co/8xKdGNQ2Db
+839513244473651200,Wed Mar 08 16:28:49 +0000 2017,@_jamiter @graphqleu @GraphQL @apollographql Looking forward to meeting you, Michiel! 🙌
+839513126294941700,Wed Mar 08 16:28:21 +0000 2017,RT @bianchijv: @graphcool @GraphQL It's a breeze, makes REST API look like a thing from the past. Great experience so far.
+839480397184499700,Wed Mar 08 14:18:18 +0000 2017,@mulyoved Thanks a lot, Muly! Very glad you're productive using Graphcool! Let us know if you have any questions! 👋
+839480143731126300,Wed Mar 08 14:17:17 +0000 2017,RT @mulyoved: @graphcool pure joy, no need to context switch, just work on client, no need to design REST API, amazing support make it amaz…
+839478641302122500,Wed Mar 08 14:11:19 +0000 2017,RT @graphqleu: 🎉 It's official: GraphQL-Europe will take place on Sunday, May 21st. Tickets are now available on our website! https://t.co/…
+839407457994690600,Wed Mar 08 09:28:28 +0000 2017,RT @_schickling: Join us for the 3rd GraphQL Meetup in Berlin on Apr 6th with exciting talks about Subscriptions and GraphQL tooling! https…
+839194756911620100,Tue Mar 07 19:23:16 +0000 2017,Want to use GraphQL with jQuery? It's super easy. Here is how it works. 🎓 https://t.co/RHwRPwwmyL
+839185164509003800,Tue Mar 07 18:45:09 +0000 2017,@JimTheDev Hey Jim! It's on our roadmap and will ship fairly soon!
+839065848316854300,Tue Mar 07 10:51:01 +0000 2017,We just reached 1000 active #GraphQL community members in our Slack. You can join our fast growing community here 👉 https://t.co/fQ01Zr3tsG
+838905712055095300,Tue Mar 07 00:14:42 +0000 2017,@estejs @stubailo this is something we are currently working on. Stay tuned!
+838861655681478700,Mon Mar 06 21:19:38 +0000 2017,@svrcekmichal @apollographql subscriptions is being adopted in spec and relay is getting a major overhaul. I would wait a month and see...
+838785802482106400,Mon Mar 06 16:18:13 +0000 2017,@estejs @stubailo happy to explore the possibilities together! let's discuss this in Slack: https://t.co/BWcgkpyMbX
+838525709945548800,Sun Mar 05 23:04:42 +0000 2017,@estejs let us know if we can help in any way! We'll reach out with some exciting news!
+838525503455825900,Sun Mar 05 23:03:53 +0000 2017,RT @estejs: It's probably time to replace Firebase with https://t.co/8xnC9DuCU7 What do you think?
+838047380587036700,Sat Mar 04 15:24:00 +0000 2017,@JimTheDev currently you can only select models. This is changing soon :-)
+838018472021983200,Sat Mar 04 13:29:08 +0000 2017,RT @leeb: Doing something interesting with GraphQL? Submit a talk! https://t.co/xyXY956PmK
+838018328232878100,Sat Mar 04 13:28:33 +0000 2017,RT @leeb: 🎁🎉 Happy 5th birthday to @GraphQL! It was five years ago that @schrockn wrote the "SuperGraph" prototype, and it's been a wild ri…
+837817184319594500,Sat Mar 04 00:09:17 +0000 2017,@leeb @GraphQL @schrockn 🎉
+837401154745217000,Thu Mar 02 20:36:08 +0000 2017,RT @devinaabbott: Looking to try GraphQL in React Native? I teamed up with @graphcool to write an interactive intro tutorial! https://t.co/…
+836736541057765400,Wed Mar 01 00:35:11 +0000 2017,RT @brunolemos: Great tutorial by @graphcool on how to build a realtime application using GraphQL Subscriptions and @apollographql! https:/…
+836717903684710400,Tue Feb 28 23:21:08 +0000 2017,@stubailo @apollographql thanks for sharing! 🙌
+836717765541183500,Tue Feb 28 23:20:35 +0000 2017,RT @stubailo: Try @graphcool's new tutorial to check out this tech with a simple #ReactJS app! https://t.co/xmt60pn3A6 #GraphQL https://t.c…
+836714041758335000,Tue Feb 28 23:05:47 +0000 2017,⚡️ We're very excited to announce our new GraphQL Subscriptions API in collaboration with @apollographql https://t.co/MAGWPZJklO
+836651507458183200,Tue Feb 28 18:57:18 +0000 2017,We're excited to host a GraphQL workshop with @apollographql &amp; @getexponent in London! https://t.co/moAxhOAAC0
+836201332650426400,Mon Feb 27 13:08:28 +0000 2017,RT @GraphcoolStatus: ✅ You can now also check our status here https://t.co/WLVOmlGDnI
+834842887040942100,Thu Feb 23 19:10:29 +0000 2017,🤔🎙️❓Tune into the AMA at @CinemaJS with @schickling @helferjs and contribute with questions @GraphQL @apollographql https://t.co/3mThY7REmq
+834476974458409000,Wed Feb 22 18:56:29 +0000 2017,RT @Charles_Mangwa: @graphcool is a very handy solution for those of you interested in @GraphQL! https://t.co/MAVgfm68Yi
+834476935614971900,Wed Feb 22 18:56:19 +0000 2017,@ThisIsMissEm @grabbou please let us know if you need any help or have questions! 👋
+834476575722700800,Wed Feb 22 18:54:54 +0000 2017,@nikcorg Hey there! Yes, we're already working on an integration 🙌
+831951143270023200,Wed Feb 15 19:39:44 +0000 2017,📢 We are introducing mutations to update or create a node when the filter doesn’t match existing data 💡 What should we call it ❓
+831890536671830000,Wed Feb 15 15:38:54 +0000 2017,RT @_schickling: Had an amazing time talking about the future of #GraphQL /w @leeb &amp; @schrockn 🙌 https://t.co/bnTcBzuhud
+831586053039349800,Tue Feb 14 19:28:59 +0000 2017,RT @apollographql: 👀 this new step-by-step tutorial from @nikolasburk @graphcool to connect #GraphQL data to your #Swift #iOS app! https://…
+829423369015668700,Wed Feb 08 20:15:15 +0000 2017,Today, we're happy to announce new Integrations, Team Collaboration and a Pricing Update  https://t.co/qHEaerfEJJ
+829086497135587300,Tue Feb 07 21:56:39 +0000 2017,We're hosting a GraphQL workshop and giving a talk at @CinemaJS on Feb 23 in Barcelona. Come join us! 👋 https://t.co/lZP1zkJMXJ
+828742299098165200,Mon Feb 06 23:08:56 +0000 2017,RT @thekitze: ⭕ Best decision of 2015: Learn React ⭕ Best decision of 2016: Learn MobX and css-in-js ⭕ Best decision of 2017: Learn GraphQL…
+828679477047746600,Mon Feb 06 18:59:18 +0000 2017,RT @stubailo: Looking for a project for @apollographql contributor week starting tomorrow? Why not try file upload for #GraphQL? https://t.…
+828008518418649100,Sat Feb 04 22:33:09 +0000 2017,@apollographql @_tomjamesallen @LearnApollo Thanks for the kind feedback! 👌
+827511359248224300,Fri Feb 03 13:37:37 +0000 2017,RT @nodkz: What do you know about .graphqlrc? One more dot-file in your app 😉 https://t.co/3Ru3Wrp6ye  @GraphQL @graphqlweekly @graphqlnews…
+826906030810525700,Wed Feb 01 21:32:15 +0000 2017,@thefodafarm glad you like it! Would love to hear what your building with it! 👋
+826140446606893000,Mon Jan 30 18:50:06 +0000 2017,Improving GraphQL Performance with Apollo Query Batching https://t.co/ukKfTkVaOU
+825815126292955100,Sun Jan 29 21:17:23 +0000 2017,Thanks a lot @devinaabbott for the shoutout on React Native Radio by @devchattv ✌️
+825698649325895700,Sun Jan 29 13:34:33 +0000 2017,RT @easyangel: Great technology choice @graphcool! https://t.co/EIRiRxtxC8
+825310918229782500,Sat Jan 28 11:53:51 +0000 2017,@HenrikJoreteg Have you already tried out Graphcool as a GraphQL backend?
+824957751004631000,Fri Jan 27 12:30:29 +0000 2017,RT @CinemaJS: Next #CinemaJS 23 Feb. "#GraphQL for frontend developers" with @_schickling @graphcool #JavaScript ✨🚀 https://t.co/l0Z9M8Kkr3…
+824940702182338600,Fri Jan 27 11:22:44 +0000 2017,Get involved in designing the format for .graphqlrc files to make the configuration of #GraphQL apps easier. https://t.co/GIgXS4F5zA
+824527589976973300,Thu Jan 26 08:01:11 +0000 2017,@okbel Thanks a lot for the heads up, Belén. We'll fix it right away. Hope everything else is going smooth for you so far?
+824156075847020500,Wed Jan 25 07:24:55 +0000 2017,@thinksaydo @GraphQL Glad you like it, Collin! Let me know if you have any questions!
+824155567056887800,Wed Jan 25 07:22:53 +0000 2017,RT @thinksaydo: Learning &amp; writing @GraphQL for a new project built on @graphcool. So much cleaner and easier to experiment with than a typ…
+823623161988214800,Mon Jan 23 20:07:18 +0000 2017,We're super excited to announce Europe's first GraphQL conference today 🇪🇺 https://t.co/U1arRtRkcL
+823581184408121300,Mon Jan 23 17:20:30 +0000 2017,Living in London? Come and say hi at the @graphql_london meetup tonight at 7pm GMT. All talks will be recorded in case you miss it. 🎥
+823171459401052200,Sun Jan 22 14:12:24 +0000 2017,@kaqqao Please use a desktop computer in the meantime.
+823171348176441300,Sun Jan 22 14:11:57 +0000 2017,@kaqqao Sorry for the inconvenience. We're currently working on optimizing the homepage &amp; docs for mobile devices.
+822834932879913000,Sat Jan 21 15:55:10 +0000 2017,We've written up our best practices designing #GraphQL APIs with focus on result filtering, ordering and pagination. https://t.co/iu1ouP1s1L
+822341518925107200,Fri Jan 20 07:14:31 +0000 2017,RT @joeseifi: Just went through the super helpful @graphcool onboarding Can't wait to build something now with @GraphQL
+821445382483935200,Tue Jan 17 19:53:35 +0000 2017,RT @bezanger: Looks like @graphcool could become the next @Firebase  https://t.co/MAWoeYybK2
+821394745180258300,Tue Jan 17 16:32:22 +0000 2017,@gopidon @getexponent @apollographql Would love to see what you're building!
+821394627177553900,Tue Jan 17 16:31:54 +0000 2017,@glensarge let us know if you have any questions - happy to help! 🙌
+821392045688455200,Tue Jan 17 16:21:39 +0000 2017,RT @gopidon: Am getting super productive with @getexponent , @apollographql and @graphcool. Got so much done in a week.
+821285789225074700,Tue Jan 17 09:19:25 +0000 2017,@notbrent Thanks so much, Brent! 👋
+821282246514606100,Tue Jan 17 09:05:20 +0000 2017,RT @notbrent: super impressed by https://t.co/D9ZTDgzXsC :O
+820539368616161300,Sun Jan 15 07:53:25 +0000 2017,@adamSoffer @_schickling Great work, Adam! 💪 We're also working on a Next example. We'll be in touch! 👋
+820538602853691400,Sun Jan 15 07:50:22 +0000 2017,@heyMartinAdams Hey! Really glad you like it. Thanks for the heads up. We're already working on it. 👋
+819867151305703400,Fri Jan 13 11:22:15 +0000 2017,@nicklewis @apollographql Awesome! Great to hear! Let us know if you have any questions!
+819809445056159700,Fri Jan 13 07:32:57 +0000 2017,RT @auth0: 🆕 Learn how #authentication and #authorization work with @GraphQL and Auth0 by building an @instagram clone! 🙌 🌈 👉 https://t.co/…
+818721006198132700,Tue Jan 10 07:27:53 +0000 2017,@KatAlexPas everything should be back to normal. Let us know if you have any other questions.
+818720772675997700,Tue Jan 10 07:26:57 +0000 2017,@KatAlexPas Hey Katerina! Apologies for the inconveniences. We've rolled out a new update which causes some problems for a few customers.
+816675796882489300,Wed Jan 04 16:00:57 +0000 2017,RT @honzavalustik: Like all the cool kids in 2017, working on an app using GraphQL and backend built on @graphcool and it's all super cool…
+816545338630742000,Wed Jan 04 07:22:34 +0000 2017,RT @webYak: 2017 stack: @graphcool @auth0 @algolia @reactjs @apollographql @awscloud Lambda @zeithq Now &amp; Next ❤️💨
+811473730027343900,Wed Dec 21 07:29:48 +0000 2016,RT @Netlify: Have you tried GraphQL? Here's why we think you should... https://t.co/2wNFzrbtco cc: @graphcool https://t.co/nGRwKoTH3s
+811302601195135000,Tue Dec 20 20:09:48 +0000 2016,@Netlify @GraphQL Thanks a lot for sharing this! 👋 🎅
+811302459746504700,Tue Dec 20 20:09:14 +0000 2016,RT @Netlify: Get started with @GraphQL today using product @graphcool in less than 5 minutes | Netlify https://t.co/7uXFCqCH3W
+810092614196269000,Sat Dec 17 12:01:44 +0000 2016,RT @graphqlweekly: 👩‍🎓 Learning @apollographql with pokemons and @graphcool, taming GraphQL subscriptions and more in issue 33 ⚡ https://t.…
+809507557572223000,Thu Dec 15 21:16:56 +0000 2016,RT @apollographql: 🎉 @graphcool just launched Learn Apollo, an awesome tutorial for Apollo Client. Check it out! https://t.co/IvVGIfaqhz #r…
+809478199054860300,Thu Dec 15 19:20:16 +0000 2016,⚡️ Learning Apollo is now super easy with our new hands-on tutorial for @apollographql including a GraphQL endpoint  https://t.co/EK5FTuxU0r
+808771477487161300,Tue Dec 13 20:32:01 +0000 2016,@davidvfurlong thanks for letting us know David. We'll fix it asap!
+807219796056113200,Fri Dec 09 13:46:11 +0000 2016,@berinder Thanks for the heads up! We just rolled out a fix. Should work now! 👏
+806795115297579000,Thu Dec 08 09:38:39 +0000 2016,RT @kaeff: Learnt about @GraphQL at today's @ReactNativeMeet. Nice intro &amp; apollo/relay comparison by the @graphcool folks.
+804721093437255700,Fri Dec 02 16:17:14 +0000 2016,Are you at #mobilityhacks by @hackerstolz tomorrow?🙋We are the official API partner - watch out for green shirts if… https://t.co/zgc4AbpUzG
+803662977404702700,Tue Nov 29 18:12:39 +0000 2016,RT @graphql_london: Thanks for supporting our new born community! Meet our sponsors @graphcool and @skillsmatter. See you at https://t.co/x…
+803662836111003600,Tue Nov 29 18:12:06 +0000 2016,The #GraphQL ecosystem in Europe is getting stronger and stronger. Swing by at our @graphql_london meetup! 👋 https://t.co/lqbBfFgWIZ
+802408947407814700,Sat Nov 26 07:09:35 +0000 2016,RT @graphqlweekly: 🔐Authentication with @auth0, @digits &amp; @graphcool, @en_JS on best practices for GraphQL clients and more in issue 30🎶htt…
+801893322885210100,Thu Nov 24 21:00:41 +0000 2016,RT @auth0: .@graphcool now works out-of-the-box with Auth0 and @digits 🙌 Watch their video tutorial 📽 here ⤵️ https://t.co/8QbLwrFZri https…
+801830775935078400,Thu Nov 24 16:52:08 +0000 2016,@auth0 a RT would be highly appreciated 👋
+801826251820376000,Thu Nov 24 16:34:10 +0000 2016,Introducing Auth0 &amp; Digits user authentication in #GraphQL. Including a tutorial for @Auth0, React &amp; @apollographql. https://t.co/Q8mF3Bz5Xi
+801086254200848400,Tue Nov 22 15:33:41 +0000 2016,RT @ThisIsMissEm: Just built the entire backend for https://t.co/4M9c2j3Ei5 in like, 20 minutes with @graphcool and @zapier
+801075196157423600,Tue Nov 22 14:49:44 +0000 2016,@winkler1 thanks a lot for sharing Jeff! Curious to see what you'll build! 🚀
+801074983896281100,Tue Nov 22 14:48:54 +0000 2016,RT @winkler1: .@graphcool Has a really slick onboarding experience with a #graphql instagram app ... leading to a client download https://t…
+797586497855782900,Sat Nov 12 23:46:54 +0000 2016,RT @martijnwalraven: I had a great time in Berlin last week hanging out with the @graphcool team and talking about #GraphQL on iOS: https:/…
+796416642934784000,Wed Nov 09 18:18:19 +0000 2016,Live from the GraphQL Berlin Meetup #2 with amazing speakers from @apollographql https://t.co/toRpMN6LQD
+794997939663945700,Sat Nov 05 20:20:53 +0000 2016,RT @ThisIsMissEm: Have just been playing around with @graphcool — It has a few UI issues, but overall, it's AMAZING.
+793567068452950000,Tue Nov 01 21:35:07 +0000 2016,@EugeneMoroz33 you're very welcome. Let us know if you need any help!
+792438040811696100,Sat Oct 29 18:48:46 +0000 2016,We've just sent out new invites for our early access program. Please check your email to get started building your first #GraphQL backend. 📬
+792315177848959000,Sat Oct 29 10:40:33 +0000 2016,@emilrmoeller thanks a lot, Emil! Glad to hear you're already up and running! Let us know if you need any help. 👋
+792314536594473000,Sat Oct 29 10:38:00 +0000 2016,RT @emilrmoeller: @graphcool thank you so much! I just remade my app backend in 20 minutes on the kitchen counter! Took me much thinking wi…
+791644692681293800,Thu Oct 27 14:16:17 +0000 2016,You can now access your Graphcool Console (formerly Dashboard) via https://t.co/NTflCxgwjw. We now also support Soc… https://t.co/U0rTKlP8Nj
+791294029648523300,Wed Oct 26 15:02:52 +0000 2016,@greeegooor thanks! Defn. Something we want to do. could you open a feature request and describe your use case https://t.co/wAFvJfNJFQ
+789367748333867000,Fri Oct 21 07:28:31 +0000 2016,RT @TimSuchanek: @typescriptlang + #relay = &lt;3. @_schickling talking about typed frontend at #reactlondon https://t.co/JAV18smZ7b
+789184732135235600,Thu Oct 20 19:21:17 +0000 2016,RT @gerardsans: Now Johannes Schickling introducing https://t.co/MpmqeQpbJW as a GraphQL Backend @graphcool @_schickling #GraphQL https://t…
+787549502932717600,Sun Oct 16 07:03:28 +0000 2016,RT @mutebg: Just tried @graphcool, it's cool and looks really easy, definitely will use it some side project #GraphQL #react #relay
+786862327689801700,Fri Oct 14 09:32:52 +0000 2016,@andrewchuhmin thanks for sharing this, Andrew!
+786637633652924400,Thu Oct 13 18:40:01 +0000 2016,🔥 Getting started with Relay and #GraphQL is now a lot easier with our newest community project @learnrelay https://t.co/BjHc9uBWSf
+786533359006515200,Thu Oct 13 11:45:40 +0000 2016,@rhosts @JSCraftCamp Great to hear!
+786145963849097200,Wed Oct 12 10:06:18 +0000 2016,🙌  We're organizing the 2nd #GraphQL meetup in Berlin with amazing speakers from @apollostack and more. RSVP on: https://t.co/3tz0yNKuMQ
+784380219901747200,Fri Oct 07 13:09:52 +0000 2016,We added support for nested mutations. You can now create multiple connected nodes in a single #GraphQL mutation. ✨ https://t.co/3QZgZaBUZX
+783217045026512900,Tue Oct 04 08:07:49 +0000 2016,@yoamomonstruos it seems like you already found your way in 🙌
+783061179728035800,Mon Oct 03 21:48:28 +0000 2016,@yoamomonstruos Thanks Tom! Can't wait to see what you build!
+776141002201587700,Wed Sep 14 19:30:09 +0000 2016,Github just made their API accessible via GraphQL. This is huge! https://t.co/99iEm3sQFv
+771399915977248800,Thu Sep 01 17:30:46 +0000 2016,RT @stubailo: A response to some of the skepticism people sometimes have when they discover #GraphQL when coming from REST APIs. https://t.…
+765242471790116900,Mon Aug 15 17:43:17 +0000 2016,Thinking about trying out @GraphQL using @apollostack in your @angularjs app? Check out this great article: https://t.co/ygkF5wvifi
+765223521949737000,Mon Aug 15 16:27:59 +0000 2016,@zdne Feel free to join our Slack in the meanwhile: https://t.co/o6j8oW5H2O
+765223430794936300,Mon Aug 15 16:27:37 +0000 2016,Hi @zdne! Sorry for the delay. We're working hard in order to keep up with all the incoming requests. We'll be in touch very soon!
+756526764218847200,Fri Jul 22 16:30:10 +0000 2016,RT @reactjs: Launching create-react-app, a no config getting started experience, #nomorejsfatigue https://t.co/fqVWgn7w5t
+754744878437961700,Sun Jul 17 18:29:36 +0000 2016,RT @bastianalbers: Thanks again to the nice people from @graphcool for the nice Relay/GraphQL workshop that i stumbled into by chance. Perf…
+753285387926331400,Wed Jul 13 17:50:06 +0000 2016,@ReactiveConf Hi guys! Yeah that should be fine. Just swing by 15 mins earlier so we can have a chat :)
+748911919642382300,Fri Jul 01 16:11:30 +0000 2016,GraphQL is the better way https://t.co/LBgnINqF37
+748098186716266500,Wed Jun 29 10:18:01 +0000 2016,RT @stubailo: Landed mutation behaviors in Apollo, you can even write custom reducers for mutation results! Now time for docs. https://t.co…
+747712639833415700,Tue Jun 28 08:45:59 +0000 2016,RT @easyangel: Announcing the #GraphQL Toolbox! 🎉 Now you can create a dynamic GraphQL HTTP (REST) proxy right in your browser :) https://t…
+746747841201193000,Sat Jun 25 16:52:13 +0000 2016,RT @kamilkisiela: @stubailo @graphcool @angularjs @apollostack That's true! Here's a proof :) https://t.co/PiQSVVO5oA
+746024651248242700,Thu Jun 23 16:58:31 +0000 2016,RT @eswat2: “Connections, Edges &amp; Nodes in Relay” by @graphcool https://t.co/Ztu1u9yXuu
+745890975655071700,Thu Jun 23 08:07:21 +0000 2016,@stubailo @angularjs @apollostack Thanks Sashko! We are currently updating the descriptions!  🙂
+745887000956403700,Thu Jun 23 07:51:33 +0000 2016,RT @stubailo: Hey @graphcool your Twitter profile says React apps but you can use https://t.co/PAwyeQNJdo with @angularjs too using @apollo…
+745685199300735000,Wed Jun 22 18:29:40 +0000 2016,RT @picsoung: Nice demo of @graphcool by @_schickling at @BcnJS ! Definitely need to get my hands on #graphql and @apollostack https://t.co…
+743789529983819800,Fri Jun 17 12:56:57 +0000 2016,RT @_marktani: Just published my open source project at @graphcool to Maven: https://t.co/rWeBxEaQ4l. It's a port from @_ericelliott's cuid…
+742347307857944600,Mon Jun 13 13:26:04 +0000 2016,@mercury_wood @restlet @AntoineCellier3 thanks for sharing! Let us know if you need any help!
+741683691215282200,Sat Jun 11 17:29:06 +0000 2016,RT @_marktani: Proud to represent @graphcool at #innohacks2016! Had my first workshop today and many yet to come :) https://t.co/AlWTWpfPMH
+741554533491454000,Sat Jun 11 08:55:52 +0000 2016,RT @hackerstolz: Next up: @graphcool presents their API!  #innohacks2016 #hackgermany https://t.co/PU6DCK5TtV
+740301249484988400,Tue Jun 07 21:55:46 +0000 2016,RT @silentHoo: 😮 there are too many cool things out there: Will give @GraphQL and @graphcool a big 💥 try this year. Hope to get there soon!
+740196805741318100,Tue Jun 07 15:00:45 +0000 2016,RT @graphqlweekly: 🙌 We just sent out a @ReactEurope special edition of GraphQL Weekly covering talks from @leeb &amp; @dlschafer! Read on http…
+739061045617172500,Sat Jun 04 11:47:39 +0000 2016,RT @normanwehrle: GraphQL Future by @leeb and @laneykuenzel at #reacteurope as #sketchnotes https://t.co/r0evloe31J
+738753799381192700,Fri Jun 03 15:26:45 +0000 2016,Thanks for mentioning us at #ReactEurope @leeb https://t.co/xjgSAnwmAp is the fastest way to try out GraphQL and the awesome ecosystem.
+738719989046333400,Fri Jun 03 13:12:24 +0000 2016,RT @frontendherodk: That awkward moment #ReactEurope 🤓 https://t.co/y9krTbCgu0
+735740131622035500,Thu May 26 07:51:31 +0000 2016,RT @decoapp: Big news! Deco, the React Native IDE, is now available for download: https://t.co/mgz72sPjUZ #reactnative #react https://t.co/…
+735362606974816300,Wed May 25 06:51:22 +0000 2016,RT @easyangel: We kick-started #GraphQL compatibility acceptance tests 🎉 https://t.co/KqydkPV2Zg Join us! Your feedback and participation i…
+728861655292100600,Sat May 07 08:18:54 +0000 2016,RT @en_JS: Similar to react-future, we'll be publishing experiments and ideas for the future of Relay. More soon! https://t.co/rWvefI8Ugq
+728555952513912800,Fri May 06 12:04:09 +0000 2016,RT @graphqlweekly: ⚡️ Issue #2 of GraphQL Weekly is out with new articles about @GraphQL from @steveluscher and @apollostack. Read on https…
+728249439169695700,Thu May 05 15:46:11 +0000 2016,Using IntelliJ for development? Our API works out of the box with this neat #GraphQL plugin (also supports #RelayJS) https://t.co/McGGFmdAIm
+726833123384823800,Sun May 01 17:58:15 +0000 2016,RT @graphqlweekly: 🎉 We just sent out issue #1 of GraphQL Weekly covering latest advancements in @GraphQL and #RelayJS. Subscribe on https:…
+726429031462264800,Sat Apr 30 15:12:32 +0000 2016,@adambbecker We're glad it's useful for you!
+726428918283145200,Sat Apr 30 15:12:05 +0000 2016,RT @adambbecker: Been trying for a while to find a way of using one #GraphQL server to power multiple #RelayJS apps. This was the key https…
+725580717527277600,Thu Apr 28 07:01:38 +0000 2016,RT @henningmus: Full house @KarlsruheJS #graphql @graphcool https://t.co/hpySnjvf8K
+725312637811187700,Wed Apr 27 13:16:23 +0000 2016,RT @sorenbs: Relay is to data what React is to the DOM
+724842557574881300,Tue Apr 26 06:08:27 +0000 2016,RT @en_JS: Great write up of how to *incrementally* adopt Relay and GraphQL one component at a time: https://t.co/o7zlWUrL6V
+724682632278249500,Mon Apr 25 19:32:58 +0000 2016,RT @_schickling: Let's make "graphqlrc" config files a thing #graphql #relay https://t.co/r2ppOUs6kg
+724233313267933200,Sun Apr 24 13:47:32 +0000 2016,We will give a talk on how to use #GraphQL in your frontend project. Looking forward to meet many new devs! https://t.co/vV6PQZ5CI7
+722856686281560000,Wed Apr 20 18:37:18 +0000 2016,@graphcool /cc @steveluscher @GraphQL @reactjs
+722856293833150500,Wed Apr 20 18:35:45 +0000 2016,Introducing a simple-to-use Babel plugin for Relay with support for JSON &amp; graphql-js schemas and even URL endpoints https://t.co/YX2Zxf7ZrH
+720048234874347500,Wed Apr 13 00:37:31 +0000 2016,Relay 0.8 now allows you to use multiple stores in the same project. This is a great improvement! https://t.co/YoIN2NsekU
+720045955303678000,Wed Apr 13 00:28:28 +0000 2016,RT @dan_abramov: The important part is we are all on the same team. We want to make routing in React apps better and give better UX to peop…
+717755085716066300,Wed Apr 06 16:45:22 +0000 2016,RT @FrankenJS: Introduction to GraphQL &amp; Relay by @_schickling &amp; @graphcool  RSVP: https://t.co/8g2EdgKDvm  #JavaScript #Nürnberg #WeLoveCo…
+715213233943134200,Wed Mar 30 16:24:57 +0000 2016,RT @_schickling: Looking forward to speak about @GraphQL and @graphcool at the next @KarlsruheJS meetup https://t.co/hQSS1afDzR
+713670866685419500,Sat Mar 26 10:16:08 +0000 2016,We think namespace would be a very useful addition to #graphql https://t.co/WDeCRpoiuJ
+707943665751236600,Thu Mar 10 14:58:17 +0000 2016,@steveluscher development is getting easier and easier - one step at a time 🎉
+707943453326331900,Thu Mar 10 14:57:26 +0000 2016,RT @steveluscher: #RelayJS &amp; React Native are now compatible out-of-the-box. No announcement would be complete w/o a TodoMVC example. https…
+707555641901056000,Wed Mar 09 13:16:25 +0000 2016,RT @GraphQL: Check out https://t.co/7CfOK8YvjZ written by @arunoda - a good walk through of GraphQL concepts.
+705663790411620400,Fri Mar 04 07:58:52 +0000 2016,A introduction to #GraphQL by @arkh4m https://t.co/FQoRppJWcF
+705008271770447900,Wed Mar 02 12:34:05 +0000 2016,Simple explanation when you should use a #GraphQL connection vs a plain list. #relay https://t.co/SGId7LJQbO
+702162316792614900,Tue Feb 23 16:05:16 +0000 2016,@steveluscher our name is pronounced "graph-cool" where as the technology @GraphQL is pronounced the way you described it. Good catch!
+701864820874862600,Mon Feb 22 20:23:07 +0000 2016,@OweR_ReLoaDeD thanks for the retweet! :)
+701864122854613000,Mon Feb 22 20:20:21 +0000 2016,Need a Relay/GraphQL backend? Feel free to check out https://t.co/xjgSAnwmAp #reactconf
+701843334743064600,Mon Feb 22 18:57:45 +0000 2016,"Most people don't have a #graphql server yet." That's why we're building https://t.co/xjgSAnwmAp, a GraphQL backend as a service #reactconf
+701841344600350700,Mon Feb 22 18:49:50 +0000 2016,If you can build apps faster, then you can focus more on quality #reactconf
+701837892667228200,Mon Feb 22 18:36:07 +0000 2016,We truly believe that DX (developer experience) is important #reactconf
+701834661274787800,Mon Feb 22 18:23:17 +0000 2016,More than 1600 people watching the #reactconf livestream. Great way to engage and include the open source community.
+701832573178277900,Mon Feb 22 18:14:59 +0000 2016,RT @reactjs: Nick Schrock kicking off the #reactconf https://t.co/rz5zniYk4E
+701832227932520400,Mon Feb 22 18:13:37 +0000 2016,ReactNative will drive the future of react #reactconf
+701831119851884500,Mon Feb 22 18:09:13 +0000 2016,React is more than just prototyping #reactconf
+701830928201621500,Mon Feb 22 18:08:27 +0000 2016,RT @adammckerlie: "React is much more than a JS library. It's an ecosystem" #reactconf
+701830667785650200,Mon Feb 22 18:07:25 +0000 2016,You can watch the livestream of #reactconf here: https://t.co/FyONEPftSE
+701377604738273300,Sun Feb 21 12:07:06 +0000 2016,RT @sorenbs: @graphcool  https://t.co/v6IEfa5xIj
+700657387984855000,Fri Feb 19 12:25:13 +0000 2016,How GraphQL shapes development of client apps #graphql  #react https://t.co/J2Nu2ImNFZ
+700305326210420700,Thu Feb 18 13:06:15 +0000 2016,GraphQL/Relay: The End of Redux? ... Perhaps. https://t.co/2SZGB4L8XH
+699999554263978000,Wed Feb 17 16:51:13 +0000 2016,RT @thejenniekim: We're using #GraphQL with #Redux, and very happy with it. Interested to see what develops here. https://t.co/z98hbqDnUN
+699999185928585200,Wed Feb 17 16:49:45 +0000 2016,RT @__xuorig__: Another #GraphQL blog 🐵on how graphql-ruby executes GraphQL queries: https://t.co/ROEalCFdtQ

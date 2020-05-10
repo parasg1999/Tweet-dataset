@@ -1,0 +1,998 @@
+id,created_at,text
+1258747228660863000,Fri May 08 13:15:00 +0000 2020,Getting started with AWS Amplify and AWS Appsync by @foobar_codes  https://t.co/opgLNvKfpN
+1258442182438137900,Thu May 07 17:02:51 +0000 2020,Server-Side Rendered Real-time Web App with Next.js, AWS Amplify &amp; GraphQL by @rakannimer   https://t.co/6SBwLwovPC https://t.co/2Bz9LHnF08
+1258442115157307400,Thu May 07 17:02:35 +0000 2020,A Complete Flow for Social Login with React Native, Expo, and Amplify  https://t.co/fadlgAYtkj https://t.co/6pEGo1NEiR
+1258440060858441700,Thu May 07 16:54:25 +0000 2020,Server-Side Rendered Real-time Web App with Next.js, AWS Amplify &amp; GraphQL by @rakannimer   https://t.co/ZfRm7ZAxQv https://t.co/5nI1XPZ2b6
+1258354144320065500,Thu May 07 11:13:01 +0000 2020,Build a serverless Quiz in days with React and AWS Amplify DataStore by @ramonpostulart  https://t.co/BAYI2j4L6A https://t.co/sJM6EbG5eL
+1258117746640015400,Wed May 06 19:33:40 +0000 2020,RT @EvertsonCroes: Still on the fence about using @AWSAmplify to create your next application? Here's yet another reason to do so! With jus…
+1258117743511036000,Wed May 06 19:33:39 +0000 2020,RT @dabit3: I just published a new ⏰ 5 minute tutorial  ⚡️ Deploying a Next app with AWS Amplify Hosting  This tutorial includes: - CLI bas…
+1258006002777104400,Wed May 06 12:09:38 +0000 2020,Hosting Nuxt.js SSR on Amplify  https://t.co/AYKekjxEcu https://t.co/i680EhXZ4y
+1257728208969117700,Tue May 05 17:45:47 +0000 2020,RT @kevinwolfdev: 🥁 Introducing Amplified 🥁  A library created to wrap @AWSAmplify libraries with React Hooks, making it easier to handle a…
+1257672535082229800,Tue May 05 14:04:33 +0000 2020,Up and Running with Amplify Hosting &amp; CI / CD  Learn how to host your website using Amplify Hosting, integrate cont… https://t.co/arUcKyz4Bm
+1257425131388973000,Mon May 04 21:41:27 +0000 2020,RT @dabit3: A couple of things the Amplify team is working on within the JAMstack space:  1. Better SSR support for client libraries (https…
+1257420023800479700,Mon May 04 21:21:10 +0000 2020,RT @phlndrws: How to sort query results with GraphQL and AWS AppSync  @AWSAmplify #GraphQL  https://t.co/E4Uuv5jBlx
+1257306902947651600,Mon May 04 13:51:39 +0000 2020,RT @ramonpostulart: This is how the https://t.co/cAewe1OIOX admin and game is working with @AWSAmplify datastore and multiple clients. Have…
+1257306810014240800,Mon May 04 13:51:17 +0000 2020,RT @ReactEurope: Also: our workshops on nextjs, @awsamplify, typescript, @gatsbyjs, react.js, RN, forms &amp; relay are still happening.  You w…
+1257304303905026000,Mon May 04 13:41:20 +0000 2020,Creating offline web apps with AWS Amplify DataStore by @K4y1s   https://t.co/1KZpvWAlJ2 https://t.co/UTr7H25P6i
+1256227497882144800,Fri May 01 14:22:29 +0000 2020,RT @gijsvdhoven: I love @AWSAmplify  and @expo , but recreating all the same code for default tasks like navigation, authorization and in-a…
+1256226773508948000,Fri May 01 14:19:37 +0000 2020,RT @kregenrek: I created a driving school geo search website. Each driving school can have its practice course based on GPX data.  Stack: #…
+1256222010742583300,Fri May 01 14:00:41 +0000 2020,GraphQL with Insomnia and AWS Cognito authentication  https://t.co/2m7g0DNdPH https://t.co/xnaj5iSoSm
+1255957231926902800,Thu Apr 30 20:28:33 +0000 2020,RT @dabit3: We're discussing how to improve our docs with a new Resources section with tutorials, recipes, FAQ, and more for @AWSAmplify.…
+1255956931228958700,Thu Apr 30 20:27:21 +0000 2020,RT @socketnorm: Checkout the new integration of .NET Core Lambda with AWS Amplify to build mobile and web applications. Thanks @hoppersoft…
+1255956425798492200,Thu Apr 30 20:25:21 +0000 2020,RT @dabit3: We recently released cron job support for Amplify Functions ⚡️  I just created a 2 minute video teaching how to get up and runn…
+1255858588712611800,Thu Apr 30 13:56:34 +0000 2020,AppSync With The AWS Cloud Development Kit by @KenWin0x539   https://t.co/ECVQ4jSLWL
+1255571255757021200,Wed Apr 29 18:54:49 +0000 2020,Serverless authentication in depth using AWS Amplify and Quasar Framework intro  https://t.co/7mUdWcytVV https://t.co/6U7BX1tqiv
+1255569748731089000,Wed Apr 29 18:48:50 +0000 2020,If you'd like to contribute to any of the Amplify open source libraries or documentation, we've published new guide… https://t.co/KIa5RtfDWu
+1255504999368589300,Wed Apr 29 14:31:32 +0000 2020,Exploring Serverless in Cloud with AWS Amplify + VUE Part 1 (VUE+Amplify Auth)  https://t.co/NVUdr5m5EM https://t.co/LZG5RzR0t7
+1255190722879336400,Tue Apr 28 17:42:43 +0000 2020,Introducing Amplify Community Resources ⚡️  If you'd like to give a talk, workshop, or presentation, check out thes… https://t.co/PRwyL5v73P
+1255144187076337700,Tue Apr 28 14:37:48 +0000 2020,Invoking even more AWS services directly from AWS AppSync  https://t.co/PSuK70pnUP https://t.co/RbE3iDs85D
+1255132199373934600,Tue Apr 28 13:50:10 +0000 2020,We want your feedback - GitHub DIscussions  We are trying GitHub's new Discussion feature to facilitate Questions f… https://t.co/08f043XhoT
+1254828306781872000,Mon Apr 27 17:42:36 +0000 2020,Creating your own Python client to get GraphQL real-time subscriptions via WebSockets powered by AWS AppSync… https://t.co/lwfBOG2mDi
+1254779015245660200,Mon Apr 27 14:26:44 +0000 2020,RT @ramonpostulart: We (@gijsvdhoven and I) launched https://t.co/IdyUMqOFFw a serverless quiz, build with @reactjs and @AWSAmplify datasto…
+1254762607678034000,Mon Apr 27 13:21:32 +0000 2020,Launch Announcement 🚀 AWS AppSync new supports generic WebSockets clients with GraphQL real-time subscriptions  https://t.co/HP5luZALIT
+1253684579405365200,Fri Apr 24 13:57:50 +0000 2020,How to deploy an Apollo GraphQL server running in AWS Lambda with Amplify Functions by @dabit3… https://t.co/7PMIoiDfDC
+1253462653995016200,Thu Apr 23 23:15:59 +0000 2020,RT @peterhironaka: Shopify PWA w/Authentication! https://t.co/DylKOhOxlh  With the help of AWS Amplify, I've added the ability for shoppers…
+1253462518493859800,Thu Apr 23 23:15:27 +0000 2020,RT @TheNickVanHoof: Hooray! 🥳 I created my first Poké app using React. And deployed it with @AWSAmplify: https://t.co/IWWSEFyUTM Ready to t…
+1253351321253576700,Thu Apr 23 15:53:35 +0000 2020,How to create a serverless express app in 25 minutes with AWS Lambda, API Gateway, and AWS Amplify by @ErikCH… https://t.co/kzJXBTrAR8
+1253023415742709800,Wed Apr 22 18:10:37 +0000 2020,How to Implement Sign-In With SwiftUI and AWS Amplify (Part 2) by @rolisanchez   https://t.co/ofmCY0hJ7c https://t.co/aJtB2Rb1uS
+1252973925170118700,Wed Apr 22 14:53:57 +0000 2020,AWS Amplify Storage: React example for working with pictures by @KoningsJohannes   https://t.co/wkvpmRdFez https://t.co/gFumMpwmFQ
+1252593332531933200,Tue Apr 21 13:41:37 +0000 2020,Amplify Console Plugin for the Serverless Framework by @AWSbrett  Easily host static websites with AWS Amplify Cons… https://t.co/3P1s9MqNBe
+1252358107050569700,Mon Apr 20 22:06:55 +0000 2020,RT @codeguru_io: We are excited to bring our next course on serverless in depth using aws-amplify and qausar.  Kindly feel to provide your…
+1252286514849034200,Mon Apr 20 17:22:26 +0000 2020,How to Implement Sign In With SwiftUI and AWS Amplify (Part 1) by @rolisanchez   https://t.co/x3BRbyW0E4 https://t.co/DpmCcWgjht
+1252219107166093300,Mon Apr 20 12:54:34 +0000 2020,Build a full stack serverless app with Python, AWS Lambda, and React Hooks  In this video, you'll learn how to depl… https://t.co/ZRQIvDakmF
+1251280956385788000,Fri Apr 17 22:46:42 +0000 2020,RT @Trek10inc: You love the #awscdk, but you want to leverage the sweet AppSync #GraphQL Transforms from @AWSAmplify CLI? Our friend @KenWi…
+1251181387547324400,Fri Apr 17 16:11:03 +0000 2020,Customizing the AWS Amplify Authentication UI with Your Own React Components by @kylegalbraith… https://t.co/v8zMM5uCTQ
+1250806205812965400,Thu Apr 16 15:20:12 +0000 2020,RT @rolisanchez: Just published Part 2 of Sign In with SwiftUI and AWS Amplify on Better Programming. Check it out! https://t.co/RJEyxVuItb
+1250806205712339000,Thu Apr 16 15:20:12 +0000 2020,RT @AWSbrett: I just published a #Serverless Framework (@goserverless) plugin that enables you to easily host static websites with  AWS Amp…
+1250806205703954400,Thu Apr 16 15:20:12 +0000 2020,RT @dabit3: Deploy a full stack serverless GraphQL app with Apollo, React, and AWS - I just published a new free video on @eggheadio!  ⚡️Ap…
+1250767045911871500,Thu Apr 16 12:44:36 +0000 2020,Creating a serverless app with Go, React, and AWS Amplify Functions  https://t.co/pKw2AaR8wK https://t.co/VmMvA8dj3d
+1250418512234975200,Wed Apr 15 13:39:39 +0000 2020,Finding the nearest locations around you using AWS Amplify — Part 2  https://t.co/8HqLJIX1ph https://t.co/Zuo0WsAiht
+1250074802536288300,Tue Apr 14 14:53:52 +0000 2020,⏱ 10 Minute Tutorial: Deploy an Apollo GraphQL Server with Amplify Functions  In this 10 minute tutorial, you'll le… https://t.co/OYVGGjWNro
+1249763223513059300,Mon Apr 13 18:15:46 +0000 2020,🚀 Launch announcement – Device Farm adds support for latest releases of Chrome and Firefox browsers!   Test your we… https://t.co/CGJZyN7znH
+1249678363033251800,Mon Apr 13 12:38:34 +0000 2020,Launch announcement 🚀 - Two new Amplify CLI features!   1. Go, Python, .NET and Java Lambda runtimes… https://t.co/FLO57zC3iS
+1248738769215402000,Fri Apr 10 22:24:57 +0000 2020,RT @BricePelle: Just wrote a new blog about GraphQL API Security with AWS AppSync and Amplify. I cover some common security concerns and pr…
+1248738655625187300,Fri Apr 10 22:24:30 +0000 2020,RT @nektos: I had an opportunity to volunteer my engineering skills to help build this website that connects front line #COVID19 workers wi…
+1247156069618647000,Mon Apr 06 13:35:52 +0000 2020,Huntr leverages AWS AppSync, Amplify and a serverless platform to help secure the open source ecosystem… https://t.co/rtj9pebUGj
+1246115894373372000,Fri Apr 03 16:42:35 +0000 2020,Gatsby Auth with AWS Amplify  https://t.co/ERUGa0woSC https://t.co/DRBUMs5Y9w
+1245715257995276300,Thu Apr 02 14:10:36 +0000 2020,Serverless Video Streaming with React and AWS Amplify  https://t.co/hu08fWxBKa https://t.co/WMZ5XzTFeJ
+1245365783456297000,Wed Apr 01 15:01:55 +0000 2020,AWS Amplify API: GraphQL queries  An example of data-modeling with the GraphQL Transform library  https://t.co/8NHYaSFEvA
+1245051374691405800,Tue Mar 31 18:12:34 +0000 2020,How to deploy Phaser 3 to the Cloud using AWS Amplify  This post provides a step by step tutorial to deploy your Ph… https://t.co/d9tAk0RuBL
+1244984721450455000,Tue Mar 31 13:47:42 +0000 2020,AWS Amplify Vue Starter  A VueJs starter app integrated with AWS Amplify https://t.co/MwVIli6sYu
+1244630833056682000,Mon Mar 30 14:21:29 +0000 2020,Finding the nearest locations around you using AWS Amplify — Part 1 by @gerardsans  https://t.co/IdS2MNFbyq https://t.co/R1JU27ZcPk
+1243543185076433000,Fri Mar 27 14:19:33 +0000 2020,How to build an online learning platform that engages and educates students at scale with Amazon Kendra, Amazon Com… https://t.co/dSU67DngNS
+1243171837485383700,Thu Mar 26 13:43:57 +0000 2020,Real-time Shopping List App with AWS Amplify, AppSync, GraphQL, and @vuejs  https://t.co/wGVMQG8wzc https://t.co/sjJmqPVNMi
+1242801058868613000,Wed Mar 25 13:10:37 +0000 2020,Building Offline-first Cross-platform Apps with @expo and Amplify DataStore ⚡️  Leverage a single code base and SDK… https://t.co/ckBBdCvRlK
+1242507204542021600,Tue Mar 24 17:42:56 +0000 2020,Amplify Video  An open source plugin for the Amplify CLI that makes it easy to deploy video services and integrate… https://t.co/EVEYaMV6U9
+1242455023906324500,Tue Mar 24 14:15:36 +0000 2020,Deploy an Independent Blog Using Gatsby.js, Ghost, and AWS Amplify  https://t.co/jeLF3sHUVb https://t.co/268psyaVfc
+1242130725131993000,Mon Mar 23 16:46:57 +0000 2020,Learn how to host a React project with the Amplify Console using the CLI in this 2 minute video… https://t.co/2NvhhkQNwC
+1241125177955700700,Fri Mar 20 22:11:16 +0000 2020,Our new documentation site is officially live &amp; in preview 🎉  In addition to a new design, we've improved the navig… https://t.co/4jAxIh3H4z
+1241034025642397700,Fri Mar 20 16:09:03 +0000 2020,Full Stack Machine learning on AWS: Reading Text from an Image with AWS Amplify &amp; Amazon Rekognition… https://t.co/xDuhvKOUKq
+1240638408785039400,Thu Mar 19 13:57:01 +0000 2020,Building a Serverless JAMstack ECommerce Store with Gatsby &amp; AWS Amplify  https://t.co/kMlrKzxXmz https://t.co/VbTvXCsSSR
+1240282560283971600,Wed Mar 18 14:23:00 +0000 2020,AWS AppSync without Authentication  Best practice for communicating with AWS AppSync for public web sites by… https://t.co/eCtH7CD9TJ
+1239980323749970000,Tue Mar 17 18:22:01 +0000 2020,Super Easy Language Translator with AWS Amplify Predictions and @vuejs   https://t.co/DPtpQzuKbw https://t.co/ymLG347jCs
+1239897023828111400,Tue Mar 17 12:51:01 +0000 2020,Continuous Blog Publishing with the AWS Amplify Console  https://t.co/uvfdKkRWAI https://t.co/lsNlQ5jD9d
+1239572402494996500,Mon Mar 16 15:21:05 +0000 2020,Sanity Studio Dashboard Widget to trigger Amplify deploys  A simple widget that allows you to trigger a build on Am… https://t.co/nPeTgQcsvL
+1238496038559854600,Fri Mar 13 16:04:00 +0000 2020,Adding register and login flows using AWS Amplify in a Nuxt app (Auth Part 2)  https://t.co/fLOzSqcoXb
+1238095653718327300,Thu Mar 12 13:33:01 +0000 2020,Setting Up Custom Domains Using the AWS Amplify Console  https://t.co/qKyDOhx5Fq https://t.co/XCRWAhoDTi
+1237754907668643800,Wed Mar 11 14:59:01 +0000 2020,Host Your Apps with AWS Amplify Console from the AWS Amplify CLI  https://t.co/HB9QXRzDWn https://t.co/E9Nehboi1F
+1237363075516371000,Tue Mar 10 13:02:00 +0000 2020,Multiple GraphQL Authentication Types in AWS Amplify  https://t.co/Js1a9rVGts https://t.co/YuLhKSABTt
+1236997921360527400,Mon Mar 09 12:51:01 +0000 2020,The guide to add AI to your React Native app with AWS Amplify by @ramonpostulart   https://t.co/fSLft7Uf49 https://t.co/DSM3c8mlyC
+1235935415812722700,Fri Mar 06 14:29:00 +0000 2020,AppSync React Hooks by @petehanssens   Using AWS AppSync, Auth0, Nextjs, Zeit, and React hooks to build an example… https://t.co/Jz3x04pxii
+1235556421258883000,Thu Mar 05 13:23:01 +0000 2020,Pagination &amp; Sorting with GraphQL and AWS Amplify  https://t.co/Rk68P0GFCM https://t.co/8W24lcj93w
+1235262487001432000,Wed Mar 04 17:55:01 +0000 2020,Conference App in a Box  Full stack &amp; cross platform mobile application, customizable &amp; themeable for any event or… https://t.co/5d1GhxJfxR
+1234874179914170400,Tue Mar 03 16:12:02 +0000 2020,Building a Full Stack CMS for the Modern Age by @dabit3 at @ReactEurope Paris meetup  ⚛︎ Powered by AWS Amplify and… https://t.co/qzdKY8FKJZ
+1234550039298629600,Mon Mar 02 18:44:00 +0000 2020,How HyperTrack Uses AWS Amplify and AWS AppSync for Real-Time Data Processing for Live Location Tracking at Scale… https://t.co/xifpTURjkz
+1234493533589037000,Mon Mar 02 14:59:28 +0000 2020,Launch Announcement - Amplify Datastore now also available on @expo &amp; React Native  Build real-time and offline-fir… https://t.co/C97D2aS5ul
+1233436957147123700,Fri Feb 28 17:01:01 +0000 2020,The guide to implement Push Notifications with React Native, Expo and AWS Amplify  https://t.co/RdNcOF1YHa https://t.co/olMxs2UmKj
+1233019959275638800,Thu Feb 27 13:24:01 +0000 2020,Authentication for React apps using AWS Amplify and Cognito by @brayoh_k   https://t.co/1AtpPcilfV https://t.co/A32wHXXLvr
+1232708153734836200,Wed Feb 26 16:45:01 +0000 2020,Amplify Console - The dynamic solution to static hosting on AWS  https://t.co/E5MTiFXxWz https://t.co/wxbXMjxftr
+1232322360855924700,Tue Feb 25 15:12:00 +0000 2020,AWS Amplify and Clojurescript Re-Frame Part 1 by @rberger  https://t.co/lyKh0V36fm https://t.co/bayEMyVm21
+1232008040209145900,Mon Feb 24 18:23:01 +0000 2020,AWS Amplify Template for Create React App by @stevensacks  https://t.co/853fHOMBe9 https://t.co/HZbI3Rhkno
+1231944121109094400,Mon Feb 24 14:09:01 +0000 2020,How to Add Language Translation and Text to Speech Audio Using AWS Amplify by @kylegalbraith… https://t.co/ze8ooDfOy1
+1230933962526281700,Fri Feb 21 19:15:00 +0000 2020,Deploy a Nuxt app to the world with AWS Amplify in less than 5 minutes  https://t.co/SLZGAzpFuL https://t.co/HT2qRZT0Oo
+1230854943642353700,Fri Feb 21 14:01:01 +0000 2020,Exploring AWS AppSync GraphQL as a Service  https://t.co/1vdvnfP133 https://t.co/AQawd2jezR
+1230578872829333500,Thu Feb 20 19:44:00 +0000 2020,Building a Serverless JAMstack ECommerce Store with Gatsby &amp; AWS Amplify  How to build a full stack serverless JAMs… https://t.co/cAi5yE2mil
+1230518476340703200,Thu Feb 20 15:44:01 +0000 2020,How to add authentication using AWS Amplify's Auth Class in a Nuxt app  https://t.co/tYqWnSL2og https://t.co/rYVVbIXPl3
+1230214220555464700,Wed Feb 19 19:35:01 +0000 2020,Add a GraphQL API to your Hugo site with AWS Amplify  https://t.co/WzHYIOirSx https://t.co/LwVx4k5Vwo
+1230148033393938400,Wed Feb 19 15:12:00 +0000 2020,Getting started with Selenium testing on AWS Device Farm by @Moatazeldebsy   https://t.co/yOZBoB6RFk https://t.co/kZYiPc7TPN
+1229849063769723000,Tue Feb 18 19:24:00 +0000 2020,Setting up a Custom Domain with the Amplify Console  How to deploy a project hosted on Amplify Console using your c… https://t.co/M97ydXdU6l
+1229783635835924500,Tue Feb 18 15:04:01 +0000 2020,5 Step Guide for User Authentication using Angular, AWS Amplify and Amazon Cognito Hosted UI… https://t.co/HhEwRaU1Tg
+1229403858679541800,Mon Feb 17 13:54:55 +0000 2020,How to Enable Pull Request Previews with Amplify Console Hosting  In this video, learn how to integrate pull reques… https://t.co/aNiOuS1JoK
+1229398794774728700,Mon Feb 17 13:34:48 +0000 2020,Creating AWS AppSync GraphQL APIs with AWS Amplify  Learn how to build a full stack serverless GraphQL application… https://t.co/cBcRd6EtUw
+1228379883509878800,Fri Feb 14 18:06:01 +0000 2020,AWS Amplify Nuxt Starter Project  https://t.co/uo0YuyIAnZ https://t.co/LfxrppsHdN
+1228035111817564200,Thu Feb 13 19:16:01 +0000 2020,AWS Amplify &amp; @vuejs - How to set up AWS Amplify in a new Nuxt project  https://t.co/YpsNmlNZ9m https://t.co/DizeQz1Suo
+1227988015047495700,Thu Feb 13 16:08:52 +0000 2020,Amplify DataStore React Native Pre-Release  Get started with the newest and most robust real-time / offline Amplify… https://t.co/uq9gGJdm56
+1227614086931918800,Wed Feb 12 15:23:00 +0000 2020,Build and Deploy a Real-Time React App Using AWS Amplify and GraphQL  A powerful and concise tutorial that will gui… https://t.co/KDAg5L4cge
+1227312349822029800,Tue Feb 11 19:24:01 +0000 2020,AWS X-Ray was recently integrated natively into AppSync and it gives customers the ability to trace requests throug… https://t.co/fYzedY1DN5
+1227229553036267500,Tue Feb 11 13:55:00 +0000 2020,Using AWS Amplify to Develop Full Stack React App (Part 1) - Publish Frontend with Authentication by @zhaimo… https://t.co/OGk4sj4vkA
+1226976891128680400,Mon Feb 10 21:11:01 +0000 2020,Adding Facebook Sign In for Web Applications with AWS Amplify  https://t.co/VAitaxvZKo https://t.co/PvFt4Sm6aR
+1226905158615019500,Mon Feb 10 16:25:59 +0000 2020,AWS Amplify Multi-Auth GraphQL — Public Read and Authenticated Create, Update, Delete by @fullstackpho… https://t.co/8Usmvl1Kpq
+1225777985929785300,Fri Feb 07 13:47:00 +0000 2020,Full Stack Machine learning on AWS: Reading Text from an Image with AWS Amplify &amp; Amazon Rekognition by @dabit3   https://t.co/ST4PiuCQF9
+1225454861413683200,Thu Feb 06 16:23:01 +0000 2020,Adding a Custom Domain with the Amplify Console  https://t.co/9Hl9tllEHP https://t.co/AqIRt1oOUb
+1225071836561580000,Wed Feb 05 15:01:01 +0000 2020,Build a React App Using AWS Amplify in Simple Steps (Part 3) by @marcoslombog   https://t.co/nq96snMoYc https://t.co/27N3ZGbobO
+1224704414616903700,Tue Feb 04 14:41:01 +0000 2020,Testing Push Notifications with AWS Amplify by @dantasfiles   https://t.co/1I58HX0f4V https://t.co/5FrbkMQ10D
+1224394901334515700,Mon Feb 03 18:11:07 +0000 2020,Setting up Android Push Notifications with AWS Amplify by @dantasfiles   https://t.co/C9ZtggTm8K https://t.co/xA4cD0HJvI
+1223290599287218200,Fri Jan 31 17:03:01 +0000 2020,Extending JAMstack: 10 APIs and Tools to check out in 2020 by @lauragift_  https://t.co/u0eN8C4wxa https://t.co/9OqKMR3clZ
+1222941044976902100,Thu Jan 30 17:54:00 +0000 2020,Capturing app performance metrics through Appium and AWS Device Farm by @jlipp  https://t.co/Z3pEpK8ZZd https://t.co/mb99uCY91h
+1222892220946231300,Thu Jan 30 14:40:00 +0000 2020,A new React starter project for Amazon Cognito &amp; AWS Amplify Framework by @VladimirBudilov   https://t.co/Z90FLKSecq
+1222538140361134000,Wed Jan 29 15:13:00 +0000 2020,Intro to AWS Amplify: Build a Multi-tenant SaaS App  https://t.co/7TW49OHwfe https://t.co/mtvQm3Ty3v
+1222155118541463600,Tue Jan 28 13:51:01 +0000 2020,🛠 Built with AWS Amplify - Flexy: A Serverless Travel App  https://t.co/8Vuakx5oCT https://t.co/Vte8hho7Nr
+1221841049729077200,Mon Jan 27 17:03:01 +0000 2020,How to deploy a React Application on AWS Amplify  https://t.co/x2CFHq4VLt https://t.co/YgPsHEc43Z
+1220762189365117000,Fri Jan 24 17:36:01 +0000 2020,Amplify DataStore - Predicates and Real-Time Sync  https://t.co/2qraZZY2Em https://t.co/gZ0A6ic0dO
+1220360795864866800,Thu Jan 23 15:01:01 +0000 2020,What is Amplify DataStore? - Part 01  https://t.co/wHpye2tXRa https://t.co/X6vrBRitO3
+1220058352321007600,Wed Jan 22 18:59:13 +0000 2020,Create a Multiuser GraphQL CRUD(L) App in 5 minutes with the Amplify DataStore by @ednergizer… https://t.co/h1OHbvrNBd
+1220039426316886000,Wed Jan 22 17:44:01 +0000 2020,Multi-Tenant AWS Amplify: Method 3: Virtual Cognito Groups  https://t.co/y2FGLjQDk7 https://t.co/tylO3KdsOQ
+1219986073138466800,Wed Jan 22 14:12:00 +0000 2020,AWS Device Farm now supports Selenium testing on desktop browsers including Chrome, Firefox, and Internet Explorer!… https://t.co/P3Mu6IDFds
+1219628218594078700,Tue Jan 21 14:30:01 +0000 2020,Add monitoring to your Amplify app by using Amplify framework  https://t.co/zkWEB5HK4a? https://t.co/pb3Dh6fMfv
+1219280179169845200,Mon Jan 20 15:27:02 +0000 2020,RealTime ReasonML Subscriptions on AWS with Wonka  https://t.co/UDLq00xFrT https://t.co/yxr1GY4gQb
+1218265092699181000,Fri Jan 17 20:13:27 +0000 2020,Learn how Icon Interactive launched their new interactive JAMstack site with Gatsby, AWS Amplify, and the Amplify C… https://t.co/1bIXtEfoku
+1218227486896599000,Fri Jan 17 17:44:01 +0000 2020,CLJS ❤️'s AWS Amplify  How to get started building with Amplify using Clojurescript via Shadow-CLJS… https://t.co/1qbUF43gYH
+1217854277542084600,Thu Jan 16 17:01:01 +0000 2020,The Guide to implement Geo Search in your React Native App with AWS Amplify  https://t.co/dSdRYun6bV https://t.co/tChcGzj4nn
+1217481571059540000,Wed Jan 15 16:20:00 +0000 2020,Angular Authentication with AWS Cognito and Amplify  https://t.co/sOGd0c6qJu https://t.co/OibKpFR3ci
+1217110125900718000,Tue Jan 14 15:44:01 +0000 2020,Bringing our Comic Relief Values to life with IoT, Amplify and Serverless  https://t.co/2kYydgM8dF https://t.co/zwCJoJJSfU
+1216725843751424000,Mon Jan 13 14:17:01 +0000 2020,Mobile development : Go serverless with AWS Amplify  https://t.co/t7sw5qkp4O https://t.co/M5JLXaAlBQ
+1215688002925662200,Fri Jan 10 17:33:00 +0000 2020,Building a real-time stock monitoring dashboard with AWS AppSync by @jmgtan   https://t.co/bWh5zOhVSw https://t.co/7MVNos6VdP
+1215631633782583300,Fri Jan 10 13:49:01 +0000 2020,User sign up and sign in with useContext on ReasonML, ReasonReact Next.js and AWS Amplify  https://t.co/7yzTGhUakl https://t.co/nrfqSIHOWi
+1215333166220808200,Thu Jan 09 18:03:01 +0000 2020,Simplify access to multiple microservices with AWS AppSync and AWS Amplify  https://t.co/0L5gmRa2BT https://t.co/SIw1kMElRu
+1215283084762984400,Thu Jan 09 14:44:00 +0000 2020,Enterprise Grade CI/CD For Frontend Applications with AWS Amplify  https://t.co/BDeqvsjZld https://t.co/Amw84Gp78R
+1215003744825479200,Wed Jan 08 20:14:01 +0000 2020,10 Ways to Use Serverless Functions  https://t.co/dvXWUJR909 https://t.co/OxSLW8HG2I
+1214944221322457000,Wed Jan 08 16:17:29 +0000 2020,Create Fully-Functioning Serverless User Authentication With AWS Cognito and Amplify With Angular… https://t.co/TFK43eAyFL
+1214567875236618200,Tue Jan 07 15:22:01 +0000 2020,Amplify your Mobile App - IoT on AWS - A Philly Cloud Computing Event  https://t.co/lxhhRvI8oV https://t.co/NBwxW9uVS0
+1214260598818648000,Mon Jan 06 19:01:01 +0000 2020,10 Minute Tutorial: Creating a Serverless Express Web Server &amp; API  https://t.co/atKBuVPeuL https://t.co/kkFZgRl3ME
+1214186358769684500,Mon Jan 06 14:06:01 +0000 2020,Effective Jekyll: Hosting Websites on AWS Amplify  https://t.co/0lef96MD5r https://t.co/seT7uz78Ud
+1213979722813726700,Mon Jan 06 00:24:55 +0000 2020,Multi-Tenant AWS Amplify: Method 1: Cognito Custom Attributes by @dantasfiles   https://t.co/i28vD90ucb https://t.co/nBdpM1jude
+1208073331813040000,Fri Dec 20 17:15:01 +0000 2019,Leadership session: Innovations in mobile &amp; web app development  https://t.co/YohuueTJDY https://t.co/96AxNjTV8V
+1207703893527990300,Thu Dec 19 16:47:00 +0000 2019,Add monitoring to your Amplify app by using Amplify framework  An in depth guide to customizing Amplify to integrat… https://t.co/QoaNKtal2x
+1207660609678069800,Thu Dec 19 13:55:01 +0000 2019,Speed up native mobile development with AWS Amplify  https://t.co/tuILLg3Li4 https://t.co/cs25bhXjwp
+1207329932671701000,Wed Dec 18 16:01:01 +0000 2019,Frontend web and cross-platform mobile development on AWS  https://t.co/hWqVASSAtM https://t.co/Mjx4pGSptQ
+1207293081961353200,Wed Dec 18 13:34:35 +0000 2019,The Guide to implement Geo Search in your React Native App with AWS Amplify by @ramonpostulart… https://t.co/kMjQnI6zoo
+1206966789177036800,Tue Dec 17 15:58:01 +0000 2019,AWS re:Invent 2019: Amplifying full stack serverless apps with AWS AppSync by @ednergizer   https://t.co/0B4nWTo9av https://t.co/UDQ7jso9OE
+1206588046747033600,Mon Dec 16 14:53:02 +0000 2019,Learn how BMW leverages AWS AppSync to process real-time data from vehicles as well as best practices for serverles… https://t.co/vBSodl4SAm
+1205131194175819800,Thu Dec 12 14:24:01 +0000 2019,Full Stack Serverless: CRUD (Create Read Update Delete) / AWS Amplify + GraphQL + React Native by @koshasuperstar… https://t.co/Z58TneB2RK
+1204041262527107000,Mon Dec 09 14:13:01 +0000 2019,Build data-driven mobile and web apps with AWS AppSync  https://t.co/NDFp1RwD1u https://t.co/ZKgaU2TZYg
+1202986476264398800,Fri Dec 06 16:21:41 +0000 2019,Production-grade full-stack apps with AWS Amplify  Learn how to build a serverless CI/CD pipeline that leverages va… https://t.co/vMfz6scfpk
+1202692568225632300,Thu Dec 05 20:53:47 +0000 2019,🚀 Launch announcement: Amplify DataStore – Simplify Development of Offline Apps with GraphQL… https://t.co/Z6umavDgkp
+1202307768444686300,Wed Dec 04 19:24:44 +0000 2019,Innovations in Mobile &amp; Web App Development  Learn all about the current state of AWS Amplify along with some new l… https://t.co/GSjcrhwROa
+1201558335071408000,Mon Dec 02 17:46:45 +0000 2019,The Complete React Native Guide to User Authentication with the Amplify Framework  https://t.co/B50f8aqDEb https://t.co/xPQaygjtUa
+1199428237853675500,Tue Nov 26 20:42:30 +0000 2019,🚀 Launch announcement - predictions GraphQL directive!  - Add a new "predictions" directive in your #GraphQL schema… https://t.co/RDlq78urCF
+1199393487969489000,Tue Nov 26 18:24:25 +0000 2019,🚀 Launch announcement - 5 new features for Amplify Console &amp; CLI!  1. Amplify Console back end visibility 2. $ ampl… https://t.co/HeHtAMPitO
+1199326694827593700,Tue Nov 26 13:59:01 +0000 2019,Going to re:Invent? Don't miss out on exciting sessions and workshops for mobile and web developers.   We'll have a… https://t.co/tiIbSvZwtI
+1198969591810138000,Mon Nov 25 14:20:01 +0000 2019,How Space Ape Games delivers secure WebApps using AWS  Learn how Space Ape Games secure the front and backend of a… https://t.co/lUI5emPKjg
+1197903805494571000,Fri Nov 22 15:44:57 +0000 2019,Data Modeling in Depth with GraphQL &amp; AWS Amplify - 17 Data Access Patterns  Using the new AWS Amplify GraphQL Tran… https://t.co/wBGK3s3ind
+1197627146887405600,Thu Nov 21 21:25:37 +0000 2019,🚀 Launch Announcement -Managed caching &amp; @dynamodb transactions support in AWS AppSync GraphQL APIs!  Learn more in… https://t.co/NDMZYf8mw5
+1197158408899707000,Wed Nov 20 14:23:01 +0000 2019,Create fully functioning user authentication with Amazon Cognito and AWS Amplify with Angular (complete guide) by… https://t.co/3pgteeD6nD
+1196861952334684200,Tue Nov 19 18:45:00 +0000 2019,Announcing Amplify Week in New York and San Francisco, December 2019! 🎉🎉  These are free to attend &amp; will include 3… https://t.co/kM6jW0Jjy8
+1196789477525663700,Tue Nov 19 13:57:01 +0000 2019,5 Minute Tutorial: Easily Get Base Types with AWS Amplify GraphQL Codegen for TypeScript by @stevelizcano  How you… https://t.co/oMxhAbZn6s
+1196521545914626000,Mon Nov 18 20:12:21 +0000 2019,Serverless Conf 2019 - Running a Serverless Insurance Company by @JoeEmison   Branch's architecture, how Branch has… https://t.co/R2jQZT8qdZ
+1195463237594165200,Fri Nov 15 22:07:01 +0000 2019,Leverage the new real-time features on AWS AppSync and learn how you can effortlessly scale your app to millions of… https://t.co/GcXOXyVRLK
+1194624460613128200,Wed Nov 13 14:34:01 +0000 2019,Merging GraphQL schema files and more from the CLI  Learn how to utilize graphql-js to build a CLI utility to merge… https://t.co/jrW33G1fDQ
+1194256537625211000,Tue Nov 12 14:12:01 +0000 2019,AWS AppSync helped Yamaha to significantly reduce development effort and costs while improving availability, scalab… https://t.co/E0c3Tq1FBu
+1193906984065601500,Mon Nov 11 15:03:01 +0000 2019,Learn how HyperTrack is leveraging AWS AppSync to scale their live location tracking service by handling real-time… https://t.co/ZKgCGNs4ma
+1192868142755844000,Fri Nov 08 18:15:02 +0000 2019,ReactiveConf 2019 - Nader Dabit: Curious Cases of GraphQL  https://t.co/2zc3eabTOY https://t.co/aGPCaRqn3o
+1192563518559654000,Thu Nov 07 22:04:34 +0000 2019,Going to @AWSreInvent ? Don't miss out exciting sessions and workshops for mobile and web developers.   We'll have… https://t.co/Da6eAOxeza
+1192449381577957400,Thu Nov 07 14:31:01 +0000 2019,Everything Serverless Functions in AWS Amplify - Part 1 by @kurtiskemple   https://t.co/aKqUd06pvn https://t.co/m3MfU7G1Qf
+1192120211123638300,Wed Nov 06 16:43:01 +0000 2019,Building Robust GraphQL APIs with AWS Amplify and AWS AppSync  https://t.co/1JmluX6yvz https://t.co/BjVNKka7K3
+1191732406295904300,Tue Nov 05 15:02:01 +0000 2019,Create a GraphQL service with AWS Amplify &amp; AWS AppSync in 9 minutes by @eastuto   https://t.co/pScVBSLcVE https://t.co/8bELov2dcq
+1191359950100062200,Mon Nov 04 14:22:01 +0000 2019,Tutorial: Creating FindKeanu app using new Amplify Predictions and Angular by @gerardsans   https://t.co/JOR9S9QEBG https://t.co/wkTooMWZAN
+1190250136875782100,Fri Nov 01 12:52:01 +0000 2019,JAMstack CMS (beta) - A modern full stack CMS built with @gatsbyjs, AWS Amplify, GraphQL, and serverless technologi… https://t.co/KU4XHtGy3v
+1188847666404327400,Mon Oct 28 15:59:06 +0000 2019,AWS Amplify Authentication Starters  A collection of authentication starter projects for popular front-end framewor… https://t.co/HhfgHFbFxH
+1187742112164565000,Fri Oct 25 14:46:01 +0000 2019,Social authentication with AWS Amplify, React Native, and Expo  https://t.co/uVNiMmDB3R https://t.co/prYrerHtFf
+1187352291885637600,Thu Oct 24 12:57:00 +0000 2019,Migrating a Legacy App to Cloud Native – Part 5  https://t.co/gAP8SL1Gcf https://t.co/cpq4SkPNzx
+1187037720796979200,Wed Oct 23 16:07:01 +0000 2019,Creating AWS Amplify Functions in Typescript by @rafalwilinski   https://t.co/8qrN7RYMT6 https://t.co/SHRlAMSbB7
+1186651423938883600,Tue Oct 22 14:32:01 +0000 2019,AWS Amplify + React Native / Authentication 🔐 FULL SETUP by @koshasuperstar  https://t.co/VyTdZ328EI nom/aws-amplif… https://t.co/uKe0zEilXb
+1186325541235941400,Mon Oct 21 16:57:04 +0000 2019,Deploying a static site to AWS in 56 seconds with the Amplify Console  https://t.co/IwRGbFjPc5 https://t.co/msp9LKTgN7
+1186273685797326800,Mon Oct 21 13:31:01 +0000 2019,GraphQL and Go with AppSync and Lambda  https://t.co/AtbDFwMcxt https://t.co/KIORxpw1de
+1185206152654655500,Fri Oct 18 14:49:01 +0000 2019,Augmented Reality Using Amazon Sumerian, AWS Amplify, and 8th Wall  How to publish a simple browser-based augmented… https://t.co/RQ23BSZokg
+1184857101794992000,Thu Oct 17 15:42:01 +0000 2019,The AWS AppSync resources page is now updated with new samples apps, more useful links and better navigation.  Chec… https://t.co/K6krrXMACZ
+1184454197879754800,Wed Oct 16 13:01:01 +0000 2019,Check how Musixmatch uses AWS AppSync to provide access to one of the biggest catalogs of lyrics synchronized line… https://t.co/Z3P38cV9s6
+1184094578237943800,Tue Oct 15 13:12:01 +0000 2019,Mocking and Testing Serverless APIs with AWS Amplify, Live Broadcast Monday Oct 21  This webinar covers local testi… https://t.co/cv4suZg4Si
+1182646789960282000,Fri Oct 11 13:19:01 +0000 2019,What is AWS Amplify by @Hiteshdotcom  https://t.co/skgKOl8XNu https://t.co/LBcqghBmtO
+1182271309759291400,Thu Oct 10 12:27:00 +0000 2019,User Authentication with React Native, Expo, and AWS Amplify  https://t.co/Nv1vw95vTd
+1181953217850216400,Wed Oct 09 15:23:01 +0000 2019,GraphQL Transform  GraphQL Transform converts your SDL definition into a set of fully descriptive AWS CloudFormatio… https://t.co/K7JqAH9Inj
+1181573717643731000,Tue Oct 08 14:15:01 +0000 2019,AWS Amplify, Appsync, &amp; GraphQL — Integrate an API in iOS {Part II}  https://t.co/nq1whNFd0W https://t.co/HonzehfNEA
+1181193823193616400,Mon Oct 07 13:05:27 +0000 2019,New Amplify CLI feature - Get started from an existing Amplify project hosted on a Git repo using a single command.… https://t.co/Yn52W0hLhL
+1179395866626535400,Wed Oct 02 14:01:01 +0000 2019,AWS Amplify + React Native  Authentication, APIs, and internationalization.  https://t.co/OxuZeXFwmx https://t.co/m4aaf36HUq
+1179057475347239000,Tue Oct 01 15:36:22 +0000 2019,Running end-to-end @Cypress_io tests for your fullstack CI/CD deployment with Amplify Console  Amplify Console now… https://t.co/7wXSe7EEl5
+1178665051412205600,Mon Sep 30 13:37:01 +0000 2019,AWS Amplify - Beyond the Quickstart by Christophe Bougère  https://t.co/HC15xqIrbG https://t.co/YGpd8Ni2sR
+1177580653484920800,Fri Sep 27 13:48:00 +0000 2019,Deploying @gatsbyjs to AWS by @dabit3  https://t.co/NLlYgg6T8m https://t.co/8SdDr9kwxn
+1177224054278971400,Thu Sep 26 14:11:00 +0000 2019,AWS [Amplify, Appsync, GraphQL] — Building an API for iOS {Part I}  https://t.co/an0eCD5ezD https://t.co/znIKcOKQEf
+1176882811724271600,Wed Sep 25 15:35:02 +0000 2019,Everything Serverless Functions in AWS Amplify - Part 3 by @kurtiskemple  https://t.co/z9Lly9HRW4 https://t.co/nXaddYDhwc
+1176134625292427300,Mon Sep 23 14:02:00 +0000 2019,Migrating a Legacy App to Cloud Native – Part 4  https://t.co/mknUuFl8pM https://t.co/klEJl1vsVj
+1175028839287836700,Fri Sep 20 12:48:00 +0000 2019,How to create secondary indexes with GraphQL and AWS AppSync by @phl_andrews  https://t.co/pF7n1ktqJz https://t.co/ktBA1laHD2
+1175028839287836700,Fri Sep 20 12:48:00 +0000 2019,How to create secondary indexes with GraphQL and AWS AppSync by @phl_andrews  https://t.co/pF7n1ktqJz https://t.co/ktBA1laHD2
+1174809514060714000,Thu Sep 19 22:16:29 +0000 2019,Learn how Public Good went from PoC to Production in less than a month with AWS AppSync, improving overall developm… https://t.co/ONTbkppSYi
+1174406996197564400,Wed Sep 18 19:37:01 +0000 2019,We launched a new version of the Amplify CLI with much improved performance. Install or update the Amplify CLI now… https://t.co/kh62EBEgFs
+1173672978405609500,Mon Sep 16 19:00:18 +0000 2019,12 New Features of AWS Amplify by @dabit3  https://t.co/X2KgW9pAOr https://t.co/4Gu3QTsh6X
+1172513517062230000,Fri Sep 13 14:13:01 +0000 2019,Mobile User Authentication with React Native, @expo, and AWS Amplify by @amanhimself  https://t.co/gyZupOPkfH https://t.co/jCl1cH4K0t
+1172147101452685300,Thu Sep 12 13:57:01 +0000 2019,How to Build Serverless Vue Applications with AWS Amplify  Learn how to add the following features to your next… https://t.co/dgZpI8ex9x
+1171850647131558000,Wed Sep 11 18:19:00 +0000 2019,How to Build Cloud-Powered Mobile Apps with @expo &amp; AWS Amplify by @dabit3  https://t.co/JFGHZ9kWD2 https://t.co/D9pbfcsccr
+1171798668569170000,Wed Sep 11 14:52:28 +0000 2019,Amazon Athena allows queries to large datasets from Amazon S3. How to securely access &amp; visualize the data using Re… https://t.co/juEibGqs2h
+1171411754745761800,Tue Sep 10 13:15:00 +0000 2019,How to Build Production-ready @vuejs Authentication with AWS Amplify by @dabit3  https://t.co/IeHurZeMyI https://t.co/YLUoQTMvWU
+1171097327714603000,Mon Sep 09 16:25:35 +0000 2019,The @AWSAmplify Weekly 35 is out with special thanks to contributors @dabit3  https://t.co/nzkmgLJUZt https://t.co/PvGorncCmy
+1171083742171074600,Mon Sep 09 15:31:36 +0000 2019,Everything Serverless Functions in AWS Amplify - Part 2 by @kurtiskemple  - Wrap a REST API in GraphQL - Handle arg… https://t.co/RxdSUU3toh
+1169966737225375700,Fri Sep 06 13:33:01 +0000 2019,Everything Serverless Functions in AWS Amplify - Part 1 by @kurtiskemple  https://t.co/l4vmPzHSI6 https://t.co/w67UykHlul
+1169622464877551600,Thu Sep 05 14:45:00 +0000 2019,Introducing Gweather - A Micro Weather App with Gifs! by @kurtiskemple  https://t.co/0yi34UITNj https://t.co/3l2eAFCgqS
+1169281218187354000,Wed Sep 04 16:09:01 +0000 2019,End To End Testing Amplify Apps by @janhesters  https://t.co/U15okYhkxD https://t.co/5vMIwSAJxW
+1169236674242580500,Wed Sep 04 13:12:01 +0000 2019,September’s a busy month! We have Amplify events in Germany, Australia, New Zealand, Canada, India, UK, Croatia, Ho… https://t.co/MbXz5eASSz
+1168950287056482300,Tue Sep 03 18:14:01 +0000 2019,Building Full Stack GraphQL Applications with AWS Amplify and Vue  In depth workshop by @gerardsans… https://t.co/5jYcqR78Pg
+1168879318732353500,Tue Sep 03 13:32:00 +0000 2019,Introducing Pokedex by @kurtiskemple  Deploy a full stack Pokédex app backed by AWS AppSync and AWS Lambda in minut… https://t.co/d0jWlVvgCe
+1168604275146154000,Mon Sep 02 19:19:05 +0000 2019,The @AWSAmplify Weekly 34 is out with special thanks to contributors @janhesters &amp; @kurtiskemple… https://t.co/HCbLAHl4WZ
+1168580348227260400,Mon Sep 02 17:44:00 +0000 2019,Introducing Quick Notes by @kurtiskemple  Deploy a full stack web app to help you organize your notes when you're o… https://t.co/rVy5jSPhY2
+1168508122891206700,Mon Sep 02 12:57:00 +0000 2019,Setting Up a Project with CI/CD Using Amplify by @janhesters  https://t.co/o3qI8fV56x https://t.co/mSlB1gwHUh
+1167453677940031500,Fri Aug 30 15:07:01 +0000 2019,Building Robust GraphQL APIs with AWS Amplify and AWS AppSync - AWS Online Tech Talks  In this tech talk, we'll go… https://t.co/Ic97itxzTy
+1167089021341851600,Thu Aug 29 14:58:00 +0000 2019,Introducing Journey - An App for Tracking Job Listings by @kurtiskemple  Journey allows you to track job listings t… https://t.co/FRprQb3oRF
+1166793890499846100,Wed Aug 28 19:25:16 +0000 2019,Join @iTomHanson presenting at @leedsjs on building JAMstack apps with Amplify:  https://t.co/7PuTYNaEtU https://t.co/nvuvzPDR93
+1166707257305903000,Wed Aug 28 13:41:01 +0000 2019,Integrating alternative data sources with AWS AppSync: Amazon Neptune and Amazon ElastiCache… https://t.co/Ghp4YM3aIY
+1166333797970993200,Tue Aug 27 12:57:01 +0000 2019,Tech Powered Sports with IoT, Machine Learning and AWS AppSync   https://t.co/Q4V7TQV7Hd https://t.co/mxCD5E7INb
+1166052669808611300,Mon Aug 26 18:19:55 +0000 2019,The @AWSAmplify Weekly 33 is out with special thanks to contributors @janhesters and @rakannimer!… https://t.co/gIXnh93X6O
+1166042778683486200,Mon Aug 26 17:40:37 +0000 2019,Building progressive web apps with the Amplify Framework and AWS AppSync by @ednergizer  https://t.co/Zqz8LqZmV3 https://t.co/96rgFuG1Xh
+1164909412299018200,Fri Aug 23 14:37:01 +0000 2019,Build a Serverless PWA to create and manage surveys / polls with Amplify and AWS AppSync   https://t.co/pZZ8fpqeLJ https://t.co/DtsxJzf8rH
+1164586538212085800,Thu Aug 22 17:14:02 +0000 2019,Matthew Merriel - Introduction to AWS Amplify from Melbourne CocoaHeads  https://t.co/a9ksI4bJ8M https://t.co/z6pHiAmCDn
+1164165764678594600,Wed Aug 21 13:22:02 +0000 2019,AWS Serverless Airline Booking by @heitor_lessa  A complete web application that provides Flight Search, Flight Pay… https://t.co/mINNXKxi4p
+1163846657550823400,Tue Aug 20 16:14:01 +0000 2019,Lambda Triggers &amp; Read-Only Permissions with AWS Amplify by @janhesters  In this tutorial, you are going to learn h… https://t.co/wk5NM8JQaY
+1163800857206505500,Tue Aug 20 13:12:01 +0000 2019,On the next All Things Amplify, learn with @kneekey23 and @TheNickWalsh how to use the new Amplify Predictions cate… https://t.co/bbEq8fzzAt
+1163442746520219600,Mon Aug 19 13:29:01 +0000 2019,AWS Amplify Auth Starters  A collection of starter projects for web and mobile that include pre-built custom authen… https://t.co/Wp9lDEght4
+1162401384916050000,Fri Aug 16 16:31:01 +0000 2019,Multiple Environments with AWS Amplify by @janhesters  Learn how to use Amplify’s env command. This tutorial will w… https://t.co/tUMeAJ631H
+1162352563108405200,Fri Aug 16 13:17:01 +0000 2019,Read about all the features we've added to Amplify Console since we launched less than a year ago.… https://t.co/d5DfcUXouA
+1162048310858932200,Thu Aug 15 17:08:01 +0000 2019,Large-scale automated SDK testing with the AWS Device Farm  It's impossible to test all of these devices manually.… https://t.co/bG9lXe8ls9
+1161632066972332000,Wed Aug 14 13:34:01 +0000 2019,Building Robust GraphQL APIs with AWS Amplify and AWS AppSync - August 19 | 1:00 PM PT  In this tech talk, we'll go… https://t.co/oeIJRk2Nvx
+1161276474936254500,Tue Aug 13 14:01:01 +0000 2019,GraphQL Recipes - Building APIs with GraphQL Transform  In this post you'll learn how to use annotated GraphQL sche… https://t.co/CyUaTahO2U
+1160989832333729800,Mon Aug 12 19:02:00 +0000 2019,The @AWSAmplify Weekly 31 is out with special thanks to contributors Christophe Bougère, @geromekevin, @ednergizer,… https://t.co/tgNs8c2YU3
+1160953600593604600,Mon Aug 12 16:38:02 +0000 2019,Deploy Lumberyard Mobile Games to AWS Device Farm  Learn how to use Amazon Lumberyard deploy your mobile game to AW… https://t.co/dp1oMbiduc
+1160902261238878200,Mon Aug 12 13:14:02 +0000 2019,Serverless GraphQL Functions in AWS (with @kurtiskemple &amp; @jlengstorf) — Learn With Jason  Learn how serverless fun… https://t.co/On8JznFKRN
+1159859135132962800,Fri Aug 09 16:09:01 +0000 2019,Calling AppSync GraphQL from Lambda by @hellomichibye   AWS AppSync provides an easy way to run a GraphQL API that… https://t.co/cZQ0QigJjh
+1159474750017745000,Thu Aug 08 14:41:37 +0000 2019,🚀🚀 Launch Announcement - Local Mocking &amp; Testing for AWS Amplify  Docs: https://t.co/DZO1lI3phq  Blog &amp; tutorial:… https://t.co/xKrd1hdQKB
+1159460005130756000,Thu Aug 08 13:43:01 +0000 2019,Testing Lambda Functions (feat. Amplify) by @Geromekevin   In this post you are going to learn how to write unit te… https://t.co/5UZlwPDvdP
+1159125298174189600,Wed Aug 07 15:33:01 +0000 2019,Get Amped about Amplify! by @luke_joliat   An exploration of Amazon’s platform for building “sophisticated cloud-po… https://t.co/oYkS8qxQwu
+1159086542008328200,Wed Aug 07 12:59:01 +0000 2019,Supporting backend and internal processes with AWS AppSync multiple authorization types by @j_shen… https://t.co/qdBlbZY6VQ
+1158783045094318000,Tue Aug 06 16:53:01 +0000 2019,The @AWSAmplify Weekly 30 is out with special thanks to contributors @kojiisd, @geromekevin, and @mwarger… https://t.co/MZTtnDBRqd
+1158768948143415300,Tue Aug 06 15:57:00 +0000 2019,How to Connect an iOS App to AWS IoT  Want to connect your iOS app to AWS IoT? You can connect an iOS app via MQTT… https://t.co/EdSgKfOye2
+1158733466210582500,Tue Aug 06 13:36:01 +0000 2019,Amplify Console launched at re:Invent 2018. Here’s a summary so far:  Launches: https://t.co/AIXJjhfWra  Community… https://t.co/v9yZ9NxDPt
+1158723401630048300,Tue Aug 06 12:56:01 +0000 2019,Join @marc_schroeter in Hamburg to learn how to build fullstack serverless apps with Amplify:… https://t.co/95gjlHG9XW
+1158360508975714300,Mon Aug 05 12:54:01 +0000 2019,Infrastructure as Code in the Era of GraphQL and Full Stack Serverless  Learn how to deploy full stack applications… https://t.co/f46MjGeAKb
+1157301532888621000,Fri Aug 02 14:46:01 +0000 2019,Migrating a Legacy Application to a Serverless Ecosystem  Learn about the migration of the ABCL's legacy Visual Bas… https://t.co/ITDhWSuPH3
+1156913248106623000,Thu Aug 01 13:03:07 +0000 2019,Want to host something without the overhead of connecting a Git repo? Use the Amplify Console’s manual deploy featu… https://t.co/eCzlZswo8A
+1156654276162273300,Wed Jul 31 19:54:03 +0000 2019,Today we've launched a new category called “Predictions” in the Amplify Framework.  This new feature enables you to… https://t.co/g6uQbBAalZ
+1156608966937522200,Wed Jul 31 16:54:01 +0000 2019,With 100+ contributions by 54 developers, the Amplify Community has become a useful resource for developers getting… https://t.co/OqVkrBqMR8
+1156560396582604800,Wed Jul 31 13:41:01 +0000 2019,Server-Side Rendered Real-time Web App with Next.js, AWS Amplify &amp; GraphQL by @rakannimer   In this blog post you w… https://t.co/jKygDadCfN
+1156281702840508400,Tue Jul 30 19:13:35 +0000 2019,Working with AWS AppSync by @ThisDotMedia  A simple getting started guide for GraphQL on AWS.… https://t.co/9zCfJX0XTU
+1155903080799592400,Mon Jul 29 18:09:04 +0000 2019,The @AWSAmplify Weekly 29 is out! Special thanks to contributors @jimgbest, @spejsops, @jorgenlybeck, and… https://t.co/Vy0TyIluCC
+1155876470495076400,Mon Jul 29 16:23:20 +0000 2019,Automate your internal releases with Amplify Console’s pattern-based branch deployments.  Define a pattern -&gt; push… https://t.co/Q34Jn55ATP
+1155832854842105900,Mon Jul 29 13:30:01 +0000 2019,Want to build best in class authentication for your Android apps?  Find out how on this AWS Online TechTalk, July 3… https://t.co/942rqMtW91
+1154783690565853200,Fri Jul 26 16:01:01 +0000 2019,We're happy to be partnering with @ReactiveConf to offer discounted tickets to the event!  ReactiveConf covers all… https://t.co/1yju0PM1tC
+1154745187882741800,Fri Jul 26 13:28:01 +0000 2019,Gatsby Static GraphQL Queries with AWS Amplify &amp; AWS AppSync  Learn how to create a @graphql API, install &amp; configu… https://t.co/VmTiR8X9Z3
+1154451501353332700,Thu Jul 25 18:01:01 +0000 2019,Amplify Console is now on GitHub! The GitHub issue tracker opens a direct line of communication between users and t… https://t.co/I7EGAwpaqK
+1154422790201782300,Thu Jul 25 16:06:55 +0000 2019,Learn how to set up Android authentication with just a few lines of code using the AWS Amplify Authentication modul… https://t.co/3VfGsLgIPM
+1154397649740664800,Thu Jul 25 14:27:02 +0000 2019,AWS for Developers: AWS Amplify by @brainofbear   In this course, Bear Cahill details how to leverage AWS Amplify t… https://t.co/hhsxsyXWtb
+1154016645104459800,Wed Jul 24 13:13:03 +0000 2019,User management in Vue.js with AWS Cognito by @cbartling   Using AWS Cognito, Amplify, and aws-amplify-vue componen… https://t.co/NA0ePWR6yi
+1153698541958836200,Tue Jul 23 16:09:01 +0000 2019,Join @dabit3 this week at the @jsdotla meetup on July 25 in Los Angeles to hear his talk "Curious Cases of GraphQL"… https://t.co/pbH8deEEnM
+1153652238163820500,Tue Jul 23 13:05:02 +0000 2019,Interested in organizing an Amplify meetup? We can help you with swag, slide decks, and AWS credits.  Submit a PR h… https://t.co/7pRVzBvmxo
+1153424736069853200,Mon Jul 22 22:01:01 +0000 2019,Checkout Amplify Community contributor @jimgbest talk about building apps with Amplify on his @saltedbytes podcast:… https://t.co/wAbVN3KHLT
+1153401330314240000,Mon Jul 22 20:28:00 +0000 2019,Join us at 2pm PST to learn more on how to use the new powerful framework SwiftUI with AWS Amplify and AWS AppSync  https://t.co/tSbjgiUuG7
+1153296642591907800,Mon Jul 22 13:32:01 +0000 2019,Hosting &amp; Continuous Deployment for Front Ends and Serverless Back Ends using AWS Amplify  In this video you'll lea… https://t.co/c5nPxQYVcX
+1152222756257370100,Fri Jul 19 14:24:47 +0000 2019,Next Generation Intelligent Data Lakes, Powered by GraphQL  In this session, we discuss different use cases where A… https://t.co/G8OQIfBEjh
+1151880073282302000,Thu Jul 18 15:43:05 +0000 2019,Introducing "Conference App in a Box" - Deploy a full stack &amp; cross-platform mobile app for your next event in minu… https://t.co/8u33mCSbKA
+1151488979159650300,Wed Jul 17 13:49:00 +0000 2019,How Arizona State University designed and delivered their mobile app, a student engagement platform based on… https://t.co/tqlucEJLC7
+1149725357765025800,Fri Jul 12 17:01:00 +0000 2019,Serverless Authentication with AWS Amplify and Vuex  https://t.co/s5quJcIMJg https://t.co/KESCFB2R7n
+1149418740771184600,Thu Jul 11 20:42:37 +0000 2019,🔥Amplify Console new feature alert!  Using a version of a package that is not part of the Amplify Console build ima… https://t.co/zxBfAInUuE
+1149316163706458100,Thu Jul 11 13:55:01 +0000 2019,Learn AWS Amplify Console - Crash Course by @mjmrz   https://t.co/hSlWDfc8GV https://t.co/eMaVOrnL2O
+1149030782343745500,Wed Jul 10 19:01:01 +0000 2019,How To Use AWS AppSync in Lambda Functions by @Geromekevin   https://t.co/2dsExge90c https://t.co/Oj1h1f4tqQ
+1149008023412756500,Wed Jul 10 17:30:34 +0000 2019,Learn how to automatically deploy updates to your static site from Amazon S3 to Amplify Console using #Lambda trigg… https://t.co/w2jGvvIr6q
+1148985483281731600,Wed Jul 10 16:01:00 +0000 2019,GraphQL Tutorial - How to Manage Image &amp; File Uploads &amp; Downloads with AWS AppSync &amp; AWS Amplify by @dabit3… https://t.co/1j1GPHBB8D
+1148940972811837400,Wed Jul 10 13:04:08 +0000 2019,🔥 Launch Announcement - Amplify Console now supports manual deploys.  Drag and drop a build output folder from your… https://t.co/HnpG3HBamy
+1148707833371942900,Tue Jul 09 21:37:44 +0000 2019,Launch Announcement - Amplify Framework adds support for AWS Lambda Triggers in Auth and Storage categories!… https://t.co/HqBr4qHlzD
+1148610262729019400,Tue Jul 09 15:10:01 +0000 2019,Amplify Console now supports the ability to add multiple domains to the same app.  Connect your custom domain today… https://t.co/35JJK6PJze
+1148584347051733000,Tue Jul 09 13:27:02 +0000 2019,Lambda Function GraphQL Resolvers by @dabit3   Learn how to deploy an AppSync GraphQL API that interacts with Lambd… https://t.co/yS0UUOC7vp
+1148218181355548700,Mon Jul 08 13:12:01 +0000 2019,How to create a highly scalable serverless GraphQL data-driven app in minutes by @gerardsans… https://t.co/GPksK463yN
+1147515296795811800,Sat Jul 06 14:39:01 +0000 2019,React Relay AppSync - AppSync for Relay by @m0rrys   https://t.co/JUaL59bDLr https://t.co/RRiDsQ7jEz
+1147211797390352400,Fri Jul 05 18:33:01 +0000 2019,Eurail: Updating a homegrown rail planner app to handle thousands of users and their data in real-time.… https://t.co/2xGfuGWTSj
+1147143345413808100,Fri Jul 05 14:01:01 +0000 2019,AWS Amplify GraphQL Queries with TypeScript and Hooks - Part 2: Custom Hooks by @mwarger   https://t.co/TRpS9x5OlR https://t.co/eV9QHvBqOT
+1146469909284741100,Wed Jul 03 17:25:01 +0000 2019,Using Amplify CLI for adding Auth to your Hasura GraphQL engine by @VladimirNovick   https://t.co/pLREWRhVJA https://t.co/z9x9TIRGee
+1146424108659413000,Wed Jul 03 14:23:01 +0000 2019,Keeping Your Static Content Fresh with Web Hooks in AWS Amplify Console by @kurtiskemple   Learn how to create a st… https://t.co/LKVpfQEUwV
+1146044856638345200,Tue Jul 02 13:16:00 +0000 2019,Query More Items Using Scans in AWS Amplify by @Geromekevin   https://t.co/jqN6UCXgtD https://t.co/f5TgVG5ou1
+1144730197259935700,Fri Jun 28 22:12:01 +0000 2019,New Twitch Event - One up your skills by learning to build an iOS app using the new SwiftUI declarative syntax powe… https://t.co/8W2s872Pf5
+1144636830178041900,Fri Jun 28 16:01:01 +0000 2019,Serverless Gatsby Pipeline with AWS Amplify  https://t.co/XAoGRwyA20 https://t.co/LNSmjr01nt
+1144273437600419800,Thu Jun 27 15:57:01 +0000 2019,Introduction to Lambda Resolvers with AWS Amplify by @mjmrz   https://t.co/ieTDRQz1XY https://t.co/IzO4OQDZUt
+1144221599484260400,Thu Jun 27 12:31:02 +0000 2019,Weekly Amplify Community Contributor spotlight: @geromekevin is a full stack developer building apps with Amplify… https://t.co/pzBa5QNX3v
+1143925143485464600,Wed Jun 26 16:53:01 +0000 2019,Build a real-life serverless app with AWS Amplify by @eltibouron   https://t.co/gUs1sIkCyL https://t.co/7zpZtu0qpw
+1143547903014789100,Tue Jun 25 15:54:00 +0000 2019,Sorting Queries with AWS Amplify's Key Directive by @Geromekevin   https://t.co/4Cel5rgNWe https://t.co/2RUPiSyHBa
+1143152552428679200,Mon Jun 24 13:43:01 +0000 2019,AWS AppSync Tutorial - GraphQL APIs with AppSync, Amplify and Angular by @mjmrz   https://t.co/bVxRK380dL https://t.co/wpnCkMbEU8
+1142062117371174900,Fri Jun 21 13:30:01 +0000 2019,Better IoT with GraphQL and AppSync  https://t.co/s46Pn5KH1p https://t.co/ocH2j6BMQv
+1141729170013261800,Thu Jun 20 15:27:01 +0000 2019,Working with AWS AppSync on iOS  https://t.co/s2rftqZDgY https://t.co/Akb7sn87Vd
+1141347155313119200,Wed Jun 19 14:09:01 +0000 2019,How To Do Authentication using AWS Amplify in iOS by @calin_crist   https://t.co/ZuDK4PfUA9 https://t.co/lEcYGTVwXA
+1140972183432417300,Tue Jun 18 13:19:01 +0000 2019,Deploy a VueJS app with the Amplify Console using AWS CloudFormation  https://t.co/Kzo6CEYOOL https://t.co/bGwkADefGU
+1140681518056190000,Mon Jun 17 18:04:01 +0000 2019,The @AWSAmplify Weekly 23 is out!  Special thanks to contributors @geromekevin, @kubaholek, @hhg2288… https://t.co/oytmJaL6Gj
+1140662666924560400,Mon Jun 17 16:49:06 +0000 2019,Creating Asynchronous Serverless APIs with AWS AppSync by @kubaholak   https://t.co/50qXpB7Zzv https://t.co/2ck1B0D9n4
+1139582025780908000,Fri Jun 14 17:15:02 +0000 2019,Multiple Authorization methods in a single GraphQL API with AWS AppSync: Security at the Data Definition Level by… https://t.co/Astg0InVrC
+1139521371925614600,Fri Jun 14 13:14:01 +0000 2019,AWS Amplify Video  An open source plugin for the Amplify CLI that makes it easy to incorporate video streaming into… https://t.co/kVybiZZ5cp
+1139162516158898200,Thu Jun 13 13:28:03 +0000 2019,SpeakerChat - Open source real-time event q &amp; a platform with markdown support built with GraphQL, React, AWS Ampli… https://t.co/A4EbgRQMkZ
+1138858757641965600,Wed Jun 12 17:21:01 +0000 2019,Deploying and Consuming Serverless Functions with AWS Amplify - AWS Online Tech Talks  https://t.co/PaRLy00GTg https://t.co/EbNHzxeAEl
+1138792320319574000,Wed Jun 12 12:57:01 +0000 2019,Build a voting website that doesn’t crash — part two. Now with AWS Amplify. by @jbesw   How to build a highly scala… https://t.co/M5n0QJfczG
+1138491336938729500,Tue Jun 11 17:01:01 +0000 2019,User Authentication with Amplify in a React Native and @expo app by @amanhimself  https://t.co/0aQWiKToaf https://t.co/WNwvYqbOBE
+1138448804850614300,Tue Jun 11 14:12:01 +0000 2019,Building Serverless Web Applications with React and AWS Amplify  A full 1 day open source workshop for building ful… https://t.co/oPp39ykq3i
+1138121904286572500,Mon Jun 10 16:33:01 +0000 2019,Build a Serverless Startup in Just 30 Minutes  https://t.co/T7jCZQlCLA https://t.co/S64xpwJZwn
+1138067040701468700,Mon Jun 10 12:55:01 +0000 2019,Adding Drop In Authentication to Your Android Apps with AWS Amplify by @kurtiskemple   https://t.co/LYTmrSdruH https://t.co/rctaMKQfPC
+1137028950675402800,Fri Jun 07 16:10:01 +0000 2019,Deploy a GraphQL API with Authentication &amp; Authorization in 8 minutes with AWS Amplify &amp; AWS AppSync by @dabit3… https://t.co/9J25fjQJK6
+1136978871356743700,Fri Jun 07 12:51:01 +0000 2019,We redesigned the Amplify Console's custom domain UI to provide:  1) Clearer status information 2) A troubleshootin… https://t.co/X3f9beQujW
+1136757663130423300,Thu Jun 06 22:12:01 +0000 2019,Invoking &amp; Testing Serverless Functions Locally with AWS Amplify  https://t.co/RE1a8F0GQq https://t.co/an0E23bCig
+1136684934654021600,Thu Jun 06 17:23:01 +0000 2019,Continuous Deployment for Hugo (@GoHugoIO) With AWS Amplify by @thetestlabsio   https://t.co/xl56XY3pjQ https://t.co/8glK75LBdY
+1136358281201557500,Wed Jun 05 19:45:01 +0000 2019,Build your first full-stack serverless app with Angular and AWS Amplify by @gerardsans   https://t.co/CrVBeIwVGU https://t.co/mYehR6WFuG
+1136299895076347900,Wed Jun 05 15:53:01 +0000 2019,"An Intro to the Power of Serverless with AWS Amplify" by @ShortJared on @ThePracticalDev  https://t.co/gCah2saCXR https://t.co/x6IjTsVFS0
+1136285675463094300,Wed Jun 05 14:56:30 +0000 2019,Deploy full stack #serverless apps with our ‘Deploy to Amplify Console’ button.  Checkout our example projects here… https://t.co/Gm1mSlFAmq
+1135997408368873500,Tue Jun 04 19:51:02 +0000 2019,Security and Data in React - Richard Threlkeld aka @undef_obj at @ReactEurope 2019  https://t.co/hnu7eQI9PQ https://t.co/2iLTtQ24c3
+1135963429553016800,Tue Jun 04 17:36:01 +0000 2019,Build a Post activity log using GraphQL, React, &amp; AWS Amplify by @hhg2288   https://t.co/M3z1lxDef1 https://t.co/NPPbQN0wvE
+1135658103121334300,Mon Jun 03 21:22:45 +0000 2019,📬 The @AWSAmplify Weekly Newsletter Issue 21 is out!  Special thanks to our contributors @thetestlabs.io,… https://t.co/8i3ZdTwdYy
+1135649366197309400,Mon Jun 03 20:48:02 +0000 2019,Ten Tips And Tricks for Improving Your GraphQL API with AWS AppSync by @mikeparisstuff  https://t.co/uHzVbGdY8V https://t.co/uLziyz5vIr
+1135570478104490000,Mon Jun 03 15:34:34 +0000 2019,Tracking and Reminders in AWS Amplify by @Geromekevin   Track which features your users use in AWS Amplify and send… https://t.co/FMyNg3yIgp
+1135563043767820300,Mon Jun 03 15:05:02 +0000 2019,Interesting in improving your authentication implementation with AWS Amplify and React?   Check out this new post f… https://t.co/4zFTcJR2eV
+1134198295235104800,Thu May 30 20:42:00 +0000 2019,📣Ⓐⓜⓟⓛⓘⓕⓨ Framework magical updates now available! ➤ 'function' directive for adding a #AWSLambda function as a data… https://t.co/LH8nzjoS9G
+1133702533283754000,Wed May 29 11:52:01 +0000 2019,Connecting an iOS app to an #AmazonAurora Serverless MySQL Data API enabled database via GraphQL API from… https://t.co/wGtUBfQgDQ
+1133501706040500200,Tue May 28 22:34:00 +0000 2019,Learn how to implement Custom Hooks from "AWS Amplify GraphQL Queries with TypeScript and Hooks: Part 2":… https://t.co/krAgUifg28
+1133398274193403900,Tue May 28 15:43:00 +0000 2019,Watch Luke from Serverless Guru walk through building a file creation and hosting website with #AWSAppSync via this… https://t.co/ltNZ6NwfGj
+1133329821080150000,Tue May 28 11:11:00 +0000 2019,Check out @JohnDemian's article "React + GraphQL app with AWS Amplify and AppSync are amazing!"  He builds a server… https://t.co/1IYoFTdGU8
+1131581050080174100,Thu May 23 15:22:00 +0000 2019,User Authentication with Amplify in a React Native and Expo app: https://t.co/zN5Ad9lXnK via @amanhimself
+1131507314060668900,Thu May 23 10:29:00 +0000 2019,Here's a quick high-level overview from @krmarko for accessing and modifying data for mobile apps with AWS AppSync: https://t.co/peF7QR3wYe
+1130955175047376900,Tue May 21 21:55:00 +0000 2019,See how @admah shows how easy it is to create a basic web app with this boilerplate project on Github using protect… https://t.co/fi7YB00cLh
+1130612165591928800,Mon May 20 23:12:00 +0000 2019,Another great YouTube video from Arbaoui at FullStackLibrary shows us how to build with Gatsby and AWS Amplify for… https://t.co/s8nAMGyYHY
+1130533899304677400,Mon May 20 18:01:00 +0000 2019,Serverless authentication with #AWSAmplify and Vuex modules: https://t.co/ktERxePICg via @gregbate
+1130433488853884900,Mon May 20 11:22:00 +0000 2019,Transforming REST APIs to GraphQL with AWS AppSync:  https://t.co/GeEWfLCvBN via @dabit3 https://t.co/Q2ggbgCLxA
+1129451521882677200,Fri May 17 18:20:01 +0000 2019,AWS AppSync now supports multiple authorization modes on a single GraphQL API! 🔥Use schema directives to set the au… https://t.co/fa9f6RI2Yv
+1129374037728256000,Fri May 17 13:12:08 +0000 2019,Amplify Console tip of the day: Add a backend deployed by the #AmplifyConsole to your #AmplifyCLI team-provider.jso… https://t.co/ncCzPjtQtf
+1129104227656228900,Thu May 16 19:20:00 +0000 2019,Considering adding a MySQL database as a datasource to a GraphQL API via AWS AppSync? First, checkout "Getting star… https://t.co/pDyTlA2m2L
+1129021693643710500,Thu May 16 13:52:02 +0000 2019,Make Memes with AWS Amplify: https://t.co/QguI5mCpPK via @TSgt_Green https://t.co/neuRE3LBUt
+1128786639730413600,Wed May 15 22:18:01 +0000 2019,Deploy #fullstack #serverless apps with our ‘Deploy to Amplify Console’ button for #AWSAmplify Console. Checkout ou… https://t.co/E519mY5r1i
+1128265203009904600,Tue May 14 11:46:01 +0000 2019,Check out our community site for AWS Amplify developers built with @gatsbyjs. We’d like to thank all our current co… https://t.co/5YRa3iqwJK
+1127906109744918500,Mon May 13 11:59:06 +0000 2019,The #AWSAmplify Console now supports incoming webhooks. Trigger a build on database triggers, content updates, or a… https://t.co/uPb8e50aYb
+1126553923551223800,Thu May 09 18:26:00 +0000 2019,The Amplify Community Site had a strong first week. We now have 27 contributors! 💯This site is for you as a place t… https://t.co/azOjnvWJ8Q
+1126474651809538000,Thu May 09 13:11:00 +0000 2019,Have you tried the new webhooks feature with #AWSAmplify Console? Learn how you can use headless CMS tools such as… https://t.co/OqzTtEILmi
+1126110501824602100,Wed May 08 13:04:00 +0000 2019,Read how @mwarger leverages the power of TypeScript and Hooks to create GraphQL queries using #AWSAmplify: https://t.co/ZUkHWv0n9i
+1125901128485437400,Tue May 07 23:12:01 +0000 2019,See how @kubaholak wrote a @SlackHQ bot in a single night using #AWSAppSync and #Amplify: https://t.co/bxxJaOqWha
+1125857082987749400,Tue May 07 20:17:00 +0000 2019,The Complete Guide to User Authentication with the Amplify Framework: https://t.co/lUiQPvuTAC via @dabit3
+1125453675110064100,Mon May 06 17:34:00 +0000 2019,Another great Beginner Guide article from @prashanth for adding a backend to your @reactjs project: https://t.co/n1jdpG8R9B
+1125357288645169200,Mon May 06 11:11:00 +0000 2019,Video: S2 E1 of Twitch series Build on Serverless is now available on YouTube. @heitor_lessa &amp; @ednergizer  walk th… https://t.co/4Uqrf3h006
+1125280029473157100,Mon May 06 06:04:00 +0000 2019,Want more granular control using groups to manage your Cognito User Pool users? @BeaveArony shows us how: https://t.co/3dOXxUd03y
+1124456103079755800,Fri May 03 23:30:01 +0000 2019,Hey, Amplify Community! The team is looking for feedback on Amplify GraphQL Transformers for those customers using… https://t.co/I05nkd2bx7
+1123950520526409700,Thu May 02 14:01:00 +0000 2019,🚀 The community site for @AWSAmplify is now live!  It provides devs building fullstack serverless apps easy access… https://t.co/V1684NZE5P
+1123928374173417500,Thu May 02 12:33:00 +0000 2019,Want to integrate a serverless MySQL database as a data source for your GraphQL API?! Here's all you need to know a… https://t.co/wNTfKMNWoK
+1123651801578967000,Wed May 01 18:14:00 +0000 2019,Learn how to quickly build and integrate a #serverless @ReactJS application with @crowdbotics using #Amplify:… https://t.co/DJECeRpnh8
+1123560705825878000,Wed May 01 12:12:01 +0000 2019,Sample Project Code: Safe content uploads using #Amplify for NSFWJS: https://t.co/eQOkthhSkp via @kurtiskemple https://t.co/UvGqpO6CXp
+1123285134919249900,Tue Apr 30 17:57:00 +0000 2019,Did you know there's a #Serverless Framework plugin for AWS AppSync? @Benoit_Boure walks through the Top 10 importa… https://t.co/VSD2ISbJLD
+1123202591217860600,Tue Apr 30 12:29:00 +0000 2019,Video: Adding "Login with Amazon" for #iOS as a 3rd party identity provider to any mobile app using the #Amplify CL… https://t.co/HFNIpa9wHh
+1123030714289676300,Tue Apr 30 01:06:01 +0000 2019,Want to test your apps on Android devices without writing a single line of code? @kurtiskemple shows us how to set… https://t.co/g7IdS3ME1i
+1122985413688401900,Mon Apr 29 22:06:01 +0000 2019,Another great demo app and source code from @dabit3 to showcase the power of GraphQL, AWS AppSync, &amp; AWS Amplify. R… https://t.co/6p4mczb7fk
+1122954206678220800,Mon Apr 29 20:02:01 +0000 2019,Vladimir @VladimirNovick shows us how to add auth to a Hasura GraphQL engine using the #Amplify CLI: https://t.co/vOpA5XogTc
+1122155466329608200,Sat Apr 27 15:08:06 +0000 2019,Waiting on CDN cache invalidations slows down development time. The #AmplifyConsole has CDN hosting with instant ca… https://t.co/pK5MPGU8al
+1121906802138869800,Fri Apr 26 22:40:00 +0000 2019,Blog: How to add a Cache Layer to a #Serverless GraphQL #AWSAppSync API: https://t.co/Rv6hLrwkzL via @yia333
+1121807902707261400,Fri Apr 26 16:07:00 +0000 2019,[New feature announcement] The #AWSAmplify Console now supports custom HTTP headers! Add custom headers to deployed… https://t.co/2mJr7sBNJP
+1121672262686351400,Fri Apr 26 07:08:01 +0000 2019,The #AWSAmplify Console offers hosting for fullstack serverless web apps. Deploy @dabit3's real-time collaborative… https://t.co/ictuAFnGzO
+1121479489706504200,Thu Apr 25 18:22:01 +0000 2019,AWS Amplify Console has added the one-click button to the fullstack @reactjs #createreactapp Auth sample. After you… https://t.co/zVfwPCvO3k
+1121424376941961200,Thu Apr 25 14:43:01 +0000 2019,Video: 🎞Continuous Git-based deployment &amp; hosting with #React &amp; the #AWSAmplify Console: https://t.co/TzcgpfnNZi) via @dabit3
+1121175236274196500,Wed Apr 24 22:13:01 +0000 2019,The #AWSAmplify Console is now available in 11 AWS Regions - connect your repo in the closest region to get started… https://t.co/joLjgHnAtM
+1121114584314712000,Wed Apr 24 18:12:00 +0000 2019,Video: 🎞Add Google Sign-In for iOS using Amplify Framework and Amazon Cognito: https://t.co/bmLXb8EFZm) via @dmennis
+1121053936155283500,Wed Apr 24 14:11:01 +0000 2019,Everything is #AWSOME when you can invoke AWS Services directly from #AWSAppSync using HTTP Resolvers! 💯… https://t.co/XNBWvcHLgh
+1120680979536982000,Tue Apr 23 13:29:01 +0000 2019,Slidedeck from @gerardsans #GraphQLAsia Angular workshop "Fullstack Serverless with AWS Amplify":… https://t.co/yTEXnGRACT
+1120449952214331400,Mon Apr 22 22:11:00 +0000 2019,Blog: Sending email via Amazon SES by invoking SES directly from #AWSAppSync HTTP Resolvers deployed via the… https://t.co/ET4wPSxt8u
+1120380998376673300,Mon Apr 22 17:37:00 +0000 2019,AWS Hero Blog Contribution: "Safely validating usernames with Amazon Cognito": https://t.co/gSrGz0r4ST via @ogrodnek
+1120309280270319600,Mon Apr 22 12:52:01 +0000 2019,@dabit3 shows us how we can add a custom domain to an #AWSAmplify Console deployment in just a couple of minutes!… https://t.co/FWpDdvmuyf
+1120046800734425100,Sun Apr 21 19:29:01 +0000 2019,Don't miss our #Twitch Live Series: "Build On Serverless" starting April 24! @heitor_lessa and others build a full-… https://t.co/5qE1R4HjAb
+1119290906920800300,Fri Apr 19 17:25:22 +0000 2019,How do you choose your #MachineLearning or #AI solution for mobile apps? @dmennis just published "4 Ways to Machine… https://t.co/XrZQjhWrtN
+1118502371909427200,Wed Apr 17 13:12:00 +0000 2019,Adding authentication to your #Angular Material &amp; #AWSAmplify powered #PWA: Part 2  https://t.co/myPh9NWLKU via @mlabieniec
+1118221023395106800,Tue Apr 16 18:34:02 +0000 2019,As part of the "Angular with NX multi-app project Backend series" @BeaveArony has published part 3: Personal Growth… https://t.co/ZOZkrF4UAt
+1118113309197307900,Tue Apr 16 11:26:01 +0000 2019,Demo project code from @YounesH1989. A picture sharing app with @expo, #ReactNative, @apollographql, and… https://t.co/ox6kQdgQd3
+1117936151921332200,Mon Apr 15 23:42:03 +0000 2019,Deploy a @gatsbyjs site to the #AWSAmplify Console with one click: https://t.co/8pDjOenc5x via @dabit3 https://t.co/ndMQbABmRV
+1117777345727926300,Mon Apr 15 13:11:01 +0000 2019,Fullstack serverless example projects are now available on the Getting Started page for #AWSAmplify Console. We hav… https://t.co/vu4Qlk33zh
+1116831610480025600,Fri Apr 12 22:33:00 +0000 2019,An opinion piece from @txase: "The Future of Serverless is...Functionless?" https://t.co/IVMg2hbwqa
+1116780273100820500,Fri Apr 12 19:09:00 +0000 2019,Checkout @cbartling demonstrate the use of Vue.js, vue-chartjs and Chart.js to plot the simple moving average data… https://t.co/LYy3Hb9BCC
+1116456895269756900,Thu Apr 11 21:44:01 +0000 2019,📣 A new #AWSAmplify CLI Plugin available that takes you directly to the docs for a specific #Amplify supported cate… https://t.co/yID5u9zCuJ
+1116393725633204200,Thu Apr 11 17:33:00 +0000 2019,GraphQL Serverless Real-Time Reference Architecture with #AWSAppSync: https://t.co/1WkdxcCfzq via @ednergizer
+1116315486793416700,Thu Apr 11 12:22:06 +0000 2019,Need to quickly check your mobile app on real Pixel devices? #AWSDeviceFarm has you covered for manual testing on P… https://t.co/kCyctY6xzI
+1116027311726452700,Wed Apr 10 17:17:00 +0000 2019,Blog: #AWSAmplify Auth &amp; Angular RxJS Simple State Management by @BeaveArony https://t.co/pIxiqfVYGx
+1115968172912410600,Wed Apr 10 13:22:00 +0000 2019,Learn how @alexbdebrie built a chat application using #AWSAppSync and the #Serverless Framework: https://t.co/7xbwNNQeKC
+1115732116308934700,Tue Apr 09 21:44:00 +0000 2019,Want to deploy passwordless SMS authentication for your app? Check out this fully-functional backend solution that… https://t.co/BynAeFQq1m
+1115684300287094800,Tue Apr 09 18:34:00 +0000 2019,Build a dead-simple AWS GraphQL API — Part 2: Amplify UI Components by @mim_armand https://t.co/zeo7RkAFse
+1115627426577514500,Tue Apr 09 14:48:00 +0000 2019,Your community advocate, @dabit3 shows us how to build a real-time collaborative markdown editor with #Reactjs Hook… https://t.co/1MMBQW9N2r
+1115533561166204900,Tue Apr 09 08:35:01 +0000 2019,Looking to build out your #GraphQL API but want to see some real use cases? @ednergizer has put together a great li… https://t.co/4VXDRjQKOd
+1115413164508753900,Tue Apr 09 00:36:36 +0000 2019,Creating a Quasar Framework application with #AWSAmplify: A 4-part in-depth series by Michael Freeman. https://t.co/LGatwIvSxY
+1115309211037122600,Mon Apr 08 17:43:32 +0000 2019,The #AWSAmplifyConsole is now available in 5 additional regions - Asia Pacific (Tokyo), Asia Pacific (Seoul), Asia… https://t.co/5h8QeM0UiP
+1115295739964477400,Mon Apr 08 16:50:00 +0000 2019,📣AWS AppSync now supports calling AWS services directly via HTTP data sources. Josh Kahn walks through this power f… https://t.co/06hOUTgkcS
+1113961702230581200,Fri Apr 05 00:29:00 +0000 2019,The #AWSAmplify Console is now available in our Asia Pacific (Tokyo) 🇯🇵region! https://t.co/RrpKhlHDDi https://t.co/N2QUlNfsiM
+1113879434795335700,Thu Apr 04 19:02:06 +0000 2019,#Amplify Framework announces simplified configuration for: ✓ OAuth flows ✓ Hosted UI ✓ AR/VR scenes ✓ CRUD style pe… https://t.co/Nq7WlylqgD
+1113779498707759100,Thu Apr 04 12:25:00 +0000 2019,Passwordless SMS Authentication: Backend -- @dmennis has created a one-click AWS Amplify, AWS Serverless Applicatio… https://t.co/tJq3PqpztB
+1113537403816415200,Wed Apr 03 20:23:00 +0000 2019,What do you use to deploy projects quickly? Elohina from Wipro Dublin studio shows us how to use AWS Amplify Consol… https://t.co/1kiKX4qLNA
+1113489339596595200,Wed Apr 03 17:12:00 +0000 2019,Blog: Check out @BeaveArony's 2-part series - Getting started with a Angular/NX workspace backed by an AWS Amplify GraphQL API.
+1113361495008608300,Wed Apr 03 08:44:00 +0000 2019,Introducing AWS Amplify Video 📣 An open source plugin for #Amplify CLI that makes it easy to incorporate video stre… https://t.co/MS45Jhhs79
+1113307640598270000,Wed Apr 03 05:10:00 +0000 2019,Full video course on Ⓐⓜⓟⓛⓘⓕⓨ forｉＯＳ on #Udemy - Learning #AWSAppSync with #Amplify: https://t.co/bfBNJaWOyt by instructor Lyju Edwinson
+1113126700697686000,Tue Apr 02 17:11:00 +0000 2019,Great article on setting up continuous testing with #AWSDeviceFarm and #Jenkins: https://t.co/1tgGuZZD4c via @sbazingar
+1113047173665579000,Tue Apr 02 11:55:00 +0000 2019,Don't miss! AWS AppSync Velocity Templates Guide: https://t.co/y6R6RdIxpk) via @gerardsans 💯
+1112974699108163600,Tue Apr 02 07:07:00 +0000 2019,Build production-ready #fullstackserverless apps with the #AWSAmplify Console. Use feature branch deployments for p… https://t.co/25jZTq6ysj
+1112842576996991000,Mon Apr 01 22:22:00 +0000 2019,Creating #GraphQL Batch Operations for #Amplify with #AWSAppSync and #AmazonCognito: https://t.co/urAn39mfJK via @Geromekevin
+1112772618187411500,Mon Apr 01 17:44:01 +0000 2019,@rdickert shows you how to set up serverless Apollo on AWS using #Amplify: https://t.co/35ILZ2AydI
+1112704164319109100,Mon Apr 01 13:12:00 +0000 2019,Video: A great conf talk at OK GROW! by @undef_obj on AWS AppSync and Amplify - History and Deep Dive: https://t.co/BSSVb6u2Th
+1112508383960158200,Mon Apr 01 00:14:02 +0000 2019,Deploy #fullstack #serverless apps using the #AWSAmplify Console. Looking for an example? Check out our… https://t.co/h8NkCWT4t3
+1110964953631125500,Wed Mar 27 18:01:00 +0000 2019,🎓 Workshop ❝UnicornTrivia❞ - a live streaming trivia application using #AWSAmplify and Amplify Video!… https://t.co/m3HpsPyBOO
+1110892224894697500,Wed Mar 27 13:12:00 +0000 2019,✍ Amplify for Teams — Part 2: GitFlow ➤ https://t.co/P44T0yKbN4 via @kurtiskemple
+1110607598515032000,Tue Mar 26 18:21:00 +0000 2019,A simple GraphQL API Tutorial using #AWSAppSync: https://t.co/wDy9pnLrA7 via @mim_Armand
+1110572366848016400,Tue Mar 26 16:01:00 +0000 2019,🎼 Building a Real-time Collaborative Beatbox with React &amp; GraphQL: https://t.co/6b7w9b5jEg via @dabit3 and inspired by @ken_wheeler
+1110519274186178600,Tue Mar 26 12:30:02 +0000 2019,Got 10 minutes? Deploy a @reactjs #createreactapp on the #AWSAmplify Console following this step-by-step tutorial 🎓… https://t.co/xaCCXatPvw
+1110516778122309600,Tue Mar 26 12:20:06 +0000 2019,Test your #Android and web apps on real Galaxy S10, S10e and S10+ devices by interacting with them right from your… https://t.co/yLi8br6pJu
+1110310390267854800,Mon Mar 25 22:40:00 +0000 2019,Source Code Project: @YounesH1989 has built this great #ReactNative authentication app for #AWSAmplify: https://t.co/hYpqkkoCD0
+1110263611207966700,Mon Mar 25 19:34:07 +0000 2019,The #AWSAmplify Console provides CDN hosting with instant deploys. ❝git push❞ ➤ live changes immediately after your… https://t.co/hm7ygMx2iG
+1109060910461653000,Fri Mar 22 11:55:01 +0000 2019,If you haven't heard...AWS has joined the GraphQL Foundation! https://t.co/l0vkS7Icdp https://t.co/wHUjpDBbc2
+1108702547479617500,Thu Mar 21 12:11:00 +0000 2019,Getting into #GraphQL with #AWSAppSync: https://t.co/0GOjo7bOjK via @dabit3
+1108355510733078500,Wed Mar 20 13:12:00 +0000 2019,Email Only Sign Up With #AWSAmplify: https://t.co/5EsruHR9mv via @Geromekevin
+1108073905149935600,Tue Mar 19 18:33:00 +0000 2019,Amplify Framework adds authentication features and enhancements for iOS and Android Mobile SDKs: https://t.co/uPOxROSa66
+1107990607472005100,Tue Mar 19 13:02:00 +0000 2019,#Reactjs in a #Serverless World with #AWSAmplify and #AWSAppSync: https://t.co/pEL2D6lKlx via @TomRBowden
+1107761028119625700,Mon Mar 18 21:49:44 +0000 2019,Real-time Collaborative Drawing with #GraphQL &amp; #AWSAppSync: https://t.co/xFzN44fQDA via @dabit3
+1107399711315689500,Sun Mar 17 21:54:00 +0000 2019,There's now a plugin to migrate existing AWS Mobile Hub projects to #AmplifyFramework CLI: https://t.co/PARyYgXCz8
+1106630284265562100,Fri Mar 15 18:56:34 +0000 2019,The #AWSAmplify Console is built for high performance. Push updates to a global CDN instantly without giving up web… https://t.co/NE9mGTcjqM
+1106539293198217200,Fri Mar 15 12:55:00 +0000 2019,📢#Amplify Framework Native Libraries adds new and enhanced auth features for #iOS and #Android: ✔ Developer Authent… https://t.co/xNjioapQoU
+1106515889644552200,Fri Mar 15 11:22:00 +0000 2019,How to Build Production-ready Vue Authentication: https://t.co/3gycJAToRj via @dabit3
+1105972305358975000,Wed Mar 13 23:22:00 +0000 2019,#AmplifyFramework adds OAuth and Hosted Web UI support for #ReactNative and #Expo: https://t.co/x0RLEEwLtq
+1105924493388730400,Wed Mar 13 20:12:00 +0000 2019,Here's to a beginner-friendly mobile backed using #AWSAppSync: https://t.co/FrkEcmHhRy via @andreaswittig
+1105815023790755800,Wed Mar 13 12:57:01 +0000 2019,📢PSA to large websites: #AWSAmplify Console now supports delta deployments - only modified files are redeployed on… https://t.co/1p8yTC9wp7
+1105514038501482500,Tue Mar 12 17:01:00 +0000 2019,We are excited to announce that AWS is now part of the GraphQL Foundation, and we can’t wait to help the Foundation… https://t.co/Agy0M3Mz6p
+1105087754298425300,Mon Mar 11 12:47:06 +0000 2019,The #AWSAmplify Console now supports instant cache invalidation, see your changes immediately after every ‘git push… https://t.co/CNhf8KS2pJ
+1104080842396233700,Fri Mar 08 18:06:00 +0000 2019,Video: Secure S3 uploading configured with Amplify. Check out Manoj's final episode of building a Profile App 3-par… https://t.co/wVWOn6eg86
+1104016924906803200,Fri Mar 08 13:52:01 +0000 2019,📬#AWSAmplify Console adds support for instant cache invalidation! See updates to your web app instantly on every ‘g… https://t.co/tWOtYfp9JA
+1103670642426171400,Thu Mar 07 14:56:01 +0000 2019,Blog: Going #serverless with ReactJS and #AWSAmplify (Part 3) - Tracking App Usage: https://t.co/VcBZNAzX3J via @p_mbanugo
+1103669132795568100,Thu Mar 07 14:50:01 +0000 2019,Blog: Building an Android app with #AWSAmplify: https://t.co/Wle4x9wU80
+1103468054216933400,Thu Mar 07 01:31:00 +0000 2019,Want to provide feedback for #GraphQL on #AWSAppSync? Or see what other devs are talking about when building APIs?… https://t.co/yRVnQYHb9J
+1103394068078444500,Wed Mar 06 20:37:00 +0000 2019,AWS Summit #Berlin Speaker Deck: Cutting-Edge Architectures Based on #AWSAppSync, #AWSLambda, and #AWSFargate:… https://t.co/lWyw4XAdiy
+1103301461360951300,Wed Mar 06 14:29:01 +0000 2019,Migrate your existing AWS Mobile Hub project to #Amplify CLI with the #MobileHubMigrator plugin:… https://t.co/kyOUgfA3sO
+1103067918596755500,Tue Mar 05 23:01:00 +0000 2019,Sample Project: A bootstrapped #CreateReactApp TODO app with material UI React Library and #Amplify Framework:… https://t.co/qJCR54m8jR
+1103010288033583100,Tue Mar 05 19:12:00 +0000 2019,Destroying Backends with Amplify — AppSync GraphQL API (part 2 of 3): https://t.co/jYXsfHs2rg via @jorgenlybeck
+1102933283539701800,Tue Mar 05 14:06:00 +0000 2019,Blog: Integrate analytics into your Android Kotlin applications with #AWSAmplify https://t.co/68vTnUBrdb
+1102640602959745000,Mon Mar 04 18:43:00 +0000 2019,How to implement TOTP authentication with React &amp; #Amplify Framework: https://t.co/y5v9oghmvN via @prashanth
+1102577689909776400,Mon Mar 04 14:33:00 +0000 2019,Blog: #Amplify for teams - Part I: Centralized Workflows: https://t.co/Nrs18BCfWf via @kurtiskemple
+1101868014805413900,Sat Mar 02 15:33:01 +0000 2019,Publishing your next @GatsbyJS site with #AWSAmplify Console: https://t.co/shuOdiJKLf https://t.co/POYMTodKd7
+1101653243841646600,Sat Mar 02 01:19:35 +0000 2019,Cool feature alert: Add a [skip-cd] tag to your git commit message to skip a build when using the #AWSAmplify Conso… https://t.co/O9IpoK3PCR
+1101486248168968200,Fri Mar 01 14:16:00 +0000 2019,Just starting out with @reactjs? Check out this https://t.co/oZmY2raNYx tutorial: Building Serverless Web Applicati… https://t.co/TTh8Shxc4V
+1101126629085118500,Thu Feb 28 14:27:00 +0000 2019,AWS Amplify Console is now available in the EU (London) Region! https://t.co/gRS77AkSuC
+1100886798044225500,Wed Feb 27 22:34:00 +0000 2019,Serverless Functions: In-depth. Create a REST API of another API using #Amplify CLI: https://t.co/RhXs6cuKGC via @dabit3
+1100775060242133000,Wed Feb 27 15:10:00 +0000 2019,Video: Developing Well Architected iOS Apps with AWS: https://t.co/OsKGc4Yljc
+1100545548116025300,Tue Feb 26 23:58:00 +0000 2019,Get started with testing your JavaScript apps with Mocha in 5 minutes! https://t.co/Q7wKp1EXrd via @anfield27
+1100485940634681300,Tue Feb 26 20:01:08 +0000 2019,#AWSAppSync is looking for feedback on an upcoming feature for adding multiple auth types in a single #GraphQL API.… https://t.co/CvGPGvoAec
+1100406383084740600,Tue Feb 26 14:45:00 +0000 2019,Blog: Using #AWSLambda data sources with #AWSAppSync: https://t.co/6NisrlPuyO via @mwarger
+1100117476942233600,Mon Feb 25 19:37:00 +0000 2019,Did you know that the #Amplify CLI supports 3rd party plugins? You can build great plugins like this one for deploy… https://t.co/auN8kmBpvR
+1099948868295422000,Mon Feb 25 08:27:00 +0000 2019,Basic Authentication for iOS using #AWSAmplify and Amazon Cognito: https://t.co/SnAWAZjEOP via @dmennis
+1098942235540930600,Fri Feb 22 13:47:00 +0000 2019,A step-by-step tutorial for building #serverless apps with #AmplifyCLI and deploying via #AWSAmplify Console:… https://t.co/JmDdhZWjP9
+1098739145617391600,Fri Feb 22 00:20:00 +0000 2019,Yes. #Amplify framework recently added support for: ✅Multiple environments (dev/prod-able) ✅Custom resolvers for… https://t.co/ujyQWSWC4y
+1098584630624768000,Thu Feb 21 14:06:01 +0000 2019,📬New #AWSAmplify Console tutorial! Set up feature branch deployments with the #AmplifyCLI for teams using #gitflow… https://t.co/kI8Lh8uHCS
+1098352598841811000,Wed Feb 20 22:44:00 +0000 2019,Learn how @nathangloverAUS built and hosted a résumé using #AWSAmplify Framework and #AWSAppSync: https://t.co/lmrzoEVVQk
+1098295472312209400,Wed Feb 20 18:57:00 +0000 2019,Blog: Calling #AWSAppSync, or any #GraphQL API from #AWSLambda (Part 1): https://t.co/TqNVDBrNJg via @peter_dyer
+1098219475189547000,Wed Feb 20 13:55:01 +0000 2019,Using @drupal as your CMS? @JesusLarrubia walks through how to trigger an #AWSAmplify Console build via #AWSLambda… https://t.co/Syf5tzTsLs
+1097544273250189300,Mon Feb 18 17:12:00 +0000 2019,Blog: Fully managed, zero-config pipeline for building and deploying a blog using the #AWSAmplify Console: https://t.co/X46MAJSsP7 via @zoph
+1096538143065555000,Fri Feb 15 22:34:00 +0000 2019,Blog: Going #serverless with @reactjs and #Amplify (Part 2): Creating And Using Serverless Services https://t.co/8h06aqjdoN via @p_mbanugo
+1096480262215663600,Fri Feb 15 18:44:00 +0000 2019,Blog: Merge two #GraphQL APIs at the same level (#AWSAppSync/@github) https://t.co/HU8cnNLixP via @Hiroyuki_OSAKI
+1096199913984192500,Fri Feb 15 00:10:00 +0000 2019,Blog: @coryschimm says it "...feels like cheating..." when using #Amplify to build a mood tracking app.  https://t.co/uzWlzqtcb5
+1096052695750885400,Thu Feb 14 14:25:00 +0000 2019,Working on an alpha feature for your production site? #AWSAmplify Console now supports adding subdomains only. Conn… https://t.co/2fZzTSz6hE
+1095825445403181000,Wed Feb 13 23:22:00 +0000 2019,Video: Watch @mjmrz build an offline TODO #Angular app using #AWSAppSync. Let's Build an Offline Web App (AWS AppSy… https://t.co/oB7CXWVpBO
+1095792228323287000,Wed Feb 13 21:10:00 +0000 2019,#Amplify framework adds support for: ✅Multiple environments ✅Custom resolvers for #AWSAppSync ✅larger data models ✅… https://t.co/RYxkImNQqv
+1095771417247924200,Wed Feb 13 19:47:18 +0000 2019,The #AWSAmplify Console now supports continuous deployment of #serverless backends created with the #Amplify CLI. F… https://t.co/0jx4LTurB0
+1095683008328290300,Wed Feb 13 13:56:00 +0000 2019,Blog: Building JAMstack applications with @gatsbyjs and the #Amplify framework https://t.co/fZX0XgTHSS via @kurtiskemple
+1095477153095999500,Wed Feb 13 00:18:00 +0000 2019,Learn how #AWSAmplify Console automatically detects build settings for @GoHugoIO apps and deploys feature branches… https://t.co/jbaUUOCTIa
+1095476651218092000,Wed Feb 13 00:16:01 +0000 2019,App Sample: "Chatt" A real-time offline-ready @reactjs chat app showcasing:  ✅#AWSAppSync #GraphQL API ✅Authenticat… https://t.co/zVJfkvdi0i
+1095442673979310100,Tue Feb 12 22:01:00 +0000 2019,Blog: Ask an engineer. @FizzyInTheHall asks, "Where do you start with GraphQL?" He asked 4 engineers, including… https://t.co/AJHKKe07Sq
+1095388317397536800,Tue Feb 12 18:25:00 +0000 2019,Testing mobile apps across hundreds of real devices with Appium, Node.js, and #AWSDeviceFarm: https://t.co/fT7d73JCLu via @dabit3
+1095318886457753600,Tue Feb 12 13:49:07 +0000 2019,Checkout the #Amplify @reactjs #createreactapp auth starter that gives you: ✅Sign-in  ✅Sign-up  ✅Multi-factor auth… https://t.co/lMnlNer5ku
+1095210902255792100,Tue Feb 12 06:40:01 +0000 2019,#AWSAppSync is now available in EU (London) Region: https://t.co/M4MppEzLT9
+1094268941160104000,Sat Feb 09 16:17:00 +0000 2019,Sample App: Build a fully functional #WhatsApp like app using @reactjs (Hooks+Suspense), #GraphQL, #Apollo, TypeScr… https://t.co/SKBISEcMD8
+1094001175123365900,Fri Feb 08 22:33:00 +0000 2019,Should you consider #GraphQL for your next Application? @snvishna walks us through "What in REST, How in GraphQL": https://t.co/peBZ75LmLD
+1093870816100565000,Fri Feb 08 13:55:00 +0000 2019,Video (Twitch): Start Building with #AWSAmplify &amp; AWS Elastic Beanstalk https://t.co/hag0oEOO73 via @amsxbg &amp; @nicki_23
+1093589462104371200,Thu Feb 07 19:17:00 +0000 2019,App Sample: Build a Serverless Tweeting app with React Native and #AWSAmplify (Part 1): https://t.co/qXJCgg5hZx via Younes Henni
+1093520761111883800,Thu Feb 07 14:44:00 +0000 2019,Blog: Raoul Meyer writes about #AWSAppSync as "...Basically GraphQL as a service": https://t.co/kynGv7MJEY
+1093294017780043800,Wed Feb 06 23:43:00 +0000 2019,Learn how the Nordcloud team built a roadmapper tool in just 3 hrs using #AWSAmplify and CI/CD pipelines:… https://t.co/klrHzbP5uT
+1093155605446049800,Wed Feb 06 14:33:00 +0000 2019,Blog (opinion): What @AWSCloud service should you use to publish a web site? https://t.co/QUB4iLZ5un via @FizzyInTheHall
+1092923327814008800,Tue Feb 05 23:10:01 +0000 2019,Loving how easy @VuePress makes writing beautiful docs?! Now continuously deploy your #VuePress app with zero confi… https://t.co/YSP2C45gY1
+1092863931910180900,Tue Feb 05 19:14:00 +0000 2019,VR Tutorial: Getting Started with Amazon Sumerian, #AWSAmplify, and the React Component: https://t.co/DCUe3WEO73
+1092796744176414700,Tue Feb 05 14:47:01 +0000 2019,Two-Way SMS with Amazon Pinpoint: https://t.co/kS2mB3Tf14 via @dmennis https://t.co/RUxvPNBAMY
+1092545585431920600,Mon Feb 04 22:09:00 +0000 2019,Blog: Learn how Vien is building a new app for viewing/sharing sports stats, box scores, photos, and more using… https://t.co/4k6Gus9gz1
+1092487200170823700,Mon Feb 04 18:17:00 +0000 2019,Continuously deploy a @reactjs #SPA using the #AWSAmplify Console in 4 steps. Amplify automatically detects build s… https://t.co/Nvii6QvQ6P
+1091413376478208000,Fri Feb 01 19:10:01 +0000 2019,Working with multiple dev teams across AWS accounts? Life just got easier. The #AWSAmplify CLI now supports IAM rol… https://t.co/4DUjt4akTc
+1091129003111575600,Fri Feb 01 00:20:01 +0000 2019,Learn how @peter_dyer builds a contrived ToDo @reactjs app leveraging #AWSAmplify and #AWSAppSync: https://t.co/xLxqZFJa5E
+1091048751244951600,Thu Jan 31 19:01:07 +0000 2019,New feature: You can now skip a build in the #AWSAmplify Console by adding a [skip-cd] tag to your git commit messa… https://t.co/Sn3VYDqyWk
+1090987066232586200,Thu Jan 31 14:56:00 +0000 2019,Streaming near real-time data from a native iOS mobile app using Amazon’s oldest cloud service: https://t.co/2TVqTkwXZo via @dmennis
+1090796473401397200,Thu Jan 31 02:18:39 +0000 2019,The #AWSAmplify #Auth starter is now available on the @gatsbyjs starter library. Check it out:… https://t.co/MROefNGwmH
+1090626189096570900,Wed Jan 30 15:02:00 +0000 2019,Blog: Building a chat application using #AWSAppSync and #Serverless framework: https://t.co/FqxgVbj2rn via @alexbdebrie
+1090395166849028100,Tue Jan 29 23:44:00 +0000 2019,Check out this sample @reactjs chat PWA repo using #AWSAppsync. Built and deployed with #AWSAmplify Console:… https://t.co/xBsWxtvQD0
+1090336280179818500,Tue Jan 29 19:50:01 +0000 2019,Another awesome visual guide from @awsgeek. #AWSAppSync managed #GraphQL: https://t.co/ggDeKT6CIt
+1090253735887061000,Tue Jan 29 14:22:01 +0000 2019,Build and publish a Jekyll powered blog easily with #AWSAmplify Console: https://t.co/OdV1sNnENz via @FizzyInTheHall
+1090038343872725000,Tue Jan 29 00:06:07 +0000 2019,New feature: #AWSAmplify Console generates clean URLs for @GoHugoIO or @jekyllrb SSG's. For example, 'domaindotcom/… https://t.co/xTJT49Aelt
+1088955177988771800,Sat Jan 26 00:22:00 +0000 2019,Building a simple @Vuejs SPA with Amazon Cognito authenticated users to securely upload anything to Amazon S3 via… https://t.co/MGy4NZ9TfX
+1088891761160638500,Fri Jan 25 20:10:01 +0000 2019,Learn how to deploy your next @gatsbyjs site to AWS using the #AWSAmplify Console: https://t.co/HlxTs6RziQ via @dabit3
+1088804183908773900,Fri Jan 25 14:22:01 +0000 2019,Automatically generate clean URLs for @GoHugoIO or @jekyllrb SSG's with the #AWSAmplify Console (e.g.… https://t.co/B1mTKK5LVb
+1088596106714533900,Fri Jan 25 00:35:11 +0000 2019,We are looking for some feedback on an RFC around enhancing the auth setup in the #AWSAmplify CLI. Some ideas: • Ho… https://t.co/p1WPFMekrJ
+1088443557910904800,Thu Jan 24 14:29:01 +0000 2019,Using #AWSAppsync and #AWSAmplify with @Vuejs: https://t.co/bZS0j9LzX3 via @AndrewSTrigg1
+1088201489540100100,Wed Jan 23 22:27:07 +0000 2019,Working on a new web feature you want to share privately? Password-protect your web deployments on the #AWSAmplify… https://t.co/NFdRBGIPNB
+1088152641065107500,Wed Jan 23 19:13:01 +0000 2019,Thinking about building a native @Android app with #AWSAmplify &amp; #AWSAppSync? Check out this landmark tracking app… https://t.co/CoxYIfLzTX
+1088073115224166400,Wed Jan 23 13:57:00 +0000 2019,Creating #Reactjs hooks for #GraphQL queries: https://t.co/eFKP05tswp via @stefan41
+1087881856668835800,Wed Jan 23 01:17:01 +0000 2019,(Opinion) How serverless technologies are changing what it means to be a full-stack developer: https://t.co/qXEvlgjX6s via @dabit3
+1087821207234363400,Tue Jan 22 21:16:01 +0000 2019,The three ways to execute a #GraphQL query from #Reactjs with #AWSAppSync (and how to choose): https://t.co/pT5X0T6LfU via @FizzyInTheHall
+1087719787784998900,Tue Jan 22 14:33:00 +0000 2019,Dive deep into Amazon SQS to transmit any volume of data, at any level of throughput for mobile and web developers.… https://t.co/oJzPdaK7Jw
+1086368380486148100,Fri Jan 18 21:03:00 +0000 2019,#AWSAppSync supports Amazon Aurora Serverless natively but you can also BYO #AWSLambda function as a data source to… https://t.co/yGMoOfOYjP
+1086275019129278500,Fri Jan 18 14:52:01 +0000 2019,Learn more about building @reactjs apps with #AWSAmplify in this @udemy video tutorial course: https://t.co/VSZkTKw9FG via Reed Barger
+1086060854368485400,Fri Jan 18 00:41:00 +0000 2019,Run &amp; test a sample application across hundreds of real devices on #AWSDeviceFarm using Node.js, Appium, and a bit… https://t.co/WQEwxTLnL3
+1085996432019124200,Thu Jan 17 20:25:00 +0000 2019,Checkout this useful guide on deploying and hosting your @gatsbyjs site using the #AWSAmplifyConsole.… https://t.co/JB2BIRpYuE
+1085902561134047200,Thu Jan 17 14:12:00 +0000 2019,Have existing APIs you want to merge with your #AWSAppSync data layer? Check out this #GraphQL #SchemaStitching sol… https://t.co/q3nxab8ayK
+1085658454767788000,Wed Jan 16 22:02:00 +0000 2019,Going serverless with React and AWS Amplify? Check out this blog to learn how to setup your development environment… https://t.co/W1TgucOjqL
+1085625106657890300,Wed Jan 16 19:49:30 +0000 2019,Intro to AWS AppSync Pipeline Functions: https://t.co/uS8ZB1ygRJ via @dabit3
+1085283985310314500,Tue Jan 15 21:14:00 +0000 2019,Check out this cool diagram of #AWSLambda runtimes, functions, and layers for mobile and web devs. Thanks Jerry!… https://t.co/nu2xn44zaL
+1085246103132532700,Tue Jan 15 18:43:28 +0000 2019,The Comforts of GraphQL with #AWSAppSync: https://t.co/ADOpB1Yc8y via @SarjeelY
+1083869702391091200,Fri Jan 11 23:34:09 +0000 2019,.@AWSforMobile is now @AWSAmplify! Same great content with a new look! https://t.co/mPdtXn1pa4
+1083860106012491800,Fri Jan 11 22:56:01 +0000 2019,Video: How to send realtime updates in an #Angular app with GraphQL subscriptions using #AWSAppSync: https://t.co/1520BJcDXK via @mjmrz
+1083780329775743000,Fri Jan 11 17:39:00 +0000 2019,What you've all been waiting for... It's finally here! Implementing passwordless email authentication with Amazon C… https://t.co/LWu1peOrKL
+1083473052074213400,Thu Jan 10 21:18:00 +0000 2019,Call #AWSAppSync APIs with apollo-link (and from AWS Lambda): https://t.co/sZDVnWvLUw via @Hiroyuki_OSAKI
+1083378430480138200,Thu Jan 10 15:02:00 +0000 2019,Video: Introduction to GraphQL APIs with #AWSAppSync, #AWSAmplify, and #Angular: https://t.co/zG4pwjSjIj via @mjmrz
+1083094056950030300,Wed Jan 09 20:12:00 +0000 2019,Community blog post - Introduction to #AWSAppSync (Concepts and Setup): https://t.co/n3N9O7bPRd via @that_coder
+1083012017638817800,Wed Jan 09 14:46:01 +0000 2019,Check out the first #AWSAppSync project on the Amazon Serverless App Repo. A simple @reactjs app that broadcasts me… https://t.co/09Hfyym5P2
+1082793827239428100,Wed Jan 09 00:19:00 +0000 2019,Handling file uploads for a restaurant review app in #GraphQL with AWS AppSync https://t.co/Bf2EA1HxW6 via @FizzyInTheHall
+1082764385691619300,Tue Jan 08 22:22:00 +0000 2019,Triggering a @gatsbyjs app build from an API endpoint using AWS Amplify Console https://t.co/7oJ59RxW11 via @aldomatic
+1075827172957401100,Thu Dec 20 18:56:00 +0000 2018,The #reinvent recap: DEM117: Building Engaging Mobile Apps: https://t.co/rXhlDZMAll
+1075464785519620100,Wed Dec 19 18:56:00 +0000 2018,The #reinvent recap: DEM116: Building Serverless Applications with AWS AppSync: https://t.co/dluhVMHjww
+1075102397687652400,Tue Dec 18 18:56:00 +0000 2018,The #reinvent recap: MOB402: Authentication &amp; Authorization in GraphQL with AWS AppSync: https://t.co/3tXX8xOA78
+1074740010660843500,Mon Dec 17 18:56:00 +0000 2018,The #reinvent recap: MOB401: Ten Tips and Tricks for Improving your GraphQL API with AWS AppSync: https://t.co/m8DFnkdrnM
+1074677347427717100,Mon Dec 17 14:47:00 +0000 2018,Want to hear directly from the AWS evangelists about cloud enabling your modern apps? AWS Launchpad has released "D… https://t.co/HBaR2kVe92
+1073970185403539500,Sat Dec 15 15:57:00 +0000 2018,Build a serverless url shortener with AWS AppSync and React — Part 3: https://t.co/Yn2tLZNxo9 via @jwiegant
+1073655865301975000,Fri Dec 14 19:08:00 +0000 2018,Automate Gatsby builds with #AWSAmplify Console: https://t.co/vkfMk7q8Eo via @JesusLarrubia
+1073652845721862100,Fri Dec 14 18:56:00 +0000 2018,The #reinvent recap: MOB330: Developing Cross-Platform Mobile Apps with @ionicframework, GraphQL, and AWS: https://t.co/m7oUeApOpi
+1073623149650968600,Fri Dec 14 16:58:00 +0000 2018,Building a serverless React applications with #AWSAmplify (workshop): https://t.co/jVenR63oAD via @dabit3
+1073593958901669900,Fri Dec 14 15:02:00 +0000 2018,Building a GraphQL API by example with #AWSAmplify. Part 4, geospatial search: https://t.co/oJ7OO66nb4 via @FizzyInTheHall
+1073293728054472700,Thu Dec 13 19:09:00 +0000 2018,"Meet Amplify - a set of command line tools that you will use in AWS" (Polish blog): https://t.co/OmARWvvkQo by Jakub Holak via @NordcloudPL
+1073290457671786500,Thu Dec 13 18:56:00 +0000 2018,The #reinvent recap: MOB324: Develop Cross-Platform Mobile Apps with React Native, GraphQL, &amp; AWS: https://t.co/nGIUFtdwzP
+1073264285298683900,Thu Dec 13 17:12:00 +0000 2018,A serverless web application built with GraphQL, Apollo, and #AWSAppSync: https://t.co/3RMh1ph0MW via @jgunnink
+1073233833489772500,Thu Dec 13 15:11:00 +0000 2018,Building a GraphQL API by example with #AWSAmplify. Part 3, resolvers: https://t.co/jw2VRqL9Zp via @FizzyInTheHall
+1072928069948710900,Wed Dec 12 18:56:00 +0000 2018,The #reinvent recap: MOB323: GraphQL &amp; Real-Time Subscriptions in Customer Service Apps: https://t.co/jgFSdhiXfp
+1072871445624172500,Wed Dec 12 15:11:00 +0000 2018,Building a GraphQL API by example with #AWSAmplify. Part 2 - backend: https://t.co/RrzwrFVHhW via @FizzyInTheHall
+1072604445018652700,Tue Dec 11 21:30:02 +0000 2018,Want to learn how to build GraphQL APIs with #AWSAppSync? Check out this 31 lesson course! https://t.co/9xShYhiP59 via @acloudguru
+1072604299543408600,Tue Dec 11 21:29:27 +0000 2018,Building a native @Android app with #AWSAmplify - part 2: https://t.co/RbWROrR1rl via @j_shen
+1072565685413388300,Tue Dec 11 18:56:01 +0000 2018,The #reinvent recap: MOB310: Real Time/Offline &amp; AI/ML Capabilities in Modern Serverless Apps: https://t.co/8a87ZrqSvY
+1072203296348221400,Mon Dec 10 18:56:01 +0000 2018,The #reInvent recap: MOB305: Build, Deploy, &amp; Operate Mobile Web Apps with Serverless Backends: https://t.co/YiPoRTByaN
+1072174858321256400,Mon Dec 10 17:03:00 +0000 2018,Add a @GraphQL API to a @ReactNative App with #AWSAmplify: https://t.co/eRUIPgeHtx via @dabit3
+1072144659030396900,Mon Dec 10 15:03:00 +0000 2018,Using #AWSAppSync Pipeline Resolvers for @GraphQL Authorization: https://t.co/tZ9ZtVXRwU via Craig Huber
+1071840909220831200,Sun Dec 09 18:56:01 +0000 2018,The #reinvent recap: MOB304: Building Hulu’s Real-Time Platform for Live TV with Amazon Pinpoint: https://t.co/RL7Al91a9g
+1071478519560134700,Sat Dec 08 18:56:00 +0000 2018,The #reInvent recap: MOB303: Developing Well Architected iOS Apps with AWS: https://t.co/C62n2yYphQ
+1071116133233647600,Fri Dec 07 18:56:01 +0000 2018,The #reinvent recap: MOB302: Developing Well-Architected Android Apps with AWS: https://t.co/R3lti5xqjB
+1071087695898861600,Fri Dec 07 17:03:01 +0000 2018,Multiple Environments demo for #AWSAmplify: https://t.co/YPmtcHUCMu via @dabit3
+1071057496259944400,Fri Dec 07 15:03:01 +0000 2018,Video: @ITNEXT_io Summit 2018: Building Secure and Scalable Modern Applications on AWS: https://t.co/2MIc3xhOgQ via @dmennis
+1070753744458010600,Thu Dec 06 18:56:00 +0000 2018,The #reInvent recap: MOB301: Build a Better GraphQL API for Your Next App by Writing Less Code: https://t.co/YnugAmBkHa
+1070725308729323500,Thu Dec 06 17:03:01 +0000 2018,Introducing the #AWSAmplify Console - 8 Exciting Features: https://t.co/MRUi0dAiKO via @dabit3
+1070695108616642600,Thu Dec 06 15:03:01 +0000 2018,Video: Developing and Implementing APIs at Scale, the Serverless Way: https://t.co/blt54F9FwD via @ednergizer
+1070391355199889400,Wed Dec 05 18:56:00 +0000 2018,The #reInvent recap: MOB201: From Idea to Customers: Developing Modern Cloud-Enabled Apps with AWS: https://t.co/86R8OmdTSA
+1070379032443871200,Wed Dec 05 18:07:02 +0000 2018,Gesture, swipe, and interact with the latest #iPhone XS and XS Max through your web browser with #AWSDeviceFarm. Se… https://t.co/4GwMv7bK8y
+1070362920071127000,Wed Dec 05 17:03:01 +0000 2018,Authentication in a @ReactNative App Using #AWSAmplify: https://t.co/yEhAWB8ToZ via @alligatorio
+1070332719807324200,Wed Dec 05 15:03:00 +0000 2018,Podcast: @GraphQL Authorization: https://t.co/FtAip4SZkY with @jimmy_jia, @freiksenet, and @dabit3
+1070028969733439500,Tue Dec 04 18:56:01 +0000 2018,The #reInvent recap: MOB202-L: Leadership Session: Developing Mobile &amp; Web Apps on AWS: https://t.co/I0Q6aejr79
+1070000533912592400,Tue Dec 04 17:03:01 +0000 2018,Building a chat application using #AWSAppSync and Serverless: https://t.co/Mc0LpSXmGa via @goserverless
+1069970333124489200,Tue Dec 04 15:03:01 +0000 2018,Sample: #AWSAppSync #AmazonCloudFormation Quick Start Template: https://t.co/6iQG9d9913 via @mkrn
+1067554163519828000,Tue Nov 27 23:02:01 +0000 2018,Announcing the new #AWSAmplify console - continuously build, deploy, and host serverless modern web apps:… https://t.co/E5sqTaSw6i
+1065995138974011400,Fri Nov 23 15:47:01 +0000 2018,Ionic 4 + #AWSAppSync: Use @GraphQL mutations in @Ionicframework (part 4): https://t.co/DdarefBul8 via @ashteya
+1065632500121247700,Thu Nov 22 15:46:01 +0000 2018,Building an @Android app with #AWSAmplify - part 1: https://t.co/YLxN7vo6mH via @j_shen
+1065273384144130000,Wed Nov 21 15:59:01 +0000 2018,Federated Identities Using [Login with Amazon] with #iOS, #AmazonCognito and #AWSAmplify: https://t.co/5kDyhOSetu via @dmennis
+1064910744754503700,Tue Nov 20 15:58:01 +0000 2018,#AWSAmplify simplifies development for #iOS and @Android developers: https://t.co/Q2vIy5Prpp via @undef_obj
+1063836666333417500,Sat Nov 17 16:50:01 +0000 2018,Managing multiple environments within #AWSAmplify: https://t.co/GFbiCnnUX5 via @ysfMag
+1063458927764021200,Fri Nov 16 15:49:01 +0000 2018,Ionic 4 + #AWSAppSync: Add @Ionicframework  pages and @GraphQL queries - Part 3: https://t.co/zbRWgokU5X via @ashteya
+1063233192386338800,Fri Nov 16 00:52:01 +0000 2018,#AmazonPinpoint adds supports for event metric filtering and visualization.  Check out the new capabilities:… https://t.co/weAX4pfvVf
+1063166248182317000,Thu Nov 15 20:26:00 +0000 2018,Your guide to AWS mobile and web development at #AWSreInvent 2018: https://t.co/D1RWp54L6m
+1063153163170168800,Thu Nov 15 19:34:01 +0000 2018,Using #AmazonRekognition to detect celebrities in an #iOS app: https://t.co/Vd5BaNimcg via @dmennis
+1063148781938597900,Thu Nov 15 19:16:36 +0000 2018,Your Guide to AWS mobile and web development at #reinvent: https://t.co/AQsojgmswU https://t.co/s2xZW82xl2
+1063148761046810600,Thu Nov 15 19:16:31 +0000 2018,Your guide to AWS Mobile and web development at re:Invent 2018: https://t.co/cTfnsSwiFa https://t.co/2e6HNFgdEs
+1063096035462078500,Thu Nov 15 15:47:00 +0000 2018,Update: @ReactJS Authentication in Depth (updated for #AWSAmplify): https://t.co/jsiIDyEDmO via @dabit3
+1062791025507348500,Wed Nov 14 19:35:00 +0000 2018,Customize the default #AWSAmplify @reactjs sign-up screen with aws-amplify-react-custom-ui: https://t.co/2oEdL17I6z via @ysfMag
+1062733395145429000,Wed Nov 14 15:46:00 +0000 2018,Understanding #AmazonCognito user pool OAuth 2.0 grants:https://t.co/GXqdnhcrjM
+1062370253546627100,Tue Nov 13 15:43:00 +0000 2018,Authentication with #AWSAmplify and @Android: Fraud Protection and Analytics: https://t.co/TsII9EDn5g via @FizzyInTheHall
+1059471655750287400,Mon Nov 05 15:45:01 +0000 2018,Learn @vuejs with Authentication in 30 minutes #AWSAmplify: https://t.co/BuHazRVoth via @ErikCH
+1059125121221361700,Sun Nov 04 16:48:01 +0000 2018,ChatQL: An #AWSAppSync @GraphQL Chat Starter App written in @angular : https://t.co/V4dUKvjX7k via @ednergizer
+1058747383037739000,Sat Nov 03 15:47:01 +0000 2018,Live with @amsxbg and @nicki_23: Secure your API with #AWSAmplify and #AmazonCognito: https://t.co/N15Grsmgke
+1058369139499249700,Fri Nov 02 14:44:01 +0000 2018,Basic Authentication for #iOS using #AWSAmplify and #AmazonCognito: https://t.co/O7rwfx2xyg via @dmennis
+1058069164538163200,Thu Nov 01 18:52:01 +0000 2018,Building #serverless web applications with @reactjs and #AWSAmplify: https://t.co/lpSP06f0us from @caribbeandevcon  and @dabit3
+1058006499556032500,Thu Nov 01 14:43:00 +0000 2018,Authentication with #AWSAmplify and @Android: Integrating TOTP: https://t.co/yRyjOaDzNX via @FizzyInTheHall
+1057343632032833500,Tue Oct 30 18:49:01 +0000 2018,Hosting a web application with #AWSAmplify: https://t.co/MLyiRBI9Ny via @mjmrz
+1057281225528930300,Tue Oct 30 14:41:02 +0000 2018,Backend @GraphQL: How to trigger an #AWSAppSync mutation from #AWSLambda: https://t.co/sFOJ7eCrDV via @FizzyInTheHall
+1056977974900211700,Mon Oct 29 18:36:01 +0000 2018,Mobile Messaging from Analytics to Engagement with #AmazonPinpoint: https://t.co/r7KieWT3ha via Zach Barbitta
+1056916316202942500,Mon Oct 29 14:31:00 +0000 2018,Deploy your website to @AWSCloud in minutes with #AWSAmplify (@VueJS, @ReactJS, @angular ): https://t.co/53m8dYkNdk via @ErikCH
+1056584125258391600,Sun Oct 28 16:31:00 +0000 2018,The top 9 AWS AppSync features you didn't know about: https://t.co/loY5fbC9fc via @dabit3
+1056206135680819200,Sat Oct 27 15:29:00 +0000 2018,An #AWSAppSync tutorial with @React: https://t.co/jBLBjITghv via @benawad97
+1055890558533730300,Fri Oct 26 18:35:01 +0000 2018,Testing and troubleshooting modern apps with #AWSDeviceFarm: https://t.co/n651UPdufz via Nikhil Dabhade
+1055828399002959900,Fri Oct 26 14:28:01 +0000 2018,Build a mobile app with @Ionicframework , #AWSAppSync, and @GraphQL - part 1: https://t.co/wmkWhpZWSZ via @ashteya
+1055527918003281900,Thu Oct 25 18:34:01 +0000 2018,Introduction to #MachineLearning on Mobile: https://t.co/gzqRYwHMZG via @dmennis
+1055465757595852800,Thu Oct 25 14:27:00 +0000 2018,Building AR and VR experiences with @ReactJS, #AmazonSumerian, and #AWSAmplify: https://t.co/q0oldgCPSN via @dabit3
+1055165279230148600,Wed Oct 24 18:33:01 +0000 2018,Authentication and Authorization for Connected mobile and web applications using #AmazonCognito and #AWSAppsync:… https://t.co/Gtz9laADjb
+1055103117681930200,Wed Oct 24 14:26:00 +0000 2018,Google Sign-in for #iOS using #AWSAmplify and #AmazonCognito: https://t.co/XCng7FGIqy via @dmennis
+1054802640511660000,Tue Oct 23 18:32:01 +0000 2018,Testing #AWSAppSync Resolvers: https://t.co/qFLpXye17g via @dabit3
+1054740480322355200,Tue Oct 23 14:25:01 +0000 2018,Authentication with #AWSAmplify and @Android: 3rd Party OIDC Providers with @Auth0: https://t.co/yYDmgiBlOL via @FizzyInTheHall
+1054515750155808800,Mon Oct 22 23:32:01 +0000 2018,Identifying celebrities on TV, in print, and in-person is a reality for #iOS developers using #AmazonRekognition ce… https://t.co/IRfg4N93Fg
+1053289668505206800,Fri Oct 19 14:20:00 +0000 2018,Developing and Implementing APIs at Scale, the Serverless Way: https://t.co/CB1pA9p27w via @ednergizer
+1053048581324705800,Thu Oct 18 22:22:01 +0000 2018,Using Relay with #AWSAppSync: https://t.co/zG9WExhfr8 via @iamkevinbell
+1052919233414357000,Thu Oct 18 13:48:02 +0000 2018,Final day: Live-streaming event-driven modern app sessions at 10a, 2:15p, 3:15p, and Q&amp;A at 4:15p from @AWSLoft in… https://t.co/Zf40ja37Yp
+1052684934056472600,Wed Oct 17 22:17:00 +0000 2018,Implementing @fbplatform  login using #AWSAmplify and #AmazonCognito for #iOS: https://t.co/DgEF7cxiFH via @dmennis
+1052557348118646800,Wed Oct 17 13:50:02 +0000 2018,Day 2: Live-streaming sessions from @AWSforMobile Week at the @AWSLoft in San Francisco on @Twitch start at 10am, 1… https://t.co/1NYVg4LFM6
+1052201500628398100,Tue Oct 16 14:16:01 +0000 2018,Authentication with #AWSAmplify and @Android: Google Login: https://t.co/c3bxfqhE1D via @FizzyInTheHall
+1051880642886201300,Mon Oct 15 17:01:02 +0000 2018,Live-streaming sessions from @AWSforMobile Week at the @AWSLoft in San Francisco on @Twitch start tomorrow!  First… https://t.co/xoUEgKetou
+1051839110078451700,Mon Oct 15 14:16:00 +0000 2018,Want to attend the @AWSforMobile Week at the @AWSLoft in San Francisco, but can't make it?  We will be live-streami… https://t.co/jUuD2AQRI4
+1051520762883047400,Sun Oct 14 17:11:00 +0000 2018,Sample: @ReactNative Bar Finder (with #AWSAmplify): https://t.co/OWDVwR1OND via @praveen1979
+1051472947565797400,Sun Oct 14 14:01:00 +0000 2018,Gotta Test 'Em All: How to Test OutSystems Mobile Apps: https://t.co/GnyHl51prl via @OutSystems
+1051306602345783300,Sun Oct 14 03:00:00 +0000 2018,Deploy @GraphQL APIs with @StackeryIO: https://t.co/MwH17GNZ1o via @_SamG
+1051158124055449600,Sat Oct 13 17:10:01 +0000 2018,Sample: #AWSAppSync and @Gatsbyjs: https://t.co/aMs8zpf1Iq via @appwiz
+1050762264322674700,Fri Oct 12 14:57:00 +0000 2018,How to build Cloud-Powered Mobile Apps with @expo  and #AWSAmplify: https://t.co/qfnr8W13g9 via @dabit3
+1050431838416773100,Thu Oct 11 17:04:01 +0000 2018,Authentication with #AWSAmplify and @Android: @fbplatform  Login: https://t.co/uegdAcW9xl via @FizzyInTheHall
+1050386289424523300,Thu Oct 11 14:03:01 +0000 2018,Basic Authentication for iOS using AWS Amplify and Amazon Cognito: https://t.co/GmJBVx8qNX via @dmennis
+1050069953808760800,Wed Oct 10 17:06:01 +0000 2018,How to Build #Serverless @VueJS Applications with #AWSAmplify: https://t.co/FJzaw3eAin via @dabit3
+1050037992109338600,Wed Oct 10 14:59:00 +0000 2018,Learn to build mobile and web apps with #AWSAmplify and @goserverless Framework: https://t.co/23JHseJr8E via @FizzyInTheHall
+1049706558693748700,Tue Oct 09 17:02:00 +0000 2018,Building @Android Apps with @AWSforMobile: https://t.co/h8xDYCMm4O via Matt Boyd.
+1049675354410025000,Tue Oct 09 14:58:01 +0000 2018,Creating a Chat client with #AWSAppSync (and adding bots!): https://t.co/3Jca3ViQ5w via @mcsee1
+1049347303822307300,Mon Oct 08 17:14:27 +0000 2018,Using @ReactJS #Relay with #AWSAppSync: https://t.co/DOugOOczuk via @iamkevinbell
+1049314978879230000,Mon Oct 08 15:06:00 +0000 2018,Build a @reactjs  frontend for service catalog with #AWSAmplify: https://t.co/53MVbnPx8e via @AWSOpen
+1048590456190378000,Sat Oct 06 15:07:01 +0000 2018,Announcing support for natively querying 3rd-party @GraphQL APIs with @GatsbyJS: https://t.co/guzG8XlY7H via @freiksenet
+1048227564370759700,Fri Oct 05 15:05:01 +0000 2018,Unauthenticated access to @awscloud for #iOS apps using #AWSAmplify: https://t.co/e8hhhwjYTb via @dmennis
+1047953971158159400,Thu Oct 04 20:57:51 +0000 2018,Explore the new Amazon Pinpoint first-time user experience, marketer-friendly console, and advanced segmentation ca… https://t.co/qOZWAozVg4
+1047864671154446300,Thu Oct 04 15:03:00 +0000 2018,Build your own multi-user photo album app with @ReactJS, @GraphQL, and #AWSAmplify (part 1 of 3): https://t.co/mc7wJ6gECu via @gabehollombe
+1047502033106944000,Wed Oct 03 15:02:00 +0000 2018,Authentication with #AWSAmplify and @Android (Part 2): Customizing the UI: https://t.co/XwtZIdd8y6 via @FizzyInTheHall
+1047139393243369500,Tue Oct 02 15:01:00 +0000 2018,Supercharging Applications with @GraphQL and #AWSAppSync: https://t.co/QhYTpRpI2K via @ednergizer
+1045689844633161700,Fri Sep 28 15:01:01 +0000 2018,#AWSAmplify - #AWSAppSync @GraphQL Codegen Demo: https://t.co/JYvRLzf9Oc via @dabit3
+1045326949806219300,Thu Sep 27 14:59:00 +0000 2018,Send Targeted Notifications to #iOS Devices with #AWSAmplify and #AmazonPinpoint: https://t.co/mJduE1IR9V via @dmennis
+1044964311884599300,Wed Sep 26 14:58:01 +0000 2018,Creating #AWSAppSync @GraphQL APIs with #AWSAmplify: https://t.co/UsGIBbxKAf via @dabit3
+1044601673442840600,Tue Sep 25 14:57:01 +0000 2018,Authentication with #AWSAmplify and @Android: The Basics: https://t.co/hTndIh8XVV via @FizzyInTheHall
+1042072255910633500,Tue Sep 18 15:26:01 +0000 2018,Let your analytics drive engagement: Endpoint profiles with #AWSAmplify and @Android: https://t.co/dtnlLhBdDU via @FizzyInTheHall
+1041709363621179400,Mon Sep 17 15:24:00 +0000 2018,Adding #AWSAmplify to an @emberjs  application: https://t.co/eUQcvE66Hp (updated for the ember-cli plugin) via @mlabieniec
+1040621949536403500,Fri Sep 14 15:23:01 +0000 2018,Publish your next @gatsbyjs site to @AWSCloud with #AWSAmplify: https://t.co/OOg8u9hfnr via @dabit3
+1040259059017048000,Thu Sep 13 15:21:01 +0000 2018,Integrate Analytics into your #iOS @swiftlang applications with #AWSAmplify: https://t.co/qdkBG0Iq16 via @dmennis
+1039896417941241900,Wed Sep 12 15:20:01 +0000 2018,Integrate Analytics into your @Android @Kotlin applications with #AWSAmplify: https://t.co/vJbcU0ixcg via @FizzyInTheHall
+1039626386791690200,Tue Sep 11 21:27:00 +0000 2018,#AWSAppSync is now available in 10 regions - welcome to the family - Asia Pacific (Seoul) region: https://t.co/dvzeIbxGFe
+1039177180302004200,Mon Sep 10 15:42:01 +0000 2018,Introducing the new #AWSAmplify CLI toolchain: https://t.co/L6Yo9MLEVv via @dabit3
+1038829637038760000,Sun Sep 09 16:41:00 +0000 2018,Native Development with #AWSAmplify: https://t.co/us2VsA5Qxf via @FizzyInTheHall
+1038466998513135600,Sat Sep 08 16:40:00 +0000 2018,#AWSAppSync - the unexpected: https://t.co/TkhhvOMgcd via @dadc
+1038089260761534500,Fri Sep 07 15:39:01 +0000 2018,Build a @GraphQL service the easy way with #AWSAmplify Model Transforms: https://t.co/pNxZfaszVC via @FizzyInTheHall
+1037755590263664600,Thu Sep 06 17:33:07 +0000 2018,Switching between @AppiumDev versions in #AWSDeviceFarm is simple.  Update the environment in the config file and y… https://t.co/kRx1ad6uXo
+1037741720128114700,Thu Sep 06 16:38:01 +0000 2018,Using #AWSAppSync with #AWSLambda data sources: https://t.co/9fDOkuAY6x via @mwarger
+1037380592936132600,Wed Sep 05 16:43:01 +0000 2018,The VIA Stack - @vuejs , @Ionicframework , and #AWSAppSync: https://t.co/BWkKkuiBiA via @BradPillow
+1037363980115877900,Wed Sep 05 15:37:00 +0000 2018,Create a Multiuser @GraphQL CRUD(L) APp in 10 Minutes with the new #AWSAmplify CLI: https://t.co/cTywdZighY via @ednergizer
+1035923487767048200,Sat Sep 01 16:13:00 +0000 2018,Writing files to #AmazonS3 with @ReactNative and #AWSAmplify: https://t.co/c1cAU2rII5 via @ballenwillis
+1035545500278300700,Fri Aug 31 15:11:01 +0000 2018,Getting Started Building Serverless Data-Driven Web Apps: https://t.co/UnaHUdpHYh via @gabehollombe
+1035199720149446700,Thu Aug 30 16:17:01 +0000 2018,Take your #PWA to the Next Level with #AWSAppSync: https://t.co/0r4XI8By1n via @ednergizer
+1035199216388399100,Thu Aug 30 16:15:00 +0000 2018,7 New Things in #AWSAmplify for Serverless: https://t.co/PtnXdqwyH7 via @ryan_marsh
+1035182858871164900,Thu Aug 30 15:10:00 +0000 2018,Building a Unified Backend with AWS AppSync Part II: Amazon Neptune: https://t.co/RHruzwSPfG via @joshuaakahn
+1034837081741242400,Wed Aug 29 16:16:01 +0000 2018,#AWSAppSync App with @React and @apollographql : https://t.co/Yt3HehzPfl via @gyandeeps
+1034820219632533500,Wed Aug 29 15:09:01 +0000 2018,A Cookbook: Lambda Resolvers with #AWSAppSync: https://t.co/JuUOYvaBUK via @audreyr
+1034457330606329900,Tue Aug 28 15:07:01 +0000 2018,Announcing the #AWSAmplify CLI toolchain: https://t.co/sX3dkoLng9 https://t.co/Aj8PcY50Bu
+1034097206670909400,Mon Aug 27 15:16:01 +0000 2018,Develop mobile application using #AWSCloud9 - @ReactNative with #AWSAmplify and #AWSAppSync and #AWSMobileHub:… https://t.co/0APK28Jd0r
+1033387024185745400,Sat Aug 25 16:14:00 +0000 2018,Building #ADFS Federation for your web app using #AmazonCognito user pools: https://t.co/vGEpRuHp4f
+1033009286866194400,Fri Aug 24 15:13:01 +0000 2018,Backend as a Service: #AWSAppSync, #AmazonCognito &amp; #AWSAmplify: https://t.co/qyVabQ0GkZ via @D2KX_
+1032284261833953300,Wed Aug 22 15:12:01 +0000 2018,How to deploy a @GraphQL API on @AWSCloud using the @goserverless  Framework: https://t.co/emMe0LRj8T via @FizzyInTheHall
+1031921117919957000,Tue Aug 21 15:09:01 +0000 2018,Testing mobile apps with @Cucumberbdd and @AppiumDevs through #TestNG on #AWSDeviceFarm: https://t.co/t0fP8JZUCE https://t.co/tQsACYCMxv
+1030851821957513200,Sat Aug 18 16:20:01 +0000 2018,How to set up #AWSIoT PubSub using #AWSAmplify SDK: https://t.co/yD8mx3HTov via @Juny711
+1030473830995828700,Fri Aug 17 15:18:01 +0000 2018,Video: @angular , #AWSAppSync, #Serverless project: https://t.co/4TIIn0pq8F via @Pampa_3w
+1029748802062884900,Wed Aug 15 15:17:00 +0000 2018,#AmazonCognito User Pool Access Token Invalidation: https://t.co/LbsCtluxJG via @DZone
+1029747046914383900,Wed Aug 15 15:10:02 +0000 2018,#AWSAppSync adds quick-start sample for #AmazonAurora: https://t.co/C7GMn5FAUX https://t.co/hXoD5tgd42
+1029434486449160200,Tue Aug 14 18:28:02 +0000 2018,Building #ADFS Federation for your web app using #AmazonCognito user pools: https://t.co/gd26lIyPEX https://t.co/2aT1ZanYkS
+1029051818804998100,Mon Aug 13 17:07:27 +0000 2018,Authenticating an #AWSAppSync @GraphQL API with @Auth0: https://t.co/swXZQsG4qB via @dabit3
+1029026793259454500,Mon Aug 13 15:28:00 +0000 2018,Adding #AWSAmplify to an Ionic 4 App: https://t.co/IaZBvmss6n via @ionicframework
+1028676992030396400,Sun Aug 12 16:18:01 +0000 2018,Using @flutterio with #AWSLambda to build a serverless mobile app for movie listings: https://t.co/ArrxX3jjjf via @mlabouardy
+1028314351038595100,Sat Aug 11 16:17:01 +0000 2018,How to import #AmazonSQS from the #AWSAmplify library: https://t.co/vroI1zeINd via @Juny711
+1027936613178007600,Fri Aug 10 15:16:01 +0000 2018,Modular imports with #AWSAmplify: https://t.co/nZn6B91En9 via @dabit3
+1027573974652395500,Thu Aug 09 15:15:01 +0000 2018,Running #Calabash Integration Tests with #AWSDeviceFarm: https://t.co/cF1bw30JiD via @dimagi
+1027211080165208000,Wed Aug 08 15:13:00 +0000 2018,Build an #AWSAppSync @GraphQL API with #AWSCloudFormation: https://t.co/jQhM3mWikK via @sbstjn
+1026859017870737400,Tue Aug 07 15:54:02 +0000 2018,You can now use #AWSAmplify code snippets in @VisualStudio @code : https://t.co/zogtcdDYlN https://t.co/qjDxAtzfiL
+1026480014089482200,Mon Aug 06 14:48:01 +0000 2018,Take your progressive web app to the next level with #AWSAppSync and @GraphQL: https://t.co/4uaxZ7r4Le
+1026118130987425800,Sun Aug 05 14:50:01 +0000 2018,Changelog #307: #AWSAmplify and cloud-enabled apps: https://t.co/yEIY89O20c via @changelog
+1025770590454599700,Sat Aug 04 15:49:01 +0000 2018,User authentication with @ReactNative &amp; @AWSforMobile using React Native Navigation by Wix: https://t.co/mEzXSzJKwL via @dabit3
+1025423806897315800,Fri Aug 03 16:51:01 +0000 2018,User Sign-in with #AmazonCognito, #AWSAmplify and @AWSforMobile #AWSMobileHub: https://t.co/HzTNbVlncA via @mjmrz
+1025407446142124000,Fri Aug 03 15:46:00 +0000 2018,How @GraphQL empowers data communication: https://t.co/6I6A93kEEM via @failsalhasnainz
+1025064437840072700,Thu Aug 02 17:03:01 +0000 2018,Sample: @ReactNative Photos App with #AWSAmplify: https://t.co/MlYtfKAuR6 via @praveenj1979
+1025044806190415900,Thu Aug 02 15:45:00 +0000 2018,How we build a @ReactNative mobile app in 36 hours with @AWSforMobile #AWSMobileHub: https://t.co/hXTGlP5NBX via @Ohsik
+1024682168700858400,Wed Aug 01 15:44:01 +0000 2018,Serverless Real-time Notifications for Web Apps in AWS: https://t.co/Emrzy2qEMP via @Iprogrammerinfo
+1024309461392023600,Tue Jul 31 15:03:01 +0000 2018,Build a @GraphQL Weather API with @OpenWeatherMap and #AWSAppSync: https://t.co/8QtTw2J6Wg via @FizzyInTheHall
+1022507336974430200,Thu Jul 26 15:42:01 +0000 2018,Attend a Free 3-day @reactnative bootcamp, Aug 7th-9th courtesy of @tylermcginnis and @dabit3: https://t.co/436wdmD31R
+1022144696666214400,Wed Jul 25 15:41:00 +0000 2018,AWS AppSync - HTTP Resolver: https://t.co/J9qYHmkOJC via @matteo_zuccon
+1021782057901609000,Tue Jul 24 15:40:01 +0000 2018,Build a Realtime Serverless GraphQL API with Websockets on AWS: https://t.co/8Qriiutppt via @agriffonline
+1021422184546414600,Mon Jul 23 15:50:00 +0000 2018,Building Chatbots with @ReactJS and #AWSLex: https://t.co/RICDujaDFD via @dabit3
+1020334520074154000,Fri Jul 20 15:48:01 +0000 2018,Build a Speech Translator app for @AndroidDev in @kotlin  using #AWSTranslate: https://t.co/NiDK8nALAW via @FizzyInTheHall
+1020326720761663500,Fri Jul 20 15:17:01 +0000 2018,Are you an @Android or #iOS developer who is tired of working on just another app? Join the @AWSforMobile team work… https://t.co/kSsRGmdWtV
+1020315901466497000,Fri Jul 20 14:34:02 +0000 2018,The #AWSAppSync @GraphQL service had a major release.  Read about all the improvements: https://t.co/vQcwgr8wl2 https://t.co/Q1GcRRJ3Ts
+1019971879917023200,Thu Jul 19 15:47:00 +0000 2018,Join @heitor_lessa and @ednergizer on @Twitch as they build an e-Commerce loyalty app using #AWSAppSync: https://t.co/aVTz4xqOxC
+1019666621839892500,Wed Jul 18 19:34:01 +0000 2018,The #AWSAmplify JavaScript Library extends its support for @IonicFramework and announces new coding improvements wi… https://t.co/eGzpyecLK7
+1019608988852412400,Wed Jul 18 15:45:01 +0000 2018,Rethinking REST Practices: An introduction to @GraphQL with #AWSAppSync: https://t.co/RBMsjuQVYP via @mwarger
+1017432900558622700,Thu Jul 12 15:38:01 +0000 2018,Serverless Web App using #AWSAmplify and @Angular: https://t.co/qQPrP0PYp2 (via @dhavaln)
+1017069503719583700,Wed Jul 11 15:34:00 +0000 2018,AWS AppSync + Amplify + VueJSでGraphQLをやってみた: AWS AppSync + Amplify + VueJSでGraphQLをやってみた (via @moksahero)
+1016706865441529900,Tue Jul 10 15:33:00 +0000 2018,How to use #AWSAmplify and @angular  to build cloud enabled #JavaScript applications: https://t.co/R7JG6UGSgd (via @dabit3)
+1016343722911588400,Mon Jul 09 15:30:00 +0000 2018,Detox your @ReactNative #AWSAmplify Authentication: https://t.co/8vEomGo59k (via @frikan)
+1016300688509456400,Mon Jul 09 12:39:00 +0000 2018,Going to @awssummits #NYC today?  Check out SRV210 "Take Mobile and Web Apps to the Next Level with AWS AppSync and… https://t.co/2Qn8P3tNTD
+1015995930951274500,Sun Jul 08 16:28:00 +0000 2018,Custom layout for @ReactNative Signin and Signup with #AWSCognito: https://t.co/aqRerfpRo4 (via Alberto Jose Alvarez)
+1015633038540144600,Sat Jul 07 16:26:00 +0000 2018,Text detection with mobile camera using @ReactNative and #AWSRekognition: https://t.co/GcApTROTRt (via Glen Bray)
+1009803884246831100,Thu Jun 21 14:23:01 +0000 2018,Build a Universal Translator App for @Android with @kotlin and #AmazonTranslate: https://t.co/QMBEs8HMaa https://t.co/vhWsmwrVaW
+1009444516586238000,Wed Jun 20 14:35:01 +0000 2018,#AWSAmplify JavaScript Library now supports @Angular 6 apps and Angular Ahead-of-Time (AOT) compilation:… https://t.co/7rOaEvPYVX
+1009440992158736400,Wed Jun 20 14:21:01 +0000 2018,Build a Universal Search API with @GraphQL and #AWSAppSync: https://t.co/2xRYanurZK https://t.co/Kx1SEywKPZ
+1009104022995984400,Tue Jun 19 16:02:01 +0000 2018,#AWSAmplify JavaScript Library now supports @Angular 6 apps and Angular Ahead-of-Time (AOT) compilation:… https://t.co/5LuTVqGDZq
+1005123492327632900,Fri Jun 08 16:24:49 +0000 2018,You can now build a real-time mobile speech-to-text translator with #AmazonTranslate and #AmazonPolly for @Android… https://t.co/daj17Vsqui
+1004716110938329100,Thu Jun 07 13:26:02 +0000 2018,The #AWSAmplify JavaScript library now supports sending analytics events to #AmazonKinesis streams:… https://t.co/JjHImNX35e
+1002216892273233900,Thu May 31 15:55:02 +0000 2018,Implement a user settings store for your @Kotlin @Android app with #AWSAppSync: https://t.co/zKw8dHpeGL https://t.co/kHF8yFHNt8
+1001996695411019800,Thu May 31 01:20:03 +0000 2018,#iOS 11.4 is here with AirPlay2 and Messages in @icloud. Test your mobile applications with day one support from… https://t.co/HuyxXvMdZs
+1001854247800098800,Wed May 30 15:54:00 +0000 2018,Store user settings for your #iOS app in #AWSAppSync with @GraphQL: https://t.co/4x2gvNdWKa
+1001491365115629600,Tue May 29 15:52:02 +0000 2018,Deploy a @GraphQL based user settings store with #AWSAppSync: https://t.co/pHAg7gblF5 https://t.co/iZzNBNCnRZ
+999654255425400800,Thu May 24 14:12:01 +0000 2018,New region support announced for #AWSAppSync  Run your @GraphQL backend in Germany, India and Singapore:… https://t.co/jOWKxTtfz3
+997077021829288000,Thu May 17 11:31:01 +0000 2018,#AWSAppSync extends @GraphQL authorization support for custom or 3rd party OIDC providers. https://t.co/YxgjFIfkWz https://t.co/tt6yaXxi80
+995868560613310500,Mon May 14 03:29:01 +0000 2018,#AWSAppSync extends @GraphQL authorization support for custom or 3rd party OIDC providers. https://t.co/4x7qrwqxJh https://t.co/UcCkfb37Rr
+994017613318709200,Wed May 09 00:54:01 +0000 2018,New #AWSMobileHub feature: Add an existing #AmazonCognito user pool to your Mobile hub project:… https://t.co/WyUZDZSyjk
+991701100993577000,Wed May 02 15:29:02 +0000 2018,New for Amazon Pinpoint - Phone Number Verification - Sign up for limited release at https://t.co/AF5S8J3JiS #AWS https://t.co/JWAwGZckDW
+990981858115620900,Mon Apr 30 15:51:01 +0000 2018,New #AWSMobileHub feature: Add an existing #AmazonCognito user pool to your Mobile hub project:… https://t.co/F5PMsQ7DHI
+989939239273058300,Fri Apr 27 18:48:01 +0000 2018,Learn about #CoreML on #iOS and how to provide on-device #MachineLearning predictions in real-time:… https://t.co/Cc8Z5leLPi
+989873809179205600,Fri Apr 27 14:28:01 +0000 2018,#AWSAmplify enables asynchronous and message-orientated data capabilities for cloud-connected apps with Pub/Sub and… https://t.co/VNbBEO0vT3
+989532814034030600,Thu Apr 26 15:53:02 +0000 2018,#AWSAmplify supports hosted sign-in and sign-up UI for web apps with #AmazonCognito: https://t.co/2jbW0QR2AY https://t.co/29TN7Kgrpc
+989168916936253400,Wed Apr 25 15:47:02 +0000 2018,Interested in adding ML to your mobile app?! Introduction to #MachineLearning for #iOS and @Android by @dmennis:… https://t.co/NAxdAUEK6b
+988786896045297700,Tue Apr 24 14:29:01 +0000 2018,Introducing the #AWSAmplify @GraphQL client for #AWSAppSync by @dabit3: https://t.co/tbBUYcb1GR https://t.co/h2apVmqXQh
+988445398607056900,Mon Apr 23 15:52:02 +0000 2018,Use a custom domain with #AWSAppSync, #AmazonCloudFront and #AmazonRoute53: https://t.co/SFIdXcrR3i https://t.co/2ova7RdrOu
+986995845211000800,Thu Apr 19 15:52:01 +0000 2018,#AWSAmplify launches @angular support with UI components for authentication, image upload and album view for cloud… https://t.co/GEKEW3xBC8
+986994336662544400,Thu Apr 19 15:46:01 +0000 2018,What's new in #AWSAppSync, a managed @GraphQL service: https://t.co/WbKIW0o07B https://t.co/mbc6bwHJf4
+986629683893678100,Wed Apr 18 15:37:01 +0000 2018,More than Meets the Eye: Testing Mobile Apps #AWSDeviceFarm https://t.co/UBV7yyY3n3 https://t.co/WZyjm0RI1R
+986273337470017500,Tue Apr 17 16:01:02 +0000 2018,Deploy an #AWSAppSync @GraphQL API with #AmazonCloudFormation: https://t.co/GLIGiRVTFo https://t.co/Rt6KcV4QAy
+985875966907027500,Mon Apr 16 13:42:01 +0000 2018,Want to learn React &amp; React Native?  join us at the @AWSLoft in New York to learn the basics from @dabit3:… https://t.co/xAMm3YfXor
+984906092940550100,Fri Apr 13 21:28:05 +0000 2018,Want @GraphQL?  #AWSAppSync is GA, production-ready and has new features: https://t.co/UbbbOwPBwf https://t.co/9J7D8F5VPo
+984489835758006300,Thu Apr 12 17:54:02 +0000 2018,Want to learn @GraphQL?  Check out our meetup at the @AWSLoft in NYC to learn how @Ticketmaster  and @bustle  use G… https://t.co/J2auos0t6E
+984062518913093600,Wed Apr 11 13:36:02 +0000 2018,Can't get to @reactamsterdam this Friday?  Watch the livestream instead.  Make sure you watch from 2:30pm (Amsterda… https://t.co/SQbVfWLpUm
+981553484490268700,Wed Apr 04 15:26:01 +0000 2018,Building a Custom UI in @ReactNative for Authentication with #AWSAmplify (via @itnext_io): https://t.co/CM3nWcz1kt https://t.co/nIks5flQSN
+979381425538510800,Thu Mar 29 15:35:02 +0000 2018,Integrate app analytics into your @Android @Kotlin app with #AmazonPinpoint: https://t.co/6e6ACZObrJ https://t.co/DUsokZSsv4
+978654639309570000,Tue Mar 27 15:27:03 +0000 2018,Want to add analytics to your #iOS app? Check out the latest @awsformobile video, Mobile Customer Analytics for iOS… https://t.co/1CkoFdC8F0
+978294510005440500,Mon Mar 26 15:36:01 +0000 2018,Serverless backends for mobile apps with @AWSCloud (via @acloudguru ): https://t.co/IPJ1UkWZkB https://t.co/T4Ly0bwKlU
+977207850278809600,Fri Mar 23 15:38:01 +0000 2018,Implement @ReactNative Authentication in Depth (Part 2): https://t.co/O1EXsX7YhW https://t.co/oQmcGEjvGK
+976844959247630300,Thu Mar 22 15:36:01 +0000 2018,Implement @ReactNative Authentication in Depth (Part 1): https://t.co/gUltkO6Mox https://t.co/1hwAcljQyP
+976480560922157000,Wed Mar 21 15:28:02 +0000 2018,The six mobile apps you should write: https://t.co/RPia3yF9XD https://t.co/PDQ2uK2yAO
+976143700345720800,Tue Mar 20 17:09:28 +0000 2018,Implement #iOS Push Notifications in @ReactNative with @AWSCloud #AWSAmplify: https://t.co/KWaBbrpAA1
+976143583660183600,Tue Mar 20 17:09:00 +0000 2018,New release of @AWSforMobile #AWSAmplify - v0.2.11 has support for TOTP and pluggable analytics: https://t.co/P3Fd2w125t
+975610698171605000,Mon Mar 19 05:51:31 +0000 2018,Building a Cost Effective Mobile Backend for Scale and Security: https://t.co/maEAYoFrAR https://t.co/4KQcnJNyg5
+972616342259097600,Sat Mar 10 23:33:00 +0000 2018,Have you seen the Amazon Sphere? https://t.co/vpIqdMqBLo
+971594863132241900,Thu Mar 08 03:54:01 +0000 2018,Build a serverless real-time chat app in @angular with @AWSforMobile #AWSAppSync: https://t.co/0LEloAGQQV https://t.co/zcwm7egzzo
+971285196015394800,Wed Mar 07 07:23:30 +0000 2018,Using AWS with React Native, via @undef_obj: https://t.co/eIOmiNked2 https://t.co/G2hxqkAsMY
+967067279140769800,Fri Feb 23 16:03:01 +0000 2018,Need @GraphQL in APAC or Europe?  @AWSforMobile #AWSAppSync is now available in more regions:… https://t.co/vuqXKPVXuy
+966701120449019900,Thu Feb 22 15:48:02 +0000 2018,What's the best time to engage your mobile app users?  An introduction to @AWSforMobile #AWSPinpoint heatmaps… https://t.co/Ff9PmiT6K6
+966349046481899500,Wed Feb 21 16:29:01 +0000 2018,Get started with @GraphQL quickly and easily using #AWSAppSync: https://t.co/MvXTwb2Uiz
+965981627905183700,Tue Feb 20 16:09:01 +0000 2018,Join us at the San Francisco @AWSLoft to learn about @AWSforMobile with #iOS and @reactnative:… https://t.co/lbVOkvmtZW
+965591557133996000,Mon Feb 19 14:19:01 +0000 2018,What's new in #AWSAppSync: https://t.co/S3PJGuxy7a https://t.co/FIF4l34vAk
+964528049688637400,Fri Feb 16 15:53:01 +0000 2018,Want to learn about #AWSAppSync and @GraphQL?  Register today for our webinar: https://t.co/QWZnxDdvbV https://t.co/zAa2LwWs7n
+964148298343907300,Thu Feb 15 14:44:01 +0000 2018,Join us in New York City for a full day learning about #iOS and @AWSforMobile: https://t.co/tsE0ZafmP7 https://t.co/ZicH9YsmOx
+963852348144660500,Wed Feb 14 19:08:01 +0000 2018,Join us in San Francisco at the @AWSloft  for a full day learning about #iOS and @AWSforMobile:… https://t.co/ESxIU1Z8Wh
+963812077549817900,Wed Feb 14 16:28:00 +0000 2018,See how @USATODAY  uses @AWSforMobile #AWSDeviceFarm to test their mobile apps in this "This is my Architecture" vi… https://t.co/QHMWPp80oC
+963428305214066700,Tue Feb 13 15:03:02 +0000 2018,Join us in New York City for a full day learning about @ReactNative and @AWSforMobile: https://t.co/jJaJYm8vWb https://t.co/N9RKD8MFDp
+963090580816515100,Mon Feb 12 16:41:02 +0000 2018,Secure your @GraphQL API with @AWSforMobile, #AmazonCognito and #AWSAppSync: https://t.co/fCniIxr2yp https://t.co/an0lw7mkFD
+961993847541829600,Fri Feb 09 16:03:00 +0000 2018,Implement real-world authentication with @ReactNative (via @dabit3): https://t.co/pO5ZdS9Ezz
+961608563452989400,Thu Feb 08 14:32:02 +0000 2018,Join us in New York City for a full day learning about #iOS and @AWSforMobile: https://t.co/PGdZN1QQGl https://t.co/jBcemmP87b
+961258506971238400,Wed Feb 07 15:21:02 +0000 2018,Up and Running with @GraphQL in the Cloud using #AWSAppSync: https://t.co/SsIFxege38 https://t.co/TtcSdsdbvw
+960890332291493900,Tue Feb 06 14:58:02 +0000 2018,Join us in New York City for a full day learning about @ReactNative and @AWSforMobile: https://t.co/35KLdJMs1I https://t.co/uJfjr4REz0
+960573235325751300,Mon Feb 05 17:58:00 +0000 2018,Watch @dabit3 explain how to use the @AWSforMobile CLI and #AWSAmplify to add Authentication to a new @ReactNative… https://t.co/BY8qGLpYUN
+960547826693562400,Mon Feb 05 16:17:02 +0000 2018,Build a Custom Authentication UI for your @ReactNative app with #AWSAmplify and Amazon Cognito:… https://t.co/4vX0SoEZZf
+953659684963135500,Wed Jan 17 16:06:01 +0000 2018,Implement Mobile Authentication with @ReactNative, #AWSAmplify, and Amazon Cognito: https://t.co/M1dFnHXx1m https://t.co/7tqsbjrSSU
+953310635915399200,Tue Jan 16 16:59:01 +0000 2018,Build a CI/CD Pipeline for your @android App with AWS Services: https://t.co/qlJwtdTTP8 https://t.co/aST8mtsVFY
+951123474310991900,Wed Jan 10 16:08:01 +0000 2018,Connect a @ReactNative Notes App to @AWSforMobile with #AWSAmplify and #AWSAppSync: https://t.co/Do3GCYwqvm https://t.co/JADDwgBAn7
+950409518785138700,Mon Jan 08 16:51:01 +0000 2018,Automatically build your @Android app with AWS CodeBuild: https://t.co/6QYjVKDFH7 https://t.co/YOP3tHnX53
+948573675049160700,Wed Jan 03 15:16:02 +0000 2018,Automatically build your Android app with AWS CodeBuild: https://t.co/uNPuqsvYDT https://t.co/nPuiJGWnLm
+945146450840899600,Mon Dec 25 04:17:28 +0000 2017,Join us in London for a workshop on mobile dev with #AWSAppSync, #AWSAmplify and @ReactNative with the AWS User Gro… https://t.co/bUHn04qsca
+943518535208271900,Wed Dec 20 16:28:43 +0000 2017,The @AWSforMobile re:Invent Recap: All the mobile sessions in one place: https://t.co/xf4zj9fVJO https://t.co/GDgM6WA1Gf
+943161760906924000,Tue Dec 19 16:51:01 +0000 2017,AWS #reInvent Recap: Real time and Offline Applications with @GraphQL and #AWSAppSync: https://t.co/phiMc2jxrg https://t.co/fuIsIEIava
+942786793501491200,Mon Dec 18 16:01:02 +0000 2017,AWS #reInvent Recap: Integrating Video in Mobile Apps and Websites: https://t.co/NoxZy5mD78 https://t.co/obJXJm7CfP
+942546708982128600,Mon Dec 18 00:07:01 +0000 2017,AWS #reInvent Recap: Data-driven Apps with @GraphQL and #AWSAppSync: https://t.co/kwyet2rISx https://t.co/rmhLoNWY1u
+942062013538275300,Sat Dec 16 16:01:01 +0000 2017,AWS #reInvent Recap: Easy Demographics and Campaign Management in a Mobile World using Amazon Pinpoint:… https://t.co/YJBxuPyjCH
+941699879063244800,Fri Dec 15 16:02:01 +0000 2017,AWS #reInvent Recap: Implement User Onboarding, Sign-up and Sign-In for Mobile and Web Applications with Amazon Cog… https://t.co/hy2gMzpbUo
+941337244849311700,Thu Dec 14 16:01:03 +0000 2017,AWS #reInvent Recap: Tracking and Optimizing Ad Monetization for your Mobile App: https://t.co/DDKuXjO9K2 https://t.co/bTdeObrQEk
+940974854102310900,Wed Dec 13 16:01:02 +0000 2017,AWS #reInvent Recap: Testing and Troubleshooting with AWS Device Farm: https://t.co/IdEBlZ6kDZ https://t.co/ElNdLD4Wc3
+940627564200120300,Tue Dec 12 17:01:01 +0000 2017,New on the @AWSforMobile Blog: Check your web application performance on the latest #iOS and @Android devices:… https://t.co/5frVgwLQyf
+940612462264684500,Tue Dec 12 16:01:01 +0000 2017,AWS #reInvent Recap: Progressive Web Apps in the Real World: Optimizing your Web Work: https://t.co/euEVmjs4lE https://t.co/fQQTjZ3DiL
+940250080296226800,Mon Dec 11 16:01:02 +0000 2017,AWS #reInvent Recap: Analytics, Authentication and Data with JavaScript and AWS Amplify: https://t.co/ehvrVscJ9U https://t.co/UI6FIfGFNh
+939887690496999400,Sun Dec 10 16:01:02 +0000 2017,AWS #reInvent Recap: Learn how Amazon Music leverages Amazon Pinpoint to Drive Growth and Engagement:… https://t.co/JbXocPFJro
+939525301071220700,Sat Dec 09 16:01:01 +0000 2017,AWS #reInvent Recap: Driving effective Digital User Engagement  using Analytics, Push Notifications, SMS Text Messa… https://t.co/vArrHyigu2
+939162912949751800,Fri Dec 08 16:01:01 +0000 2017,AWS #reInvent Recap: Architecting Cost Effective Mobile Backends for Scale, Security and Privacy:… https://t.co/dEkcQsWg41
+938800527185530900,Thu Dec 07 16:01:02 +0000 2017,AWS #reInvent Recap: Devops for a Mobile World: Building an iOS or Android app on AWS: https://t.co/X3R6XV8TD8 https://t.co/sTmiKBm3e8
+938438138485182500,Wed Dec 06 16:01:02 +0000 2017,AWS #reInvent Recap: Building Hybrid and Web apps using JavaScript and AWS Mobile: https://t.co/iQL8K4vQpu https://t.co/rxx279ocST
+938075750711820300,Tue Dec 05 16:01:02 +0000 2017,AWS #reInvent Recap: The Mobile State of the Union: https://t.co/HXmfEuU9UQ https://t.co/FdCnNjUAQZ
+936703706988515300,Fri Dec 01 21:09:01 +0000 2017,Missed any of the @AWSforMobile sessions at #reInvent?  Don't worry - we'll be posting all the videos and will have… https://t.co/PTVp5PaqCW
+936671997609771000,Fri Dec 01 19:03:01 +0000 2017,Interested in Mobile Video?  @AndrewChud will break it down at #reInvent in the Venetian, level 3, room 3405 - star… https://t.co/pVSrJKZCK1
+936636262194274300,Fri Dec 01 16:41:01 +0000 2017,Learn how to take advantage of and track mobile advertising revenue at #reInvent, MBL307 in the Venetian, level 3,r… https://t.co/Xvzh1bmJ2k
+936396181479051300,Fri Dec 01 00:47:01 +0000 2017,Want to learn what is involved in building an #iOS or @Android App?  At #reInvent, we'll take you through the basic… https://t.co/raD2yfkvlP
+936373284433743900,Thu Nov 30 23:16:02 +0000 2017,Go the distance to create a scalable and secure signup for your app with #AmazonCognito. See sample app:… https://t.co/uEjVRYtucE
+936338552929112000,Thu Nov 30 20:58:02 +0000 2017,Learn all about user engagement and mobile campaign management at #reInvent.  MBL304 is starting soon in the Veneti… https://t.co/50yChgmXZ1
+936025236671270900,Thu Nov 30 00:13:01 +0000 2017,Learn about the AWS Amplify library for @ReactJS and @ReactNative at #reInvent - Venetian, Level 4 in Delfino 4002 https://t.co/wnt6O0mBME
+935992270079299600,Wed Nov 29 22:02:01 +0000 2017,Learn How Amazon Leverages Amazon Pinpoint to Drive Growth and Engagement with its Popular Music Streaming Service,… https://t.co/CwOPEjVX5u
+935979689398751200,Wed Nov 29 21:12:02 +0000 2017,Get the latest happenings of Amazon Cognito for mobile apps at #reInvent during MBL305 in the Venetian, Level 5, Pa… https://t.co/VTHCmGvzOZ
+935976918654115800,Wed Nov 29 21:01:01 +0000 2017,Can your app handle millions of signups per minute? #AmazonCognito can. Learn more: https://t.co/RbfpyPmBMY https://t.co/ptuK597cbM
+935946719883391000,Wed Nov 29 19:01:01 +0000 2017,Want a workshop on user engagement and mobile app analytics at #reInvent?  We've got you covered with MBL309 - Vene… https://t.co/zJVuxwfeE6
+935673670390952000,Wed Nov 29 00:56:01 +0000 2017,Dive Deep into AWS AppSync with @appwiz at #reInvent.  MBL402 is starting soon in the Venetian, Level 5, Palazzo N. https://t.co/ZCV2n8xDBR
+935670905409278000,Wed Nov 29 00:45:02 +0000 2017,Build real-time apps with AWS AppSync. Sign up for the preview here: https://t.co/ePgJtJinwT https://t.co/P5Iz66Fbp6
+935653789633253400,Tue Nov 28 23:37:01 +0000 2017,Learn how to architect high-scale mobile backends from @mohit at #reInvent - Venetian, Level 4, Room 4205 - startin… https://t.co/ExO2CIdYh7
+935643722338979800,Tue Nov 28 22:57:01 +0000 2017,Want to learn @GraphQL ?  Introduction to GraphQL at #reInvent starting in the Venetian, Level 1 room 507 soon! https://t.co/ru6pNDSaPj
+935637933624832000,Tue Nov 28 22:34:01 +0000 2017,Get the basics on testing mobile apps with AWS Device Farm at #reInvent.  Workshop MBL207 is starting in the Veneti… https://t.co/4QoG0XMsJr
+935637179262529500,Tue Nov 28 22:31:01 +0000 2017,Did you see that? #AmazonCognito helps Rekognition to recognize images. See how: https://t.co/wQaABtIGQ6
+935621326206881800,Tue Nov 28 21:28:01 +0000 2017,Get the low-down on @GraphQL and AWS AppSync from the product team in MBL404 - Venetian Level 1, Casanova 602 - sta… https://t.co/RZMdM3Byzh
+935621326206881800,Tue Nov 28 21:28:01 +0000 2017,Get the low-down on @GraphQL and AWS AppSync from the product team in MBL404 - Venetian Level 1, Casanova 602 - sta… https://t.co/RZMdM3Byzh
+935619816563593200,Tue Nov 28 21:22:01 +0000 2017,Let your employees SAML into your app or site: https://t.co/sGlPJcIgAz https://t.co/CzqojWht6u
+935595908317831200,Tue Nov 28 19:47:01 +0000 2017,Curious about the new #JavaScript AWS Amplify library?  If you are at #reInvent, you can learn all about it in MBL3… https://t.co/wNpzpS0AAv
+935561934191112200,Tue Nov 28 17:32:01 +0000 2017,At #reInvent?  The Mobile State of the Union is about to start in the Venetian, Level 5 in the Palazzo N https://t.co/Mii0ahbUhA
+935547841715556400,Tue Nov 28 16:36:01 +0000 2017,Add user authentication to your AWS Lambda function in a snap with @AWSCloud #AmazonCognito. See a sample app:… https://t.co/KQqIASGTDa
+935538278853480400,Tue Nov 28 15:58:01 +0000 2017,Want to know about Progressive Web Apps at #reInvent?  Join @mlabieniec  and @maxlynch in the Venetian, Level 4, ro… https://t.co/ET61gO80Av
+935337706590294000,Tue Nov 28 02:41:01 +0000 2017,Kick off your week of learning about AWS and Mobile by building a Chatbot.  Workshop starting soon in the Venetian,… https://t.co/u4CLKwglWw
+935167837588648000,Mon Nov 27 15:26:01 +0000 2017,Can't get to #reInvent this year?  Our sessions will be recorded and we will be tweeting the links to all the mobil… https://t.co/8XvjrYJxQb
+933368730767298600,Wed Nov 22 16:17:01 +0000 2017,AWS Mobile announces AWS Amplify library for JavaScript, @ReactJS and @ReactNative and the @AWSforMobile awsmobile-… https://t.co/AUyly7N3xT
+933109779312070700,Tue Nov 21 23:08:02 +0000 2017,The full six-part series on Content Providers, Sync Framework for @Android on @AWSforMobile:… https://t.co/N3apVd3szK
+932745626063863800,Mon Nov 20 23:01:01 +0000 2017,The @AWSforMobile SDK for #iOS v2.6.6 and @Android v2.6.7 released.  Added new auth capabilities, support for new P… https://t.co/ppX5GBOCo2
+932064131921973200,Sun Nov 19 01:53:00 +0000 2017,We kicked off a new video series for learning about Mobile Development on @AWSforMobile: https://t.co/ycHVKtB8Rr
+931219070468476900,Thu Nov 16 17:55:02 +0000 2017,Learn how to build a mobile video streaming service at @AWSReInvent with @AndrewChud (MBL308; Venetian; Friday @ 11… https://t.co/w7hZGHBUIg
+930838561548570600,Wed Nov 15 16:43:01 +0000 2017,New on the @AWSforMobile Blog: Building a Synchronization Endpoint with AWS Mobile Hub - part of our @Android Data… https://t.co/ueFbZXj7Lw
+930493289668710400,Tue Nov 14 17:51:02 +0000 2017,The @AWSreInvent Mobile Track is full.  Can't miss session?  Architecting cost-effective mobile backends for scale… https://t.co/vBurGFqR9h
+930174686629163000,Mon Nov 13 20:45:01 +0000 2017,Going to @AWSreInvent ?  We have a full schedule of 18 mobile sessions, 3 workshops, 8 dev chats and a booth to ans… https://t.co/fAYgSfaHou
+929386492878868500,Sat Nov 11 16:33:01 +0000 2017,Learn how to analyze user behavior on @Android with Amazon Pinpoint: https://t.co/6oAj40vfG0 https://t.co/tAtDweEMho
+929027377686032400,Fri Nov 10 16:46:01 +0000 2017,New on the @AWSforMobile Blog: Using a ContentProvider in @Android: https://t.co/nwOjMoUGr2 https://t.co/lj1zw3AvkT
+928656180481847300,Thu Nov 09 16:11:01 +0000 2017,Integrate Amazon Cognito into your Ionic App: https://t.co/pLJUAHt8LC https://t.co/TdWGIq4KRq
+928293037549195300,Wed Nov 08 16:08:01 +0000 2017,New on the @AWSforMobile Blog: Integrate Amazon Cognito into the @Android AccountManager API:… https://t.co/Dd5eRlZFOd
+927574302060408800,Mon Nov 06 16:32:01 +0000 2017,How to record user logins and daily active users in Amazon Pinpoint from @Android: https://t.co/zVFlzWEw5Y https://t.co/1Vqvf5JOPL
+927241357202214900,Sun Nov 05 18:29:01 +0000 2017,We've updated the Getting Started docs forintegrating AWS with @Android and #iOS: https://t.co/qBmbjfJyuq https://t.co/Y9tBaJSRXC
+926848294067818500,Sat Nov 04 16:27:07 +0000 2017,New @Android Tutorial on integrating Analytics, Auth, and Data into an app: https://t.co/IypbUwQYlF https://t.co/guAXOj0ODs
+926462223341576200,Fri Nov 03 14:53:01 +0000 2017,Use DynamoDB with the @AWSforMobile SDK Document API for @Android: Part 2 https://t.co/nTeyGXlsAi https://t.co/KX40PuyyiQ
+926099335330369500,Thu Nov 02 14:51:02 +0000 2017,New on the @AWSforMobile Blog: Build a ContentProvider for @Android: https://t.co/GMkVKgNvCS https://t.co/2q3pnGvVLw
+925637033850277900,Wed Nov 01 08:14:01 +0000 2017,Visit us for Mentor Hours and the AWS Developer Theater at #WebSummit 2017: https://t.co/QMDIWSaJBm https://t.co/zwpWFeq6Ob
+925388145755148300,Tue Oct 31 15:45:01 +0000 2017,Use DynamoDB with the @AWSforMobile SDK Document API for @Android: Part 1 https://t.co/oLz6z1KPxN https://t.co/D78nP05awV
+925028025145724900,Mon Oct 30 15:54:02 +0000 2017,An introduction to the @Android Sync Framework: https://t.co/S0KaB9AhTP https://t.co/BUjC01SAfP
+924672684742635500,Sun Oct 29 16:22:02 +0000 2017,Learn how to integrate the @AWSforMobile @ReactNative starter kit into your own app: https://t.co/6NKqozCONL https://t.co/csv1pEtzdt
+924193523313856500,Sat Oct 28 08:38:01 +0000 2017,Going to @WebSummit?  Join us in the AWS Developer Workshop on 7th Nov to talk @ReactNative and #MobileWeb https://t.co/LgC8CFHCOa
+923954198789722100,Fri Oct 27 16:47:01 +0000 2017,Easily add analytics for your #iOS app with @AWSforMobile and Amazon Pinpoint: https://t.co/GwWKWgxp1c https://t.co/67K4mKEyf1
+923576709953347600,Thu Oct 26 15:47:01 +0000 2017,An introduction to the Sync Framework for @Android: https://t.co/2lTSmpoWXz https://t.co/F1w7fiQuk9
+923215948382957600,Wed Oct 25 15:53:29 +0000 2017,Going to @WebSummit?  So are we.  Join us in the AWS Theater on 7th Nov for talks about @ReactNative and Mobile Web. https://t.co/xEF76avjBr
+923215836965494800,Wed Oct 25 15:53:02 +0000 2017,Easily add authentication to your @Android app with @AWSforMobile: https://t.co/10gi9atbXa https://t.co/DwQgeFTElo
+923215775154016300,Wed Oct 25 15:52:47 +0000 2017,Record authentication events on @Android with Amazon Pinpoint: https://t.co/ccsDdIyU7F https://t.co/Pel16Oq0y1
+921372689658458100,Fri Oct 20 13:49:02 +0000 2017,Direct Device Access for @Android and #iOS Devices in the cloud now available in AWS Device Farm:… https://t.co/RgAzzvpVk4
+920328810901405700,Tue Oct 17 16:41:02 +0000 2017,Connect to mobile devices as if they were local with @AWSforMobile Device Farm Direct Device Access:… https://t.co/LFPiQhiQM4
+919920620355440600,Mon Oct 16 13:39:01 +0000 2017,The @AWSforMobile team is coming soon to the #AWSLoft in Munich: https://t.co/gDbTGCiS3Z https://t.co/hXHQNXTfuX
+919619887651344400,Sun Oct 15 17:44:01 +0000 2017,Easy Sign-in and Sign-up with the @AWSforMobile SDK for @Android: https://t.co/h2EMExBvFM https://t.co/f1Vewaa8aI
+919241647531151400,Sat Oct 14 16:41:02 +0000 2017,New on the @AWSforMobile Blog: Automatic User Analytics with Amazon Cognito and Pinpoint:  https://t.co/VI4gVUMxS3 https://t.co/B1Rq33SBI0
+918860132074827800,Fri Oct 13 15:25:01 +0000 2017,Automatically build your @Android apps with AWS CodeBuild: https://t.co/vkdHDKDdaG https://t.co/ZTmAVdrQxR
+918515611830976500,Thu Oct 12 16:36:01 +0000 2017,Deploy a @ReactJS Single Page App in AWS with @awsformobile  Mobile Hub: https://t.co/ISzpypEkID https://t.co/RbOb0HaeEi
+918129566304096300,Wed Oct 11 15:02:01 +0000 2017,Build a Mobile Messaging App for #iOS with @awsformobile  Mobile Hub: https://t.co/9kNTD7pnLz https://t.co/CxK0T86i4m
+917755605808500700,Tue Oct 10 14:16:02 +0000 2017,Build a Mobile Messaging App for @Android with @awsformobile  Mobile Hub: https://t.co/ntLawTvM4R https://t.co/mGIHPta8Td
+917097768556093400,Sun Oct 08 18:42:01 +0000 2017,Try out @ReactNative using @awsformobile  Backend Services with our starter kit: https://t.co/egZRZXCOU5 https://t.co/edmBaNnBQF
+916703923221745700,Sat Oct 07 16:37:01 +0000 2017,Authenticate users in your @angular app using @AWSforMobile Services: https://t.co/D5HutEJoFZ https://t.co/nK22xqQU1m
+916310105150410800,Fri Oct 06 14:32:07 +0000 2017,Use @AWSforMobile Services with your @EmberJS app with this starter kit: https://t.co/Hs4uN1eHQS https://t.co/chdKeftMyp
+915942910356590600,Thu Oct 05 14:13:01 +0000 2017,Host your @ReactJS app on AWS easily with @awsformobile  Hosting and Streaming: https://t.co/HuWUCukv9Q https://t.co/GolUCbmdQj
+915381573578625000,Wed Oct 04 01:02:28 +0000 2017,Use @AWSforMobile Services with your @ReactJS app using our starter kit: https://t.co/1DJeKRGZV7 https://t.co/4OP874Yb85
+914848447542513700,Mon Oct 02 13:44:01 +0000 2017,Amazon Pinpoint adds ADM, BAIDU, APNS token auth and sandbox auth for push notifications with @Android and #iOS:… https://t.co/8CrRD8ywRs
+914515503711912000,Sun Oct 01 15:41:01 +0000 2017,New on the @AWSforMobile Blog: Announcing the AWS Mobile SDK v2.6 for Android and iOS: https://t.co/X9JorcjE6v https://t.co/LtCLwnVScy
+914163181735546900,Sat Sep 30 16:21:01 +0000 2017,Deep Linking in your @Android or #iOS Mobile App: https://t.co/PcQhq0de4Z https://t.co/dyfwhNSx3L
+913781918528806900,Fri Sep 29 15:06:01 +0000 2017,Introducing a native authentication UI in the @AWSforMobile SDK for @Android : https://t.co/GzbAlc46tA https://t.co/WAwJjChlN2
+913469365370130400,Thu Sep 28 18:24:02 +0000 2017,AWS Mobile SDK v2.6.3 for Android released.  Supports ADM and Baidu msging; Pinpoint Analytics for Cognito:… https://t.co/RoObWvhN22
+913451272510038000,Thu Sep 28 17:12:09 +0000 2017,AWS Mobile SDK v2.6.2 for iOS released: APNS Sandbox; Pinpoint Analytics for Cognito: https://t.co/9g0o5vAktB https://t.co/KsIbdAWNBB
+913398897678090200,Thu Sep 28 13:44:01 +0000 2017,Develop @ReactJS apps quickly with the @AWSforMobile React Starter Kit: https://t.co/DMCK44ckMR https://t.co/xP99Goac1H
+913069979838402600,Wed Sep 27 15:57:01 +0000 2017,The @AWSforMobile Device Farm now supports iPhone 8, iPhone 8 Plus and @appleios 11.  Check the list at… https://t.co/Qcq6HIY1gX
+913067372713594900,Wed Sep 27 15:46:40 +0000 2017,Quickly add @AWSCloud features to your @ReactNative app using @AWSforMobile Starter Kit: https://t.co/RePz73TWrR https://t.co/CaQnKNVqC3
+910532511935205400,Wed Sep 20 15:54:02 +0000 2017,New on the @AWSforMobile Blog: Custom Artifacts in @AWSCloud Device Farm: https://t.co/oSQPaOnBFF https://t.co/INXiTbp7e7
+910168109029498900,Tue Sep 19 15:46:01 +0000 2017,Push Notifications with @awsformobile  and @Ionicframework : https://t.co/PAycMkrHlx https://t.co/F5QA8jEVjQ
+909996224689958900,Tue Sep 19 04:23:01 +0000 2017,Learn how to add analytics and authentication to your @Android app with @AWSforMobile: https://t.co/RHRA3qX4Vt https://t.co/KjigYA0o0K
+909879456080252900,Mon Sep 18 20:39:01 +0000 2017,New on the @AWSforMobile Blog: Push Notifications with @IonicFramework and @AWSCloud Pinpoint:… https://t.co/eTFy3rDnPs
+909088494701727700,Sat Sep 16 16:16:01 +0000 2017,New on the @AWSforMobile Blog: Migrating Users to @AWSCloud Cognito User Pools: https://t.co/WpTUTOdqFy https://t.co/u2GWQROyzC
+908727364888211500,Fri Sep 15 16:21:01 +0000 2017,Add @AWSforMobile Analytics to your @appleios #iOS app in less than 10 minutes: https://t.co/MOmz1JrQ9B https://t.co/yXiL8bubhZ
+908471175445143600,Thu Sep 14 23:23:01 +0000 2017,New on the @AWSPodcast: Diving Deep into @AWSforMobile Device Farm: https://t.co/SCNEkY3hHe https://t.co/KyUO41Wl9b
+908471053558612000,Thu Sep 14 23:22:32 +0000 2017,New on the AWS Mobile Blog: Easy Sign-in and Sign-up UI with the latest AWS Mobile SDK for Android:… https://t.co/uIBsRhtFTG
+785148348030267400,Sun Oct 09 16:02:08 +0000 2016,Watch recordings of your Android &amp; iOS app tests running on real devices with Device Farm! https://t.co/CB357vo3wC https://t.co/zPkKPnJ3KL
+784777911425347600,Sat Oct 08 15:30:09 +0000 2016,Watch recordings of your Android &amp; iOS app tests running on real devices with Device Farm! https://t.co/CB357vo3wC https://t.co/mWSj49Pbmr
+784189032322310100,Fri Oct 07 00:30:09 +0000 2016,Watch recordings of your Android &amp; iOS app tests running on real devices with Device Farm! https://t.co/CB357vo3wC https://t.co/uxpTeDh801
+755808316572381200,Wed Jul 20 16:55:19 +0000 2016,AWS #DeviceFarm Remote Access on Android &amp; iOS devices is now available for all customers. https://t.co/OrZKi0VCkQ https://t.co/oh4VpADBft
+748902001879031800,Fri Jul 01 15:32:05 +0000 2016,Now use AWS Mobile Hub to model &amp; store app data in a NoSQL database using the Wizard flow. https://t.co/cIgZydf1Y7 https://t.co/2AXB0B79Az
+733097872535654400,Thu May 19 00:52:07 +0000 2016,Looking for resources to migrate from Parse Server to AWS? Learn more here: https://t.co/dtveAXvLq7 #MobileDev https://t.co/moCyHhbnnx
+732378112177012700,Tue May 17 01:12:03 +0000 2016,Successful mobile apps like @Airbnb and @netflix run on AWS! Get started: https://t.co/narDxz6b1N https://t.co/LAwvcnlNWC
+728369220078043100,Thu May 05 23:42:09 +0000 2016,Successful mobile apps like @Periscopeco and @Tinder run on AWS! Get started: https://t.co/kq9wu4K2Gr #MobileDev https://t.co/U13Oq4oF2e
+720315675516899300,Wed Apr 13 18:20:14 +0000 2016,AWS Device Farm now records Android tests &amp; automatically makes the videos available to you! https://t.co/BYPhWMza7g https://t.co/UvqETN0ja7
+703275204370309100,Fri Feb 26 17:47:29 +0000 2016,RT @jayway: Visualizing AWS Mobile Analytics using Elastic Search and Kibana: Amazon Mobile Analytics can be used to colle... https://t.co/…
+701927800547074000,Tue Feb 23 00:33:23 +0000 2016,.@AWSforMobile SDK for Android now supports AWS #IoT: https://t.co/E5f80PpQ6d https://t.co/MrTA6BAfOq
+700436609880096800,Thu Feb 18 21:47:55 +0000 2016,New from @AWSformobile: Test iOS apps on AWS Device Farm using Appium - Part 3 of 3. https://t.co/jJXGVBY9W0 https://t.co/xokOnseAvd
+700052628026187800,Wed Feb 17 20:22:07 +0000 2016,New from @AWSformobile: Test iOS apps on AWS Device Farm using Appium - Part 2 of 3. https://t.co/bsIKwCXAOY https://t.co/Gm25Jgf66z
+699722433033449500,Tue Feb 16 22:30:02 +0000 2016,New from @AWSforMobile: Test iOS apps on AWS Device Farm using Appium - Part 1 of 3. https://t.co/ecNDkJETXd https://t.co/Iniwq1bvNB
+697139035576242200,Tue Feb 09 19:24:32 +0000 2016,AWS Mobile Hub is now generally available. Learn more &amp; start building today! https://t.co/lYlukSPT59 https://t.co/IfvPCzgYcG
+695373820039819300,Thu Feb 04 22:30:12 +0000 2016,New on the @AWSforMobile blog: How to set up #Parse Server on AWS using  Elastic Beanstalk. https://t.co/gLr9QkDbaO https://t.co/WFsSzxhdow
+694924195394752500,Wed Feb 03 16:43:33 +0000 2016,New on the AWS Mobile Blog: Migrating from #Parse Push to Amazon SNS - https://t.co/1iDTPamPET https://t.co/omlaI2qaV4
+692857713580077000,Thu Jan 28 23:52:06 +0000 2016,Are you using Parse &amp; need a solution to run your mobile app? Checkout AWS Mobile Services: https://t.co/UmlEd8sZBu https://t.co/rFSJtnRGIE
+672556230846505000,Thu Dec 03 23:21:15 +0000 2015,New on our Mobile blog: Test your Android &amp; iOS apps w/ Device Farm CLI &amp; Calabash - pt. 2! https://t.co/m6yK2iiNz1 https://t.co/HOoz2P17M2
+672124412758351900,Wed Dec 02 18:45:22 +0000 2015,New on our Mobile blog: Test your Android &amp; iOS apps w/ Device Farm CLI &amp; Calabash - pt. 1! https://t.co/xS4ORCGFo1 https://t.co/G3YOcD90E9
+671750213044797400,Tue Dec 01 17:58:25 +0000 2015,New on the AWS Compute blog: Build your first application with JAWS, API Gateway &amp; Lambda. https://t.co/B9Atya3MCA https://t.co/9TcUXvhRZ4
+656933239815180300,Wed Oct 21 20:41:04 +0000 2015,We are happy to announce our partnership with Twitter @Fabric. Get all the details: https://t.co/wWE6DQkOQw https://t.co/gWogO2IxLM
+654761216670232600,Thu Oct 15 20:50:13 +0000 2015,RT @jinman: Awesome!! https://t.co/TO7xqomqLF
+654703810665803800,Thu Oct 15 17:02:06 +0000 2015,Don't miss part 3 of "Getting Started with Device Farm &amp; Espresso" on the #AWS Mobile blog: http://t.co/ezRA08i5aP http://t.co/bgilMkDwdh
+654405005017923600,Wed Oct 14 21:14:46 +0000 2015,Our #AWS SDK for #Unity3D now supports AWS Lambda &amp; Amazon Simple Email Service: http://t.co/WfhRdCnPRZ http://t.co/y8r1KPsloa
+654341421520937000,Wed Oct 14 17:02:06 +0000 2015,Don't miss part 2 of "Getting started with Device Farm &amp; Espresso" on our #AWS Mobile blog: http://t.co/JXTNzblIob http://t.co/mYfuV6CXo9
+654070014140510200,Tue Oct 13 23:03:38 +0000 2015,New on the #AWS Mobile Blog: Get started with AWS Device Farm &amp; Espresso - Part 1! http://t.co/HZcdq4sZym http://t.co/xSszqLtL9p
+648575472796696600,Mon Sep 28 19:10:17 +0000 2015,Now available: AWS Device Farm plugin for Android Studio/Gradle - test against real devices. http://t.co/9IsIaRlWjT http://t.co/Dv0CCkvDOL
+646411646194221000,Tue Sep 22 19:52:00 +0000 2015,Amazon Cognito is now available in our Asia Pacific (Tokyo) region. http://t.co/Bm0frZuPZ7 http://t.co/CD3HNjChVj
+637017202365829100,Thu Aug 27 21:41:50 +0000 2015,Run your @XamarinHQ-built apps on AWS - our @AWSforMobile SDK is now production ready. http://t.co/WJReeuz9sH http://t.co/DfGS8QSa3q
+636982889297547300,Thu Aug 27 19:25:30 +0000 2015,Just now: Sample apps &amp; tests to get you started with test automation on AWS Device Farm: http://t.co/clphNMFVJd http://t.co/g0NbBDqdVq
+634039788723548200,Wed Aug 19 16:30:40 +0000 2015,Building a mobile solution? Check out the new AWS Mobile Partner Solutions page: http://t.co/Gx8ucZfxRQ http://t.co/pIQjKur5kv
+633770896742723600,Tue Aug 18 22:42:11 +0000 2015,Introducing Amazon #S3 Transfer Utility for iOS – easily transfer data between iOS apps &amp; S3. http://t.co/WG1OtwMEYD http://t.co/qfHC3EvljV
+628647784413966300,Tue Aug 04 19:24:46 +0000 2015,AWS Device Farm now supports iOS – test your iOS, Android &amp; Fire OS apps against real devices. http://t.co/lHOmWZCDU1 http://t.co/vQwqkFNXQa
+626769324502462500,Thu Jul 30 15:00:26 +0000 2015,How Amazon Cognito Keeps Mobile App Users' Data Safe. http://t.co/35stH0I5Pi" http://t.co/Rc9SPH6tBs
+626177975294144500,Tue Jul 28 23:50:37 +0000 2015,Run your Xamarin-built apps on AWS with @AWSforMobile SDK for @Xamarinhq. http://t.co/tr0qHrFa37 http://t.co/U9QzENBk5p
+623953669000556500,Wed Jul 22 20:32:01 +0000 2015,Don’t miss the first-ever US #IoT HackDay at SF Loft with @MediaTekLabs #Lambda #kinesis #dynamoDB Register now - http://t.co/k4VQS7kq8A
+623552929853648900,Tue Jul 21 17:59:38 +0000 2015,Import your Swagger API definitions into Amazon API Gateway with our open source tool. http://t.co/qWbehHD55s http://t.co/heGinsOsMp
+621783706164813800,Thu Jul 16 20:49:22 +0000 2015,RT @TwitterDev: Picking a back-end for your mobile apps? Learn how @gpj integrates @Digits with @AWSCloud: https://t.co/33tIloKP2V http://t…
+620681541597790200,Mon Jul 13 19:49:45 +0000 2015,Amazon Device Farm, announced during #AWSSummit New York, is now available! http://t.co/ixZ2nNYvCw http://t.co/Ym7wQsMhYM
+619165843495096300,Thu Jul 09 15:26:55 +0000 2015,Introducing AWS Device Farm: Test apps on real phones &amp; tablets in the #AWS cloud! http://t.co/HyhK4aAcf4 #AWSSummit http://t.co/zHMhc6r3IR
+615950505873834000,Tue Jun 30 18:30:19 +0000 2015,Learn to use #AmazonML &amp; Mobile Analytics to build predictive applications for mobile apps. http://t.co/BxLDVZv7Jn http://t.co/XMbn8BRll1
+610550608412540900,Mon Jun 15 20:53:03 +0000 2015,Amazon SNS now supports sending push notifications to Mac OS &amp; VoIP apps on iOS devices. http://t.co/zKkz31oNa3 http://t.co/xiZjq9pGic
+603991708007854100,Thu May 28 18:30:19 +0000 2015,Use Amazon Mobile Analytics and R to do custom analysis of your mobile app usage data. New blog post: http://t.co/CKzIDdk4Qw
+599009851205812200,Fri May 15 00:34:12 +0000 2015,AWS Unity SDK is now available for all customers. Build #Unity3d games easily with AWS! http://t.co/ZbJgpnQ438 http://t.co/uUofCZdKtR
+593858741482561500,Thu Apr 30 19:25:31 +0000 2015,Cognito now supports auth via @Twitter &amp; Digits - provide a simpler onboarding experience. http://t.co/mOfWgWrhGo http://t.co/QDxZdeAZ3h
+593453478061547500,Wed Apr 29 16:35:09 +0000 2015,Check out our updated Cognito Developer Guide - learn to keep data in sync across devices: http://t.co/dT9NmdOw9N http://t.co/M4ONlL9R7b
+590642169834250200,Tue Apr 21 22:24:01 +0000 2015,RT @rexstjohn: Looking forward to @jinman #AWSIoTHackDay tomorrow with @Inteliot #Edison http://t.co/V5aeXV6SvI #intelmaker
+590595638724800500,Tue Apr 21 19:19:07 +0000 2015,RT @jinman: Don’t miss #AWSIoTHackDay tomorrow 4/22 with @Inteliot #Edison where AWS will teach you how to build an #IoT Device http://t.co…
+587846279738327000,Tue Apr 14 05:14:09 +0000 2015,Build Your Mobile App Faster with AWS Mobile Services #Lambda #cognito #AWSSummit http://t.co/gVMlTWX7zT Code: https://t.co/s9O1UVyxMR
+586320419688419300,Fri Apr 10 00:10:56 +0000 2015,Build your #mobilebackend with #AWS #Lambda - http://t.co/zMcEhNze1r http://t.co/S8DoXDUy9n
+579035816619458600,Fri Mar 20 21:44:31 +0000 2015,We’ve updated the SNS console with better navigation &amp; increased the view limit to 100,000. http://t.co/Eq7p1BvPZ3 http://t.co/nJ0UKJzoxd
+578723583020568600,Fri Mar 20 01:03:49 +0000 2015,Mobile Analytics now supports apps built with #JavaScript frameworks including @PhoneGap. http://t.co/TWxDPhz0xe http://t.co/nT9LpUlDTE
+578280709695148000,Wed Mar 18 19:43:59 +0000 2015,RT @jinman: Don’t miss the #AWSIoTHackDay at the Pop-up Loft @AWSstartups with @spark_io on March 30th. #IoT Sign up now - http://t.co/HaOC…
+573271664181395460,Wed Mar 04 23:59:50 +0000 2015,Introducing Cognito Streams: Automatically stream mobile user identity data to Amazon Kinesis! http://t.co/bSlxvJRPoH http://t.co/5iBJ6HQVeh
+572818990482911200,Tue Mar 03 18:01:04 +0000 2015,You can now use Amazon Mobile Analytics Auto Export to export your app event data to Redshift. http://t.co/gUHgdLu1l0 http://t.co/rG3JtUgzjo
+571165373304676350,Fri Feb 27 04:30:11 +0000 2015,Announced earlier: Mobile SDK for @unity3d now supports Mobile Analytics. Get the details: http://t.co/KaB2CQJOjA http://t.co/sio3rJMjkS
+571089893406978050,Thu Feb 26 23:30:15 +0000 2015,AWS Mobile SDK for Unity now includes Mobile Analytics so you track game metrics and export data to S3 to dive deep. http://t.co/VJwmaOaoOL
+571085005436395500,Thu Feb 26 23:10:50 +0000 2015,Mobile SDK for Unity now supports Mobile Analytics. Dig deep into your mobile game data. http://t.co/YoWVIrrJgF http://t.co/aOIcD2CxSv
+570641372866158600,Wed Feb 25 17:47:59 +0000 2015,RT @awscloud: We have decreased the DEX methods used in the Android SDK by about 40%. http://t.co/AEAZnxLHGy http://t.co/8XNly2UYDu
+570034601101537300,Tue Feb 24 01:36:54 +0000 2015,@leonidax Unity SDK does not support SNS APIs. Use AWS SDK to access SNS mobile push from your backend. More info at http://t.co/SLCO9OI3f8
+568232272995835900,Thu Feb 19 02:15:05 +0000 2015,We published an end-to-end example of how to use developer authenticated identities w/ Cognito http://t.co/0jTnsX5qnx http://t.co/JfNYnLwuEr
+565241086718013440,Tue Feb 10 20:09:11 +0000 2015,RT @bcf_ant: If you are startup and your mobile app requires push notification. I strongly suggest taking a look at Amazon SNS.
+563562881858678800,Fri Feb 06 05:00:36 +0000 2015,Get more insights into your mobile push notifications with Amazon SNS Delivery Status. http://t.co/bSLrIBdvww http://t.co/uvNfqio9bx
+562385038025981950,Mon Feb 02 23:00:16 +0000 2015,.@Jeffbarr details how to use the new Mobile Analytic feature to export data to S3: http://t.co/niFduseFNf http://t.co/xaVk1FIFMm
+553609498544582660,Fri Jan 09 17:49:24 +0000 2015,Support any identity provider with Amazon Cognito and @auth0, Active Directory, Twitter and more -  http://t.co/WIxTxTKip6
+553264833324277760,Thu Jan 08 18:59:50 +0000 2015,RT @awscloud: .@ConcreteGames uses Amazon Cognito for #NHL Hockey Target Smash. http://t.co/dBRi2Llb2c http://t.co/OCQF8cvrwJ
+549666003597000700,Mon Dec 29 20:39:22 +0000 2014,RT @AWSstartups: Using the AWS cloud for your next @Unity3d game. Details on the #AWSactivate blog: http://t.co/p7rLczF5Kp http://t.co/psBJ…
+545635945232748540,Thu Dec 18 17:45:21 +0000 2014,New tutorial and sample: Saving and synchronizing game state with #AmazonCognito in #Unity3d http://t.co/qgDPGBJ5DJ
+545380997441658900,Thu Dec 18 00:52:17 +0000 2014,Mobile Analytics can now automatically export your app data to your S3 bucket. http://t.co/OKsQ29Wk6Y http://t.co/AUzcBi4B4S
+545306300435804160,Wed Dec 17 19:55:27 +0000 2014,Build cross platform games! @AWSforMobile for @Unity3d is available in Developer Preview: http://t.co/PxRReuzA6I http://t.co/iWZ2Lx9tPL
+544596667442290700,Mon Dec 15 20:55:38 +0000 2014,RT @2lemetry: #IoT and #AWS: Learn more in our blog series #lambda #dynamodb #kinesis #redshift #s3 #M2M http://t.co/fNDY6mG0zU http://t.co…
+544596518938755100,Mon Dec 15 20:55:02 +0000 2014,RT @2lemetry: Machine Learning with #AWS #Lambda over @2lemetry #ThingFabric http://t.co/DKLyX9jeac #IoT #MQTT #M2M
+542002923480158200,Mon Dec 08 17:09:01 +0000 2014,RT @jinman: Learn more about AWS Mobile Services – Slides and Videos from #awsreinvent @awscloud #mobile - http://t.co/wVhbWaEHHe
+534783145691058200,Tue Nov 18 19:00:12 +0000 2014,New post on the #AWS Mobile Blog: Part 3 of our series on #AmazonCognito authentication http://t.co/sOQwoYx7BM
+532651391085342700,Wed Nov 12 21:49:22 +0000 2014,Outplay entertainment uses S3 connector to dynamically download game assets to the mobile device using AWS mobile SDK #reinvent
+532650924901031940,Wed Nov 12 21:47:31 +0000 2014,"From Zero to 500M pushes a day in just 3 days” - @path migrates to Amazon SNS by @landanspear
+532650524537925600,Wed Nov 12 21:45:55 +0000 2014,@path (app with 5M DAU, 3 platforms over 20 languages) uses Amazon SNS to send 500M+ push notifications a day @awsformobile #reinvent
+532644665204301800,Wed Nov 12 21:22:38 +0000 2014,#SPOT205 #reinvent @awsformobile @marcoargenti “What makes your mobile app unique” should be “Where are you spending most of your time"
+532643652418293760,Wed Nov 12 21:18:37 +0000 2014,RT @jinman: Don't miss @marcoargenti  State of the Union on AWS mobile with @path, @footballaddicts, @braincor, starting now.
+532209534761062400,Tue Nov 11 16:33:35 +0000 2014,Welcome to the First-Ever IoT HackDay starting in few minutes in Palazzo O #reinvent #awsiothackday
+530465396890271740,Thu Nov 06 21:03:00 +0000 2014,RT @awscloud: Amazon Cognito adds push synchronization, SDK for JavaScript &amp; EU (Ireland region). More on the @AWSforMobile blog: http://t.…
+526820286662836200,Mon Oct 27 19:38:38 +0000 2014,RT @jinman: Don’t miss #AWS #Mobile Services Deep Dive Webinar on Amazon #Cognito starting in few minutes at 1PM PT - https://t.co/rpTYPdgZ…
+525376127175766000,Thu Oct 23 20:00:04 +0000 2014,RT @jeffbarr: #AWS now supports OpenID Connect (#OIDC) for use with @Salesforce, @PingIdentity, and more - http://t.co/Q5Sfiq3CLO http://t.…
+525329313432752100,Thu Oct 23 16:54:03 +0000 2014,Synchronize user data between webapp built using Node.js and native mobile app using Amazon #Cognito - http://t.co/xPvSJehf1B
+525097000811757600,Thu Oct 23 01:30:55 +0000 2014,AWS Mobile Services presentation deck for today’s sessions at SF Loft @awsformobile http://t.co/gVMlTXeIrr
+524719617403412500,Wed Oct 22 00:31:20 +0000 2014,RT @jinman: Starting at 6PM at SF Loft - Learn how to build #Android #Game using #AWS Mobile Services @awsformobile @AWSstartups http://t.c…
+524695816334626800,Tue Oct 21 22:56:45 +0000 2014,Now you can use #Maven to add @AWSforMobile SDK in your #Android App -  http://t.co/1IC7mtd4xx
+520036716766183400,Thu Oct 09 02:23:09 +0000 2014,Build cross platform apps with Xamarin and AWS Mobile Services: #AWSMobileSDK for #Xamarin-beta available on AWSLabs  http://t.co/hevUMA8pUc
+516751011940016100,Tue Sep 30 00:46:56 +0000 2014,New Feature: Step by step guide for integrating your own backend auth system w/ #Cognito to sync data across devices http://t.co/1sewURGVsa
+516728207936978940,Mon Sep 29 23:16:19 +0000 2014,RT @jinman: New Feature: Bring your own username and password to authenticate and sync data using #Devauthidentities #cognito  http://t.co/…
+516728064143654900,Mon Sep 29 23:15:45 +0000 2014,RT @awscloud: Cognito now supports your existing identity management systems to manage unique identities for your #mobileapp users. http://…
+516727853316993000,Mon Sep 29 23:14:55 +0000 2014,RT @awscloud: The @AWSforMobile SDK V2 has reached General Availability - thanks to those who provided feedback during the Preview! http://…
+514815371165986800,Wed Sep 24 16:35:23 +0000 2014,New post on the #AWS mobile blog: Understanding #AmazonCognito Authentication. http://t.co/XTj7HlxAKz
+514145206279483400,Mon Sep 22 20:12:24 +0000 2014,RT @leanstackio: Amazon Cognito &amp; Mobile Apps – Part2: User-state Data Synchronization http://t.co/fynPaIfXFw
+514145109781147650,Mon Sep 22 20:12:01 +0000 2014,RT @Nscookbook: Nice alternative to Parse http://t.co/Et6sC0lch9
+514145044618428400,Mon Sep 22 20:11:45 +0000 2014,RT @pythonboto: [boto] https://t.co/Qpt3y0ac5x kyleknap - Added support for Amazon Cognito. Includes support for both Amazon Cognito Sync a…
+507194602139287550,Wed Sep 03 15:53:11 +0000 2014,RT @AWSstartups: #AWSactivate blog: Amazon Cognito &amp; Mobile Apps – Part1: User Identity and Simple AWS Authentication - http://t.co/4Z5hjIx…
+505471358273220600,Fri Aug 29 21:45:37 +0000 2014,Seamless transition between #mobile devices for your app users with #AmazonCognito sync http://t.co/G3hN2vZadI
+501391377347780600,Mon Aug 18 15:33:14 +0000 2014,Great #AmazonCognito #JavaScript #tutorial by Paul Coady - http://t.co/wODNrRRz5F
+500446500816560100,Sat Aug 16 00:58:38 +0000 2014,Use #AmazonCognito in your #website for simple #AWS authentication -http://t.co/QgeUKI24VF #JavaScript
+499624908129706000,Wed Aug 13 18:33:55 +0000 2014,#AWSMobileSDK – Pause and Resume #AmazonS3 Transfers Using #AWS #Mobile #SDK for #Android - http://t.co/VIW7uSbwN8
+497527724412391400,Thu Aug 07 23:40:27 +0000 2014,#AWSMobileSDK - How to Use #BFTasks in #AWS #Mobile #SDK for #iOS - http://t.co/fGtgU4rNyX
+492695926838808600,Fri Jul 25 15:40:37 +0000 2014,Using the #AmazonCognito Credentials Provider - http://t.co/1iVAPyf4pW #AWS #Mobile
+444263687466278900,Fri Mar 14 00:08:11 +0000 2014,New post on the #AWS Mobile Blog: @rachit_dhall uses #CloudFormation to automate deploying web identity federation. http://t.co/gZ9MvYbKCS
+443871516271210500,Wed Mar 12 22:09:50 +0000 2014,RT @awscloud: Make sure to save the date! @AWSreInvent 2014 returns Nov 11-14, 2014 http://t.co/yytcQ2LrXy #reinvent
+443110028166590460,Mon Mar 10 19:43:57 +0000 2014,RT @AWSIdentity: #AWS is removing root key retrieval. D/L &amp; secure your keys now. Better yet delete your root keys &amp; use #IAM instead! http…
+422836223816630300,Mon Jan 13 21:03:06 +0000 2014,@bok_ Can you post on the forums with more info? E.g., Which SDK? Which service? Which operation? Thanks! https://t.co/4aTnqWrQ8G
+417703619103047700,Mon Dec 30 17:07:58 +0000 2013,New post on the #AWS Mobile Blog: @turacma covers using global secondary indexes in #DynamoDB with the Mobile SDKs. http://t.co/1GpRoRHvFX
+415263804097069060,Mon Dec 23 23:33:00 +0000 2013,New post on the #AWS Mobile Blog: Weston discusses changes for Amazon S3 with Android 4.4 KitKat http://t.co/WOH9dYvi3z
+413734896000323600,Thu Dec 19 18:17:40 +0000 2013,New post on the #AWS Mobile Blog: @turacma continues his series on #DynamoDB and covers fine-grained access control. http://t.co/Gp77vIIKCS
+413458154954166300,Wed Dec 18 23:58:00 +0000 2013,RT @AWSCloudFormer: Join us this Friday for a CloudFormation Hangout, and bring your questions! http://t.co/u6fvSitmWj
+412753597953490940,Tue Dec 17 01:18:21 +0000 2013,And today, we talk about using #AWS CloudFormation to simplify the deployment of Token Vending Machines: http://t.co/PVzQFbznTH
+412753214686384100,Tue Dec 17 01:16:49 +0000 2013,Over the weekend, we published a new blog post on using multiple regions in the #AWS SDKs for #iOS and #Android: http://t.co/X2Fb9GICAP
+411610402926370800,Fri Dec 13 21:35:42 +0000 2013,Version o1.7.1 f the AWS SDKs for #iOS and #Android is now available. Learn more: http://t.co/CGUQzHgruu
+410147473647501300,Mon Dec 09 20:42:32 +0000 2013,RT @awscloud: The new #AWS Marketplace Management Portal provides tools to ISVs &amp; VARs to grow their business: http://t.co/5wmy70Izjx
+409011208545529860,Fri Dec 06 17:27:25 +0000 2013,@bok_ For these, we have no plans. I'd encourage you to fork the iOS repo and build from there: https://t.co/j3fKwCNyLc
+408741696646553600,Thu Dec 05 23:36:29 +0000 2013,@bok_ Thanks for reaching out! What services, specifically, are you interested in?
+405784605451907100,Wed Nov 27 19:46:03 +0000 2013,Latest post on the #AWS Mobile Developer Blog - @turacma reflects on #reinvent 2013 http://t.co/B7Z3tYSoBb
+401479538372116500,Fri Nov 15 22:39:15 +0000 2013,RT @AWSreInvent: Thank you for attending AWS #reinvent 2013 - we hope you had a great time! Session videos will be available next week:http…
+401132473171869700,Thu Nov 14 23:40:08 +0000 2013,Have questions for the #AWS mobile team? Stop by our office hours at 4:30 in the developer lounge. #reinvent
+401070811752452100,Thu Nov 14 19:35:07 +0000 2013,Today at 1:30 @turacma will be talking about using social login with Mobile apps: http://t.co/eRZQPPqcHO
+401069834403708900,Thu Nov 14 19:31:14 +0000 2013,RT @AWSreInvent: Stop by the #reinvent Developer's Lounge if you have questions for the SDK &amp; Tools teams: http://t.co/t92NWYp4TX
+400755719755943940,Wed Nov 13 22:43:03 +0000 2013,@sweyrick The transfer manager in Java does provide progress events: http://t.co/JnpYrRiM68
+400755378222153700,Wed Nov 13 22:41:42 +0000 2013,@sweyrick Which platform are you working with? Android or iOS?
+400712709169106940,Wed Nov 13 19:52:09 +0000 2013,RT @awscloud: Amazon AppStream lets you build graphically complex applications that run from mobile devices: http://t.co/hKV0JhvdPK
+400704657729011700,Wed Nov 13 19:20:09 +0000 2013,The #AWS #mobile team is presenting two sessions at #reinvent. Learn more on our blog: http://t.co/eCRsSs5xRw
+400703662357377000,Wed Nov 13 19:16:12 +0000 2013,RT @AWSreInvent: AWS #reinvent Central is open. Meet our sponsors, visit the AWS booth and check our Office Hours: http://t.co/205FA3csKG
+400326021070979100,Tue Nov 12 18:15:35 +0000 2013,At #reinvent this week? Don't forget to follow @AWSreInvent for the latest updates!
+398936856965824500,Fri Nov 08 22:15:33 +0000 2013,@JeffStonebrook You're welcome! Glad we could help.
+394935166650417150,Mon Oct 28 21:14:15 +0000 2013,The official Twitter account for #Mobile Development on #AWS is live! Follow us to catch blog posts, SDK tips, and more.

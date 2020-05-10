@@ -10,8 +10,8 @@ const TWITTER_API = {
 }
 
 // Specify first user_id (using user_id since there was a limit to use screen_name while fetching followers)
-let user_ids = ['28201743']
-let global_screen_name = 'Vevo'
+let user_ids = ['334715818']
+let global_screen_name = 'BuckSexton'
 
 let last_update = Date.now()
 
@@ -89,9 +89,9 @@ const getScreenName = (user_id) => {
             global_screen_name = name[0].screen_name
             console.log(`Next user --> ${global_screen_name}, id --> ${user_id}`)
             try {
-                if (fs.existsSync(`${global_screen_name}.csv`)) {
+                if (fs.existsSync(`./tweets/${global_screen_name}.csv`) || name[0].protected) {
                     //file exists
-                    console.log('Already exists. Fetching new user')
+                    console.log('Already exists/Protected. Fetching new user')
                     user_ids.shift()
                     getScreenName(user_ids[0])
                 }
@@ -104,7 +104,14 @@ const getScreenName = (user_id) => {
 
 const fun = () => {
     console.log('Fetching for --> ', global_screen_name)
-    getTweetsByUserId(user_ids[0], global_screen_name)
+    last_update = Date.now()
+    try {
+        if (!fs.existsSync(`./tweets/${global_screen_name}.csv`)) {
+            getTweetsByUserId(user_ids[0], global_screen_name)
+        }
+    } catch (err) {
+        console.error(err)
+    }
     if (user_ids.length == 1) {
         getFollowersByUserId(user_ids[0])
     } else {
@@ -130,7 +137,6 @@ const writeTweetsToFile = (username, tweetArr) => {
     } catch (err) {
         console.error(err)
     }
-    
     tweetArr.forEach(tweet => {
         const search = `\n`;
         const replacer = new RegExp(search, 'g')
@@ -138,7 +144,7 @@ const writeTweetsToFile = (username, tweetArr) => {
         content += `${id},${created_at},${text.replace(replacer, ' ')}\n`
     });
     
-    fs.appendFile(`${username}.csv`, content, 'utf8', function (err) {
+    fs.appendFile(`./tweets/${username}.csv`, content, 'utf8', function (err) {
         if (err) throw err;
         console.log(`Saved! for ${username}`);
         last_update = Date.now()

@@ -1,0 +1,549 @@
+id,created_at,text
+1239641792808538000,Mon Mar 16 19:56:49 +0000 2020,We’re improving Flow error suppressions so that they don’t accidentally hide errors.  https://t.co/PzhMaxlam9
+1237118703545663500,Mon Mar 09 20:50:58 +0000 2020,Check out what the Flow team plans to build in 2020!   https://t.co/o4KHuH9kVF
+1235297132657209300,Wed Mar 04 20:12:41 +0000 2020,@sess573 Check out [declarations]. You can put node_modules in that section! https://t.co/zXhBQE9Va7
+1235240779301425200,Wed Mar 04 16:28:46 +0000 2020,@sess573 Most npm packages don't ship Flow types with them and are not written using Flow. flow-typed doesn't valid… https://t.co/kNuhXF8gE0
+1230263453996245000,Wed Feb 19 22:50:39 +0000 2020,@ritz078 Not yet, but there will be
+1230165721260294100,Wed Feb 19 16:22:17 +0000 2020,Check out our 2019 retrospective: https://t.co/8Q8juCF1PD
+1222622889490501600,Wed Jan 29 20:49:46 +0000 2020,Want to start using exact object types by default? Check out our latest blog post for details on how you can upgrad… https://t.co/zTcbgyWFVg
+1218178330140258300,Fri Jan 17 14:28:41 +0000 2020,@montogeek But the willingness to do it yourself and (I bet) make it open source is what counts!
+1214588769925521400,Tue Jan 07 16:45:03 +0000 2020,@sospedra_r This is a dank meme
+1201579065372762000,Mon Dec 02 19:09:08 +0000 2019,We're releasing 0.113 today! See the changelog for more details: https://t.co/QGl6f2yoXb
+1194708548749582300,Wed Nov 13 20:08:09 +0000 2019,@prozeth @code Check out the `flow-for-vscode` extension
+1194399454016786400,Tue Nov 12 23:39:55 +0000 2019,@AlicanC @mvitousek Fixed in 0.112
+1191387905597542400,Mon Nov 04 16:13:06 +0000 2019,@FezVrasta Yes! https://t.co/rC70LjLmKx
+1189666678390571000,Wed Oct 30 22:13:33 +0000 2019,Spread fixes coming in v0.111! Read more about all the new kinds of errors you can expect (and some common fixes) i… https://t.co/TCAaXLqAOC
+1189209183880654800,Tue Oct 29 15:55:38 +0000 2019,RT @__avik: @mvitousek @flowtype Research paper: https://t.co/mzbZmFXqRj
+1187765735411650600,Fri Oct 25 16:19:53 +0000 2019,Flow can now send live Flow errors to your IDE as your type! Try out Flow &gt;=0.110.1 and let us know what you think! https://t.co/f5SAPZsKwI
+1187746526006857700,Fri Oct 25 15:03:33 +0000 2019,@daveymackintosh @typescript ^ anywhere other than `./api/node_modules`, that is
+1187746421262422000,Fri Oct 25 15:03:08 +0000 2019,@daveymackintosh @typescript Do you have any node_modules anywhere else? Might be worth trying out a lazy mode: https://t.co/0aZcTOfF8Y
+1187741666708471800,Fri Oct 25 14:44:15 +0000 2019,@daveymackintosh @typescript Mind sharing your flowconfig (redact private info)? Might be an easier fix than porting your codebase.
+1186812267985330200,Wed Oct 23 01:11:09 +0000 2019,@AlicanC You're amazing. Thank you so much! Will pass this to @mvitousek to take a closer look
+1186383649865945000,Mon Oct 21 20:47:58 +0000 2019,@AlicanC Do you have a snippet we can use to repro?
+1177231946130366500,Thu Sep 26 14:42:22 +0000 2019,@lilseifish You can call useRef with an explicit type argument (useRef&lt;number | null&gt;) to represent the type you ex… https://t.co/EOrKcu1jXw
+1174709208194920400,Thu Sep 19 15:37:54 +0000 2019,RT @__avik: Nice overview of gradually typed languages and their various design tradeoffs around bug-finding / usability (@typescript, @flo…
+1169990873351934000,Fri Sep 06 15:08:56 +0000 2019,@opiruyan It definitely fits for some use cases, and it has the benefit of breaking fewer things based on when it c… https://t.co/Rj8IxrohgF
+1165078742080938000,Sat Aug 24 01:49:52 +0000 2019,@colshacol @typescript Here's the full library definition: https://t.co/rkcAO4JB3Z
+1165017916296913000,Fri Aug 23 21:48:10 +0000 2019,@colshacol @typescript In Flow, `Promise&lt;T&gt;` lets you fill in `T` with the type returned by `await`ing the promise.
+1164274679567327200,Wed Aug 21 20:34:49 +0000 2019,@elie2222 @SeaRyanC @mweststrate @mjackson @ryanflorence @timdorr @jaredpalmer @BenLesh @typescript People like to… https://t.co/1sDOzWdJOE
+1163916750045569000,Tue Aug 20 20:52:32 +0000 2019,in v0.106.0, we're starting to bring some long-awaited fixes to our spread model. Read more about our spread model… https://t.co/s2UnaLvDHn
+1156319353199091700,Tue Jul 30 21:43:11 +0000 2019,@amadeus @codehitchhiker Ah, that's a bug with our value spreads logic, which will unsoundly merge unions into a si… https://t.co/ziaF6duqja
+1156275599327056000,Tue Jul 30 18:49:20 +0000 2019,We've released v0.104.0! This version includes a fix to a performance regression on large projects. Check out our c… https://t.co/kyj7M0Np5E
+1156273942778318800,Tue Jul 30 18:42:45 +0000 2019,@codehitchhiker https://t.co/cg8xLvN5Y5
+1154179211827040300,Wed Jul 24 23:59:02 +0000 2019,@elibelly @Kelset This was fixed in 0.103.0
+1152298792181518300,Fri Jul 19 19:26:55 +0000 2019,Flow 0.103.0 is out, featuring a fix to a longstanding bug with destructuring objects with defaults. Read more in o… https://t.co/4dWNkb4kGe
+1144634630915731500,Fri Jun 28 15:52:16 +0000 2019,@DennisKortsch You can override lazy mode behavior with the command line flag. `flow --lazy-mode none` should do the trick!
+1143635025365217300,Tue Jun 25 21:40:12 +0000 2019,@joshduck We are still vetting it internally before we recommend using it.
+1143634933304496100,Tue Jun 25 21:39:50 +0000 2019,@fabiomiranda We also have work in the pipeline to make fixing those errors easier, but we aren't ready to talk mor… https://t.co/wr8Ugmey5L
+1143623917715841000,Tue Jun 25 20:56:04 +0000 2019,Flow v0.102.0 has been released.  Check out the details of the new release here: https://t.co/9O0FtERs1N
+1143622662230630400,Tue Jun 25 20:51:04 +0000 2019,@fabiomiranda We're still trying this out internally before we recommend using it.  If you want to try it out, make… https://t.co/uWUHpHLKzJ
+1143186027252736000,Mon Jun 24 15:56:02 +0000 2019,@ThisIsMissEm Flow doesn't generate any code. This might have been some other tool
+1141831939143286800,Thu Jun 20 22:15:23 +0000 2019,@karolsmazur @cpojer @__avik Looking forward to your questions!
+1138449089597718500,Tue Jun 11 14:13:08 +0000 2019,We just released v0.101.0! This release includes support for default type arguments for polymorphic functions, a li… https://t.co/mR75ut7eO6
+1136797678422020100,Fri Jun 07 00:51:01 +0000 2019,@willlyrob Is there something specific you want to hear about? We've been tweeting about our releases and also put… https://t.co/Crk50Ryw8B
+1136678212136788000,Thu Jun 06 16:56:18 +0000 2019,@dannyharding10_ Can you link us to one of the SO questions?  There's also the #support channel in our discord: https://t.co/1T37t2P7pE
+1136361675320438800,Wed Jun 05 19:58:30 +0000 2019,We released flow v0.💯.0  We tightened up our React libdefs and squashed some bugs in destructuring. Check out the f… https://t.co/snk8MLH76H
+1133813977165783000,Wed May 29 19:14:52 +0000 2019,Flow v0.99 is out! You can expect Flow to find more errors with function statics in this version. For more details,… https://t.co/hm5VvTGKJt
+1122115668483223600,Sat Apr 27 12:29:57 +0000 2019,Flow v0.98.0 is out. It has a bunch of miscellaneous fixes from our bug bash earlier this month, so you'll likely s… https://t.co/Dmovb61REA
+1117817898456813600,Mon Apr 15 15:52:09 +0000 2019,Flow v0.97.0 has been released. You might see some new errors crop up due to a stricter handling of refining values… https://t.co/GqOhEQYeg5
+1117248661619183600,Sun Apr 14 02:10:13 +0000 2019,@KriguliPoeg Defining the type alias makes it easier to export and use in other files!
+1116039918193606700,Wed Apr 10 18:07:06 +0000 2019,@rsitechstudio That person must have opened that file to add types to it!
+1115708695470587900,Tue Apr 09 20:10:56 +0000 2019,@TatumCreative Thanks! I'll fix that up!
+1115671962620235800,Tue Apr 09 17:44:58 +0000 2019,Having trouble upgrading past v0.85.0? Take a look at how we upgrade Flow in our repos at Facebook: https://t.co/NyDBWVe9Qb
+1113871788008771600,Thu Apr 04 18:31:43 +0000 2019,@keithtpinson @pacoworks Flow does have subtyping
+1104016380746260500,Fri Mar 08 13:49:51 +0000 2019,@GusgusLF Thank you so much for this contribution! It's an awesome idea!
+1096823687540604900,Sat Feb 16 17:28:39 +0000 2019,@StepanKuzmin Can you make a small repro and open an issue on Github?
+1095416150903717900,Tue Feb 12 20:15:36 +0000 2019,@ryanashcraft @reactjs Hi! Post on SO with more details and reply here with a link. Jordan (@jbrown215 on GitHub) will take a look!
+1093937888130035700,Fri Feb 08 18:21:31 +0000 2019,@eloytoro Yes
+1093882220564152300,Fri Feb 08 14:40:19 +0000 2019,Flow v0.92 improves developer experience by making the Flow server responsive during rechecks! Read more about this… https://t.co/hKjWE464lX
+1093296074079367200,Wed Feb 06 23:51:11 +0000 2019,Over the past few weeks we've been picking up our slack on pull requests.  Thank you for all the contributions! https://t.co/e7ZEFxYuPY
+1090338786326777900,Tue Jan 29 19:59:58 +0000 2019,Do you contribute to Flow or one of the various Flow plugins, integrations, or tools?  If so, join our discord serv… https://t.co/iagiElWV76
+1090004057039822800,Mon Jan 28 21:49:53 +0000 2019,What the Flow team has been up to: https://t.co/U4jsD7fbMI
+1089056221703950300,Sat Jan 26 07:03:31 +0000 2019,@vrouesnel (jbrown215 from Github here) Yes. I've been meaning to review this. Thank you for the ping!
+1088822696048316400,Fri Jan 25 15:35:34 +0000 2019,@jasonlaster11 It's still around, but you need to be registered with NickServ to use it. But it's not very active.… https://t.co/nQ3yQsMCI9
+1087808642278195200,Tue Jan 22 20:26:05 +0000 2019,@devcasche Maybe we can! Guessing developer intent is hard, though. Was there a particular error message you though… https://t.co/KfomipZuPA
+1075157937054732300,Tue Dec 18 22:36:42 +0000 2018,@jasonlaster11 There's been a lot of talk around improving the types for redux in flow-typed:… https://t.co/hYFHMJq9ma
+1073349477665267700,Thu Dec 13 22:50:32 +0000 2018,Flow 0.89.0 has some big changes for our react model and includes support for React.forwardRef. Read more about thi… https://t.co/0B7n7bANym
+1073258441723007000,Thu Dec 13 16:48:47 +0000 2018,@fbOpenSource Are you a Flow user looking for a Nuclide alternative? We recommend VS @code with the flow-for-vscode… https://t.co/RnZczHOvQC
+1057288468802531300,Tue Oct 30 15:09:49 +0000 2018,Flow v0.85 is going to ask you for more annotations. Learn how to deal with these new errors and what the flow team… https://t.co/ib2vPg9AOG
+1052951450068951000,Thu Oct 18 15:56:03 +0000 2018,We're changing object types to be exact by default. Read more on medium: https://t.co/PLfe8ggQcv
+999696133453566000,Thu May 24 16:58:26 +0000 2018,RT @dan_abramov: I just upgraded the React repo to @flowtype 0.66+, and WOW. The new errors are so much better. 😍😍😍 Thank you @calebmer, @l…
+974663231556997100,Fri Mar 16 15:06:37 +0000 2018,Flow 0.68 is out! Flow is now stricter about accessing unknown properties in conditionals! For more, here is… https://t.co/uarDu0z335
+966351535457255400,Wed Feb 21 16:38:54 +0000 2018,RT @TatumCreative: @flowtype Nice new errors! My only tweak would be to change:  src/components/calltree/CallTree.js  to  src/components/ca…
+966027308850032600,Tue Feb 20 19:10:33 +0000 2018,Flow 0.66 introduces a new error message format for the JavaScript ecosystem. See any new errors you particularly l… https://t.co/iXaAkddmpF
+965387527711473700,Mon Feb 19 00:48:17 +0000 2018,RT @zero__bias: New @flowtype error message system is amazing! Big thanks @calebmer https://t.co/PKCSJnsi9p
+929347631427477500,Sat Nov 11 13:58:36 +0000 2017,RT @TheMarkSiebert: I wrote a blog post about enforcing method presence in React Components with @flowtype! https://t.co/eRLzLe19qB
+929347578277195800,Sat Nov 11 13:58:23 +0000 2017,@who_cayres @reactjs Woohoo! Congratulations 🙌
+929345723484618800,Sat Nov 11 13:51:01 +0000 2017,RT @brian_lovin: That warm fuzzy feeling when @flowtype stops you from being a dummy 😎
+929345310987399200,Sat Nov 11 13:49:23 +0000 2017,@hashnode 🙌
+928341206039371800,Wed Nov 08 19:19:25 +0000 2017,RT @adriancolyer: Facebook use Flow on 13M+ lines of JavaScript code. Here's how it works: https://t.co/2GFommeWAG
+928341128327282700,Wed Nov 08 19:19:07 +0000 2017,RT @__avik: Nice overview of our recent paper on @flowtype &lt;3 https://t.co/faQaV5ttXf
+927206174432247800,Sun Nov 05 16:09:13 +0000 2017,RT @im_scott_riley: The more I use @flowtype the more I realise: The. Type. System. Is. Always. Right.
+927205749473677300,Sun Nov 05 16:07:31 +0000 2017,RT @_lewisf: Working on new @flowtype and @typescriptlang targets #apollocodegen and it's coming together nicely. Can't wait until its prod…
+927205448813494300,Sun Nov 05 16:06:20 +0000 2017,RT @austin_pivarnik: Just realized the cleverness of @flowtype's logo (The shape of the F is defined by the orange triangles, like a type d…
+926131867572564000,Thu Nov 02 17:00:18 +0000 2017,RT @andreypopp: Why is nobody tweeting about it yet? Thanks @flowtype team, this was a much wanted feature for me. https://t.co/rSlt4Od6mR
+923154854112985100,Wed Oct 25 11:50:43 +0000 2017,RT @__avik: Flying out to @splashcon #SPLASH17 where we present (a slice of) the cutting-edge research behind @flowtype! https://t.co/P0pXF…
+922624360560468000,Tue Oct 24 00:42:43 +0000 2017,RT @getDanArias: @thekitze I just go with the Flow... *rimshot*  //cc @flowtype
+922112370490482700,Sun Oct 22 14:48:15 +0000 2017,RT @rradczewski: 🎉 Release of flowtypify@0.0.3: Generate @flowtype from JSON-Schemata https://t.co/r6WEhf0q7g https://t.co/xnYdseAaO8
+921484765903011800,Fri Oct 20 21:14:23 +0000 2017,RT @jasonlaster11: Thank you Andrew for helping upgrade to @flowtype 53!  https://t.co/539fVwljcs https://t.co/pMkgREjRKC
+920830815755370500,Thu Oct 19 01:55:49 +0000 2017,In 0.57.3 Flow no longer checks all your node_modules by default. Only the modules you import thanks to lazy mode.
+920460092918472700,Wed Oct 18 01:22:42 +0000 2017,RT @JeremyMorrell: My #NodeInteractive talk on Effective Typed JavaScript is up! https://t.co/jZjXebOnbt Applies to both @flowtype and @typ…
+913063038156021800,Wed Sep 27 15:29:26 +0000 2017,@julienrenaux @reactjs @typescriptlang @babeljs Let us know if there is anything we can help you with!
+913060005112197100,Wed Sep 27 15:17:23 +0000 2017,RT @mxstbr: Typing your JS can reduce the number of public bugs by up to 15%! 😱 (@typescriptlang/@flowtype)  Read the paper: https://t.co/I…
+911573628784803800,Sat Sep 23 12:51:03 +0000 2017,RT @seunlanlege: So I just gave @flowtype a try again after all this time, and I have to say, It has really matured. ☺️
+911348882080120800,Fri Sep 22 21:58:00 +0000 2017,RT @reactjs: We're relicensing React, Jest, Flow, and Immutable.js under the MIT license. https://t.co/3XD0z49UsS
+911074429781680100,Fri Sep 22 03:47:25 +0000 2017,RT @tukkajukka: A study suggests that both @flowtype and @typescriptlang could prevent 15% of bugs in committed code. https://t.co/JOpHN3QT…
+911073755979440100,Fri Sep 22 03:44:45 +0000 2017,RT @andreypopp: it's much more convenient (= faster) to write JS code than Py code these days, thanks to prettier and @flowtype
+911073553428049900,Fri Sep 22 03:43:56 +0000 2017,RT @asolove: From the GitHub issue activity, looks like error locations are way better in @flowtype 0.55!
+909805305550168000,Mon Sep 18 15:44:22 +0000 2017,RT @JeremyMorrell: If you're going to be at #NodeInteractive come listen to me talk about better leveraging @flowtype in your apps! https:/…
+908539019344060400,Fri Sep 15 03:52:36 +0000 2017,RT @asolove: Anyone interested in collaborating on some @flowtype educational materials? Intro to how to think in types, beyond just the do…
+908537324362915800,Fri Sep 15 03:45:52 +0000 2017,RT @ghaidar0: @flowtype opaque type alias is my favourite feature of the tool. Probably the strongest safety guarantee lib authors have at…
+908537089028874200,Fri Sep 15 03:44:56 +0000 2017,Introducing Atom IDE https://t.co/enjHcylnZ4
+908536405097275400,Fri Sep 15 03:42:13 +0000 2017,RT @jacobmischka: okay @flowtype is kinda fun
+908536237509636100,Fri Sep 15 03:41:33 +0000 2017,RT @kentcdodds: @bodiddlie @bmakuh @flowtype ... "and calls in the middle of the night because someone passed the wrong object to the loggi…
+908536218840842200,Fri Sep 15 03:41:29 +0000 2017,RT @kentcdodds: @bodiddlie @bmakuh @flowtype Just tell your team: "You can either have the noise here with a few extra characters, or you c…
+907629777154011100,Tue Sep 12 15:39:36 +0000 2017,RT @kentcdodds: Me right now: 😂 @flowtype ❤️ https://t.co/TASkHhenSf
+907629633813614600,Tue Sep 12 15:39:02 +0000 2017,RT @shaneOsbourne: I just published “Redux &amp; Flow-type — getting the maximum benefit from the fewest key strokes” https://t.co/4lvibT5jak
+907629287594848300,Tue Sep 12 15:37:39 +0000 2017,RT @cilice: The feeling of security Flow provides while refactoring code is just 😍 Thanks @flowtype!
+907266640349237200,Mon Sep 11 15:36:37 +0000 2017,@shaneOsbourne Wow, this is cool! 😄
+906545772463775700,Sat Sep 09 15:52:09 +0000 2017,RT @ryandrewjohnson: Some of my reasons for switching from TypeScript to @flowtype   https://t.co/KFkfyZnhEa
+906141539620995100,Fri Sep 08 13:05:52 +0000 2017,RT @maurotitimoli: A better functional branch using @flowtype  #javascript https://t.co/f8x6LnhjMK
+906141440622727200,Fri Sep 08 13:05:29 +0000 2017,RT @icelabaratory: Thank you @calebmer for your help cc @wu_ct @acdlite and  @dan_abramov as I said article is almost ready The start https…
+905564406028705800,Wed Sep 06 22:52:33 +0000 2017,Learn how Recompose types React higher-order components from Recompose maintainer @icelabaratory. https://t.co/0SEVHfoHeH
+905412259970560000,Wed Sep 06 12:47:59 +0000 2017,RT @yannickc: Pushed a pre-release for ESLint-plugin-React v7.4.0 with @flowtype 0.53.0 support (thanks @JoachimSeminck !) https://t.co/veg…
+905411940381466600,Wed Sep 06 12:46:42 +0000 2017,RT @_lewisf: @flowtype -- really appreciate the improvements you've made in 0.54, 0.53! really helping me paint a full rollout picture at @…
+905054019474735100,Tue Sep 05 13:04:27 +0000 2017,Great explanation of .js.flow files by @asolove. Who wants to contribute this to the docs? https://t.co/1b7kFAXwu6
+905053771650162700,Tue Sep 05 13:03:28 +0000 2017,RT @Kane_rogers: Every single time I add @flowtype to a legacy piece of code, I find at LEAST one bug.  Not sure what this says about me, o…
+904558699884175400,Mon Sep 04 04:16:14 +0000 2017,RT @jasonlaster11: Hey @flowtype pros, what do you think of this strategy for flow typing immutable records?   https://t.co/nagOoFBJef
+904558276682985500,Mon Sep 04 04:14:33 +0000 2017,RT @MarkLuetke: Thoughts on my first experience with @flowtype SPOILER ALERT: 👍https://t.co/Hr2XMbEF38 #flowtype #javascript
+904558048810721300,Mon Sep 04 04:13:39 +0000 2017,RT @yamthatiam: Love this talk by @__avik which explains @flowtype's constraint-based analysis incredibly succinctly https://t.co/8so97zGg04
+904012895373033500,Sat Sep 02 16:07:24 +0000 2017,RT @FlavioCorpa: I'm so excited to release my first @egghead lesson about @reactjs and @flowtype!!! https://t.co/Ot9zeIj5Qo
+903799749060452400,Sat Sep 02 02:00:26 +0000 2017,RT @johnhaley81: OMGGGGGG @flowtype you keep fixing all of things I've wanted fixed for so long https://t.co/PqMl8eM4nu &lt;3 &lt;3 &lt;3
+903431081486991400,Fri Sep 01 01:35:29 +0000 2017,RT @schneck: @calebmer @flowtype I wrote a blog post about @flowtype in my brand new blog! Any feedback appreciated. https://t.co/ZvGrnGuDF…
+903430392203558900,Fri Sep 01 01:32:45 +0000 2017,RT @gaelduplessix: @flowtype @__avik @nontrivialzeros @evilgabe @mroch @panagosg7 to people who think that javascript is a toy... https://t…
+903303087464386600,Thu Aug 31 17:06:53 +0000 2017,Learn about the types/systems research driving Flow! https://t.co/weSVCHkybb #oopsla17 @__avik @nontrivialzeros @evilgabe @mroch @panagosg7
+903236553794773000,Thu Aug 31 12:42:30 +0000 2017,RT @schneck: Moved an entire mid-size codebase to @flowtype within a few days. Little pain, big benefit! #reactjs
+903236536837095400,Thu Aug 31 12:42:26 +0000 2017,RT @mtrebizan: thank you @code and @flowtype extension for reminding me being lazy... 🥃 https://t.co/BQ1PZ9WW12
+902729458745983000,Wed Aug 30 03:07:29 +0000 2017,RT @asolove: If you want to get involved in @flowtype but don't know where to start, we've got a list of easy starter issues: https://t.co/…
+902704174961311700,Wed Aug 30 01:27:01 +0000 2017,RT @vkurchatkin: Another win for @flowtype, native `compose` type: https://t.co/Ub52L3FvEY
+902703734693576700,Wed Aug 30 01:25:16 +0000 2017,RT @spyl94: Upgraded to @flowtype 53, React support is way better. Just add to run `yarn create flow-upgrade` and fix few things.
+902703302260822000,Wed Aug 30 01:23:33 +0000 2017,@ReduxForm needs to be upgraded to Flow v0.53. Who wants to contribute the upgrade and move our ecosystem to a safe… https://t.co/sYFqfc3zdg
+902548886991941600,Tue Aug 29 15:09:57 +0000 2017,RT @nodkz: @calebmer @flowtype And from 6137 to 124 flow errors, again in seconds.  Ok, Now I am ready to roll up my sleeves and get it ove…
+902548840640725000,Tue Aug 29 15:09:46 +0000 2017,RT @nodkz: Run `yarn create flow-upgrade`. Thanks, @calebmer and @flowtype team for such amazing codemod! It's magic ✨👍❤️ https://t.co/PxtR…
+901944955823808500,Sun Aug 27 23:10:09 +0000 2017,RT @asolove: Burying the lede in this issue comment, @flowtype 0.54 is going to enable phantom types! https://t.co/GUYl6N7nZw
+901944798629699600,Sun Aug 27 23:09:31 +0000 2017,@TuanIswan Let us know how we can make your experience even better!
+901863388623511600,Sun Aug 27 17:46:02 +0000 2017,RT @ryandrewjohnson: A+ support from @calebmer and the @flowtype team. Making my switch from TypeScript to flow much smoother
+901119128554963000,Fri Aug 25 16:28:36 +0000 2017,Opaque types can be used to hide object properties on normal object types. Read more and follow us on our blog. https://t.co/YkJsQ5P7i9
+901079997049323500,Fri Aug 25 13:53:07 +0000 2017,What are your thoughts on the best error message format for Flow. We have ideas, but what do you think? https://t.co/9n4pQ1xpXH
+900936141964169200,Fri Aug 25 04:21:29 +0000 2017,RT @asolove: Experimenting with a simple rule and diagram to teach co(ntra)-variance for @flowtype developers. https://t.co/RgkREW21LW
+900936022111932400,Fri Aug 25 04:21:00 +0000 2017,RT @popmotionjs: Nothing like writing a @flowtype libdef to make you question whether your API surface might be too vast.
+900029517611253800,Tue Aug 22 16:18:53 +0000 2017,RT @SterlingWes: Alright, it took 3 months but I'm a convert. Will never write JavaScript without @flowtype again. 🎉🥇
+900027127617036300,Tue Aug 22 16:09:23 +0000 2017,@seanislegend Thanks for the catch!
+900026682798555100,Tue Aug 22 16:07:37 +0000 2017,@seanislegend @typescriptlang @flowtype
+899644524082810900,Mon Aug 21 14:49:03 +0000 2017,RT @nodkz: Example how to cover mongoose models with @flowtype  Supports fields, instance&amp;statics model methods. https://t.co/bpITnP7T6n
+899078428279791600,Sun Aug 20 01:19:36 +0000 2017,RT @asolove: Having trouble with @flowtype? A weird bug? Some code you don’t know how to type? I would love to screenshare with you and hel…
+899001787302031400,Sat Aug 19 20:15:03 +0000 2017,@silvenon How can we make the learning curve better?
+898298240424083500,Thu Aug 17 21:39:24 +0000 2017,RT @martin_hotell: @pspeter3 @flowtype @typescriptlang @asana yup, latest release of #flowtype is indeed a game changer for #react users
+898284464832487400,Thu Aug 17 20:44:40 +0000 2017,@asolove @travisci You can still fiddle by changing the version to 0.53.0
+898284406116364300,Thu Aug 17 20:44:26 +0000 2017,@asolove Thanks for letting us know! One of the build jobs has not yet completed. This should be fixed once @travisci runs.
+898255878066917400,Thu Aug 17 18:51:04 +0000 2017,RT @martin_hotell: this is currently not possible with @typescriptlang #typedChildren https://t.co/nECsFR3zt1 kudos @flowtype team!
+898067651599138800,Thu Aug 17 06:23:08 +0000 2017,RT @peterpme: The new `flow-upgrade` package and walk-through by @calebmer &amp; the @flowtype team is 🔥🔥🔥 Read more about it here: https://t.c…
+898066970184175600,Thu Aug 17 06:20:25 +0000 2017,RT @icelabaratory: New recompose release https://t.co/JFufatgzey preact, inferno, flow 0.53 support cc @wu_ct @deepsweet @_developit @acdli…
+897877209205022700,Wed Aug 16 17:46:23 +0000 2017,RT @maurotitimoli: Great to discover @flowtype finally add support to properly type React children!! https://t.co/OwXACotpku #javascript #r…
+897833240559460400,Wed Aug 16 14:51:40 +0000 2017,React support has gotten even better in Flow 0.53.0. Types children, better HOCs, and much more https://t.co/zMUNzwIk1N
+897620021664460800,Wed Aug 16 00:44:24 +0000 2017,RT @_lewisf: how many people are interested in enforcing 100% (or as close to) @flowtype coverage on their projects?
+897619921340960800,Wed Aug 16 00:44:00 +0000 2017,RT @jamiemhodge: Realized that "import * as Foo.." includes types, meaning one can imitate OCaml's Foo.T pattern (esp. w/ opaque). Good/bad…
+897093327199260700,Mon Aug 14 13:51:31 +0000 2017,RT @jomsdev: The more I learn about tools like @fbinfer or @flowtype the more I want to learn about #staticanalysis
+896490782739243000,Sat Aug 12 21:57:13 +0000 2017,RT @aaronabramov_: people who use @flowtype in their tests, what common issues do you usually have to deal with? and how can we make this e…
+896490525368369200,Sat Aug 12 21:56:11 +0000 2017,RT @_lewisf: Setup a @flowtype coverage linter for vim using ALE this morning. Super easy, props to both projects for making the integratio…
+895830068542324700,Fri Aug 11 02:11:46 +0000 2017,RT @rodrigoropr: Wow! Seems like Flow 0.53 will be an amazing release for react devs. 👏👏 @flowtype @calebmer
+895626254522634200,Thu Aug 10 12:41:53 +0000 2017,RT @JeremyMorrell: TIL about Exact Object Types in @flowtype https://t.co/s7IeYNgTaT https://t.co/UE5ByNklaH
+895625975806935000,Thu Aug 10 12:40:47 +0000 2017,RT @Keithamus: Check it! The "Projects that power @GitHub" showcase has been updated! https://t.co/I2VamIk2yZ; inc. @flowtype @babeljs @get…
+895302823658664000,Wed Aug 09 15:16:41 +0000 2017,RT @mraleph: @cjihrig @bmeurer of course it is - but "core" recommendation remains the same for Crankshaft and TurboFan: https://t.co/A9BT9…
+895302771464749000,Wed Aug 09 15:16:29 +0000 2017,RT @fhinkel: Great write up about V8, speculative optimization, and Flow. “Browser Engines” @justjulian14 https://t.co/OcwloSunRG
+894923612494282800,Tue Aug 08 14:09:50 +0000 2017,RT @claudiopro: Super interesting talk on @flowtype giving a glimpse at taint analysis and advanced tree shaking https://t.co/fn4r5c1Rri 👊🏼
+894923364216651800,Tue Aug 08 14:08:51 +0000 2017,RT @ur_friend_james: found a neat use for @flowtype's new opaque type aliases: type safe stringified values. errors if an unknown/arbitrary…
+894038009506447400,Sun Aug 06 03:30:46 +0000 2017,@chriscoyier @holtbt We'd also love it if you wanted to publish anything on our official Medium publication https://t.co/MjIMDE7uEt
+894037655368880100,Sun Aug 06 03:29:22 +0000 2017,RT @holtbt: Prettier + eslint-config-airbnb + @flowtype is the ultimate workflow for writing JS. Fight me.
+893840964728438800,Sat Aug 05 14:27:47 +0000 2017,RT @cpojer: What tools in the JavaScript space offer the best developer experience in your opinion? What could be better?
+893838746520625200,Sat Aug 05 14:18:58 +0000 2017,RT @evanborden: @flowtype Implicit `any` imports are a great lint warning! This has bitten my team and I'm happy we can now make it visible…
+893647102902902800,Sat Aug 05 01:37:27 +0000 2017,@wincent 👋
+893642709839167500,Sat Aug 05 01:19:59 +0000 2017,RT @nontrivialzeros: More cool stuff from Flow's summer interns! What do you wish that Flow could lint for? https://t.co/sPwRYu5GBf
+893538968993542100,Fri Aug 04 18:27:46 +0000 2017,Flow’s type information is useful for so much more then proving your programs are correct. Introducing Flow linter. https://t.co/dfr9rg7XQs
+893489183179722800,Fri Aug 04 15:09:56 +0000 2017,RT @mark_volkmann: @Kelset @controlplusb @flowtype @typescriptlang I have tried both. Here are a few reasons I prefer Flow over TS. 1) Bett…
+893472325454094300,Fri Aug 04 14:02:56 +0000 2017,RT @controlplusb: It's insane how quickly you can add @flowtype coverage to a project w/o any. Sure you may not get 100%, but even 80% is i…
+893100255629107200,Thu Aug 03 13:24:28 +0000 2017,RT @cpojer: JavaScript type systems becoming sound. Static optional typing is great, but a sound type system with strong guarantees is pref…
+893095415108714500,Thu Aug 03 13:05:14 +0000 2017,RT @orta: There’s some amazing work for @flowtype with @code from @thymikee on using the new flow language server support  https://t.co/yOf…
+892818290044657700,Wed Aug 02 18:44:02 +0000 2017,RT @dmnd_: @_Naz @flowtype Here's @FlexportEng's progress. Looks linear so far... check back in a year? 🙏 https://t.co/loffMwGSnn
+892573969273966600,Wed Aug 02 02:33:12 +0000 2017,RT @_Naz: Is 100% type coverage in Flow a myth? - On a real project... Cc/ @flowtype
+892402272944115700,Tue Aug 01 15:10:56 +0000 2017,RT @EthanGarofolo: Been using @flowtype for the first time this morning.  Wow!  I'm sure the honeymoon will end, but it's already catching…
+891561792249385000,Sun Jul 30 07:31:10 +0000 2017,…but it doesn't have to be. https://t.co/wQTpmqZ11G
+890748154416570400,Fri Jul 28 01:38:03 +0000 2017,👋 https://t.co/pGuHZRVNWa
+890748121658966000,Fri Jul 28 01:37:56 +0000 2017,@JeremyMorrell @psychronautron Always here to provide predictability to the greatest development ecosystem.
+890747904616300500,Fri Jul 28 01:37:04 +0000 2017,@JeremyMorrell @psychronautron 👋
+890745724735938600,Fri Jul 28 01:28:24 +0000 2017,RT @peterpme: TFW "you've reached 100% coverage by @flowtype" https://t.co/AxnRtcLlkT
+890745589343715300,Fri Jul 28 01:27:52 +0000 2017,@sebasporto @expo_io What can we do to improve your experience?
+890745502379130900,Fri Jul 28 01:27:31 +0000 2017,@cipriancaba @expo_io Too close. We've got work to do!
+890643553474330600,Thu Jul 27 18:42:25 +0000 2017,RT @nontrivialzeros: Opaque types give you tons of power to enforce invariants in your code. Built by one of the Flow team's amazing intern…
+890621685627367400,Thu Jul 27 17:15:31 +0000 2017,RT @bln_vs: Such a great talk on @flowtype https://t.co/jLtinPbA9k! Thank you @martinbalfanz for sharing it with me :)
+890620646777995300,Thu Jul 27 17:11:23 +0000 2017,Learn about Flow’s latest feature that lets you hide the implementation details of your types. Opaque type aliases https://t.co/2k8cpcEIm3
+890589669250916400,Thu Jul 27 15:08:18 +0000 2017,Anyone in Brazil and want to give a talk on Flow? Submit a proposal to @ReactConfBR! https://t.co/c3QxYcf9fl
+890588043286986800,Thu Jul 27 15:01:50 +0000 2017,RT @expo_io: Do you use a type checker when writing JavaScript (and are happy with it)? If so which one, if you had to pick one?
+890433193194668000,Thu Jul 27 04:46:31 +0000 2017,RT @Fipo: @flowtype is really awesome, assume that will save me a lot of headaches. thx @holtbt for the intro ;)
+890396397580673000,Thu Jul 27 02:20:18 +0000 2017,How can static typing with @flowtype change the future of JavaScript? https://t.co/CqOfk2T3Hc
+890362191995486200,Thu Jul 27 00:04:23 +0000 2017,RT @bhongbhibhat: I just love that "Maybe" requires opt-in in @flowtype. Knowing that it's guaranteed that I have a value downstream is a h…
+890290592583786500,Wed Jul 26 19:19:52 +0000 2017,@sseraphini @vkurchatkin @inject Try: https://t.co/Kt6PQD0Q0E
+890289761734189000,Wed Jul 26 19:16:34 +0000 2017,RT @kennethaasan: Big JavaScript codebase with @flowtype is amazing. Add #prettier including format on save in your editor and happy coding!
+890289552664936400,Wed Jul 26 19:15:44 +0000 2017,@justin_tulloss We are exploring ways to improve union types. Hopefully there will be progress on this soon.
+890210336548175900,Wed Jul 26 14:00:58 +0000 2017,An excellent case study on adding better Flow types to @apollographql. https://t.co/9IcbBaIWDB
+890209911484760000,Wed Jul 26 13:59:16 +0000 2017,RT @mark_volkmann: @Andreyco @flowtype @satya164 @grabbou A recent talk I gave on Flow: https://t.co/YuwB0gujBN
+890209508630253600,Wed Jul 26 13:57:40 +0000 2017,RT @mutebg: @flowtype is exceptionally smart, just love the way it helps me catching the errors
+890209508630253600,Wed Jul 26 13:57:40 +0000 2017,RT @mutebg: @flowtype is exceptionally smart, just love the way it helps me catching the errors
+890040960918315000,Wed Jul 26 02:47:55 +0000 2017,@zero__bias This is something we are working on.
+890040866823323600,Wed Jul 26 02:47:33 +0000 2017,@zero__bias Thank you for letting us know!
+890040743368155100,Wed Jul 26 02:47:04 +0000 2017,@sseraphini @Andreyco @satya164 @grabbou This is something we will provide guidance on in an upcoming version.
+890016459350360000,Wed Jul 26 01:10:34 +0000 2017,Share everything you've created. If you (yes you) haven't yet created any materials, then we encourage you to go ah… https://t.co/eL0Ikh3Emp
+890015818313891800,Wed Jul 26 01:08:01 +0000 2017,RT @c0deNinja: If you use @flowtype with React, do you also use PropTypes??  #ReactJS #JavaScript
+890015818271948800,Wed Jul 26 01:08:01 +0000 2017,@EloyToro Thank you for letting us know.
+889917584832901100,Tue Jul 25 18:37:40 +0000 2017,Contribution opportunity for the Flow and GraphQL communities. If you contribute, let us all know. https://t.co/ai4GtbmBBl
+889878006344278000,Tue Jul 25 16:00:24 +0000 2017,@calebmer @ebaerbaerbaer …but you're right that in principle you shouldn't need it!
+889868947755073500,Tue Jul 25 15:24:24 +0000 2017,You might even need to use the Flow type checker to generate prop types from the Flow syntax 🤔
+889868745270808600,Tue Jul 25 15:23:36 +0000 2017,You can also go the other way and convert Flow types to prop types: https://t.co/e1Gyu5fxP6 https://t.co/IPCir1XLpz
+889867985753657300,Tue Jul 25 15:20:35 +0000 2017,RT @nunoancruz: @WebStormIDE 2017.2 integrates well with @fbjest, @flowtype and @reactjs. Let me give it a try. #javascript #webstorm #webd…
+889867753364103200,Tue Jul 25 15:19:40 +0000 2017,@natenorberg Feel free to submit an issue and give us a link.
+889867518806020100,Tue Jul 25 15:18:44 +0000 2017,@ckoster22 Thank you for this!
+889866264713150500,Tue Jul 25 15:13:45 +0000 2017,@jevakallio @grabbou This should be fixed in an upcoming version of Flow along with a bunch of other React fixes!
+889865861460185100,Tue Jul 25 15:12:08 +0000 2017,@houshuang How big is your project?
+889865775317528600,Tue Jul 25 15:11:48 +0000 2017,@catelandaxel We completely agree!
+889865692572393500,Tue Jul 25 15:11:28 +0000 2017,@calebmer @AndaristRake It would probably be a good idea to explore other patterns that are easier to type and ther… https://t.co/oDrOjGQz06
+889734640298205200,Tue Jul 25 06:30:43 +0000 2017,@meerlol Could you provide an example project where you hit this error?
+889733707598143500,Tue Jul 25 06:27:01 +0000 2017,What is the most confusing Flow error message you have seen?
+889696583570214900,Tue Jul 25 03:59:29 +0000 2017,@AndaristRake How can we help you?
+889696211573264400,Tue Jul 25 03:58:01 +0000 2017,@arahansen Feel free to send us a Tweet!
+882886760463712300,Thu Jul 06 08:59:41 +0000 2017,RT @_rrdelaney: Just pushed a new release of ReasonablyTyped! Use @flowtype library definitions with @reasonml  0.8 fixes union types, bett…
+878305681157177300,Fri Jun 23 17:36:07 +0000 2017,"Chapter 2: scalability and soundness"! @__avik describes some cool stuff we've been working on and have lined up i… https://t.co/Gb88yfey8A
+867133776781955100,Tue May 23 21:42:57 +0000 2017,RT @orta: There’s a new release, 0.7.0, of @flowtype for @code based on contributions from @BrainMaestro and @thymikee  https://t.co/IGjoUF…
+867133316759027700,Tue May 23 21:41:07 +0000 2017,RT @curry_on_conf: 😍 "Flow Reloaded: New Challenges and New Opportunities" on @flowtype by Flow's creator, @__avik from @fbOpenSource 😺 htt…
+861688692964040700,Mon May 08 21:06:08 +0000 2017,Soon @flowtype will complain when you call a function with too many args. Here's a blog post explaining the change: https://t.co/P0FxwqfDU1
+857719613773238300,Thu Apr 27 22:14:26 +0000 2017,Flow v0.45 is out! We've swapped out our lexer and now can handle unicode! 🎉 Come try it out! https://t.co/s5NHLRffvI
+856500844505772000,Mon Apr 24 13:31:29 +0000 2017,RT @orta: There’s a new version of the @code extension for @flowtype - including code coverage from @thymikee  It’s awesome. https://t.co/f…
+855368896051896300,Fri Apr 21 10:33:31 +0000 2017,RT @AGlingeanu: @flowtype is getting support for #webpack’s dynamic import() in v0.45. Finally no more `Unexpected token import`  https://t…
+848904506159091700,Mon Apr 03 14:26:20 +0000 2017,RT @Beautiful_Open: Today's beautiful open source site is @flowtype: https://t.co/nmTdg187Z7
+846399294290759700,Mon Mar 27 16:31:31 +0000 2017,@flowtype Big thanks to @thejameskyle for the website redesign and to everyone else who helped with the docs!
+846397729500774400,Mon Mar 27 16:25:18 +0000 2017,New domain, revamped website and improved docs! Come check out https://t.co/KLY7Mrr9Uk! #thatnewdomainfeeling
+842871993619771400,Fri Mar 17 22:55:17 +0000 2017,RT @__avik: Brilliant (and super fast!) overview of @flowtype editor integration in Nuclide by @zertosh https://t.co/q2I5mYtuyD &lt;3
+842871956848300000,Fri Mar 17 22:55:08 +0000 2017,RT @__avik: One of the best talks I've seen. @jaredforsyth making a case for type systems for JS (with @flowtype as an example): https://t.…
+842861118162788400,Fri Mar 17 22:12:04 +0000 2017,Far out in the uncharted backwaters of the unfashionable end of the western spiral arm of the Galaxy, v0.42.0 is out https://t.co/pyCuSZXV4f
+835267078881955800,Fri Feb 24 23:16:04 +0000 2017,Flow v0.40.0 is out! Mostly bug fixes, but who doesn't love a good bug fix?! 🐜🐞 https://t.co/2LzjXD2rly
+831805246448009200,Wed Feb 15 09:59:59 +0000 2017,RT @steveluscher: Learning about read-only and write-only @flowtype hints from @ForbesLindesay. https://t.co/8M4QJwETCO
+823898528149815300,Tue Jan 24 14:21:31 +0000 2017,RT @evindor: The bounty is still on and waiting for a hero @flowtype  @spacemacs https://t.co/dR3RtifiFn
+823636828393611300,Mon Jan 23 21:01:36 +0000 2017,Flow just reached 10,000 stars on GitHub! https://t.co/KmcvJiKDoD https://t.co/fGii7gSei9
+822931346054070300,Sat Jan 21 22:18:16 +0000 2017,RT @_cr0cK: Import types and values in the same import with @flowtype 0.38.0 !👍
+822430749781590000,Fri Jan 20 13:09:05 +0000 2017,RT @JI: I wrote a brief post about a simple naming convention for your JS modules that works well with @flowtype: https://t.co/Z1UquNbUW4
+821830648725983200,Wed Jan 18 21:24:30 +0000 2017,@omerzach we usually aim for every ~2 weeks, but holidays got in the way this time :)
+821774227221127200,Wed Jan 18 17:40:18 +0000 2017,RT @jusrin00: after so many flow users telling me flow has/doesn't need "implements", now it actually does (i consider this a good thing th…
+821766587661353000,Wed Jan 18 17:09:56 +0000 2017,v0.38.0 is out! `implements`, shorthand type import, strict tuple types, `flow find-refs` &amp; most importantly emoji🐼! https://t.co/ngLhcxDSB4
+816866128530116600,Thu Jan 05 04:37:16 +0000 2017,RT @codemixers: Just released the first version of flow-runtime, @flowtype compatible run time type system for JS https://t.co/LqPmRp6qRF
+814133750921568300,Wed Dec 28 15:39:46 +0000 2016,RT @lbljeffmo: Should Flow drop the `?` sigil that currently indicates "maybe"? Alternative would be more precise/explicit unions: `T | nul…
+814117328489160700,Wed Dec 28 14:34:31 +0000 2016,RT @dan_abramov: @ScribblingOn @brianleroux Good point. Here's a few things I learned.
+813119893969240000,Sun Dec 25 20:31:04 +0000 2016,@avaragado suppress_comment? If so, there's a built-in one that you don't have to configure: "// $FlowFixMe"
+805915208002584600,Mon Dec 05 23:22:13 +0000 2016,RT @abramov_dmitrii: testing pyramid in 2016 https://t.co/1rTbfKoNsT
+804402964383207400,Thu Dec 01 19:13:06 +0000 2016,RT @controlplusb: With the popularity of @flowtype growing here is a little reminder of a good plugin for @AtomEditor. https://t.co/rMxeWvN…
+804342369172656100,Thu Dec 01 15:12:19 +0000 2016,RT @_chenglou: @soprano @jordwalke @vicapow The @flowtype parser is even on npm: https://t.co/taELFOZHmQ
+801605854269243400,Thu Nov 24 01:58:23 +0000 2016,Flow v0.36.0 is here! Incrementally better error messages, improved `flow ls` command, small bug fixes, and more! https://t.co/Ci50NcLmRY
+799724294662193200,Fri Nov 18 21:21:44 +0000 2016,RT @__avik: Happy 2nd birthday @flowtype! So proud of how far we've come since then @aspirant @evilgabe @nontrivialzeros @lbljeffmo @mroch…
+797518960425959400,Sat Nov 12 19:18:32 +0000 2016,RT @jacortinas: I’m becoming a bigger and bigger fan of @flowtype the more I use it. Seriously useful tool. https://t.co/YIR5SxdfXb
+797518398628380700,Sat Nov 12 19:16:18 +0000 2016,RT @dan_abramov: I like how @flowtype can save me from null reference errors even before I add any annotations. https://t.co/sCCPT0LZEi
+797244723803070500,Sat Nov 12 01:08:48 +0000 2016,RT @aldenjdaniels: Been using @flowtype heavily in a recent project. It's a game-changer. After a while you forget that JS isn't typed nati…
+797174207192961000,Fri Nov 11 20:28:36 +0000 2016,Flow v0.35 is out! Smaller release than the behemoth v0.34 but still contains lots of small fixes and improvements! https://t.co/pTB0xggCxj
+795977308993650700,Tue Nov 08 13:12:33 +0000 2016,RT @pavelvolok: My @flowtype fork is slowly starting to understand #GraphQL https://t.co/FjOFNjYiaO
+795794650355433500,Tue Nov 08 01:06:44 +0000 2016,RT @simonswiss: Always dismissed @flowtype b/c "one more thing to learn". Last night, @joshhunt showed how easy/useful it is to get started…
+794148464443658200,Thu Nov 03 12:05:23 +0000 2016,RT @leeb: GraphQL.js now exports Flow type definitions! Use both? Please try out the latest beta and give feedback!  npm install graphql@0.…
+793541489053798400,Tue Nov 01 19:53:28 +0000 2016,RT @lbljeffmo: Want to help out with flow-typed but dont know where to start? Check out issues tagged w "libdef-issue" over in https://t.co…
+791729156438499300,Thu Oct 27 19:51:55 +0000 2016,RT @notjosh: TIL: `SomeType[]` and `[SomeType]` aren’t equivalent alternate syntax in @flowtype (see: arrays vs tuples: https://t.co/4CmNBt…
+790928936519602200,Tue Oct 25 14:52:07 +0000 2016,RT @__avik: Getting ready to give a keynote soon on @flowtype design/implementation at @acm_ccs Programming Languages and Analysis for Secu…
+790927993300365300,Tue Oct 25 14:48:22 +0000 2016,RT @jlongster: Flow's JS parser is really cool. Written in OCaml and 3x faster than esprima: https://t.co/jLuIJvfu6R
+789106670102257700,Thu Oct 20 14:11:05 +0000 2016,RT @controlplusb: @controlplusb It's actually brilliant that we have the choice. It's never an all or nothing.
+789106662409896000,Thu Oct 20 14:11:03 +0000 2016,RT @controlplusb: Using flow is a lot like writing unit tests. Over time you build an intuition for where types will provide the most value.
+788115894954319900,Mon Oct 17 20:34:06 +0000 2016,RT @jose_pedro_dias: @flowtype `flow-typed install` generates libdefs automatically (worst case scenario bootstraps it, so you improve it y…
+788075079989067800,Mon Oct 17 17:51:55 +0000 2016,RT @gabro27: World, rejoice! Never more left-pad shall yield 'any' again. Let's celebrate the power of @flowtype!  https://t.co/42XYeX5dSe
+788061016081006600,Mon Oct 17 16:56:02 +0000 2016,RT @ryyppy: Did you know you can use capture groups in #flowtype's name_mapper option? E.g. 'mylib/\(.*\)' -&gt; '&lt;PROJECT_ROOT&gt;/dist/lib/\1'…
+788060034076905500,Mon Oct 17 16:52:08 +0000 2016,RT @amilajack: Installing @flowtype definitions was a breeze with `flow-typed`. Congrats for the amazing work on this!
+788056615769497600,Mon Oct 17 16:38:33 +0000 2016,RT @lbljeffmo: I just noticed that flow-typed is missing libdefs for left-pad 😳 Someone should probably hop on this...
+788051854546600000,Mon Oct 17 16:19:38 +0000 2016,RT @elpapapollo: Already been hugely beneficial in some of my projects. Check it out! #javascript https://t.co/A5PKmE6TIw
+788041897377931300,Mon Oct 17 15:40:04 +0000 2016,New blog post! Introducing flow-typed: Tested, versioned, community-managed libdefs &amp; libdef tooling for Flow. https://t.co/s0RFM7rdXJ
+788006915875954700,Mon Oct 17 13:21:03 +0000 2016,RT @andreypopp: My first-ever Vim plugin—https://t.co/lkWH4VzVPq—outline view for JS with the help of @flowtype &amp; CtrlP https://t.co/beTtfV…
+786722323839672300,Fri Oct 14 00:16:33 +0000 2016,RT @oerhoert: I've become a big fan of @flowtype. It requires a bit of a shift in thinking, but it gives JavaScript awesome new expressive…
+786189683378315300,Wed Oct 12 13:00:01 +0000 2016,@shawn_dsza let us know how it goes!
+786189548590071800,Wed Oct 12 12:59:29 +0000 2016,RT @DanHarper7: Thanks to @yarnpkg using @flowtype, the source is completely self-documenting.
+785990348199821300,Tue Oct 11 23:47:56 +0000 2016,RT @xaviervia: Sagui v7 is out. It supports @flowtype out of the box. Upgrading is safe  npm run test:typecheck  #reactjs https://t.co/f5xX…
+785491778279440400,Mon Oct 10 14:46:48 +0000 2016,RT @WebStormIDE: @ryyppy @gabro27 with @flowtype integration it does :P https://t.co/4YjSDaPbGZ
+785157691320574000,Sun Oct 09 16:39:15 +0000 2016,RT @GiulioCanti: Blogged: Slaying a UI Antipattern with #Flowtype https://t.co/pnYxoULiit
+784811667720900600,Sat Oct 08 17:44:17 +0000 2016,RT @gabro27: @ryyppy @flowtype oh yes, it's easy to overlook the benefits of flow if you focus on autocompletion only. That's the tip of th…
+783790562268876800,Wed Oct 05 22:06:46 +0000 2016,RT @gabro27: @irvinebroque @flowtype and they're finally documented! ✌️https://t.co/Cg8f3q0BJZ
+783467053848076300,Wed Oct 05 00:41:16 +0000 2016,RT @irvinebroque: Exact object types in @flowtype are such an amazing refactoring tool for big apps. Worth any pain of upgrading in order t…
+783459543237795800,Wed Oct 05 00:11:25 +0000 2016,Some big changes and new features are coming in the next version of Flow. Read this for a sneak peek!  https://t.co/jvK2kMlP4Q
+782258932538413000,Sat Oct 01 16:40:37 +0000 2016,RT @andreypopp: Did you notice there's no type annotations? Only schema which describes how to derserialise/validate JSON string. All types…
+782258918240071700,Sat Oct 01 16:40:34 +0000 2016,RT @andreypopp: Recent @flowtype release adds $ObjMap type constructor—makes it possible to express typesafe deserialisation w/ validation:…
+781706926673367000,Fri Sep 30 04:07:09 +0000 2016,RT @markdalgleish: New team member opened a PR adding @flowtype to our established React + Webpack + Babel app. Really surprised how straig…
+781683883133677600,Fri Sep 30 02:35:35 +0000 2016,Flow v0.33 is out! Lots of bugfixes &amp; perf improvements. Stay tuned for news on some new tools+features soon as well https://t.co/oy7EN1dSFK
+779757016537444400,Sat Sep 24 18:58:54 +0000 2016,@logan_barnett for "npm run flow", be sure to use the "flow-bin" devDependency to lock your project in to a specific version of Flow
+779443523112214500,Fri Sep 23 22:13:11 +0000 2016,RT @shanecav: The better I get with @flowtype, the less of it I end up having to write. I'm loving how good it is at type inference.
+773240954161684500,Tue Sep 06 19:26:24 +0000 2016,RT @lbljeffmo: Thanks to @zertosh `flow-bin` now has 0 deps and includes the binaries directly. Should be *much* faster to install! https:/…
+773189143312629800,Tue Sep 06 16:00:31 +0000 2016,Flow v0.32.0 is out! Check out release notes for help dealing w/ new errors, like "property `foo` of unknown type" https://t.co/GBn681Mw8B
+772166580419592200,Sat Sep 03 20:17:13 +0000 2016,RT @dan_abramov: Amazing job by @flowtype: Flow now works with Create React App almost without configuration! https://t.co/Y1CvcRcgPH https…
+770343929262645200,Mon Aug 29 19:34:39 +0000 2016,RT @__avik: Soon, @WebstormIDE with improved @flowtype support! https://t.co/saCYxrLsGZ
+768894078675198000,Thu Aug 25 19:33:28 +0000 2016,RT @ThierryAbalea: My colleague, @ABalhier, plays around with @flowtype https://t.co/wl1NcbQU5T https://t.co/Yk9iZZuLYF
+768826804064882700,Thu Aug 25 15:06:08 +0000 2016,RT @WebStormIDE: WebStorm 2016.3 EAP is now officially started: @flowtype, @postcss, and much more https://t.co/ZeWCnbh6n0 https://t.co/Wq9…
+765920695243173900,Wed Aug 17 14:38:18 +0000 2016,RT @ryyppy: My newest favorite shirt just arrived! Thanks @flowtype :-) https://t.co/Nlr42v36hz
+764908904056754200,Sun Aug 14 19:37:48 +0000 2016,RT @DanHarper7: 🔥🔥 The ESLint @flowtype plugin now supports auto-fix for some rules https://t.co/5cLpKNY4HS
+763364174646902800,Wed Aug 10 13:19:36 +0000 2016,@AvimRafa should work the same as in normal JS: https://t.co/jLu4lHquAp
+763188877045690400,Wed Aug 10 01:43:02 +0000 2016,@jcsnv yes, it errors if you try to access a property that doesn't exist on an object for which it knows the type @thejameskyle
+763130405335605200,Tue Aug 09 21:50:41 +0000 2016,Thanks to everyone who asked us questions in our Q&amp;A. That was a lot of fun. You can read all of our answers here https://t.co/bhRXcLuAjd
+763105015066075100,Tue Aug 09 20:09:48 +0000 2016,Flow Q&amp;A starting now on @sideway with  @lbljeffmo, @nontrivialzeros, and @thejameskyle. Send us your questions! https://t.co/bhRXcLuAjd
+762823641876750300,Tue Aug 09 01:31:43 +0000 2016,RT @notbrent: if you use @flowtype with ex-navigation 1.5.2 we typecheck your route names to help save you from typos! thx @skevy https://t…
+762822176189718500,Tue Aug 09 01:25:54 +0000 2016,Lint like it's 2016 with eslint-plugin-flowtype and babel-eslint https://t.co/MtAcM1o4zj &amp; https://t.co/u7qGfGYbsG
+762485365454143500,Mon Aug 08 03:07:32 +0000 2016,RT @leeb: Use flow-node just like node, but  runs JS with @flowtype without a hitch! 💻  https://t.co/c1mFEMYn1i https://t.co/s1ssTXxVX3
+762353052699467800,Sun Aug 07 18:21:46 +0000 2016,RT @ryyppy: I published my cli tool `flow-vim-quickfix` for nice @flowtype messages in #VIM &amp; neomake. https://t.co/NFkbQgRSH1
+761667189334167600,Fri Aug 05 20:56:23 +0000 2016,@tranvu @thejameskyle what are the things you want to know to make a decision
+761265110673424400,Thu Aug 04 18:18:40 +0000 2016,RT @ryyppy: My road to nicer quickfix messages for @flowtype in @neovim and #neomake ... https://t.co/kf9sKget5P
+761232895721615400,Thu Aug 04 16:10:40 +0000 2016,@poeschko @hallettj you should use $Keys instead of $Enum now
+761232807725150200,Thu Aug 04 16:10:19 +0000 2016,RT @poeschko: Some secret sauce in @flowtype: https://t.co/iE5g0RJopT by @hallettj #flowtype #JavaScript
+761225006554558500,Thu Aug 04 15:39:19 +0000 2016,RT @dan_abramov: Nice proof of concept of @flowtype integration in Create React App: https://t.co/ZEvFAi0VaB https://t.co/fp4AhyC0A9
+760887369306439700,Wed Aug 03 17:17:40 +0000 2016,@akimlinux awesome!
+760548654713372700,Tue Aug 02 18:51:44 +0000 2016,@oerhoert Awesome! Let us know if you need any help wrapping your head around Flow :)
+760547781257945100,Tue Aug 02 18:48:16 +0000 2016,@rwieruch Awesome work!
+760547690048426000,Tue Aug 02 18:47:54 +0000 2016,RT @rwieruch: Released my huge React + Redux real world tutorial - build your own SoundCloud client - https://t.co/70Ljy7eMrR #ReactJs #Red…
+760543720135614500,Tue Aug 02 18:32:07 +0000 2016,@bjrmatos 💁 https://t.co/BRbwvnociW
+760543492087148500,Tue Aug 02 18:31:13 +0000 2016,@DanHomola Sweeeeet, let us know about how it goes!
+760542752929157100,Tue Aug 02 18:28:17 +0000 2016,@motiz88 Awesome! Let us know how it goes 🤓
+760542627682979800,Tue Aug 02 18:27:47 +0000 2016,@internetsurfing 😄 have fun with it! Let us know if you have any problems
+760541647947968500,Tue Aug 02 18:23:53 +0000 2016,@stevenlangbroek Hey Steven, what in particular do you need more documentation on?
+760541130480123900,Tue Aug 02 18:21:50 +0000 2016,@Hoarvor Hi Harvey, what about TypeScript do you prefer to Flow?
+760203578497609700,Mon Aug 01 20:00:31 +0000 2016,Windows Support is here! https://t.co/ChpXDbAFsA https://t.co/JX55MJKVkB
+759860632569188400,Sun Jul 31 21:17:46 +0000 2016,RT @GiulioCanti: Blogged: Phantom types with @flowtype https://t.co/lUaiMMjTOl
+757703069396299800,Mon Jul 25 22:24:23 +0000 2016,RT @leeb: Perf of flow-remove-types tests vs Babel plugin: 7x faster to install, 2.5x faster to run.  https://t.co/MxZlaBmeo9 https://t.co/…
+757224645275754500,Sun Jul 24 14:43:18 +0000 2016,@logan_barnett flow-bin should generally be installed locally not globally... Where do you see --global?
+756571696182820900,Fri Jul 22 19:28:43 +0000 2016,RT @jlongster: Really liking Flow bc of thngs like this:  function updateObj&lt;T&gt;(obj: T, fields: $Shape&lt;T&gt;) : T {   return Object.assign({},…
+756558104142155800,Fri Jul 22 18:34:42 +0000 2016,RT @jin_: Shipping @flowtype to a corner of https://t.co/dGeU0FXPM9 and already feeling the benefits. It's awesome! https://t.co/McaVLPJlze
+755902190204706800,Wed Jul 20 23:08:20 +0000 2016,@rpominov not very much right now. At some point youll be able to use `implements` on classes, but it hasnt surfaced the priority queue yet
+755224287020191700,Tue Jul 19 02:14:36 +0000 2016,RT @notbrent: @lbljeffmo @Vjeux - awesome. https://t.co/8W3zAmQKXz -- it caught a handful of unused styles in the UIExplorer :)
+755169298696503300,Mon Jul 18 22:36:05 +0000 2016,@notbrent Is this an accurate type definition? `function create&lt;T&gt;(obj: T): T { ... }` Or do the values of the keys change type?
+755169069121335300,Mon Jul 18 22:35:11 +0000 2016,@notbrent (#140chars): Was just asking if the set of keys could be statically specified rather than dynamically
+755163334358491100,Mon Jul 18 22:12:23 +0000 2016,@notbrent Could you give a static type to `Stylesheet.create()`? (i.e. is it true that the types of the props don't change, only values?)
+755133057624117200,Mon Jul 18 20:12:05 +0000 2016,RT @BenMcMahen: One huge benefit of using @flowtype https://t.co/dvIDrjQd7H
+754003058095448000,Fri Jul 15 17:21:52 +0000 2016,RT @kevinSuttle: Man, I’m really loving @flowtype. Feels like I’m finally writing responsible JS. ✅
+753966427103645700,Fri Jul 15 14:56:18 +0000 2016,Flow v0.29.0 is out! Lots of bug fixes and small tweaks. Come try it out! https://t.co/3ui5Bey0aS
+753563641165680600,Thu Jul 14 12:15:47 +0000 2016,@Foxhoundn should be 0.28: https://t.co/cu93UQNCzw maybe you need to `brew update`?
+752314713191702500,Mon Jul 11 01:32:59 +0000 2016,RT @masylum: I'm impressed how smooth and easy is to add types with @flowtype. Extremely valuable when you are writing libraries and want t…
+751871348063006700,Sat Jul 09 20:11:13 +0000 2016,RT @iamdustan: .@iamdustan @flowtype now easily jump to all consumers of the current module with :FlowJumpToImporters https://t.co/KGcRwOxb…
+751462989320949800,Fri Jul 08 17:08:32 +0000 2016,@anstarovoyt most typechecking commands only query the server -- so running them and getting a response should be fast
+751462834496688100,Fri Jul 08 17:07:55 +0000 2016,@anstarovoyt CLI commands are the best way to send msgs to the srvr. Most have --json flags, but if you find any that don't let us know.
+751243116338933800,Fri Jul 08 02:34:51 +0000 2016,RT @iamdustan: Use @flowtype? Use Vim? Update vim-flow now for Flow’s JumpToDef support. https://t.co/yzJRUmBjmJ
+750858499882647600,Thu Jul 07 01:06:31 +0000 2016,@mrbrockvond @AtomEditor any chance this is related to https://t.co/qZpokrXGke ? (cc @natmote in case it's related)
+750394601266147300,Tue Jul 05 18:23:09 +0000 2016,Flow 0.28 is out, woo! Big union-types rewrite. We recommend checking out the blog post on unions before upgrading: https://t.co/LrCZlORIZ7
+749588098342907900,Sun Jul 03 12:58:23 +0000 2016,RT @GiulioCanti: "Proof in functions" by @mbrandonw implemented in JavaScript and using @flowtype as a static type checker https://t.co/4JK…
+748611160971313200,Thu Jun 30 20:16:23 +0000 2016,RT @dan_abramov: Words fail to describe how cool this codemod by @keyanzhang is. createClass + PropTypes =&gt; ES6 + properties + Flow! https:…
+748207540329119700,Wed Jun 29 17:32:33 +0000 2016,@raxpost So we have d. unions and builtin maybe type  var a: ?string = "a"; if (typeof a != null) { a.trim(); } /*safe*/ a.trim(; /*unsafe*/
+748130953365585900,Wed Jun 29 12:28:13 +0000 2016,@raxpost there is support for disjoint unions, if that's what you're looking for? https://t.co/vZtZKo6Kax
+743053543607836700,Wed Jun 15 12:12:24 +0000 2016,@DJCordhose maybe you want string|void? The 'null' annotation means only null, never 'undefined' @nontrivialzeros
+742715939414761500,Tue Jun 14 13:50:53 +0000 2016,@zvona 👍 Could also use name_mapper config, but ultimately Flow needs to know to check against either iOS or android version if they differ
+742705197596708900,Tue Jun 14 13:08:12 +0000 2016,@zvona `import Layout from './Layout.ios'`
+741996413282701300,Sun Jun 12 14:11:45 +0000 2016,RT @ian_sinn: I really like @flowtype but getting set up with Webpack can be a pain, so I wrote a new post about how I do it: https://t.co/…
+740955100454223900,Thu Jun 09 17:13:56 +0000 2016,@davidtheclark maybe you could send an example paste/gist? @reactjs
+740939128976609300,Thu Jun 09 16:10:28 +0000 2016,@flowtype ^^ inits the property to `null` with a type of `?string` so you can set a string later @davidtheclark @reactjs
+740938908427558900,Thu Jun 09 16:09:36 +0000 2016,@davidtheclark you can init the property: `React.createClass({myProp: (null: ?string), someMethod() { this.myProp="asdf"; }})` @reactjs
+740241927203881000,Tue Jun 07 18:00:03 +0000 2016,@richardiii Check out the `https://t.co/RzqvxHMH9o_mapper` config option: https://t.co/2JbHlnoQ7I
+739873111433052200,Mon Jun 06 17:34:30 +0000 2016,RT @cassiozen: It's not only about nullable types. @flowtype is a type system thought for JavaScript and its dynamic nature: https://t.co/i…
+739411281304686600,Sun Jun 05 10:59:21 +0000 2016,RT @ReactEurope: Take a deepdive into @flowtype with @lbljeffmo in this latest #ReactEurope video! https://t.co/NZt3GYM5Cq
+738771200248184800,Fri Jun 03 16:35:54 +0000 2016,RT @DJCordhose: My material for using @flowtype w/ @reactjs and #redux: https://t.co/GchwHDVD7Y https://t.co/8WvpvkfRmn https://t.co/ZasWbV…
+738707367806795800,Fri Jun 03 12:22:15 +0000 2016,@Sander_Spies we generally aim for 2-3week release cycles :)
+738680806407852000,Fri Jun 03 10:36:42 +0000 2016,RT @tomduncalf: Great look at new features in Nuclide + Flow from @jonasgebhardt — looking very slick, time to try out @flowtype again for…
+738394127885316100,Thu Jun 02 15:37:33 +0000 2016,RT @lhellemons: @flowtype explained wonderfully, live by @lbljeffmo @ #ReactEurope! It can do so much more than I thought! #OpenTForMe
+737768939619557400,Tue May 31 22:13:16 +0000 2016,RT @alex_frantic: Part 1 of "Using #Redux with @flowtype" is out! https://t.co/uWCZUrkEGg
+736348346038640600,Sat May 28 00:08:21 +0000 2016,Flow v0.26.0 is out and it includes proper support for stateless functional React components! Come try it out! https://t.co/DIfNFNMzHO
+735939197702418400,Thu May 26 21:02:32 +0000 2016,RT @rpominov: Wow, I like this! Came with the latest Nuclide update. https://t.co/9H9xJxE1Pw
+735512369607155700,Wed May 25 16:46:28 +0000 2016,Some really excellent feedback happening in this thread... The team is listening closely, so keep it coming! https://t.co/82WIw0pzc6
+733984341181800400,Sat May 21 11:34:38 +0000 2016,@prencher also, if you write a libdef, consider contributing to flow-typed repo so others can make use of it too! :) https://t.co/kZhySe4Aqz
+733983948330696700,Sat May 21 11:33:04 +0000 2016,@prencher youll need a library def for firebase before Flow knows what its API looks like. Take a look at: https://t.co/3oCdtkpJGE
+733381727012458500,Thu May 19 19:40:03 +0000 2016,@kylpo can you link to the examples you're referring to?
+733268806752186400,Thu May 19 12:11:21 +0000 2016,RT @lbljeffmo: Pretty excited to go talk about how the internals of @flowtype work (and why we built it that way) at @ReactEurope in a few…
+732622836620271600,Tue May 17 17:24:30 +0000 2016,We released Flow v0.25.0 yesterday! `declare module.export`, OCaml 4.03.0 support, bug fixes, perf wins, and more! https://t.co/2BGS0T52li
+732228583696023600,Mon May 16 15:17:53 +0000 2016,RT @ryyppy: To all @flowtype users: What topics would you like to see in a flow tutorial? I try to add stuff to our https://t.co/EwdP6XsdYx…
+730857075446779900,Thu May 12 20:28:00 +0000 2016,@BrianGeihsler let us know what you think!
+730508814705922000,Wed May 11 21:24:08 +0000 2016,@RyanSpice As of a week or so ago, core-team-member @evilgabe is working on this full-time now
+730451778844659700,Wed May 11 17:37:29 +0000 2016,RT @lbljeffmo: alternative to `any`
+730451768321163300,Wed May 11 17:37:27 +0000 2016,RT @lbljeffmo: When writing Flow definitions, try to avoid using `any`, `Function`, &amp; `Object`. These types throw away type info! `mixed` i…
+728184970749960200,Thu May 05 11:30:00 +0000 2016,RT @winkler1: TIL: @flowtype supports line-level error suppression. Much better than skipping whole file! https://t.co/grrA2reUa2 https://t…
+726495863892250600,Sat Apr 30 19:38:06 +0000 2016,RT @vawkalak: https://t.co/N0iOaiqKgl added mocha interface for @flowtype
+726095428815564800,Fri Apr 29 17:06:55 +0000 2016,Flow v0.24 is out! Mostly a bugfix release, but also some better error messages and support for type-param defaults! https://t.co/dH7LCJdQkB
+724295584719470600,Sun Apr 24 17:54:58 +0000 2016,@CrocoDillon you can try `flow --all` (warning that this often produces lots of noise from code not written with Flow in mind, though)
+723145738977464300,Thu Apr 21 13:45:54 +0000 2016,RT @koba04: "we now export types for both Flow and TypeScript in npm module!" / “Release v3.8.0 · facebook/immutable-js · GitH…” https://t.…
+722452970684727300,Tue Apr 19 15:53:05 +0000 2016,@dv4me If you find or make one, you should contribute it here! https://t.co/vedGmQJQw9 :)
+722143536293011500,Mon Apr 18 19:23:30 +0000 2016,@_chris_lent_ Something like this? https://t.co/0J5Bayfu7b
+720608546942021600,Thu Apr 14 13:44:00 +0000 2016,RT @winkler1: Using @flowtype type aliases for Redux action payloads: https://t.co/1mMGiDS7R5 https://t.co/fm5XkHIqyo
+720608457360085000,Thu Apr 14 13:43:39 +0000 2016,@louroboros this repo has a good list of libdefs too (plan is to merge w flow-typed when ready): https://t.co/1StnTTdUhZ
+720608278904971300,Thu Apr 14 13:42:56 +0000 2016,@louroboros there's a repo of libdefs in the works: https://t.co/kZhySe4Aqz -- also aims for tooling to help find/install them for you
+720607784115519500,Thu Apr 14 13:40:58 +0000 2016,RT @tomkisw: We're getting closer to #elm in #javascript - definitely does make sense to use @flowtype https://t.co/jjujTJhiNx https://t.co…
+718072629110956000,Thu Apr 07 13:47:10 +0000 2016,@calebmer 2/ someone else tho (we dont have nested .flowconfigs -- pretty tricky to get that working right). Wanna open an issue to discuss?
+718072404526936000,Thu Apr 07 13:46:17 +0000 2016,@calebmer 1/ That seems plausible. It likely wouldnt play well if your code winds up as a dependency for
+718054233107525600,Thu Apr 07 12:34:04 +0000 2016,@flowtype @calebmer That said, there is the `flow --all` flag which will do this ad-hoc, if you want to try that
+718054001196064800,Thu Apr 07 12:33:09 +0000 2016,@calebmer There's not, unfortunately. The issue is that non-flowified dependencies would be opted in (and cause errors) as well.
+713004851572047900,Thu Mar 24 14:09:38 +0000 2016,@icelabaratory Some bits of JS are really tricky to type safely using primitive types (i.e. Func#apply(), Func#bind(), Object.assign(), etc)
+713002709851320300,Thu Mar 24 14:01:07 +0000 2016,@icelabaratory Indeed. Stuff like Promise$All are custom types to bridge the gap for unique kinds of types until they can be generalized
+713002333227974700,Thu Mar 24 13:59:37 +0000 2016,@bookercodes https://t.co/TuApAT75wD has many good interface defs. Also https://t.co/kZhySembi7 is underway as a longer-term sol'n w tooling
+712291762971287600,Tue Mar 22 14:56:04 +0000 2016,RT @ReactEurope: Great news for fans of @flowtype, @lbljeffmo will be talking about it at  the conference! https://t.co/dhSDUgJZMJ
+709718999374962700,Tue Mar 15 12:32:50 +0000 2016,@basarat @typescriptlang 3/ types covers the remaining cases where being very specific is desired
+709718692347699200,Tue Mar 15 12:31:36 +0000 2016,@basarat @typescriptlang 2/ as "exceptions", (2) devs often use != null or != undefined to refine both, and (3) using 'null'/'void'
+709718269465378800,Tue Mar 15 12:29:56 +0000 2016,@basarat @typescriptlang 1/ We went w T | null | undefined: (1) it covers all cases that treat either null/undef or both
+708976107719168000,Sun Mar 13 11:20:50 +0000 2016,@granttimmerman which bits of ES6 are we missing?
+707409745481637900,Wed Mar 09 03:36:41 +0000 2016,Thanks @Vjeux for adding docs search to https://t.co/nDDjc2wMyT! Type away...
+706289550965006300,Sun Mar 06 01:25:25 +0000 2016,@bastian_gorholt doh! Thanks for letting us know
+706163031357534200,Sat Mar 05 17:02:41 +0000 2016,Weve been revamping our docs on https://t.co/nDDjc2wMyT for the past few weeks. Check em out and, as always, pull reqs and feedback welcome!
+705245989855166500,Thu Mar 03 04:18:41 +0000 2016,So apparently JSON is a thing... Today we shipped v0.22.1 to fix those JSON-file parse errors you might've noticed in v0.22.0. Happy typing!
+703436121020067800,Sat Feb 27 04:26:55 +0000 2016,@imslavko Thanks for contributing! I sent a DM.
+703410114670104600,Sat Feb 27 02:43:34 +0000 2016,@jaredforsyth @OCamlLang Thanks! Want a sticker? https://t.co/WXD6jc0ncz
+703353737058738200,Fri Feb 26 22:59:33 +0000 2016,Contributed to Flow and want a laptop sticker? We'll hook you up. Haven't contributed yet? https://t.co/zpRDQcNb2q https://t.co/MXHPZrHZpG
+703208619714678800,Fri Feb 26 13:22:54 +0000 2016,@joshblackfr Do you mean like: Array&lt;[number, string]&gt;? ("Array of number,string tuples")
+703051128934682600,Fri Feb 26 02:57:05 +0000 2016,RT @henridf: couple good slides contrasting @flowtype and @typescriptlang starting here: https://t.co/LeG7JgKyWt
+702836041363882000,Thu Feb 25 12:42:24 +0000 2016,RT @EdgarArout: Wrote blgpost about hacking #OCaml in @facebook @flowtype , full steps included https://t.co/Vu8yW3tUav and HN cmts https:/…
+702583759061852200,Wed Feb 24 19:59:56 +0000 2016,Flow 0.22 is out! Big React improvements, some tasty bugfixes, and a side of freshly-minted docs on checking React: https://t.co/7O3J0VeEAs
+702255328956653600,Tue Feb 23 22:14:52 +0000 2016,RT @lbljeffmo: Have you tried using @flowtype in a project before? If so, what were the biggest pain-points you experienced while getting t…
+702182584151908400,Tue Feb 23 17:25:48 +0000 2016,RT @sefnap: @mroch @sebmck @_jayphelps huh, TIL @flowtype supports interfaces to structurally typecheck classes.  cool
+701999917703819300,Tue Feb 23 05:19:57 +0000 2016,RT @mroch: @sebmck @_jayphelps yep @flowtype types classes nominally: https://t.co/I1CnxhN8Pl
+701621524701311000,Mon Feb 22 04:16:21 +0000 2016,RT @nontrivialzeros: Building with @reactjs and curious about @flowtype? Come find me at React.js Conf! I'll talk your ear off.
+700459527427199000,Thu Feb 18 23:18:59 +0000 2016,RT @winkler1: Whoah, eslint-plugin-react added support for @flowtype annotations! https://t.co/zutN4bSFQh #reactjs
+698240534041751600,Fri Feb 12 20:21:30 +0000 2016,RT @Alan_Huffman: We have been implementing @flowtype and finding huge gains from it. We love JS but also static analysis. This seems like …
+697920110007316500,Thu Feb 11 23:08:15 +0000 2016,@seanhess try: 'https://t.co/rAXP3DmHkA' + VERSION + '/'; (see also flow-bin: https://t.co/oBkx92ISeX)
+694752564584149000,Wed Feb 03 05:21:33 +0000 2016,Flow v0.21.0 released yesterday! Lots of fixes &amp; improvements! @evilgabe covers a few in the blog: https://t.co/Nok5MH8WFy #flowtype
+693921222493605900,Sun Jan 31 22:18:06 +0000 2016,@jongleberry not sure I follow -- maybe send a gist of the specific error to clarify?
+693562174279671800,Sat Jan 30 22:31:22 +0000 2016,RT @gabriel_laet: Is there ay Babel plugin to transpile Flow types to React's propTypes? cc @flowtype @babeljs
+693202944129372200,Fri Jan 29 22:43:55 +0000 2016,RT @fkling42: react-docgen v2.7: @TschinderDaniel added support for @flowtype type definitions! See the release notes: https://t.co/URvLpar…
+692749178284351500,Thu Jan 28 16:40:49 +0000 2016,RT @geteslint: @andreasklinger you can use ESLint with babel-eslint to get @flowtype support.
+692749164724121600,Thu Jan 28 16:40:46 +0000 2016,RT @andreasklinger: Are there any linters (eslint compatible if possible) for @flowtype or there? Working w/o linters is too extreme for th…
+692612612060635100,Thu Jan 28 07:38:09 +0000 2016,@gozala sorry abt that :( Were listening! Sometimes tough to respond to all the feedback quickly. Theres only a few of us and so much to do!
+690190274929283100,Thu Jan 21 15:12:39 +0000 2016,@steven_known the algorithms used are best documented in the code, at this point (https://t.co/KmcvJit2x5)
+688573059989540900,Sun Jan 17 04:06:25 +0000 2016,@rossipedia really? Hmm, those should work. Wonder if we have a bug -- have a paste of an example you were seeing fail?
+688569765443555300,Sun Jan 17 03:53:19 +0000 2016,@rossipedia which ES6 feature are you missing?
+687289460032168000,Wed Jan 13 15:05:51 +0000 2016,@jusrin00 This is a known problem. We have a little bit of work left before we can start erroring on "missing but required" JSX attributes.
+687287973780537300,Wed Jan 13 14:59:56 +0000 2016,RT @Calculator1974: Maybe I should ask @flowtype and @mjackson? Anyone know of resources to set up a good workflow with #flowtype and #reac…
+684241923918442500,Tue Jan 05 05:16:01 +0000 2016,RT @thetinkertrain: If you use @flowtype and #webpack &amp; require stuff that isn't js (like css), here's  how to tell Flow to ignore it:  htt…
+684241910479859700,Tue Jan 05 05:15:58 +0000 2016,@thetinkertrain next level: A 'webpack-css-stubs' npm pkg that provides a .js.flow file stubbing out a well-typed API for CSS modules :)
+681340771459579900,Mon Dec 28 05:07:53 +0000 2015,RT @imslavko: @flowtype hmm, apparently `flow autocomplete --help` is what I was looking for
+679506045111107600,Wed Dec 23 03:37:20 +0000 2015,@flowtype 0.20 is the last release of the year but we're excited about shipping 0.21 in January with lots of improvements on checking React!
+679504948791361500,Wed Dec 23 03:32:59 +0000 2015,Flow 0.20.1: `this` return-type for methods, better union/intersect err msgs, many other bug fixes and improvements! https://t.co/qggdMwHWxq
+673197767465050100,Sat Dec 05 17:50:29 +0000 2015,RT @jbscript: Alpha builds of @flowtype for Windows: https://t.co/ZFsiCBoMiF
+673181066404995100,Sat Dec 05 16:44:07 +0000 2015,@jeswin hmm, if the lib is annotated: should work. If you have too much trouble, feel free to open a GH issue and we can help troubleshoot
+673177144458141700,Sat Dec 05 16:28:32 +0000 2015,@jeswin mostly a preferred way for npm authors to ship "defs" with their libraries
+671900001648271400,Wed Dec 02 03:53:38 +0000 2015,Flow v0.19.0 is out! Lots of features, improvements and bug fixes! Come check it out! https://t.co/JMExwv9eru #flowtype
+671332656051810300,Mon Nov 30 14:19:12 +0000 2015,@rauschma this is probably still the best reference. Happy to answer any questions you have, though...?
+667419679590363100,Thu Nov 19 19:10:26 +0000 2015,RT @fbOpenSource: We've just launched an extension that adds @flowtype support for @VisualStudio code. https://t.co/ygjReH9mJx https://t.co…
+665904741268848600,Sun Nov 15 14:50:36 +0000 2015,RT @ariaminaei: Having a blast with @flowtype! https://t.co/g47WHMrY1w
+665206812027801600,Fri Nov 13 16:37:17 +0000 2015,New blog post! @nontrivialzeros waxes poetic about his work on typing generators in Flow: https://t.co/zMeGeZG8Hp
+664534337145192400,Wed Nov 11 20:05:07 +0000 2015,@nkbtnk @nicolas_hery Flow's a static analysis engine not compiler. Tools like Babel can ask Flow for info that useful during complation tho
+664533109803720700,Wed Nov 11 20:00:14 +0000 2015,@nicolas_hery @nkbtnk Flow supports all of those things.
+661764134632050700,Wed Nov 04 04:37:19 +0000 2015,RT @lbljeffmo: Things are happening! #flowtype #windows https://t.co/Ehn8TKPLJK
+658719902178648000,Mon Oct 26 19:00:37 +0000 2015,@dan_abramov @swirlee Like this you mean? type PropsT = {strs: Array&lt;string&gt;, shape: {strKey: string}}; let Stuff = ({...}: PropsT) =&gt; ...
+657695169521696800,Fri Oct 23 23:08:42 +0000 2015,Flow 0.18 is out! Includes various bug fixes and improvements to understanding refinements (especially WRT 'const'): https://t.co/qggdMwHWxq
+654016158581030900,Tue Oct 13 19:29:37 +0000 2015,RT @ReactRally: See wise person @lbljeffmo talk about @flowtype and @reactjs in https://t.co/2nTetzPTdl!
+654016047905919000,Tue Oct 13 19:29:11 +0000 2015,@mcalthrop can you send a paste/repro?
+653773230164078600,Tue Oct 13 03:24:19 +0000 2015,RT @nontrivialzeros: Have you written type defs for your @flowtype project? Please contribute to @splodingsocks's FlowTyped repo! https://t…
+653206655375700000,Sun Oct 11 13:52:57 +0000 2015,@tpflug mind opening a GitHub issue about the destructuring error? (Be sure to include the version you're using)
+652226884596572200,Thu Oct 08 20:59:41 +0000 2015,@cyberglot the code might be the best documentation (heh), but also feel free to hop into #flowtype on freenode and ask specific questions!
+651928687927951400,Thu Oct 08 01:14:46 +0000 2015,RT @alex_frantic: Making #flowtype output more readable https://t.co/VoXe6tWwzv http://t.co/fNNnWCkhgD
+651885223978901500,Wed Oct 07 22:22:03 +0000 2015,v0.17.0:featuring pretty errors by @alex_frantic custom file ext by @eyyub_s &amp; fewer bugs by the rest of us http://t.co/ZC0aWhr118 #flowtype
+648999523679891500,Tue Sep 29 23:15:18 +0000 2015,RT @johnlindquist: New @WebStormIDE features: @flowtype Support, @npmjs scripts, and JSX in @typescriptlang . Woot! http://t.co/QC7xHJuaLI
+647399421966061600,Fri Sep 25 13:17:04 +0000 2015,@NaveenS16 not yet, but we're working on it!
+645048018320924700,Sat Sep 19 01:33:26 +0000 2015,@mattapperson jsdoc style, you mean? The prob is that flow annotat'ns are more expressive than jsdoc allows (generics, var annotat'ns, etc)
+645045075303637000,Sat Sep 19 01:21:44 +0000 2015,@mattapperson but check out "flow comments" for a feature we added to at least let you try it for yourself: http://t.co/pegBxfK7w6
+645044899419672600,Sat Sep 19 01:21:03 +0000 2015,@mattapperson it gets pretty verbose to surround every kind of annotation in 4 extra chars :( Consider generics or long param lists, for ex.
+644965866715615200,Fri Sep 18 20:07:00 +0000 2015,Flow 0.16 is out! Includes *massive* perf improvements  and @nontrivialzeros strikes again: Support for let/const! https://t.co/I6kzNqKaM9
+642509997977505800,Sat Sep 12 01:28:15 +0000 2015,RT @cwattsss: Flow now supports ES6 generators in addition to the ES7 async functions it already supported!! https://t.co/uEnHHQYpR1
+642079447148007400,Thu Sep 10 20:57:24 +0000 2015,Flow v0.15.0 is ready! Come try it out and tell us what you think! http://t.co/9sRtjZKx8C #flowtype
+641984627738046500,Thu Sep 10 14:40:37 +0000 2015,@sirinath check out the --json flag, does that do what you're looking for?
+641405198955638800,Wed Sep 09 00:18:10 +0000 2015,RT @jetbrains: @flowtype We're collecting votes and thoughts here: https://t.co/b1sAQIe0II / cc @lolmaus
+641307054179778600,Tue Sep 08 17:48:11 +0000 2015,@lolmaus cc @jetbrains -- watcha think? :)
+641306820007567400,Tue Sep 08 17:47:15 +0000 2015,And the next thing you know, @nontrivialzeros lands a PR for generators in Flow. What a badass... https://t.co/gBTiYlQbZk
+640318122042490900,Sun Sep 06 00:18:31 +0000 2015,RT @lbljeffmo: Oooo... A preliminary *unofficial* @flowtype libdef for immutable-js! https://t.co/LN18W7mAVp
+638039941495197700,Sun Aug 30 17:25:50 +0000 2015,RT @Vjeux: "@flowtype goal is to be a code intelligence tool, not just a type checker" -- @lbljeffmo at React Rally http://t.co/dficplsJ7H
+636377908664123400,Wed Aug 26 03:21:31 +0000 2015,RT @kevinold: Saw the "hello world" example of @flowtype at #reactrally just now.  No doubt I'm using it!
+626595930997919700,Thu Jul 30 03:31:26 +0000 2015,Flow v0.14.0 is out! Sorry we forgot to tweet v0.13.1. We are aware 14 doesn't come immediately after 12. http://t.co/7wADmeRy7S #flowtype
+622986292352151600,Mon Jul 20 04:28:01 +0000 2015,RT @dan_abramov: I'm super excited about strongly typed state and actions in Redux using @flowtype. Help make them happen: https://t.co/M1r…
+622839607634305000,Sun Jul 19 18:45:08 +0000 2015,@dan_abramov ah yes, there was a regression in 0.13.1 :( Should be fixed in next rel (or if you want to try building from master for now?)
+622839235654123500,Sun Jul 19 18:43:40 +0000 2015,@dan_abramov note that Nuclide just uses the Flow CLI for integration. So 'flow --help' is your friend :)
+622838532311101400,Sun Jul 19 18:40:52 +0000 2015,@dan_abramov @flowtype: @dan_abramov see 'flow type-at-pos' (or: 'flow dump-types &lt;&lt;filename&gt;&gt;', but dump-types may change soon FYI)
+621143271046144000,Wed Jul 15 02:24:30 +0000 2015,RT @dan_abramov: Turn @flowtype annotation into comments with this @babeljs plugin: https://t.co/wGdy1wDTn7
+617565209385943000,Sun Jul 05 05:26:34 +0000 2015,@winkler1 Incremental checks are much cheaper than initial whole-project check @ianobermiller
+617565149814255600,Sun Jul 05 05:26:20 +0000 2015,@winkler1 pro tip: use "flow" instead of "flow check" to start a bg service and type check faster! @ianobermiller
+617064220455120900,Fri Jul 03 20:15:49 +0000 2015,Blog post on disjoint unions, a sweet new feature inspired by functional programming in Flow 0.13.1, by @__avik: http://t.co/1sWzjF4qXT
+614614338070908900,Sat Jun 27 02:00:51 +0000 2015,RT @nontrivialzeros: Support in @flowtype for disjoint unions is going to change the way I write javascript. Well-typed flux dispatchers an…
+609555186042990600,Sat Jun 13 02:57:35 +0000 2015,Flow 0.12 is out! For-of, async/await, better refinements, error suppression, module name aliasing, bug fixes, more! http://t.co/8a0RyjNjcw
+609086982824841200,Thu Jun 11 19:57:07 +0000 2015,@naman34 import shipped in 0.7! let/const is really close to the finish line: https://t.co/2cyzmsGjWj
+608977006257004500,Thu Jun 11 12:40:07 +0000 2015,@noam_lewis Right. 'Object.defProp(obj,propName,descriptor)' is same as 'obj[propName] = descriptor.value' to Flow (at least right now)
+608828680228450300,Thu Jun 11 02:50:43 +0000 2015,One of the new [experimental] features in the upcoming 0.12 release (landed in master!): https://t.co/TfzbrSxrFE #asyncawait #thefutureisnow
+608774417536168000,Wed Jun 10 23:15:06 +0000 2015,@noam_lewis see: https://t.co/Akz6SUJgYa (models a retrieval of the "value" prop and moves forward). Doesnt cover other descriptor props yet
+608651211441598500,Wed Jun 10 15:05:31 +0000 2015,The "what", "why", and "how" of Flow! https://t.co/n8ISRf7Zu1
+608300331131379700,Tue Jun 09 15:51:15 +0000 2015,@ianobermiller @evilgabe was able to get it working for flow's own tests I think @travisci
+605767282116177900,Tue Jun 02 16:05:49 +0000 2015,RT @jergason: Friends, we are talking to the @flowtype team on @JSJabber today! What questions do you have about Flow or typing in general?
+605547347859238900,Tue Jun 02 01:31:52 +0000 2015,RT @hallettj: Updates to @flowtype keep getting better. The latest version is really powerful when used with @reactjs. http://t.co/R2KA9x40…
+604724075714351100,Sat May 30 19:00:29 +0000 2015,RT @motiz88: Just published this @docker image that lets me run @flowtype v0.11.0 on Windows :D https://t.co/l3LnMurVJ6
+604723950581522400,Sat May 30 18:59:59 +0000 2015,RT @fbOpenSource: Nuclide: an IDE for @reactjs Native apps, for @flowtype JavaScript, and yes, for @HackLang. Stay tuned: http://t.co/q404T…
+591979072529506300,Sat Apr 25 14:56:23 +0000 2015,@smonev its something we really want to do, but haven't had it surface on the priority queue yet :( Pull requests very much welcome, though!
+591907265344577500,Sat Apr 25 10:11:03 +0000 2015,Flow 0.10 released! Better ES6 module support, export type alias support, better bool checking, bug fixes, and more! https://t.co/YhEjn6kZRS
+589977183990505500,Mon Apr 20 02:21:36 +0000 2015,@sebasporto Looks like a (poorly worded) error suggesting no default export. Can you open a GH issue and reply with link here? @ncreen_same
+589920726980898800,Sun Apr 19 22:37:16 +0000 2015,@mattmorton hmmm, are you fully "brew update"-ed?
+589902204527628300,Sun Apr 19 21:23:40 +0000 2015,@mattmorton it is. We deploy to brew roughly once a week or so
+589586815067283500,Sun Apr 19 00:30:25 +0000 2015,@ncreen_same @sebasporto as of v0.7 it should. Which version are you using?
+589586484610650100,Sun Apr 19 00:29:06 +0000 2015,RT @nontrivialzeros: Pure, stateless, type-checked @reactjs components with @leeb's Immutable.js and @flowtype. https://t.co/4bovbkfNdb
+587957512629985300,Tue Apr 14 12:36:09 +0000 2015,@mark_jones Which version are you using? Support for ES6 module syntax was added in v0.7.0
+586997561367605200,Sat Apr 11 21:01:39 +0000 2015,RT @rauschma: Facebook Flow is written in OCaml (which supports both FP and OOP). Learn it via: https://t.co/B67kNzbY6F (h/t @flowtype)
+586996403299299300,Sat Apr 11 20:57:03 +0000 2015,@ocamlbot My deepest apologies! s/Ocaml/OCaml/ @Raynos @en_JS
+586994283074445300,Sat Apr 11 20:48:37 +0000 2015,@Raynos check out Real World Ocaml. It's free online, very approachable, and a great reference. https://t.co/bRD7DGhzrM @en_JS
+582166513144217600,Sun Mar 29 13:04:47 +0000 2015,@richardsabow Many people use @babeljs with much success. Has been doing a great job with both JSX and Flow syntax! @reactjs
+581199218213261300,Thu Mar 26 21:01:06 +0000 2015,RT @bos31337: React Native (http://t.co/YALyUuIWj5) is a big deal for mobile developers, with fast unobtrusive type safety provided by @flo…
+581185786101534700,Thu Mar 26 20:07:43 +0000 2015,RT @__avik: React Native, the future of mobile development, is now open source (http://t.co/MBcYjOXfTU)! Checked by @flowtype, too!
+579807580295458800,Mon Mar 23 00:51:14 +0000 2015,@thomasABoyt @babeljs https://t.co/tLzW8ZNqFd
+576154582138650600,Thu Mar 12 22:55:31 +0000 2015,New blog post by @__avik on Bounded Polymorphism. Constrain your type parameters for fun and profit! http://t.co/9DH7gUjzoP #flowtype
+572292481699713000,Mon Mar 02 07:08:54 +0000 2015,.@thomasABoyt @babeljs http://t.co/lHm0hxJJ8W
+571108718441422850,Fri Feb 27 00:45:03 +0000 2015,RT @colbyrabideau: We used @flowtype to build general-store https://t.co/6E7aSkJD7L and it’s amazing. You want static types in your @reactj…
+569628585889300500,Sun Feb 22 22:43:32 +0000 2015,RT @krob: I wrote a blog post after hacking around with using Flow to enforcing type safety in the state of React components: https://t.co/…
+568948071238909950,Sat Feb 21 01:39:25 +0000 2015,You can put #flowtype in comments! We've merged @jareware's flotate syntax upstream. New blog post by @evilgabe http://t.co/pegBxfK7w6
+568201933460267000,Thu Feb 19 00:14:32 +0000 2015,We've added typecasts and type importing to #flowtype! Check out our new blog with posts from @lbljeffmo &amp; @aspirant! http://t.co/W213H0WKMK
+563853977729523700,Sat Feb 07 00:17:18 +0000 2015,RT @reactjs: 2/ @jbrantly on "Static typing with @flowtype and @typescriptlang": https://t.co/TnQPZWqFSP #reactjsconf
+563408095716859900,Thu Feb 05 18:45:32 +0000 2015,@thomasABoyt Bounded polymorphism coming soon.
+563407818376904700,Thu Feb 05 18:44:26 +0000 2015,RT @jareware: New version of flotate, the simple @FlowType preprocessor https://t.co/9lIrhc3s4U #release
+563407005524971500,Thu Feb 05 18:41:12 +0000 2015,RT @Vjeux: Flow check is a cool lib by @GiulioCanti that takes @flowtype annotations and inserts runtime checks https://t.co/gVFhKZPiYm
+563406563529207800,Thu Feb 05 18:39:26 +0000 2015,RT @Toilal: Want to get #flowtype support in IntelliJ IDEA and Webstorm ? Vote for it here https://t.co/OnGojbismN. @flowtype RT plz.
+563406030957461500,Thu Feb 05 18:37:20 +0000 2015,@rauschma Not that we know of, yet, though support may be coming soon. See https://t.co/6ezfrvsYTu.
+563405307829702660,Thu Feb 05 18:34:27 +0000 2015,@crm416 We're definitely interested to see where SoundScript goes.
+563404491580379140,Thu Feb 05 18:31:12 +0000 2015,RT @colbyrabideau: Just used flow-bin (of npm) to get @flowtype running on @travisci. #easymode https://t.co/pGGt73S2Aj
+537167050322751500,Tue Nov 25 08:52:59 +0000 2014,RT @Fdecampredon: https://t.co/fSpZwj4QSt now contains code hints!!! @flowtype @brackets
+535354093293027300,Thu Nov 20 08:48:56 +0000 2014,RT @tcoopman: @flowtype jsx extension support in 0.1.1. Now I can start playing! Great work! https://t.co/SJYEnqm9MI
+535179062558597100,Wed Nov 19 21:13:26 +0000 2014,@hichaelmart @jspedant @swannodette What we meant there is Flow is definitely not expressive enough for all JS code (esp. with reflection).
+534852473153155100,Tue Nov 18 23:35:41 +0000 2014,RT @addyosmani: Try Flow - Facebook's new static type checker for JavaScript: http://t.co/5JUE7mPsJB with vanilla JS &amp; React demos http://t…
+534833371315441660,Tue Nov 18 22:19:47 +0000 2014,RT @kpuputti: @flowtype Also, the type checker properly noticed all cases where I tried to give wrong types in different places. Impressed!
+534833130684035100,Tue Nov 18 22:18:49 +0000 2014,@misfo Ideally inferred. Annotations would require careful design.
+534832916871020540,Tue Nov 18 22:17:58 +0000 2014,RT @sindresorhus: I made quick node module to make it easier to get @flowtype: $ npm install -g flow-bin &amp;&amp; flow check https://t.co/Wfl5wxy…
+534832177520054300,Tue Nov 18 22:15:02 +0000 2014,RT @JagReehal: @WebStormIDE looking forward to the @flowtype tooling :)
+534831697972719600,Tue Nov 18 22:13:08 +0000 2014,@misfo The idea is that we can do better type inference when we know that some functions do not have side effects, like writing to globals.
+534830962803507200,Tue Nov 18 22:10:12 +0000 2014,RT @piepkrak: Facebook released @flowtype. A static type checker for JS. @rauschma wrote a great post on the subject at http://t.co/iiOTkIZ…
+534830806041370600,Tue Nov 18 22:09:35 +0000 2014,RT @rtfeldman: Just had a lunch discussion that could be summed up as "We really hope @jspedant makes a @CoffeeScript fork that compiles th…
+534807681870364700,Tue Nov 18 20:37:42 +0000 2014,RT @dan_abramov: This is actually pretty huge. Means designers can mess with JSX even more safely. @flowtype
+534800342375202800,Tue Nov 18 20:08:32 +0000 2014,@avsm Wow, thanks! That was quick! :)
+534800273680916500,Tue Nov 18 20:08:16 +0000 2014,RT @avsm: Flow: yet another fantastic programming tool from Facebook, written in OCaml. I've created the OPAM package for it: https://t.co/…
+534795606816854000,Tue Nov 18 19:49:43 +0000 2014,RT @TrevorReznik: .@flowtype is written in OCaml. Good memories ;-)
+534795444082061300,Tue Nov 18 19:49:04 +0000 2014,@thomasABoyt @dan_abramov The Flow daemon doesn't build, just type checks. You can still run the transforms in your normal pipeline.
+534794781462130700,Tue Nov 18 19:46:26 +0000 2014,RT @tgriesser: Really excited to start playing around with the new @flowtype checker! Here's the summary: https://t.co/xULrZMoGF3
+534794740752203800,Tue Nov 18 19:46:16 +0000 2014,@kpuputti We're thinking about it but don't have any concrete design yet.
+534794321552494600,Tue Nov 18 19:44:36 +0000 2014,@josebalius We'll post something soon about our plans on editor support.
+534794185711575040,Tue Nov 18 19:44:04 +0000 2014,RT @josebalius: @flowtype so awesome to see this!!!! I have been waiting a long time lol. Now we just need some good editor support.
+534794060553519100,Tue Nov 18 19:43:34 +0000 2014,RT @Fdecampredon: after 15 mins of playing with @flowtype I already want to switch all my typescript projects, non-null type and better hig…
+534793326953005060,Tue Nov 18 19:40:39 +0000 2014,RT @KJastrzebowski: Wow, great news from @fbOpenSource, @flowtype IS ON THE LOOSE, cover yourself coercion bugs. :)
+534786553974128640,Tue Nov 18 19:13:44 +0000 2014,RT @zenorocha: I'm usually resistant to those kind of things but I really liked @flowtype, Facebook’s static type checker for JS ~ http://t…
+534786469916074000,Tue Nov 18 19:13:24 +0000 2014,RT @aripalo: Nice! @Flowtype - JavaScript static type checker by @fb_engineering that doesn't get in the way of writing JavaScript http://t…
+534786241578164200,Tue Nov 18 19:12:30 +0000 2014,RT @_JamesWard: We are nearing full agreement that static type checkers are essential for non-trivial code bases. Thanks @flowtype!
+534786031732928500,Tue Nov 18 19:11:40 +0000 2014,RT @jlipps: Excited to see @flowtype joining the JS types + #ES6 scene. Lot of energy being put into making JS more awesome.
+534783826124623900,Tue Nov 18 19:02:54 +0000 2014,@tomekg_ Flow does much more type inference than other JavaScript type checkers. Missing annotations are treated as inferable static types.
+534782452653621250,Tue Nov 18 18:57:27 +0000 2014,RT @stevedomin: This 1st version of @flowtype is hot already. Good job @fb_engineering... https://t.co/f88f3QtB93
+534768316079169540,Tue Nov 18 18:01:16 +0000 2014,We're thrilled to launch the very first version of our JavaScript static type checker! We'd love your feedback. https://t.co/Q5gN5zTjUi
+534768316079169540,Tue Nov 18 18:01:16 +0000 2014,We're thrilled to launch the very first version of our JavaScript static type checker! We'd love your feedback. https://t.co/Q5gN5zTjUi

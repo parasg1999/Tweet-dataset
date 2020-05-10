@@ -1,0 +1,897 @@
+id,created_at,text
+1259113587454496800,Sat May 09 13:30:47 +0000 2020,New method for spatial transcriptomics data by Dylan Cable, Fei Chen, @macosko &amp; others. Naive approach confounds l… https://t.co/5xXxkXh08q
+1258606914986016800,Fri May 08 03:57:26 +0000 2020,Actualización basada en datos de hoy. Análisis es preliminar. Seguiremos actualizando.  Muertes por COVID reportado… https://t.co/zisaVtxwcG
+1258056205005721600,Wed May 06 15:29:07 +0000 2020,Excess mortality is substantially higher than COVID reported deaths in some states. Not in MA though. Possible expl… https://t.co/jp1guH8Sux
+1258056200492638200,Wed May 06 15:29:06 +0000 2020,This article uses adjusted mortality counts provided by CDC to compute excess mortality: https://t.co/JaWPeGn1yD  U… https://t.co/jq2I30Gh6N
+1257325600219357200,Mon May 04 15:05:57 +0000 2020,@LucyStats @wjakethompson Where are the stars ✨ though? 😁
+1257307530968985600,Mon May 04 13:54:09 +0000 2020,@Sincomillas Nota que el registro demográfico tarda entre 60-90 días en tener todos los datos. Si usas datos proveí… https://t.co/53gcZU76t3
+1257304367683833900,Mon May 04 13:41:35 +0000 2020,Didn't have time to make a new one so here is an old one. Happy #MayThe4th #RStats ! https://t.co/DAAN1SOW7n
+1256224803838623700,Fri May 01 14:11:47 +0000 2020,@uricora Sí, cualquier causa.   Tu pregunta la contesto en el segundo tuit. Es porque los datos tardan 30-45 días e… https://t.co/LEsVVfAE9x
+1256075952402174000,Fri May 01 04:20:18 +0000 2020,@LuciaScience No sé. Pero estas son posibilidades que se me ocurren:  1- Comenzaron la cuarentena antes. 2- Tuviero… https://t.co/j5vqdoq5Rn
+1256026112477495300,Fri May 01 01:02:15 +0000 2020,@moefeliu @dacolon El análisis es preliminar. Pero si se sostiene el patrón, pues la única conclusión que se me ocu… https://t.co/B07HQTvFxc
+1256017927159111700,Fri May 01 00:29:44 +0000 2020,@31Rlugo Sí, se estima con años anteriores. Pero en este caso lo multiplico por la proporción esperada de casos rep… https://t.co/PfrLNXaelR
+1256010914219929600,Fri May 01 00:01:52 +0000 2020,@31Rlugo El segundo tuit lo explica. Si aún tiene duda me avisa.
+1255994580933238800,Thu Apr 30 22:56:58 +0000 2020,@drmgonzalez7 @moefeliu @dacolon Esta incluido en el gráfico, que va de enero 1 a abril 21.
+1255979952593350700,Thu Apr 30 21:58:50 +0000 2020,@moefeliu @dacolon Incluí solo mayores de 65 porque son los más vulnerables y los más que nos deben preocupar. Pued… https://t.co/rmrc9HU0ne
+1255913157056438300,Thu Apr 30 17:33:25 +0000 2020,https://t.co/P6gwcNJLUp
+1255913155349418000,Thu Apr 30 17:33:24 +0000 2020,La razón por la cual análisis basados en datos de mortalidad toman tiempo es porque, por razones de logística, este… https://t.co/kSIbY8FvrZ
+1255913152757334000,Thu Apr 30 17:33:24 +0000 2020,Puerto Rico ha reportado solo 2.7 muertes por 100,000 habitantes: 7 veces menos que USA.   Es posible que la baja i… https://t.co/3kYfFd6uim
+1255155083572064300,Tue Apr 28 15:21:06 +0000 2020,Emacs would suggest Wizardry as the correct spelling of my last name. Overleaf's suggestion is not as nice. https://t.co/CjSx4VyxBo
+1254831673440718800,Mon Apr 27 17:55:59 +0000 2020,@jbhclock @aemonten Yes! A minor correction: more *equally spaced* time points &gt;&gt; more replicates.
+1254053568270696400,Sat Apr 25 14:24:04 +0000 2020,@jburnmurdoch @AliciaOshlack Most US jurisdictions with major outbreaks have peaked. Because it was at different ti… https://t.co/Enac1yHzjh
+1253790021288636400,Fri Apr 24 20:56:50 +0000 2020,@mihagazvoda @nicolaskruchten @EGouillart Note that these are point-wise confidence intervals:  If you fix x0 and r… https://t.co/RN0PUyUkXd
+1252707434541580300,Tue Apr 21 21:15:01 +0000 2020,@masako_suzuki Maybe, but note that the sample sizes are small for hispanics and asians in this dataset.
+1252697602124103700,Tue Apr 21 20:35:56 +0000 2020,@mendel_random Here are the estimated coefficients from fitting Poisson models to the death counts: one to those ol… https://t.co/S4YHbUlY2I
+1252671188205219800,Tue Apr 21 18:50:59 +0000 2020,@lucia_petito Average of 2015-2019. This is why the blue points are around 1.
+1252670986908041200,Tue Apr 21 18:50:11 +0000 2020,@mendel_random Like this? Note that the death rates are not overall death rates but rates based only on deaths in t… https://t.co/pQpU8FxhWU
+1252647715315552300,Tue Apr 21 17:17:43 +0000 2020,And here is the same plot for neighborhoods: https://t.co/ooMYXjxSht
+1252643858141380600,Tue Apr 21 17:02:23 +0000 2020,Cook County reported deaths by demographic group show:  - Much larger increase for individuals over 60 - Larger inc… https://t.co/ipNhjLAPuV
+1252400666409971700,Tue Apr 21 00:56:02 +0000 2020,@zakaria_DataSci https://t.co/NNeEAHhow3
+1252299261124972500,Mon Apr 20 18:13:05 +0000 2020,Important correction: The excess death calculation is based on a subset of the cases, those from the medical examin… https://t.co/6ecFDMcCqL
+1252272238050582500,Mon Apr 20 16:25:42 +0000 2020,@SteveLaurie42 One possibility is people dying outside of hospitals and never getting tested. As testing increases,… https://t.co/BE2DY1YFZr
+1252253810573131800,Mon Apr 20 15:12:28 +0000 2020,Excess deaths track reported COVID-19 deaths in Cook County, IL. The reported deaths, 860, are about 80% the actual… https://t.co/Gf6QCtOWHJ
+1251907709747843000,Sun Apr 19 16:17:11 +0000 2020,@stellarmouse True, but that's a big if. Mechanistic models may help us examine the effects of interventions under… https://t.co/NRRKXxDedO
+1251868541156053000,Sun Apr 19 13:41:33 +0000 2020,@knlranch Right, this animation does not account for model uncertainty. But S-shapes, defined by 4 parameters, are… https://t.co/qFcmiRPmnY
+1251858545810735000,Sun Apr 19 13:01:50 +0000 2020,This animation helps explain why it is so hard to predict when/if the COVID-19 surge will come, and when it will pe… https://t.co/MDuwWbQmoB
+1250542379829993500,Wed Apr 15 21:51:51 +0000 2020,@tuuliel @PolakPaz Here is the update with the data released today. The fitted curves don't change much. Except for… https://t.co/19Qin5LllH
+1249905529981407200,Tue Apr 14 03:41:15 +0000 2020,@evilarsan Very few cases per capita in Texas. https://t.co/vbwNwBclus
+1249885785744162800,Tue Apr 14 02:22:47 +0000 2020,@CmRoycostilla Poisson GLM with B-splines with 1 knot per month. I'll add the pointwise confidence intervals next t… https://t.co/DfSpPGSKVg
+1249788451181953000,Mon Apr 13 19:56:01 +0000 2020,@kearnsneuro Yes, Spain, Italy and Hubei are the only clear cases of the trend going down. I will definitely make t… https://t.co/iONELvFH2y
+1249751934984163300,Mon Apr 13 17:30:55 +0000 2020,@byu_sam Those are totals. I’m showing per million rates.
+1249728567107367000,Mon Apr 13 15:58:03 +0000 2020,@PolakPaz @tuuliel Good point on Sweden. Here is what it looks like without the weekend. The others don't change as… https://t.co/PlACzA0592
+1249717664911700000,Mon Apr 13 15:14:44 +0000 2020,@krithika_bhuvan There are few cases, so I combined them into one. https://t.co/2cX10kiMi0
+1249704269206433800,Mon Apr 13 14:21:30 +0000 2020,However, there are still a few places with an upward trend.  Belgium seems to be getting better. Portugal and Calif… https://t.co/r6qlUWHns5
+1249704266480181200,Mon Apr 13 14:21:30 +0000 2020,The number of #COVID19 related deaths seems to be trending down in most places with large totals.  Nowhere does the… https://t.co/oDRGdVyGTU
+1249149675032240000,Sun Apr 12 01:37:45 +0000 2020,@EpgntxEinstein @RJANunez I need the data. We require complete daily counts by age for 2020 and at least 1 more yea… https://t.co/f5w4In1p1y
+1249017173852463000,Sat Apr 11 16:51:14 +0000 2020,Using methods developed with @RJANunez for estimating excess deaths in Puerto Rico after María, we analyzed current… https://t.co/K9spoRiBXD
+1248579057090023400,Fri Apr 10 11:50:19 +0000 2020,@AsgharpourSara Pull the “YOU PAY” slider to $0.00 then add book to cart.
+1248223263391715300,Thu Apr 09 12:16:31 +0000 2020,@pabloguti3rr3z Gracias. Ya lo cambiamos en la primera parte.
+1247933894676164600,Wed Apr 08 17:06:40 +0000 2020,@jburnmurdoch @BrendanNyhan The plot does show lots of wiggles that seem spurious. To see this, randomly remove 25%… https://t.co/CPqFsOCuoI
+1247884943314698200,Wed Apr 08 13:52:09 +0000 2020,@jburnmurdoch @BrendanNyhan Regarding Washington state, be careful about over-interpreting spline fits. The number… https://t.co/uA6GyViLSV
+1247594820882894800,Tue Apr 07 18:39:19 +0000 2020,@amrojasmendoza Sí claro! La licencia es CC BY-NC-SA 4.0  https://t.co/dSjZ7r9n6I
+1247561903079030800,Tue Apr 07 16:28:30 +0000 2020,Ya terminamos la primera parte del libro Introducción a la Ciencia de Datos: R   Sugerencias son bienvenidas a trav… https://t.co/UIHj51OCXw
+1246870134892957700,Sun Apr 05 18:39:40 +0000 2020,RT @Bioconductor: #rstats / @Bioconductor remembers the inspiration and leadership of @jxtx @galaxyproject,  https://t.co/1RZCsmVrbk
+1246127788714754000,Fri Apr 03 17:29:51 +0000 2020,The slides used by the speakers in yesterday's COVID-19 Zoomposium are available here:  https://t.co/PUkGk6wdJ6  Th… https://t.co/426i3YVUIB
+1245744469313495000,Thu Apr 02 16:06:40 +0000 2020,@revodavid 2pm EST
+1245718860600414200,Thu Apr 02 14:24:55 +0000 2020,Join us for our #COVID19 zoomposium today Thu at 2pm EST.  Questions we will answer:  How do we model disease dynam… https://t.co/uyCubzETtC
+1245422369797275600,Wed Apr 01 18:46:46 +0000 2020,@Marcelokauffman Necesitas supuestos.El reto complicado es el sesgo (b): La diferencia entre la proporción de la po… https://t.co/RMyZE2sT9b
+1245337980631425000,Wed Apr 01 13:11:26 +0000 2020,En PR llegaron a los 100 casos confirmados hace un día. En Massachusetts llegaron a los 100 hace 20 días. En Nueva… https://t.co/j0NGdU3PYG
+1245337978991521800,Wed Apr 01 13:11:26 +0000 2020,Con los pocos datos #COVID19 que tenemos en PR no se pueden generar proyecciones útiles. Los modelos matemáticos si… https://t.co/7fb5GTuWHK
+1244992110354403300,Tue Mar 31 14:17:04 +0000 2020,@d_spiegel FWIW, here are the observed second derivates for a selection of countries/US states. The third derivativ… https://t.co/Ll9LHbqRTs
+1244666733409042400,Mon Mar 30 16:44:08 +0000 2020,RT @dfcidatascience: We’re co-hosting a #COVID19 Data Science Zoomposium w/ @BrownInstitute featuring Caroline Buckee, @michaelmina_lab, @n…
+1244320049751613400,Sun Mar 29 17:46:32 +0000 2020,@k_runs Yes, you can use the materials for your own clases.
+1244013253241581600,Sat Mar 28 21:27:26 +0000 2020,@dacolon @marco4357 Los modelos también predicen cuando las infecciones empiezan a bajar debido a la inmunidad de l… https://t.co/fpa0UjzXzW
+1243997574421454800,Sat Mar 28 20:25:08 +0000 2020,@marco4357 @dacolon Son modelos matemáticos que no requieren datos. Es el estándar en la epidemiología de enfermeda… https://t.co/XsZGdVQeG6
+1243893584258125800,Sat Mar 28 13:31:55 +0000 2020,@benbfly Yes, we developed methods to estimate excess deaths in Puerto Rico after hurricane María.  @RJANunez and I… https://t.co/fnY6YqdcoR
+1243376978092327000,Fri Mar 27 03:19:07 +0000 2020,@LucyStats Ignore the rnorm line.
+1243373211867402200,Fri Mar 27 03:04:09 +0000 2020,@LucyStats With linear splines the slope changes at each knot, and then you have the intercept, so K+1. But, if you… https://t.co/lI0brCB9HW
+1243178072268038100,Thu Mar 26 14:08:44 +0000 2020,@xelamb @JasonConnorPhD https://t.co/UedFmDIluv https://t.co/8b0fR4GtaX
+1241340336200450000,Sat Mar 21 12:26:13 +0000 2020,@RaquelArcos6 Ahora mismo solo estamos traduciendo el libro no los cursos. Pero sí, es el libro que usamos en esos cursos.
+1240693070435238000,Thu Mar 19 17:34:13 +0000 2020,Gracias por la ayuda! Para terminar parte 1 necesito sugerencias de cómo traducir:  accessor $ coerce debug execute… https://t.co/ZurS25yJT3
+1239928042048413700,Tue Mar 17 14:54:16 +0000 2020,@KDyson89 @Aiims1742 @MaverickNY Thanks. I updated the page:  https://t.co/8b0fR4GtaX
+1239927710450925600,Tue Mar 17 14:52:57 +0000 2020,Online resources useful for learning or teaching data science, biostats and bioinformatics including 15 online cour… https://t.co/toHp6WycFP
+1239553895698968600,Mon Mar 16 14:07:33 +0000 2020,RT @dfcidatascience: As of today our department is working remotely until further notice. We are well prepared for this transition, and it…
+1239530969293619200,Mon Mar 16 12:36:27 +0000 2020,RT @DavidBegnaud: Puerto Rico's Governor issued the strictest lockdown order of any governor, compared to those on the mainland. She was th…
+1237756980338417700,Wed Mar 11 15:07:15 +0000 2020,Concerned about Puerto Rico.  COV-19 affects the elder, PR is disproportionally old with close to 1 million over 60… https://t.co/AIC6bg4Iks
+1237369094120276000,Tue Mar 10 13:25:55 +0000 2020,RT @Harvard: Harvard will begin transitioning to virtual instruction for graduate and undergraduate classes. Read President Bacow’s message…
+1235741215665971200,Fri Mar 06 01:37:19 +0000 2020,@memohinojosa Puedes cambiar el precio a $0.00 moviendo la barra azul, entonces descargar el PDF. https://t.co/EmXmcQxo4l
+1235637161061302300,Thu Mar 05 18:43:50 +0000 2020,@fellgernon @RLadiesCuerna @_lacion_ @AlfredoOlguinG @LatinR_Conf @rivaquiroga @ndasilva_stat @CDSBMexico @TeresaOM… https://t.co/yNmWuF9X7R
+1235627545363546000,Thu Mar 05 18:05:38 +0000 2020,Comenzó la traducción. Pueden seguir los avances aquí:  https://t.co/85CcHIrBp8  Necesito ayuda con términos como:… https://t.co/OZ4enVjcre
+1235241266486456300,Wed Mar 04 16:30:42 +0000 2020,@sbmontgom @jbhclock https://t.co/guZZ9FGulX
+1235233927142322200,Wed Mar 04 16:01:32 +0000 2020,@sbmontgom @jbhclock You get either nice weather or convenient collaborative call times. You can't have both.
+1235222516357935000,Wed Mar 04 15:16:11 +0000 2020,RT @XShirleyLiu: I want to thank the community for supporting me for the Benjamin Franklin Award for Open Access in the Life Sciences! http…
+1235205769173196800,Wed Mar 04 14:09:39 +0000 2020,@mikelove @andrewejaffe I am not sure about the specifics of this discussion, but in general I agree with Mike that… https://t.co/TeEpcEQAzg
+1235204764121485300,Wed Mar 04 14:05:39 +0000 2020,@ElgaCastro Eso era para Texas. Todos los estados hacen algo parecido. Basado en los resultados parciales de hoy lo… https://t.co/UFIHS52NZl
+1235068267925926000,Wed Mar 04 05:03:16 +0000 2020,@ElgaCastro No. Se dividen aproximadamente relativo al %  que sacan entre los que sacan mas de 15%. Ahora mismo par… https://t.co/KkEWT0W7iO
+1234923654707740700,Tue Mar 03 19:28:37 +0000 2020,@PhDemetri Rigorous theory helps guide applied statistics. But rigorous applied statistics requires much more.
+1233751880720928800,Sat Feb 29 13:52:25 +0000 2020,@StevenSalzberg1 @jtleek @goodmanmetrics I would need to see the data to comment. A simple scatterplot would be eno… https://t.co/8bXL1Lj36t
+1232810097480519700,Wed Feb 26 23:30:06 +0000 2020,RT @StatsbyLopez: Congrats to Harvard’s Matt Ploenzke (@MPloenzke) for being named the 2020 #BigDataBowl grand finalist. Papers from all fi…
+1232680292193796000,Wed Feb 26 14:54:18 +0000 2020,Data scientist moves down to second most desirable job  https://t.co/QcPnTKeMNk
+1231933453739942000,Mon Feb 24 13:26:38 +0000 2020,@MarcOmarHaddad These are equivalent.  Sometimes it’s easier to write g inverse of the linear term, sometime easier… https://t.co/Xb6gxWIbQZ
+1230514732899029000,Thu Feb 20 15:29:08 +0000 2020,.@XShirleyLiu is nominated for the Benjamin Franklin open access award. Shirley has lead the development of many op… https://t.co/xmwDsr4dUM
+1230212355608305700,Wed Feb 19 19:27:36 +0000 2020,RT @dfcidatascience: Congrats to @XShirleyLiu on winning the 2020 International Society for Computational Biology Innovator Award! @iscb ht…
+1229508944558641200,Mon Feb 17 20:52:30 +0000 2020,@DrVasshe Don't forget, we only read the first sentence of your emails.   We love you too!   😀
+1228809194578620400,Sat Feb 15 22:31:56 +0000 2020,@travisgerke Thanks for the excellent talk. I have had a similar experience to what you describe. HR does want to h… https://t.co/cymx5415na
+1228348153021091800,Fri Feb 14 15:59:55 +0000 2020,This is going to make some people really mad... But here is another machine learning success story from @Google https://t.co/li3vgBv14M
+1228078806289617000,Thu Feb 13 22:09:38 +0000 2020,@MickeyMich08 Whatever assessments are in the book are under a a CC BY-NC-SA 4.0 license so you can borrow them.
+1227939238823506000,Thu Feb 13 12:55:03 +0000 2020,What is the best data analysis software  for journalists to learn? https://t.co/jFevDnbWJj
+1224776917884162000,Tue Feb 04 19:29:07 +0000 2020,@jalzen @edXOnline Yes, you can share resources!  The class notes are shared under the Creative Commons Attribution… https://t.co/h1yAnfB0Hi
+1224660447791591400,Tue Feb 04 11:46:18 +0000 2020,@Dr_Joe_Roberts @EdHarris9000 Thanks. In the second section I cite a paper that makes this important point: “Domain… https://t.co/tKtS7ZkI9u
+1224440662839328800,Mon Feb 03 21:12:57 +0000 2020,Anscome's Quartet is a clear example of why we should not trust summary statistics without visualizing data. The Da… https://t.co/Fm4JgonzS0
+1224355843937689600,Mon Feb 03 15:35:55 +0000 2020,The Role of Academia in Data Science Education is now published. We argue that data science is not a discipline but… https://t.co/7SCrNns1Ok
+1223305894538072000,Fri Jan 31 18:03:47 +0000 2020,@baym Sure, but it still the case that many associate the phrase "story telling" with fiction or even deceit.  So I… https://t.co/51O36PM83S
+1223257884001292300,Fri Jan 31 14:53:01 +0000 2020,I am keeping track of errors found in the Introduction to Data Science book here:  https://t.co/XPLv920Fih  One of… https://t.co/F1SKE93u4G
+1223240319308902400,Fri Jan 31 13:43:13 +0000 2020,@aguerri_jc @FernandoQPH Sí, en la agenda está añadir ejemplos. Encontrar ejemplos realistas, con datos públicos, y… https://t.co/4NbLSicemV
+1222925692356055000,Thu Jan 30 16:53:00 +0000 2020,@_lacion_ @RLadiesSR @LatinR_Conf @R4DS_es Lo pienso escribir en GitHub. Les aviso.
+1222912093986414600,Thu Jan 30 15:58:58 +0000 2020,Estoy considerando traducir la versión electrónica gratis del libro  Introduction to Data Science al español.   ¿Ha… https://t.co/PMXBchV8TD
+1222544275402973200,Wed Jan 29 15:37:23 +0000 2020,Machine learning success story:   When I start an email by typing the letter S, gmail autocompletes it into "Sorry for the late reply!"
+1220413852128546800,Thu Jan 23 18:31:51 +0000 2020,Cuando @USGS estima 3% de otro sismo de 6.4, se refiere a la próxima semana. Estos estimados son para eventos relac… https://t.co/gi1FWySXJc
+1219780228974858200,Wed Jan 22 00:34:03 +0000 2020,@henrikbengtsson Not sure it helps, but you can unzip it and perhaps find what is confusing LibreOffice. At a very… https://t.co/AeE5Ige5it
+1219086635888971800,Mon Jan 20 02:37:58 +0000 2020,@thebyrdlab CRC press makes the solution manual available only to instructors.   But others can sign up for the Har… https://t.co/t5fQsHLmvx
+1218181236058837000,Fri Jan 17 14:40:14 +0000 2020,@haematobot @tangming2005 rmdir "~"  and If it is not empty  rm -rf "~"  r means recursive and f means force... so be careful with this one.
+1217933086526066700,Thu Jan 16 22:14:10 +0000 2020,RT @RJANunez: 1/N Update: Analysis of #TemblorPR. Here I present the Gutenberg–Richter (GR) law and fit a Space-Time Epidemic-Type Aftersho…
+1217865367357231000,Thu Jan 16 17:45:05 +0000 2020,@AllenDowney I know what you mean.   I would say that confidence intervals and p-values are deceitfully hard. They… https://t.co/I5Mph7rFMj
+1217863118803492900,Thu Jan 16 17:36:08 +0000 2020,@AllenDowney Counterexample: students also find the concepts of pdfs, conditional probabilities, inference, PCA, an… https://t.co/FdHgTAbrjF
+1217844595003781000,Thu Jan 16 16:22:32 +0000 2020,@KasperDHansen You have known this for years so I am very curious about what triggered the tweet!   ps - Here is my… https://t.co/40KhI5bfA3
+1217500197380481000,Wed Jan 15 17:34:01 +0000 2020,@gwaygenomics @FoolishBB A friend points out that the sign stealing could have been implemented rarely, in high lev… https://t.co/UTmGCQzgs1
+1217466435460423700,Wed Jan 15 15:19:52 +0000 2020,Sports analytics experts, how do you interpret this?   Astros 2017             OPS K% wRC+ Home 812  16.7 121 Away… https://t.co/RhFRE7U99J
+1217142199864836000,Tue Jan 14 17:51:28 +0000 2020,This year's Zelen Symposium features 2020 topics: census, elections, olympics and Earth Day's 50th   Invited speake… https://t.co/wNLNDXdWJu
+1215708653572935700,Fri Jan 10 18:55:04 +0000 2020,@WaterFront8 Yes, I recommend the one by Blitzstein @stat110 who might also have other recommendations.
+1215680164341829600,Fri Jan 10 17:01:52 +0000 2020,@lgatt0 Yes, there are many examples. A recent one is the pointless t-SNE and UMAP plots included in single cell RN… https://t.co/75Ixb5ESoI
+1215677883793825800,Fri Jan 10 16:52:48 +0000 2020,@domingojmarques Only if they are animated: https://t.co/Vi0eewQ8iA
+1215655210414039000,Fri Jan 10 15:22:42 +0000 2020,Aesthetics are important, but the main point of a figure is NOT to make the paper look pretty. When adding a figure… https://t.co/7PgRZGcLcn
+1215249627127210000,Thu Jan 09 12:31:04 +0000 2020,RT @tuuliel: This is true, but here’s my PSA: you can and should just email people whose work/lab you’re interested in, at least in academi…
+1214599660934963200,Tue Jan 07 17:28:19 +0000 2020,New work with Izzy Grabski shows limitations with cell-type identification approaches for scRNA-Seq that rely on ma… https://t.co/3Ye038lGs2
+1214227259596398600,Mon Jan 06 16:48:32 +0000 2020,@schoppik @daniela_witten Is CART considered a concept?
+1214211865544446000,Mon Jan 06 15:47:22 +0000 2020,RT @RJANunez: 1/N Con la sugerencia de @rafalab y dado la reciente cobertura de temblores en los medios de PR, incluyendo el que ocurrió en…
+1212726696694206500,Thu Jan 02 13:25:50 +0000 2020,@Caulimovirus and collecting Cholula bottles!
+1212073560786833400,Tue Dec 31 18:10:30 +0000 2019,Happy new year and happy Unix year 50 #rstats !   &gt; as.numeric(https://t.co/0J8EbdCwwk("2020-01-01")) / 365.24 [1] 50
+1209183250893009000,Mon Dec 23 18:45:27 +0000 2019,.@sandakano's GLM-PCA work, with @stephaniehicks and Martin Aryee, is now published in @GenomeBiology. https://t.co/NGsINVP1gA
+1207776400377204700,Thu Dec 19 21:35:07 +0000 2019,@MaartenvSmeden @StatModeling Shown out of context, that is of course a bad explanation. But while watching the ent… https://t.co/TBP6iAZHsz
+1207339417150480400,Wed Dec 18 16:38:42 +0000 2019,We are soon adding a third tenure track position. This one on clinical trials research.   If you have PhD in Biosta… https://t.co/oxqxwFmhyj
+1206600606556647400,Mon Dec 16 15:42:56 +0000 2019,Two bug fixes in dslabs 0.7.3:  us_contagious_diseases - The Polio data was a duplicate of the Pertussis data.  div… https://t.co/m2XAt9ATis
+1204136972094070800,Mon Dec 09 20:33:20 +0000 2019,RT @CRC_MathStats: Attention #RStats fans! In the run-up to @rstudio conference 2020, we're giving away a signed copy of @rafalab's Introdu…
+1203035418385473500,Fri Dec 06 19:36:09 +0000 2019,@AmeliaMN @LucyStats 🟥 Ignored phone message notification light 🏆Stashed away awards  📜Books on obsolete programmin… https://t.co/eM6GjI2ypm
+1201881861074702300,Tue Dec 03 15:12:20 +0000 2019,RT @jtleek: One of my absolutely favorite things about academia is writing reference letters for great people. They are so easy to write an…
+1201518980999057400,Mon Dec 02 15:10:22 +0000 2019,RT @GenomeBiology: @stephaniehicks and @rafalab introduce methylCC to address the technology-specific biases in the cell composition estima…
+1200488514661556200,Fri Nov 29 18:55:40 +0000 2019,@mikelove @jessenleon @hadleywickham @Bioconductor Thanks Mike!   I stick to matices when working with genomics dat… https://t.co/TjPGSWs1BH
+1199800713796145200,Wed Nov 27 21:22:36 +0000 2019,@MoHeydarian @jkpritch Fewer can afford computing on the cloud if they do the type of work my faculty does. We prov… https://t.co/61ZBJhDvSJ
+1199770968647852000,Wed Nov 27 19:24:24 +0000 2019,@jkpritch This is definitely a concern. But we simply can't do our work under the current model. So the plan is to… https://t.co/eKJJjNPGtT
+1199761097525383200,Wed Nov 27 18:45:10 +0000 2019,@kareem_carr I thought Dad was going to say:   Dad: Go and see if their sample size is big enough to conclude anyth… https://t.co/zvctnQL7We
+1199723296800956400,Wed Nov 27 16:14:58 +0000 2019,@hakyim @jkpritch Yes, we have factored in storage cost. We have institutional support for computing and are using… https://t.co/B6NwGDjM5u
+1199716177011851300,Wed Nov 27 15:46:40 +0000 2019,@jkpritch Cloud computing is not cost-effective for the work we do, which involves much interactive data exploratio… https://t.co/lhM9srlCFJ
+1199476542675574800,Tue Nov 26 23:54:27 +0000 2019,@kwbroman It is. https://t.co/ZB8FnQ0OLt
+1199448401407963100,Tue Nov 26 22:02:38 +0000 2019,@areyesq @TeresaOM @fellgernon @RJANunez @_lacion_ @robertclab @AleAviP Según el glosario multilingüe del Internati… https://t.co/CxssDS75bX
+1198982666688688000,Mon Nov 25 15:11:58 +0000 2019,Millions of people dislike your favorite food. https://t.co/RXCdPL5KSK
+1197574877735055400,Thu Nov 21 17:57:55 +0000 2019,@jafcpereira @daniela_witten Thank you both for the input. I have been struggling with this decision. The publisher… https://t.co/KJHSXA0VBc
+1197233243696910300,Wed Nov 20 19:20:23 +0000 2019,@methylnick The left pane has a drop-down menu with the table of content: https://t.co/kgqd7wV611
+1197222283519111200,Wed Nov 20 18:36:50 +0000 2019,@andreashandel Yes, the online version stays up and stays free!
+1197202057234731000,Wed Nov 20 17:16:28 +0000 2019,@KELR511 @dfcidatascience @HarvardDBMI You can use either for the online HarvardX course.
+1197201769929068500,Wed Nov 20 17:15:19 +0000 2019,A paper version of Introduction to Data Science: Data Analysis and Prediction Algorithms with R is now available on… https://t.co/pMomvG0IU8
+1196820862336458800,Tue Nov 19 16:01:44 +0000 2019,Six of the 24 are statisticians and computational biologists from our department @dfcidatascience! https://t.co/QoF0iQ6A5B
+1196418145558372400,Mon Nov 18 13:21:28 +0000 2019,@biopharm_tweets The other side: https://t.co/pnWW6sfjUZ
+1196417158110154800,Mon Nov 18 13:17:33 +0000 2019,@LeviWaldron1 I prefer just showing the p-value, or even better the confidence interval.
+1196183593560793000,Sun Nov 17 21:49:27 +0000 2019,@wolfgangkhuber For the record, I agree 100%  I hope it's obvious that this was meant as a humorous tweet!
+1196165701834354700,Sun Nov 17 20:38:21 +0000 2019,Literally all I do as a statistician:  No. No. That's not the definition of a p-value. No. Trending towards signifi… https://t.co/akk60fdLp8
+1195387401566224400,Fri Nov 15 17:05:40 +0000 2019,RT @dfcidatascience: Congratulations to Heng Li, PhD on winning an Essential #OpenSource Software for Science grant from @cziscience! The a…
+1195062023920291800,Thu Nov 14 19:32:44 +0000 2019,@spencerwoody @dfcidatascience @HarvardDBMI Yes! Imaging. Apologies for the typo.
+1195057610082246700,Thu Nov 14 19:15:11 +0000 2019,Two tenure track positions in my department @dfcidatascience and @HarvardDBMI   We are looking for candidates inter… https://t.co/o4pfKQO0Kl
+1194721263173812200,Wed Nov 13 20:58:40 +0000 2019,@tangming2005 I highly recommend learning to write math formulas in Latex. Not documents, which is tedious and R ma… https://t.co/Ngj3zbpcQj
+1194665394621038600,Wed Nov 13 17:16:40 +0000 2019,@AnkurFactorial Thanks for the clarification. I thought it was peppermint versus spearmint gum.
+1194664874254766000,Wed Nov 13 17:14:36 +0000 2019,@BMT_DrNemecek Correct. Both are un frío pelú
+1194641699080814600,Wed Nov 13 15:42:31 +0000 2019,What's the difference between an arctic blast and a polar vortex?
+1194038757378470000,Mon Nov 11 23:46:38 +0000 2019,@jmschreiber91 @ericmjl leaves = new dataset
+1193917339202244600,Mon Nov 11 15:44:10 +0000 2019,Collaborator: I know you are super busy finishing the analysis for our current project, but when you are done I nee… https://t.co/kMDWwUFWYe
+1192826855545393200,Fri Nov 08 15:30:58 +0000 2019,I agree with @daniela_witten. This is what I suspect are the first three things most members of search committees d… https://t.co/fu4GZ9wTPv
+1191728722455351300,Tue Nov 05 14:47:23 +0000 2019,My pitch if I ever interview for university president:   Under my leadership, you will only have one password.
+1191089888579506200,Sun Nov 03 20:28:53 +0000 2019,@AndrewLBeam The problem seems to be people thinking using ML is novel. Tell them it’s not. And if what they propos… https://t.co/CqMv1GpsDH
+1191080323297230800,Sun Nov 03 19:50:52 +0000 2019,@AndrewLBeam That's how I would define it, yes. Except I would not 'use the term "normal" stats. I would just say statistical inference.
+1191076158663733200,Sun Nov 03 19:34:20 +0000 2019,@AndrewLBeam Other:  I understand LASSO to be an estimation procedure designed for variable selection, not a model.… https://t.co/O0FmIXa7Fp
+1190339002521383000,Fri Nov 01 18:45:08 +0000 2019,@rdhernand In case it helps, Sections 17.2 and 18.3.4 in the chapters linked below provide an interpretation of the… https://t.co/R1WOS4BD3p
+1189985321041059800,Thu Oct 31 19:19:44 +0000 2019,Can you think of 2 x 2 table for which an association test would yield a smaller p-value than this one? https://t.co/XGRzAl7TmN
+1189537089194315800,Wed Oct 30 13:38:37 +0000 2019,@IsabellaGhement @LeviWaldron1 All the code is on GitHub:  https://t.co/H1YgBcwseP  In fact, using this repo, you c… https://t.co/FHDPKoVgzP
+1189254914498879500,Tue Oct 29 18:57:21 +0000 2019,@jim_havrilla @preetiaahir Most of the slides used in the course come from code included in the book. The course no… https://t.co/Y9OR6pOMOy
+1188928448753856500,Mon Oct 28 21:20:06 +0000 2019,@meandertail @EpgntxEinstein That's good idea! I'll bring my lab Marmite next time I go to England.
+1188921832306405400,Mon Oct 28 20:53:48 +0000 2019,@EpgntxEinstein Are you saying I shouldn't bring back vegemite?
+1188836629047206000,Mon Oct 28 15:15:14 +0000 2019,New version of   Introduction to Data Science Data Analysis and Prediction Algorithms with R   is available. Many i… https://t.co/43f6pHu4ig
+1187805955548860400,Fri Oct 25 18:59:42 +0000 2019,New work with @sandakano shows that most of the variability in smart-Seq2 data comes from amplification. Plot below… https://t.co/eVuE1sSTgT
+1187420746093490200,Thu Oct 24 17:29:01 +0000 2019,@ziebrah sometimes? you are a better driver than me.😂
+1187398914640449500,Thu Oct 24 16:02:16 +0000 2019,It might also be the only US city with one of these: https://t.co/zuM4i2iXAM
+1187389386364608500,Thu Oct 24 15:24:24 +0000 2019,What is driving in Boston like? You are in a tunnel, with no signal, and your map app shows you this: https://t.co/0XAEyL1pvI
+1186820222478704600,Wed Oct 23 01:42:45 +0000 2019,@G2Campbell How about this one? https://t.co/tNhf03ENNs
+1186819348796788700,Wed Oct 23 01:39:17 +0000 2019,@TunnelOfFire @tcarpenter216 Welcome to the club https://t.co/uQV56hl6uV
+1185337853284438000,Fri Oct 18 23:32:21 +0000 2019,RT @lh3lh3: Our preprint on accurate chr-scale phased de novo assembly of human genomes. 24hr/sample. Require CCS and Hi-C w/o trios. Longe…
+1185193085753446400,Fri Oct 18 13:57:06 +0000 2019,RT @RobCalver5: Coming soon in the @CRC_MathStats #DataScience series, a new comprehensive, accessible, and practical first course #textboo…
+1184560420209614800,Wed Oct 16 20:03:06 +0000 2019,This is going to be interesting. I found the code for my thesis and might try to reproduce it.   On a completely un… https://t.co/KgOMbDLEfh
+1182688220414267400,Fri Oct 11 16:03:39 +0000 2019,Searching for an old file I stumbled upon the webpage I made to summarize my thesis work on music sound singlas. I… https://t.co/VNYFRQLzpA
+1182329154567434200,Thu Oct 10 16:16:51 +0000 2019,A few years back I wrote a @simplystats blog post on how public relations and the media are distorting science. Sev… https://t.co/RrD06jq8XL
+1182316405191889000,Thu Oct 10 15:26:12 +0000 2019,@jessenleon @JennyBryan @LucyStats Missed the link! Nice post
+1182312839643447300,Thu Oct 10 15:12:01 +0000 2019,@daniela_witten Be careful. They will be a logistic transformation away from using deep learning.
+1182038731588374500,Wed Oct 09 21:02:49 +0000 2019,@Freudlab Amazing. FWIW it could have been worse:   "For now let's use Mechanistic Studies of DNA damage and Repair… https://t.co/UGIBr0JERS
+1181715210836611000,Tue Oct 08 23:37:16 +0000 2019,@kareem_carr So much better than my boring way of explaining PCA 😂
+1181658668699287600,Tue Oct 08 19:52:35 +0000 2019,@jessenleon @JennyBryan @LucyStats Or code it themselves: p &lt;- 0.48 N &lt;- 1000 B &lt;- 10000 inside &lt;- replicate(B, {… https://t.co/evBJZdqB25
+1181652216647569400,Tue Oct 08 19:26:57 +0000 2019,@JennyBryan @LucyStats Jenny's is the one I use. 1 and 2 might confuse the student into thinking the parameter is r… https://t.co/g5KitmRhFQ
+1181295825105768400,Mon Oct 07 19:50:46 +0000 2019,RT @dfcidatascience: Many congratulations to our @DanaFarber colleague William G. Kaelin Jr., MD on being awarded a 2019 #NobelPrize! @kael…
+1180120715569139700,Fri Oct 04 14:01:18 +0000 2019,Dear fancy caterers,  Ordering the vegetarian option does not imply we are on a diet.   ps - A big plate of tofu Pa… https://t.co/KYNLJV38eI
+1180109624491430000,Fri Oct 04 13:17:14 +0000 2019,RT @dfcidatascience: Meet the latest addition to our random forest! https://t.co/O5oh0yDP4F
+1179558281590771700,Thu Oct 03 00:46:24 +0000 2019,@Alastxr Si no es mucha molestia,necesito:tomates,dulce de papaya,café,12 medallas,peluche de tigre,adorno de navid… https://t.co/vYLfU6OUeK
+1179495403026149400,Wed Oct 02 20:36:32 +0000 2019,@QuonBio The general and the math subject test.
+1179421541706207200,Wed Oct 02 15:43:02 +0000 2019,Unpopular opinion: The GRE can be useful for quantitative PhDs. I did my undergrad in a university that doesn't eve… https://t.co/y8YYg2pAa7
+1179395550166343700,Wed Oct 02 13:59:45 +0000 2019,@rmflight @sandakano @stephaniehicks Correct, no normalization. Input should be the raw counts.
+1179107965577523200,Tue Oct 01 18:57:00 +0000 2019,RT @sandakano: Need to apply dimension reduction to non-normally distributed data? Try our implementation of generalized PCA! It is now ava…
+1179107965577523200,Tue Oct 01 18:57:00 +0000 2019,RT @sandakano: Need to apply dimension reduction to non-normally distributed data? Try our implementation of generalized PCA! It is now ava…
+1176882968503079000,Wed Sep 25 15:35:39 +0000 2019,@maaris_m You are right! Thanks for the correction.
+1176854758868410400,Wed Sep 25 13:43:34 +0000 2019,More advanced: the coefficient of variation is not always useful. It only makes sense when 0 is the natural point o… https://t.co/XsKJPP2Km7
+1176854757991825400,Wed Sep 25 13:43:33 +0000 2019,Motivating the coefficient of variation (CV) for beginners:  Boss: Measure it 5 times.  You: 8, 8, 9, 6, and 8''  B… https://t.co/6s7cuECFMG
+1176153804397404200,Mon Sep 23 15:18:13 +0000 2019,@tamar_sofer FWIW, I don't see the error on my computer. https://t.co/1ZKllMpuzJ
+1173981449990680600,Tue Sep 17 15:26:03 +0000 2019,@Arkar89321406 @HarvardOnline https://t.co/15GgICBIT9
+1172526292165546000,Fri Sep 13 15:03:47 +0000 2019,Dear everybody,   If you have to choose one nice thing to do for the computer geek helping you, don't use spaces in… https://t.co/8qKLB7jIpn
+1171209749054013400,Mon Sep 09 23:52:18 +0000 2019,@kareem_carr Depends. Among friends, data is. In the presence of grammar police, data are.
+1171062808277971000,Mon Sep 09 14:08:25 +0000 2019,Puerto Rico's scary demographic problem in a gif.  Economists worry about the US not having enough working-age popu… https://t.co/KD8JmbRphv
+1169966512737673200,Fri Sep 06 13:32:08 +0000 2019,@Doc_Courtney For those that find the custom robes too expensive, know that, for some universities, you can get kno… https://t.co/bBpN0rD7d6
+1169309045745864700,Wed Sep 04 17:59:35 +0000 2019,Puerto Rico tiene una necesidad urgente de mejorar el acceso a datos confiables. El Instituto de Estadísticas de Pu… https://t.co/u8hinOfCo4
+1168927194787307500,Tue Sep 03 16:42:15 +0000 2019,@sherrirose Noise cancelling headphones for everybody!
+1168901806832984000,Tue Sep 03 15:01:22 +0000 2019,My pitch if I ever interview for university president or company CEO:   Under my leadership, AV will work.
+1167430425586753500,Fri Aug 30 13:34:37 +0000 2019,@gabriel_zucman @Noahpinion But doesn't the PR government collect that tax revenue (billions of dollars)? Note that… https://t.co/dK4ebO5G94
+1167374380810350600,Fri Aug 30 09:51:55 +0000 2019,@PearlJPark Programming is not necessary to learn statistics. However, it is is highly recommend if you plan to ana… https://t.co/o4glYXMM0v
+1167063598134435800,Thu Aug 29 13:16:59 +0000 2019,You can replicate almost any plot in #rstats.   This @simplystats  blog post shows five examples using #ggplot2.   https://t.co/Y39wfI9rg3
+1166392912524918800,Tue Aug 27 16:51:55 +0000 2019,@teach_russell If you plan to analyze data you will learn skills and concepts that can help. Specifically you will… https://t.co/xRfhTWgHfl
+1166391513024041000,Tue Aug 27 16:46:21 +0000 2019,@seanjtaylor @johnmyleswhite In case it helps here is a book chapter with both code and explanation of the assumpti… https://t.co/A0kuDdQBl4
+1165988547112751000,Mon Aug 26 14:05:07 +0000 2019,Academic statistician tries to apply his recently published method to real-world data. https://t.co/hlZDKVo1ql
+1161014129177632800,Mon Aug 12 20:38:33 +0000 2019,@kareem_carr For data scientist/applied statisticians I don't think this distinction matters much. Here is a… https://t.co/RQqrce3Aht
+1157653435304546300,Sat Aug 03 14:04:21 +0000 2019,@kareem_carr Did I forget to warn you? Oops. I guess now is as good a time as any to let you know: models never fit! 😂
+1156281177067675600,Tue Jul 30 19:11:29 +0000 2019,@daniela_witten @DavidDunson7 @mstephens999 0.1% of the population (7 million people) know more about Bayes Theorem… https://t.co/xLywxCkD7h
+1156208325433942000,Tue Jul 30 14:22:00 +0000 2019,Update:  15yo taking stats summer course: R is a godsend! So much better than Java!  me: And better than Python too… https://t.co/vA2dc7dTPG
+1154772221929435100,Fri Jul 26 15:15:26 +0000 2019,RT @RJANunez: Update to my last tweet: 30 minutes aggregated #RickyRenuncia tweets in the past several days. Also, 30 minutes aggregated #R…
+1154573363618209800,Fri Jul 26 02:05:15 +0000 2019,@LuisArmandoPQ @HarvardOnline Si claro. Son self-paced. Además puedes auditar sin pagar y decidir luego si quieres el certificado.
+1154448005048733700,Thu Jul 25 17:47:07 +0000 2019,@tpq__ @tomkXY @tangming2005 @simplystats Yes, this is all explained in the book chapter containing the table shown… https://t.co/TzAYegfIOK
+1154044627621576700,Wed Jul 24 15:04:14 +0000 2019,@tomkXY @tangming2005 @tpq__ @simplystats Right. In the table I say "Measure of specificity" but perhaps I should a… https://t.co/IMicaVfPhJ
+1154026991995293700,Wed Jul 24 13:54:10 +0000 2019,@tomkXY @tangming2005 @tpq__ @simplystats The way I teach this:both ROC and Precision Recall curves show a balance… https://t.co/9SUKeR6mWw
+1153342392340291600,Mon Jul 22 16:33:49 +0000 2019,RT @DavidBegnaud: Right now in San Juan Puerto Rico.  The crowd is growing.  I’d estimate 400,000 people https://t.co/AoEwfPxJRL
+1153293905749848000,Mon Jul 22 13:21:08 +0000 2019,@f2harrell I agree that normal dist is overused. Not just due to CLT though. Often it's assumed for math convenienc… https://t.co/fxIWIWCPNs
+1152284612799946800,Fri Jul 19 18:30:34 +0000 2019,We updated the dslabs package with seven new datasets related to climate change, astronomy, life expectancy, and br… https://t.co/qw7jxGOL2A
+1151565862828159000,Wed Jul 17 18:54:31 +0000 2019,@lopantano No, it is not right. Everybody on that author list was paid for their work and your per-hour rate was li… https://t.co/u1ieJrMGdv
+1150733113418539000,Mon Jul 15 11:45:28 +0000 2019,@kareem_carr In Boston, it’s Ah
+1150081508847292400,Sat Jul 13 16:36:13 +0000 2019,@ivivek87 @IyueSung @askdrstats @BaumerBen @AmeliaMN @jo_hardin47 @StatGarrett @minebocek @MineDogucu @hglanz… https://t.co/BhGP06AkDb
+1150076573258846200,Sat Jul 13 16:16:37 +0000 2019,@askdrstats @BaumerBen @AmeliaMN @jo_hardin47 @StatGarrett @minebocek @MineDogucu @hglanz @jtleek @JennyBryan My cu… https://t.co/KOZp16l0tC
+1149328651516645400,Thu Jul 11 14:44:38 +0000 2019,I've witnessed first hand the mental health effects that online harassment can have on early career scientists. My… https://t.co/2SY0P9dIHA
+1148789869172408300,Wed Jul 10 03:03:42 +0000 2019,@tamannashahs @HarvardOnline There is an audit option that is free. All the videos are available and you can take t… https://t.co/0G49hN7x5A
+1148656838524596200,Tue Jul 09 18:15:05 +0000 2019,@onmtcc @followishti @HarvardOnline There is free audit option if you want to try it out.
+1148612307531866100,Tue Jul 09 15:18:08 +0000 2019,New run of @HarvardOnline Professional Certificate in Data Science starts next week 7/16.   Courses improved based… https://t.co/0KOrKoGXy0
+1145398346800087000,Sun Jun 30 18:27:01 +0000 2019,@kareem_carr I’m missing a couple. https://t.co/cP7LDYZmyO
+1144603900143534100,Fri Jun 28 13:50:10 +0000 2019,Check out the first @Bioconductor webpage from 2002. The server was hosted here in @dfcidatascience. The first rele… https://t.co/KDlOGx5dVO
+1141368276494086100,Wed Jun 19 15:32:57 +0000 2019,@othomn @Valetw1tt @RLadiesGlobal @R4DScommunity @rdpeng @jtleek @hadleywickham I've been learning S/R for the last… https://t.co/rcujwChkGB
+1138086294683365400,Mon Jun 10 14:11:31 +0000 2019,According to Google images, it's always 10:10 (or 1:50) https://t.co/HaHKhwNB9g
+1135922146595594200,Tue Jun 04 14:51:58 +0000 2019,I’ll trade you all these knives for one fork. https://t.co/9ty9IyizsB
+1135595267242074100,Mon Jun 03 17:13:04 +0000 2019,@michelebusby The AP exam is currently in Java.
+1135546663013998600,Mon Jun 03 13:59:56 +0000 2019,15yo: Java sucks, why do I have to use curly brackets?!  me: That's not just Java. Several other languages too.  15… https://t.co/sgx3I80md8
+1133380268591538200,Tue May 28 14:31:27 +0000 2019,According to Google images: AI is light blue Data science is Venn diagrams Math and Physics are black boards full o… https://t.co/kjZMm8sxtG
+1130522462666539000,Mon May 20 17:15:33 +0000 2019,@f2harrell @C3gnGuy Here are two examples of useful and constructive work related to  power in the high-dimensional… https://t.co/pA1LLbsHDw
+1125840410155393000,Tue May 07 19:10:45 +0000 2019,@jmhorp Now more than ever:  “A lie can travel halfway around the world while the truth is still putting on its shoes,”
+1125755817150636000,Tue May 07 13:34:36 +0000 2019,RT @keegankorthauer: I'm thrilled to share that this fall I'll be joining the @UBC Department of Statistics and @BCChildrensHosp @BCCHresea…
+1125409025535832000,Mon May 06 14:36:35 +0000 2019,With the end of the semester approaching it is time to remind everybody that you will be just as busy in 9 months. https://t.co/842bxhhJKE
+1123973737550946300,Thu May 02 15:33:16 +0000 2019,@TiffanyTimbers @rdpeng @minebocek @rudeboybert @AllenDowney @askdrstats @jtleek @stephaniehicks 1-Show empirical d… https://t.co/KCIzlg80rx
+1123596232302239700,Wed May 01 14:33:11 +0000 2019,@marchionniLab DNA is sometimes blue. Not always.  But personalized medicine is not a color, it's stick figures https://t.co/MqjUtgD0OK
+1123588237434458100,Wed May 01 14:01:25 +0000 2019,Why is Artificial Intelligence light blue? https://t.co/8hV1n8SLSd
+1116446659863511000,Thu Apr 11 21:03:20 +0000 2019,@PolakPaz @leonidkruglyak N = 1
+1116412887596261400,Thu Apr 11 18:49:09 +0000 2019,Statistician: I did a power calculation and we need 25 twins for this study. Scientists: You're fired.  https://t.co/nRmo8zRYa0
+1116004499775217700,Wed Apr 10 15:46:21 +0000 2019,RT @keegankorthauer: You: MS level Computational Biologist/Biostatistician with background in statistics and computing?  Also you: Seeking…
+1115676205603336200,Tue Apr 09 18:01:50 +0000 2019,@michaelhoffman And maybe current discussions would be about banning posterior probability cutoffs.
+1115631724682272800,Tue Apr 09 15:05:05 +0000 2019,@andrewejaffe Yes. The only thing I can say for sure would be different is that the mode of the published p-value d… https://t.co/g7P4t0lAQz
+1115629924449169400,Tue Apr 09 14:57:56 +0000 2019,Had Fisher suggested 0.005, instead of 0.05, as the arbitrary p-value cutoff to reject a null hypothesis, back in 1… https://t.co/kprXoAO6hn
+1115289327024660500,Mon Apr 08 16:24:31 +0000 2019,@FPRoth At what level? 95%? 99%? 1 - 0.05 / number of tests?
+1115287805712851000,Mon Apr 08 16:18:28 +0000 2019,@davitivan Genetics journals are not banning p-values. Apologies for the lack of context. There is currently much d… https://t.co/ADdwofkarm
+1115263597662306300,Mon Apr 08 14:42:16 +0000 2019,If genetics journals ban p-values, what substitutes Manhattan plots?
+1113471360796438500,Wed Apr 03 16:00:34 +0000 2019,RT @dfcidatascience: Tomorrow at 1pm: Navigating the garden of forking paths -- multiple testing and p-hacking and pre-registration (oh my!…
+1111628873043710000,Fri Mar 29 13:59:11 +0000 2019,Looking forward to our Data Science in Biomedical Research Conference next Friday 4/5. This year's theme is "Learni… https://t.co/eLDxhmrmsz
+1110919156780679200,Wed Mar 27 14:59:01 +0000 2019,@jtleek @rdpeng @johnstorey @dfcidatascience I'll make sure the wifi goes out right after you smash it.
+1110914633144111100,Wed Mar 27 14:41:02 +0000 2019,@RoryKirchner Nice! It's added.
+1110910667408789500,Wed Mar 27 14:25:17 +0000 2019,This is nowhere near perfect, and specific to how I work, but in case anybody finds it useful, these are the instru… https://t.co/KoVqSzYrqJ
+1110639936414335000,Tue Mar 26 20:29:30 +0000 2019,@CoreyDunn_ @biochemnerd It’s in the works.
+1109160628357398500,Fri Mar 22 18:31:15 +0000 2019,Making a spreadsheet look good to the human eye often makes it very hard for data analysts to extract what they nee… https://t.co/lKLvY7wKxX
+1108472408460197900,Wed Mar 20 20:56:31 +0000 2019,@alienelf Great minds think alike https://t.co/4dH4DAqh69
+1108400479837528000,Wed Mar 20 16:10:42 +0000 2019,@tangming2005 This was part of the @HarvardCatalyst Biostatistics Program. I think you can sign up here: https://t.co/00lZjyzFVq
+1108383214756945900,Wed Mar 20 15:02:05 +0000 2019,All materials for the 4 hour workshop  Data Science for Statisticians  are available on GitHub.  We covered tidyver… https://t.co/e8Rm7uojQu
+1107720211870949400,Mon Mar 18 19:07:33 +0000 2019,@TiffanyTimbers @biochemnerd Several students asked for the pdf. Didn't take long at all. bookdown makes it relativ… https://t.co/FJ7XVTzJ9C
+1107643242953277400,Mon Mar 18 14:01:42 +0000 2019,A free PDF version of  Introduction to Data Science: Data Analysis and Prediction Algorithms with R   is now availa… https://t.co/r0TVCIhxCo
+1106878552992071700,Sat Mar 16 11:23:06 +0000 2019,@ewanbirney @dbweissman Yes, 9/9 = 1 for example.  1/9 = .1111111r 2/9 = .2222222r 3/9 = .3333333r ... 9/9 = .9999999r
+1105499536775094300,Tue Mar 12 16:03:23 +0000 2019,New manuscript with recs on how to normalize scRNA-Seq data. Main message: don't use log(CPM+1) transformation, it… https://t.co/1tpiCtAdts
+1105462726304911400,Tue Mar 12 13:37:07 +0000 2019,RT @sandakano: Do you work with single cell RNA-Seq data (or any count data with large numbers of zeros)? You may be interested in our prep…
+1105221008615718900,Mon Mar 11 21:36:37 +0000 2019,@ClausWilke Then the second lesson will have be how to quit vi. I still haven't mastered that concept. 😃
+1105144188692250600,Mon Mar 11 16:31:21 +0000 2019,@tangming2005 ~/$ find ./ -name "test*.*" | wc -w      179
+1105140636066476000,Mon Mar 11 16:17:14 +0000 2019,The first lesson in git class should start like this:  Before we get started, everybody please memorize these two l… https://t.co/FV8NKF8fwv
+1104052724264517600,Fri Mar 08 16:14:16 +0000 2019,@willmckinley @RStatsJason @Sarah_Zundel Divide the last thirty years into two: before and after 2005. The graph sh… https://t.co/PtBg7dvC8B
+1103691685215780900,Thu Mar 07 16:19:38 +0000 2019,Daughter: Why are academy award best picture winners so boring?  Me: I don't think it was always like this.  Daught… https://t.co/m0tehWROcQ
+1101831445235019800,Sat Mar 02 13:07:42 +0000 2019,@JoeEsensten Hi Joe! I am not aware of any specific student. But there are thousands. Feel free to ask one the discussion boards.
+1101562764378685400,Fri Mar 01 19:20:03 +0000 2019,RT @dfcidatascience: Congratulations to Department Administrator @JaneCraycroft (center) on winning the 2019 @DanaFarber Managers Award! Th…
+1101539233918079000,Fri Mar 01 17:46:33 +0000 2019,@KarthikaSivam90 @BiancaLepe "Statistical Inference" by Casella and Berger is a popular choice for an intermediate level.
+1101498821899681800,Fri Mar 01 15:05:58 +0000 2019,Este martes al mediodía estaré presentando en el Seminario de Biología en la UPR-RP. Describiré nuestro trabajo est… https://t.co/Kbt8uf0mbY
+1100813879901384700,Wed Feb 27 17:44:15 +0000 2019,@BiancaLepe There are many good ones, but for beginners I recommend "Statistics" by Freedman, Pisani and Purves.
+1100781187193335800,Wed Feb 27 15:34:21 +0000 2019,Why learn stats? Data analysis has been around for decades. Through the years, ideas that generalize across applica… https://t.co/JAz9OwENFj
+1099750352142901200,Sun Feb 24 19:18:10 +0000 2019,@T_Weissgerber @bruler0111 Thanks! Added a link to this thread in the post.
+1099679374666842100,Sun Feb 24 14:36:08 +0000 2019,@bruler0111 @T_Weissgerber Yes! @T_Weissgerber excellent paper is featured in the blogpost.
+1099678375612948500,Sun Feb 24 14:32:10 +0000 2019,@FredrikJutfelt Yes, although not in the tweet, the post explains that this example doesn't necessarily need a boxp… https://t.co/w1EBCrxW7Y
+1099670628326670300,Sun Feb 24 14:01:23 +0000 2019,@FredrikJutfelt Boxplots immediately reveal the center and spread of the data. As sample size increases, it becomes… https://t.co/iTIFFEXhye
+1098993161404321800,Fri Feb 22 17:09:22 +0000 2019,@SherlockpHolmes @niemasd I agree. Although not in the tweet, that point is made in the blogpost.   ps - I prefer r… https://t.co/bkPXLzzBti
+1098973538260840400,Fri Feb 22 15:51:24 +0000 2019,Open letter to journal editors: dynamite plots must die. Dynamite plots, also known as bar and line graphs, hide im… https://t.co/14xvPQ5Xps
+1097958161615605800,Tue Feb 19 20:36:39 +0000 2019,@iammanyend The content has not changed, the organization has. Some of the chapters are now sections. If you click… https://t.co/qL35YxUIlX
+1097916903740358700,Tue Feb 19 17:52:42 +0000 2019,The good statistical collaborator paradox:  If you collaborate with a good statistician, you will appear less produ… https://t.co/MeyVnX7iHd
+1097221479392071700,Sun Feb 17 19:49:20 +0000 2019,Not only is it ok, it is encouraged. The person you are asking might be too busy to keep up with all the awards you… https://t.co/6Ir9qBTkPm
+1096084414432460800,Thu Feb 14 16:31:03 +0000 2019,@fdmts @eleanorahowe @VanAllenLab They might be asking you to go against the recommendations of the ICMJE… https://t.co/WBjtNNBGyE
+1092441031054934000,Mon Feb 04 15:13:33 +0000 2019,RT @matthewnmccall: I'm an assistant no longer! A huge thank you to all my students,  collaborators, colleagues, letter writers, and mentor…
+1088493748298895400,Thu Jan 24 17:48:27 +0000 2019,RT @dfcidatascience: Exciting new #bioinformatics positions at @DanaFarber! Please share &amp; apply: https://t.co/Zo2a1FL7h8. #cancerresearch…
+1086076352397103100,Fri Jan 18 01:42:35 +0000 2019,@technocrat @HarvardOnline Thanks for the note! Notice that we are mimicking the Netflix challenge, which used RMSE… https://t.co/syt0u624sy
+1086073960364630000,Fri Jan 18 01:33:05 +0000 2019,@EvolSci @BirtwistleLab @ImanTavassoly @NIGMS @CU_BioE It was @jtleek not me. Here is the post I think you are refe… https://t.co/GB7wq1Dfjf
+1085573687926026200,Wed Jan 16 16:25:10 +0000 2019,@warhorse109 @edXOnline We are aware of the problems described in the discussion board and are in the process of im… https://t.co/zkGCdLhAVc
+1084834962388467700,Mon Jan 14 15:29:44 +0000 2019,If you come work with us @dfcidatascience, you will be surrounded by collaborative colleagues with expertise in sev… https://t.co/dUOpXGdbwY
+1084463013275582500,Sun Jan 13 14:51:45 +0000 2019,@JoshuaNiforatos @kafedha @HarvardOnline Yes. The R Basics course was developed for people with no R programming experience.
+1084461595860893700,Sun Jan 13 14:46:07 +0000 2019,@Ali_SyedRaza @HarvardOnline If you click on the link for a course and then click on the enroll button you will be… https://t.co/LKDqs9Kvk6
+1083811067971670000,Fri Jan 11 19:41:09 +0000 2019,@avecNava @HarvardOnline If you audit the course, it is free. You have access to all the videos, assessments and di… https://t.co/nT6IgPeyNs
+1083737240411521000,Fri Jan 11 14:47:47 +0000 2019,@kafedha @HarvardOnline Auditing the courses is free. You get to see all the videos, take all the quizzes, and ask… https://t.co/SMFrokyfe3
+1083733285149331500,Fri Jan 11 14:32:04 +0000 2019,A second version of The Data Science @HarvardOnline series is now up and running. The series is composed of eight c… https://t.co/oSdMPCKkUS
+1080475788670107600,Wed Jan 02 14:47:56 +0000 2019,RT @dfcidatascience: Happy New Year, Twitter! So excited to announce that we are officially the Department of Data Sciences at @DanaFarber!…
+1077935641571270700,Wed Dec 26 14:34:18 +0000 2018,Happy Festivus #rstats  l=function(y)lines(c(.3,.7),y,lwd=40,co="burlywood3") g="grey50" e=function(y,c=g)car::elli… https://t.co/AH83TpiMEm
+1077227737033699300,Mon Dec 24 15:41:21 +0000 2018,Santa is on his way... https://t.co/GwakgFpqDi
+1074688359547789300,Mon Dec 17 15:30:46 +0000 2018,RT @ecerami: It's official!  We are now the Department of Data Sciences at @DanaFarber, and we have the cake to prove it!  Stay tuned for l…
+1072528174989357000,Tue Dec 11 16:26:58 +0000 2018,New postdoc position in our lab. Will focus on high-throughput sequencing data for pathogen identification, immune… https://t.co/HETpYIC0lK
+1070368937513271300,Wed Dec 05 17:26:55 +0000 2018,HS students: Don't feel defeated if you don't get into your "dream school". There are many paths to success that do… https://t.co/Lyc7siefht
+1067534704646266900,Tue Nov 27 21:44:42 +0000 2018,RT @DanaFarber: Congratulations to Dana-Farber's Giovanni Parmigiani, PhD, who has been named a Fellow of the American Association for the…
+1064912701510570000,Tue Nov 20 16:05:47 +0000 2018,@DiiegoMariano @revodavid That's not quite what @revodavid was looking for which was radius instead of area. But it… https://t.co/5b7KQpWy3R
+1064699336662138900,Tue Nov 20 01:57:57 +0000 2018,@revodavid 2011 state of the union. More here https://t.co/698IGN0YZi https://t.co/yd40eWGAP3
+1059854152539484200,Tue Nov 06 17:04:55 +0000 2018,@sherajilir It is not a requirement. Genomics Data Analysis assumes you know some of the material covered in the Da… https://t.co/kxspcfwCSz
+1058151280626073600,Fri Nov 02 00:18:19 +0000 2018,@mikelove @simplystats I think that is true for most departments, assuming they have ML experts. They need to bring… https://t.co/rPVA8lhlma
+1058066953015906300,Thu Nov 01 18:43:14 +0000 2018,New @simplystats post: The role of academia in data science education   https://t.co/OY3HueTPvt
+1057828408875515900,Thu Nov 01 02:55:20 +0000 2018,RT @keegankorthauer: Want to boost power when controlling FDR by using more than just the p-value?  We benchmarked several recent FDR metho…
+1056927978129682400,Mon Oct 29 15:17:21 +0000 2018,@dccc_phd @joelmcglothlin @Graham_Coop For the 𝘃𝗲𝗿𝘆 basics you can look through parts 3 (probability) and 4 (infere… https://t.co/Uiz7KvqB2Z
+1055474898573975600,Thu Oct 25 15:03:20 +0000 2018,@strnr Why has no one told me about snippets before!? On a different note, can anyone recommend a reliable laser tattoo removal service?
+1055466970253004800,Thu Oct 25 14:31:49 +0000 2018,Here is a practical tattoo for #ggplot2 users https://t.co/qgrle1ok0k
+1055102842606891000,Wed Oct 24 14:24:55 +0000 2018,Several updates have been made to the Introduction to Data Science online book. The main one being the addition of… https://t.co/T0RVho6yQs
+1054773208174469100,Tue Oct 23 16:35:04 +0000 2018,Announcing a new tenure track position in my department at @DanaFarber and @harvardmed   We are looking for an appl… https://t.co/eHYzTzlDP0
+1054559459857576000,Tue Oct 23 02:25:42 +0000 2018,@economeager @StuartBuck1 @kjhealy @soashworth @HamoudiAmar TIL spreadsheet is a verb 😂
+1054209395263987700,Mon Oct 22 03:14:40 +0000 2018,@DrewSCMery Health Analytics, as I define it, is quite diverse. My group mainly uses R and Python. We focus mainly… https://t.co/R1As62ULeA
+1050808333224091600,Fri Oct 12 18:00:04 +0000 2018,RT @dfcidatascience: We're hiring! Want to help develop the #opensource @Bioconductor platform? Check out our Research Scientist position w…
+1050448363118895100,Thu Oct 11 18:09:40 +0000 2018,A recent blog post by @kwbroman reminded me of this old @simplystats post about how selection bias and missing data… https://t.co/Su2SwIWDbk
+1050224442478157800,Thu Oct 11 03:19:53 +0000 2018,@_ron_g_ Thanks for the report. Will look into it.
+1050179381484810200,Thu Oct 11 00:20:50 +0000 2018,@GReales7 It's based on grep, which looks for a pattern in files and returns the lines containing the pattern. My s… https://t.co/wNW56y7bVY
+1050027210906701800,Wed Oct 10 14:16:10 +0000 2018,When you ramble for five minutes in a meeting with 12 attendees, you waste a total of one hour of your colleagues'… https://t.co/Wejutm6L3p
+1049686211391045600,Tue Oct 09 15:41:09 +0000 2018,Why did I wait 20+ years to write this? I've looked it up like 500 times!  $ less ~/bin/lookfor #!/bin/bash grep -r… https://t.co/JFHCNwvGxa
+1048195230191763500,Fri Oct 05 12:56:32 +0000 2018,@kwbroman Glad you are back Karl! Your account is not only interesting but educational.
+1047519970773495800,Wed Oct 03 16:13:17 +0000 2018,@moefeliu @manigarcianyc @Sefini @yfortiss @CienciaPR @StatsCamp @AmstatNews @EstadisticasPR @AppDemography No teng… https://t.co/wPy3lXw9k8
+1047487229613039600,Wed Oct 03 14:03:11 +0000 2018,RT @dfcidatascience: Excited to announce that Heng Li @lh3lh3 joins our faculty today. Welcome, Heng! We're glad to have you at @DanaFarber…
+1047143093848477700,Tue Oct 02 15:15:43 +0000 2018,RT @dfcidatascience: Hello Twitter! This is the @DanaFarber Department of #Biostatistics and #ComputationalBiology. We're excited to be her…
+1046809367683760100,Mon Oct 01 17:09:36 +0000 2018,RT @jtleek: We've been working to remove and reduce barriers for anyone in high school on up to get into data science. The first part of ou…
+1045743090437369900,Fri Sep 28 18:32:36 +0000 2018,Getting the data you need to answer a question can be hard. The process of obtaining the Puerto Rico mortality data… https://t.co/jkcsOKrzm3
+1045273986853204000,Thu Sep 27 11:28:33 +0000 2018,@callin_bull Adult heights versus IQ or test scores. You can aslo look through the variables in the NHANES R package.
+1042690311758258200,Thu Sep 20 08:21:57 +0000 2018,@nj_tierney @stephaniehicks @rdpeng @dccc_phd I didn't make them transfer from the floppies! I am not a monster 😇 T… https://t.co/Qm2bm8VLOk
+1042559804084957200,Wed Sep 19 23:43:21 +0000 2018,@rdpeng @stephaniehicks @dccc_phd That's no even the best one. In 1999,one of you distinguished faculty (not naming… https://t.co/ML2WJrSr6U
+1042450078680719400,Wed Sep 19 16:27:21 +0000 2018,RT @_lazappi_: Second #GI2018 keynote @rafalab "Variability in high throughput data" https://t.co/yukgjoHvSZ
+1042096624103813100,Tue Sep 18 17:02:51 +0000 2018,@jelguera @HCorderoGuzman @AppDemography No confiábamos en que eventualmente iba a ser accesible. Se hizo accesible… https://t.co/p6yfAv6Tlh
+1042092694162624500,Tue Sep 18 16:47:14 +0000 2018,@HCorderoGuzman @jelguera @AppDemography pd- Yo respeto el trabajo de @AppDemography. Fue el primero en reportar qu… https://t.co/tWeU9J7yte
+1042091172955672600,Tue Sep 18 16:41:11 +0000 2018,@jelguera @HCorderoGuzman @AppDemography El estimado original esta basado un un survey que da un intervalo de confi… https://t.co/CLTscLZmRG
+1042088668574507000,Tue Sep 18 16:31:14 +0000 2018,@HCorderoGuzman @jelguera @AppDemography No usamos la palabra "prejuiciado". Eso es una mala traducción del termino… https://t.co/RIGUFNkGVG
+1041737541785976800,Mon Sep 17 17:15:59 +0000 2018,The analysis of vital statistics sheds light into hurricane effects on the population, not specific individuals. Th… https://t.co/r3KhaBYYke
+1041444386071035900,Sun Sep 16 21:51:05 +0000 2018,Hey @BostonLogan can we make an edit to your map? 🇵🇷 https://t.co/LiFryOlITB
+1039880014995566600,Wed Sep 12 14:14:50 +0000 2018,@StatGirlLAM Explicitly write in research time (includes mentoring trainees) into your calendar. In a soft money po… https://t.co/oMyNI0wGct
+1039162933845078000,Mon Sep 10 14:45:24 +0000 2018,RT @biorxiv_bioinfo: Interpretable Convolution Methods for Learning Genomic Sequence Motifs  https://t.co/DWgDe4ljXZ #biorxiv_bioinfo
+1038411396688568300,Sat Sep 08 12:59:04 +0000 2018,@HCorderoGuzman @rafigueroa @EstadisticasPR Si tienes datos que apoyan estos puntos por favor compártelos.E.g. ¿Cuá… https://t.co/kqvreGDWDG
+1038106383844036600,Fri Sep 07 16:47:03 +0000 2018,@rafigueroa @HCorderoGuzman @EstadisticasPR El estimado de la población esta basado en datos del @EstadisticasPR .… https://t.co/eDnisQFyfv
+1038105203730534400,Fri Sep 07 16:42:22 +0000 2018,@HCorderoGuzman @rafigueroa @EstadisticasPR El estimado de la población pos-María no lo usamos para calcular el "ex… https://t.co/BQmIs4VfM2
+1037359090308137000,Wed Sep 05 15:17:34 +0000 2018,The public health infrastructure in PR was not robust enough to withstand María, or Georges 20 years go. Drastic im… https://t.co/cfcAzoMeAn
+1037359086495559700,Wed Sep 05 15:17:34 +0000 2018,The causes of death that increased after María are consistent with a collapsed health system: lack of access to ins… https://t.co/olpGjbUIVf
+1037359084318679000,Wed Sep 05 15:17:33 +0000 2018,A troubling finding is the way in which these excess deaths accumulated in Puerto Rico. We observe a prolonged incr… https://t.co/GVxcd9kKQ5
+1037359082678755300,Wed Sep 05 15:17:33 +0000 2018,Using vital statistics from Puerto Rico, Louisiana, New Jersey and Florida we compared the effects of María to othe… https://t.co/iXs36kvwys
+1036261860499173400,Sun Sep 02 14:37:35 +0000 2018,@strnr I used the same license as R4DS:  https://t.co/QE2RmduE73  Should I be using something else? Happy to learn more...
+1035537649229070300,Fri Aug 31 14:39:49 +0000 2018,First draft of #DataScience book is online.. just in time for start of the semester. Focus is not math nor coding b… https://t.co/edIYkSmjV4
+1034088691973726200,Mon Aug 27 14:42:11 +0000 2018,If they want to improve the quality of scientific publications, rather than banning p-values or changing the 0.05 t… https://t.co/CAnIF3G4yT
+1032990434916749300,Fri Aug 24 13:58:06 +0000 2018,#VaccinesWork https://t.co/AO4GHI8XOz
+1032640224650780700,Thu Aug 23 14:46:29 +0000 2018,@conTAMInatedsci I used curl, not a browser. But here is what I get on Chrome. Different settings maybe? https://t.co/vjGwhaUJan
+1032462687568052200,Thu Aug 23 03:01:01 +0000 2018,@conTAMInatedsci With quotes. I used a script that searches automatically after generating strings like this:… https://t.co/tUCy378z6P
+1032316664862392300,Wed Aug 22 17:20:47 +0000 2018,@Grixx4 @drob Literature, dance, music, theatre, drawing, painting, photography, ceramics, sculpting and plumbing.
+1032273049385623600,Wed Aug 22 14:27:28 +0000 2018,Everybody thinks what they do is an art, with one exception:  Math/Mathematics is an art=250,000 Google Hits Medici… https://t.co/K6aCRT8Y0w
+1031541687716380700,Mon Aug 20 14:01:18 +0000 2018,#ShareYourRejections  NB: This was more than 20 years ago  JASA Theory and Methods: This work is not theoretical en… https://t.co/wGyY4DozvK
+1030890913051107300,Sat Aug 18 18:55:21 +0000 2018,@sstein93 @MASCOLMA @BostonPlans @DanaFarber If you are a PhD student working with BCB faculty you can get permanen… https://t.co/HG4yu5iRpm
+1030850544783515600,Sat Aug 18 16:14:56 +0000 2018,@MASCOLMA @BostonPlans What would it take to add a dedicated space for 10 food trucks in LMA? We conceed way too mu… https://t.co/iUADs2pJCe
+1030192570658369500,Thu Aug 16 20:40:23 +0000 2018,Hey @MASCOLMA  Lunch options in LMA are not great. Why not have these awesome food trucks here on Blackfan everyday? https://t.co/GVsNJHlVSU
+1027550090368573400,Thu Aug 09 13:40:07 +0000 2018,"PR Government Acknowledges Hurricane Death Toll of 1,427" This is consistent with this post… https://t.co/lyTHhaxn9c
+1025019857534955500,Thu Aug 02 14:05:52 +0000 2018,RT @keegankorthauer: We reanalyzed a groundbreaking epigenomic study and found that DNA methylation is strongly associated with transcripti…
+1023604764930715600,Sun Jul 29 16:22:48 +0000 2018,@jbhclock @ProfTimHughes For the record, @ProfTimHughes did give credit to John Hogenesch during his talk.
+1014148302416285700,Tue Jul 03 14:06:11 +0000 2018,RT @lh3lh3: I am likely to start my lab in October in the department of Biostatistics &amp; Computational Biology (chaired by @rafalab) at Dana…
+1007684257844691000,Fri Jun 15 18:00:23 +0000 2018,We just added a new section to the FAQ with responses to some of the more technical questions we have been asked: https://t.co/Sk5CM2WFAk
+1006283654539116500,Mon Jun 11 21:14:53 +0000 2018,@miguelzenon @statsepi @KingJames @ElgaCastro No lo digo yo. Lo dicen los números. 🤓
+1006161487231144000,Mon Jun 11 13:09:26 +0000 2018,A statistical ode to @KingJames  https://t.co/JqKWNnWHP2 https://t.co/EpjB7O2O5O
+1005125298692743200,Fri Jun 08 16:32:00 +0000 2018,Late last Friday, the Puerto Rico Department of Health finally released death count data for the time period follow… https://t.co/Nv9oc9VMsX
+1002576344595730400,Fri Jun 01 15:43:22 +0000 2018,Aquí está el FAQ (preguntas más frecuentes) en español: https://t.co/xCc8zqQpCe
+1002293969710088200,Thu May 31 21:01:18 +0000 2018,The mortality estimates from our mortality in Puerto Rico after Hurricane María paper are being widely reported as… https://t.co/uKlaNweWFa
+1001632057418829800,Wed May 30 01:11:06 +0000 2018,The study also reports a 95% confidence interval for this estimate: 793 to 8498 https://t.co/CIy0mW9EHd
+1001467850052264000,Tue May 29 14:18:36 +0000 2018,We ran a survey to better understand mortality in Puerto Rico after hurricane María. The official death count of 64… https://t.co/YGCecQVYH1
+1000145381148233700,Fri May 25 22:43:35 +0000 2018,RT @KasperDHansen: Happy to announce that I have been promoted to associate professor at JHU
+999033756492161000,Tue May 22 21:06:23 +0000 2018,@tuuliel Pick your battles Tu{1,2}l{1,2}[i|y] Lap.* https://t.co/8L0tF9H3c2
+993849982464782300,Tue May 08 13:47:55 +0000 2018,RT @AppDemography: 47 Organizations including @sacnas @theAAG @PopAssocAmerica @ASAnews @socarxiv @censos @ALAP_LA have joined to ask @rica…
+992397723532963800,Fri May 04 13:37:09 +0000 2018,Happy #MayFourth #rstats par(bg=1,fg="white") x&lt;-0.5-&gt;y z&lt;-"|-o-|" s&lt;-cbind(runif(50),runif(50)) m&lt;-c(-1,1)/20 whil… https://t.co/RODExxzRbX
+986260628863115300,Tue Apr 17 15:10:32 +0000 2018,We are hiring! Looking for a data scientist to help develop strategies and pipelines to organize data in a way that… https://t.co/WU54pEbMQx
+985863713407356900,Mon Apr 16 12:53:20 +0000 2018,RT @sherrirose: They should book a big room for this one. #JSM2018 https://t.co/eovCGftwRI
+981509843864506400,Wed Apr 04 12:32:37 +0000 2018,@JasonWilliamsNY I don’t mind. Thanks.
+981222188257857500,Tue Apr 03 17:29:34 +0000 2018,@mikelove Note to self: invite @mkelove to give seminar in 2025. Remember this tweet.
+980880363756105700,Mon Apr 02 18:51:17 +0000 2018,Thanks @JasonWilliamsNY for reminding us about this deadline. Here is the input I plan to submit, focusing on the i… https://t.co/bXWSgCsC39
+979381420689801200,Thu Mar 29 15:35:01 +0000 2018,@brown_te We highly recommend the following order: 1 - R basics 2 - Data visualization 3 - Probability 4 - Inferenc… https://t.co/yYvpSUZYlY
+978329035720806400,Mon Mar 26 17:53:13 +0000 2018,RT @jhubiostat: Congrats to @jtleek for his promotion to full professor. Professor Leek has made major contributions to data science, compu…
+973915337539424300,Wed Mar 14 13:34:45 +0000 2018,Happy #PiDay #rstats!   &gt; k &lt;- 0:500; 4 * sum((-1)^k / (2*k+1)) [1] 3.14  Here is an old post on how to use paralle… https://t.co/TFDkgz1LOY
+971900600710557700,Fri Mar 09 00:08:54 +0000 2018,@ClarkGRichards @Keith_Not_Kevin @dataandme Keep in mind that when I first made that plot @hadleywickham was probab… https://t.co/FfzI3mbjVF
+963858492099510300,Wed Feb 14 19:32:26 +0000 2018,#AcademicValentines https://t.co/NTY4oAl9ZC
+961266346842624000,Wed Feb 07 15:52:11 +0000 2018,Happy e day #rstats !  &gt; round(sum(1/sapply( 0:20, factorial)), 3) [1] 2.718
+961266346842624000,Wed Feb 07 15:52:11 +0000 2018,Happy e day #rstats !  &gt; round(sum(1/sapply( 0:20, factorial)), 3) [1] 2.718
+959897226955952100,Sat Feb 03 21:11:47 +0000 2018,@olgavitek @drob @robinson_es My experience is similar. This is the part non-stats students struggle with the most,… https://t.co/4oGtmifImI
+956579084070543400,Thu Jan 25 17:26:40 +0000 2018,RT @ASA_SciPol: The Puerto Rico govt is considering a proposal to weaken &amp; possibly dismantle PR Institute of Statistics (PRIS). Strong, tr…
+956553534819979300,Thu Jan 25 15:45:09 +0000 2018,@sauer_sebastian The code for making this and other gifs is here https://t.co/OobftJuHx9
+956224890486521900,Wed Jan 24 17:59:14 +0000 2018,As Harvard Medical School (HMS) students are increasingly required to understand and apply statistical analyses, HM… https://t.co/YZiqKzZHie
+955832474201935900,Tue Jan 23 15:59:55 +0000 2018,This post describes the dslabs #rstats package, which includes some datasets that I find useful for teaching data s… https://t.co/CLkdHfg17a
+953286022825115600,Tue Jan 16 15:21:13 +0000 2018,RT @cjshukla: Our method for de novo identification of RNA elements is out in @embojournal! We found no universal code for RNA nuclear loca…
+953258018606600200,Tue Jan 16 13:29:56 +0000 2018,RT @stephaniehicks: Excited to be joining the Johns Hopkins Biostatistics Department in February! https://t.co/2ABFFnbHz2
+950819710542798800,Tue Jan 09 20:00:59 +0000 2018,Letter from American Statistical Association president to the governor of #PuertoRico expressing concerns over gove… https://t.co/wsj3qgoYaM
+944261945015849000,Fri Dec 22 17:42:45 +0000 2017,@mjfrigaard @ChristieByrne5 For those learning R: To actually make the animated gif, encapsulate the code in  anima… https://t.co/x5onnH50uq
+944217408033747000,Fri Dec 22 14:45:47 +0000 2017,N &lt;- 120 par(bg="black") while(TRUE){   h &lt;- rep(c(2:4,7),N/3)   h[sample(N,N/5)] &lt;- 0   plot((-2)^as.complex(seq(1… https://t.co/MpfPTU62xi
+943932161110966300,Thu Dec 21 19:52:19 +0000 2017,Asked for data from library. Not counting the kids, we borrow about 150 books a year from our local branch. https://t.co/wVoex1fCoP
+941664724294529000,Fri Dec 15 13:42:20 +0000 2017,RT @KLdivergence: I'll probably end up remembering this moment as the time I decided to blow my career up for no reason, but this is someth…
+941393555125362700,Thu Dec 14 19:44:48 +0000 2017,Secretary Pesquera's analysis is flawed. Deaths are seasonal: more people die in winter than summer. Comparing Sept… https://t.co/0E96nd6AAf
+938968534188806100,Fri Dec 08 03:08:38 +0000 2017,@hortizzuazaga Here is an updated plot. Is the 2017 data publicly available? It would be informative to see Jan-Aug… https://t.co/FzqeUWZmHT
+938088719743094800,Tue Dec 05 16:52:34 +0000 2017,Interested in applying your #DataScience or #MachineLearning skills to cancer research? Dana-Farber Cancer Institut… https://t.co/JSimuTPqtu
+937339377583312900,Sun Dec 03 15:14:57 +0000 2017,Hurricane María official death count is in conflict with mortality data https://t.co/A0JkIiAjgf https://t.co/8ULXd0pSwb
+935204010600161300,Mon Nov 27 17:49:46 +0000 2017,Added chapter on inference and models. Explains the basics of why @FiveThirtyEight outperforms pollsters and other… https://t.co/7eYggAu3aX
+933385225354309600,Wed Nov 22 17:22:33 +0000 2017,Adde a Probability Chapter with examples from card games, roullete and the subprime mortgage crisis.… https://t.co/ksGnBREOEy
+932990658335436800,Tue Nov 21 15:14:41 +0000 2017,ROC to precision-recall curve translator. Made with #shiny https://t.co/nu3HrkdOt9 https://t.co/hvJbsHrmPb
+930838310414676000,Wed Nov 15 16:42:01 +0000 2017,RT @dataandme: 💫 concepts ⇨ viz (e.g. Loess) "Code for my educational gifs" by @rafalab https://t.co/f9fMGWOZzL #rstats #infovis #ggplot ht…
+929016813043769300,Fri Nov 10 16:04:03 +0000 2017,After 2 years, and several rejections, @stephaniehicks scRNA-seq paper is finally published. Thanks… https://t.co/UVPDSWOf5N
+927926736301510700,Tue Nov 07 15:52:28 +0000 2017,I am making class notes for #DataScience course available as online book using #bookdown, more chapters coming soon: https://t.co/kgqd7wV611
+927521482745540600,Mon Nov 06 13:02:08 +0000 2017,RT @keegankorthauer: From @stephaniehicks &amp; @rafalab: Technology-independent estimation of cell type composition using DMRs https://t.co/RM…
+926085885640282100,Thu Nov 02 13:57:35 +0000 2017,Curso de #DataScience gratuito en línea para estudiantes afectados por #HuracanMaria comienza el lunes. Clase en es… https://t.co/7vwgM1Ni4I
+925786760419868700,Wed Nov 01 18:08:58 +0000 2017,RT @HarvardBiostats: Department seeks outstanding candidates to fill 2 tenure-track positions for Asst/Assoc Professor of Biostatistics htt…
+919938850851614700,Mon Oct 16 14:51:28 +0000 2017,RT @mingxiangteng: Our paper on ChIP-seq GC bias is published online: https://t.co/aOEcR6ov9h  @rafalab https://t.co/UsC7ftRlk5
+918450053685108700,Thu Oct 12 12:15:31 +0000 2017,@rdpeng @MineDogucu @rstudio I remember when searching for @Bioconductor would result in Google asking "Do you mean bus conductor?"
+915570389425823700,Wed Oct 04 13:32:45 +0000 2017,RT @skleinstein: Excited to host @rafalab for @Yale Comp Bio &amp; #Bioinformatics seminar 4pm today (https://t.co/rSqC0iJiOS). Bias + Batch Ef…
+912306317141913600,Mon Sep 25 13:22:30 +0000 2017,RT @CienciaPR: List of trusted organizations offering aid to #PuertoRico after #HurricaneMaria https://t.co/KdZ86KhVL5 #MariaPR #PRDiaspora…
+910491771204857900,Wed Sep 20 13:12:09 +0000 2017,RT @ericfisher: You couldn't hit Puerto Rico more squarely. #Maria is centered directly on top of the island. First Category 4 there since…
+909814826796568600,Mon Sep 18 16:22:12 +0000 2017,@BritneyMuller @stat110 We are not recording the class this year. Sorry. But we are working on an online version. W… https://t.co/BgYYf7O6vz
+907666891774283800,Tue Sep 12 18:07:05 +0000 2017,@genetics_blog @tangming2005 @jponnela Thanks. I think it's fixed now. Let me know otherwise.
+906489580924399600,Sat Sep 09 12:08:52 +0000 2017,@EvoPhys @STAT545 @stephaniehicks used &lt;iframe&gt; and Google sheets. Code is here: https://t.co/Mxar32WBqC and for en… https://t.co/xdRCRinzMz
+906246459628150800,Fri Sep 08 20:02:47 +0000 2017,RT @stat110: Stat 110 (Probability) has 579 students this semester. Third biggest course at Harvard this semester, after @cs50 and Ec 10. S…
+905820855762124800,Thu Sep 07 15:51:36 +0000 2017,We will be posting lectures, homework and other material used in our Introduction to #DataScience course here:  https://t.co/6Ou9pcU1Qq
+903597605346836500,Fri Sep 01 12:37:11 +0000 2017,DMR detection and inference for low coverage whole genome bisulfate seq data. With @keegankorthauer and @yuvalbenj.… https://t.co/G9WdkpX5vP
+897833552133451800,Wed Aug 16 14:52:54 +0000 2017,When comparing RNA-seq methods to each other, the MA-plot (Bland-Altman plot) reveals differences not seen in a sca… https://t.co/tCtXmLFLWh
+897833251187961900,Wed Aug 16 14:51:42 +0000 2017,RT @ckingsford: Thks for all the support! In case is not obvious, the accusations regarding Salmon are false, see detailed response: https:…
+894923267307429900,Tue Aug 08 14:08:28 +0000 2017,Here is a @simplystats blogpost with the code for all the teaching-related animated gifs I have shared:… https://t.co/9UT7FLNjId
+893464719717261300,Fri Aug 04 13:32:43 +0000 2017,A Guide to Teaching #DataScience paper with @stephaniehicks is now published: https://t.co/0fVgXtV5Ol The arXiv ver… https://t.co/7bYKNB2Wqv
+893097399266283500,Thu Aug 03 13:13:07 +0000 2017,I've had the great fortune of collaborating with @mikelove &amp; @nomad421. Both are thoughtful, dedicated &amp; helpful. Science needs more of this
+892747116778586100,Wed Aug 02 14:01:13 +0000 2017,We've updated our page to include 75 videos from our #Python for Research course by @jponnela… https://t.co/mdJp8Iq4M8
+892475055128621000,Tue Aug 01 20:00:09 +0000 2017,Statistician:Who installed outlets? Biologist:Electrician Lab sinks? A plumber Statistical analysis?  New postdoc that's good with computers
+892030381079351300,Mon Jul 31 14:33:10 +0000 2017,@Ru6356 eco fallacy, assuming corr of group averages extrapolates to individuals, is diff from Simpson's paradox:group and overall corr flip
+892023906655195100,Mon Jul 31 14:07:27 +0000 2017,Example of ecological fallacy in a gif https://t.co/sSNg65k6BG
+890935480493146100,Fri Jul 28 14:02:25 +0000 2017,Simpson's paradox explained in a gif https://t.co/LETNm6Y9ea
+890673596170764300,Thu Jul 27 20:41:47 +0000 2017,RT @seandavis12: Packed auditorium at #bioc2017, day 1. https://t.co/A7KO0AGf0T #Bioconductor @DanaFarber @Bioconductor https://t.co/SmGFeR…
+888519182416883700,Fri Jul 21 22:00:55 +0000 2017,New method for scRNA-seq. Like PCA but aware of missing data induced variability with @sandakano and… https://t.co/cscMHVpu82
+888187267529003000,Fri Jul 21 00:02:00 +0000 2017,@unsorsodicorda @rdpeng @SueMarquezR @f2harrell @mikelove Number of lottery winners: https://t.co/MlDfV31nrY
+888030834166562800,Thu Jul 20 13:40:24 +0000 2017,@SueMarquezR @f2harrell @mikelove @rdpeng Our materials includes real examples of when normal approx doesn't work.… https://t.co/ymufKTyngZ
+887750004550455300,Wed Jul 19 19:04:29 +0000 2017,@f2harrell @SueMarquezR @mikelove @rdpeng Understanding why normal approx is used helps me decide when to use it, s… https://t.co/fF3QAA0GYG
+887303754667614200,Tue Jul 18 13:31:15 +0000 2017,Links to videos and R code for over 230 lectures on data analysis for life sciences and genomics now available here: https://t.co/Mz7WL0Szpv
+886277825573126100,Sat Jul 15 17:34:34 +0000 2017,@ClausWilke @nickschurch @simplystats Might just be me, but with violin my brain's first message is "that ornament… https://t.co/fAM640tKuw
+885857363508559900,Fri Jul 14 13:43:48 +0000 2017,RT @rdpeng: Although I am partial to violins in general, I agree with @rafalab here.  https://t.co/7NZW28zdpn
+885852908239167500,Fri Jul 14 13:26:06 +0000 2017,@rdpeng @hadleywickham @simplystats Festivus for the rest of us! https://t.co/0E5qWIOuBB
+882958485348122600,Thu Jul 06 13:44:42 +0000 2017,Mostly agree, but I'd be careful with absolutes. My intro for future data journalists is different than for future… https://t.co/eXTqccWRMH
+880426696729645000,Thu Jun 29 14:04:16 +0000 2017,The anual @Bioconductor meeting will be held in @DanaFarber July 27-28 Early registration ends July 1st. Register at https://t.co/0niBi84nGz
+879730689821769700,Tue Jun 27 15:58:35 +0000 2017,For me, keyword here is happy https://t.co/DpRvHt8qz2
+879673922903584800,Tue Jun 27 12:13:01 +0000 2017,@kwbroman @timelyportfolio Same here. table is one of the commands I use most during EDA and debugging, along with… https://t.co/X862n90Xpo
+877221930033700900,Tue Jun 20 17:49:40 +0000 2017,@simplystats Here is the link: https://t.co/Z3ZRlHcneg
+877218574561144800,Tue Jun 20 17:36:20 +0000 2017,New @simplystats blog post inspired by the #Omnigenic paper: Lowering the GWAS threshold would save millions of dol… https://t.co/ttUkGe7bqm
+875371540187156500,Thu Jun 15 15:16:53 +0000 2017,PSA: Junior applied statisticians, playing in new backyards, there is no shame in learning the basics of a subject matter from @Wikipedia
+870641594361417700,Fri Jun 02 14:01:46 +0000 2017,What is this drawer called? https://t.co/3MUHw7Beaj
+862007406070571000,Tue May 09 18:12:35 +0000 2017,.@simplystats @xieyihui Forgot link to post: https://t.co/eThKg0RMc0
+862003488095686700,Tue May 09 17:57:01 +0000 2017,First @simplystats blogdown post: Analysis related to the Comey letter effect. It's so much easier to post code now… https://t.co/9dSLkyP2T7
+861573895635259400,Mon May 08 13:29:58 +0000 2017,RT @rdpeng: Cannot thank @xieyihui enough for helping us migrate the @simplystats blog over to blogdown! Come check it out https://t.co/m0U…
+856539829340917800,Mon Apr 24 16:06:23 +0000 2017,@jhuff_genomics @simplystats Sorry about the link. It is fixed now. The link provided by @jhuff_genomics now goes t… https://t.co/0CqNAAGjHO
+856527139759423500,Mon Apr 24 15:15:58 +0000 2017,Latest @simplystats post: Science really is non-partisan: facts and skepticism annoy everybody https://t.co/mFc72yZfLg
+855530396922130400,Fri Apr 21 21:15:16 +0000 2017,@kwbroman Yes. You pretend it doesn't exist. Eventually someone knocks on your door. When asked if you got their sl… https://t.co/ptZ2buldNx
+855421680977629200,Fri Apr 21 14:03:16 +0000 2017,@mikelove That's nice but I was thinking more along these lines https://t.co/2VVH7DAWFd
+855221009632415700,Fri Apr 21 00:45:52 +0000 2017,April is the worst part of Boston's winter https://t.co/7YovATjzCd
+849290747157393400,Tue Apr 04 16:01:07 +0000 2017,Thanks for the support and to those who voted. And to @BenLangmead and @StevenSalzberg1 for the nomination. https://t.co/dDVpYnHy2W
+849050902879248400,Tue Apr 04 00:08:04 +0000 2017,RT @BenLangmead: @rafalab Stealing your example for a lecture about string matching tomorrow. Tx! https://t.co/HCBM9FVxTO
+848898165688414200,Mon Apr 03 14:01:09 +0000 2017,Blog post on the importance of interactive data analysis (IDA) for Data-Driven Discovery. Workflows are not enough.  https://t.co/XsRKdOefnr
+847107127009271800,Wed Mar 29 15:24:12 +0000 2017,Data: ctrl mice 1%, 5mg/day mice 1.5%  Abstract:Caffeine associated with cancer p&lt;0.05 UniPR:Discovery may save millions  Media:Coffee Kills
+845305788386168800,Fri Mar 24 16:06:19 +0000 2017,RT @areyesq: Getting ready for #replicathon2017 ! #reproducibility #pharmacogenomics https://t.co/qEY1RLCMUk
+843850584474161200,Mon Mar 20 15:43:51 +0000 2017,To make it easier on everybody, I'm consider changing my name to the regexp Ra(f|ph)ael Ir+iz+ar+y
+841751269672906800,Tue Mar 14 20:41:56 +0000 2017,.@tdhopper Naive Bayes https://t.co/CuEAD8xLOn
+839867811497406500,Thu Mar 09 15:57:44 +0000 2017,Remaking @WSJ measles visualization for #dataviz lecture using #rstats . Can you guess what year the vaccine was in… https://t.co/Q3YGMTHmTF
+838767202811662300,Mon Mar 06 15:04:19 +0000 2017,RT @mikelove: Good for the project. @Bioconductor announces transition from svn to git https://t.co/mnbPwe6L7f
+837147212236918800,Thu Mar 02 03:47:03 +0000 2017,@davitivan @callin_bull  Parece que sí: https://t.co/bXMs1QTW14  El mío espero que eventualmente
+836949452678180900,Wed Mar 01 14:41:13 +0000 2017,I've been developing a course tentatively called Critical Thinking with Data @callin_bull's title is so much better… https://t.co/6X0Hr93ySF
+832293197862858800,Thu Feb 16 18:18:56 +0000 2017,Someone should write a poem about the joy one feels when a faculty meeting is unexpectedly cancelled.
+831182517558452200,Mon Feb 13 16:45:29 +0000 2017,RT @StatsbyLopez: 3 problems with using correlation to explore reproducibility, via the new @rafalab textbook https://t.co/op9IIdf9tQ https…
+828662629321240600,Mon Feb 06 17:52:21 +0000 2017,Here are the data on week before election polls: ABC: 3 +/- 2.5 NBC: 5 +/- 2.7 CBS: 4 +/- 3 FoxNews: 4+/-2.5 RCP Av… https://t.co/DUka5xb3QY
+827682566140485600,Sat Feb 04 00:57:56 +0000 2017,RT @hcorrada: Preprint: Interactive #metagenomics #dataviz https://t.co/z1oZqRvvOT.  Overview: https://t.co/WJxfuS98NL.  Homepage: https://…
+826114085792186400,Mon Jan 30 17:05:21 +0000 2017,.@lyft is trending on the App Store. ICYMI: https://t.co/wXKTG5KiaU https://t.co/AB1hoNMz7d
+826098279947595800,Mon Jan 30 16:02:32 +0000 2017,Signatures are still being gathered for the Academics Against Immigration Executive Order Petition: https://t.co/1uC8QMQiRy
+822453249387196400,Fri Jan 20 14:38:29 +0000 2017,Confused by all the buzzwords, metaphors and superficial diagrams used to describe artificial intelligence? Take a… https://t.co/kp2QX8RSGR
+822154680503570400,Thu Jan 19 18:52:05 +0000 2017,A simple example of the advantages of #preprints: We incorporated this suggestion and improved the paper:… https://t.co/W8VQeNjrJf
+821751216627662800,Wed Jan 18 16:08:52 +0000 2017,Harvard's #DataScience Initiative is seeking applications for its inaugural Postdoctoral Fellows Program. https://t.co/A889PC1B4I
+818559345311023100,Mon Jan 09 20:45:30 +0000 2017,Me:So proud I finally have a working strategy to manage email Everybody:We are using Slack now Me:I hate you guys s… https://t.co/isRyY4tTXz
+812354438199410700,Fri Dec 23 17:49:25 +0000 2016,plot( (-2)^as.complex( seq(0, 7, 0.03) ), pch=21, bg=c( 2,3), xlab="", ylab="", xaxt="n", yaxt="n") text(-30, 40, "… https://t.co/caCYSjdjFn
+812309064927576000,Fri Dec 23 14:49:07 +0000 2016,Congrats to @stephaniehicks who just received a notice of award for her NIH K99 grant: Statistical Methods for Single-Cell RNA-Seq Data
+811746672132952000,Thu Dec 22 01:34:22 +0000 2016,A Guide to Teaching Data Science: show students how to create, connect and compute with data. With @stephaniehicks… https://t.co/G75yH4ECe9
+811033488363323400,Tue Dec 20 02:20:26 +0000 2016,The Spotted Eagle lost only by 303 electoral votes. Landon, Mondale, McGovern, Goldwater, Carter, Hoover, Dukakis,… https://t.co/A7JvDjcM5H
+809801368680726500,Fri Dec 16 16:44:26 +0000 2016,RT @mingxiangteng: Checkout our package on @Bioconductor ! https://t.co/sVMxcIaTeZ
+807223678069047300,Fri Dec 09 14:01:36 +0000 2016,What the heck is going on with math education in the US? #pisa2016 https://t.co/M3ZeKUQIBN https://t.co/yFew6JXxyo
+804333980191510500,Thu Dec 01 14:38:59 +0000 2016,Preprint describing work by @mingxiangteng on how accounting for GC-content bias reduces ChIP-Seq batch effects… https://t.co/Dm0rUJAlWU
+801444276550991900,Wed Nov 23 15:16:20 +0000 2016,Correlation does not imply causation regaesless of how much we like the conclusion
+798949283504521200,Wed Nov 16 18:02:07 +0000 2016,New #DataScience masters @HarvardChanSPH. Hands-on training of #rstats #python inference, #dataviz #machinelearning https://t.co/Qz1IqizOe9
+798541708950720500,Tue Nov 15 15:02:34 +0000 2016,The recent reports on @facebook fake news sharing helps us answer how much worse... https://t.co/XLRaCJlz9G
+797171458938171400,Fri Nov 11 20:17:41 +0000 2016,Open letter to my lab: I'm not "moving to Canada" https://t.co/UQqWnoFbXK
+796790854480523300,Thu Nov 10 19:05:18 +0000 2016,Forecaster:83% chance die roll &gt;1 6 Pundits:Nice Forecaster: 83% it's &gt; 1 4 Pundits Wow ... Forecaster: 83% it's &gt; 1 1 Pundits:Data is dead
+796511695720054800,Thu Nov 10 00:36:01 +0000 2016,@nstroustrup1 We can't estimate the bias. If this bias is not 0 it leads to the correlated errors you see and overconfidence if not modeled.
+796453868146217000,Wed Nov 09 20:46:14 +0000 2016,Not all forecasters got it wrong: Nate Silver does it again (again) https://t.co/ZzoWnvxe7Y
+795691361223737300,Mon Nov 07 18:16:18 +0000 2016,Expected margins of victory estimates differ consistently between @FiveThirtyEight and @UpshotNYT  (median = -1.3).… https://t.co/HwvCDhtXZ7
+790559146777124900,Mon Oct 24 14:22:43 +0000 2016,Preprint on statistical inference for region detection with high-throughput assays:  https://t.co/S6AeJUarTG with… https://t.co/d5QYEw6iZU
+786584544568758300,Thu Oct 13 15:09:04 +0000 2016,Blindly trusting models can be risky. Great example of the importance of exploratory data analysis by @Nate_Cohn  https://t.co/hCEqOt71KE
+784105966979670000,Thu Oct 06 19:00:05 +0000 2016,Don't underestimate that last 0.001% https://t.co/VW0sos7Mbw
+781556339143311400,Thu Sep 29 18:08:46 +0000 2016,Here is a word cloud of my sent emails #inboxinfinity https://t.co/z0cbJlAoIx
+780432678604513300,Mon Sep 26 15:43:44 +0000 2016,RT @mikelove: Our paper on RNA-seq bias is published https://t.co/wpFBSXBxSZ my blog post summarizing it https://t.co/kmmavGX3Ex @rafalab @…
+778621978500554800,Wed Sep 21 15:48:40 +0000 2016,Getting PowerPoint to stop crashing? That's too hard. Solving cancer? Give us 10 years. https://t.co/cHExxAjOfJ via @TelegraphSci
+776461753127432200,Thu Sep 15 16:44:42 +0000 2016,RT @HarvardBiostats: New Data Science in Longwood Seminar series w/ @HarvardDBMI! Launches 9.19.16 w/ @jponnela  https://t.co/C7vOl1V3Rg ht…
+775709486988333000,Tue Sep 13 14:55:28 +0000 2016,@bhive01 @klmr Left: a remote robust to all special cases but no one can use. Right: a TV remote that never fails, at opening garage door :)
+775700052929089500,Tue Sep 13 14:17:59 +0000 2016,The difference between bad scientific code and code following "best practices", TV remote edition @rdpeng https://t.co/kmfZjAZ5jE
+773533481934659600,Wed Sep 07 14:48:48 +0000 2016,Interview with a data sucker: https://t.co/6q5zn9pPWf
+773283828790165500,Tue Sep 06 22:16:46 +0000 2016,First #bostonbioconductor meetup organized by @dorageh,   @AedinCulhane and Vince Carey https://t.co/uCIr0ziQqJ
+773208656523497500,Tue Sep 06 17:18:03 +0000 2016,A short guide for undergrads interested in pursuing a PhD in (bio)statistics https://t.co/5U0Efz5kxl
+771000170549014500,Wed Aug 31 15:02:19 +0000 2016,Statisticians develop accurate but slow algorithm. CS authors of fast competitor contact them. 8 months later: https://t.co/WvQPRoylDz
+766289616446038000,Thu Aug 18 15:04:16 +0000 2016,Workshop on Reproducibility in Personalized Medicine Research sponsored by @HarvardBiostats 9/29 Free registration! https://t.co/9Adnd0tEEY
+765920745645932500,Wed Aug 17 14:38:30 +0000 2016,New lab webpage: https://t.co/xixe3GwsqZ  I now know much more css/html than I really want Thanks @chettyb for theme, @kwbroman for tutorial
+765195944228974600,Mon Aug 15 14:38:24 +0000 2016,A paper version of our Data Analysis for the Life Science book is now available https://t.co/30YRlroGKN @mikelove https://t.co/c21dY7u2xv
+764606470197547000,Sat Aug 13 23:36:02 +0000 2016,RT @nazarioz: In a sea of bad news &amp; despair, Monica brings the only light of joy this island has had in a long time. Huge! #Wepa https://t…
+763716409054601200,Thu Aug 11 12:39:15 +0000 2016,@wandetos I would say the material is at an upper-level udegradutate or introductory masters class level
+761201442996809700,Thu Aug 04 14:05:41 +0000 2016,RT @yuvalbenj: #JSM2016  if you're still here, effect size for regions ( w J Taylor and @rafalab )   in Selective Inference (session begins…
+759086064891994100,Fri Jul 29 17:59:55 +0000 2016,RT @vectorgen: #Zika has been transmitted in the USA for MONTHS!  ~5000 cases with &gt;400 pregnant women infections in Puerto Rico https://t.…
+757704176206053400,Mon Jul 25 22:28:47 +0000 2016,Statistical law of hacked emails: On average, for every 10,000 private emails you write, 1 is embarrassing enough to get you fired.
+743449128173211600,Thu Jun 16 14:24:19 +0000 2016,Correction for our benchmark paper regarding eXpress on ENCODE dataset: https://t.co/mdUtl1lTEe
+742349276135723000,Mon Jun 13 13:33:54 +0000 2016,RT @sherrirose: Congratulations @rdpeng! 2016 @PublicHealth Mortimer Spiegelman Award recipient! (See @jhubiostat homepage: https://t.co/zU…
+740267877484400600,Tue Jun 07 19:43:10 +0000 2016,RT @KasperDHansen: I have just published Bioconductor: An Introduction to Core Technologies on Leanpub: https://t.co/d4GrW4Jpm2
+739839593554575400,Mon Jun 06 15:21:19 +0000 2016,RT @mikelove: Excited to be joining UNC Biostatistics Dept in August! https://t.co/3zTVP8814H
+735465820453625900,Wed May 25 13:41:30 +0000 2016,New simulation dataset for 'A benchmark for RNA-seq quantification pipelines'. Details described here by @mikelove https://t.co/9Wmkydb19D
+730472179683496000,Wed May 11 18:58:33 +0000 2016,.@drob For example, these data used to test a gene expression measurement technology using replicated experiments https://t.co/pzEdikBAVU
+727886581835694100,Wed May 04 15:44:19 +0000 2016,@sherrirose here is the evidence. Thanks again for great lecture. https://t.co/JpYUO0GyM2
+726044595017097200,Fri Apr 29 13:44:55 +0000 2016,Learn to analyze high-throughput data in our Case Studies in Functional Genomics course. Taught by @mikelove https://t.co/uI6I8Bgps7
+725697868938498000,Thu Apr 28 14:47:09 +0000 2016,@lpachter We can add full genome version to webtool datasets.
+725697430042382300,Thu Apr 28 14:45:24 +0000 2016,@lpachter 1 / 2 datasets is full genome. Other is ~1/6 which eases web tool submissions and we assumed preserves rankings based on metrics
+725356071343263700,Wed Apr 27 16:08:58 +0000 2016,.@BioMickWatson Even w/o outliers, corr can be close to 1 despite large errors. More here: https://t.co/KQhjFVl3n9 https://t.co/d4ov9JHQZ8
+724611971971223600,Mon Apr 25 14:52:11 +0000 2016,RNAseq benchmark paper https://t.co/0JcF9m3nqw shows similar performance to arrays for genes,transcripts not so good https://t.co/gFke6Krn5G
+724607717462138900,Mon Apr 25 14:35:17 +0000 2016,RT @GenomeBiology: Don't know which RNA quantification method to use? @rafalab &amp;co new paper will help you choose: https://t.co/BcDGAF2FyF…
+723576198933168100,Fri Apr 22 18:16:23 +0000 2016,Glad to see the biostat community honoring applied stats, reproducible research, statistical computing and #scicomm  https://t.co/kvUGoSEsJU
+723515870635503600,Fri Apr 22 14:16:40 +0000 2016,Simple illustration of how random forests estimate trends via an animated gif. Bootstrap, fit tree, average, repeat. https://t.co/fj1twU7VW9
+723150178346102800,Thu Apr 21 14:03:32 +0000 2016,RT @HarvardBiostats: @rafalab @HarvardBiostats is joining the Twitter world!
+720669005791567900,Thu Apr 14 17:44:15 +0000 2016,Described Netflix analysis by @statpumpkin et al. to class. Most fun is plot of main factors.We used @movielens data https://t.co/sRDBw20z1n
+718626539995148300,Sat Apr 09 02:28:13 +0000 2016,@JennyBryan @daattali No doubt they benefitted from providing open formats. As a result academics improved stat methods for their products.
+718623542451908600,Sat Apr 09 02:16:18 +0000 2016,@daattali @mikelove @JennyBryan Their algorithms were always in the manual. @Bioconductor was able to reproduce MAS 4, MAS 5, and PLIER
+718618634885574700,Sat Apr 09 01:56:48 +0000 2016,@mikelove @JennyBryan The R&amp;D folks I met were sensible &amp; pro openness. Perphaps they were ignored during early days https://t.co/P5KIpw7BKY
+718091078990184400,Thu Apr 07 15:00:29 +0000 2016,I found them! https://t.co/lfQHk2OEOj
+717342365187457000,Tue Apr 05 13:25:22 +0000 2016,RT @umdcs: Once again, congratulations to @hcorrada on his promotion to Associate Professor: https://t.co/sqpVVIFre4 @UMDCBCB https://t.co/…
+717006033164611600,Mon Apr 04 15:08:54 +0000 2016,@henrikbengtsson @ErikVoeten @a_strezh @drob A version will be posted as part of the solution to homework 5 here: https://t.co/0Zw9OMkhZ0
+716995754309652500,Mon Apr 04 14:28:03 +0000 2016,Distance between countries through the years based on UN voting. Data by @ErikVoeten &amp; @a_strezh, wrangled by @drob https://t.co/X2wAmX05Xl
+715243032958931000,Wed Mar 30 18:23:22 +0000 2016,@kwbroman and three different colors! you win
+715189314737582100,Wed Mar 30 14:49:54 +0000 2016,Digital (powerpoint) presentations will never match the quality of analog #HipsterAcademic https://t.co/Glu7Vidptq
+713769336012415000,Sat Mar 26 16:47:25 +0000 2016,R markdown is messing with my brain. I keep writing chunks like ```{r} y=\beta_0 + \beta_1 x + \varepsilon ``` code &amp; math are becoming one
+712462385873887200,Wed Mar 23 02:14:04 +0000 2016,@simplystats @hadleywickham Away, you mouldy rogue, away! Let @flowingdata plot() in peace!
+709768007053131800,Tue Mar 15 15:47:34 +0000 2016,High-performance Computing for Genomics MOOC covers parallel computing,interactive graphs,data integration,RR &amp; more https://t.co/IrpU50IKCa
+709439204200226800,Mon Mar 14 18:01:01 +0000 2016,@leonidkruglyak @dgmacarthur Not quite a new low Dr. M.A.: https://t.co/8ErBvt9qvd
+708377368168161300,Fri Mar 11 19:41:40 +0000 2016,Recent rejection reminded me of blog post:how good software can have more impact than publishing in high IF journals https://t.co/Tqr7C0S4nE
+703293637300453400,Fri Feb 26 19:00:44 +0000 2016,RT @JPerezPR: Advice for students on the academic job market https://t.co/HDQkuS2jZF
+702586843490066400,Wed Feb 24 20:12:11 +0000 2016,Come listen to @jtleek speak about his work analyzing 20,000 public RNA-seq experiments at @HarvardChanSPH  12:30pm https://t.co/pbWkl7mVzt
+700420556215214100,Thu Feb 18 20:44:08 +0000 2016,Make up your mind @jtleek!! https://t.co/wwMP8rJ6FT
+699602477675651100,Tue Feb 16 14:33:23 +0000 2016,Do you analyze data with R but use other tools for genomic annotation &amp; interval analysis? Learn about Bioconductor: https://t.co/6KpR3FJABm
+697863516951310300,Thu Feb 11 19:23:22 +0000 2016,@jtleek @drob @hspter @rdpeng what is this ggplot2 you speak of? i just got this: &gt; ggplot2 Error: object 'ggplot2' not found"
+695648589503209500,Fri Feb 05 16:42:02 +0000 2016,.@HansRosling's life expectancy vs fertility rate data animation made with ggplot2 &amp; gganimate @drob @hadleywickham https://t.co/r2Eo16DOve
+695269813728452600,Thu Feb 04 15:36:55 +0000 2016,Register for High-Dimensional Data Analysis MOOC. We cover PCA, clustering, machine learning, batch effects, #rstats https://t.co/xjWFipPXcb
+692009381907529700,Tue Jan 26 15:41:08 +0000 2016,Introduction to #DataScience course, featuring all-star studded staff,starts this week Materials will be posted here https://t.co/jsEij96bi7
+691972982584012800,Tue Jan 26 13:16:29 +0000 2016,RT @nextgenseek: Blogpost on @biorxivpreprint paper on Systematic bias and batch effects in single-cell RNA-Seq data from @rafalab https://…
+690303384444764200,Thu Jan 21 22:42:06 +0000 2016,@unsorsodicorda Thanks! The tutorial was actually by @stephaniehicks
+689895921715384300,Wed Jan 20 19:43:00 +0000 2016,RT @moorejh: #bioinformatics #genomics RT @UPennIBI @casey6r0wn If you’re in Philly, come see @rafalab give today’s @UPennIBI seminar, 3pm …
+676831629235630100,Tue Dec 15 18:30:09 +0000 2015,Statistical Inference and Modeling for High-throughput Experiments @edXOnline MOOC starts today.  https://t.co/dXdmthUGtS
+676211987483902000,Mon Dec 14 01:27:55 +0000 2015,Stats nerds take over baseball team (with 9 championships). Never win a World Series again. #ExplainAFilmPlotBadly https://t.co/Te8nw49yRQ
+675371853221859300,Fri Dec 11 17:49:32 +0000 2015,RT @simplystats: Instead of research on reproducibility, just do reproducible research https://t.co/m41vuPbv6A
+675332056545689600,Fri Dec 11 15:11:24 +0000 2015,RT @rdpeng: By opposing tracking well-meaning educators are hurting disadvantaged kids @rafalab  https://t.co/iEEa66dXnP
+669175215579091000,Tue Nov 24 15:26:18 +0000 2015,Some thoughts on why data scientist and applied statistician are not always considered synonymous, but should be https://t.co/ev8HS3eCYw
+666644300206374900,Tue Nov 17 15:49:21 +0000 2015,Policymakers should be aware of what happened in medicine before randomized trials. cc @bengoldacre https://t.co/Nk4btQI5eR
+666307626138017800,Mon Nov 16 17:31:32 +0000 2015,Learn about Linear Models and Matrix Algebra in the context of life sciences data. @edXOnline MOOC is live https://t.co/l2gr8vapK6
+663737763133567000,Mon Nov 09 15:19:49 +0000 2015,If you're an undergrad interested in #datascience , know that Biostatistics is a  possible career choice: https://t.co/XhjWfIa1pp
+659394536318353400,Wed Oct 28 15:41:23 +0000 2015,Going to #SACNAS2015? Interested in a career in stats, data science, compbio? Come chat with me at the Conversations With Scientists session
+656497934310244400,Tue Oct 20 15:51:19 +0000 2015,Our definition of a replicated study can't be based exclusively on p-values.  https://t.co/ZLwVl2MCtq https://t.co/VHIsRUsxzn
+650841907489284100,Mon Oct 05 01:16:17 +0000 2015,@minisciencegirl @hadleywickham @HarvardChanSPH @carmeyeii Sorry, no webcast or livestream this time. Good suggestion for the future.
+650840070149304300,Mon Oct 05 01:08:59 +0000 2015,@JakeFreimer We plan on creating a simple webpage with links to the videos &amp; other materials. Note assessments are changing more than videos
+649947328502042600,Fri Oct 02 14:01:33 +0000 2015,Come listen to @hadleywickham talk @HarvardChanSPH on the three Ps of fluent interfaces. This Monday Oct 5 at 12.30 http://t.co/IV7Tf2WSVX
+648943238691336200,Tue Sep 29 19:31:39 +0000 2015,@enricoferrero Yes. For each course, after the first four weeks it will continue to run self-paced. So by April they will all be running.
+648858829610950700,Tue Sep 29 13:56:14 +0000 2015,Version 3 of Data Analysis HarvardX MOOCs start Oct 15 http://t.co/qvJSYcu76K Includes data-driven improvements. http://t.co/jPaE1s25Pb
+647024066147262500,Thu Sep 24 12:25:33 +0000 2015,What Does Probability Mean in Your Profession? The last one is my favorite. @davitivan http://t.co/7YXqUkt7lb
+646681053848019000,Wed Sep 23 13:42:32 +0000 2015,Our book Data Analysis for the Life Sciences is out: https://t.co/P4mUdhD7VP Created with open R markdown docs: http://t.co/T7MzAVM0TU
+644986915834478600,Fri Sep 18 21:30:38 +0000 2015,2015 Jerry Friedman shows picture of 1970s Jerry Friedman http://t.co/TmoqIEIeDa
+644897642707832800,Fri Sep 18 15:35:54 +0000 2015,Tukey quote"The greatest value of a picture is when it forces us to notice what we never expected to see"starts my talk at conf in his honor
+643811131371462700,Tue Sep 15 15:38:29 +0000 2015,@joe_pickrell Here it is with the same axes and a residual plot. Note: values extracted by eye in 10 minutes. http://t.co/vLWfSsClvq
+643418547553701900,Mon Sep 14 13:38:30 +0000 2015,.@Dr24hours Many people object. But they fear being attacked like you were. Here's a mathematical explanation: http://t.co/wSpBor7KiV
+641231182718341100,Tue Sep 08 12:46:42 +0000 2015,.@albertocairo @HansRosling Here is a statistical explanation of why you should not read internet comments http://t.co/MRX9zCzvkW
+638329260604805100,Mon Aug 31 12:35:29 +0000 2015,Spurious alt splicing too common in RNAseq analysis @mikelove shows why and proposes solution http://t.co/fPDf6nx6iw http://t.co/6Foa2BQTSZ
+638322975087968300,Mon Aug 31 12:10:31 +0000 2015,RT @mikelove: our preprint is up (w/ @rafalab &amp; @jbhclock) modeling fragment sequence bias for tx abundance http://t.co/wustOgaNjy http://t…
+636952072106209300,Thu Aug 27 17:23:02 +0000 2015,What is the most widely used application of the law of large numbers? First thing that comes to mind is stir fry. @stat110 ?
+636525527923343400,Wed Aug 26 13:08:06 +0000 2015,RT @kwbroman: Bias and batch effects in single-cell RNA seq by @stephaniehicks &amp; @rafalab http://t.co/KtSlQOXZll http://t.co/Z6HRHNIT3K
+635814986095444000,Mon Aug 24 14:04:40 +0000 2015,Job opening at @NIH: The next National Library of Medicine director can help define the future of #datascience http://t.co/p6eCADP4qz
+631476449464049700,Wed Aug 12 14:44:52 +0000 2015,An explanation of why correlation is not a measure of reproducibility. Includes a simple true and tested alternative: http://t.co/KQhjFVCEeH
+631243286464704500,Tue Aug 11 23:18:22 +0000 2015,@hspter I agree: for(i in 0:9){x=cos(2*pi/10*i);y=x+1;z=(y-2)*22;pie(c(y,8-y),col=c(0,7),init.angl=135-z,bo=F,la=NA)} http://t.co/jZxJeY8WsH
+630743302275506200,Mon Aug 10 14:11:36 +0000 2015,The rafalib package is now on CRAN: https://t.co/ZP2HJSuzKh Here is a description of some the functions:  http://t.co/v63RjBWgFs @mikelove
+630546730317140000,Mon Aug 10 01:10:30 +0000 2015,@hspter That's now?    :)     I'll see you in Chicago
+621683077379567600,Thu Jul 16 14:09:30 +0000 2015,@toni_segovia Tendrías que esperar a que esa clase comience en la nueva sesión. Pensaremos en mejores soluciones al problema que presentas.
+621458565455216600,Wed Jul 15 23:17:22 +0000 2015,.@toni_segovia El 15 de sept acaba la versión autoguiada. Entonces comienza de nuevo la secuencia, con participación de los instructores.
+616950031824908300,Fri Jul 03 12:42:04 +0000 2015,The data is in:  Jim Carey causes autism (via @DavidJuurlink @prateeklala73) http://t.co/JSomKqUqxy
+614054762540044300,Thu Jun 25 12:57:18 +0000 2015,@joe_pickrell @Y_Gilad I now think it's the most important question in this debate. How to quantify biological similarity in meaningful way?
+613759229887934500,Wed Jun 24 17:22:58 +0000 2015,RT @albertocairo: Must read for journos: How public relations and the media are distorting science http://t.co/2JfQ91WuKl @rafalab http://t…
+613723384300634100,Wed Jun 24 15:00:31 +0000 2015,@kwbroman The ROC curves of science post is longer: http://t.co/sY3V9og7wT
+611203711986192400,Wed Jun 17 16:08:15 +0000 2015,@JoJCasas You do need some knowledge of R. Here are some recommendations on what to do before starting the course: http://t.co/f88gpThJ6Q
+611167977455661000,Wed Jun 17 13:46:15 +0000 2015,@fahd09 Yes! They are self-paced but you can get a certificate.
+611162828070912000,Wed Jun 17 13:25:47 +0000 2015,Learn R, statistics and genomics from HarvardX. Our eight #MOOCs start self-paced versions on June 22, end Sept 15 http://t.co/qvJSYcu76K
+608301579243036700,Tue Jun 09 15:56:12 +0000 2015,Wherever I look I see a batch effects! http://t.co/1u0Pnh93IE
+606448181140807700,Thu Jun 04 13:11:28 +0000 2015,RT @GenomeBiology: Hicks &amp; @rafalab present quantro: an approach facilitating the choice of normalization method http://t.co/nF7Q817IR4 #ge…
+605389517881782300,Mon Jun 01 15:04:43 +0000 2015,Are the soft drinks sold at @ChipotleTweets made with high fructose organic corn syrup?
+601069642308804600,Wed May 20 16:59:04 +0000 2015,.@neelroop My current rec is: always plot the raw data (don't trust Manhattan plots) and be particularly suspicious about inexplicable gaps
+601056155180367900,Wed May 20 16:05:29 +0000 2015,@lzamparo PRs are more than welcomed!
+601047769151856600,Wed May 20 15:32:09 +0000 2015,Completely confounded designs ruin experiments. Combat/SVA/RUV won't save you. Consider randomization. http://t.co/KGMroYH2Mu
+600320504998793200,Mon May 18 15:22:16 +0000 2015,RT @jtleek: Do people list blog posts on their CV? Trying to figure out how to account for all the time I've spent on 200+ posts from the l…
+595244550119137300,Mon May 04 15:12:14 +0000 2015,Step-by-step guide on how to convert WGBS fastq files into a #rstats readable form. By @stephaniehicks  Includes QC. https://t.co/lc72GdcLUW
+594212824597065700,Fri May 01 18:52:31 +0000 2015,Giving a talk this Monday on statistical challenges in epigenomics, including dealing with batch effects.  https://t.co/3EliGgnWkE
+593915145354682400,Thu Apr 30 23:09:39 +0000 2015,RT @mikelove: gave a talk today on basic tasks in Bioc.  Here's the Rpres... Open in RStudio to see the html slides https://t.co/Zr1or2BZZD
+593105863512105000,Tue Apr 28 17:33:51 +0000 2015,Learn to analyze next generation sequencing from a group that does it for a living. Includes unix,mapping, viz, &amp; QC https://t.co/4PFVEqohOV
+591227317931876400,Thu Apr 23 13:09:11 +0000 2015,Overcoming bias,systematic error&amp;unwanted variability in next gen seq is the title of my talk today @Columbia Biostat http://t.co/DMndzA3ept
+588462881689079800,Wed Apr 15 22:04:18 +0000 2015,20 Years of Data Science:from Music to Genomics is the title of my talk tomorrow @UWBiostat 3pm T-639 Health Sciences http://t.co/cHzFUjOmZn
+587634719514308600,Mon Apr 13 15:13:29 +0000 2015,4 case study #MOOCs start 4/27: RNASeq (@mikelove), ChIPSeq (Shirley Liu), Variant Calling (@fiamh et al), &amp; DNAmeth http://t.co/QJ7mq2IHMx
+586293714265493500,Thu Apr 09 22:24:48 +0000 2015,Giving a talk in Toronto (SickKids) tomorrow, on Statistical Challenges in Epigenetics:  http://t.co/DnxHTMWXYi
+585440489773670400,Tue Apr 07 13:54:24 +0000 2015,@notSoJunkDNA @mikelove damn it! i can't believe we reverse scooped @jtleek http://t.co/O0zOyJEx2t
+585437973241561100,Tue Apr 07 13:44:24 +0000 2015,.@mikelove finally figured out how to produce high quality RNAseq data. Package that converts microarray data into fastq files coming soon.
+585091682661769200,Mon Apr 06 14:48:22 +0000 2015,Cheat sheets for annotation and manipulation of genomic intervals with @Bioconductor: http://t.co/FBnN1Xu6rj  &amp; https://t.co/CHGjbktxSj
+583991512159105000,Fri Apr 03 13:56:41 +0000 2015,'Thanks to the growth of "Big Data," jobs for statisticians are expected to grow 27% by 2022!' https://t.co/yekumm4Lfk via @simplystats
+583738935895023600,Thu Apr 02 21:13:02 +0000 2015,Everybody in Boston is looking up and smiling. It's nice when a simple thing makes so many people so happy http://t.co/N9uVuip6Qj
+580397160845467600,Tue Mar 24 15:54:01 +0000 2015,Learn to analyze next gen sequencing and microarray data with @Bioconductor : 4 week @edX course starts this Monday  http://t.co/gOww4rB4yO
+579672502202433500,Sun Mar 22 15:54:28 +0000 2015,@unsorsodicorda Note that the author of this book is @bcaffo
+579019385530105900,Fri Mar 20 20:39:13 +0000 2015,.@kwbroman @stefanbache "If you are still using vi, get with the 90s. Switch to emacs" Karl Broman (my Stat 215 TA) circa 1994.
+577489131711934500,Mon Mar 16 15:18:32 +0000 2015,This is the most evil line of #rstats code I have ever seen: F &lt;- TRUE
+576750817778249700,Sat Mar 14 14:24:45 +0000 2015,In honor of #PiDay2015, here's a blog analyzing π with #rstats, demonstrating how general @Bioconductor tools can be: http://t.co/CJjlSVDJXl
+576418403239481340,Fri Mar 13 16:23:51 +0000 2015,Check out Jeff's new ebook "The Elements of Data Analytic Style": https://t.co/amz8FfLrhu
+575115025720848400,Tue Mar 10 02:04:41 +0000 2015,@Qiuping2009 Once it starts, probably in the fall, you can enroll here http://t.co/HCrzh268Ly
+572563351697530900,Tue Mar 03 01:05:15 +0000 2015,@mstephens999 welcome to the club http://t.co/rpaJeKSOVK
+572408746296655900,Mon Mar 02 14:50:54 +0000 2015,Advanced Statistics #MOOC launches today.  We teach techniques useful for high-throughput data and #PrecisionMedicine http://t.co/wEmkSTfqO4
+571712965872881660,Sat Feb 28 16:46:07 +0000 2015,RT @Bioconductor: #rstats / #bioconductor Celebrating 100000 svn commits! https://t.co/GtmVaX15mn
+570633878874026000,Wed Feb 25 17:18:13 +0000 2015,RT @mikelove: really happy we have 1700 students active in linear models class. I thought we'd see a bigger dropoff from earlier "stats for…
+569192836895277060,Sat Feb 21 17:52:02 +0000 2015,@JennyBryan The&amp;nbsptweet&amp;nbspis&amp;nbspexactly&amp;nbsp140&amp;nbspcharacters
+569164825084997600,Sat Feb 21 16:00:43 +0000 2015,Monty Hall in 2 lines of #rstats x=replicate(10^5,sample(c(0,0,1))) colMeans(cbind(x[1,],ifelse(x[2,],x[2,],x[3,]))) http://t.co/Ac5ipzsHnC
+566774687381086200,Sun Feb 15 01:43:10 +0000 2015,@Y_Gilad @joe_pickrell @davisjmcc @leonidkruglyak Are you not familiar with the "hype cycle" ? http://t.co/OAeD6B9LpL
+566275236954648600,Fri Feb 13 16:38:32 +0000 2015,Intro to matrix algebra and linear models MOOC starts Monday. We teach math behind limma &amp; include many R examples.   http://t.co/mZiFxUyoOl
+565681364771831800,Thu Feb 12 01:18:41 +0000 2015,RT @simplystats: This under construction book is guaranteed to be the best book in statistical genomics: http://t.co/VHzOHaQqKC
+564587329063358460,Mon Feb 09 00:51:23 +0000 2015,RT @jdieramon: I like Sunday evenings. It is time for my great HarvardX #MOOC 'Statistics and R for the Life Sciences' @rafalab  https://t.…
+563343461407932400,Thu Feb 05 14:28:42 +0000 2015,RT @askdrstats: 45% of undergraduate degrees in #statistics awarded to women: fastest growing STEM discipline http://t.co/4N5S6osj7O @Thisi…
+561176275151519740,Fri Jan 30 14:57:04 +0000 2015,Installation guide for R, @rstudio,Rtools,devtools on Windows built by @yered_h for our R and Stats HarvardX course: https://t.co/7s9Bqb8poE
+560511412637012000,Wed Jan 28 18:55:09 +0000 2015,RT @simplystats: Rafa's giving an ENAR webinar on Friday: http://t.co/D4ypkVlFb9. Critics say it is hands down the best webinar of 2015...
+559775774988042240,Mon Jan 26 18:11:59 +0000 2015,@genetics_blog Note that @stephaniehicks made that nice illustration. With data not simulations.
+559403797819424800,Sun Jan 25 17:33:53 +0000 2015,@noamross Cliprey is the best! I'll take useful and curmudgeony over polite and useless any day e.g. @kwbroman :) http://t.co/3Ygo71qhFM
+557948586278010900,Wed Jan 21 17:11:23 +0000 2015,@joe_pickrell I'm an optimist: http://t.co/9L43CaR4gL
+557540997429989400,Tue Jan 20 14:11:47 +0000 2015,.@bioannie discusses health care costs and Harvard's benefit package from a statisticians perspective on @simplystats http://t.co/UmFVRVoA3E
+557539698818957300,Tue Jan 20 14:06:37 +0000 2015,RT @edXOnline: Harvard's Statistics and R for the Life Sciences is live! Start learning now: http://t.co/b2rgpdYhyh https://t.co/upZyNgEvVq
+555890344332521500,Fri Jan 16 00:52:40 +0000 2015,@leonidkruglyak Lesson 1: avoid luncheons
+554664265425367040,Mon Jan 12 15:40:40 +0000 2015,Learn Statistics and R simultaneously with our new 4 week online HarvardX course  http://t.co/XjDgfmWzDc #rstats
+549575558901014500,Mon Dec 29 14:39:58 +0000 2014,PSA: It can take up to half a day to update @NIH biosketch to the new format. Separate some time to do this.
+547046473641500700,Mon Dec 22 15:10:17 +0000 2014,@EduEyras On 12/24. Happy Holidays!
+547045335781376000,Mon Dec 22 15:05:46 +0000 2014,One accomplishes much more by analyzing data for 8 straight hours, than in 40 separate hours interrupted by meetings http://t.co/A4qVX2vG3g
+546370025607946240,Sat Dec 20 18:22:19 +0000 2014,@erlichya @dbarthjones It is surprising it took this long.But not ASA's fault.They depend on the initiative of members to start sections.
+545776345197060100,Fri Dec 19 03:03:15 +0000 2014,@ewanbirney What's wrong with"quantile norm with a N(0,1) reference"?Note:my experience has been that the default generally outperforms this
+545659340007682050,Thu Dec 18 19:18:19 +0000 2014,@ewanbirney All 3 do the same except for reference. 1-uniform[0,1] 2-Normal(0,1) 3-data-driven. 3 is the default but code let's you decide.
+545586012219772900,Thu Dec 18 14:26:56 +0000 2014,.@ewanbirney Neither corresponds to the @Bioconductor implementation of quantile norm (est 2001 and explained below) http://t.co/lCyy6YyNB8
+544887078476333060,Tue Dec 16 16:09:37 +0000 2014,Mark Twain said “A lie can travel half way around the world while the truth is putting on its shoes”. How much worse with social media?
+543115692770607100,Thu Dec 11 18:50:46 +0000 2014,Statistics in Genomics and Genetics (est. 2015) is now officially a section of the American Statistical Association http://t.co/sExVKv4Vxv
+541972027293573100,Mon Dec 08 15:06:15 +0000 2014,Mi respuesta al artículo del humano perfecto en @ElNuevoDia:Genéticamente,no hay tal cosa como la raza puertorriqueña http://t.co/jLn1SBfJKc
+540959428653355000,Fri Dec 05 20:02:32 +0000 2014,@jbhclock @joe_pickrell @lpachter I agree with @MiroAida.There is a complex context here(not 4 twitter)that has nothing to do with Genetics
+540893102509404160,Fri Dec 05 15:38:59 +0000 2014,Here's a data-driven answer to one of the most FAQ I get: When should I quantile normalize? writen w @stephaniehicks: http://t.co/G2q3kyS7K4
+539797521804296200,Tue Dec 02 15:05:32 +0000 2014,Latest post:statistical explanation for why social media suppresses political debate http://t.co/wSpBorplqZ see fig: http://t.co/BMFI2bBhGA
+539434826886299650,Mon Dec 01 15:04:19 +0000 2014,Ok fake journals,you're going to have to improve your spam technology if you want to trick me into submitting a paper http://t.co/QkMuuy1h5n
+539160841396813800,Sun Nov 30 20:55:36 +0000 2014,@MeeshCompBio @stephaniehicks Here is the archived version 1: https://t.co/eeeTI4ctwY Sign up for the new ones here: https://t.co/NB6yQtZbR9
+538388670920007700,Fri Nov 28 17:47:16 +0000 2014,@dacolon @DavidBernierPR @CienciaPR Si quieren mejorar los rankings, necesitan proiorizar la investigación: http://t.co/TShauZ9Ihy
+538385009871446000,Fri Nov 28 17:32:43 +0000 2014,@MedStatWriter Data analysis workflows with fill in the blanks testing concepts and coding. For advanced classes will add some peer grading.
+537321326407860200,Tue Nov 25 19:06:01 +0000 2014,Version 2 of Data Analysis for Genomics launches January 19. New 8 course series provides different entry points: http://t.co/XxHrmno1J2
+537040430018592800,Tue Nov 25 00:29:50 +0000 2014,@cdeboever3 @simplystats @jtleek Because it is hard to predict what will introduce batch effects, I generally recommend randomization
+535535236235677700,Thu Nov 20 20:48:44 +0000 2014,If your highthroughput data suggests a biologically counterintuitive result, check very carefully for batch effects http://t.co/64HKe2p7pC
+535296990826225660,Thu Nov 20 05:02:02 +0000 2014,@Y_Gilad  This isn't the first time systematic errors fool someone into reaching this conclusion. See Figure 2 here: http://t.co/Fed4HM06bB
+533086118347280400,Fri Nov 14 02:36:49 +0000 2014,RT @SMLXist: there, I fixed it http://t.co/Z3gZQGh4GE
+532911751730581500,Thu Nov 13 15:03:57 +0000 2014,Move over "Big Data" the new catchphrase is: http://t.co/IrzrScAgZl
+532605781066416100,Wed Nov 12 18:48:08 +0000 2014,Some results from CS109 "predict the elections" homework/competition @FiveThirtyEight came in a respectable 8th place http://t.co/dRlFLJnUdN
+531077381067653100,Sat Nov 08 13:34:49 +0000 2014,@OCD_Nightmares http://t.co/ag6rDn0zpU
+530798888543092740,Fri Nov 07 19:08:11 +0000 2014,Talk on challenges in the analysis of high throughput epigenetics data this Monday at Yale's Stat Department: http://t.co/szkFHHOYXh
+530731515786035200,Fri Nov 07 14:40:28 +0000 2014,undergrad: Should I major in math, stats or cs? me: Yes.
+529986661959368700,Wed Nov 05 13:20:41 +0000 2014,@hspter CS109 is jointly taught between CS and Statistics. I give a short description at the end of this post  http://t.co/owH6C55IHj
+529758826703376400,Tue Nov 04 22:15:21 +0000 2014,Here is my attempt at explaining the ideas behind the @538 election forecast model with formulas and data http://t.co/GLmPlwKfGb
+527542364114788350,Wed Oct 29 19:27:55 +0000 2014,wget haiku: without @wget I'm... not human but a savage beast, clicking mindlessly. @UnixToolTip
+527104561094606850,Tue Oct 28 14:28:15 +0000 2014,Latest post: hyping up skeptical statisticians and their resistance to hype http://t.co/Lu3dejLKk9
+525350289650774000,Thu Oct 23 18:17:24 +0000 2014,@kwbroman @mikelove Coming soon to rafalib : typing "nerds()" will show a list of people who complain @KasperDHansen is there by default ;)
+525263258786484200,Thu Oct 23 12:31:34 +0000 2014,@joe_pickrell @bbuliksullivan But genotyping is not free.Im not completely convinced that cutoffs don't determine sample silze at some level
+524949487379578900,Wed Oct 22 15:44:45 +0000 2014,@joe_pickrell @bbuliksullivan How are sample sizes in the thousands convenient?At some level the cutoff must be taken into consideration no?
+524941784271826940,Wed Oct 22 15:14:08 +0000 2014,@bbuliksullivan @joe_pickrell But isn't N chosen to achieve signif at that predetermined level? More stringent cutoff -&gt; bigger N -&gt; more $
+524906480529866750,Wed Oct 22 12:53:51 +0000 2014,.@joe_pickrell Reminds me of something I've wondered about: Had GWAS Bonferroni threshold been, say, 0.06, how much $ would we have saved?
+524258944475492350,Mon Oct 20 18:00:47 +0000 2014,Latest blog post: Don't judge a society by its internet comments http://t.co/XJ9zAPVRYF this pic summarizes the post http://t.co/MtnxixzBzN
+523219881115013100,Fri Oct 17 21:11:55 +0000 2014,Very surprised to find out @kwbroman feels this way! http://t.co/pimnun8fcL
+523111850888937500,Fri Oct 17 14:02:38 +0000 2014,I used this animated gif to illustrate Bayes rule in class http://t.co/jx6RES5yOK
+522749414499450900,Thu Oct 16 14:02:27 +0000 2014,The scientific community thinks before reaching consensus. They don't just accept a published p-values http://t.co/Ndsrqgb5zC by @rdpeng
+522386509341949950,Wed Oct 15 14:00:23 +0000 2014,20 mins later and failing to recall the passwd needed to take HIPPA module, it dawned on him:I'll never win the Nobel http://t.co/nr390aQRA2
+521677384295395300,Mon Oct 13 15:02:35 +0000 2014,@jarretinhaHC For sure. I meant relative to each other. The statement should be interpreted in the context of the linked blog post.
+521673754225938400,Mon Oct 13 14:48:09 +0000 2014,We do not need more Bayesian statistics, we do no need more Frequentist statistics. We need more critical thinking: http://t.co/ZsZXUn0W9C
+520237276279103500,Thu Oct 09 15:40:06 +0000 2014,RT @michaelhoffman: Congrats to @NIH_BD2K grantees including @jeremymberg, @andrewsu, @WonderMixTape, @rafalab, many others http://t.co/AXR…
+520031516903370750,Thu Oct 09 02:02:30 +0000 2014,RT @simplystats: The Leek group guide to genomics papers http://t.co/e0gtrKyJOT
+518136130123079700,Fri Oct 03 20:30:54 +0000 2014,@brent_p @KasperDHansen @JayPykw You might need to install from github https://t.co/un6IQIJlm0 I don't have a specific answer re:sample size
+518080233141194750,Fri Oct 03 16:48:47 +0000 2014,I love how @ESPNStatsInfo is math/stats savvy and not afraid to show it.  Next step: actually write the ∞ symbol http://t.co/LaPN1ywlma
+518075662557790200,Fri Oct 03 16:30:37 +0000 2014,@KasperDHansen @brent_p @JayPykw Don't use permutation tests when adjusting for mult covs. Cosider nullMethod="bootstrap" in v1.5.5 instead.
+517745483910246400,Thu Oct 02 18:38:37 +0000 2014,Today in cs109: moneyball! Using stats to pick baseball players like @billybeanball
+517076688489156600,Tue Sep 30 22:21:04 +0000 2014,@jbhclock @michaelhoffman Next week at study section, I'm making everybody call me riff-raffa
+516997753411735550,Tue Sep 30 17:07:24 +0000 2014,.@rdpeng A Bayesian analysis of which approach is better: frequentist (F) or Bayesian (B). Prior: Pr(B is better)=1-&gt;Pr(B better|Data )=1 :)
+515275088472834050,Thu Sep 25 23:02:09 +0000 2014,@hspter You are just one cheesy sunset picture away from getting muted :)
+514775379941548000,Wed Sep 24 13:56:29 +0000 2014,@rstudio spell checker is suggesting I correct "Irizarry" to "Wizardry" . Tempted to hit "Change All"
+514038816387387400,Mon Sep 22 13:09:38 +0000 2014,#gi2014 if you want more info on how to deal with batch effects, look at week 6 here http://t.co/YdYAv8DLqo and https://t.co/DsCtuLv8qT
+514026569313316860,Mon Sep 22 12:20:58 +0000 2014,.@michaelhoffman I agree.I'm advocating for understanding why ROC curves better and not just showing them. Specific cases may provde insight
+513116550623428600,Sat Sep 20 00:04:53 +0000 2014,@hspter @hmason @rachelbinx I had 82/18. Checked myself with a random sample of size 25 and got: 56%M, 16%F, 28% Unknown. 82 close to 56+28
+512944445248266240,Fri Sep 19 12:41:00 +0000 2014,@BrooklineMAPD More commuters on bikes means safer streets. Idaho stop make biking more efficient &amp; pleasant. Ticket recklessness instead.
+512595357503873000,Thu Sep 18 13:33:51 +0000 2014,RT @jhubiostat: #WomenTweetScienceToo RT @simplystats: A non-comprehensive list of awesome female data people on Twitter http://http://t.co…
+512275259396198400,Wed Sep 17 16:21:54 +0000 2014,Graph version of @BenLindbergh recent @Grantland33 piece:Kershaw is more 1999 David Cone than 2000 @45PedroMartinez http://t.co/aKBn6ocT3U
+512223104022884350,Wed Sep 17 12:54:39 +0000 2014,@kwbroman Congrats to @eddelbuettel @hadleywickham @lawremi @mt_morgan I am hoping this means stringsAsFactors=FALSE has a majority now.
+512014936189730800,Tue Sep 16 23:07:28 +0000 2014,RT @kwbroman: Official announce’t of new members of R core and R foundation: https://t.co/7HIjPVUFa3 Yay @eddelbuettel @hadleywickham @lawr…
+511532936186048500,Mon Sep 15 15:12:10 +0000 2014,Post inspired by @hadleywickham's critique of academia. Features @kwbroman, @jtleek, @stat110 and @hpfister efforts http://t.co/owH6C55IHj
+511515649173364740,Mon Sep 15 14:03:28 +0000 2014,RT @simplystats: Applied Statisticians: people want to learn what we do. Let's teach them. http://t.co/qpvO8jEmxL
+509381112456810500,Tue Sep 09 16:41:35 +0000 2014,This week in CS109 @marc_streit talks about basic visualization principles.HWK 1 on baseball and world income is here http://t.co/ZMRfnPhhxl
+507563494540316700,Thu Sep 04 16:19:01 +0000 2014,Today in CS109 we introduce exploratory data analysis featuring several examples by @amandacox (of @nytimes fame) http://t.co/8BsP7193Uk
+506804666685206500,Tue Sep 02 14:03:43 +0000 2014,Harvard Data Science course (CS109) starts today. Follow along here:  http://t.co/IqDw4lo8YX Videos, code, and slides will be made available
+504379902393860100,Tue Aug 26 21:28:34 +0000 2014,RT @GenomeBiology: Feinberg, @rafalab &amp;co on the hypomethylated blocks being a common feature in #cancer in @GenomeMedicine http://t.co/an9…
+502818883750068200,Fri Aug 22 14:05:38 +0000 2014,Why isn't "I am already reviewing 4 other papers" the first option on these lists? http://t.co/j5ddc3lhky
+502570417996193800,Thu Aug 21 21:38:19 +0000 2014,I wish more work days were like today: 9-5 #rstats programming, looking at data &amp; thinking. No emails, no committe meetings,no conf calls!
+501377223296032800,Mon Aug 18 14:36:59 +0000 2014,@simplystats "Even for a person who ultimately wants to do more theoretical work,having some exposure to real-world problems is essential."
+499588226257260540,Wed Aug 13 16:08:09 +0000 2014,An #MLB pitcher, Burke Badenhop, is using #data to improve his game. The pitcher himself is looking at data!  http://t.co/LeH7rqk8a8
+498919185377132540,Mon Aug 11 19:49:37 +0000 2014,@simplystats I think you just made it worse. Check out the titles of the "related links" posted by Facebook... http://t.co/FoIEEYrqm2
+497369875149754400,Thu Aug 07 13:13:13 +0000 2014,@MartinSGaynor For the record, the great pic came via @Damian_Roland @aLittleMedic
+497154421273690100,Wed Aug 06 22:57:05 +0000 2014,@hakyim we will add you to the mailing list @moefeliu
+496859287877324800,Wed Aug 06 03:24:20 +0000 2014,@hspter I'm honored that you think I "seem cool"
+496782494017265660,Tue Aug 05 22:19:11 +0000 2014,Latinamerican mixer #jsm2014  Thanks @HarvardHSPH for hosting http://t.co/vTkUyopLV0
+496472298627792900,Tue Aug 05 01:46:34 +0000 2014,@hspter put in your order... http://t.co/R9bZV6t3ev
+496384723787452400,Mon Aug 04 19:58:35 +0000 2014,RT @hcorrada: “@naturemethods: AOP: Genome visualization with Bioconductor-based analysis tools. ($) http://t.co/p5GkGUBHva” @epiviz
+495768709957709800,Sun Aug 03 03:10:46 +0000 2014,@hspter When and where is it?
+495611795739275260,Sat Aug 02 16:47:14 +0000 2014,RT @ASA_SciPol: Learn more about @SimplyStats in August @AmstatNews: http://t.co/iGzTPYp7Ue
+495605993372659700,Sat Aug 02 16:24:11 +0000 2014,RT @amstatphilly: Retweet if you'll be at #JSM2014 this weekend.
+494546031766274050,Wed Jul 30 18:12:16 +0000 2014,@xieyihui @kwbroman @hadleywickham I came from basic, pascal (on punch cards), c, lisp, Splus and matlab, then #rstats. #feelingold
+494533819798544400,Wed Jul 30 17:23:45 +0000 2014,Come join us at the Latin American Applied Statistics Mixer at #JSM2014 http://t.co/vcqpGZjWXJ
+492692825851850750,Fri Jul 25 15:28:18 +0000 2014,RT @simplystats: Academic statisticians: there is no shame in developing statistical solutions that solve just one problem http://t.co/fL1e…
+483604580224098300,Mon Jun 30 13:34:51 +0000 2014,@toates_19 @edXOnline The decision is not entirely up to the instructors. If we do it again we will certainly advertise using social media.
+482737167715008500,Sat Jun 28 04:08:04 +0000 2014,@mcmahanl once the course ends you should get it. This comes from edX not from the instructors.
+478546160417009660,Mon Jun 16 14:34:30 +0000 2014,Team work beats talent. A very tired @KingJames is not the best player in the world. http://t.co/B9soG7k6QK
+477600149586202600,Fri Jun 13 23:55:23 +0000 2014,@geoffjentry We will be adding more case studies including some form biology. But there are no plans of formally teaching R.
+477527830579138560,Fri Jun 13 19:08:01 +0000 2014,RT @stephaniehicks: postdoc #protip: dust off your calculus skills and keep them in shape! You may need them someday. http://t.co/boocl2TEuz
+476067823392137200,Mon Jun 09 18:26:28 +0000 2014,.@aloraine205 @IHStreet Content,quizzes&amp;discussion board stay on.But no certificates after 6/30.Might do it again,but not entirely our call
+474769410394439700,Fri Jun 06 04:27:02 +0000 2014,@StrictlyStat @jtleek why are there pineapples?
+474238991550541800,Wed Jun 04 17:19:21 +0000 2014,RT @mbeisen: On Nicholas Wade and the blurring of boundaries between science and fantasy http://t.co/zN5LGyxpGy
+473104959006048260,Sun Jun 01 14:13:06 +0000 2014,RT @askdrstats: The bright future of applied statistics: Rafael Irizarry @rafalab chapter 16 of @astatworld past+future #statistics http://…
+471705575903232000,Wed May 28 17:32:27 +0000 2014,@DiegoKuonen @realscientists @tslumley @rdpeng @moefeliu here is the post. thanks for motivating me to write it.  http://t.co/EZkIjKe8xX
+471675202729160700,Wed May 28 15:31:46 +0000 2014,The Big in Big Data relates to importance not size http://t.co/EZkIjKe8xX http://t.co/7vpN95NzC1
+471342189998768100,Tue May 27 17:28:29 +0000 2014,During 8th and final week on edX we show how to analyze ChIPseq, DNA methylation, RNAseq and genome variation data. https://t.co/DsCtuLNhF1
+470708455842791400,Sun May 25 23:30:15 +0000 2014,@RDub2 @VukcevicD @realscientists @simplystats @mjcavaretta This question can't be answered in 140 chars, but ignoring is not the high road
+470707418305818600,Sun May 25 23:26:08 +0000 2014,@DiegoKuonen @realscientists @tslumley @rdpeng @simplystats I agree: the Big in Big Data relates to importance not size. Post coming soon.
+469946083045834750,Fri May 23 21:00:52 +0000 2014,@realscientists @tslumley @rdpeng Last two @simplystats posts are related to this. 2 more coming. &amp; here is good rant http://t.co/gdxGsLibiD
+469569101141389300,Thu May 22 20:02:52 +0000 2014,RT @jbhclock: IVT-seq preprint up on biorxiv, http://t.co/tjjMURGaKw, RNA-seq and especially ribo-depletion has a long way to go.
+469528085747208200,Thu May 22 17:19:53 +0000 2014,RT @simplystats: 10 things statistics taught us about big data analysis http://t.co/pgzv1B0aKR
+468391200601276400,Mon May 19 14:02:19 +0000 2014,@simplystats @ctitusbrown @ph525x covers mRNAseq and ChIP-seq analysis next week. Lectures are conceptual but labs are practical.
+466916518002188300,Thu May 15 12:22:27 +0000 2014,@tslumley @kwbroman before it was R! Remember S-plus?!
+466582617719332860,Wed May 14 14:15:39 +0000 2014,@RickWicklin @hadleywickham I don't entirely agree.Languages that permit flexible data exploration, e.g. R, result in better analyses
+465931786208702460,Mon May 12 19:09:29 +0000 2014,RT @mikelove: week 6 in ph525x, @rafalab explains confounding, batch effects, PCA / SVD, ComBat and SVA in 9 videos, each ~5 min
+464752554141044740,Fri May 09 13:03:38 +0000 2014,A pic is worth more than "when u do not reject the null when the null is not true" via @Damian_Roland @aLittleMedic http://t.co/UZPmo3OYXb
+464076611076501500,Wed May 07 16:17:40 +0000 2014,RT @simplystats: Why big data is in trouble: they forgot about applied statistics http://t.co/9wMVvos1Ni
+462260036669296640,Fri May 02 15:59:15 +0000 2014,Not sure why, but every year, on April 30th, I am surprised to find out that June is one month away.
+462215525867978750,Fri May 02 13:02:23 +0000 2014,@JennyRohn @sharmanedit It could be worse: http://t.co/EkUUvEiNXL
+461937848032456700,Thu May 01 18:39:00 +0000 2014,RT @Bioconductor: #rstats / #Bioconductor BioC 2014 Annual Conference, Boston July 30 - August 1 registration now open! https://t.co/W1fvk9…
+461565642202562560,Wed Apr 30 17:59:59 +0000 2014,@leonidkruglyak No. I'm not jealous. http://t.co/HH6dOPrDvA
+459729049112543200,Fri Apr 25 16:22:01 +0000 2014,@kwbroman that's not your dongle. as all dongles it belongs to us all http://t.co/YoGAISXGVE
+457187601384882200,Fri Apr 18 16:03:13 +0000 2014,Cambridge is as far from Boston as Baltimore http://t.co/WVilYpF0s9
+456798077181886460,Thu Apr 17 14:15:23 +0000 2014,RT @simplystats: Correlation does not imply causation (parental involvement edition) http://t.co/z33JG9Djuz
+454599735366524900,Fri Apr 11 12:39:57 +0000 2014,@rdpeng @bcaffo @TenuredBCaffo To satisfy @kwbroman you can't let a graphical artist anywhere near your logo(see pic) http://t.co/T58uYkbElY
+453184504895909900,Mon Apr 07 14:56:20 +0000 2014,RT @simplystats: Writing good software can have more impact than publishing in high impact journals for genomic statisticians http://t.co/u…
+451781797358346240,Thu Apr 03 18:02:28 +0000 2014,@LM_Campbell use away.
+451543495736823800,Thu Apr 03 02:15:33 +0000 2014,@wildtypeMC @DanGraur  http://t.co/Z5Wg8RwkSI
+451399142997504000,Wed Apr 02 16:41:56 +0000 2014,@GraveleyLab at some point you hit the ceiling.
+451370142262640640,Wed Apr 02 14:46:42 +0000 2014,Prediction: you will be just as busy in 9 months. http://t.co/cnpj2IIkeB
+450651243116265500,Mon Mar 31 15:10:03 +0000 2014,RT @simplystats: Data Analysis for Genomic edX Course http://t.co/89gPS6m5r4
+450288492216848400,Sun Mar 30 15:08:37 +0000 2014,RT @jtleek: Ballgown software by @acfrazee available at https://t.co/gAwS3uwIEl, if you use(d) Cufflinks, easy to run Tablemaker/Ballgown
+449207945709244400,Thu Mar 27 15:34:54 +0000 2014,Bottle opener. Check. Pen drive. Check. Let's analyze some data. http://t.co/83Ll67R8pJ
+448098867301474300,Mon Mar 24 14:07:49 +0000 2014,RT @simplystats: The fact that data analysts base their conclusions on data does not mean they ignore experts http://t.co/UtpTkGxPhC
+446633047619039200,Thu Mar 20 13:03:11 +0000 2014,@Chris_Said @hadleywickham I raised the white flag long ago http://t.co/jExIKdZjHN
+443557398578745340,Wed Mar 12 01:21:39 +0000 2014,@mattmarcello PH207x is an introductory statistics class. Didn't you take @kwbroman's 615? If so, then yes I think you can get by.
+443390315882614800,Tue Mar 11 14:17:43 +0000 2014,Data Analysis for Genomics #MOOC starts on April 7. Sign up here: https://t.co/DsCtuLNhF1
+436581552416641000,Thu Feb 20 19:22:08 +0000 2014,@schoppik @simplystats That will be a two hour motion picture, not an animated GIF.
+436581186639769600,Thu Feb 20 19:20:40 +0000 2014,RT @nextgenseek: @BenLangmead &amp; @anshul among the 129 young scholars to win  2014 Sloan Research Fellowship http://t.co/ntMJ8KvhKB
+435842618539647000,Tue Feb 18 18:25:52 +0000 2014,RT @simplystats: k-means clustering in a GIF http://t.co/Jy8yCI90nB
+433998984148172800,Thu Feb 13 16:19:55 +0000 2014,RT @simplystats: loess explained in a GIF http://t.co/9HggovqgEZ
+431074270882435100,Wed Feb 05 14:38:09 +0000 2014,@erlichya @stephaniehicks @GenomeBiology Nice paper. But better title:Using SVA-like-approach to account 4 cell comp.We do that in ours too.
+430745835295342600,Tue Feb 04 16:53:04 +0000 2014,New paper in @GenomeBiology Accounting for cellular heterogeneity is critical in epigenome-wide association studies http://t.co/aOvnBqrs6R
+429116988992921600,Fri Jan 31 05:00:37 +0000 2014,minfi users finally have something to cite. Includes bump hunting and block finding   http://t.co/Tp5JQOpPaR
+421064485801963500,Wed Jan 08 23:42:51 +0000 2014,@notSoJunkDNA @ElementoLab The exact date is not yet set, but it starts this semester. If you register you will get an email.
+403536124900945900,Thu Nov 21 14:51:24 +0000 2013,@TenuredBCaffo mother flower that's my mug!
+401432711539068900,Fri Nov 15 19:33:11 +0000 2013,@nextgenseek @google Many don't realize my name is common in PR. Please click on feedback if you get a chance http://t.co/LyKqKxvlcJ
+395594673571389440,Wed Oct 30 16:54:54 +0000 2013,@dartdog Independent identically distributed... like coin tosses
+395593993485946900,Wed Oct 30 16:52:12 +0000 2013,.@sinanaral says data we thought was IID is not. True in genomics too! See batch effect work from @leekgroup for examples #futureofstats
+395589243004674050,Wed Oct 30 16:33:19 +0000 2013,@stat110 says we need context for stats parameters when teaching. I agree. We also need it for interpreting randomness. #futureofstats
+390621830878208000,Wed Oct 16 23:34:36 +0000 2013,@kwbroman @StrictlyStat touché!  truce?
+390621830878208000,Wed Oct 16 23:34:36 +0000 2013,@kwbroman @StrictlyStat touché!  truce?
+390616234976243700,Wed Oct 16 23:12:22 +0000 2013,@StrictlyStat, So we are sharing embarrassing pics of our friends now? @kwbroman, are you sure you want to play this game?  ;)
+390116947737600000,Tue Oct 15 14:08:23 +0000 2013,Teaching least squares to a 5th grader by calibrating a programmable robot http://t.co/ii2A3OdvWf
+379990056766672900,Tue Sep 17 15:27:44 +0000 2013,RT @simplystats: Announcing the Simply Statistics Unconference on the Future of Statistics #futureofstats http://t.co/X9Hir7AuGU
+378185854394441700,Thu Sep 12 15:58:28 +0000 2013,RT @simplystats: Help needed for establishing an ASA statistical genetics and genomics section http://t.co/6il1DaJiI2
+377137659421798400,Mon Sep 09 18:33:19 +0000 2013,@manoliskellis here is the paper: Measuring cell-type specific differential methylation in human brain tissue http://t.co/RlvLYerQUc
+370909009382866940,Fri Aug 23 14:02:53 +0000 2013,RT @simplystats: Stratifying PISA scores by poverty rates suggests imitating Finland is not necessarily the way to go for US schools http:/…
+368001651929391100,Thu Aug 15 13:30:05 +0000 2013,My recent talk pitching applied stats to math majors: http://t.co/JIP8eAHcLC @statpumpkin,thx for slides @Cmrn_DP,thx for blog post i quote
+367472875705360400,Wed Aug 14 02:28:55 +0000 2013,@notSoJunkDNA @nextgenseek Thanks! I was going to unveil the new page this week but you beat me to it.
+366917222347718660,Mon Aug 12 13:40:57 +0000 2013,Talking to undergrads about the bright future of applied stats http://t.co/yktjoaCjCb Tomorrow 8/13 at 4.30pm at OSU http://t.co/vdhOrethCh
+365263198217179140,Thu Aug 08 00:08:27 +0000 2013,Bumphunter software (from this paper http://t.co/F63M1Hjbws) is on @Bioconductor : http://t.co/xJXEsa1K0j
+364855960570839040,Tue Aug 06 21:10:14 +0000 2013,I bet Nate Silver more people would show up to my #JSM2013 talk(RNAseq statistical challenges) than his.Help me win tomorrow 9:20 in CC-710a
+364497006573944800,Mon Aug 05 21:23:53 +0000 2013,Every get together I want to go to at #JSM2013 are today from 6 to 8
+364492538293800960,Mon Aug 05 21:06:07 +0000 2013,Academics should be encouraged to blog, be your own megaphone says Nate silver @simplystats #JSM2013
+364485500721459200,Mon Aug 05 20:38:09 +0000 2013,Was the 538 model Bayesian? What was the prior? Is Nate confusing multilevel models with Bayesian models? #JSM2013
+364480835577073660,Mon Aug 05 20:19:37 +0000 2013,I estimate 1,000,000 statisticians waiting for Nate Silver. #JSM2013 http://t.co/00IM0yDzzN
+363154931529678850,Fri Aug 02 04:30:57 +0000 2013,@felasa can you say more via email?
+362947633901355000,Thu Aug 01 14:47:13 +0000 2013,RT @simplystats: The ROC curves of science http://t.co/qqJKztf76n
+281516122359087100,Wed Dec 19 21:47:28 +0000 2012,RT @biostats_rulez: Rafa Irizarry interview is now featured:  http://t.co/i01reOHI @simplystats
+276802094005116930,Thu Dec 06 21:35:36 +0000 2012,Giving a talk at Albert Einstein College of Medicine, tomorrow Friday at 11AM Price 351
+276360499942264830,Wed Dec 05 16:20:52 +0000 2012,I am presenting in an AAAS webinar today at noon (in 40 minutes)... http://t.co/DdYdF6y6
+265898765192425470,Tue Nov 06 19:29:40 +0000 2012,Giving a talk at MD Anderson tomorrow wednesday 11am FCT2.4142 Room B
+260396835871531000,Mon Oct 22 15:06:58 +0000 2012,Gene expression antiprofiles paper finally out. This took a long time to publish.... http://t.co/TjbVOrEp
+253559341704171520,Wed Oct 03 18:17:12 +0000 2012,Bsmooth paper, describing alignment, quality control and analysis pipeline for bisulfite sequencing data, is out:... http://t.co/h9gL8Bkk
+247780544828542980,Mon Sep 17 19:34:20 +0000 2012,Brian Herb et al's paper on bees is out (they rejected our cover art)... http://t.co/AibJN8SQ
+244803664940785660,Sun Sep 09 14:25:16 +0000 2012,@leonidkruglyak  watch out, you might get sued for trademark infringement http://t.co/yT57mSlT
+244149319396098050,Fri Sep 07 19:05:08 +0000 2012,RT @simplystats: The discussions generated by #ENCODE motivated this: Top down versus bottom up science: data analysis edition  http://t ...
+243137114320035840,Wed Sep 05 00:02:59 +0000 2012,I posted 3 photos on Facebook in the album "Joint lab meeting" http://t.co/9MBg7NDN
+242666182153469950,Mon Sep 03 16:51:41 +0000 2012,The base calling lecture has been up for a while, but I never announced it:... http://t.co/JYNoy867
+242665682725126140,Mon Sep 03 16:49:41 +0000 2012,The distance and clustering lecture has been fixed:http://t.co/ShQBf9bz http://t.co/SthNN8cV
+228499673881661440,Thu Jul 26 14:39:02 +0000 2012,RT @simplystats: Online education: many academics are missing the point - Many academics are complaining about online educat... http://t ...
+226054666868387840,Thu Jul 19 20:43:27 +0000 2012,Jeff Leek helps me describe batch effects and solutions: http://t.co/FpVWXPwi http://t.co/wSctxNq2
+225644288556535800,Wed Jul 18 17:32:45 +0000 2012,RT @simplystats: A closer look at data suggests Johns Hopkins is still the #1 US hospital - The US News best hospital... http://t.co/gye ...
+221336262567669760,Fri Jul 06 20:14:11 +0000 2012,In this video I describe statistical issues related to measuring DNA methylation. Some recent results are also... http://t.co/gB7qqPqz
+219907617881989120,Mon Jul 02 21:37:16 +0000 2012,RMA and fRMA explained: http://t.co/fq1kATHR http://t.co/b1bUKm8F
+218094757879095300,Wed Jun 27 21:33:36 +0000 2012,RT @leekgroup: Our paper on how to statistically validate -omics results is out http://t.co/7wdgGYVC and the software is here: http://t. ...
+217989107140399100,Wed Jun 27 14:33:47 +0000 2012,Video on advanced differential expression. I explain empirical Bayes and the math behind limma:... http://t.co/9cWXza7H
+217704323554091000,Tue Jun 26 19:42:10 +0000 2012,Giving a talk @the_prbb on Thursday at 11AM http://t.co/a6id3ybc http://t.co/oPZTdOwd
+215815609328480260,Thu Jun 21 14:37:05 +0000 2012,Short video showing how to compute distances, create dendrograms and MDS plots in R:... http://t.co/vnmXs5RI
+215159349839003650,Tue Jun 19 19:09:21 +0000 2012,This video describes the probe effect and potential pitfalls of ignoring it:... http://t.co/sLT3ZaBg
+214697219155181570,Mon Jun 18 12:33:00 +0000 2012,Microarray normalization (quantile and loess) explained in this video: http://t.co/ja6KS1OY http://t.co/iJwOI04u
+213709060896333820,Fri Jun 15 19:06:25 +0000 2012,New video: Background correction for microarrays http://t.co/JlihNNeY http://t.co/NpAamSWh
+213385009598443520,Thu Jun 14 21:38:45 +0000 2012,RT @cei_hubc: Next Tuesday seminar by @rafalab Data analysis challenges with next generation sequencing at @idibaps_en #biostatistics ht ...
+212563429486104580,Tue Jun 12 15:14:05 +0000 2012,In this video Ben Langmead (developer of Bowtie) gives a nice introduction to short read alignment:... http://t.co/7u3Oruak
+212213472652558340,Mon Jun 11 16:03:29 +0000 2012,New video: Introduction to next generation sequencing: http://t.co/EydggrTZ http://t.co/5LJxCaww
+210806142769700860,Thu Jun 07 18:51:15 +0000 2012,@notSoJunkDNA more are coming soon, so keep an eye out.
+210772092910714880,Thu Jun 07 16:35:57 +0000 2012,The videos are now organized in a youtube channel (more videos coming soon) http://t.co/rKQ30GnJ
+210454139602354180,Wed Jun 06 19:32:31 +0000 2012,@suganthibala you don't need an account. Which video?
+210442281029861380,Wed Jun 06 18:45:24 +0000 2012,New video: Intro to RNAseq by Kasper Hansen (rated M for mature language)  http://t.co/T216SfAi http://t.co/Rx0royq2
+208533436187676670,Fri Jun 01 12:20:20 +0000 2012,New video: For the first 8 mins, we cover useful plots. We then go through Karl Broman's slides on bad plots.... http://t.co/wQcnTmKr
+208027566509002750,Thu May 31 02:50:11 +0000 2012,In this short video I demo some basic R and Bioconductor functions. The running example is differential... http://t.co/OviHLGIR
+207859794655186940,Wed May 30 15:43:31 +0000 2012,In this short video I demo some basic R and Bioconductor functions. The running example is differential... http://t.co/EGrhXccE
+207533095321219070,Tue May 29 18:05:20 +0000 2012,I will be posting my Statistics for Genomics lectures on youtube. The first is a basic intro to statistical... http://t.co/TLuAOQjU
+205336487280132100,Wed May 23 16:36:48 +0000 2012,Congratulations to Martin Aryee who has accepted a faculty  position in the pathology department at MGH/Harvard. We will miss him!
+204928319337136130,Tue May 22 13:34:53 +0000 2012,Congrats to Kasper Hansen, Ben Langmead and Margaret Taub who will be joining the faculty at JHU next fall in... http://t.co/p4zwNmRm
+204730932639445000,Tue May 22 00:30:32 +0000 2012,Congrats to Samara Kiihl for successfully defending her thesis last Thursday. Parabéns!
+197526004376416260,Wed May 02 03:20:43 +0000 2012,@NatureMagazine @simplystats By far worst part of my job: fixing data curated by folks with no data analysis experience. Please reconsider.
+185177625025724400,Thu Mar 29 01:32:40 +0000 2012,Ben Langmead featured in Nature Methods! http://t.co/sgqAY3Cy
+180121882446671870,Thu Mar 15 02:42:57 +0000 2012,Bump hunting paper just came out in Epigenetic's special issue of IJE http://t.co/Wypa3opP
+167287744236748800,Wed Feb 08 16:44:40 +0000 2012,Zhijin Wu's paper on removing GC bias from RNAseq finally out! http://t.co/XaiEe0MX
+164536279281836030,Wed Feb 01 02:31:20 +0000 2012,I'm giving a talk at UNC's Biostat department tomorrow Wed Feb 1. http://t.co/1EhnPrxO
+164096900683935740,Mon Jan 30 21:25:24 +0000 2012,IGM Faculty recruitment seminar: Kasper Hansen. Tuesday, 31 January 2 pm PCTB 517. "The structure of epigenetic... http://t.co/MlJr2OKJ
+159420479394947070,Tue Jan 17 23:42:58 +0000 2012,A couple of our papers are in the top 50 most cited articles in Bioinformatic http://t.co/qOp4W8Ck
+156367943914094600,Mon Jan 09 13:33:17 +0000 2012,Lieven's (our favorite visitor) paper is out! http://t.co/oeBnB0La
+155343777534451700,Fri Jan 06 17:43:37 +0000 2012,http://t.co/ji2zYAnQ http://t.co/ATXYQLDZ
+154289605892517900,Tue Jan 03 19:54:43 +0000 2012,Next speaker for the IGM seminar series will be Dr. Jonathan Pritchard, Ph.D.  from the University of Chicago.... http://t.co/XURQkNIc
+154286587583279100,Tue Jan 03 19:42:43 +0000 2012,RT @simplystats: Baltimore gun offenders and where academics don't live - Jeff recently posted links to data from cities and... http://t ...
+154285997511819260,Tue Jan 03 19:40:22 +0000 2012,@LSEImpactBlog check out our blog over at @simplystats
+152828529871032320,Fri Dec 30 19:08:55 +0000 2011,Andy Feinberg is quoted http://t.co/z0X243J9
+152109249785380860,Wed Dec 28 19:30:45 +0000 2011,Grad students in (bio)statistics - do a postdoc! http://t.co/5mXjtWfx
+146247988459741200,Mon Dec 12 15:20:12 +0000 2011,http://t.co/kLAcVppG
+145134907029598200,Fri Dec 09 13:37:12 +0000 2011,Interview w/ Mario Marazzi, Puerto Rico Institute of Statistics Director, on the importance of Government Statisticians http://t.co/CDdwEmAL
+139375894035832830,Wed Nov 23 16:12:57 +0000 2011,Word clouds! http://t.co/if77r2UH
+139171887195504640,Wed Nov 23 02:42:18 +0000 2011,Jeff's paper reviewed by Biotechniques http://t.co/hqrIxIRM
+137215226268483580,Thu Nov 17 17:07:13 +0000 2011,RT @simplystats: @rafalab Here are the @simplystats google scholar pages: http://t.co/Dje5ITkm, http://t.co/knTwI9ah, http://t.co/LoiYkBmD.
+137205617076084740,Thu Nov 17 16:29:02 +0000 2011,Google author profiles are now available. http://t.co/PIDakTdi
+136836088953184260,Wed Nov 16 16:00:40 +0000 2011,Recs for job interviews in stat/biostat departments  http://t.co/yOx9grGA
+136805095722590200,Wed Nov 16 13:57:31 +0000 2011,Abstract | ReCount: A multi-experiment resource of analysis-ready RNA-seq gene count datasets http://t.co/lFleZdaN
+136228940825112580,Mon Nov 14 23:48:05 +0000 2011,I posted a new photo to Facebook http://t.co/ZL13frMo
+135050419683598340,Fri Nov 11 17:45:03 +0000 2011,You can now follow the blog on facebook http://t.co/06nuZkal
+135046992819789820,Fri Nov 11 17:31:26 +0000 2011,Jeff's peer review paper is out. http://t.co/JUs2T2vc
+134649203556237310,Thu Nov 10 15:10:46 +0000 2011,@ATabarrok might find a plot of expected salary versus popularity of major interesting. http://t.co/IZkJYXps
+132460779826978820,Fri Nov 04 14:14:45 +0000 2011,Batch effect Bioconductor package released. Includes SVA and Combat. http://t.co/iNhq57C4
+131353151730229250,Tue Nov 01 12:53:26 +0000 2011,Advice on promotion letters bleg http://t.co/4Eb65rAu
+128499160533045250,Mon Oct 24 15:52:41 +0000 2011,Our package for illumina's 450K methylation array is on Bioconductor http://t.co/6bE9jkQK
+124486985455898620,Thu Oct 13 14:09:44 +0000 2011,Moneyball for Academic Institutes http://t.co/tXPUAonH
+123735115254865920,Tue Oct 11 12:22:05 +0000 2011,Authorship conventions http://t.co/acywMxkX
+123401484162441220,Mon Oct 10 14:16:21 +0000 2011,An R function to determine if you are a data scientist http://t.co/C6amwSIA
+123193488882933760,Mon Oct 10 00:29:51 +0000 2011,Hector and colleagues report on how to detect rare variants from pooled DNA samples http://t.co/GXubK1nZ
+119490101465202690,Thu Sep 29 19:13:54 +0000 2011,Hansen et al. highlighted by Cell http://t.co/tNNOtC8d
+119407283942858750,Thu Sep 29 13:44:49 +0000 2011,Statistical description of the #RedSox 's historical collapse http://t.co/XZWNG0qL
+118342788822741000,Mon Sep 26 15:14:54 +0000 2011,I posted 3 photos on Facebook in the album "Happy hours" http://t.co/37qxNNqb
+117263319072653310,Fri Sep 23 15:45:28 +0000 2011,Getting email responses from busy people http://t.co/UA6EUWYn
+116320837233152000,Wed Sep 21 01:20:23 +0000 2011,Make your own fRMA package: http://t.co/tXCedOkV
+114279365797351420,Thu Sep 15 10:08:18 +0000 2011,The economists has a nice summary article on the genomic signature saga http://t.co/vJdSyl9y
+113750059623006200,Tue Sep 13 23:05:02 +0000 2011,Enjoying conference on Epigenomics of Common Disease http://t.co/YtJ9cmp
+113747552926564350,Tue Sep 13 22:55:04 +0000 2011,I was asked to write-up my advice for statisticians going into job market. Here it is http://t.co/2tuvzfA

@@ -1,0 +1,1022 @@
+id,created_at,text
+1257916770381258800,Wed May 06 06:15:03 +0000 2020,@nicovasilache @rxwei @TensorFlow There was a lot of interest in TFRT and a push/priority to get the code public.… https://t.co/AdErOk6ItA
+1257821122327801900,Tue May 05 23:54:59 +0000 2020,@rxwei @TensorFlow Yeah, I'm also disappointed it wasn't included.  *shrug*
+1256050687328219100,Fri May 01 02:39:54 +0000 2020,@daniel_dunbar @ahl @acruiz Yes I am, it biases towards assuming people are competent instead of encouraging nit pi… https://t.co/CdFhyKfy43
+1255544603698057200,Wed Apr 29 17:08:55 +0000 2020,RT @TensorFlow: We are excited to announce the open sourcing of TFRT, a new TensorFlow runtime that is going to improve the performance, ex…
+1253510706059608000,Fri Apr 24 02:26:56 +0000 2020,RT @kasanovic: CACM article asks "Will RISC-V Revolutionize Computing?", but of course, the revolution is well under way.  #riscv  https://…
+1248828926572417000,Sat Apr 11 04:23:12 +0000 2020,RT @JeffDean: I'm very happy to see @Google &amp; @Apple partnering on technology to help w/ COVID-19 contact tracing.  Technology, coupled w/…
+1247571338367139800,Tue Apr 07 17:06:00 +0000 2020,RT @SiFive: A look at the SiFive Intelligence processor roadmap of VI2, VI7, and VI7 series processor cores, targeted from audio/voice proc…
+1247571249951203300,Tue Apr 07 17:05:39 +0000 2020,RT @SiFive: A @risc_v vector advantage: dynamically reconfigurable vector registers means the same binary machine code can run on any machi…
+1246528335980585000,Sat Apr 04 20:01:29 +0000 2020,The @code experience and ecosystem is amazingly great.  It's a such a well done and delightful IDE.
+1245738195561545700,Thu Apr 02 15:41:45 +0000 2020,RT @SiFive: Industry veteran, Shubham “Sam” Maheshwari, has joined the SiFive team as CFO to lead our financial operations and growth in su…
+1245479965874720800,Wed Apr 01 22:35:38 +0000 2020,Swift on Mac OS *9* and on PowerPC running at 400Mhz.  *boggle*.  Slow clap for @UINT_MIN! https://t.co/qINsp208Ku
+1245388889121943600,Wed Apr 01 16:33:44 +0000 2020,RT @twostraws: It’s April Fools day, and with the world as it is right now I figured folks in our community could use a little distraction…
+1243737510993211400,Sat Mar 28 03:11:44 +0000 2020,@stephen_r_hines Pretty easy - no bikes allowed!
+1243617415964979200,Fri Mar 27 19:14:31 +0000 2020,This is a package shed, and an example of a particularly cute package...  🎁 https://t.co/59UJu2d84E
+1243307828468543500,Thu Mar 26 22:44:20 +0000 2020,RT @atpfm: 371: Four-Letter Technologies https://t.co/GBHCUlejoz  A VERY nerdy technical interview with @clattner_llvm, and forgiving ourse…
+1243213537310195700,Thu Mar 26 16:29:39 +0000 2020,@azav @siracusa Learnings learnings learnings ;-)
+1243036461047279600,Thu Mar 26 04:46:01 +0000 2020,Miguel's discussion of his learnings playing with Swift and bringing ideas from multiple communities together is re… https://t.co/UFNcG17GAH
+1242875038669222000,Wed Mar 25 18:04:35 +0000 2020,RT @cavemanjim: New blog from @clattner_llvm about the @SiFive mission of accelerating Idea to Silicon.  https://t.co/Cu5CNDD6tT  #riscv #s…
+1242627366431547400,Wed Mar 25 01:40:25 +0000 2020,RT @SwiftLang: Swift 5.2 is now released!  https://t.co/bHWEapcznh
+1242627226421477400,Wed Mar 25 01:39:52 +0000 2020,RT @johnregehr: LLVM 10 is out https://t.co/C8x9Dqee45
+1241116483427557400,Fri Mar 20 21:36:43 +0000 2020,RT @JokerEph: Recording+slides from the #MLIR open meeting about TFRT - the new TensorFlow runtime are online! https://t.co/2l7oiP9sUs  Tha…
+1238242778594738200,Thu Mar 12 23:17:38 +0000 2020,RT @migueldeicaza: @gottesmang @jordanpittman @jckarter @praeclarum I only discovered that in the last few months, and yes, my mind has bee…
+1238079859865186300,Thu Mar 12 12:30:15 +0000 2020,A true labor of love: it is very exciting for this work to start becoming public.  I’m super proud of the team and… https://t.co/EcQHxKP722
+1237985342319284200,Thu Mar 12 06:14:40 +0000 2020,RT @TensorFlow: TensorFlow Runtime is a new runtime that leverages MLIR to provide a unified infrastructure layer across server and mobile…
+1237889585163559000,Wed Mar 11 23:54:10 +0000 2020,RT @zhangqiaorjc: A new unified Tensorflow runtime with best-in-class performance across a wide range of accelerators!   Will open source t…
+1237612801713004500,Wed Mar 11 05:34:20 +0000 2020,RT @jeremyphoward: As data scientists, we (with @math_rachel) have done our best to look at the data around covid-19, and what it means to…
+1232786831562825700,Wed Feb 26 21:57:39 +0000 2020,RT @KitBarton: I’m super excited to finally be able to talk about this! https://t.co/nk7C3nHsvu #llvm
+1232752180592951300,Wed Feb 26 19:39:57 +0000 2020,RT @JokerEph: 16 years later, @clattner_llvm is back at the #cgo conference to present a keynote on #MLIR with Tatiana! https://t.co/6qDds7…
+1232686537118122000,Wed Feb 26 15:19:07 +0000 2020,We aim for this to be the canonical citation for papers building interesting things using MLIR. https://t.co/dKO8UE1H8e
+1232105160807108600,Tue Feb 25 00:48:56 +0000 2020,RT @JokerEph: Lot of things going on in LLVM!  But also so many things going on the #MLIR ecosystem that we felt it is worth having a more…
+1231704500395626500,Sun Feb 23 22:16:51 +0000 2020,RT @JokerEph: Xilinx @ C4ML on compiling Pytorch operator to FPGAs : « #MLIR has been a gift for us » https://t.co/eYZcvUomB8
+1231693159182155800,Sun Feb 23 21:31:47 +0000 2020,RT @ahcohen: #C4ML #2 kicks off in San Diego, with Jacques Pienaar opening a series of great a academic and industry talks about ML+compile…
+1229229256451874800,Mon Feb 17 02:21:07 +0000 2020,IMO, the most important and transferable (to other domains) part of compilers is: the design, representation, valid… https://t.co/RNaRKA2N9P
+1227831859951751200,Thu Feb 13 05:48:22 +0000 2020,RT @stephentyrone: Periodic reminder that the Swift compiler is perfectly happy to inline C functions. You can even use intrinsics and inli…
+1227659205705793500,Wed Feb 12 18:22:18 +0000 2020,A really great update on cross platform support, many things in the Swift on Server community, and the benefits of… https://t.co/4N0CghPyOk
+1226690399579734000,Mon Feb 10 02:12:36 +0000 2020,Agreed, the conversation with @Jonathan_Blow was really great: the second half had many good points about programmi… https://t.co/unu4mS2q6J
+1224174193509462000,Mon Feb 03 03:34:06 +0000 2020,@RichEverts @jeremyphoward @Just_Janes I recommend reading the forward I wrote for https://t.co/05lfQzgKnE - Rust a… https://t.co/eOrhJgvNeY
+1224151115886780400,Mon Feb 03 02:02:24 +0000 2020,@RichEverts @jeremyphoward Do you have a specific question?  Rust is a great language and I have lots of thoughts o… https://t.co/DtCJog1twX
+1224125737755529200,Mon Feb 03 00:21:33 +0000 2020,Nice to see Swift continue its fast growth - interesting that Swift, C and C++ are the only traditionally staticall… https://t.co/0tfFSG2AU5
+1222225965733929000,Tue Jan 28 18:32:32 +0000 2020,RT @SiFive: Our new SVP of Platform Engineering @clattner_llvm shares why he’s excited to join the SiFive team and what he hopes to accompl…
+1222033417551765500,Tue Jan 28 05:47:25 +0000 2020,RT @JeffDean: @clattner_llvm Indeed!  Thanks for your hard work and for setting several important projects on good paths!  We wish you the…
+1222032740897284000,Tue Jan 28 05:44:44 +0000 2020,Sigh internet🧐. Clarifying: all of the projects I was involved in &amp; driving at Google (incl. S4TF, MLIR, an incredi… https://t.co/zJJGZCo06c
+1221824735484362800,Mon Jan 27 15:58:12 +0000 2020,I am super excited to join @SiFive today, leading the software team that builds tooling to enable 'silicon at the s… https://t.co/HRdyrHvGiT
+1221815924723867600,Mon Jan 27 15:23:11 +0000 2020,RT @SiFive: We’re thrilled to welcome @clattner_llvm to lead SiFive Platform Engineering as SVP. Chris brings more than 15 years of experie…
+1220373463510110200,Thu Jan 23 15:51:21 +0000 2020,RT @Inoryy: Have you ever wondered what will be the ML frameworks of the '20s? In this essay, I examine the directions AI research might ta…
+1220211116229312500,Thu Jan 23 05:06:15 +0000 2020,Excited to be sharing some Thoughts on Tensor Code Generation in MLIR, tomorrow at 10am pacific at the weekly MLIR… https://t.co/cLhHpRBeJK
+1220195645664874500,Thu Jan 23 04:04:46 +0000 2020,@rxwei Haha, you’re right: these are /differentiating/ features of swift’s design, /integral/ to its success in ML/… https://t.co/BFdLDytLSI
+1220188802745913300,Thu Jan 23 03:37:35 +0000 2020,This is a profound and inspiring vision for Swift 6: multi platform investment, concurrency, move semantics, rust-s… https://t.co/LaM6SbdpTB
+1218424652726296600,Sat Jan 18 06:47:29 +0000 2020,@alblue Resawed the sides down to a bit less than 1/2” on bandsaw+planer, box joints cut with incrajig+router.  The… https://t.co/w4jn4rTvQ1
+1218420257607438300,Sat Jan 18 06:30:01 +0000 2020,Construction progress, plus sock holder 🐶 for inspiration https://t.co/oU8tt3PwYF
+1218414028625592300,Sat Jan 18 06:05:16 +0000 2020,Finished Riley’s treasure box for Xmas: 🦓 wood, sapelle &amp; bamboo, an experiment with rounded box joint corners. https://t.co/UzUi6ZthwU
+1217696591340961800,Thu Jan 16 06:34:25 +0000 2020,It's apparently the day when I point out why "if you ignore the engineering expense, it would clearly make sense to… https://t.co/R2Y9TgMadE
+1217224795512664000,Tue Jan 14 23:19:40 +0000 2020,RT @twostraws: 🎉 I am so proud to announce that Swift for Good: Volume One is out now, with incredible contributions from folks around the…
+1216960228995944400,Tue Jan 14 05:48:23 +0000 2020,RT @twostraws: I'm spending my evening doing the final Swift for Good editing pass ahead of release tomorrow. When @clattner_llvm opens the…
+1216499737513193500,Sun Jan 12 23:18:33 +0000 2020,RT @aldrago: Swift is used on Apple devices, servers, in machine learning... now, let's make it a thing on bare metal!  Excited to open sou…
+1216238710716395500,Sun Jan 12 06:01:19 +0000 2020,This is such great work. LLDB integrating with modules is a long term dream - the debugger should be able to see "a… https://t.co/IKdI1J9DV9
+1216229845702627300,Sun Jan 12 05:26:06 +0000 2020,@johnregehr @trav_downs @onemanmmo @kenpex As @trav_downs points out in https://t.co/Mnh2nGRXPk LLVM has some serio… https://t.co/S3TWPpK5We
+1216226315130376200,Sun Jan 12 05:12:04 +0000 2020,@johnregehr @trav_downs @onemanmmo @kenpex Yep, this "exactly" drove it.  I resisted adding this for quite some tim… https://t.co/fw51uXhIgA
+1216222586859712500,Sun Jan 12 04:57:15 +0000 2020,@trav_downs @onemanmmo @kenpex Random factoid, but non-power of two pointer differences (x-y) would generate much w… https://t.co/9EKZh1SJoU
+1215521865281626000,Fri Jan 10 06:32:50 +0000 2020,RT @JacopoMangia: Hacking #Swift for #TensorFlow with #CoreML to enable distributed training.  Hacking towards a Swift Federated Learning s…
+1209507177620107300,Tue Dec 24 16:12:37 +0000 2019,RT @llvmweekly: The MLIR project has now been imported into the LLVM monorepo https://t.co/6mMY8fuQ0p See here for more info on MLIR https:…
+1209205319202562000,Mon Dec 23 20:13:08 +0000 2019,RT @bsaeta: You can now create new blank Swift Colab notebooks by going to https://t.co/8eLsMgx3N3 just like other languages!  (Spotted by…
+1207692386505126000,Thu Dec 19 16:01:17 +0000 2019,RT @DaveAbrahams: So it's official: I'll be joining old friends and new at Google, on the Swift for TensorFlow team (https://t.co/aWVkbqVkJ…
+1206039411902664700,Sun Dec 15 02:32:57 +0000 2019,@TheRevAlokSingh I’m sorry I missed you!  Please do say hi next time :-)
+1205296124803702800,Fri Dec 13 01:19:24 +0000 2019,Excited to be heading to Neurips!  ✈️
+1202643185295511600,Thu Dec 05 17:37:34 +0000 2019,RT @rickwierenga: It's super exciting to be a part of this competition! My first task was to code something using #S4TF and I decided to wr…
+1201539502981800000,Mon Dec 02 16:31:55 +0000 2019,RT @jeremyphoward: I've been working with @GuggerSylvain for a long time to create something that combines the best of @ProjectJupyter Note…
+1200448889087594500,Fri Nov 29 16:18:13 +0000 2019,RT @Rahul_Bhalley: Just begun moderating a new #subreddit on #reddit for #S4TF. Join in and let’s make it a better place for deep discussio…
+1198006170797035500,Fri Nov 22 22:31:43 +0000 2019,RT @bradlarson: The first release candidate of Swift for TensorFlow version 0.6 is now publicly available: https://t.co/i8SiQsR2el . Colab…
+1192982129879072800,Sat Nov 09 01:47:58 +0000 2019,RT @Gankra_: How Swift Achieved Dynamic Linking Where Rust Couldn't  A look at what's required to ship a dynamically linked system interfac…
+1187418087361921000,Thu Oct 24 17:18:27 +0000 2019,RT @migueldeicaza: The generated code for this gives me hope for future of humanity. https://t.co/PUKQULQqCX
+1186724297617756200,Tue Oct 22 19:21:35 +0000 2019,RT @llvmorg: MLIR meets LLVM roundtable is maxing out the room. Might need a bigger room next year. Welcome MLIR to the LLVM project! #LLVM…
+1186389669086261200,Mon Oct 21 21:11:53 +0000 2019,RT @chandlerc1024: Really excited as the LLVM Women in Compilers and Tools workshop kicks off with @aprilwensel !!!! https://t.co/KVz8wXABSB
+1186387741791019000,Mon Oct 21 21:04:14 +0000 2019,RT @bsaeta: The #S4TF team is collaborating with @tkremenek and the core #SwiftLang team to upstream language-integrated automatic differen…
+1184844134198075400,Thu Oct 17 14:50:29 +0000 2019,RT @sanad_maker: @SwiftLang is a very exciting language that is really fast (almost like C) amazingly simple to start with!!  Inspired by @…
+1182528997835432000,Fri Oct 11 05:30:58 +0000 2019,RT @tonic888: It’s hard to take a stand and raise your voice but it’s important for all those that couldn’t. ❤️ https://t.co/kcvclwmDff
+1181665932990505000,Tue Oct 08 20:21:27 +0000 2019,RT @TensorFlowWorld: Don't miss @clattner_llvm and Tatiana Shpeisman at #TFWorld on Oct 31 as they explain how MLIR, #TensorFlow’s open sou…
+1181640499309924400,Tue Oct 08 18:40:23 +0000 2019,RT @johnsundell: On this brand new podcast episode, I talk to @DynamicWebPaige and @bsaeta about how their team at Google is adopting and a…
+1181422439542079500,Tue Oct 08 04:13:54 +0000 2019,RT @DynamicWebPaige: ICYMI:  You can learn all about Tensors Fitting Perfectly by:  watching the design review (https://t.co/Y5hKL0Zl8k)  r…
+1180614183429132300,Sat Oct 05 22:42:10 +0000 2019,Increased diversity in compilers and tools is a huge opportunity - this area is exploding in importance as we stand… https://t.co/cVucdJYLca
+1179902794112782300,Thu Oct 03 23:35:22 +0000 2019,RT @llvmorg: Have you gotten your tickets to the WICT Workshop? Open to ALL who are interested in increasing diversity and inclusions with…
+1178757226107830300,Mon Sep 30 19:43:17 +0000 2019,RT @random_forests: TensorFlow 2.0 has been released! Congrats everyone, and thanks for making this possible.  Release notes: https://t.co/…
+1178685731213983700,Mon Sep 30 14:59:11 +0000 2019,RT @johnsundell: The next episode of the @swiftbysundell podcast will be all about Machine Learning! 🤖 And I’m super excited to announce th…
+1175623604169560000,Sun Sep 22 04:11:23 +0000 2019,RT @page_eco: Fascinating: Moore’s Law predictions vs actual growth in transistor count.  by @datagrapha https://t.co/zuI86EntTa https://t.…
+1174690616787255300,Thu Sep 19 14:24:02 +0000 2019,RT @vguerra: Recording of @SwiftLang  as syntactic sugar for #mlir talk from @eugene_burmako and Alex Suhan at @sfscala is now up! https://…
+1174186497911771100,Wed Sep 18 05:00:51 +0000 2019,@TimTr @tonic888 Sorry, it is a 🐶 thing
+1174186212527104000,Wed Sep 18 04:59:43 +0000 2019,This seems completely implausible, right @timtr and @tonic888 ?    https://t.co/nMNAdW6m1w
+1171284005565563000,Tue Sep 10 04:47:22 +0000 2019,RT @jeremyphoward: This is huge!  For a deep dive into the why's and how's of Swift and MLIR in deep learning, check out these lessons I co…
+1171283967263117300,Tue Sep 10 04:47:13 +0000 2019,RT @edd: Machine learning is reshaping both silicon and compilers. Super excited at where MLIR is headed https://t.co/SJrcGci0fE (PS. You c…
+1171265335434989600,Tue Sep 10 03:33:11 +0000 2019,RT @DynamicWebPaige: @Google "Today, we’re announcing that we’re contributing MLIR to the nonprofit LLVM Foundation. This will enable even…
+1171109726777565200,Mon Sep 09 17:14:51 +0000 2019,RT @sundarpichai: In April, we open-sourced MLIR, which enables machine learning models to be consistently represented &amp; executed on hardwa…
+1170010228756111400,Fri Sep 06 16:25:50 +0000 2019,@pcwalton @jckarter @whitequark @mcclure111 One thing to remember: objc_msgSend does a tail call (ie indirect jump)… https://t.co/nRbagEbNfr
+1169477857908707300,Thu Sep 05 05:10:23 +0000 2019,So simple, so true: "Indirect knowledge only works in your favor when it’s coupled with reason."  I'm sorry for fol… https://t.co/mNRuyJe6pW
+1169409383043752000,Thu Sep 05 00:38:18 +0000 2019,RT @thom_mackey: Highly recommend this notebook from https://t.co/KwewpbMpuR classmate @jamrdell, going through the https://t.co/KwewpbMpuR…
+1169267802437324800,Wed Sep 04 15:15:42 +0000 2019,RT @llvmorg: Announcing the 2019 LLVM Developers' Meeting Program! https://t.co/vQDW3X4yDP
+1168537251569008600,Mon Sep 02 14:52:45 +0000 2019,RT @DynamicWebPaige: Hey, internet: just in case you're not one of those engineers who hears "Hey, compilers!" and comes running delightedl…
+1166408237446385700,Tue Aug 27 17:52:49 +0000 2019,RT @bsaeta: @jekbradbury and I and others have built a #SwiftLang for @TensorFlow port that is also included in the release. To find out mo…
+1164720487970177000,Fri Aug 23 02:06:18 +0000 2019,RT @jeremyphoward: Tomorrow (Fri 23rd) morning at 9a pacific I'll be presenting at the Swift for @TensorFlow open design discussion. The to…
+1162417205042020400,Fri Aug 16 17:33:53 +0000 2019,RT @choongng: I've recently started tinkering with Swift for TensorFlow, it's really promising. S4TF is a project to merge the perf and erg…
+1159507156367900700,Thu Aug 08 16:50:23 +0000 2019,RT @HaydenHolligan: Apple released AP Computer Science Principles in Swift!! Yay access to education https://t.co/A2nzF30dW5
+1158913994909864000,Wed Aug 07 01:33:22 +0000 2019,RT @jeremyphoward: Once you've read this, you'll understand why I'm so excited about the Swift/MLIR combination. :) https://t.co/D5vPWpUb85
+1158864377748967400,Tue Aug 06 22:16:12 +0000 2019,RT @dimvar: Compiler Twitter! Would you like to compile machine learning models that run on TPUs? We are hiring! The project is as exciting…
+1157330522638413800,Fri Aug 02 16:41:13 +0000 2019,RT @DynamicWebPaige: Howdy, internet! 👋   I have a question: why isn't there a #SwiftLang community for underrepresented groups in tech? Or…
+1155608966124068900,Sun Jul 28 22:40:22 +0000 2019,It feels like the entire field of compilers is built on algorithms pioneered by Robert Tarjan.  Among other things,… https://t.co/QimcG8dDUW
+1154998583122256000,Sat Jul 27 06:14:55 +0000 2019,RT @jeremyphoward: Nothing to see here. Just a regular Swift class extension. Except that... The class it's extending was implemented in C+…
+1154915344709931000,Sat Jul 27 00:44:10 +0000 2019,RT @julien_c: @OpenAI @LysandreJik @huggingface @mhollemans @EliotAndres @AlecRad @Miles_Brundage @jackclarkSF @jeremyphoward @GuggerSylvai…
+1154778141270794200,Fri Jul 26 15:38:58 +0000 2019,RT @julien_c: 🦄 We ported @openai's GPT-2 to run on-device (using Swift and CoreML on iOS) 🔥🔥  Large transformers models can now live on th…
+1154184911328170000,Thu Jul 25 00:21:41 +0000 2019,RT @Smerity: As someone who has loved Python for an eternity I think Python has silently entered Ouroboros mode. I don't think the eventual…
+1153335754552037400,Mon Jul 22 16:07:26 +0000 2019,RT @DynamicWebPaige: #SwiftLang kernels are supported in @ProjectJupyter notebooks (google/swift-jupyter), and all of our Swift for @Tensor…
+1152992923765502000,Sun Jul 21 17:25:09 +0000 2019,RT @trishume: I wrote an article that gives a tour of how different languages implement generics, and how those methods can be extended in…
+1152787444665765900,Sun Jul 21 03:48:39 +0000 2019,RT @hn_frontpage: Intel Prepares to Graft Google’s Bfloat16 onto Processors L: https://t.co/BoScobEgMP C: https://t.co/OZRzTEG5TP
+1151545392430850000,Wed Jul 17 17:33:10 +0000 2019,Very excited for the first fully open MLIR design meeting tomorrow at 10am Pacific. Please feel free to join the vi… https://t.co/ocjwtJEt92
+1151241065204109300,Tue Jul 16 21:23:53 +0000 2019,RT @TensorFlow: Help us improve #TensorFlow!   If you’d like to contribute, take our TensorFlow ecosystem survey. At the end of the survey,…
+1150992534585270300,Tue Jul 16 04:56:19 +0000 2019,@JDevlieghere @bessarabov @Linus__Torvalds @kraih @rob_pike @bradfitz @rasmus @gvanrossum I suspect that you could… https://t.co/MfkDYm7Poa
+1150992062365311000,Tue Jul 16 04:54:26 +0000 2019,@JDevlieghere @bessarabov @Linus__Torvalds @kraih @rob_pike @bradfitz @rasmus @gvanrossum Agreed, I think… https://t.co/esXxD4EezV
+1150784373546819600,Mon Jul 15 15:09:09 +0000 2019,I often write code in the evenings so I can spend most of the day working with people.  Rationale: “10x” leaders re… https://t.co/cdSvOhCGqb
+1149473150154838000,Fri Jul 12 00:18:49 +0000 2019,RT @edd: Very exciting @TensorFlow community news: we're forming SIG MLIR to form a strong engineering-driven open community, with weekly o…
+1149033050895818800,Wed Jul 10 19:10:01 +0000 2019,Very excited to see @googlecloud TPUs hitting their stride with incredible performance and scale.  MLPerf 0.6 shows… https://t.co/blefnzjjVb
+1147161661259673600,Fri Jul 05 15:13:47 +0000 2019,@digitalfx_ @slava_pestov The S4TF team’s work on C++ interop is being developed directly on swift master, gated un… https://t.co/dlideaoK8H
+1146575191142588400,Thu Jul 04 00:23:22 +0000 2019,RT @slava_pestov: Wow, looks like the Swift-TensorFlow folks are working on C++ interoperability: https://t.co/PCWZjzaiJH
+1146160891496296400,Tue Jul 02 20:57:05 +0000 2019,RT @rxwei: Sequential coming to Swift for TensorFlow via function builders :) cc @eaplatanios https://t.co/7Ca0BX71tO https://t.co/yldZcYdm…
+1145787562746765300,Mon Jul 01 20:13:37 +0000 2019,MLIR open source has reached a new milestone: the tensorflow/tensorflow repo changes are now open source, and the p… https://t.co/2FQEpFAufv
+1144713115692494800,Fri Jun 28 21:04:09 +0000 2019,RT @TensorFlow: Swift for TensorFlow is delighted to announce its v0.4 release, as well as video lectures co-taught by @clattner_llvm and @…
+1144713090983841800,Fri Jun 28 21:04:03 +0000 2019,RT @rxwei: The Swift Differentiable Programming slides that @dancherp and I presented at the Probablistic &amp; Differentiable Programming Summ…
+1144711732343951400,Fri Jun 28 20:58:39 +0000 2019,RT @math_rachel: Also, I highly recommend the @clattner_llvm Swift lessons, even if you're not interested in Swift. They contain a lot of u…
+1144643929070960600,Fri Jun 28 16:29:13 +0000 2019,RT @jeremyphoward: Thank you everyone for your patience - our new deep learning MOOC is here! Includes 5 lessons diving into the foundation…
+1142632904981274600,Sun Jun 23 03:18:08 +0000 2019,RT @jeremyphoward: Would you like to train xresnet using 1cycle training on Imagenette, using fastai and the data blocks API?  IN SWIFT?!?…
+1142122828893790200,Fri Jun 21 17:31:16 +0000 2019,RT @jeremyphoward: Just announced in the Swift design meeting: https://t.co/GEOZuodrZj's new course "Deep Learning From The Foundations" (i…
+1141953308967358500,Fri Jun 21 06:17:39 +0000 2019,@jckarter You’re joking, but serious answer: not everything returns an int or pointer. Some things return floats in… https://t.co/frH0WzdZcI
+1141815173486768100,Thu Jun 20 21:08:45 +0000 2019,RT @johnsundell: The 50th episode of the @swiftbysundell podcast is out! 🎉😀  @clattner_llvm joins me to talk about Swift’s past, present &amp;…
+1139584544284131300,Fri Jun 14 17:25:02 +0000 2019,RT @bsaeta: Thank you all for joining the first design meeting for #S4TF today! Notes are available in the doc (https://t.co/iYm2ztoL1r) an…
+1139584414826946600,Fri Jun 14 17:24:31 +0000 2019,RT @thom_mackey: Slides and audio of my S4TF talk are up (already! Thanks @melbournecocoa). A bumbling student user’s view of @clattner_llv…
+1139340919616884700,Fri Jun 14 01:16:57 +0000 2019,RT @rxwei: Taking differentiable programming one step closer to Swift Evolution, I wrote a Swift differentiable programming design overview…
+1139335430422138900,Fri Jun 14 00:55:09 +0000 2019,S4TF design discussion are fully open to the public, starting tomorrow with our first meeting / video chat! https://t.co/SzGmSecWuh
+1139335025676079100,Fri Jun 14 00:53:32 +0000 2019,RT @zaidalyafeai: Check my tutorials for Swift For TensorFlow all in @GoogleColab   https://t.co/sissjGm8Xp https://t.co/cEBP7qb2A6
+1139013473453535200,Thu Jun 13 03:35:48 +0000 2019,@bernaferrari @dgregor79 @jckarter @mpweiher I love how much he's complaining about fortran, when it already got al… https://t.co/qHHzFfGgc5
+1137905368237977600,Mon Jun 10 02:12:35 +0000 2019,@smenor @tkremenek Check out the recent “function builder” proposal on swift evolution.  With a bit of iteration it… https://t.co/4DQujdD4PU
+1137861337998958600,Sun Jun 09 23:17:38 +0000 2019,RT @brentsimmons: The NeXT Era Ends, the Swift Era Begins: https://t.co/Y44nJr2tpK
+1137818796570243100,Sun Jun 09 20:28:35 +0000 2019,RT @bsaeta: Really neat demonstration of Swift + ML: a Swift NIO-based OpenAI GPT-2 server using #S4TF: https://t.co/GOtV5pqN9K Great work…
+1137814405310079000,Sun Jun 09 20:11:08 +0000 2019,RT @Rahul_Bhalley: I recently open sourced my #swiftfortensorflow implementation of Wasserstein #gan on GitHub: https://t.co/c15Eu94tSe I a…
+1137053515971350500,Fri Jun 07 17:47:38 +0000 2019,RT @TensorFlow: The release of the Beta for TensorFlow 2.0 is here! We've closed over 100 issues you reported against the alpha release. Yo…
+1137001239638450200,Fri Jun 07 14:19:54 +0000 2019,RT @DynamicWebPaige: 📢 IMPORTANT LIFE EVENT: ✨  Am delighted to announce that I've started a 100%, full-time rotation as product manager fo…
+1137001171988566000,Fri Jun 07 14:19:38 +0000 2019,RT @bsaeta: I'm going to be at try! Swift San Jose tomorrow with the rest of the team (including @DynamicWebPaige @clattner_llvm @rxwei and…
+1135554823883874300,Mon Jun 03 14:32:22 +0000 2019,RT @DynamicWebPaige: ✨🙌 The @SwiftLang for @TensorFlow team is excited to head to #TrySwift this Friday! Anyone else going to be around? #S…
+1134612571695095800,Sat Jun 01 00:08:11 +0000 2019,@ChiefScientist @SwiftLang TSPL is an amazing free online book: https://t.co/8iC1EhsSGy available in epub and other… https://t.co/OEuDkJSvcy
+1134240314367987700,Thu May 30 23:28:58 +0000 2019,I love how Andrew instigated and made this whole episode happen, furthering his goal to learn and get involved in t… https://t.co/zfqnk63UrK
+1134105925768233000,Thu May 30 14:34:58 +0000 2019,@ChrisMSimpson @migueldeicaza I don't really know, because I haven't really explored it in depth.  It is very  "pos… https://t.co/6xGgBtjUdC
+1133583044940509200,Wed May 29 03:57:13 +0000 2019,Pretty amazing how far @programmer made it in his weekend hackfest, apparently learning TensorFlow, iOS dev, Swift… https://t.co/7Qhssi7FFq
+1133383635581583400,Tue May 28 14:44:50 +0000 2019,RT @TensorFlow: In our recent episode of TensorFlow Meets, @lmoroney talks with @SwiftLang creator @clattner_llvm. Using deep learning and…
+1133031205832499200,Mon May 27 15:24:24 +0000 2019,RT @max_pechyonkin: If you are into deep learning, then Swift is a language you should probably start learning. Learn why in this post that…
+1129801033469681700,Sat May 18 17:28:51 +0000 2019,@stroughtonsmith @atpfm It’s absolutely true that bitcode can’t paper over memory layout or certain calling convent… https://t.co/EotJ9Y4Iv9
+1129596326591656000,Sat May 18 03:55:25 +0000 2019,RT @zaidalyafeai: Lesson 5: Deep Dream implementation using Swift for TensorFlow.   Colab: https://t.co/D7kw74nGy9 https://t.co/Tzwn0DuIcf
+1129528261254377500,Fri May 17 23:24:57 +0000 2019,@stroughtonsmith @vashpan @atpfm xref Apple Watch: https://t.co/6lZJMvOrmE
+1128013851184619500,Mon May 13 19:07:14 +0000 2019,RT @wilshipley: @clattner_llvm You and Lex yacced about compilers‽
+1127974416057389000,Mon May 13 16:30:32 +0000 2019,Only Lex could take the discussion through a whole lot of compiler geekery (llvm, gcc, clang, mlir), some of the in… https://t.co/rvM0OxwLg9
+1127674196266324000,Sun May 12 20:37:34 +0000 2019,Very excited for the four GSOC projects working on S4TF this summer, as well as the huge progress in the 0.3.1 rele… https://t.co/rVnlaJWrz8
+1127233812813889500,Sat May 11 15:27:38 +0000 2019,RT @zhuowei: You can now compile Swift to WebAssembly to run on the Web. Try it right now in your browser at https://t.co/X8sMd5mtPr! Want…
+1126330242912546800,Thu May 09 03:37:10 +0000 2019,RT @leoxlzhao: @rxwei For people who want to watch later. It is not available via live steam. Here is the link to the actual session video…
+1126148728501358600,Wed May 08 15:35:54 +0000 2019,RT @TensorFlow: Swift for TensorFlow is a next generation platform for ML, bringing together deep neural networks with traditional software…
+1125894917245419500,Tue May 07 22:47:21 +0000 2019,RT @JeffDean: TPU Pods are the hardware we use at @GoogleAI for much of our research and production ML models for things like BERT, large-s…
+1125866485727936500,Tue May 07 20:54:22 +0000 2019,RT @exploreml: @GCPcloud #TPU Pods help you train and serve your models at scale (just as @OpenAI does), with both cost efficiency and spee…
+1124455204739436500,Fri May 03 23:26:26 +0000 2019,Great work, super exciting to see this and a great explanation of the overall algorithm all in one place! https://t.co/PwIj1L2GmA
+1122575903815376900,Sun Apr 28 18:58:46 +0000 2019,@_nonsensation Yep, slides and videos are available here: https://t.co/wUy7chziSF
+1121958962016993300,Sat Apr 27 02:07:16 +0000 2019,RT @jckarter: @cocoaphony @_goluxo @alexisgallagher Value semantics mutation is just syntax sugar over immutability
+1121838469020405800,Fri Apr 26 18:08:28 +0000 2019,RT @JokerEph: The videos and slides for the keynote and the tutorial at EuroLLVM on MLIR, our compiler infrastructure project, are now onli…
+1121595467136061400,Fri Apr 26 02:02:52 +0000 2019,The video of the unveil of the Google MLIR compiler infrastructure is now available.  It was a lot of fun getting t… https://t.co/9WpxRWLblJ
+1121278344459239400,Thu Apr 25 05:02:44 +0000 2019,RT @alexisgallagher: It’s happening! Swift meets ML in @fastdotai, where @jeremyphoward have teamed up with @clattner_llvm to build a (I’m)…
+1121150122023243800,Wed Apr 24 20:33:13 +0000 2019,RT @exploreml: Learn how to use @DeepLab v3+ and Mask R-CNN to perform image segmentation at high speed on @GCPcloud  TPUs and in @GoogleCo…
+1120932741682360300,Wed Apr 24 06:09:26 +0000 2019,@jdrch @alexisgallagher @fastdotai @jeremyphoward The entire talk was on a windows machine working on jupyter noteb… https://t.co/LHUqew8cYH
+1120931549552099300,Wed Apr 24 06:04:41 +0000 2019,RT @alexisgallagher: @fastdotai @jeremyphoward @clattner_llvm One virtue of Swift is interoperates well with Python, so you can still use t…
+1120524831974416400,Tue Apr 23 03:08:32 +0000 2019,RT @remykarem: Non-OOP non-optimised functional-style linear regression with backpropagation just to get myself started with Swift. Motivat…
+1119626590546088000,Sat Apr 20 15:39:15 +0000 2019,@amqdn Hi Andrew, I think you’ll find it interesting!  We are presenting from Jeremy’s standard config: a windows m… https://t.co/hCUnZJgOzk
+1119415472053555200,Sat Apr 20 01:40:20 +0000 2019,Hear Jeremy talk about how he sees Swift and the ML community evolve in this great teaser for the courses that star… https://t.co/yP1BJAXPfg
+1118978420493262800,Thu Apr 18 20:43:39 +0000 2019,RT @theswiftpodcast: Episode 4! This episode was 99% open source and community driven 👏🏽👏🏽👏🏽 https://t.co/vTqymL8iEV
+1118911876119666700,Thu Apr 18 16:19:14 +0000 2019,RT @jeremyphoward: @clattner_llvm @migueldeicaza @math_rachel @DataInstituteSF They're live streamed to https://t.co/GEOZuodrZj internation…
+1118904763628658700,Thu Apr 18 15:50:58 +0000 2019,RT @TensorFlow: Learn about the new @fastdotai library using Swift for #TensorFlow directly from @JeremyPHoward &amp; @clattner_llvm at this up…
+1118745811850948600,Thu Apr 18 05:19:21 +0000 2019,@migueldeicaza @math_rachel @jeremyphoward @DataInstituteSF My understanding is that the courses are live streamed… https://t.co/eoh3Bhy7qR
+1118674874405249000,Thu Apr 18 00:37:28 +0000 2019,RT @DataInstituteSF: We are excited to open registration for the https://t.co/SQEFttrbMH Swift for TensorFlow Workshop w/ @jeremyphoward an…
+1117850308690923500,Mon Apr 15 18:00:56 +0000 2019,RT @dgregor79: #SwiftLang property delegates are up for review: https://t.co/64ViNJl0go
+1117809969737261000,Mon Apr 15 15:20:39 +0000 2019,@PrannayKhosla @jeremyphoward Yes it was recorded, but it isn’t published yet. Stay tuned, it will hopefully be out in a week or two.
+1117539775051812900,Sun Apr 14 21:26:59 +0000 2019,@tonic888 Very sad to lose Zoey yesterday, our first four legged family member.  😢😢🐶
+1117487644479328300,Sun Apr 14 17:59:51 +0000 2019,@cocoaphony We really really need defaulted type parameters for generics!
+1117182513871331300,Sat Apr 13 21:47:22 +0000 2019,RT @jeremyphoward: Loads of new information in this just-published talk on MLIR from @clattner_llvm and Tatiana Shpeisman.  But *this* is t…
+1116510453117513700,Fri Apr 12 01:16:50 +0000 2019,RT @jamrdell: Excited for the upcoming #swiftfortensorflow lessons in the latest @fastdotai course! Tutorial @GoogleColab notebooks at http…
+1115591198452797400,Tue Apr 09 12:24:03 +0000 2019,RT @ahcohen: Full room at #llvm Europe for the first #MLIR tutorial. Congrats @JokerEph Nicolas Vasilache and Alex Zinenko for this amazing…
+1115498918010392600,Tue Apr 09 06:17:21 +0000 2019,RT @rxwei: Swift for TensorFlow weekly newsletters are super useful for getting up to date with Swift for TensorFlow’s latest development.…
+1115360584567017500,Mon Apr 08 21:07:40 +0000 2019,RT @TensorFlow: MLIR is a new compiler framework designed to optimize the execution time of #machinelearning models and make it easier to a…
+1114049745880793100,Fri Apr 05 06:18:52 +0000 2019,@jckarter Open secret: MLIR has so many possible expansions as an overreaction to LLVM, which only has one expansio… https://t.co/J4WbAFLpjR
+1114040943181738000,Fri Apr 05 05:43:53 +0000 2019,RT @clattner_llvm: @thecapeador @reidmain +1, the free @fastdotai courses are consistently exceptional.  Focused on the nuts and bolts of p…
+1114040690961416200,Fri Apr 05 05:42:53 +0000 2019,@thecapeador @reidmain +1, the free @fastdotai courses are consistently exceptional.  Focused on the nuts and bolts… https://t.co/997YVmTW9M
+1113889147914080300,Thu Apr 04 19:40:42 +0000 2019,Google Brain is hiring! We're continuing to look for exceptional compiler engineers, and Swift developers who are M… https://t.co/m0yFz43btB
+1113882249076838400,Thu Apr 04 19:13:17 +0000 2019,RT @twostraws: I absolutely love this new initiative from @DeafCanCode: https://t.co/XkGsldX7eO – not only will teaching through sign langu…
+1113689815575408600,Thu Apr 04 06:28:38 +0000 2019,@AtluriAditya @JokerEph The ability to define a matmul doesn’t preclude it from being lowered from a primitive.  ML… https://t.co/okgGUvvMAi
+1113483287991857200,Wed Apr 03 16:47:58 +0000 2019,RT @JokerEph: The Google MLIR team is happy to release MLIR Core as open source: a new multi-level IR compiler framework! Check it out: htt…
+1109270283163099100,Sat Mar 23 01:46:59 +0000 2019,RT @migueldeicaza: The amazing @praeclarum wrote an LLVM to IL compiler so he could stop shipping native libraries.    And later he measure…
+1108944615103582200,Fri Mar 22 04:12:54 +0000 2019,🤯🤯Memory composting as a way to combat malware.  I did not see this coming  - hopefully more systems software adopt… https://t.co/xxk7wIQQs5
+1108224686519783400,Wed Mar 20 04:32:09 +0000 2019,RT @c_cadar: Excited to announce KLEE 2.0! Includes better C++ support, compatibility w/ recent LLVM, integration of CVC4/Yices2, improved…
+1108224345766129700,Wed Mar 20 04:30:48 +0000 2019,@johnregehr C-- is a lot better than LLVM in some ways, including its "span" abstraction which makes accurate GC an… https://t.co/blzNUFv27t
+1107897464130953200,Tue Mar 19 06:51:53 +0000 2019,RT @alexisgallagher: “I’ve been wanting for over 20 years for a good numerical programming language by someone who understands programming…
+1107108313748037600,Sun Mar 17 02:36:05 +0000 2019,RT @rxwei: New documentation about how differentiable programming works in Swift: • Differentiable Functions and Differentiation APIs: http…
+1106400174379696100,Fri Mar 15 03:42:12 +0000 2019,@kafr0ck @tonic888 Seriously, it is true - and it is amazing she has survived me this long.  The only explanation i… https://t.co/o0ETxLFNPv
+1106399331970539500,Fri Mar 15 03:38:51 +0000 2019,RT @clattner_llvm: @tonic888 Documentation can be one of the most impactful things in a project.  I credit the kaleidoscope tutorial with a…
+1106263325245988900,Thu Mar 14 18:38:24 +0000 2019,@tonic888 Documentation can be one of the most impactful things in a project.  I credit the kaleidoscope tutorial w… https://t.co/dXiLymcgOU
+1106214935976005600,Thu Mar 14 15:26:07 +0000 2019,@Scrollwheelie I pronounce tuple like Tulip
+1104602800309207000,Sun Mar 10 04:40:04 +0000 2019,@PMZepto @StefanKarpinski @ntoxeg @jeremyphoward @BoringMLDev @TensorFlow @fastdotai Noted.  What project have you… https://t.co/7lqkoJknU6
+1104598965528363000,Sun Mar 10 04:24:50 +0000 2019,@PMZepto @StefanKarpinski @ntoxeg @jeremyphoward @BoringMLDev @TensorFlow @fastdotai Have you used swift for anything significant?
+1104207499903742000,Sat Mar 09 02:29:17 +0000 2019,RT @llvmorg: Thank you Grace Hopper! Grace Hopper invented one of the first compiler tools among many other inventions. #InternationalWomen…
+1103845614679351300,Fri Mar 08 02:31:17 +0000 2019,RT @rxwei: As we release Swift for TensorFlow v0.2, we are pumping out some new technical documentation: • Hierarchical Parameter Iteration…
+1103817828849705000,Fri Mar 08 00:40:52 +0000 2019,@nitinaggarwal17 Compiled languages vary, so it is hard to say - Swift was designed for this, and has always had an… https://t.co/Z5xrXfG6PZ
+1103675349089452000,Thu Mar 07 15:14:43 +0000 2019,@EdwardKinitz @bsaeta We have been focusing on Linux and Mac, Jupyter and Colab.  That said Swift does work on wind… https://t.co/cGT4inPRyj
+1103540349358694400,Thu Mar 07 06:18:16 +0000 2019,I have no idea how this is physically possible, but the amazing TensorFlow team has the session videos already avai… https://t.co/Se2cyW6VJp
+1103536786133835800,Thu Mar 07 06:04:07 +0000 2019,@EdwardKinitz @bsaeta Anything with a web browser should be able to access @GoogleColab
+1103534568722710500,Thu Mar 07 05:55:18 +0000 2019,The Swift for TensorFlow team (including folks across Google and OSS contributors) is truly exceptional - the talk… https://t.co/KotrwOTMc8
+1103533668440596500,Thu Mar 07 05:51:43 +0000 2019,@leoxlzhao @jeremyphoward @BenBoughton1 @bsaeta @TensorFlow No types required, the best way to interoperate with Py… https://t.co/33gkHXZh4c
+1103458976090341400,Thu Mar 07 00:54:55 +0000 2019,RT @jeremyphoward: This Swift for @TensorFlow presentation from @clattner_llvm and @bsaeta is one of the most exciting and forward-thinking…
+1103458836914921500,Thu Mar 07 00:54:22 +0000 2019,RT @jeremyphoward: Just announced: "https://t.co/GEOZuodrZj Embracing Swift for Deep Learning".  I'll be joined by @clattner_llvm in teachi…
+1103349338795724800,Wed Mar 06 17:39:16 +0000 2019,RT @TensorFlow: #TFDevSummit 2019 is here! Tune in for all the exciting announcements and make sure to tell us how your AI application is…
+1103175487864488000,Wed Mar 06 06:08:26 +0000 2019,Super excited, so much to talk about in the @TensorFlow ecosystem! https://t.co/Be6YtpY13s
+1101167771264593900,Thu Feb 28 17:10:30 +0000 2019,Really great deep dive showing how to build an train a classic model in S4TF.  I love how Brad dived in and use the… https://t.co/4UE4KIb8UX
+1101023631323193300,Thu Feb 28 07:37:44 +0000 2019,RT @bsaeta: .@DynamicWebPaige and I (and maybe others) will be mentoring gsoc-ers working on Swift for TensorFlow. Please do reach out if y…
+1098313046873628700,Wed Feb 20 20:06:50 +0000 2019,@jckarter @pcwalton @nikomatsakis Right. As far as I know (not exactly an expert on rust internals), this would be… https://t.co/H5wxM5o64s
+1098293029662670800,Wed Feb 20 18:47:18 +0000 2019,RT @migueldeicaza: Google announces Multi-level IR, a new system to unify higher level IRs for compilers that target LLVM.   So exciting!…
+1097993847185989600,Tue Feb 19 22:58:27 +0000 2019,@DynamicWebPaige @data_zen @bsaeta Yep, Paige is right: there is no need or desire for Python to "go away".  We are… https://t.co/Ez9JRG3gyQ
+1097991095290495000,Tue Feb 19 22:47:31 +0000 2019,@rxwei @eaplatanios right
+1097986894510489600,Tue Feb 19 22:30:49 +0000 2019,RT @jeremyphoward: @ylecun @soumithchintala I'm more than a little excited about the opportunities from MLIR (slides just out today from @c…
+1097952669799313400,Tue Feb 19 20:14:50 +0000 2019,@mattbseaman No recording afaik.  We are giving an hour long talk at EuroLLVM in April and expect that one to be recorded.
+1097952314009182200,Tue Feb 19 20:13:25 +0000 2019,@fred_riss Merges produce a fusion node with the full set of contributing child locations.  We also have a fission node.
+1097840130872754200,Tue Feb 19 12:47:38 +0000 2019,@modocache That will be an interesting cost/benefit trade off for each project to make, I can’t give a generalized… https://t.co/Dxfl1ak22K
+1097824904261632000,Tue Feb 19 11:47:08 +0000 2019,@green_knight we even named our family dogs Zoey and Kaylee. 🐶 :-)
+1097824209865265200,Tue Feb 19 11:44:22 +0000 2019,Slides from our unveil of the new MLIR compiler infra are now up at bottom of https://t.co/IFC3gDz3Ce . The team is… https://t.co/uIheL0BoTH
+1097645109674418200,Mon Feb 18 23:52:42 +0000 2019,RT @olebegemann: Chris Lattner @clattner_llvm on the origins of Swift (and many other things): https://t.co/XSeJRwecnN. This is my transcri…
+1095743705640620000,Wed Feb 13 17:57:12 +0000 2019,@pocmatos We are giving a talk this Sunday at https://t.co/LwS6lcfu8y.  Talk and tutorial at EuroLLVM in April
+1095052095324151800,Mon Feb 11 20:08:59 +0000 2019,RT @llvmorg: Announcing the program for EuroLLVM 2019!! https://t.co/R4oBgSW0O0
+1093894683623710700,Fri Feb 08 15:29:50 +0000 2019,RT @TajyMany: Swift Today 2: Using @Apple's Swift for @Google's @TensorFlow - a project led by @clattner_llvm - to train a Convolutional #n…
+1093739112190767100,Fri Feb 08 05:11:39 +0000 2019,RT @theswiftpodcast: Episode 3 is live! Enjoy listening to Jon, Kelvin, and Chris talk about Swift Evolution :) https://t.co/aOMd8U4e4q
+1093720679281680400,Fri Feb 08 03:58:24 +0000 2019,@AriKatz20 This is all frontend independent - it dovetails very nicely with S4TF, but will also be a big step forwa… https://t.co/w0kWh8NEGw
+1092968420893614100,Wed Feb 06 02:09:12 +0000 2019,@DynamicWebPaige @bsaeta @TensorFlow With S4TF you don't ever get tangled in a python gradient tape! :-)
+1092968187241553900,Wed Feb 06 02:08:16 +0000 2019,RT @DynamicWebPaige: conversations with @clattner_llvm and @bsaeta about Swift for @TensorFlow always got me like  (pictured: self, tf.Grad…
+1092966818078052400,Wed Feb 06 02:02:50 +0000 2019,@pcwalton already done!  https://t.co/2Ly8STjvAo  :-) :-)
+1091367704185827300,Fri Feb 01 16:08:31 +0000 2019,Very excited we get to talk about some of the work of the Google MLIR compiler team in a couple weeks.  This new in… https://t.co/hhTtZYm4cj
+1091191850541576200,Fri Feb 01 04:29:45 +0000 2019,@jfbastien To be fair, LLVM is uh... far from perfect nearly 20 years in.  I'll speak a bit about this and the solu… https://t.co/WkobT7yvwy
+1091186386634326000,Fri Feb 01 04:08:02 +0000 2019,Who said that LLVM Bitcode can't make huge architectural transitions seamless?  Congrats to the 🍎⌚️ team: https://t.co/AOuJWxSAGe
+1090868721529237500,Thu Jan 31 07:05:45 +0000 2019,The feeling when you live with a real life emoji 🐶 https://t.co/jgfhPtBUX9
+1090842228438708200,Thu Jan 31 05:20:28 +0000 2019,RT @garricn: Episode 2 of @theswiftpodcast is live! Me, @BasThomas and @clattner_llvm talk about @swiftlybrief and scaling codeless open so…
+1090492490434527200,Wed Jan 30 06:10:44 +0000 2019,Really great article about the role of leadership in driving cultures of innovation, plus commentary on @paulmckrcu… https://t.co/4s1aXj5gVB
+1090108315156176900,Tue Jan 29 04:44:10 +0000 2019,@modocache I'll be there with some of our team announcing a new thing at https://t.co/Ly3fMaSbT3 - hopefully see you there Brian!
+1088694355903172600,Fri Jan 25 07:05:36 +0000 2019,RT @garricn: Check out this PR. A great way to get involved with this podcast is to help develop this episode proposal process to really he…
+1088466747676487700,Thu Jan 24 16:01:10 +0000 2019,@apaszke @jeremyphoward @rbhar90 We haven’t implemented this yet, but the answer is “data flow analysis” on the S4T… https://t.co/TjM0gXGGD5
+1088295125858476000,Thu Jan 24 04:39:12 +0000 2019,@jeremyphoward @rbhar90 The swift infrastructure provides lots of ways to solve this that don't require building fu… https://t.co/eU08JVI6pN
+1087508377922461700,Tue Jan 22 00:32:56 +0000 2019,@garricn @theswiftpodcast 👍 pretty good sign that we should charge forward with the unplan, and make some more epis… https://t.co/R5VQ9irg20
+1087028333307584500,Sun Jan 20 16:45:25 +0000 2019,RT @bsaeta: Performance matters for ML, but so does the flexibility to write your own ops/functions. Swift and modern compiler toolchains (…
+1085944505046491100,Thu Jan 17 16:58:40 +0000 2019,@voidtarget @apaszke @jeremyphoward @soumithchintala @ezyang https://t.co/5eXgKavsVW
+1085940034560114700,Thu Jan 17 16:40:54 +0000 2019,@voidtarget @apaszke @jeremyphoward @soumithchintala @ezyang Clang supports function overloading in C with an attribute.
+1085632168485769200,Wed Jan 16 20:17:33 +0000 2019,@magnuskahr @theswiftpodcast @garricn @johnsundell Haha, will fix for next time 🎤
+1085599141772705800,Wed Jan 16 18:06:19 +0000 2019,@BasThomas @johnsundell @garricn @mattt Global search and replace of the history when going OSS
+1085596285023862800,Wed Jan 16 17:54:58 +0000 2019,RT @theswiftpodcast: Introducing the Swift Community Podcast - a new show by and for the Swift Community. Open source, and contributions ar…
+1084955120285016000,Mon Jan 14 23:27:12 +0000 2019,RT @jeremyphoward: I've made a full set of random distributions available in Swift, by leveraging C++11. The result looks pretty nice I thi…
+1084954701320183800,Mon Jan 14 23:25:32 +0000 2019,@jeremyphoward @mxcl Makes sense. If you're interested in talking about this, please jump onto the swift-evolution… https://t.co/EOCXfYc9GR
+1084918379218006000,Mon Jan 14 21:01:13 +0000 2019,@jeremyphoward @mxcl Good point, I didn't necessarily mean we do a feature exclusive to SwiftPM.  Language integrat… https://t.co/AIxLx5ugvp
+1084515971388170200,Sun Jan 13 18:22:11 +0000 2019,@gigatexal @mxcl Indeed, it isn't just Max's work that is great - Max is a great human too!
+1084509274926018600,Sun Jan 13 17:55:35 +0000 2019,@mxcl Super awesome Max! Would this make sense to integrate into the import decl itself (instead of a comment)?  Th… https://t.co/kodV0zLm6N
+1084508892615209000,Sun Jan 13 17:54:03 +0000 2019,RT @mxcl: I made a new thing, Swift-scripting with dependencies, no additional files, just your script: https://t.co/JVRbqVkWm2 https://t.c…
+1083863777039200300,Fri Jan 11 23:10:36 +0000 2019,We're super excited to provide an update on Swift for TensorFlow - things are getting real!  Cloud TPUs are also ma… https://t.co/ELX0vwSNw4
+1083752589978550300,Fri Jan 11 15:48:47 +0000 2019,@madhavajay @jeremyphoward Plz get in touch with the Swift for TensorFlow community list, there is a ton to do and… https://t.co/rRVoJTISID
+1083443029870932000,Thu Jan 10 19:18:42 +0000 2019,RT @jeremyphoward: I've finished up an interesting research project, trying to answer the question: is Swift a good language for high perfo…
+1082503589967278100,Tue Jan 08 05:05:42 +0000 2019,RT @sai_prasanna: @jeremyphoward @jeremyphoward What is state of swift with regards to writing deep learning models? I have good experience…
+1082482319477207000,Tue Jan 08 03:41:11 +0000 2019,RT @jeremyphoward: I've been playing with numeric programming in Swift and figured out how to get pretty good performance (same as vectoriz…
+1082389346655694800,Mon Jan 07 21:31:44 +0000 2019,Congrats to LLVM Weekly - its such a great resource for the compiler community! ⚙️ https://t.co/KTSTyC2tLM
+1080302563319152600,Wed Jan 02 03:19:36 +0000 2019,RT @DynamicWebPaige: 📲 You bet! And am office-mates with the #Swift for @TensorFlow team... They've got many exciting ideas for 2019! 😁  📩…
+1080012390232518700,Tue Jan 01 08:06:34 +0000 2019,@llvmorg With luck, 2019 will bring a new license and a new and improved IR!
+1079976381683970000,Tue Jan 01 05:43:29 +0000 2019,RT @llvmorg: Happy New Year LLVM community!!! 🎉🎉
+1078522320807850000,Fri Dec 28 05:25:33 +0000 2018,RT @jeremyphoward: A belated Christmas present for those of you using Swift with Vim (if there's anyone else out there doing this?...) - he…
+1076208104415539200,Fri Dec 21 20:09:41 +0000 2018,@helje5 Something like this should be a standard package included with Swift’s default distro!
+1076177921906098200,Fri Dec 21 18:09:45 +0000 2018,RT @helje5: Call Unix tools as regular #Swiftlang functions using the new Swift 5 `@dynamicCallable` feature. Tutorial and demo: https://t.…
+1075958972329291800,Fri Dec 21 03:39:44 +0000 2018,RT @chandlerc1024: Just posted my holiday-season update on the #LLVM relicensing effort. Amazing progress: 73% of committers and 80% of com…
+1072955842314461200,Wed Dec 12 20:46:22 +0000 2018,RT @googlecloud: Reduce your #ML training times from days to hours with Cloud TPU Pods, now available in alpha → https://t.co/GZEjgSiFLC ht…
+1072955689947955200,Wed Dec 12 20:45:45 +0000 2018,The actual MLPerf results are also really interesting - instead of buying and running hundreds of GPUs (many dozen… https://t.co/5TiGD9GZQa
+1072948993531904000,Wed Dec 12 20:19:09 +0000 2018,Google Cloud TPUs make scalable machine learning super computers widely available for research and production! https://t.co/7xUAUgzb3Q
+1067887849662554100,Wed Nov 28 21:07:58 +0000 2018,RT @TensorFlow: #TFDevSummit is back! Join the TF team and community March 6-7 2019 in Sunnyvale CA for a look at new product updates &amp; ama…
+1067487191893463000,Tue Nov 27 18:35:54 +0000 2018,RT @bsaeta: #CloudTPUs + @TensorFlow are the fastest platform for ML. On the popular (and now quite silly) ResNet-50 ImageNet benchmark, on…
+1067201146698309600,Mon Nov 26 23:39:15 +0000 2018,RT @Hillelogram: Analog computers sound super cool and I wish I knew more about their history. Anybody got a good introduction to recommend?
+1060688276179185700,Fri Nov 09 00:19:26 +0000 2018,@jckarter Finally a way to give people names operators in swift?!??
+1060231275104022500,Wed Nov 07 18:03:28 +0000 2018,RT @bsaeta: Super excited: #CloudTPU #Pods are now available in a public alpha, including public pricing (linear, see: https://t.co/D7ScC08…
+1060190448327655400,Wed Nov 07 15:21:14 +0000 2018,RT @mxcl: Server-side Swift is terrific. Here’s part one of six on the making of Canopy. This week focusing on why Swift was so good for wr…
+1058528311108952000,Sat Nov 03 01:16:30 +0000 2018,RT @KostiaKoval: Pretty awesome post about LLVM and how to write a Pass https://t.co/jSJv4sfNPR #llvm
+1053669211829035000,Sat Oct 20 15:28:10 +0000 2018,@SMT_Solvers @johnregehr The clang Static analyzer already has one: https://t.co/Sx6tcTZ65j .  If you are intereste… https://t.co/5xvw0WDsVJ
+1052730412743577600,Thu Oct 18 01:17:43 +0000 2018,RT @llvmorg: 2018 LLVM Developers’ Meeting in full swing!! https://t.co/VaJ2fvBgO7
+1052595571788197900,Wed Oct 17 16:21:55 +0000 2018,RT @chandlerc1024: #LLVM Developers meeting starts!!! https://t.co/m0Z3uGZIgw
+1052586893026635800,Wed Oct 17 15:47:26 +0000 2018,@octadero Our team is primarily located in Mountain View, please apply if you are open to relocation!
+1052414702373019600,Wed Oct 17 04:23:12 +0000 2018,RT @JeffDean: “I didn’t anticipate loving compilers ... but ... I loved finding ways to squeeze as much performance out of a program as pos…
+1052414488820023300,Wed Oct 17 04:22:21 +0000 2018,RT @rxwei: I wrote a manifesto for first-class Automatic Differentiation in Swift. https://t.co/oybLQDEH4y
+1052052874069299200,Tue Oct 16 04:25:26 +0000 2018,RT @dominikgrewe: Lots of exciting work happening on ML infrastructure at Google Brain! If you're looking for similar positions in Europe c…
+1051956424916398100,Mon Oct 15 22:02:10 +0000 2018,RT @SwiftLang: Join the conversation about a new project for building an LSP language service supporting Swift: https://t.co/SBiXXGshD3
+1051931340516470800,Mon Oct 15 20:22:30 +0000 2018,@_benng Primarily yes, but lets talk.  Our friends at @DeepMindAI in the UK are also looking for exceptional candidates as well.
+1051931019396362200,Mon Oct 15 20:21:13 +0000 2018,@OldGunix read all about it here: https://t.co/pS4GWXYTpn
+1051906480125792300,Mon Oct 15 18:43:42 +0000 2018,The Google Brain team is hiring for a wide range of positions spanning compiler engineering, runtime and systems wo… https://t.co/LiTu4vdigz
+1050776634310066200,Fri Oct 12 15:54:06 +0000 2018,@semiDL @walkforhours @GCPcloud Same number of chips.
+1050479855752499200,Thu Oct 11 20:14:49 +0000 2018,RT @walkforhours: #CloudTPU v3 is now available in Beta on @GCPcloud! With &gt;2x more FLOPs and 2x more memory than v2, v3 can train deeper R…
+1048438301055627300,Sat Oct 06 05:02:24 +0000 2018,RT @fchollet: You can start training Keras models on TPUs, from the comfort of your browser, in a few seconds. Try it: https://t.co/G95rxp7…
+1048243626470326300,Fri Oct 05 16:08:50 +0000 2018,RT @appcode: We are excited to announce that the Swift plugin for the latest CLion 2018.3 EAP build supports Swift Package Manager projects…
+1048042908396339200,Fri Oct 05 02:51:15 +0000 2018,RT @jeremyphoward: Also at 1h19m you can see our panel with @clattner_llvm , @soumithchintala , Noah Goodman, Yangqing Jia, and me https://…
+1047344960054259700,Wed Oct 03 04:37:51 +0000 2018,RT @math_rachel: Announcing #PyTorch for Google TPUs! Prototype training of ResNet 50 right now. I've said it before-- I'm looking this col…
+1047134352440668200,Tue Oct 02 14:40:59 +0000 2018,@migueldeicaza That justification was enough to get people to stop asking too much about it.  :-) Hardware has mult… https://t.co/WRhw0REgxz
+1046960724646465500,Tue Oct 02 03:11:03 +0000 2018,Obscure :-) https://t.co/Fu84wcegxK
+1045715652537868300,Fri Sep 28 16:43:34 +0000 2018,@PeterSommerlad @jfbastien @barrelshifter @d0k @llvmorg @SwiftLang NFC expands to "No Functionality Change", but it… https://t.co/l1337NIhKi
+1045700108606615600,Fri Sep 28 15:41:48 +0000 2018,RT @bsaeta: Yesterday we made TF 1.11 available for Cloud TPUs. One of the most exciting features is the new experimental Keras integration…
+1045560352593739800,Fri Sep 28 06:26:28 +0000 2018,@barrelshifter @d0k @llvmorg @SwiftLang That was back in dec 2012 or 2013 (github commits would know) and yet today… https://t.co/x7vrPSeQ1u
+1045551254099742700,Fri Sep 28 05:50:19 +0000 2018,@barrelshifter @d0k @llvmorg @SwiftLang And yes, my fam continually asked me “wtf are you doing and why does it mat… https://t.co/pAopAMlBkl
+1045548965142229000,Fri Sep 28 05:41:13 +0000 2018,@barrelshifter @d0k @llvmorg The fact that the nomenclature propagated to llvm and beyond even when @swiftlang was… https://t.co/Eo6KvyAI0j
+1045548372134846500,Fri Sep 28 05:38:51 +0000 2018,@barrelshifter @d0k @llvmorg I’m happy to have introduced “NFC” into the broader community after a hardcore xmas ha… https://t.co/hBHXcckcAx
+1045544483088035800,Fri Sep 28 05:23:24 +0000 2018,RT @barrelshifter: some fanart for @llvmorg https://t.co/2roDf1RwSw
+1045534855482601500,Fri Sep 28 04:45:09 +0000 2018,RT @math_rachel: I think it's awesome that the @PyTorch Dev Conf is including speakers from AWS, Microsoft, Google, Nvidia, and more (in ad…
+1045010128217362400,Wed Sep 26 18:00:04 +0000 2018,RT @llvmorg: Come to the LLVM Foundation Booth #5234 at GHC and talk to us about LLVM, compilers, and open source! David and Tanya are read…
+1044828178437591000,Wed Sep 26 05:57:04 +0000 2018,@graydon_pub Successful individuals owe their success (in very very very large part) to luck.  I speak from experience.
+1044814601458778100,Wed Sep 26 05:03:07 +0000 2018,@int10h Seriously.  I admit that when I was in high school I found VB4 to be a huge upgrade from VB3 tho.
+1044812912123154400,Wed Sep 26 04:56:24 +0000 2018,Added without further comment: https://t.co/bkQuy3aXco
+1044811170044096500,Wed Sep 26 04:49:29 +0000 2018,#linuxgate is just 🤮🤮. I get that the LKML CoC was (apparently) rushed, but it is still a great step forward as a s… https://t.co/0eonFANtww
+1044802613345218600,Wed Sep 26 04:15:29 +0000 2018,@jckarter @ericasadun That would be great, but until @dgregor79 implements his third variadic generics system, this… https://t.co/RLPntWJut4
+1044613906608488400,Tue Sep 25 15:45:37 +0000 2018,@ericasadun Something like this would also be useful for the python interoperability library: we currently have to… https://t.co/MMvegvZbGf
+1044435831555911700,Tue Sep 25 03:58:01 +0000 2018,John’s first edition is really great work and a nice resource for Swift programmers, 💯.  I’m signing up! https://t.co/2WrZ7tSXzg
+1044434627987820500,Tue Sep 25 03:53:14 +0000 2018,RT @llvmorg: Going to the Grace Hopper Conference? Come talk about LLVM, compilers and open source at the LLVM Foundation Booth! #GHC18
+1042636252917391400,Thu Sep 20 04:47:08 +0000 2018,@dgregor79 We didn't have this problem with RCS, where you could properly LOCK files you were touching.  Simpler, b… https://t.co/hmWHlsgwqc
+1041768213279694800,Mon Sep 17 19:17:51 +0000 2018,RT @SwiftLang: Swift 4.2 is released!  Read about it here: https://t.co/Z8W6Q1hGYX
+1041729700249296900,Mon Sep 17 16:44:49 +0000 2018,A major unsung benefit of the Cloud TPU platform is the ease of scaling to incredibly huge problems.  This is a com… https://t.co/WJnAemX4v9
+1039744063208140800,Wed Sep 12 05:14:36 +0000 2018,RT @graydon_pub: For people considering it: working in compilers / developer tools is a great career. The programs are deterministic and ha…
+1039717791337668600,Wed Sep 12 03:30:13 +0000 2018,@dgregor79 Too true,  I’m still shocked how many people forget to properly put both spaces after a comma.
+1039352660430807000,Tue Sep 11 03:19:19 +0000 2018,RT @rxwei: Swift for TensorFlow now has a Jupyter notebook tutorial, with latest available features like first-class autodiff on arbitrary…
+1037940208447053800,Fri Sep 07 05:46:44 +0000 2018,This is a great event on Oct 16th in San Jose, for those who want to develop public speaking, discuss career progre… https://t.co/UQ8x4QNYZU
+1037372008554614800,Wed Sep 05 16:08:54 +0000 2018,@BasThomas Heh, those are the wackiest, many idealistic theories were squashed as pragmatism came to rule the day (thank goodness!)
+1037366433045393400,Wed Sep 05 15:46:45 +0000 2018,@BasThomas Nice trip down memory lane!  We learned so much along the way and couldn't have done it without such a f… https://t.co/Dw3BeZpv21
+1037366080165969900,Wed Sep 05 15:45:21 +0000 2018,RT @BasThomas: I gave a talk on the history of Swift, starting even before it was announced at WWDC in 2014.   “Taken For Granted” https://…
+1035023995547004900,Thu Aug 30 04:38:45 +0000 2018,@_rsc @harisamin Awesome, thanks Russ!
+1034924208210423800,Wed Aug 29 22:02:13 +0000 2018,@harisamin @_rsc Yes, that is obviously incorrect.  They've been there since ~2012 IIRC.  The Go team has been noti… https://t.co/OI4bgxzzOC
+1031395988701728800,Mon Aug 20 04:22:20 +0000 2018,RT @SwiftMonads: Because he's a magic cloud TPU that turns her into her rock star alter ego.
+1030527757099262000,Fri Aug 17 18:52:18 +0000 2018,It is really great that TensorFlow is moving towards a public evolution/review process!  e.g. https://t.co/zsB58yYoGx
+1022345147005132800,Thu Jul 26 04:57:31 +0000 2018,@ilieciorba @vhmth I defer to @Chris_Lattner
+1021920753527058400,Wed Jul 25 00:51:08 +0000 2018,RT @JeffDean: As @senthil_hi points out, eBay wrote up their experience of using Cloud TPU Pods to get big improvements in training time on…
+1021919499157692400,Wed Jul 25 00:46:09 +0000 2018,RT @GCPcloud: Advance what’s possible with #AI. Introducing our 3rd generation of Cloud TPUs, supporting larger amounts of #ML computation…
+1021642926667980800,Tue Jul 24 06:27:09 +0000 2018,RT @slava_pestov: Happy 8th birthday, Swift! https://t.co/rPR6ceivqQ
+1021270248744398800,Mon Jul 23 05:46:16 +0000 2018,@brentsimmons Glad to see that dynamicMemberLookup is useful to you!  Hopefully you'll like dynamicCallable too.
+1020784561460920300,Sat Jul 21 21:36:19 +0000 2018,@gparker @slava_pestov @jckarter Constexpr has a "number of instructions interpreted" size cap, so it isn't turing… https://t.co/WUkfHuZnfA
+1018731253703499800,Mon Jul 16 05:37:12 +0000 2018,RT @wayward710: After following the recent coverage of Elon Musk's behavior, it seems like parting ways with him was a very good move for @…
+1017861858848456700,Fri Jul 13 20:02:32 +0000 2018,@jckarter @barrelshifter Seriously man, what is your objection to functional programming???  🦉
+1017776270975746000,Fri Jul 13 14:22:27 +0000 2018,RT @SylvestreLedru: And the overall improvements of switching to Clang on Windows on the performances of Firefox are huge: https://t.co/Cxk…
+1017204772242276400,Thu Jul 12 00:31:31 +0000 2018,@davedelong @SwiftLang Blaine and I worked together on them (along with several other great people).  I had the unh… https://t.co/NMNUP2mvOV
+1017199376156930000,Thu Jul 12 00:10:04 +0000 2018,@davedelong @SwiftLang Blocks was my doing too...
+1016912806602408000,Wed Jul 11 05:11:21 +0000 2018,@migueldeicaza @Patrick_Lind Please don't retire, there is more great work to do!
+1016846585060184000,Wed Jul 11 00:48:12 +0000 2018,@Patrick_Lind @migueldeicaza Swift + GC could be really interesting for certain workloads.
+1015794502311731200,Sun Jul 08 03:07:36 +0000 2018,RT @LLVMFoundation: Are you interested in being on the next LLVM Foundation Board of Directors? Submit your application by July 30th (11:59…
+1015431188276637700,Sat Jul 07 03:03:55 +0000 2018,@slava_pestov @jckarter @conradev I'm on it.
+1010556675713949700,Sat Jun 23 16:14:21 +0000 2018,@olebegemann Nice summary, including a good descriptions of potential caveats.  One thing that I haven't explained… https://t.co/HbsQhYWs3g
+1009842085136982000,Thu Jun 21 16:54:49 +0000 2018,Congrats to @tonic888, very proud of her and her work on the LLVM Foundation! https://t.co/Izlzwq2KM0
+1009837735220133900,Thu Jun 21 16:37:32 +0000 2018,@monkeydom @xenadu02 @stefanlesser Fair enough.  I just saw from your profile that you built Carcassonne.  I'm a huge fan, thank you!!
+1009833526697443300,Thu Jun 21 16:20:49 +0000 2018,@monkeydom @xenadu02 @stefanlesser That is an approach, not a design.  It has been tried before and we considered i… https://t.co/ITYzPoSXR2
+1009829475792531500,Thu Jun 21 16:04:43 +0000 2018,@monkeydom @xenadu02 @fichek @jl_hfl @stefanlesser @Lattner I spoke precisely: ARC was motivated by what became Swi… https://t.co/aEKv7qq8Ft
+1009826385211285500,Thu Jun 21 15:52:26 +0000 2018,@monkeydom @xenadu02 @fichek @jl_hfl @stefanlesser @Lattner Russ is right - the reason to do ARC then was because w… https://t.co/tVs2NyALl3
+1009825370630058000,Thu Jun 21 15:48:24 +0000 2018,@monkeydom @xenadu02 @stefanlesser I'm very curious to know what you imagine these 3 years of additional commitment… https://t.co/aSZ0NVk1ec
+1009488354709106700,Wed Jun 20 17:29:13 +0000 2018,@limitedthread 7:30 is the goal.  I try to get 8 hours of sleep a day, but kids/dogs etc don't always permit that :-)
+1009486638471249900,Wed Jun 20 17:22:24 +0000 2018,Safety in PLs is undersold: yes it is about more correctness, more security, etc.   That said, it is *also* about m… https://t.co/kBehfosPPm
+1009106782768123900,Tue Jun 19 16:12:59 +0000 2018,@kieransenior There is a divide of opinion in the core team about whether typed throws should ever be supported.… https://t.co/6ysvW8oXLT
+1009103681713684500,Tue Jun 19 16:00:40 +0000 2018,RT @JeffDean: Google Cloud TPUs now offer preemptible pricing at ~70% off the reserved instance pricing.  This means, for example, that you…
+1006776344850649100,Wed Jun 13 05:52:40 +0000 2018,RT @pathofshrines: The review for "SE-0216: User-defined dynamically callable types" has begun! https://t.co/eShADgQZpQ
+1004806973265604600,Thu Jun 07 19:27:05 +0000 2018,RT @tony_allevato: If you're a Bazel (https://t.co/AUuz5G8BpJ) user, we just launched new build rules for Swift that support Apple platform…
+1004587550109937700,Thu Jun 07 04:55:10 +0000 2018,Ole's work on these playgrounds is consistently outstanding!  👏👏 https://t.co/JjmyJCNjRb
+1002947628366114800,Sat Jun 02 16:18:43 +0000 2018,@batschz I’ll be at try! Swift SJ on Friday
+1002754962814726100,Sat Jun 02 03:33:08 +0000 2018,@modocache I’ve never heard of that conf.  What is the C version of it called?
+996050619701055500,Mon May 14 15:32:28 +0000 2018,@Apple__Thoughts @juandesant I expect/hope that this will be an example of hyper-collaboration, involving dozens of… https://t.co/A24u48RRpz
+996042450224349200,Mon May 14 15:00:00 +0000 2018,@juandesant I agree with Alan and Joe (of Erlang fame) that actors are the right answer, here's my view of the path… https://t.co/bZsXJFgvC5
+995530321519984600,Sun May 13 05:04:59 +0000 2018,@stephentyrone @Coty A 7 bit mantissa (https://t.co/0DNFZxx8yL) generalizes and works far better for ML than IEEE16… https://t.co/9rNqpHtpDz
+995376092683714600,Sat May 12 18:52:08 +0000 2018,@johnsontoddr4 Bandsaw to rough shape, then template route to final dimension.  I do enough programming during the… https://t.co/evBmPvouGf
+995151796522778600,Sat May 12 04:00:51 +0000 2018,@slava_pestov My preference is realtime (more frequent merges mean less painful ones!), but we also have to track… https://t.co/Ki6k3EZKop
+995010763243733000,Fri May 11 18:40:27 +0000 2018,RT @lorisdanto: Since you liked the haikus, the last questions of my F16 compilers final was: Write a pun about compilers. These were the b…
+994984035716755500,Fri May 11 16:54:14 +0000 2018,@Enzo90910 Hard to say, we need to finish designing and implementing them first, @rxwei is the leader of that work.
+994978186998960100,Fri May 11 16:31:00 +0000 2018,Super excited that the Swift for TensorFlow compiler changes are moving into the main https://t.co/rqgJSq5sOm githu… https://t.co/2QiTIHf3tN
+994065861773324300,Wed May 09 04:05:44 +0000 2018,@slava_pestov Spandex
+994063347266945000,Wed May 09 03:55:45 +0000 2018,RT @JeffDean: If you want to learn more about why we're so excited about TPUs and how they make machine learning research and applications…
+994063143226626000,Wed May 09 03:54:56 +0000 2018,RT @daniel_dunbar: You might not know it, but LLVM &amp; Clang (and by implication Swift and more) wouldn’t be where they are today without the…
+993912115546079200,Tue May 08 17:54:48 +0000 2018,Just to put this into context: this thing isn't designed to run linpack, but if it did, &gt;100PFLOPS would make it th… https://t.co/4PG8gWEuuH
+993158346059362300,Sun May 06 15:59:36 +0000 2018,@somelegs @businessinsider This seems factual to me, Rafael is against having a CoC.  Which part do you disagree with?
+993146369312407600,Sun May 06 15:12:00 +0000 2018,RT @businessinsider: Programmers are having a huge debate over whether they should be required to behave respectfully to each other https:/…
+992908646290939900,Sat May 05 23:27:23 +0000 2018,@jonharrop I'm ok with that.
+992783551476056000,Sat May 05 15:10:18 +0000 2018,@mattie Yes, that is exactly the point I’m trying to make, I’ll add that explicitly
+992658462021595100,Sat May 05 06:53:14 +0000 2018,RT @andyeb: @clattner_llvm “while I do not agree with the basis of this decision, I can recognize and respect his determination to follow h…
+992571464669773800,Sat May 05 01:07:32 +0000 2018,My previous tweets about Rafael's email confused the matter.  Here is a longer-form statement of facts about the si… https://t.co/UU2pmhe0J7
+992560800735813600,Sat May 05 00:25:10 +0000 2018,RT @IllinoisCS: On May 16, join @ILCSAlumni for their kickoff event: a night of networking at Google’s Mountain View campus. @clattner_llvm…
+992189513664421900,Thu May 03 23:49:48 +0000 2018,@afwaller @danielpunkass @anatomisation Yes, exactly this.  Rafael has made his position well known for quite some time.
+992151490818072600,Thu May 03 21:18:43 +0000 2018,@danielpunkass @anatomisation I can see how you could read that into what I said.  I intended to say that I respect… https://t.co/pZUXck0fRs
+992143854475202600,Thu May 03 20:48:22 +0000 2018,@danielpunkass @anatomisation Seriously? I didn't say I respect everyone who I disagree with.
+992143406016049200,Thu May 03 20:46:35 +0000 2018,This is ridiculous.  Rafael is a good and principled person who has a different philosophy on how to achieve equali… https://t.co/Vess9kUPfL
+992079691807772700,Thu May 03 16:33:25 +0000 2018,RT @clattner_llvm: @anatomisation No, I mean it. I can disagree with someone and respect their beliefs at the same time.  Intolerance of di…
+992079433790963700,Thu May 03 16:32:23 +0000 2018,@anatomisation No, I mean it. I can disagree with someone and respect their beliefs at the same time.  Intolerance… https://t.co/tKLHTozuJf
+992068857304039400,Thu May 03 15:50:21 +0000 2018,I am definitely sad to lose Rafael from the LLVM project, but it is critical to the long term health of the project… https://t.co/YDAjU7Lssj
+991536902724448300,Wed May 02 04:36:34 +0000 2018,Matt Pharr's recent blog posts about ispc and how it came to be are a really great read, particularly if you strugg… https://t.co/TSeI0FjZSp
+991186341915279400,Tue May 01 05:23:33 +0000 2018,RT @xkcdComic: Python Environment https://t.co/cyeaNT2Mk8 https://t.co/DMqsewgIzz https://t.co/ULfDw9uL0u
+991177968163602400,Tue May 01 04:50:17 +0000 2018,@davemurdock @publicfarley That proposal is part of this over-arching design: https://t.co/qWi7GOcBrJ  I have some… https://t.co/4Ij00rwejh
+990252094958415900,Sat Apr 28 15:31:12 +0000 2018,RT @rxwei: Why data scientists should start learning Swift – Heartbeat https://t.co/ntlS3oLX67
+989881120454918100,Fri Apr 27 14:57:04 +0000 2018,RT @riseml: Google Cloud TPU as fast as 4x Nvidia V100 while being 57% cheaper on ResNet-50. Read our new benchmark article. https://t.co/b…
+989578340829835300,Thu Apr 26 18:53:56 +0000 2018,One of the reasons I'm a fan of building things in simple, composable, and extensible ways is that it allows them t… https://t.co/kX3stvLB0X
+989571304641589200,Thu Apr 26 18:25:59 +0000 2018,@krzyzanowskim @Frizlab We are not interested in producing a long term fork, we aim to work with the Swift communit… https://t.co/eqYZuf9wAP
+989563060263182300,Thu Apr 26 17:53:13 +0000 2018,RT @TensorFlow: Swift for TensorFlow is now open source!  It is a new programming model for machine learning combining the performance of g…
+989338387327811600,Thu Apr 26 03:00:27 +0000 2018,RT @ElectrekCo: Tesla’s VP of Autopilot and chip guru Jim Keller is leaving, another former Apple chip designer is tapped https://t.co/8MVC…
+987496760116367400,Sat Apr 21 01:02:29 +0000 2018,@gparker Is that theoretically a legit use of a volatile variable?
+987230070782726100,Fri Apr 20 07:22:45 +0000 2018,RT @frankchn: Our latest DAWNBench results are live: 8h52m for @TensorFlow to train ResNet-50 on ImageNet on a single @GCPcloud TPU (&lt;$60),…
+986313867499274200,Tue Apr 17 18:42:05 +0000 2018,RT @JeffDean: We just posted new DAWNBench results for ImageNet classification training time and cost using Google Cloud TPUs+AmoebaNet (ar…
+985792981151174700,Mon Apr 16 08:12:16 +0000 2018,RT @llvmorg: EuroLLVM begins! #EuroLLVM18 #LLVM #LLVMDevMtg https://t.co/peoBfeMJ1h
+985780095624376300,Mon Apr 16 07:21:04 +0000 2018,RT @rayh: Try Swift 4.1 in a Jupyter Notebook (via #BinderHub) - https://t.co/PQiTFek1tE (Credit to @jinw1990 for the original https://t.co…
+983767108596072400,Tue Apr 10 18:02:10 +0000 2018,@TensorFlow Swift for TensorFlow is still coming soon in April, but isn’t quite there yet
+983356603742142500,Mon Apr 09 14:50:58 +0000 2018,RT @krzyzanowskim: It worked eventually. https://t.co/sXtsLQ0Co5 is Swift 4.1 ready effectively NOW. https://t.co/xsBTxNuT4x
+983202780100755500,Mon Apr 09 04:39:44 +0000 2018,RT @andrerpena: This is awesome. #PostgreSQL getting +~20% of performance thought #LLVM JIT compilation. https://t.co/oNLhZLxfu0
+981337245578813400,Wed Apr 04 01:06:46 +0000 2018,RT @terhechte: New Blog Post: "Expanding Swift's Reach" https://t.co/lqZ1aJ6ltl
+980221700322152400,Sat Mar 31 23:13:59 +0000 2018,RT @gregde: Digging into this Stanford benchmark of Tensorflow on p3.16xlarge GPUs vs TPUs on GCE and it's amazing.  TPUs are faster (12.4…
+980089562830549000,Sat Mar 31 14:28:55 +0000 2018,@Mike_H @TensorFlow We plan to upstream everything we can, through the normal swift-evolution and… https://t.co/gtafMzvOXf
+979891954547753000,Sat Mar 31 01:23:42 +0000 2018,Special shout out to @mingshenghong who figured out how to get Swift + TensorFlow to work (he built the Swift runti… https://t.co/madY4HWESl
+979888103279112200,Sat Mar 31 01:08:23 +0000 2018,RT @jhseu: @jeremyphoward @TeslaStockholm @JeffDean @clattner_llvm Yeah, exactly. When deciding between eager and graph execution, you're t…
+979886581371740200,Sat Mar 31 01:02:21 +0000 2018,Swift for @TensorFlow Talk video and announcement are up!  Check it out: https://t.co/3B4127kbFZ and join the conve… https://t.co/ek1tJ14HMZ
+979884872347959300,Sat Mar 31 00:55:33 +0000 2018,RT @jeremyphoward: @TeslaStockholm @JeffDean This isn't just a swift wrapper or binding. It's a new language and compiler. It's going to be…
+979767824158638100,Fri Mar 30 17:10:27 +0000 2018,I’m excited to be talking with @rxwei about some work that applies compiler and language tech to TensorFlow in a ne… https://t.co/j52pcH3gRt
+979579075353169900,Fri Mar 30 04:40:25 +0000 2018,RT @TensorFlow: #TFDevSummit kicks off tomorrow with the Keynote at 9:30 AM PDT!  Tune in for a full day of highly technical talks, demos,…
+978506991587835900,Tue Mar 27 05:40:21 +0000 2018,RT @JeffDean: Stanford's DAWNBench is a new benchmark suite measuring a variety of deep learning training and inference tasks. Google Cloud…
+978459965105913900,Tue Mar 27 02:33:29 +0000 2018,RT @pbailis: .@GoogleBrain just took first place in DAWNBench’s ImageNet training time and cost categories using Cloud TPUs: https://t.co/A…
+976847402316550100,Thu Mar 22 15:45:44 +0000 2018,@RA_Negm @acoye @realbadiostips Swift has a strong dynamic side as well, here's a recent example:… https://t.co/IGqTAHA7v3
+974403229462048800,Thu Mar 15 21:53:28 +0000 2018,RT @fintanr: A quick look at the @RedMonk Language Rankings over time https://t.co/75uwpigj4l #redmonklang https://t.co/RQQfyx36wn
+974340809452609500,Thu Mar 15 17:45:26 +0000 2018,@gparker Which part of that is a bad thing?  :)
+972545910260490200,Sat Mar 10 18:53:08 +0000 2018,@chriseidhof Thank you for your work on that proposal Chris, I and others really appreciate your work to make Swift… https://t.co/7CkrOHUhgg
+971877291377680400,Thu Mar 08 22:36:17 +0000 2018,Great to see both Swift and Objective-C in the top 10! https://t.co/md8Sy6o2Om
+971871762362204200,Thu Mar 08 22:14:19 +0000 2018,RT @llvmorg: Happy International Women's Day! Thank you to all the women in the LLVM community for your contributions.   #IWD2018 https://t…
+971779570562027500,Thu Mar 08 16:07:59 +0000 2018,RT @llvmorg: LLVM 6.0 has been released! A huge thank you to the release team, volunteers, and our release manager Hans Wennborg! https://t…
+971186649118814200,Wed Mar 07 00:51:55 +0000 2018,I'm excited to be speaking about some of the things we've been working on! https://t.co/uijIo6bzmZ
+970883882177380400,Tue Mar 06 04:48:50 +0000 2018,RT @reidkleckner: Woohoo! We launched Clang for Chrome on Windows. =D https://t.co/rksWPhXY3G
+969814631937028100,Sat Mar 03 06:00:01 +0000 2018,@dgregor79 @mattie @slava_pestov @ChrisPaveglio Thank goodness Swift provides an elegant way for everyone to handle… https://t.co/mz7UP8bKSH
+969814059133501400,Sat Mar 03 05:57:44 +0000 2018,@dgregor79 @mattie @slava_pestov @ChrisPaveglio "Messaging nil as a noop" is an addictive form of denial. Invariant… https://t.co/qZAqIYtgr5
+969104428149047300,Thu Mar 01 06:57:55 +0000 2018,RT @NatashaTheRobot: Apple dev @normanmaurer is introducing SwiftNIO - a low-level networking library for Swift at @tryswiftconf 👏👏👏 #swift…
+968662477113253900,Wed Feb 28 01:41:46 +0000 2018,@siracusa Must be a great school!
+967189872137068500,Sat Feb 24 00:10:09 +0000 2018,@jckarter @ericasadun Do it!! :-)
+966167360343130100,Wed Feb 21 04:27:03 +0000 2018,RT @jckarter: Today's a good day to brush off the old web blog. Here's an article about a weird tip used by Clang and the Swift runtime to…
+964605624809005000,Fri Feb 16 21:01:17 +0000 2018,@digitalfx_ @evkaky @twostraws This is purely syntactic sugar.  It isn’t about making something new possible, it is… https://t.co/BcS4fh9UQv
+964595240303652900,Fri Feb 16 20:20:01 +0000 2018,The implementation guts of the proposal are not the important thing, the exciting thing is the new sorts of dynamic… https://t.co/eRcKgAFZO8
+964286953054072800,Thu Feb 15 23:54:59 +0000 2018,A nice intro to the SE-0195 proposal that I've been slowly pushing forward over the last few months, to improve int… https://t.co/oh6pzUH9To
+964206793885798400,Thu Feb 15 18:36:28 +0000 2018,@jckarter Funny thing, I started using NFC years ago on massive swift compiler refactoring (when implementing let/v… https://t.co/gTUmmWzbQ1
+963442651495149600,Tue Feb 13 16:00:02 +0000 2018,@twostraws Explicitly declared members are preferred if visible (through access control).  If this isn’t working, p… https://t.co/arHOq6vzdX
+963110248356524000,Mon Feb 12 17:59:11 +0000 2018,RT @TensorFlow: We like fast hardware, and Cloud TPUs are now available in beta to help you train and run TensorFlow models really quickly.…
+963082569922195500,Mon Feb 12 16:09:12 +0000 2018,RT @GCPcloud: On-demand supercomputing to accelerate your #ML efforts, Cloud TPU, now available in beta → https://t.co/95ydKrm450 https://t…
+963056348878463000,Mon Feb 12 14:25:00 +0000 2018,Super excited to be part of the team that's bringing Machine Learning supercomputers to the world with Google Cloud… https://t.co/ymzABWiLkf
+963055477423665200,Mon Feb 12 14:21:33 +0000 2018,RT @JeffDean: 1/ @GoogleCloud TPUs are now in Beta for people that want access to high speed accelerators for training machine learning mod…
+962096509079597000,Fri Feb 09 22:50:57 +0000 2018,@digitalfx_ @tkremenek Swift already has beautiful integration with C and Objective-C - dynamic languages like Pyth… https://t.co/fpXEbE6jYf
+962011449760530400,Fri Feb 09 17:12:57 +0000 2018,RT @tkremenek: Swift proposal SE-0195 — Introduce User-defined "Dynamic Member Lookup" Types — has been accepted, https://t.co/Zh8hVX4hAN
+960736225584795600,Tue Feb 06 04:45:40 +0000 2018,RT @syegulalp: What is LLVM? The power behind Swift, Rust, Clang, and more https://t.co/hy8mAaXTCt
+959469471009333200,Fri Feb 02 16:52:02 +0000 2018,@infosecholsta 85/2013.
+959467534377537500,Fri Feb 02 16:44:20 +0000 2018,1 week minireview of the Tesla Model 3: the hardware is truly great (a big step up from my Model S) but the softwar… https://t.co/F82XtrdqRs
+958434602141413400,Tue Jan 30 20:19:50 +0000 2018,Responding to comments: Yes, accidentally complexity is evil and should be eliminated wherever possible.  Inherent… https://t.co/kEX7iVLwyh
+958197453953515500,Tue Jan 30 04:37:30 +0000 2018,@mjtsai It is all clear now!! https://t.co/wTuwdSsRfM
+958195406541746200,Tue Jan 30 04:29:21 +0000 2018,So true. Too many apparently "simple" techs merely shift the complexity to other places (higher level tools, framew… https://t.co/QEd3hm6cyh
+956992938898157600,Fri Jan 26 20:51:11 +0000 2018,@jckarter @CodaFi_ @harlanhaskins @mrkgrnao BTW, if you're interested in how LLVM 2.0 came about, here's a talk I g… https://t.co/nPl63JH37D
+956971342821146600,Fri Jan 26 19:25:22 +0000 2018,@jckarter @CodaFi_ @harlanhaskins @mrkgrnao Check out the 2.0 docs, I think they are what you are looking for: https://t.co/Zt7iBM3pb7
+956971034237837300,Fri Jan 26 19:24:08 +0000 2018,@modocache @jckarter @CodaFi_ @harlanhaskins @mrkgrnao @johnregehr Overflow semantics are a property of the source… https://t.co/DetGybWC3Y
+956953437370966000,Fri Jan 26 18:14:13 +0000 2018,@jckarter @CodaFi_ @harlanhaskins @mrkgrnao Here you go, behold the glory of int and uint 🤦‍♂️ https://t.co/qkVw2PiKNo
+955864940622917600,Tue Jan 23 18:08:55 +0000 2018,RT @tkremenek: Review of SE-0195 kicked off on the new Swift forums: https://t.co/QBHio0BfeX
+955121338565369900,Sun Jan 21 16:54:07 +0000 2018,@green_knight In the time since I tweeted that, we removed the prefix/postfix ++/-- operators, so now Swift "fixes"… https://t.co/j8n8hNmUg4
+954122210683240400,Thu Jan 18 22:43:56 +0000 2018,RT @TensorFlow: #TFDevSummit registration is now open!     Join us in Mountain View on 30-March for a day of highly-technical talks, demos…
+951265705898393600,Thu Jan 11 01:33:12 +0000 2018,@dgregor79 @modocache @phasemod I do, and wish I didn’t.  Of course you can use trigraphs for line continuation 🤦‍♂️
+951151457419456500,Wed Jan 10 17:59:13 +0000 2018,@modocache They were built by the same people :-).  Also, FWIW, Clang only got modules because we needed them to make Swift possible.
+950587507892080600,Tue Jan 09 04:38:17 +0000 2018,@calstephens98 This is the most recent update, I expect the proposal to be run soonish: https://t.co/zN8Sjd3V7h  /… https://t.co/grbk48zaI5
+950475635268321300,Mon Jan 08 21:13:45 +0000 2018,RT @SwiftLang: Ben Cohen writes about improvements to conditional conformances coming in Swift 4.1 on https://t.co/5NNXraGyus: https://t.co…
+949038880627372000,Thu Jan 04 22:04:36 +0000 2018,RT @TensorFlow: TensorFlow Dev Summit will be on March 30th, 2018 in the Bay Area!   Sign up now to save the date and stay updated on the l…
+946968085688283100,Sat Dec 30 04:56:00 +0000 2017,A beautiful "abuse" (?) of Swift, showing animated visualizations of protocol-oriented binary trees with value sema… https://t.co/VsR2Idn0Bg
+946598747735072800,Fri Dec 29 04:28:23 +0000 2017,@gparker ... or make one yourself!
+946461340499001300,Thu Dec 28 19:22:22 +0000 2017,@slava_pestov @dgregor79 @daniel_dunbar Case in C is the worst... unless you happen to love duff’s device
+945455616411156500,Tue Dec 26 00:45:59 +0000 2017,RT @tonic888: Merry Christmas! https://t.co/ZVJu295fcb
+942528971308122100,Sun Dec 17 22:56:32 +0000 2017,@chandlerc1024 @FioraAeterna @johnregehr LLVM IR started out with effectively C like types and instructions, and wa… https://t.co/htGGS5gOKz
+941705570955927600,Fri Dec 15 16:24:38 +0000 2017,@twostraws I only got 12/16 - hard quiz!
+941178774162350100,Thu Dec 14 05:31:20 +0000 2017,@slava_pestov @modocache @UINT_MIN @phasemod @spyffe Yep, that's my fault in llvm (and friends).  I'm sure I didn't… https://t.co/yCkkV70ThV
+941105396881563600,Thu Dec 14 00:39:46 +0000 2017,@modocache Intel SIMD instruction set extensions, to make it go faster.  Clang has SSE and AltiVec paths in its lexer.
+939551293588226000,Sat Dec 09 17:44:19 +0000 2017,RT @JeffDean: Slides from my talk in yesterday's ML Systems workshop are now up at  https://t.co/cbCLDMqF3T #NIPS2017
+939373197174063100,Sat Dec 09 05:56:37 +0000 2017,@chandlerc1024 @kayseesee Embrace and extend all the way, technically complicated yes.  Far simpler than social com… https://t.co/POaWbI3VVF
+939349093096210400,Sat Dec 09 04:20:50 +0000 2017,@chandlerc1024 @kayseesee Fair point, a language change requires longer time horizon than most people care to plan… https://t.co/4g11Vh1HeF
+939166387821350900,Fri Dec 08 16:14:50 +0000 2017,@chandlerc1024 @kayseesee A simpler approach is to use a language that isn’t pervasively filled with UB footguns :-)
+939165917958701000,Fri Dec 08 16:12:58 +0000 2017,RT @khawerkhaliq: I have written a new post on value and reference types in Swift, looking at value and reference semantics, defining prope…
+938310612932792300,Wed Dec 06 07:34:17 +0000 2017,@slava_pestov @dgregor79 @modocache @jordanpittman My two are: naming it CodeGen instead of IRGen, and not creating… https://t.co/yeGEBltkgT
+937422582944481300,Sun Dec 03 20:45:34 +0000 2017,RT @tkremenek: Two years ago today Swift became open source.  Thank you to everyone who has (and continues) to contribute to Swift to make…
+930908084838457300,Wed Nov 15 21:19:17 +0000 2017,RT @lexlash: @gmosx @clattner_llvm My team is planning to contribute to lib/Syntax - we're interested in linting, formatting, and refactori…
+930832426548437000,Wed Nov 15 16:18:39 +0000 2017,Swift at Google has enough folks working on it that we need a staging ground/integration point, and we decided it s… https://t.co/QYHbo681PG
+929424676647870500,Sat Nov 11 19:04:45 +0000 2017,@dhartbit @jckarter @slava_pestov @JadenGeller I think that Swift has a really phenomenal community, filled with gr… https://t.co/A5HBZYuGL4
+929401923505045500,Sat Nov 11 17:34:20 +0000 2017,@jckarter @slava_pestov @JadenGeller Basic expectations of swift-evolution: 1) Responding? read proposal first. 2)… https://t.co/5u6o3za6tu
+928809679991402500,Fri Nov 10 02:20:58 +0000 2017,@dgregor79 @slava_pestov @gregheo No respect until you also implement variadic generics in three compilers...
+928808354033446900,Fri Nov 10 02:15:42 +0000 2017,@AirspeedSwift Sure, with three space indents, you are eligible for 120 column wide files.
+925574133102010400,Wed Nov 01 04:04:04 +0000 2017,@nadavrot You had me at arm demangler.  Layering violation?
+925564746396401700,Wed Nov 01 03:26:46 +0000 2017,RT @dgregor79: Great talk! Definitely worth your time if you’re interested in the implementation of generics in a statically-compiled progr…
+925441444105502700,Tue Oct 31 19:16:48 +0000 2017,RT @TensorFlow: Introducing Eager Execution - an imperative, define-by-run interface for #TensorFlow!   Learn more here → https://t.co/S3te…
+925216083656679400,Tue Oct 31 04:21:18 +0000 2017,RT @Chris__Bailey: Kitura 2.0, as announced today at the #swiftsummit https://t.co/cvTrsKx5O6 https://t.co/LIcXK37d0d
+922852161964326900,Tue Oct 24 15:47:55 +0000 2017,@olebegemann You are sensationalizing a quote out of context.  A complete contextualized quote would be that "code… https://t.co/YJNa8IUxRQ
+922287739063562200,Mon Oct 23 02:25:06 +0000 2017,@blelbach @llvm LA-LA-VOOM
+921063960895356900,Thu Oct 19 17:22:15 +0000 2017,@hansw2000 @chandlerc1024 Perhaps not the worst thing that could happen to someone :-)
+920722435065856000,Wed Oct 18 18:45:09 +0000 2017,RT @llvmorg: The 2017 LLVM Developers' Meeting is in full swing. Videos will be posted online sometime after the event. #LLVMDevMtg #LLVM h…
+920413926810042400,Tue Oct 17 22:19:15 +0000 2017,RT @tkremenek: Kicking off Swift 4.1: https://t.co/uUJqllg9nx
+920049550059900900,Mon Oct 16 22:11:21 +0000 2017,RT @llvmorg: Are your feet feeling cold? Maybe some dragons can warm them up. #LLVM #LLVMDevMtg https://t.co/ZE0YXaUU04
+918885734890664000,Fri Oct 13 17:06:45 +0000 2017,A nice (but long) discussion of how Swift encourages correctness by construction (beyond eliminating UB bugs): https://t.co/eiB4w0OsuB
+917962576092454900,Wed Oct 11 03:58:27 +0000 2017,RT @slava_pestov: Synthesized Equatable/Hashable for structs and enums has landed: https://t.co/E6SR0r2gHv
+917601070288793600,Tue Oct 10 04:01:58 +0000 2017,@slava_pestov Crazy, fixed‽‽‽
+917041319100346400,Sun Oct 08 14:57:42 +0000 2017,@iannleon Profile picture :)
+915095007781994500,Tue Oct 03 06:03:46 +0000 2017,@dhartbit @Chris__Bailey swift-server-dev mailing list: https://t.co/mGRZKWyu7N
+915071160424980500,Tue Oct 03 04:29:00 +0000 2017,RT @Chris__Bailey: HTTP server v0.1.0 from the Swift Server APIs project now available. Time to kick the tires and provide feedback! https:…
+914366072144371700,Sun Oct 01 05:47:14 +0000 2017,No fair pitting a manager against two prolific engineers.🤣 @SwiftCoders says you have questions about LLVM? Hope to… https://t.co/leYgalSA7I
+913978922676531200,Sat Sep 30 04:08:50 +0000 2017,@eurekasfray Sure, send me an email please.
+913642149316411400,Fri Sep 29 05:50:37 +0000 2017,@modocache @olebegemann @jesse_squires That's a bug, not a feature.... 😩
+913425646445060100,Thu Sep 28 15:30:19 +0000 2017,@garrettmaring @tanner0101 @ayanonagon @NSHipster @chriseidhof @alfa They are sugar (nothing more) and important fo… https://t.co/JrDHEqRb1q
+913275491917774800,Thu Sep 28 05:33:39 +0000 2017,@garrettmaring @tanner0101 @ayanonagon @NSHipster @chriseidhof @alfa I used one yesterday, with an unaudited C API… https://t.co/gXHhks5zKL
+912726313781174300,Tue Sep 26 17:11:25 +0000 2017,RT @llvmorg: Happy 10th anniversary to Clang!! https://t.co/YNIbSSSFy2
+912393175314006000,Mon Sep 25 19:07:39 +0000 2017,Looks like a cool tool to define types from JSON examples https://t.co/RtpP29EmO5
+910366539462869000,Wed Sep 20 04:54:31 +0000 2017,@modocache @slava_pestov @tonic888 Did you draw this?  You have no idea how much fun Tanya is having with this right now :-)
+910363272330776600,Wed Sep 20 04:41:32 +0000 2017,RT @tkremenek: Swift 4.0 officially released! https://t.co/y9VnbPfAYS
+910362724810575900,Wed Sep 20 04:39:21 +0000 2017,@modocache Heh ok, I'm missing some context.  Referring to @tonic888 maybe?
+907433443629264900,Tue Sep 12 02:39:26 +0000 2017,@rxwei And why is the swift upside down??  🙃
+907354056691114000,Mon Sep 11 21:23:59 +0000 2017,Hard to believe it is already eek of 🐟 at 🍎
+905969684142362600,Fri Sep 08 01:42:59 +0000 2017,RT @llvmorg: LLVM 5.0 has been released! Thank you Hans, release testers, and everyone for all their hard work. https://t.co/y5kySJXBoT
+905109970936406000,Tue Sep 05 16:46:47 +0000 2017,Wow, I didn't realize that llvm/clang were growing this fast.  Such a great community! https://t.co/wV9AvWTxW4
+904716746275209200,Mon Sep 04 14:44:15 +0000 2017,RT @simjp: Thanks @clattner_llvm for discussing your concurrency manifesto with us! https://t.co/2XGobq2oGF
+904716663177625600,Mon Sep 04 14:43:55 +0000 2017,@simjp This chat was recorded a few weeks ago, so it doesn't incorporate some recent comments from folks, but is still a good intro!
+900860528267976700,Thu Aug 24 23:21:01 +0000 2017,RT @sindresorhus: Sorry to all my hard-core Node.js followers; I'm into Swift now. The type system won me over. And no, I don't want TypeSc…
+900589149144588300,Thu Aug 24 05:22:39 +0000 2017,RT @StephanTLavavej: Contributing to Clang/LLVM was unbelievably easy. New to this, I built/debugged/patched Clang and @hansw2000 merged my…
+898611479863111700,Fri Aug 18 18:24:06 +0000 2017,@joeerl As u can read in the doc, I have a nerd crush on Erlang and your work, and hope it gets more glory. +1 for… https://t.co/YussfKtAeI
+898361470961897500,Fri Aug 18 01:50:40 +0000 2017,@khanlou Cod-able
+898312666971689000,Thu Aug 17 22:36:44 +0000 2017,If you're interested in joining the discussion on what Swift concurrency should look like, please hop onto the swift-evolution mailing list!
+898310296183357400,Thu Aug 17 22:27:19 +0000 2017,I wrote a thing! An essay looking at how async/await+actors could transform Swift concurrency &amp; distributed compute: https://t.co/qWi7GOcBrJ
+897150073296928800,Mon Aug 14 17:37:00 +0000 2017,Also, seriously, how is there no brain emoji?  This is an outrage 😱
+897149537109684200,Mon Aug 14 17:34:52 +0000 2017,I'm super excited to join Google Brain next week: AI can't democratize itself (yet?) so I'll help make it more accessible to everyone!
+896576228257402900,Sun Aug 13 03:36:45 +0000 2017,@pinar747 Deodar cedar
+896513602999394300,Sat Aug 12 23:27:54 +0000 2017,... but also allow the tree to live on in its own backyard, in a super useful form.  Ultra locally sourced and orga… https://t.co/VC7YXLQnuW
+896512847600943100,Sat Aug 12 23:24:53 +0000 2017,... which used up the majority of the leftover wood and provide a comfy place to rest... https://t.co/1hDu95mfBu
+896512435598663700,Sat Aug 12 23:23:15 +0000 2017,... fortunately I just now find myself with some spare time to address that problem, changing it into four live edg… https://t.co/sa885vLwxR
+896511257636778000,Sat Aug 12 23:18:34 +0000 2017,... a live edge table did the trick, but left tons of BF of wood, and a few less desirable slabs laying around... https://t.co/HQKXD8kian
+896510641455849500,Sat Aug 12 23:16:07 +0000 2017,...then in Oct'14, when the wood was drier built a two slab table to use up some of the wood... https://t.co/kFQxsO1qDS
+896508994377760800,Sat Aug 12 23:09:35 +0000 2017,In Feb'12, a &gt;100ft tall 🌲 had to be removed from our yard. Had chainsaw guy rough cut it into slabs and quarters,… https://t.co/9QBiSv27RI
+894973159136350200,Tue Aug 08 17:26:43 +0000 2017,RT @tkremenek: Swift 5: start your engines https://t.co/31X3ckZMfb
+893530172971929600,Fri Aug 04 17:52:48 +0000 2017,RT @smileyborg: ARC is so damn good. Even working on UIKit, it’s really quite rare when the overhead shows up in any meaningful way.
+892084478465552400,Mon Jul 31 18:08:08 +0000 2017,RT @marcaruel: Chromium now defaults to clang on Windows  In ~3mo, 1 Billion Chrome users will get to run clang generated binaries  https:/…
+890749413731164200,Fri Jul 28 01:43:04 +0000 2017,RT @gruber: Am I the last one to notice that this emoji has the Swift logo? 🏎 https://t.co/GtN0eXAWhi
+889703834401951700,Tue Jul 25 04:28:18 +0000 2017,@jckarter You too, sugarer of syntax?  Semantics are forsaken to one more?
+883874884232765400,Sun Jul 09 02:26:08 +0000 2017,@ayanonagon Very nice!  Working with wood is a good reminder that the real world is incredibly analog
+881975376007671800,Mon Jul 03 20:38:10 +0000 2017,@camroth #2: because DRY, “don't repeat yourself”
+880855287573340200,Fri Jun 30 18:27:20 +0000 2017,RT @olebegemann: I typed up some @clattner_llvm quotes from the Swift panel that happened during WWDC: https://t.co/cPqGzbW76V
+880453642209214500,Thu Jun 29 15:51:20 +0000 2017,Code is art.  Artists obsess over the details! https://t.co/la0RDArZoS
+877685726757797900,Thu Jun 22 00:32:38 +0000 2017,I finally updated my resume, it now includes my contributions to Tesla.  Been busy and working hard! 🏎✇  https://t.co/z16CqhDH8M
+877353276676612100,Wed Jun 21 02:31:36 +0000 2017,My resume is easy to find online.  7 years of Swift experience 👍
+877341760812232700,Wed Jun 21 01:45:50 +0000 2017,Turns out that Tesla isn't a good fit for me after all.  I'm interested to hear about interesting roles for a seasoned engineering leader!
+875194902685950000,Thu Jun 15 03:34:59 +0000 2017,Deep learning loves big data! https://t.co/Tw2M0P1KRv
+874077571276656600,Mon Jun 12 01:35:07 +0000 2017,RT @elonmusk: @ElectrekCo @TeslaRoadTrip HW2 Autopilot release should go wide next weekend with additional smoothness improvements to longi…
+873755136014770200,Sun Jun 11 04:13:52 +0000 2017,RT @FredericLambert: Update: full speed Automatic Emergency Braking (AEB) is also included in this software update https://t.co/SUdpF5HVSU
+872333852622061600,Wed Jun 07 06:06:12 +0000 2017,RT @benatbensnider: @realm typealias Codable = 🐟able Can’t unsee, thanks @clattner_llvm 😑
+871923167064858600,Tue Jun 06 02:54:17 +0000 2017,RT @tkremenek: If you want to see Xcode 9's refactoring shine on C++, check out What's New in LLVM later this week #wwdc17
+871846272054906900,Mon Jun 05 21:48:44 +0000 2017,RT @cocoawithlove: Xcode 9: "The new editor goes beyond text entry with a new built-in refactoring and transformation engine." https://t.co…
+871574689507754000,Mon Jun 05 03:49:33 +0000 2017,@dgregor79 @jordanpittman @daniel_duan better be a big cage, to contain all the ra8e
+871561276715028500,Mon Jun 05 02:56:15 +0000 2017,@dgregor79 @jordanpittman @daniel_duan Whoa, so glad I'll have to miss that...
+870706330847240200,Fri Jun 02 18:19:00 +0000 2017,Happy 3rd announciversary, unveiliversity, or revealiversity (?) of @SwiftLang 🎉. Looking forward to next week! https://t.co/ip2ENTJ3wp
+870381586297966600,Thu Jun 01 20:48:35 +0000 2017,RT @TimTr: Robots make everything more fun. Swift Playgrounds adds robots, drones, and a lot more.  https://t.co/iSFoR0BgBx
+870349124540940300,Thu Jun 01 18:39:36 +0000 2017,Pretty awesome that there is now a supported way to program Lego Mindstorms with real Swift code! 🤖🏎📱 https://t.co/DCnsB5lBOO
+866490028628648000,Mon May 22 03:04:56 +0000 2017,RT @elonmusk: Excited about the Tesla Autopilot software release rolling out next month. New control algorithm feels as smooth as silk.
+864623700720590800,Tue May 16 23:28:48 +0000 2017,RT @IllinoisCS: CS Professor Vikram Adve has been named Interim Head of @IllinoisCS (had served as Associate Head since 2015).  https://t.c…
+864329331950014500,Tue May 16 03:59:05 +0000 2017,@thombullock I let him pick out my socks in the morning too
+864323178511847400,Tue May 16 03:34:38 +0000 2017,Making of, and the lucky Zac https://t.co/aUODfOVUQR
+864323010102050800,Tue May 16 03:33:58 +0000 2017,Each time I build a bookcase for Zac, it gets more complicated.  #notspacex https://t.co/u22GEArwQV
+864252505605066800,Mon May 15 22:53:49 +0000 2017,RT @simjp: Catch @realm’s #WWDC17 Swift Panel on June 6th with @clattner_llvm, @jesse_squires, @kamilah &amp; @eridius https://t.co/rvMhkLM9pW…
+860989564600569900,Sat May 06 22:48:03 +0000 2017,@dmierau Fixed, thanks!
+860907765836898300,Sat May 06 17:23:00 +0000 2017,Incidentally, auto steer up to 90 mph is important to enable Model X to to go 88.8: https://t.co/Fdrp1FY5iu …  🏎⏳
+860868668573368300,Sat May 06 14:47:39 +0000 2017,Another big HW2 release: https://t.co/WqhluqR5we Not mentioned in the release notes, but performance/feel is much improved as well
+860349763882893300,Fri May 05 04:25:42 +0000 2017,Yes, I admit I said this today in front of a public audience.  Prefer to leave the (actor and reliability) context… https://t.co/NABH7kVmXU
+859235452535971800,Tue May 02 02:37:50 +0000 2017,RT @TeachCode: Looking to teach K5 students how to build apps for Apple devices? @gotynker now teaches Swift #EveryoneCanCode https://t.co/…
+855862623870500900,Sat Apr 22 19:15:25 +0000 2017,RIP Kaylee, 2006-2017.  Your amazing snuggling and even more amazing snoring will be truly missed.  You will always… https://t.co/BIY5RRWi6D
+854570028217258000,Wed Apr 19 05:39:06 +0000 2017,RT @daniel_dunbar: Swift Evolution now has its own app! https://t.co/F0pkkUZA27  Thanks @tholanda!
+850561531066540000,Sat Apr 08 04:10:46 +0000 2017,@dgregor79 @slava_pestov @jckarter @Gankro @nikomatsakis what i learned in academia is that determining whether som… https://t.co/g6hAHv2SFQ
+849678796416458800,Wed Apr 05 17:43:05 +0000 2017,@M_Ennabah @tkremenek it's a Swift from the Southern Hemisphere
+848273158834602000,Sat Apr 01 20:37:35 +0000 2017,RT @christesla: @elonmusk so pleased to have summon again :) I haven't been able to park my 2017 S in this super tight garage until now :)…
+848212109032775700,Sat Apr 01 16:35:00 +0000 2017,@greg3z yes, but there would be fewer kinds of initializers
+847091735708688400,Wed Mar 29 14:23:02 +0000 2017,8.1 is the biggest update yet for Autopilot HW2 cars: https://t.co/xwCWdpWJnv
+846929263567630300,Wed Mar 29 03:37:26 +0000 2017,RT @cocoawithlove: SourceKitService crashes: Mar 27 (Xcode 8.2.1) 47 Mar 28 (Xcode 8.3) 0 Same codebase, roughly the same time working. Tha…
+846567962735624200,Tue Mar 28 03:41:45 +0000 2017,RT @SwiftLang: New post on the https://t.co/5NNXraGyus blog about the new features in Swift 3.1, released today with Xcode 8.3:   https://t…
+846567150215053300,Tue Mar 28 03:38:31 +0000 2017,Congrats to the Apple team for an awesome Xcode 8.3 release, great to see it come together! https://t.co/wipCjvsgSH
+845658216012824600,Sat Mar 25 15:26:44 +0000 2017,@mpweiher @slava_pestov @dgregor79 saving it from C (whole family)
+845505092539207700,Sat Mar 25 05:18:17 +0000 2017,@slava_pestov @dgregor79 Swift compiler is indicative of any big C++ project. Saving the world is exactly why Swift itself needed to happen!
+845502604704604200,Sat Mar 25 05:08:24 +0000 2017,@dgregor79 @slava_pestov Selection bias for compiler writers: it makes you believe all code is broken. For C family, usually isn't wrong...
+845092489098801200,Fri Mar 24 01:58:45 +0000 2017,RT @ericasadun: Swift Playgrounds 1.2 now available. https://t.co/9rs94ZaP2a
+844192059049181200,Tue Mar 21 14:20:45 +0000 2017,RT @brianhurley: Apple’s app for learning to code, Swift Playgrounds, expands beyond English and into 5 new languages https://t.co/TconJTVW…
+843176394125328400,Sat Mar 18 19:04:52 +0000 2017,RT @NYSvegan: @mikeolson @clattner_llvm @redmonk I just posted top 10 languages, which also takes into account job postings:   https://t.co…
+842962760006697000,Sat Mar 18 04:55:58 +0000 2017,Awesome. Tiobes premise of limited to 🍎platforms doesn't seem supported by Swift growing faster🚀 than ObjC shrink.… https://t.co/N5L1yLMvz2
+842924144341672000,Sat Mar 18 02:22:31 +0000 2017,RT @mikeolson: Yo, coders: The @redmonk language rankings are out. R and Swift on a tear; Rust a surprise star. Much more at https://t.co/b…
+842590310525947900,Fri Mar 17 04:15:59 +0000 2017,Nice discussion of how LLVM's compiler and OpenMP runtime are helping boost HPC https://t.co/iRnEeapXRU
+842380339129417700,Thu Mar 16 14:21:38 +0000 2017,@slava_pestov @jckarter @maxgoedjen @tonyarnold @orta @steipete also at building a team of exceptional engineers to finish it off
+841433959502237700,Mon Mar 13 23:41:03 +0000 2017,Congrats to the LLVM community for the big 4.0 release, onward to 5! https://t.co/8rZw6QjVPZ
+839353260251070500,Wed Mar 08 05:53:06 +0000 2017,@dgregor79 wellknown interview tip: if someone you're interviewing solves one of the open problems you've been struggling with, hire them! 💯
+839348406157881300,Wed Mar 08 05:33:49 +0000 2017,@dgregor79 @jckarter @slava_pestov @stephentyrone @rygorous I forget: were we asking to see if you knew, or because WE needed to know? :-)
+838959759650766800,Tue Mar 07 03:49:28 +0000 2017,Off to a nice start, summarizing Swift OSS.  Apple cares a lot more about tooling than they realize though. 🔨🔧🔩 https://t.co/jB7lxdanes
+836785671196954600,Wed Mar 01 03:50:25 +0000 2017,RT @olebegemann: Generic subscripts: “resolved”. https://t.co/vdruBN8L6j 🎉🎁 Great work @slava_pestov!
+833720713387221000,Mon Feb 20 16:51:22 +0000 2017,@igormaka @tkremenek ask on swift-evolution or -users.  It isn't a relic of the past, int32/64 is a worse design.
+832644452451692500,Fri Feb 17 17:34:41 +0000 2017,Memory Ownership + move semantics is likely coming to Swift.  Full design manifesto and TL;DR below: https://t.co/E4PnOgVdBi
+832466868963151900,Fri Feb 17 05:49:02 +0000 2017,RT @tkremenek: [swift-evolution] Swift 4, stage 2 starts now: https://t.co/NpPswTSiyY
+827178367652749300,Thu Feb 02 15:34:25 +0000 2017,RT @olebegemann: Great post by @AirspeedSwift about drawing the line what should be in the standard library and what shouldnʼt: https://t.c…
+824765184845570000,Thu Jan 26 23:45:18 +0000 2017,RT @ematejska: Do slow Debug (non-WMO) builds of mixed Objc/Swift projects have you down? Check out:  https://t.co/mYuFIoA916
+824684888397721600,Thu Jan 26 18:26:13 +0000 2017,RT @appleinsider: #Apple #Swift ranks second in fastest-growing skill demands among freelancers https://t.co/TA9CyAlCcm https://t.co/6rWXX6…
+824407039711404000,Thu Jan 26 00:02:09 +0000 2017,More than you ever wanted to know about what Swift ABI stability means, requires, and the path towards it https://t.co/tGe7v9zSTw
+824321153292345300,Wed Jan 25 18:20:52 +0000 2017,RT @siracusa: That's what I'm talking about… https://t.co/2it3utvTKO #swift #perl6
+823935013888532500,Tue Jan 24 16:46:29 +0000 2017,It was fun chatting with @garricn about how I got into programming and other topics! https://t.co/sAELenIIzj
+823647281924554800,Mon Jan 23 21:43:09 +0000 2017,RT @rballard: We've just published a roadmap for the Swift 4 Package Manager: https://t.co/6IGHjvmQEk
+823611815313567700,Mon Jan 23 19:22:13 +0000 2017,RT @atpfm: Full transcript of our interview with @clattner_llvm: https://t.co/ibHsQTN4Me
+823211364386648000,Sun Jan 22 16:50:58 +0000 2017,RT @olebegemann: Official Docker Image for Swift now available: https://t.co/rGTaxBOsxo
+822285442930180100,Fri Jan 20 03:31:41 +0000 2017,RT @AirspeedSwift: Design ideas for strings in #swiftlang over at swift-evolution #MakeStringsCollectionsAgain https://t.co/l00eJrYxrq
+822154854290161700,Thu Jan 19 18:52:46 +0000 2017,RT @TechCrunch: NHTSA's full final investigation into Tesla's Autopilot shows 40% crash rate reduction https://t.co/vzWTiCGCBp by @ethering…
+822122392352763900,Thu Jan 19 16:43:47 +0000 2017,Thanks to ATP for hosting me on their show to ramble semicoherently about Swift past and future! https://t.co/0ZA5T1CF3G
+821182992546603000,Tue Jan 17 02:30:56 +0000 2017,Last week was incredibly hard: saying goodbye to so many amazing colleagues and friendships😢. 🍏 is in such great hands. I will miss you all!
+821182891405099000,Tue Jan 17 02:30:32 +0000 2017,I'm over the moon excited about my next step and can't wait to start later this month, but I have to say:
+819981892225110000,Fri Jan 13 18:58:12 +0000 2017,@Julie188 thank you so much!Perhaps next week: as you can imagine this has been a bit of a crazy week for me.
+819980781250441200,Fri Jan 13 18:53:47 +0000 2017,@madronalabs yep, I use a 4 stage apollo hvlp system, w a spray booth made out of foam panels in the garage.  I collapse it when not in use
+819974025371787300,Fri Jan 13 18:26:56 +0000 2017,My decision has nothing to do with "openness". The "friend" cited is either fabricated or speculating. Folk just want to make 🍎 look bad. 😠
+819753191654854700,Fri Jan 13 03:49:25 +0000 2017,RT @alexr: Apple is committed as ever to open source and LLVM in particular. https://t.co/Gs4WsJMy42
+819062261096423400,Wed Jan 11 06:03:55 +0000 2017,@Zebrano4me Waterbourne: I'm a target coatings fan.  Conversion varnish for the top and lacquer for the base FTW.
+819039598202351600,Wed Jan 11 04:33:51 +0000 2017,RT @danielpunkass: I hope folks will not overlook that amid all the drama of @clattner_llvm leaving Apple, @tkremenek remains a huge asset…
+818688173781852200,Tue Jan 10 05:17:25 +0000 2017,@kristinathai @smileyborg 😬🤣
+818620198336938000,Tue Jan 10 00:47:19 +0000 2017,Progress pictures :) https://t.co/pefGdRbAYS
+818499400313909200,Mon Jan 09 16:47:18 +0000 2017,A late 🎁 for @tonic888, finally finished building her 8' long claro walnut 🌳 dining table. https://t.co/gE9i6eCM64
+817446194737623000,Fri Jan 06 19:02:14 +0000 2017,Really great survey of the unsafe features in Swift, along with pointers 🙄 on how to use them effectively.  Thanks… https://t.co/NivRP63S9e
+811680723618758700,Wed Dec 21 21:12:19 +0000 2016,@igormaka I covered this in my recent talk: https://t.co/V8iOS1xa2f
+811316257295171600,Tue Dec 20 21:04:03 +0000 2016,Nice deep dive into tradeoffs imposed by tracing GCs, looking at the Java &amp; @golang implementations.  I'm an ARC fa… https://t.co/Ow2doM1RZp
+810175976583950300,Sat Dec 17 17:32:59 +0000 2016,Slides + speaker notes for my talk at IBM are up, discussing the road ahead of @SwiftLang, focused on research: https://t.co/4ewx3I3yy2
+809640290378137600,Fri Dec 16 06:04:22 +0000 2016,Great news for compiler geeks that are fans of ANTLR, it now supports Swift! 🤓  https://t.co/WCwD8adrEV https://t.co/EX0jDSx6NF
+808762489483558900,Tue Dec 13 19:56:18 +0000 2016,RT @michaeliteach: Absolutely fantastic release from @ParrotEducation this evening! Great to get a chance to program my drone with #SwiftPl…
+808388177459220500,Mon Dec 12 19:08:55 +0000 2016,The opportunity of Swift/Server, incl. how Swift's huge memory advantage is key for scalable servers and the cloud: https://t.co/VsOGXSMeTg
+807458569930948600,Sat Dec 10 05:34:59 +0000 2016,@vashpan Yes: try the 3.1 snapshots (which drop into Xcode) - a new one is out today! https://t.co/pT8fnhwrxD
+807368728048324600,Fri Dec 09 23:37:59 +0000 2016,Swift 3.1 is the first release to benefit from the new era of source compatibility, a result of swift-evolution ref… https://t.co/m4HvrriQ9b
+806564802290008000,Wed Dec 07 18:23:28 +0000 2016,A very thorough summary of how method dispatch works in various parts of Swift: https://t.co/DWWMUVtgLv
+806119028435644400,Tue Dec 06 12:52:08 +0000 2016,@slava_pestov I think it is salvageable, but should only be “squish expr references to this”, not “only typechecked… https://t.co/UOgtb12xTW
+805076141157404700,Sat Dec 03 15:48:04 +0000 2016,Happy 1 year anniversary to Swift Open Source and an amazing https://t.co/rqgJSq5sOm community!! 🎂🎂
+804726031546335200,Fri Dec 02 16:36:51 +0000 2016,Looking forward to giving a talk about Swift on Monday at IBM's PL Day: https://t.co/4ewx3HLX9s
+799377500291756000,Thu Nov 17 22:23:42 +0000 2016,Nice comparison between C++ Lambdas and Swift Closures, for those who know C++ but are curious about Swift: https://t.co/Eqycc6oKo0
+799335418504151000,Thu Nov 17 19:36:29 +0000 2016,Swift Playgrounds 1.1 Update is huge: Learn To Code 3, sound/music, line highlighting, Hour of Code, and more:  https://t.co/AwucqTUbhb
+799330681645977600,Thu Nov 17 19:17:40 +0000 2016,RT @SwiftLang: Swift Playgrounds is coming to Apple Retail for the Hour of Code:  https://t.co/PaK5RjmNP0
+794322598008012800,Thu Nov 03 23:37:19 +0000 2016,RT @chandlerc1024: Exciting news coming out of the #LLVM dev meeting so far: we're definitely moving to @GitHub! Still need to figure out t…
+794193349280313300,Thu Nov 03 15:03:44 +0000 2016,Oh my, hundreds of dragons have overrun the San Jose convention center! @llvmorg https://t.co/jP987OnwlM
+793100442976727000,Mon Oct 31 14:40:55 +0000 2016,RT @llvmorg: Just 3 days away... are you ready? #LLVMDevMtg16 https://t.co/FVdi2Uf3AY
+792115336120115200,Fri Oct 28 21:26:27 +0000 2016,RT @Chris__Bailey: Video of "The Advantage of Server-side Swift" talk by myself and @rfdickerson at @tryswiftnyc is now available:  https:/…
+792030960820756500,Fri Oct 28 15:51:10 +0000 2016,RT @stroughtonsmith: Touch Bar simulator! Screenshot options when you ⇧⌘4 ! https://t.co/LETnCF32Pd
+791731851207422000,Thu Oct 27 20:02:37 +0000 2016,Xcode 8.1 is now available in the Mac App Store, with full support for building Touch Bar apps. https://t.co/H03WPadF0Z
+791135959526023200,Wed Oct 26 04:34:46 +0000 2016,@Gankro @slava_pestov @jckarter @daniel_duan I'm not sure I follow your point here, but seems nuanced enough to discuss on swift-evolution 🤓
+790961791777943600,Tue Oct 25 17:02:41 +0000 2016,RT @tkremenek: Announcing a new https://t.co/05nHDp8DmE work group for Server APIs for Swift: https://t.co/DGiEkEnKST
+789572157667815400,Fri Oct 21 21:00:46 +0000 2016,RT @tkremenek: New https://t.co/05nHDp8DmE blog post on Whole Module Optimization in Swift 3: https://t.co/0Rk0tXR2sZ
+788589423655018500,Wed Oct 19 03:55:44 +0000 2016,@sethfri The problem with auto in objc is that the type system is wrong.  "auto x=4;" isn't NSInteger, "auto x=y+z;" does promotions, ...
+788244663815708700,Tue Oct 18 05:05:47 +0000 2016,Off to @GHC tomorrow to be part of #AppleGHC and meet the next generation of leaders.  If you're there, drop by the Apple booth to say hi!
+788243541617025000,Tue Oct 18 05:01:19 +0000 2016,RT @SwiftLang: New blog post is up — with lots of code! Objective-C ‘id’ as Swift ‘Any’:  https://t.co/GWl3q16eSn
+786643265567076400,Thu Oct 13 19:02:24 +0000 2016,@daniel_duan @ericasadun to be clear though, my answer was almost literally dripping with sarcasm.  Swift's name isn't inspired by a singer
+785576846909857800,Mon Oct 10 20:24:50 +0000 2016,RT @panzerdp: Mastering Swift: essential details about strings #ios #swift https://t.co/PGKJBYvEV3
+785316952877084700,Mon Oct 10 03:12:06 +0000 2016,Zoomed out a bit on profile picture to include more of the furry beast Kaylee.  She's a snoredog.
+785259323077201900,Sun Oct 09 23:23:06 +0000 2016,Note to self when letting son play on phone: make sure airplane mode is on...
+784889979340066800,Sat Oct 08 22:55:28 +0000 2016,RT @Jad6os: Learn @SwiftLang with #ProjectEuler and Swift Playgrounds: https://t.co/NXO2ZHhtI0. #EveryoneCanCode 🤓 @clattner_llvm @strought…
+783730631091982300,Wed Oct 05 18:08:38 +0000 2016,RT @KostiaKoval: 🎉 New Swift feature:  Concrete constrained extensions.  extension Array where Element == Int { }  https://t.co/AnTot0elnK…
+781915069944729600,Fri Sep 30 17:54:14 +0000 2016,@Resuna The page is correct. "Unlikely to ever change" means "it is a huge pain and a ton of work". It already is and not close to done...
+781909695313260500,Fri Sep 30 17:32:53 +0000 2016,@Jonathan_Blow My point is that you should ask on llvm-dev for tips.  LLVM isn't magically fast or slow, many subtle things affect perf.
+781699002462900200,Fri Sep 30 03:35:40 +0000 2016,@Jonathan_Blow 2/2: frontends are generally O(n) and codegen is full of NP complete algorithms, so tradeoffs are of… https://t.co/6UUmZHxxOS
+781698435015581700,Fri Sep 30 03:33:24 +0000 2016,@Jonathan_Blow 1/2: nice! LLVM can be slow when a front end generates tons of extraneous IR. A bit of care to gen t… https://t.co/UtGeW2COsK
+781691672207974400,Fri Sep 30 03:06:32 +0000 2016,RT @swiftlybrief: Issue #40 https://t.co/ifwUy6KEA0 written by @modocache
+779387250115162100,Fri Sep 23 18:29:35 +0000 2016,Swift support for protobufs is out! https://t.co/NViWfCEfCG
+778789139147698200,Thu Sep 22 02:52:54 +0000 2016,Overview of how “everyone can code” is bigger than building an app, along with the "2nd line argument" on why teach… https://t.co/qlAWlkAY4i
+776549736945901600,Thu Sep 15 22:34:19 +0000 2016,RT @codeorg: Thanks, Tim, for supporting the effort to give every student the opportunity to learn. https://t.co/hzXrTpPuwQ https://t.co/rc…
+776289098709422100,Thu Sep 15 05:18:38 +0000 2016,RT @iTunesU: Teach yourself to #code on iPad with this new course for Swift Playgrounds! #EveryoneCanCode https://t.co/irdVNXE4al https://t…
+775754288349851600,Tue Sep 13 17:53:29 +0000 2016,RT @SwiftLang: Xcode 8 with Swift 3 is now available on the Mac App Store.  https://t.co/QjfJPbIImQ
+775754264824000500,Tue Sep 13 17:53:24 +0000 2016,RT @SwiftLang: Swift Playgrounds for iPad is now available in the App Store!  Learn real Swift and iOS code on iPad.  https://t.co/i7A3tDnl…
+775750855215550500,Tue Sep 13 17:39:51 +0000 2016,Swift Playgrounds for iPad is live on the iOS App store: https://t.co/MCs3vaSTVC    more info: https://t.co/ScrNpwHZkK
+775746070747881500,Tue Sep 13 17:20:50 +0000 2016,RT @azamsharp: Sssshh! don't tell anyone Xcode 8 is now on the Mac App store! Keep it on the down low :) https://t.co/MQyDeNXASX
+775432455536844800,Mon Sep 12 20:34:38 +0000 2016,RT @stshank: I'm impressed with Apple's Swift Playgrounds app for iPad. It's an engaging way to learn programming. Review: https://t.co/nRA…
+773656478682984400,Wed Sep 07 22:57:33 +0000 2016,@jcampbell_05 @slava_pestov @NachoSoto @jckarter custom swift toolchains are not supported for App Store submissions.  GM tools are required
+773610729786134500,Wed Sep 07 19:55:45 +0000 2016,Xcode 8 GM Seed is now available: https://t.co/XjNjwnSpjw   Swift 3 code can now be submitted to the App Store!
+771165265149042700,Thu Sep 01 01:58:21 +0000 2016,@SimonCorsin @BuildingVTS @WhatsASoftware swift 3 and swift 2.3 are both included in Xcode 8
+771096441326493700,Wed Aug 31 21:24:52 +0000 2016,Practical advice about when to use Swift 2.3 and when to move to Swift 3, plus a summary of changes in Swift 3. https://t.co/tlOlWcFJcM
+765239579838296000,Mon Aug 15 17:31:47 +0000 2016,Xcode8b6 is now available.  It includes a bunch of Swift updates, including some late SE's.  https://t.co/XjNjwnSpjw
+761341791735910400,Thu Aug 04 23:23:22 +0000 2016,@krzyzanowskim @jckarter Additional rationale + vision here: https://t.co/ncmnncJBVQ
+760692820579643400,Wed Aug 03 04:24:36 +0000 2016,@iamdavidhart @Javi @owensd plausible to see move semntx (&amp; deinits on move-only types), but I expect it all to work very different than C++
+760201487511195600,Mon Aug 01 19:52:13 +0000 2016,RT @jckarter: id-as-Any is coming to Swift snapshots soon. If you want to try it ahead of it landing in Xcode, I'd love feedback. https://t…
+759162196559401000,Fri Jul 29 23:02:26 +0000 2016,@brennanSV @tkremenek Swift 3.0 is released this fall, the next major Swift 3.x update will be released in the Spring.
+759161365235773400,Fri Jul 29 22:59:08 +0000 2016,RT @SwiftLang: Looking back on Swift 3 and ahead to Swift 4:  https://t.co/A3HyqSxMD0
+758729611584741400,Thu Jul 28 18:23:30 +0000 2016,@slava_pestov Check out line 2218 of this diff: https://t.co/lEBqCKAB8Z
+758425521185095700,Wed Jul 27 22:15:09 +0000 2016,@jesse_squires @tkremenek @jckarter No, because there will be a single Swift 4 standard library in process, not one per version.
+758388691391742000,Wed Jul 27 19:48:48 +0000 2016,RT @olebegemann: The Swift 4 compiler is going to be able to compile Swift 3 code, even if syntax breaks in the meantime: https://t.co/ymOG…
+757626936810057700,Mon Jul 25 17:21:52 +0000 2016,@jesse_squires @chriseidhof nice post.  One correction: the migrator does work between betas, but you have to run it manually from Edit menu
+755226537499045900,Tue Jul 19 02:23:32 +0000 2016,RT @daniel_duan: Seeing error messages that I wrote myself in newly downloaded Xcode is pretty cool.
+754022427395362800,Fri Jul 15 18:38:50 +0000 2016,RT @tkremenek: July 27 is target date for last source-breaking changes for Swift 3: https://t.co/kEVRMbFE9w
+753699229248335900,Thu Jul 14 21:14:33 +0000 2016,RT @tim_cook: Yes, coding CAN be fun! Your kids (and you) are going to love Swift Playgrounds!  https://t.co/rvzE0CLuZs
+753428890060591100,Thu Jul 14 03:20:20 +0000 2016,My son finally noticed the Smart Keyboard on an iPad Pro - he says "ah, it has a computer in its case".  Kids these days...
+752879314199195600,Tue Jul 12 14:56:30 +0000 2016,RT @slava_pestov: Here I ramble at length about a random cross-section of the Swift compiler: https://t.co/06KjpJ9igZ
+751631879317516300,Sat Jul 09 04:19:39 +0000 2016,@ericasadun @jckarter a DWIM operator? I'd love that!  Care to contribute an implementation?
+751597003306471400,Sat Jul 09 02:01:04 +0000 2016,@ericasadun @jckarter ever?  I've heard some pretty crazy ones.  If I said that, I ignored my own tragically awful ideas in the ranking...
+747486495968112600,Mon Jun 27 17:47:22 +0000 2016,RT @olebegemann: Thoughts on Swift 3: https://t.co/W40nbvGsLI
+747127935144853500,Sun Jun 26 18:02:35 +0000 2016,RT @ashfurrow: Got feelpinions on Swift Playgrounds and creativity. tl;dr playgrounds can only help broaden programming education.  https:/…
+745132567750271000,Tue Jun 21 05:53:42 +0000 2016,In case you missed it: 📙"The Swift Programming Language" was updated for Swift 3 beta 1: https://t.co/8iC1EhsSGy &amp;  https://t.co/3qc5G5WlY0
+744944644711080000,Mon Jun 20 17:26:58 +0000 2016,RT @SwiftLang: Xcode 8 beta includes both Swift 3 and Swift 2.3.  The new blog post describes how these two versions relate:  https://t.co/…
+744262570287071200,Sat Jun 18 20:16:39 +0000 2016,Kids learn fast and coding comes natural to them -- we built Playgrounds to be simple and engaging so kids can teach their parents 😉✌️🐣🐥
+743678913075773400,Fri Jun 17 05:37:24 +0000 2016,Nice overview. Playgrounds works w/iTunes U &amp; (in my totally unbiased opinion) is great for teaching &amp; learning! 🎒📓🍭 https://t.co/pcej4Lrh18
+743627741744889900,Fri Jun 17 02:14:04 +0000 2016,RT @owensd: I'm really digging the new coding font. Good stuff!
+743474648340324400,Thu Jun 16 16:05:43 +0000 2016,RT @vixentael: I'm in love with #swiftlang 2.2 -&gt; 3.0 Migration Guide! 💕💓 💖 https://t.co/mDh4GBrUlJ #iosdev #wwdc2016 https://t.co/H2H4oiHh…
+742845256366858200,Tue Jun 14 22:24:45 +0000 2016,RT @jacobgorban: The new memory debugger in #xcode8 beta has already helped me uncover several memory leaks in a product I’m working on. Fa…
+742535307203989500,Tue Jun 14 01:53:07 +0000 2016,RT @tkremenek: Swift 3.0 Preview 1 released: https://t.co/IR7mscFK7G
+742524074077737000,Tue Jun 14 01:08:29 +0000 2016,See you tomorrow morning in "What's new in Swift" and in the labs all week long 💤😴
+742447497885319200,Mon Jun 13 20:04:12 +0000 2016,RT @SwiftLang: Swift Playgrounds.   An innovative new app for iPad to learn real Swift code.  https://t.co/Y1WCSxCshR
+742434341913907200,Mon Jun 13 19:11:55 +0000 2016,Always great to see the work of so many fantastic people come together.  If you're wondering, Swift Playgrounds really is something special!
+736237407016607700,Fri May 27 16:47:31 +0000 2016,Many many months later, family DIY treehouse/sandbox/slide is finally done-for-now.  Kid tested and approved! 🌲🌳🐌 https://t.co/bYGBZ2L1xz
+735638573504831500,Thu May 26 01:07:58 +0000 2016,RT @wilshipley: @rentzsch @clattner_llvm Well, I did write OmniGraffle, and I’d much rather have written it in Swift.
+735219426300035100,Tue May 24 21:22:25 +0000 2016,@jckarter @schwa Apple's Swift CPU: https://t.co/QVYu2RID2A
+734992912581169200,Tue May 24 06:22:20 +0000 2016,"Yes, it’s true:with a little tuning, C can be just as fast as Swift."🙊 Swift's Int is a better default than C's int https://t.co/NIDMrLhJME
+733748429294174200,Fri May 20 19:57:12 +0000 2016,RT @apike: API renaming doesn’t get much better than this: Swift async calls go from arcane to clear. https://t.co/x0FBLUAdtT https://t.co/…
+730613965995139100,Thu May 12 04:21:58 +0000 2016,Swift just passed 30K stars on github, here's to an amazing community! 🎉👍 https://t.co/6Gg4rLyUdm
+729008886401765400,Sat May 07 18:03:57 +0000 2016,TLDR: compared to LLVM C++ style, idiomatic swift is half the code.  The untuned swift is faster than untuned C++ 🌻 https://t.co/6GwoYV587x
+728740244405686300,Sat May 07 00:16:28 +0000 2016,RT @ericasadun: Swifification of NS Prefixes: https://t.co/BcGss840kx
+727587773784326100,Tue May 03 19:56:57 +0000 2016,Xcode 7.3.1 is available on the Mac app store: https://t.co/3bcRGSbo1F
+724647277868908500,Mon Apr 25 17:12:28 +0000 2016,RT @daniel_duan: The Swift version of Foundation objects are more natural, fully compatible, have new methods and faster.  https://t.co/2eO…
+723250422652100600,Thu Apr 21 20:41:52 +0000 2016,A truly encyclopedic look at strings in Swift: https://t.co/POyUFZK0jS
+722651267487690800,Wed Apr 20 05:01:03 +0000 2016,RT @iTunesU: The @Stanford app development course, updated for iOS 9. Get lectures as they're released. https://t.co/FJcvpDHKeM https://t.c…
+722233723001786400,Tue Apr 19 01:21:52 +0000 2016,RT @EEhare: Announcing the Apple Worldwide Developers Conference 2016 and WWDC Scholarships.  https://t.co/r0H6K11Y7i  #HelloWWDC16
+721462123868520400,Sat Apr 16 22:15:49 +0000 2016,A great &amp; detailed example of how powerful abstractions in Swift allow getting the job done with 1/3 the code! https://t.co/ohEIDpbsjs
+715948680667381800,Fri Apr 01 17:07:21 +0000 2016,Huh, ok.  Sounds like we need to expand the code of conduct to include the needs of AI-based friends of swift. https://t.co/GHMhdmQVfe
+715572957720870900,Thu Mar 31 16:14:22 +0000 2016,@ericasadun I think you under appreciate 3 space indent.  It looks the best, *and* conclusively settles the tabs vs spaces debate.
+715206336493957100,Wed Mar 30 15:57:33 +0000 2016,RT @SwiftLang: New community post on the https://t.co/5NNXraGyus blog about the new features in the recently released Swift 2.2:  https://t…
+713245551240683500,Fri Mar 25 06:06:05 +0000 2016,In case you haven't tried it yet, fuzzy code completion in Xcode 7.3 is pretty great! https://t.co/BEfYscFW0h
+713097299061116900,Thu Mar 24 20:16:59 +0000 2016,RT @ericasadun: New post: Swift Evolution News https://t.co/i5nNg2Mafa
+712678968697032700,Wed Mar 23 16:34:41 +0000 2016,A great pattern for working with the new Swift 2.2 #selector syntax, by  @AndyyHope : https://t.co/xKdCDfGOza
+712028970426830800,Mon Mar 21 21:31:50 +0000 2016,RT @SwiftLang: Swift 2.2 is now available with Xcode 7.3 in the App Store.  https://t.co/ksxJm47y5P
+712028697654505500,Mon Mar 21 21:30:45 +0000 2016,RT @tkremenek: Swift 2.2 released: https://t.co/9JpwrX0fh0
+710712523427688400,Fri Mar 18 06:20:44 +0000 2016,RT @FioraAeterna: someone made an LLVM ... pony https://t.co/DKvYGa7f0Z
+708453021613600800,Sat Mar 12 00:42:17 +0000 2016,RT @wooji: So, I wrote up a new post about my experience using #SwiftLang to create a “pro” app for iOS: https://t.co/2Rw6a2K9g9
+706522877953060900,Sun Mar 06 16:52:35 +0000 2016,RT @xjoeduffyx: If even half of this gets done, Swift will have a supremely badass generics type system (technical term): https://t.co/NYKo…
+704875995325567000,Wed Mar 02 03:48:27 +0000 2016,Totally awesome to see @daniel_duan implement a swift-evolution proposal and merge it himself. Great work! https://t.co/We5Dmdsvqr
+704703694927847400,Tue Mar 01 16:23:48 +0000 2016,@sheredom @chandlerc1024 Would love too, but the discussion on that stalled out apparently, and we have nothing formal to point to.
+704564156536467500,Tue Mar 01 07:09:19 +0000 2016,RT @jckarter: For those who live dangerously in Swift, @zaks_anna just added basic ASan support: https://t.co/bcmI39gsQa
+704342967914360800,Mon Feb 29 16:30:24 +0000 2016,RT @tkremenek: Swift direct commit access expanded to non-Apple contributors: https://t.co/uoD1TAKsnK
+701829663987925000,Mon Feb 22 18:03:25 +0000 2016,Live coding for 23000+ people: awesome, also a bit intimidating 😬 https://t.co/w0q3ZwJKvc
+701818751507824600,Mon Feb 22 17:20:04 +0000 2016,RT @SwiftLang: IBM made significant announcements today, helping being Swift to the server and the cloud. https://t.co/9nUNdOqjoe
+701809902616838100,Mon Feb 22 16:44:54 +0000 2016,IBM is making a huge push for Swift in the cloud, the package manager pieces sounds great too: https://t.co/WA2HBBb1ou
+700761478995902500,Fri Feb 19 19:18:50 +0000 2016,@chriseidhof @floriankugler This needs design work, it has come up on swift-evolution before, but noone has "owned" it.
+700761107745546200,Fri Feb 19 19:17:22 +0000 2016,@chriseidhof @floriankugler I mean that we should warn about unused values by default, and have an attribute "its ok to ignore this result"
+700760770443804700,Fri Feb 19 19:16:01 +0000 2016,@chriseidhof @floriankugler "warn_unused_result" is the wrong parity...
+698316224044728300,Sat Feb 13 01:22:16 +0000 2016,@radexp Thanks for letting me know, fixed in https://t.co/FrZAVXOmqV
+698178259515605000,Fri Feb 12 16:14:03 +0000 2016,RT @terhechte: Awesome news: #libdispatch inclusion into #Swift #Linux seems to have started: https://t.co/PXnYoURVAd (i.e. next Swift Linu…
+697530278495977500,Wed Feb 10 21:19:12 +0000 2016,Great perspective and advice for those wanting to move to Swift without rewriting perfectly good code: https://t.co/vqqSdcVkfc
+697460182142443500,Wed Feb 10 16:40:40 +0000 2016,RT @jmarcelino: Swift working on the $10 Orange Pi One! (AllWinner H3 CPU quad core ARMv7) Thanks for the build @iachievedit https://t.co/i…
+696846867360043000,Tue Feb 09 00:03:34 +0000 2016,RT @nadavrot: Swift Benchmark Suite now Available:  https://t.co/xMvzwju6gu
+696846281264599000,Tue Feb 09 00:01:14 +0000 2016,RT @SwiftLang: New blog post on interactive playgrounds. Includes a sample playground you can try with the latest Xcode 7.3 beta.  https://…
+695266565739016200,Thu Feb 04 15:24:01 +0000 2016,@chriseidhof because for/in defines let constant (captured by copy), var is captured by reference (unless a copy is made by a capture list)
+694983789441712100,Wed Feb 03 20:40:22 +0000 2016,@radexp Great point, thanks!  not sure how I missed that: https://t.co/uOpMTZQXRX
+694767964998889500,Wed Feb 03 06:22:45 +0000 2016,@radexp It is sad that more people don't know about this, hopefully this will help: https://t.co/U4a6lBHG1Z  Thanks for pointing this out!
+694739619569532900,Wed Feb 03 04:30:07 +0000 2016,@stephentyrone @slava_pestov @jckarter Having written much of LLVM's PowerPC and Sparc backends, I greatly prefer Sparc. Heretical, I know!
+694704404897763300,Wed Feb 03 02:10:11 +0000 2016,RT @SwiftLang: Xcode 7.2.1 is now available from the Mac App Store.   Improves support for debugging code that depends on a Swift framework.
+694256949903253500,Mon Feb 01 20:32:10 +0000 2016,RT @tkremenek: Continuous integration for Swift now online!  https://t.co/09emmMcYKx
+694214887115894800,Mon Feb 01 17:45:01 +0000 2016,Nice story of how the implementation of #llvm and Swift led to a clean PowerPC/Linux port of Swift-in tree already! https://t.co/pMPSYCEy4J
+693247003308924900,Sat Jan 30 01:39:00 +0000 2016,RT @tkremenek: ''The Great Swift API Transformation", a call for feedback from the Swift community on how Cocoa imports into Swift. https:/…
+692964636308668400,Fri Jan 29 06:56:58 +0000 2016,RT @if_var: Phew. My twitter handle is still valid Swift! :-)
+692498067149475800,Thu Jan 28 00:02:59 +0000 2016,@radexp every developer writing Swift code is using LLVM to compile it...
+691805778890641400,Tue Jan 26 02:12:05 +0000 2016,RT @SwiftLang: Xcode 7.3 also bundles Swift 2.2, including the first contributions from the https://t.co/5NNXraY9T2 community.  https://t.c…
+691803592806768600,Tue Jan 26 02:03:24 +0000 2016,RT @SwiftLang: Xcode 7.3 beta 2 is now live and includes interactive playgrounds for iOS and OS X.  https://t.co/ksxJm3PXeh
+691666330513076200,Mon Jan 25 16:57:58 +0000 2016,Sounds really promising!  His first post on partial functions is thought provoking, off to a great start https://t.co/XDhWobQSwG
+691119582405263400,Sun Jan 24 04:45:23 +0000 2016,@numbbbbb translations would be great! please ask on swift-dev for details
+691029244630011900,Sat Jan 23 22:46:25 +0000 2016,@JadenGeller @jckarter I just fixed this in Swift 3 in rev e9d1857 by banning members named Type.  Details here: https://t.co/ivL6glDvDO
+690327322575044600,Fri Jan 22 00:17:14 +0000 2016,@dgregor79 @jckarter @JohnRHeaton It is only that specific draft that is rejected, I clarified in the header of it.
+689838445506605000,Wed Jan 20 15:54:36 +0000 2016,RT @allonsykraken: New Post guys! We can all be hipsters now 🤓Hipster Swift: Demystifying the Mysterious  https://t.co/iF1bI3xWLs
+689131809724997600,Mon Jan 18 17:06:41 +0000 2016,@slava_pestov Looks like it, fixed in 4db5b98.  Thanks!
+687864506567921700,Fri Jan 15 05:10:52 +0000 2016,@bendodson Xcode 7.3b1 contains the same swift as Xcode 7.2, please try later betas that will pick up Swift 2.2
+687042102748811300,Tue Jan 12 22:42:56 +0000 2016,@ericasadun Nice summary, you might also be interested in this description of how LLVM works: https://t.co/O701BWcwys
+686675078772215800,Mon Jan 11 22:24:31 +0000 2016,RT @SwiftLang: Xcode 7.3 beta dramatically improves support for open source toolchains from https://t.co/5NNXraGyus.  https://t.co/ksxJm47y…
+686640523889655800,Mon Jan 11 20:07:12 +0000 2016,RT @NachoSoto: Apple made code completion a lot better in Xcode 7.3 beta 👏🏻 this is great, Apple! https://t.co/4fdqnH5sUi https://t.co/QyzH…
+685301983062802400,Fri Jan 08 03:28:19 +0000 2016,TL;DR: nonfragile all the public things, allow opting into fragility, &amp; exceed ObjC facilities for API evolution https://t.co/8rjlx8lAwE
+685208457922793500,Thu Jan 07 21:16:41 +0000 2016,Great deep dive into the internals of Swift's Array type. https://t.co/2DaIGEKYxM
+684571656543547400,Wed Jan 06 03:06:16 +0000 2016,RT @tkremenek: Swift 2.2 release process posted: https://t.co/dgfvpNyNcG
+683405514965794800,Sat Jan 02 21:52:26 +0000 2016,RT @daniel_dunbar: My initial proposal for adding C language target support to #swiftpm:   https://t.co/dZEOB3I2Un  Still a WIP, but feedba…
+682367254227464200,Thu Dec 31 01:06:45 +0000 2015,RT @SwiftLang: Great collection of videos from the community about programming with Swift:  https://t.co/ZCCdlv68xi
+681256291809935400,Sun Dec 27 23:32:11 +0000 2015,@jckarter @CodaFi_ @gparker This is necessary for struct return to handle the case where the receiver is nil
+680924704845082600,Sun Dec 27 01:34:35 +0000 2015,RT @armadsen: Thanks to @iachievedit, @hpux735, and others' hard work, I have the Swift compiler running on my @Raspberry_Pi! https://t.co/…
+680123028563341300,Thu Dec 24 20:29:00 +0000 2015,RT @simjp: The latest Swift 2.2 snapshot speeds up SwiftLint by about 30%! https://t.co/DkIqste8X7
+679831332315213800,Thu Dec 24 01:09:54 +0000 2015,SE-0015: "Tuple comparison operators" was also accepted.  Thanks to @eridius for proposing it!  https://t.co/Co17JjJI6A
+679826771982721000,Thu Dec 24 00:51:47 +0000 2015,SE-0008 accepted: "Add a Lazy flatMap for Sequences of Optionals" https://t.co/gaFpjNi612
+677564560035872800,Thu Dec 17 19:02:34 +0000 2015,RT @jckarter: Wish Swift vars could be atomic? Annoyed by lazy's limitations? Repetitive didSet boilerplate? I got an offer for ya https://…
+677202614216351700,Wed Dec 16 19:04:19 +0000 2015,Guidance about translating "The Swift Programming Language" now up: https://t.co/8iC1EhsSGy . Questions welcome on swift-dev or swift-users!
+676814163658727400,Tue Dec 15 17:20:45 +0000 2015,John Gruber chats about Swift OSS with Craig Federighi &amp; John Siracusa https://t.co/TDDMsgUfdB
+676583055910305800,Tue Dec 15 02:02:25 +0000 2015,@chuthan20 @ericasadun You joke, but that was already done in Swift 2.  It is called repeat - while now :-)
+676505092908957700,Mon Dec 14 20:52:37 +0000 2015,RT @SwiftLang: Binaries for Apple platforms and Linux are updated regularly at https://t.co/L03Ci02tyV and already include code submitted b…
+676472122437271600,Mon Dec 14 18:41:36 +0000 2015,First independent Swift language evolution accepted, proposed by well known iOS dev and author @ericasadun : https://t.co/t5dZ4jWuuV
+676073200782970900,Sun Dec 13 16:16:26 +0000 2015,@cocoanehead please ask about this on swift-users,  too difficult to answer over Twitter
+675491306043404300,Sat Dec 12 01:44:12 +0000 2015,RT @gte: Apple's Swift team is an example of the best, most professional, and friendly way to conduct yourselves as a technical team in pub…
+675354651038892000,Fri Dec 11 16:41:10 +0000 2015,Great deep dive from @mikeash on how weak and unowned pointers work, including comparison with objc weak: https://t.co/3vH4g5uKPi
+675160628298952700,Fri Dec 11 03:50:12 +0000 2015,@clattner_llvm Unlike with Swift, the benefits of *starting* development in version control weren't appreciated in the dark ages of 2006.
+675160272273866800,Fri Dec 11 03:48:47 +0000 2015,Ancient news, but Apple previously open sourced another spiffy compiler frontend, incl full rev history. 1st commit: https://t.co/LZFXHxoACu
+674666243400446000,Wed Dec 09 19:05:41 +0000 2015,@mikeash Perl 6 supports hyphens in identifiers, it pays for them by requiring $@% sigils at the start of every variable name.
+674488570187350000,Wed Dec 09 07:19:41 +0000 2015,@esusatyo only when they are making fun of me!  This actually happens a lot, I give people too much easy fodder :-)
+674454905449373700,Wed Dec 09 05:05:54 +0000 2015,Unnoticed? The awesome Swift Prog Lang "iBook" is now available under CC license, translations would be so great 📖 https://t.co/8iC1EhsSGy
+674264249133219800,Tue Dec 08 16:28:18 +0000 2015,Great intro and overview to the Swift package manager + build system: https://t.co/sA460xmImv
+674254974629503000,Tue Dec 08 15:51:27 +0000 2015,@jesse_squires yes, full days of meetings are the norm.  Between that and small kids, coding is a "nights and weekends" passion for me. 🤖
+673658104345587700,Mon Dec 07 00:19:42 +0000 2015,RT @jtbandes: Help Yourself to Some Swift https://t.co/OIWqjMpxqh #swiftlang (finally got around to posting this…)
+673596777224802300,Sun Dec 06 20:16:01 +0000 2015,@ilyathewhite @slava_pestov yep!
+673258358724419600,Sat Dec 05 21:51:15 +0000 2015,RT @slava_pestov: A recent change: designated inits that throw before stored props are set up now correctly free the partial object: https:…
+673166040574984200,Sat Dec 05 15:44:25 +0000 2015,@_matthewpalmer Doug went on to design and build most of the early Swift generics system (among other things) and now owns swift-evolution
+673162286127714300,Sat Dec 05 15:29:30 +0000 2015,Making small improvements is the way everyone starts getting involved! https://t.co/Etnv6k5KSQ
+673160379447443500,Sat Dec 05 15:21:55 +0000 2015,RT @steipete: Monthly reminder that   expr @import UIKit  gives lldb superpowers and restores your sanity and world peace. https://t.co/lfJ…
+673048357602902000,Sat Dec 05 07:56:47 +0000 2015,Swift's comments and test suite are on track to be one of the most correctly spelled and best indented ones in the industry! 🐙🐱
+672918467054542800,Fri Dec 04 23:20:39 +0000 2015,@a_cowley Check out: https://t.co/n3uLieti40
+672862378275409900,Fri Dec 04 19:37:46 +0000 2015,@jsusek the Swift team at Apple is in the Cupertino area, but the Swift development team just grew a bit!  I think it is pretty global now.
+672849947830554600,Fri Dec 04 18:48:23 +0000 2015,Nice to see Swift at the top of GitHub's programming languages charts: https://t.co/d57a0Xa5NQ
+672542341656264700,Thu Dec 03 22:26:04 +0000 2015,RT @tkremenek: Cool to see people on Day 1 of Swift OSS trying to get Swift working on other platforms (FreeBSD).  https://t.co/CnBUdnEO3B
+672541956128419800,Thu Dec 03 22:24:32 +0000 2015,RT @SwiftLang: https://t.co/5NNXraGyus is the new home for open source Swift, and there is an engineering blog at https://t.co/DPtUK1ENbS
+672523723375710200,Thu Dec 03 21:12:05 +0000 2015,Today is the result of an amazing amount of work by dedicated and phenomenal teams of people across Apple.  Proud to be part of the team!
+672517526077616100,Thu Dec 03 20:47:27 +0000 2015,RT @siracusa: "Yes, I do still write code…" —@clattner_llvm  https://t.co/duwhi3V2Cy  (Quote from https://t.co/xNIYRLSKeB)
+672512387333787600,Thu Dec 03 20:27:02 +0000 2015,RT @arstechnica: Craig Federighi talks open source Swift and what’s coming in version 3.0 https://t.co/SdRSbo1HsE by @AndrewWrites
+672512155128832000,Thu Dec 03 20:26:07 +0000 2015,RT @SwiftLang: Swift is now open source! Read the full launch announcement on the Swift blog https://t.co/KpC9xID5kU https://t.co/KDokfWjmkZ
+671384120501534700,Mon Nov 30 17:43:42 +0000 2015,RT @1101_debian: Blogged about using #LLVM API with #swift https://t.co/lrY9t6Y7UY  /cc @clattner_llvm @iOSDevWeekly @llvmweekly
+669348868706865200,Wed Nov 25 02:56:20 +0000 2015,@chriseidhof @martinklepsch a work mate would be too lightweight for handwork.  Go for a 4" thick Roubo, that will have you covered 😀🌳
+666824324263751700,Wed Nov 18 03:44:42 +0000 2015,RT @jckarter: The Swift book's been updated with more detail about the semantics of inout parameters: https://t.co/or8xLgxjh3
+666436443326189600,Tue Nov 17 02:03:24 +0000 2015,@rob_rix Thanks for the report, I just fixed on Swift ToT. You now get "error: value of optional type '(Int, Int)?' not unwrapped; did ..."
+665194470481104900,Fri Nov 13 15:48:15 +0000 2015,RT @llvmweekly: NNSA+Lawrence Livermore+Sandia+Los Alamos+Nvidia to develop an open-source Fortran frontend for LLVM https://t.co/Om62otUrFX
+664134375685029900,Tue Nov 10 17:35:48 +0000 2015,RT @terhechte: The #llvm conf video from @clattner_llvm &amp; @jckarter talk on #Swift's high-level IR is out: https://t.co/kTIxSVmgig #swiftla…
+664110213868314600,Tue Nov 10 15:59:48 +0000 2015,RT @llvmweekly: Most LLVM Dev Meeting videos are up. https://t.co/owMda3eQdH This includes @clattner+@jckarter on Swift IR https://t.co/nHe…
+661604296962670600,Tue Nov 03 18:02:11 +0000 2015,RT @bradlarson: I’ve published a detailed analysis of our finished rewrite from Objective-C to Swift of our Mac application: https://t.co/R…
+661206117121265700,Mon Nov 02 15:39:57 +0000 2015,RT @swiftcio: SIL and its not-so-basic blocks https://t.co/DdR1vYSCXx #swiftlang
+661063150624620500,Mon Nov 02 06:11:51 +0000 2015,@sirinath @llvmweekly swift open source was announced for "later this year", and contributions will be welcomed. More details availabl then.
+661048652345970700,Mon Nov 02 05:14:15 +0000 2015,@sirinath @jckarter @llvmweekly I'm with @jckarter on this, uncol and andf are other failed universal IRs.  LLVM and Java bytecode won.
+660893638268862500,Sun Nov 01 18:58:16 +0000 2015,@FredericJacobs @jckarter SIL is target independent if the input code is.  It doesn't reflect #if for example
+660474419626664000,Sat Oct 31 15:12:27 +0000 2015,RT @llvmweekly: Slides from @clattner_llvm and @jckarter's LLVM Dev Meeting talk on the Swift Intermediate Language (SIL) https://t.co/lz4v…
+659983293069176800,Fri Oct 30 06:40:53 +0000 2015,@akosma @jckarter yep, all of the LLVM devmtg talks are taped and slides are made available after the event.
+659978484974948400,Fri Oct 30 06:21:47 +0000 2015,Looking forward to presenting a talk about "SIL", swift's high level IR, along with rationale and problems solved, tomorrow with @jckarter
+659966192786890800,Fri Oct 30 05:32:56 +0000 2015,RT @xjoeduffyx: Small step down a long road: we've begun to openly document the PDB format, and will eventually OSS readers/writers: https:…
+659740018655653900,Thu Oct 29 14:34:12 +0000 2015,The 2015 LLVM developer meeting is here! https://t.co/bIkxzlFC6A https://t.co/I2mNf5Qrlk
+657287462876659700,Thu Oct 22 20:08:37 +0000 2015,@thanegill It would have to have the same type as the dynamic Self type, to work w/ derived classes. Enabling this hasn't been a priority.
+656998197399711700,Thu Oct 22 00:59:11 +0000 2015,Awesome that a new community gets to benefit from all the hard work that goes into LLVM &amp; Clang: https://t.co/2Q3hCnD12x
+656941010287595500,Wed Oct 21 21:11:56 +0000 2015,RT @SwiftLang: Xcode 7.1 is now available as an update in the Mac App Store. Use Swift to create apps for Mac, iPhone, iPad, Apple Watch, a…
+656918646250319900,Wed Oct 21 19:43:04 +0000 2015,Xcode 7.1 is now live on the Mac App Store: https://t.co/H03WPadF0Z
+656242064523333600,Mon Oct 19 22:54:35 +0000 2015,RT @terhechte: Advanced &amp; Practical #Enum usage in #Swift / #Swiftlang. Got a bit out of hand..: https://t.co/LNxY5GBVuE
+656116666095439900,Mon Oct 19 14:36:17 +0000 2015,RT @headinthebox: At this point, @SwiftLang is probably a better, and more valuable, vehicle for learning functional programming than Haske…
+655901971765858300,Mon Oct 19 00:23:10 +0000 2015,@jckarter @nicklockwood @mpweiher @uliwitness @gregtitus operators *are* names, just ones blessed with infix/prefix/postfix syntax
+655583472338120700,Sun Oct 18 03:17:34 +0000 2015,@___solaris___ We have a monthly LLVM social, which is usually the first Thursday of the month. Subscribe to the llvm-dev list for more info
+655581008671039500,Sun Oct 18 03:07:47 +0000 2015,An intro to what LLVM is and how it works that I wrote a while ago: http://t.co/O701BWcwys  I'm happy it is useful! https://t.co/s2td0iMXTC
+653811341044510700,Tue Oct 13 05:55:45 +0000 2015,RT @llvmorg: Please review the proposed LLVM Community Code of Conduct! http://t.co/ppJffo6KUj
+651958496498352100,Thu Oct 08 03:13:13 +0000 2015,RT @SwiftLang: Xcode 7.1 beta includes a cool new feature for playgrounds: Literals. The blog explains, and includes an example:  https://t…
+651614227468193800,Wed Oct 07 04:25:12 +0000 2015,Xcode 7.1 beta 3 is out, with bug fixes, improved IB support for 3D Touch, and richer playgrounds API: https://t.co/gKemKtaxVu
+650355817955242000,Sat Oct 03 17:04:44 +0000 2015,@alastairstuart the preferred swift approach is to define a NEW operator for a new operation, not to reuse existing ones (like C++ forces)
+650354422430588900,Sat Oct 03 16:59:11 +0000 2015,Interesting approach to implementing a bindings like system, but not too enthused about repurposing shift operator! https://t.co/qiNqvx6BS2
+650039503650885600,Fri Oct 02 20:07:49 +0000 2015,RT @_eliperkins: I put a few words together about mocks in Swift using protocols for your morning pleasure http://t.co/TodpZAcEDG
+649259042599145500,Wed Sep 30 16:26:33 +0000 2015,@owensd FWIW, this is already fixed in Xcode 7.1 beta 2.
+648151970465710100,Sun Sep 27 15:07:26 +0000 2015,RT @practicalswift: Thank you Swift compiler engineers! Xcode 7.1 beta 2 fixed 70 % of all Swift crashing bugs (788 of 1119 crashes) – http…
+647846979435782100,Sat Sep 26 18:55:30 +0000 2015,RT @jfpoole: Geekbench 3 built with Xcode 5 (left) and Xcode 7 (right) on the iPhone 6s: http://t.co/ArvQr4HXrf  8% increase in performance…
+646746048598290400,Wed Sep 23 18:00:48 +0000 2015,Xcode 7.1 beta 2 is out - with playground literals, quality fixes, and support for C bitfields &amp; unions (oh my!)   https://t.co/gKemKts9k4
+646365920793788400,Tue Sep 22 16:50:19 +0000 2015,Great to see free "intro to swift programming" content that is so well done!  Needs more firefly references tho ;-) https://t.co/I4ZirqLF36
+646060750033653800,Mon Sep 21 20:37:40 +0000 2015,A clever approach in the ongoing saga of how to best decode json in Swift: https://t.co/p6krweY19y
+645988039420870700,Mon Sep 21 15:48:45 +0000 2015,RT @mhollemans: I just posted my CocoaHeads talk from yesterday, Mixins and Traits in Swift 2.0: http://t.co/18iVFHScIN
+645076816135241700,Sat Sep 19 03:27:52 +0000 2015,@derrh Swift has always supported custom literals with its "LiteralConvertible" protocols. You can also do things like "42.km" w/ proto exts
+644230648153026600,Wed Sep 16 19:25:30 +0000 2015,RT @SwiftLang: Xcode 7 with Swift 2 is available for update in the App Store. And now everyone can develop on-device for free, not just in …
+642022265261953000,Thu Sep 10 17:10:10 +0000 2015,RT @SmileyKeith: Fastcompany interviewed some people at Lyft about our Swift rewrite https://t.co/KT2PZfbEbs
+641718159175651300,Wed Sep 09 21:01:46 +0000 2015,@YourTravis we are still on track for "by the end of 2015" as promised, more details will come out when they can
+641697365003341800,Wed Sep 09 19:39:08 +0000 2015,Xcode 7 GM seed with Swift 2 GM now available!  Also get 7.1beta for new devices: https://t.co/gKemKtaxVu
+640745349204672500,Mon Sep 07 04:36:10 +0000 2015,RT @estebanrules: “Swift + Guard” by @JordanMorgan10 Amen.  Guard rocks.  #swiftlang #iosdev https://t.co/0rXJr0Ghsh
+638824594355281900,Tue Sep 01 21:23:46 +0000 2015,RT @hansw2000: LLVM 3.7.0 is out: http://t.co/vH5PBiytCC
+638023125284728800,Sun Aug 30 16:19:01 +0000 2015,RT @practicalswift: Xcode 7b6 fixed 100 % (25/25) of all "swiftc golfers" (len(crash case) &lt;= 10): https://t.co/dbAlqjKbOb Great job Swift …
+637039730543095800,Thu Aug 27 23:11:22 +0000 2015,RT @practicalswift: Impressive! Xcode 7b6 fixed 62 % of all tracked swiftc crashes in swift-compiler-crashes: https://t.co/rPQ4LcdRwH #fuzz…
+636947286367428600,Thu Aug 27 17:04:01 +0000 2015,A nice approach for capturing file/line info of errors that you throw: https://t.co/sHpoGvXJlb
+635949317178585100,Mon Aug 24 22:58:27 +0000 2015,RT @_jackhl: A new version of the Swift Standard Library playground is live, updated to work with Xcode 7 beta 6. https://t.co/vXgcOlAlI7
+635933283298074600,Mon Aug 24 21:54:44 +0000 2015,Xcode 7 beta 6, now with "try?": https://t.co/Pg3a3lwIoZ
+634386605403336700,Thu Aug 20 15:28:47 +0000 2015,Great survey of the swift pattern matching features: https://t.co/YVkFuWME8q
+634384108743884800,Thu Aug 20 15:18:52 +0000 2015,RT @llvmorg: The LLVM Foundation has been granted 501(c)(3) status! http://t.co/ZKMy9dzS3O
+634042168575815700,Wed Aug 19 16:40:07 +0000 2015,@jckarter @owensd yep, that is a common misperception: deterministic != predictable.  Autoreleasepools are the classic example of that.
+634016747238985700,Wed Aug 19 14:59:06 +0000 2015,@owensd ARC means deterministic destruction, which means no need for finalizers and all the pain, suffering, and destruction they bring :-)
+633852656117641200,Wed Aug 19 04:07:04 +0000 2015,@clattner_llvm Only thing we missed is perpetuating the ++ and -- operators. :-)
+633851409125937200,Wed Aug 19 04:02:06 +0000 2015,It sounds like @ericlippert would like Swift, which fixes 9/10 of his most disliked C# problems by my count: http://t.co/eIFdgeyRTA
+632769216278491100,Sun Aug 16 04:21:52 +0000 2015,@marcoskirsch it is just (almost) 1 year after Swift 1 came out.  Given its evolution so far, why assume that these features won't happen?
+632646018803241000,Sat Aug 15 20:12:19 +0000 2015,RT @practicalswift: Steady progress! Xcode 7b5 fixed 77 % of all tracked compiler crashes in the swift-compiler-crashes project https://t.c…
+631631802742935600,Thu Aug 13 01:02:11 +0000 2015,RT @SwiftLang: Xcode 7 includes a “Swift-er” SDK so your Swift code looks even better with Cocoa.  New blog post is live: https://t.co/AdY5…
+629500507619352600,Fri Aug 07 03:53:11 +0000 2015,RT @JordanMorgan10: “It could have been developed to be mostly right, but when it would be…” — https://t.co/VX0f7tnhEP #swiftlang http://t.…
+629344357464805400,Thu Aug 06 17:32:42 +0000 2015,Xcode 7 beta 5: https://t.co/Pg3a3lwIoZ
+629307120282767400,Thu Aug 06 15:04:44 +0000 2015,RT @codinginswift: 🔥🔥 Sizzling 🔥🔥  The Fibonacci SequenceType http://t.co/oIVF9N08d8  via @jtbandes #swift #swiftlang #fibonacci
+628933597454413800,Wed Aug 05 14:20:29 +0000 2015,@slava_pestov @SteveStreza indeed, getting decent errors and warnings out of the compiler is a bit of a holy war for me ATM
+628311903400407000,Mon Aug 03 21:10:05 +0000 2015,A great intro to what LLVM is all about, including a bit of how it works on the inside. https://t.co/Xits2Ng3h9
+626783842947301400,Thu Jul 30 15:58:07 +0000 2015,RT @AirspeedSwift: This is a nice demonstration of how subscript get/set and inout variables (as used by ++) work together: http://t.co/tWb…
+624703325481533400,Fri Jul 24 22:10:53 +0000 2015,Whittling away, I love that @practicalswift keeps fuzzing to find more, a nice high bar is great! https://t.co/AiPlOejS13
+624415396821516300,Fri Jul 24 03:06:46 +0000 2015,RT @capttaco: Kindly consider reading this: http://t.co/LmzEw8Lsz7  …where-in I present a swift solution for dynamically typed objects in C…
+624353964948095000,Thu Jul 23 23:02:39 +0000 2015,RT @SwiftLang: New powers and behaviors of Strings in Swift 2:   https://t.co/RN4kagJE9V  The blog is back!
+624233857118658600,Thu Jul 23 15:05:23 +0000 2015,RT @AirspeedSwift: Changes to the #swift standard library in 2.0 betas 2..&lt;5 http://t.co/ALBKAGGuF9
+624092815975301100,Thu Jul 23 05:44:57 +0000 2015,@areitz fortunately, reasonable languages don't need those...
+623863463450808300,Wed Jul 22 14:33:35 +0000 2015,RT @AirspeedSwift: Recursive enums are here! A persistent tree in #swift using indirect and pattern matching: http://t.co/Lv9o7OasNU
+623568032556646400,Tue Jul 21 18:59:38 +0000 2015,@krzyzanowskim Give this a try with Beta 4 :-)
+623567837466984400,Tue Jul 21 18:58:52 +0000 2015,Xcode 7 beta 4: indirect enums are here! https://t.co/Pg3a3lwIoZ
+622156767707791400,Fri Jul 17 21:31:47 +0000 2015,Great discussion of some aspects of protocol oriented programming. https://t.co/0e0jU3T2iE
+621795133550280700,Thu Jul 16 21:34:46 +0000 2015,RT @SmileyKeith: Swift takeaways: our code is infinitely more expressive. Swift 2 fixes nearly everything we complain about.
+621795120283672600,Thu Jul 16 21:34:43 +0000 2015,RT @SmileyKeith: As of our latest update the @Lyft app is entirely written in Swift.
+619544687389470700,Fri Jul 10 16:32:18 +0000 2015,Making continuous forward progress! https://t.co/zAOfnO4L1X
+618886201324388400,Wed Jul 08 20:55:43 +0000 2015,Xcode 7 beta 3:  https://t.co/Pg3a3lwIoZ
+617598438050377700,Sun Jul 05 07:38:36 +0000 2015,RT @JordanMorgan10: New post up over #ObjectiveC and its new features, plus #swiftlang interop: https://t.co/Ay9ZOGbg6U http://t.co/RIxjAc6…
+617148055100354600,Sat Jul 04 01:48:57 +0000 2015,RT @bjhomer: Whoa… check out the new "Find -&gt; Call Hierarchy" option in Xcode 7. Finds whole call stacks. http://t.co/YsRetiwpLH
+615235527621505000,Sun Jun 28 19:09:14 +0000 2015,RT @sketchyTech: Empowering Extensions in Swift 2: Protocols, Types and Subclasses (Xcode 7 beta 2) http://t.co/ZGcfOrTibT #swiftlang
+615176278174339100,Sun Jun 28 15:13:48 +0000 2015,RT @appleinsider: Apple's iTunes U course on Swift is watershed in high school computer science education http://t.co/c6L2yZcsOV http://t.c…
+615165691352584200,Sun Jun 28 14:31:44 +0000 2015,RT @practicalswift: Xcode 7b2 fixed 28 % of all Swift crashing bugs (75 of 264 crashes) in the swift-compiler-crashes project: https://t.co…
+614918031802658800,Sat Jun 27 22:07:38 +0000 2015,RT @SwiftLDN: David Owens II @owensd revisits his Swift performance tests, and things are looking up 🎈  http://t.co/7s8p8PjBo2 http://t.co/…
+613906970890801200,Thu Jun 25 03:10:02 +0000 2015,@siracusa that said, we have a ton of other higher priorities that affect users of swift.  Poor compiler hackers just have to suffer for now
+613906586050826200,Thu Jun 25 03:08:30 +0000 2015,@siracusa Many of us would love to rewrite the swift compiler in swift - it would crash a lot less, and be a lot more joyful for us.
+613825949025480700,Wed Jun 24 21:48:05 +0000 2015,RT @xenadu02: Swift 2 SIMD: http://t.co/NXKP7Oq0Zh
+613433163730169900,Tue Jun 23 19:47:17 +0000 2015,RT @andy_matuschak: Swift just got a huge upgrade to the set of first-class referents /cc @rob_rix http://t.co/ytNRwTzuei
+613392317475520500,Tue Jun 23 17:04:59 +0000 2015,Xcode 7 beta 2:  https://t.co/Pg3a3lwIoZ
+612988712788430800,Mon Jun 22 14:21:12 +0000 2015,RT @wilshipley: Swift 2's new error handling caught a data-corrupter in my code that I hadn't caught before because errors are hard, ya'll.…
+612388654023995400,Sat Jun 20 22:36:47 +0000 2015,@kongtomorrow Yep: why can't (e.g.) youtube do that for all their videos too?
+612372389330956300,Sat Jun 20 21:32:09 +0000 2015,Another great talk about Swift in edu, looking at the advantages of the REPL + some of the remaining challenges. https://t.co/mBCMivrpyx
+612371028816171000,Sat Jun 20 21:26:45 +0000 2015,Great talk showing how playgrounds are transformative for teaching. I also love that Realm transcribes their talks! https://t.co/qlZV95tyDH
+611930974218158100,Fri Jun 19 16:18:08 +0000 2015,RT @NatashaTheRobot: The Best of What's New in #Swift via @mikeash -  💖each starts with "This is my favorite new Swift feature by far" http…
+611575946991112200,Thu Jun 18 16:47:22 +0000 2015,Rob does a great job explaining "rethrows" in Swift 2, including why *not* having it would have been infuriating! https://t.co/pHJTnoqx4w
+611564310511288300,Thu Jun 18 16:01:08 +0000 2015,RT @SwiftLang: Great resources to learn programming in Swift, including links to a new iTunes U course!  https://t.co/1Uj9XlY2Zm
+611234608298876900,Wed Jun 17 18:11:01 +0000 2015,Great exploration of how swift 2 error handling dovetails with closures: https://t.co/j0wayxgclJ
+611046231410749400,Wed Jun 17 05:42:28 +0000 2015,@simjp @cocoaphony no: those fns can throw their own errors (making them be unconditionally throws) or may not call the closure(immediately)
+611021194192556000,Wed Jun 17 04:02:59 +0000 2015,@simjp @cocoaphony little things like "map" like it :-)
+610656711204941800,Tue Jun 16 03:54:40 +0000 2015,My favorite thing: shows how mutability is better than immutability for the program, programmer &amp; the machine 🔥😱 https://t.co/2tqGkvONv2
+610154161552756700,Sun Jun 14 18:37:42 +0000 2015,A great overview of Swift 2 error handling, including an in depth comparison with Result types: https://t.co/MmZgFdm5Kp
+609948189790068700,Sun Jun 14 04:59:15 +0000 2015,RT @kevinabrioux: The UI testing and code coverage are two of the great features of Xcode 7. Can't wait to get our hands on them. http://t.…
+609848912325685200,Sat Jun 13 22:24:45 +0000 2015,RT @simjp: I know everyone's been raving about the "Protocol-Oriented Programming in Swift" session but "Profiling in Depth" was pretty fan…
+609544166356336600,Sat Jun 13 02:13:48 +0000 2015,@oluseyidotinfo believe it or not, we are aware of the advantages of statements becoming expressions.  Working down the list of priorities..
+609543570689658900,Sat Jun 13 02:11:26 +0000 2015,@wilshipley awesome, but please file!  This is still beta 1, plenty of time remains to fix bugs.
+609482843371077600,Fri Jun 12 22:10:08 +0000 2015,defer is similar to go's, but doesn't carry the go perf cost (tied to a static scope instead of enclosing function) https://t.co/5F54N6L2eR
+609477043223294000,Fri Jun 12 21:47:05 +0000 2015,RT @ecerney: Find yourself thinking that Swift's new guard statement is useless? Here's a different perspective. http://t.co/dGleCOCAMO
+608659881017643000,Wed Jun 10 15:39:58 +0000 2015,RT @mindbrix: The Xcode 7 Address Sanitizer is a revelation.  2 nasty buffer overflows quickly found and fixed.  Essential tool.
+608288148334846000,Tue Jun 09 15:02:50 +0000 2015,RT @olebegemann: The WWDC sample code includes a pretty extensive playground about the Swift standard library. https://t.co/9IzuNqBRTU http…
+608144289449668600,Tue Jun 09 05:31:12 +0000 2015,This should be a FAQ: "throw" in swift has performance cost similar to 'return': no expensive stack winding (befitting a systems language)
+608142653830524900,Tue Jun 09 05:24:42 +0000 2015,I'm looking forward to kicking off "What's new in Swift" tomorrow.  I promise, no talk of endofunctors: we'll save that for the labs :-)
+608020795432955900,Mon Jun 08 21:20:28 +0000 2015,RT @practicalswift: Xcode 7b1 fixed 71 % of all non-fuzz crashes in the swift-compiler-crashes project [https://t.co/KrjhkjAyfy]  Only 17 n…
+608005666351890400,Mon Jun 08 20:20:21 +0000 2015,RT @macbirdie: @clattner_llvm Objective-C generics is a few years late, but great it's finally here!
+608000672080871400,Mon Jun 08 20:00:30 +0000 2015,Amazingly great description of what's new in Swift 2!  Also, check out the Xcode 7 release notes. https://t.co/TIijPv1nOz
+607997592203427800,Mon Jun 08 19:48:16 +0000 2015,RT @SwiftLang: Swift 2!  New error handling model, Swift-er SDKs, availability checking, and open source.  https://t.co/h6SDOZlNli
+607976911235457000,Mon Jun 08 18:26:05 +0000 2015,RT @SwiftLang: In case you haven't heard...  Swift is going open source later this year!
+607975733151961100,Mon Jun 08 18:21:25 +0000 2015,RT @TommyChen: Bam! Swift goes open source with complier and standard libraries for iOS, OS X, and Linux. #WWDC
+607599948062847000,Sun Jun 07 17:28:10 +0000 2015,@TxaiDw @IsaiahJTurner I'm not a fan of stringly-typed interfaces, but the type annotation wouldn't fit :)
+606238610736611300,Wed Jun 03 23:18:42 +0000 2015,I joined Twitter 1 year and 100 tweets ago - even for social media impaired person like me, it's a pretty cool tool. :-)  #coolkidnow
+605490165717409800,Mon Jun 01 21:44:39 +0000 2015,Well of course subscripts support labeled arguments! https://t.co/9cXbhY1pEm
+601960271284842500,Sat May 23 03:58:07 +0000 2015,RT @dwineman: Undocumented Swift feature I love: default arguments are expressions, not constants, evaluated only when necessary. http://t.…
+596776678531014700,Fri May 08 20:40:22 +0000 2015,Xcode 6.3.2 GM seed is now available on http://t.co/PZPNP3Wehp, with a fix for the slow swift compile issue, plus other great bug fixes.
+596025323650568200,Wed May 06 18:54:45 +0000 2015,@PowerUser @danielpunkass In 2005, the license wasn't the issue. Rampant globals/other design problems made it hard for GCC to do fun stuff.
+591697023952236500,Fri Apr 24 20:15:38 +0000 2015,RT @SwiftLang: New blog post on memory safety with useful insights into Swift's design:  https://t.co/7SbghStsSK
+588685770002600000,Thu Apr 16 12:49:59 +0000 2015,@salutis cute, but a bit too late: Xcode 6.3 doesn't have that bezel anymore :-)
+586951298009927700,Sat Apr 11 17:57:49 +0000 2015,Great coverage of such an under appreciated little type: https://t.co/BDQBi8hdlT
+585882732275699700,Wed Apr 08 19:11:43 +0000 2015,RT @SwiftLang: Xcode 6.3 with Swift 1.2 will be available on the App Store later today.  Get ready to update!
+585601269043224600,Wed Apr 08 00:33:17 +0000 2015,RT @wilshipley: Swift: Most loved! http://t.co/Qg0K0aSXcs http://t.co/sSK2TaStov
+580513427342401500,Tue Mar 24 23:36:01 +0000 2015,RT @chriseidhof: I wrote a short post about using Swift in production code for @getscenery : http://t.co/A6Jut3nCta
+578204441905487900,Wed Mar 18 14:40:56 +0000 2015,RT @harrycheung: @SwiftLang optimized further and now king of the hill. https://t.co/FGqOldtjkJ Thanks @jl_hfl
+577964684847906800,Tue Mar 17 22:48:13 +0000 2015,RT @SwiftLang: Xcode 6.3 beta 3 adds even more *awesome* to playgrounds. We posted a cool Mandelbrot demo playground on the blog:  https://…
+577679728762458100,Tue Mar 17 03:55:54 +0000 2015,RT @ericasadun: New post: Swift: Vroom vroom fast playgrounds http://t.co/Cj6R8pxop9
+576120944730607600,Thu Mar 12 20:41:51 +0000 2015,@isaiah Yep absolutely.  Nullability information in ObjC is general goodness for everyone.
+576116719955001340,Thu Mar 12 20:25:04 +0000 2015,Making ObjC APIs and mix-and-match within your project more beautiful in Swift: https://t.co/01Lles6rVk
+576095891813060600,Thu Mar 12 19:02:18 +0000 2015,RT @SwiftLang: Xcode 6.3 beta 3 now available. Playgrounds add optional embedded source files, and old playgrounds can be upgraded  https:/…
+575036581624447000,Mon Mar 09 20:52:59 +0000 2015,Xcode 6.2 GM is now available on the Mac App Store, with full support for building WatchKit apps.  Swift updates are rolling into 6.3 betas.
+572560800335851500,Tue Mar 03 00:55:07 +0000 2015,RT @SwiftLang: We now have a home in the DevForums dedicated to talk about Swift playgrounds.  You can find it here: https://t.co/TA2QzlaRka
+571738996046360600,Sat Feb 28 18:29:33 +0000 2015,RT @practicalswift: The number of crashes in the swift-compiler-crashes project shrank -33 % with the release of Xcode 6.3b2. Wow! https://…
+571446162164576260,Fri Feb 27 23:05:56 +0000 2015,RT @hansw2000: LLVM 3.6 is out: http://t.co/XN8pHwbWm7
+570404694624849900,Wed Feb 25 02:07:31 +0000 2015,RT @SwiftLang: Xcode 6.3 beta 2 adds cool new features for Swift playgrounds.  The Swift blog has a quick demo: https://t.co/1R9TEEXCPD
+570269617433681900,Tue Feb 24 17:10:46 +0000 2015,RT @codinginswift: Big performance improvements on Swift 1.2 Beta 2 http://t.co/VMZmUKjbPC @jl_hfl #swift #swiftlang
+569945011036377100,Mon Feb 23 19:40:54 +0000 2015,@mikeash We didn't forget: if you intend that check, we prefer you to write it with == or !=.  You're right that the relnote oversimplified.
+569933282357305340,Mon Feb 23 18:54:18 +0000 2015,Xcode 6.3β2 is out, including crash log integration, big Playgrounds improvements, and swift fixes on top of 6.3β1. Check the release notes!
+568877978756599800,Fri Feb 20 21:00:54 +0000 2015,RT @nadavrot: Swift is as fast as C++ on 2/3 of the programs in the Geekbench benchmark. http://t.co/sqz5ka2bpQ
+568190965887807500,Wed Feb 18 23:30:57 +0000 2015,RT @SwiftLang: We posted a little more information about the new as! operator in Swift 1.2, and our thinking behind it.  https://t.co/aSIlc…
+568128101625933800,Wed Feb 18 19:21:09 +0000 2015,@owensd Java is 20 years old, C# is 15 - I think it is better to see Swift as a response to that sort of managed language (the next step?)
+566747602784223200,Sat Feb 14 23:55:32 +0000 2015,RT @figureink: Custom Switch Matchers in Swift: http://t.co/xRvrCpQqba
+565583228564930560,Wed Feb 11 18:48:44 +0000 2015,RT @AirspeedSwift: Lots of cool new stuff.  Changes to the Swift Library in 1.2: http://t.co/8LM4rSwHtq
+565330306480484350,Wed Feb 11 02:03:43 +0000 2015,RT @adkap: Swift 1.2: vastly improved performance http://t.co/n6nbpE8UE6
+565236180958990340,Tue Feb 10 19:49:41 +0000 2015,RT @SwiftDocOrg: Updated for Swift 1.2! Notes on the big changes here: http://t.co/vTVZxbIwZh
+564971176942788600,Tue Feb 10 02:16:39 +0000 2015,RT @wilshipley: Swift 1.2: my code code runs up to 10x faster than 1.1 unoptimized, up to 8x faster optimized.  (Some routines run in the s…
+564921175420051460,Mon Feb 09 22:57:58 +0000 2015,RT @practicalswift: The number of crashes in the swift-compiler-crashes project shrank -83 % with today's release of Xcode 6.3b. Thank you …
+564920527479795700,Mon Feb 09 22:55:24 +0000 2015,RT @practicalswift: 5043 crashes before Xcode 6.3 - 1314 crashes fixed (26 %) - 2896 crashes now marked as dupes (57 %) + 10 regressions (0…
+564861838798491650,Mon Feb 09 19:02:11 +0000 2015,For more info on Xcode 6.3, see https://t.co/i5klafqz9g and the release notes for even more details.
+564856887615565800,Mon Feb 09 18:42:31 +0000 2015,Xcode 6.3β1 is out, including significant updates to Swift, Objective-C, and Clang.
+562636560982491140,Tue Feb 03 15:39:44 +0000 2015,RT @NSHipster: IBInspectable / IBDesignable: http://t.co/Up9Hp71EYa
+562484550513602560,Tue Feb 03 05:35:41 +0000 2015,RT @figureink: Swift State Machines: http://t.co/FGPhrPsGPD
+561348669052837900,Sat Jan 31 02:22:06 +0000 2015,@AirspeedSwift @owensd @jckarter I completely agree that it is a lot of complexity for marginal gain, there are other ways to solve this
+560339173862031360,Wed Jan 28 07:30:44 +0000 2015,RT @iTunesU: Chart-topping @Stanford iOS Course now covers Swift. Subscribe on #iTunesU today. http://t.co/zc0aCDDvBC http://t.co/Zg00FsyfAi
+559825711255412740,Mon Jan 26 21:30:25 +0000 2015,RT @NatashaTheRobot: Stanford's #iOS class is officially in #Swift and you can follow along! This is HUGE.  https://t.co/wuUByHdLaF
+559820176812556300,Mon Jan 26 21:08:25 +0000 2015,RT @segiddins: I wrote a thing: Dynamic Casting in Swift. http://t.co/hxnGUIZHrm
+555923812634873860,Fri Jan 16 03:05:40 +0000 2015,RT @iMore: Swift jumps up 46 spots in one quarter on the RedMonk programming language rankings! http://t.co/4c3KlUCzc1 http://t.co/c9HhJUOU…
+553435251519664100,Fri Jan 09 06:17:00 +0000 2015,Swift won PyPl's language of the year - by a wide margin: https://t.co/TjmHkByw2B .  They claim they are a "leading indicator" for languages
+552554914950676500,Tue Jan 06 19:58:52 +0000 2015,@mbrandonw Very nice post.  One pedantic point: each of those functions can be implemented with a call to a noreturn function like abort :-)
+551917246243561500,Mon Jan 05 01:45:00 +0000 2015,RT @jckarter: @nicklockwood @Javi It is possible to avoid ARC in Swift. Unmanaged&lt;T&gt; gives you a class reference with manual retain/release…
+545711196758741000,Thu Dec 18 22:44:22 +0000 2014,RT @SwiftLDN: ★ 10 Developers list their favourite #Swift Tips &amp; Tricks of 2014 http://t.co/bXRtJuqJau  @Realm | #swiftlang http://t.co/2xA…
+545371076784427000,Thu Dec 18 00:12:51 +0000 2014,RT @sketchyTech: #Swift: The quiet affair of the failable initializer and the nil coalescing operator http://t.co/qVPjsrDnZ9
+540707237014937600,Fri Dec 05 03:20:25 +0000 2014,RT @simjp: It's #Swiftmas! Deal With It. #Swift http://t.co/3nzOyYub8R
+539862243828310000,Tue Dec 02 19:22:43 +0000 2014,"In an audit of the last 3 years of shipped bugs ... ~40% would have been caught early by using Swift. @RedQueenCoder http://t.co/hUQNZaPoy2
+539857355186647040,Tue Dec 02 19:03:18 +0000 2014,RT @kolpanic: Xcode 6.1.1 available in MAS
+539270486958415900,Mon Dec 01 04:11:17 +0000 2014,RT @AirspeedSwift: Much happier since I realized you can write let f: A-&gt;B = { a in … } instead of let f = { (a: A)-&gt;B in … } when you have…
+533363994531471360,Fri Nov 14 21:01:00 +0000 2014,RT @SwiftLang: Xcode 6.1.1 GM seed is now available, with some great fixes for working with Swift.   https://t.co/TJ1TYloEod
+532666795258552300,Wed Nov 12 22:50:35 +0000 2014,RT @Love2Code: What makes Clang so special? | CoderGears Blog http://t.co/H4bAUhauZL
+528299890493755400,Fri Oct 31 21:38:03 +0000 2014,RT @samdeane: The Point Of Optionals?  http://t.co/QAmSY3SiwE
+527199796746932200,Tue Oct 28 20:46:41 +0000 2014,RT @tonic888: In full swing! #LLVM #LLVMDevMeeting http://t.co/fkZVA0M8fQ
+524964787432603650,Wed Oct 22 16:45:33 +0000 2014,I'm giving a talk on Friday about LLVM (and applications of it) at UIUC @IllinoisCS  for it's 50th anniversary http://t.co/XOpwkWMAZd
+524232031387914240,Mon Oct 20 16:13:50 +0000 2014,RT @codinginswift: Swift and Objective-C a happy couple, http://t.co/QWrB2M6uVS via @codingricky #swift #swiftlang
+522906653826359300,Fri Oct 17 00:27:16 +0000 2014,RT @SwiftLang: Super excited to launch the new Swift home page at http://t.co/AMPZYeRpYg.  Amazing what people are already doing with Swift.
+522872486027726850,Thu Oct 16 22:11:29 +0000 2014,.. @Siracusa 's Yosemite review includes a great 3 page analysis of Swift: http://t.co/Gu4ssDK9md
+521899830423994400,Tue Oct 14 05:46:30 +0000 2014,RT @tonic888: 2014 LLVM Developers' Meeting agenda online. http://t.co/jcbWa9o9nJ Descriptions to come. #LLVM #LLVMDevMeeting
+520958801835352060,Sat Oct 11 15:27:11 +0000 2014,RT @vanessareneehdz: Was introduced to @SwiftLang today at #GHC14 by Michelle Six. She became my new fav. person. Read my thoughts here: ht…
+516964829127381000,Tue Sep 30 14:56:34 +0000 2014,RT @practicalswift: Wow, just wow! 6.1b3 fixed 66 % (!) of reported crashes (27 of 41): https://t.co/RqJE9fBeoE I &lt;3 @clattner_llvm @gparke…
+516964345989693440,Tue Sep 30 14:54:39 +0000 2014,RT @AirspeedSwift: Whoa, they weren’t kidding when they said docs for the standard library have improved.  &gt;1900 line differences in beta 3…
+514139356940881900,Mon Sep 22 19:49:09 +0000 2014,RT @codinginswift: There is clarity, brevity, and conventions. And a blog post about it via @radexp http://t.co/gbC5xCA4aJ #swift #swiftlang
+513418896733257700,Sat Sep 20 20:06:18 +0000 2014,@krzyzanowskim ask on the dev forums for more detail, Twitter is annoying for long form answers
+513418669179682800,Sat Sep 20 20:05:24 +0000 2014,@krzyzanowskim lazy props are computed properties.  Computed properties cannot be accessed before full init.  This is core to memory safety.
+513368106173874200,Sat Sep 20 16:44:29 +0000 2014,@krzyzanowskim th error is correct but not helpful.  I'll make it "implicit use of self requires all members to be initialized" or something
+512458599281328100,Thu Sep 18 04:30:25 +0000 2014,RT @craigotis: A huge thanks to @clattner_llvm and the Dev Tools team. Porting my app to Swift, the readability, efficiency, and drop in LO…
+512301868673155100,Wed Sep 17 18:07:38 +0000 2014,RT @TimTr: Xcode 6.0.1 GM is available for download. Coming to the App Store soon.  https://t.co/Ryq7TdYyZP
+509736738126716900,Wed Sep 10 16:14:43 +0000 2014,RT @objcio: Issue #16 is out, and it's about Swift! Functional patterns, value types, playground prototyping and more. http://t.co/Rn1R2MLo…
+509555763144957950,Wed Sep 10 04:15:35 +0000 2014,RT @SwiftLang: Swift version 1.0 is now GM!  https://t.co/QgP035cS5t  Sorry for the late tweet, it's been a busy day. :)
+509423618049069060,Tue Sep 09 19:30:29 +0000 2014,RT @codinginswift: *** Breaking **** Xcode 6.1 beta Posted Date: Sep 9, 2014 on Apple Developer at http://t.co/d6Vc33A8ah #swift #swiftlang
+509423618049069060,Tue Sep 09 19:30:29 +0000 2014,RT @codinginswift: *** Breaking **** Xcode 6.1 beta Posted Date: Sep 9, 2014 on Apple Developer at http://t.co/d6Vc33A8ah #swift #swiftlang
+507739831926259700,Fri Sep 05 03:59:43 +0000 2014,LLVM 3.5 is alive!  This is the 26th open source release of LLVM: http://t.co/QRHA1L7lTi http://t.co/Ad6X6BmV2Q
+506854704693780500,Tue Sep 02 17:22:33 +0000 2014,RT @swiftLDN: XCODE 6 BETA 7 IS OUT 🎉  https://t.co/qa0R14mFhK  #swiftlang #swift #iosdev #beta7
+505256401552146400,Fri Aug 29 07:31:28 +0000 2014,RT @cocoaphony: New blog about one of my very favorite functions. "Maps… Wait, They Don’t Love You Like I Love You." http://t.co/UkmEp1SDqW
+502160863755632640,Wed Aug 20 18:30:54 +0000 2014,RT @jckarter: @AirspeedSwift clang's -Wimplicit-fallthrough is your friend.
+497866320969347100,Fri Aug 08 22:05:55 +0000 2014,RT @SwiftLang: A lot of you asked to see the Balloons playground from WWDC, so we simplified it and turned it into a tutorial.  https://t.c…
+496703729844764700,Tue Aug 05 17:06:12 +0000 2014,RT @iMartinKiss: In fact, Xcode shows inferred types on ⌥Click. I feel more comfortable now :) (thx @clattner_llvm) http://t.co/ZgQIwMxCwE
+491371229459537900,Mon Jul 21 23:56:45 +0000 2014,RT @daveaddey: “The Swift Programming Language” book has been updated for Xcode seed 4, with a new chapter on Access Control: https://t.co/…
+487662108142612500,Fri Jul 11 18:18:01 +0000 2014,RT @SwiftLang: The Swift blog launches today! Get the latest news and insights directly from the Swift team at Apple. https://t.co/h6SDOZ4K…
+475041215830708200,Fri Jun 06 22:27:06 +0000 2014,@Ahti333 I agree with the simplicity goal, but the approach doesn't work (afaict) given we want non-nullable pointers and memory safety
+475026273870180350,Fri Jun 06 21:27:43 +0000 2014,Safety and immutability are preferred, but Swift has UnsafePointer, malloc(), and mutability for the times you still need or want them
+475025697639903200,Fri Jun 06 21:25:26 +0000 2014,Swift is a pragmatic, not a religious, language.  It tries to get the defaults right, but allows you to change them if it doesn't suit you.
+474989035966840800,Fri Jun 06 18:59:45 +0000 2014,@jvx242 Being familiar is a feature, not a bug. The goal was to be *great*, not "new".  I'm happy to harvest the best ideas from everywhere.
+474774351024107500,Fri Jun 06 04:46:40 +0000 2014,@oleganza What you see in 1.0 is all that there ever will be - no future improvements or omissions will ever be addressed.&lt;/sarcasm&gt; :-)
+474772713739792400,Fri Jun 06 04:40:10 +0000 2014,@oleganza You can always explicitly qualify with the module name.  F.e., if you define a "swap" you can always get to "Swift.swap" as well.
+474730716941385700,Fri Jun 06 01:53:17 +0000 2014,Namespacing is implicit in swift, all classes (etc) are implicitly scoped by the module (Xcode target) they are in. no class prefixes needed
+474610712950493200,Thu Jun 05 17:56:26 +0000 2014,@ultror yes: "xcrun swift" gives you the totally awesome swift repl with full integrated debugger support
+474593140511211500,Thu Jun 05 16:46:36 +0000 2014,Of course Swift supports #! scripts, you can immediately execute a swift script with "xcrun swift -i".
+474411823223959550,Thu Jun 05 04:46:07 +0000 2014,Fun fact for compiler folks: Swift has a new high-level language-specific optimizer and IR before LLVM, try xcrun swift t.swift -O -emit-sil
+474082459860992000,Wed Jun 04 06:57:21 +0000 2014,Most perplexing feedback on Swift: folks who see it (and judge it) as the end of a trek - but don't realize it is the start of a new world.
+473940739605274600,Tue Jun 03 21:34:12 +0000 2014,It is truly amazing to see the work of so many great people come together.
+473907124288770050,Tue Jun 03 19:20:37 +0000 2014,@Ahti333 right now we are focused on finishing it up for the final release this fall.
+473835365137416200,Tue Jun 03 14:35:29 +0000 2014,Looking forward to next month: I'll be the first and only guy with 4 years of swift programming experience :-)
+473835365137416200,Tue Jun 03 14:35:29 +0000 2014,Looking forward to next month: I'll be the first and only guy with 4 years of swift programming experience :-)

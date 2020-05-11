@@ -1,0 +1,1036 @@
+id,created_at,text
+1259258899846365200,Sat May 09 23:08:12 +0000 2020,@eigenhector @keunwoochoi Second this, Jax is great!
+1257062727803166700,Sun May 03 21:41:24 +0000 2020,@justin_salamon @dynamicBass @NicholasJBryan @happyzeyu @juhan_nam This is a really nice idea! Have you tried repla… https://t.co/fjEvpeuzQz
+1257061157988438000,Sun May 03 21:35:09 +0000 2020,RT @justin_salamon: Music similarity is inherently multidimensional (genre, mood, timbre, tempo, ....) - our model disentangles such dimens…
+1257004302813614000,Sun May 03 17:49:14 +0000 2020,@keunwoochoi @JeffreyDeFauw Z-forcing by @anirudhg9119 et al. involves using an auxiliary loss for similar reasons:… https://t.co/SljLaa4nS6
+1257002609057190000,Sun May 03 17:42:30 +0000 2020,@keunwoochoi In the context of autoencoders with autoregressive decoders, we (@JeffreyDeFauw et al.) found this to… https://t.co/OnVoKdXvYG
+1255924946175434800,Thu Apr 30 18:20:15 +0000 2020,@prafdhar I saw, thanks for the plug!
+1255904539212951600,Thu Apr 30 16:59:10 +0000 2020,Incredible work on music generation in the raw waveform domain! Seems like I need to update my latest blog post :) https://t.co/Xnm9CnKwXg
+1253725692585480200,Fri Apr 24 16:41:12 +0000 2020,@kaixhin Congrats!
+1251281765211279400,Fri Apr 17 22:49:55 +0000 2020,RT @RaiaHadsell: Due to COVID-19, we have decided to shift the NeurIPS  timeline 3 weeks back, giving authors additional time and flexibili…
+1247182415635910700,Mon Apr 06 15:20:34 +0000 2020,RT @jordiponsdotme: To facilitate my online teaching activities, I decided to collect on this website the educational material I have been…
+1245466576901587000,Wed Apr 01 21:42:26 +0000 2020,RT @DeepMind: Find out more about how we collaborated with @GoogleAI to improve the user audio call experience in @GoogleDuoApp, by introdu…
+1242498083646255000,Tue Mar 24 17:06:42 +0000 2020,@chrisdonahuey @ismir2019 @jordiponsdotme Thanks! This is something I haven't thought much about (which reveals my… https://t.co/gthxE8Ll0K
+1242472233458716700,Tue Mar 24 15:23:59 +0000 2020,@OriolVinyalsML @ismir2019 @jordiponsdotme Thanks! I'll see if I can add subsection numbers, it turned out a lot lo… https://t.co/v4SMW7ekDy
+1242466173930729500,Tue Mar 24 14:59:54 +0000 2020,@92HsChoi Thanks for sharing these papers, I don't think I've encountered them before. I will have a look!
+1242443356476780500,Tue Mar 24 13:29:14 +0000 2020,I discuss the challenges and advantages of modelling music in the waveform domain + generative modelling paradigms… https://t.co/ydTMfU5nuz
+1242442227357569000,Tue Mar 24 13:24:45 +0000 2020,New blog post: 'Generating music in the waveform domain' https://t.co/zQ1gxuLBmV  A comprehensive overview of the f… https://t.co/sKyfBml6Rn
+1239657257715011600,Mon Mar 16 20:58:16 +0000 2020,RT @pragmaticml: This week's blog post explores methods for incorporating longer-term context in transformers!  Featuring 6 unique approach…
+1238519556789997600,Fri Mar 13 17:37:27 +0000 2020,@rasbt @SingularMattrix I think that's reductive, there are equally many situations where explicit state makes thin… https://t.co/uVAL0Du0Lz
+1238515807224828000,Fri Mar 13 17:22:33 +0000 2020,@rasbt Interesting, I didn't know that. I haven't really seen anyone do that in practice (until now), the recommend… https://t.co/YWdO0aMFnK
+1238510318546047000,Fri Mar 13 17:00:45 +0000 2020,@rasbt (I should also qualify that I haven't tried torch.autograd)
+1238509966098665500,Fri Mar 13 16:59:20 +0000 2020,@rasbt My (limited) experience is that haiku's transform() creates a really nice separation between the object-orie… https://t.co/pdElVi7y6H
+1237426907936940000,Tue Mar 10 17:15:39 +0000 2020,RT @paulineluc_: Excited to share with you our new article on transformation-based video prediction on large-scale data!  https://t.co/xDpq…
+1237075514956841000,Mon Mar 09 17:59:21 +0000 2020,@urinieto @erikmschmidt @fgouyon @moustaki @kmkinnaird Congrats titans, looking forward to it already :)
+1237075467204788200,Mon Mar 09 17:59:09 +0000 2020,RT @urinieto: So happy to announce that our new workshop ML4MD (Machine Learning 4 Media Discovery) has been accepted for #ICML2020! (Let's…
+1233203518078619600,Fri Feb 28 01:33:25 +0000 2020,@jwthickstun @jon_gillick i.e. even poor sample quality models might still be useful for BASIS, because the constra… https://t.co/T59pDTmmrd
+1233203167380299800,Fri Feb 28 01:32:01 +0000 2020,@jwthickstun @jon_gillick Cool, makes sense :) though I suspect that your prior models may not need to be quite as… https://t.co/q8NdoDHIaE
+1232739317929390000,Wed Feb 26 18:48:51 +0000 2020,@jwthickstun Seems plausible, especially considering recent work that speeds up exact AR sampling (… https://t.co/izJOwfhDuC
+1232680804410630100,Wed Feb 26 14:56:20 +0000 2020,RT @charlietcnash: Excited to share PolyGen, a generative model of 3D meshes. PolyGen sequentially generate meshes vertex-by-vertex, and fa…
+1232486077044347000,Wed Feb 26 02:02:33 +0000 2020,Welcome to Twitter @jwthickstun :)
+1232362870018539500,Tue Feb 25 17:52:59 +0000 2020,The authors use NCSN (Song et al., NeurIPS 2019) and Glow (Kingma &amp; Dhariwal, NeurIPS 2018) as priors, but I think… https://t.co/ASRVmpVczb
+1232362867569102800,Tue Feb 25 17:52:58 +0000 2020,The paper also features a nice demonstration of the ambiguity of source separation, which supervised approaches don… https://t.co/9RkmmBiPU1
+1232362865803374600,Tue Feb 25 17:52:58 +0000 2020,Source separation as a generative modelling problem: train likelihood-based models of individual components and use… https://t.co/wBgZyY3NbT
+1230491630656000000,Thu Feb 20 13:57:20 +0000 2020,RT @DeepMind: Today we are releasing Haiku and RLax, our JAX libraries for neural networks and reinforcement learning. Check them out at ht…
+1229758998884311000,Tue Feb 18 13:26:07 +0000 2020,@fhuszar Not sure if it's been mentioned, but LOGAN (https://t.co/Lai0LqD49W) is a recent practical example.
+1227978176216883200,Thu Feb 13 15:29:46 +0000 2020,Looks like it could be even faster if it's okay for samples to be approximate -- just use a higher tolerance in the… https://t.co/REkcnuszNE
+1227977609260257300,Thu Feb 13 15:27:31 +0000 2020,Neat trick for faster (parallel) sampling from autoregressive models: treat it as solving a triangular system of no… https://t.co/FMMnDiWlac
+1224865485721940000,Wed Feb 05 01:21:03 +0000 2020,@skrish_13 Thanks! It's the London skyline actually :)
+1219684629122338800,Tue Jan 21 18:14:10 +0000 2020,Deep Learning Lecture Series at UCL, starting Feb 3rd. (Free) tickets are available now. I will be talking about co… https://t.co/qBuDzTjKM9
+1217576159900262400,Wed Jan 15 22:35:52 +0000 2020,RT @jesseengel: Differentiable Digital Signal Processing (DDSP)! Fusing classic interpretable DSP with neural networks.  ⌨️ Blog: https://t…
+1212450914163933200,Wed Jan 01 19:09:58 +0000 2020,RT @JeffreyDeFauw: Very excited to share https://t.co/0fKMec17gz where we show an AI system that outperforms specialists at detecting breas…
+1207697186835832800,Thu Dec 19 16:20:21 +0000 2019,RT @elluba: My AI art online gallery for 2019 is finally live 🎉 🎉🎉  Check out all the art, music and design projects submitted to our #Neur…
+1205968243992608800,Sat Dec 14 21:50:09 +0000 2019,RT @elluba: Poster Session 1 happening at the #NeurIPS4Creativity Workshop until 2.30pm. Drop by for Korean abstract painting, creative GAN…
+1205621015977398300,Fri Dec 13 22:50:24 +0000 2019,RT @ada_rob: I'm so excited about the program we've put together for Saturday's #NeurIPS2019 ML for Creativity and Design Workshop 3.0.…
+1204459557289775000,Tue Dec 10 17:55:10 +0000 2019,RT @elluba: Full Schedule and accepted papers for our Creativity Workshop now live on https://t.co/ionjVjA24n  See you on Saturday 14th Dec…
+1204142562837065700,Mon Dec 09 20:55:33 +0000 2019,RT @avdnoord: Unsupervised pre-training now outperforms supervised learning on ImageNet for any data regime (see figure) and also for trans…
+1203719786150158300,Sun Dec 08 16:55:35 +0000 2019,Heading to Vancouver for #NeurIPS2019! I'll be around all week, check out our workshop on ML for creativity and des… https://t.co/OC4dQ7nFk4
+1202918939484999700,Fri Dec 06 11:53:18 +0000 2019,RT @DeepSpiker: Looking for something to read in your flight to #NeurIPS2019?  Read about Normalizing Flows from our extensive review paper…
+1200199874567909400,Thu Nov 28 23:48:43 +0000 2019,RT @utkuevci: End-to-end training of sparse deep neural networks with little-to-no performance loss. Check out our new paper: “Rigging the…
+1199376096078291000,Tue Nov 26 17:15:19 +0000 2019,RT @DeepMindAI: “Fast Sparse ConvNets”, a collaboration w/ @GoogleAI [https://t.co/TPD6mI9MA6], implements fast Sparse Matrix-Matrix Multip…
+1197568871043141600,Thu Nov 21 17:34:03 +0000 2019,@mike_w_ai @chrislintott @exoplaneteer @iamstarnord @fringetracker @davidwhogg 😊 that's really cool to hear!… https://t.co/1OcAhU56hW
+1195368066579882000,Fri Nov 15 15:48:50 +0000 2019,@jordiponsdotme Moltes felicitats :)
+1194350217153273900,Tue Nov 12 20:24:16 +0000 2019,@colinraffel @unccs Congrats Colin :)
+1191839480132624400,Tue Nov 05 22:07:30 +0000 2019,RT @jordiponsdotme: Here the slides of our tutorial on "Waveform-based music processing with deep learning" organised by @sedielem, Jongpil…
+1191366253291737000,Mon Nov 04 14:47:03 +0000 2019,@lostanlen @psobot Hey Vincent, the point I was trying to make is that the frequency decomposition in our ears is a… https://t.co/pwGxxe0WZV
+1191007788274770000,Sun Nov 03 15:02:39 +0000 2019,I'm at #ISMIR2019 until Wednesday! My first ISMIR in 5 years :) I'll be co-presenting a tutorial about raw audio mu… https://t.co/dLczYF8c00
+1189961923162448000,Thu Oct 31 17:46:45 +0000 2019,RT @gpapamak: My PhD thesis is now available on arXiv:  Neural Density Estimation and Likelihood-free Inference https://t.co/AkgvmzM1Vz  Th…
+1181893455422922800,Wed Oct 09 11:25:32 +0000 2019,Update: a new version of our paper is now on arxiv. It includes a human evaluation study to assess sample realism w… https://t.co/WIRl5xO1CS
+1177731392681189400,Fri Sep 27 23:46:59 +0000 2019,@jordiponsdotme Congrats :)
+1177162175925883000,Thu Sep 26 10:05:08 +0000 2019,RT @DeepMindAI: We've developed a new model for text-to-speech using GANs (TTS-GAN), combining high quality with efficient generation. More…
+1174759308514537500,Thu Sep 19 18:56:59 +0000 2019,RT @colinraffel: If you are reeling from a NeurIPS rejection or stressing about an ICLR submission, remember that some of the best papers w…
+1170029287530999800,Fri Sep 06 17:41:34 +0000 2019,RT @pfau: Thrilled to be able to share what I've been working on for the last year - solving the fundamental equations of quantum mechanics…
+1168935337059655700,Tue Sep 03 17:14:36 +0000 2019,RT @elluba: Less than 1 week left to submit your paper and art to our #NeurIPS2019 Creativity Workshop🤖🎨  https://t.co/5FZblvYELa   Deadlin…
+1164223622560604200,Wed Aug 21 17:11:56 +0000 2019,RT @DeepMindAI: Applications are now open for our 2020 Research Scientist and Engineering internships!  We offer hands-on experience workin…
+1155610902537932800,Sun Jul 28 22:48:04 +0000 2019,RT @elluba: Our #NeurIPS2019 Creativity Workshop website is now live. Submit your paper and art by 9th September.🤖🎨   https://t.co/6QlUxNI9…
+1154807558252695600,Fri Jul 26 17:35:51 +0000 2019,@ajlavin @TacoCohen Nevertheless, I agree with the sentiment that using more recent / better models as a basis for… https://t.co/vGf9BzIu61
+1154806862203805700,Fri Jul 26 17:33:05 +0000 2019,@ajlavin @TacoCohen If I'm not mistaken this is the inference cost though, not training cost. Anecdotally, Efficien… https://t.co/nZyP5icBXy
+1152628300872900600,Sat Jul 20 17:16:16 +0000 2019,@YSongStanford @dustinvtran I see, thanks for the clarification! I was confused by the preceding passage "we consid… https://t.co/5iqSJHIzNq
+1152559324067258400,Sat Jul 20 12:42:11 +0000 2019,@YSongStanford @dustinvtran For an existing AR model, isn't it likely that constraint (4) in the paper would be vio… https://t.co/WpXmdnb2wB
+1152251878564143100,Fri Jul 19 16:20:30 +0000 2019,More progress in flow-based models! tl;dr: use masking as in autoregressive flows to get triangular Jacobians (so t… https://t.co/9CgoKQgZcw
+1151293199710863400,Wed Jul 17 00:51:03 +0000 2019,RT @roadrunning01: Efficient Video Generation on Complex Datasets pdf: https://t.co/ngwdxDK42E abs: https://t.co/WhfJKvKtLG https://t.co/Yl…
+1150542551918813200,Sun Jul 14 23:08:15 +0000 2019,@chrisdonahuey @stanfordnlp Congrats!
+1148162763472158700,Mon Jul 08 09:31:49 +0000 2019,RT @DeepMindAI: In our new paper https://t.co/Rhm94rOuX5 we show that GANs can be harnessed for unsupervised representation learning, with…
+1147305199201132500,Sat Jul 06 00:44:10 +0000 2019,RT @ericjang11: If you've ever wondered what "bits-per-pixel" actually means, why logistic distributions are awesome, how to improve traini…
+1145720879613141000,Mon Jul 01 15:48:38 +0000 2019,RT @DeepMindAI: Deep RL agents are data hungry and often learn task-specific representations. Our model learns object-centric abstractions…
+1144770245472792600,Sat Jun 29 00:51:09 +0000 2019,RT @notwaldorf: I adapted the Fruit Genie code to emit MIDI events and plugged it straight into my old Piano Genie web demo to give you ...…
+1144665153935413200,Fri Jun 28 17:53:34 +0000 2019,RT @utkuevci: Our new paper with @fpedregosa, @AidanNGomez and @erich_elsen on training sparse neural networks is on arXiv. We investigate…
+1143846433046634500,Wed Jun 26 11:40:15 +0000 2019,@jordiponsdotme There's a nice web page for it as well: https://t.co/d8og24jFtW (cc @rzhang88)
+1143833590322647000,Wed Jun 26 10:49:13 +0000 2019,@jordiponsdotme Relevant literature: https://t.co/DpbQv8NWav tl;dr make pooling better with some good old-fashioned… https://t.co/JUYBbxFxtd
+1140454373912277000,Mon Jun 17 03:01:26 +0000 2019,@colinraffel Congrats! :)
+1138844094912819200,Wed Jun 12 16:22:45 +0000 2019,RT @jordiponsdotme: Our @ISMIR2019 tutorial on 'Waveform-based music processing with deep learning' got accepted!🍾  We will teach about mus…
+1138131785894678500,Mon Jun 10 17:12:17 +0000 2019,@chris_j_beckham I'm happy to reminisce, but at a conference I'm mainly interested in talking about the future :)
+1138127875465404400,Mon Jun 10 16:56:45 +0000 2019,I'm at #ICML2019 all week, let's talk generative models and/or ML for audio/music! 🎵 Looking forward to workshops o… https://t.co/5g8j8zPRlj
+1136309680127512600,Wed Jun 05 16:31:54 +0000 2019,RT @kastnerkyle: Interested in a powerful new audio model for conditional and unconditional music, single, and multi-speaker TTS on in-the-…
+1135953160013590500,Tue Jun 04 16:55:12 +0000 2019,RT @avdnoord: VQVAE-2 finally out!  Powerful autoregressive models in a hierarchical compressed latent space. No modes were collapsed in th…
+1133495643983482900,Tue May 28 22:09:55 +0000 2019,Nice results on evaluating generative models, and simple enough for wide adoption! Existing popular metrics (IS, FI… https://t.co/f4jaN5r6vP
+1131870584260968400,Fri May 24 10:32:31 +0000 2019,RT @avdnoord: Excited to share our latest results on Contrastive Predictive Coding! -A linear classifier on CPC features yield 61% ACC, out…
+1131250408301715500,Wed May 22 17:28:09 +0000 2019,RT @pcastr: We include the rest of the paper in the supplemental material. #NeurIPS2019 https://t.co/Zv1x4atUDD
+1130630555467440100,Tue May 21 00:25:05 +0000 2019,@kastnerkyle @mat_kelcey If you want to have actual embeddings, you could enforce a topology on the embedding space… https://t.co/RrmVCoX2rm
+1130630246401814500,Tue May 21 00:23:51 +0000 2019,@kastnerkyle @mat_kelcey Alternatively you could use gray code :) If you want to encode an ordinal relation where t… https://t.co/UA3yxqCz9a
+1130600855797944300,Mon May 20 22:27:04 +0000 2019,RT @chrisdonahuey: We designed Piano Genie mainly to help non-musicians create music but professional keyboardists often become virtuosos t…
+1130444369725665300,Mon May 20 12:05:15 +0000 2019,RT @emiel_hoogeboom: Check out our work on Integer Discrete Flows, generative flows for ordinal discrete data. In short: no (de)quantizatio…
+1129699838688473100,Sat May 18 10:46:45 +0000 2019,RT @erikmschmidt: Accepted authors are now posted for the Machine Learning for Music Discovery workshop at @icmlconf! Our largest program y…
+1126329832105807900,Thu May 09 03:35:32 +0000 2019,RT @chrisdonahuey: Tune in tonight at 8:30 PDT to see @theflaminglips do *something* with Piano Genie! I honestly have no idea what they ha…
+1125886958335660000,Tue May 07 22:15:43 +0000 2019,RT @ada_rob: @ylecun @fjord41's excellent presentation of this work can be seen at ~1:11:00 on https://t.co/TIUL5dSlSi
+1125886947342336000,Tue May 07 22:15:40 +0000 2019,RT @ylecun: MAESTRO: awesome new dataset from Google Magenta of piano performance with audio and corresponding MIDI collected from Yamaha D…
+1125613795513180200,Tue May 07 04:10:16 +0000 2019,RT @dustinvtran: Check out Discrete Flows, a simple way to build flexible discrete disctributions. @keyonV @kumarkagrawal @poolio @laurent_…
+1125228878191124500,Mon May 06 02:40:44 +0000 2019,RT @jacobmenick: I'm excited to present our #ICLR2019 oral on Subscale Pixel Networks tomorrow (Monday)! Come check it out at 9:45 AM in Gr…
+1125228862680588300,Mon May 06 02:40:41 +0000 2019,RT @ajmooch: I'll be presenting BigGAN at ICLR2019 Monday morning, at 10:15 in Great Hall AD. I'll also be giving out Dogball stickers all…
+1125019470655840300,Sun May 05 12:48:38 +0000 2019,I will be at #ICLR2019 this week, find me if you want to talk about generative models and/or ML for audio/music 🎵.… https://t.co/XmgONVeed0
+1124425828727705600,Fri May 03 21:29:43 +0000 2019,RT @faroit: “Deep Learning for Audio Signal Processing” https://t.co/8i2SnX0KD2 Great new overview paper that also covers enhancement and s…
+1123526802427777000,Wed May 01 09:57:18 +0000 2019,Really cool application of a differentiable approximation to nearest neighbours (as in e.g. NCA): aligning videos w… https://t.co/Jx4Juu9SfB
+1116754619772756000,Fri Apr 12 17:27:04 +0000 2019,@jeremyphoward There is a bunch of work on raw audio, e.g. https://t.co/TQqjdIKcCJ https://t.co/PI5XYh50Xn… https://t.co/7F4U3oDYpU
+1113174728049557500,Tue Apr 02 20:21:51 +0000 2019,RT @fgouyon: And now we're open for submissions. Check the Machine Learning for Music Discovery Workshop page: https://t.co/NKJbts0ux1 … Se…
+1111967654254915600,Sat Mar 30 12:25:22 +0000 2019,RT @avdnoord: Excited to announce our #ICML2019 Workshop on Self-Supervised Learning! Covering- Vision, NLP, Audio, Robotics, RL ...  https…
+1110597532147699700,Tue Mar 26 17:41:00 +0000 2019,@iandanforth @jeremyphoward I've published work done in the context of Kaggle competitions: https://t.co/1zPGOiPaDX… https://t.co/Q2ttwDyvXg
+1108034488058163200,Tue Mar 19 15:56:22 +0000 2019,@soumithchintala We definitely need to preserve Andrew Saxe's contributions to that thread, a lot of valuable knowl… https://t.co/HHOJF2t3pX
+1108033088326643700,Tue Mar 19 15:50:49 +0000 2019,@soumithchintala Good times :)
+1105634982721175600,Wed Mar 13 01:01:36 +0000 2019,We learn discrete high-level representations (codes) of images with auxiliary decoders. Likelihood measured in code… https://t.co/IxCLDz45be
+1105634824881082400,Wed Mar 13 01:00:58 +0000 2019,Likelihood is a great loss fn, it's all about the space you measure it in! Our latest work on hierarchical AR image… https://t.co/wMD9gmkFp0
+1103719776445186000,Thu Mar 07 18:11:15 +0000 2019,RT @DeepMindAI: We are excited to share the story behind TF-Replicator, a software library that helps developers deploy their TensorFlow co…
+1102670292458053600,Mon Mar 04 20:40:59 +0000 2019,RT @MirowskiPiotr: Feeling like training a deep RL navigation agent on Street View? We have #streetlearn for you! Code at https://t.co/vJ6o…
+1101183618980941800,Thu Feb 28 18:13:28 +0000 2019,RT @jesseengel: Make music with GANs! GANSynth is a new method for fast generation of high-fidelity audio.  🎵 Examples: https://t.co/xhX9az…
+1101137784121815000,Thu Feb 28 15:11:20 +0000 2019,@OriolVinyalsML @CamdenCouncil @kingscrossN1C If only... everyday reality I'm afraid 🚴‍♂️
+1100935877784727600,Thu Feb 28 01:49:02 +0000 2019,Hello @CamdenCouncil @kingscrossN1C, the Pancras Road taxi rank regularly extends onto the Goods Way cycle lane, fo… https://t.co/DoG6EApU4k
+1094032877052940300,Sat Feb 09 00:38:58 +0000 2019,@punchesbears Probably :) have a look at https://t.co/d20hNKjAQ8 for some work in this direction.
+1093623351770341400,Thu Feb 07 21:31:40 +0000 2019,RT @nickfrosst: My new paper with @NicolasPapernot and @GeoffreyHinton is out on arXiv today. It’s about the similarity structure of repres…
+1087756675417849900,Tue Jan 22 16:59:35 +0000 2019,RT @DeepMindAI: Join us and @Blizzard_Ent this Thursday at 6:00pm GMT for an exciting #StarCraft demonstration, hosted by @Artosis and @Rot…
+1084116636980912100,Sat Jan 12 15:55:22 +0000 2019,@heghbalz Are you looking for stuff like contrastive predictive coding (CPC) https://t.co/QydaWAN8OO? "self-supervi… https://t.co/e5HxIfhmF7
+1076282775089631200,Sat Dec 22 01:06:24 +0000 2018,RT @colinraffel: New blog post: "GANs and Divergence Minimization", which covers the perspective of GANs as minimizing an "adversarial dive…
+1074727776660455400,Mon Dec 17 18:07:24 +0000 2018,RT @jacobmenick: People have been asking about class-conditional SPN samples. We've only just trained a model with class labels -- will hop…
+1073651932126957600,Fri Dec 14 18:52:22 +0000 2018,@mikb0b @jeremyphoward @cedric_chee over-overfitting is a great way of putting it, I might have to use that in the future :)
+1073620735984312300,Fri Dec 14 16:48:25 +0000 2018,RT @huangcza: Check out our new blog post on music transformer that generates minute-long pieces that I find myself listening to again!  It…
+1073372076193603600,Fri Dec 14 00:20:19 +0000 2018,@erfannoury @jeremyphoward @cedric_chee I think it's important not to look at "overfitting" as a phenomenon that su… https://t.co/uzl9rBeRmU
+1073371787981975600,Fri Dec 14 00:19:11 +0000 2018,@erfannoury @jeremyphoward @cedric_chee Any model that doesn't achieve 100% accuracy (or whatever the optimal value… https://t.co/h0aPrfeCNu
+1073365096699699200,Thu Dec 13 23:52:35 +0000 2018,@jeremyphoward @cedric_chee I think I missed that bit in your tweet after reading the transcript, actually. Apologies :)
+1073364037671575600,Thu Dec 13 23:48:23 +0000 2018,@jeremyphoward @cedric_chee It makes sense in the case of classification, where getting the lowest possible validat… https://t.co/6fYYvmvPpx
+1073363550968647700,Thu Dec 13 23:46:27 +0000 2018,@jeremyphoward @cedric_chee I think this definition of overfitting might be a bit limiting in some cases. Models ca… https://t.co/Aleg1gDn3u
+1072895483675316200,Wed Dec 12 16:46:31 +0000 2018,RT @elluba: The AI art gallery from our NeurIPS Creativity workshop is now online 😀🤖  https://t.co/ixbdjEx6Jc   #AIart #creativeAI #NeurIPS…
+1071524547013341200,Sat Dec 08 21:58:54 +0000 2018,RT @mark_riedl: The student-advisor adversarial idea generator architecture (@dribnet) https://t.co/NQQWB5tBk6
+1070874469055586300,Fri Dec 07 02:55:43 +0000 2018,RT @dpkingma: New likelihood-based autoregressive model by @jacobmenick and @NalKalchbrenner (Google AI Amsterdam), providing fresh evidenc…
+1070765660261834800,Thu Dec 06 19:43:21 +0000 2018,RT @jacobmenick: These samples are produced with no conditioning information whatsoever.  In the case of ImageNet128, sampling involves 98,…
+1070691526299271200,Thu Dec 06 14:48:47 +0000 2018,RT @jacobmenick: My latest research with @NalKalchbrenner.  SPN pushes autoregressive models to bigger images with a new way to order pixel…
+1069721716295983100,Mon Dec 03 22:35:06 +0000 2018,RT @elluba: Papers accepted to our #NeurIPS2018 Machine Learning for Creativity and Design Workshop are now online at https://t.co/tdn1NkVs…
+1069427995671175200,Mon Dec 03 03:07:57 +0000 2018,RT @demishassabis: Proteins are essential to life. Predicting their 3D structure is a major unsolved challenge in biology and could impact…
+1069204459941781500,Sun Dec 02 12:19:42 +0000 2018,@thomschnake Unfortunately not, but if you want to train WaveNets I recommend looking at this codebase: https://t.co/GRtlVqOsmK
+1069204046639235100,Sun Dec 02 12:18:04 +0000 2018,@KoenTanghe Dithering is a good idea! It's not just quantisation noise though, there seems to be a trade-off where… https://t.co/FbbpqJfBnw
+1068901249368694800,Sat Dec 01 16:14:51 +0000 2018,I will be at #NeurIPS2018 to present our work on music generation in the raw audio domain, using a stack of WaveNet… https://t.co/wOeKBePPH1
+1068290712058437600,Thu Nov 29 23:48:48 +0000 2018,RT @santoroAI: (Thread) Some thoughts on the "reproducibility crisis" in machine learning:
+1062038239605874700,Mon Nov 12 17:43:42 +0000 2018,RT @DeepMindAI: The BigGAN generators from our paper https://t.co/QUYlE9IBsE are now available on TF Hub (https://t.co/GHM9pIgQPw). Try the…
+1057336861935484900,Tue Oct 30 18:22:06 +0000 2018,RT @ada_rob: Introducing the MAESTRO dataset (172 hours of aligned MIDI and audio piano performances) and Wave2Midi2Wave: a factorized appr…
+1057255485919903700,Tue Oct 30 12:58:45 +0000 2018,RT @elluba: Our NIPS Creativity workshop received 79 paper and 117 artwork submissions. Nice work, #creativeAI community 🤖❤️ We look forwar…
+1055529260784308200,Thu Oct 25 18:39:21 +0000 2018,RT @DrBeef_: left: the "AI generated" portrait Christie's is auctioning off right now  right: outputs from a neural network I trained and p…
+1054154103813820400,Sun Oct 21 23:34:58 +0000 2018,RT @elluba: One week left to submit your paper and/or AI art to our 2nd NIPS workshop on Machine Learning for Creativity and Design. Go go…
+1051868480931283000,Mon Oct 15 16:12:43 +0000 2018,RT @chrisdonahuey: Try it for yourself using our web demo! https://t.co/8rd9tcZYqR   📽️ https://t.co/dHMprsRFLb 📜 https://t.co/1yP4JnT7ry
+1051868455484514300,Mon Oct 15 16:12:37 +0000 2018,RT @chrisdonahuey: Excited to announce Piano Genie, an intelligent controller that allows anyone to improvise on the piano! This was my int…
+1048153138929303600,Fri Oct 05 10:09:16 +0000 2018,RT @samim: "Papers from ICLR 2019 Submissions on Generative Models for Music and Audio": https://t.co/eQo3bmn2f0 paper selection by @amirsa…
+1047832135661310000,Thu Oct 04 12:53:43 +0000 2018,RT @ada_rob: Accidentally dropped a few layers in my WaveNet and it decided to smash my piano. https://t.co/p7JMSpc2Dt
+1046687716753248300,Mon Oct 01 09:06:12 +0000 2018,RT @ajmooch: Something I really wanted to do with this work (which I think should be standard) was to highlight the things we tried which *…
+1046687549111095300,Mon Oct 01 09:05:32 +0000 2018,RT @ajmooch: Large-Scale GAN Training: My internship project with Jeff and Karen.  We push the SOTA Inception Score from 52 -&gt; 166+ and giv…
+1045237572350414800,Thu Sep 27 09:03:51 +0000 2018,RT @chrisdonahuey: Excited to give a sneak peak of Piano Genie at #ISMIR2018 this morning. Recent work with @iansimon and @sedielem. Come c…
+1044607787702132700,Tue Sep 25 15:21:19 +0000 2018,RT @chrisdonahuey: All of #ISMIR2018 is being live streamed! Check if out if you have MIR FOMO https://t.co/CGKIy2t1JA
+1041760475321720800,Mon Sep 17 18:47:06 +0000 2018,@ismir2018 Video streaming would be awesome for those of us who can't make it :) thank you!
+1040301504593363000,Thu Sep 13 18:09:41 +0000 2018,RT @douglas_eck: Check out what Transformer can do with music. Anna Huang (@huangcza) just posted her recent work (with many others) on arx…
+1038760707288981500,Sun Sep 09 12:07:06 +0000 2018,@alexjc The former was reported in https://t.co/W4850B43Tj, and some follow-up work has tried to address this probl… https://t.co/46CdPZTmyb
+1038109554821742600,Fri Sep 07 16:59:39 +0000 2018,RT @ajmooch: This new Schmidhuber&amp;Schmidhuber paper is 🔥🔥🔥 https://t.co/8N3ckGDfZ0
+1037394716944416800,Wed Sep 05 17:39:09 +0000 2018,RT @elluba: NIPS 2018 workshop on Machine Learning for Creativity and Design website is now live! Submit your papers and art by 28th Octobe…
+1035120885869555700,Thu Aug 30 11:03:45 +0000 2018,RT @elluba: My next #LDNcreativeAI is with @sedielem and @natashajaques on 10th Sep @IDEALondon. More details and sign up here: https://t.c…
+1034079345478910000,Mon Aug 27 14:05:02 +0000 2018,@xsteenbrugge @avdnoord Should it be possible to reconstruct the song from the latents? Because that's pretty chall… https://t.co/azsL0XPc0x
+1032739715710181400,Thu Aug 23 21:21:50 +0000 2018,@keunwoochoi the teacher in Parallel WaveNet (https://t.co/9OFlJXALp6) uses the discretised-mixture-of-logistics ap… https://t.co/zgAzAz4VTO
+1030627359404245000,Sat Aug 18 01:28:05 +0000 2018,RT @colinraffel: PSA: If a paper on a generative model of images only presents results on MNIST/SVHN/CelebA, you should be skeptical that i…
+1030061786031108100,Thu Aug 16 12:00:42 +0000 2018,@aasensior No, but many other invertible nets have open source implementations. RealNVP: https://t.co/HyJ6hBOMh9 Gl… https://t.co/Majb12K5R3
+1029861069941076000,Wed Aug 15 22:43:07 +0000 2018,Any more recommended reading about invertible neural nets? Let me know! (4/4)
+1029861068468826100,Wed Aug 15 22:43:07 +0000 2018,The i-RevNet paper (https://t.co/nYfKVdvT9X) challenges the commonly held belief that irrelevant information for th… https://t.co/vgD3Xc2e3Y
+1029861066837254100,Wed Aug 15 22:43:06 +0000 2018,Invertible neural nets have been explored for generative modelling (NICE https://t.co/wvshnwGdR3, RealNVP… https://t.co/A5k3RsaI8R
+1029861064194908200,Wed Aug 15 22:43:06 +0000 2018,Invertible neural networks are really cool! Check out this excellent blog post about a new paper where they are use… https://t.co/YmM377nXbv
+1029068015034425300,Mon Aug 13 18:11:48 +0000 2018,RT @DeepMindAI: Teams at @DeepMind_Health and @Moorfields have developed AI technology that can detect eye disease and prioritise patients.…
+1028072614399500300,Sat Aug 11 00:16:26 +0000 2018,@m_deff This is what's done in e.g. the "all convolutional net" by Springenberg et al. https://t.co/f0ahIBk1Sr
+1028033274889875500,Fri Aug 10 21:40:07 +0000 2018,RT @elluba: Our 2nd workshop on Machine Learning for Creativity and Design was accepted to #nips2018 for Sat 8th December 😊 More details so…
+1027989521781190700,Fri Aug 10 18:46:15 +0000 2018,@m_deff I think they are rarely used in this context because processing the input at full resolution all the way th… https://t.co/v1B670jKZ0
+1026894759028240400,Tue Aug 07 18:16:03 +0000 2018,RT @soumithchintala: Dont miss out on internships. Get as many under your belt as you can before joining full-time! I always wish I could g…
+1023682530346786800,Sun Jul 29 21:31:48 +0000 2018,RT @karoly_zsolnai: DeepMind's AI Learns The Piano From The Masters of The Past - https://t.co/FkrtCx3alt https://t.co/qiJehfBvFw
+1023214390814941200,Sat Jul 28 14:31:35 +0000 2018,RT @TerryUm_ML: Pro &amp; Cons of 4 generative models: Autoregressive, VAE, Normalized, and GAN models by @DavidDuvenaud at DLRL @VectorInst ht…
+1022928873565118500,Fri Jul 27 19:37:03 +0000 2018,RT @mrtz: Learn when and why you can replace recurrent sequence models by feedforward models: https://t.co/TfG0ameXqU
+1020665991179776000,Sat Jul 21 13:45:10 +0000 2018,@amuellerml You could just use word2vec but replace the words in a document by movies that a given person has watch… https://t.co/vgLPOPKkl6
+1019661517808169000,Wed Jul 18 19:13:44 +0000 2018,RT @shakir_za: ICLR2019 will be in New Orleans💃🏾We just announced the call for papers with the submission deadline on 27 September. Happy t…
+1018082415460397000,Sat Jul 14 10:38:57 +0000 2018,@jamesowers Yeah, Yamaha piano e competition data. There are midi recordings for ~10 years of competitions :)
+1016990497687121900,Wed Jul 11 10:20:04 +0000 2018,RT @avdnoord: Our latest work is out! Representation Learning with Contrastive Predictive Coding (CPC).  Autoregressive modeling meets cont…
+1016806351991951400,Tue Jul 10 22:08:20 +0000 2018,At #ICML2018 this week. Happy to chat about music and generative models. Check out all the work that my colleagues… https://t.co/O1fRoZ8QTy
+1016708471188795400,Tue Jul 10 15:39:23 +0000 2018,RT @NalKalchbrenner: Exciting news: @Google Brain expands to Amsterdam 🚲🚣🌳 Looking forward to working on core AI challenges with @TimSalima…
+1016707601105608700,Tue Jul 10 15:35:56 +0000 2018,Google Brain is now in Amsterdam! Great to see more industrial AI research labs popping up all over Europe :) https://t.co/7D9OKkzSQY
+1013447575142387700,Sun Jul 01 15:41:45 +0000 2018,@KloudStrife Yeah, I think we didn't even get the worst of it. Try to find @Eurostar staff and talk to them so you… https://t.co/IzLxZ02ALx
+1013441109404606500,Sun Jul 01 15:16:03 +0000 2018,RT @martinmckee: Dear @Eurostar Please get some staff on ground at Gare Du Nord. Even if the immigration problem is not your fault the chao…
+1013440959915479000,Sun Jul 01 15:15:28 +0000 2018,Not how I intended to spend my Sunday afternoon! Just got back to London 1:15 later than planned. Disorganised queu… https://t.co/1cy6FxQJSJ
+1013393176785248300,Sun Jul 01 12:05:35 +0000 2018,@mrcolin2017 @Eurostar I'm also curious, only two security lanes were open as we rushed past the queue, because ano… https://t.co/8cPcZNergg
+1012382824723370000,Thu Jun 28 17:10:49 +0000 2018,@filsino All of the models produce 16 kHz 8-bit mu-law audio, which already leads to some audible quantisation nois… https://t.co/92L2Kq0C1N
+1012381860972949500,Thu Jun 28 17:06:59 +0000 2018,Here's an alternative download link for one-minute piano samples, in case the original one doesn't work: https://t.co/QyEAPa9HzN
+1012292450495488000,Thu Jun 28 11:11:42 +0000 2018,RT @DeepMindAI: The challenge of realistic music generation: modelling raw audio at scale   - Paper: https://t.co/0NqNXVBa2n  - Listen to p…
+1012130833258483700,Thu Jun 28 00:29:29 +0000 2018,more unconditional samples and reconstructions are available here: https://t.co/Mu6Cp11LKw
+1012126279871627300,Thu Jun 28 00:11:24 +0000 2018,Stacking WaveNet autoencoders on top of each other leads to raw audio models that can capture long-range structure… https://t.co/9lqb9SXh4y
+1011682439025119200,Tue Jun 26 18:47:44 +0000 2018,RT @OriolVinyalsML: Welcome back, gradients! This method is orders of magnitude faster than state-of-the-art non-differentiable techniques.…
+1011644025575702500,Tue Jun 26 16:15:05 +0000 2018,RT @DeepMindAI: Check out the code for our implementation of "Importance Weighted Actor-Learner Architectures", open sourced today!  Code:…
+1008093125179592700,Sat Jun 16 21:05:05 +0000 2018,Autoregressive models like PixelCNN don't necessarily have to be trained using maximum likelihood. Here's an intere… https://t.co/llSJNnNn3m
+1007222119585939500,Thu Jun 14 11:24:01 +0000 2018,RT @JeffreyDeFauw: Our paper https://t.co/KxtKM7y1vp about trying to learn a segmentation model which captures label variation and uncertai…
+1002245333819232300,Thu May 31 17:48:03 +0000 2018,RT @arimorcos: Timely paper from @ShibaniSan, Dimitris Tsipras, @andrew_ilyas , and @aleks_madry providing some new insights into why batch…
+1002132653112426500,Thu May 31 10:20:17 +0000 2018,RT @erikmschmidt: Very excited about the 2018 Machine Learning for Music Discovery workshop at @icmlconf (jointly held with the MML worksho…
+1001873189910274000,Wed May 30 17:09:17 +0000 2018,RT @avdnoord: VQ-VAE (https://t.co/PmwpVNevcl and https://t.co/AOk0G57KRP) is now open source in DM-Sonnet! Here's an example iPython noteb…
+999597628139757600,Thu May 24 10:27:00 +0000 2018,RT @mfigurnov: Implicit Reparameterization Gradients by myself, @shakir_za and Andriy Mnih: https://t.co/z4drxddybg. An extension of repara…
+998982362405986300,Tue May 22 17:42:10 +0000 2018,RT @ada_rob: The first convincing musical style transfer I've heard. Make sure you check out African drums and whistling to symphony!  Nice…
+995595003899588600,Sun May 13 09:22:00 +0000 2018,RT @NalKalchbrenner: Both of our papers on making audio synthesis drastically more efficient accepted to ICML 2018!  WaveRNN: https://t.co/…
+990657929627004900,Sun Apr 29 18:23:50 +0000 2018,@chris_j_beckham I'm using TensorFlow these days. A lot has changed in the last couple of years :)
+990601659800834000,Sun Apr 29 14:40:14 +0000 2018,@chris_j_beckham The team and I had a lot of fun working on it! Good to know it's appreciated :)
+990436785405689900,Sun Apr 29 03:45:05 +0000 2018,RT @TacoCohen: Another exciting workshop coming up: "Towards learning with limited labels: Equivariance, Invariance, and Beyond". With talk…
+990432644109348900,Sun Apr 29 03:28:38 +0000 2018,Heading to #ICLR2018 tomorrow. I'm not presenting anything myself, but check out my colleagues' awesome work! Come… https://t.co/HmCEGWQpZh
+985197268822347800,Sat Apr 14 16:45:07 +0000 2018,@RogerGrosse Point taken about similarity between CIFAR and ImageNet. Not so sure about that track record though...… https://t.co/X34abnbAzr
+985191529290588200,Sat Apr 14 16:22:19 +0000 2018,@RogerGrosse Admittedly, whether ImageNet is a good proxy for most real-world problems is debatable, but it's proba… https://t.co/kc3Bw5rbtz
+985191279058477000,Sat Apr 14 16:21:19 +0000 2018,@RogerGrosse Not sure if I agree 100%. This depends on what is meant by scalability, which can encompass many more… https://t.co/N9kshf75mN
+984570922001723400,Thu Apr 12 23:16:14 +0000 2018,@functiontelechy @r4b1tt Congrats :)
+980144746734682100,Sat Mar 31 18:08:12 +0000 2018,RT @jordiponsdotme: A nice post on why spectrograms are not images, and the relevance of that fact when using CNNs! https://t.co/39SjJLTudI
+978653571246944300,Tue Mar 27 15:22:48 +0000 2018,RT @DeepMindAI: By learning to write programs that generate images our artificial agents can reason about how digits, characters and portra…
+978653517614403600,Tue Mar 27 15:22:35 +0000 2018,RT @heiga_zen: "Introducing Cloud Text-to-Speech powered by DeepMind WaveNet technology"   https://t.co/ntF4u5B8BE
+978394577655795700,Mon Mar 26 22:13:39 +0000 2018,RT @KaiLashArul: The YOLOv3 tech report is unashamedly honest, straightforward, and frankly, informative: https://t.co/Jdo0Go2BGk. 10/10 wo…
+977166174084616200,Fri Mar 23 12:52:25 +0000 2018,@nonmercidjs Ja, maar de conclusies zijn algemeen geldig (1D, 2D, 3D of meer).
+976967511332843500,Thu Mar 22 23:43:00 +0000 2018,@nonmercidjs 1x1 conv. lagen kunnen de originele stream op een niet-lineaire manier transformeren (maar dan wel pos… https://t.co/yV3v3uadiI
+976954367088742400,Thu Mar 22 22:50:46 +0000 2018,@nonmercidjs natuurlijk, zeg het eens :)
+976444428201222100,Wed Mar 21 13:04:27 +0000 2018,RT @mameister4: Engineers from Columbia U claim to overturn the 100 year old Sampling Theorem. Apparently anti-aliasing filters are obsolet…
+971526858557870100,Wed Mar 07 23:23:47 +0000 2018,@ogrisel @jeremyphoward @zacharylipton @ilyasut @beenwrekt While I've seen models trained with Adam generalise more… https://t.co/i1Uan0yGp3
+971047007455498200,Tue Mar 06 15:37:02 +0000 2018,@danelliottster @glouppe Train on chunks that are at least the length of the receptive field of the model. The trai… https://t.co/STjVeGhnEh
+970992994974404600,Tue Mar 06 12:02:24 +0000 2018,"We conclude that the common association between sequence modeling and recurrent nets should be reconsidered, and c… https://t.co/HiQtIMCxRs
+970988307176984600,Tue Mar 06 11:43:47 +0000 2018,RT @ChrSzegedy: (Simplified) #wavenet for the win! These results support our experience as well that wavenets outperform #RNN for sequence…
+970336317673562100,Sun Mar 04 16:33:00 +0000 2018,@don_frank @driainmurray good point 🤔
+970313430833025000,Sun Mar 04 15:02:04 +0000 2018,RT @driainmurray: Links to papers on arXiv/OpenReview/... shouldn't go straight to the PDF: I can't see meta-data, and sometimes I don't wa…
+970313230408192000,Sun Mar 04 15:01:16 +0000 2018,Not all heroes wear capes https://t.co/C6NGXnLiEQ
+969906760625598500,Sat Mar 03 12:06:06 +0000 2018,@functiontelechy @chrisdonahuey Another +1 for pretty midi!
+968129417099857900,Mon Feb 26 14:23:34 +0000 2018,RT @NalKalchbrenner: Three parts to our latest https://t.co/7bm9fL0yvU  paper on efficient audio! Wavernn matches Wavenet and runs 4x/10x o…
+968129377115533300,Mon Feb 26 14:23:25 +0000 2018,RT @NalKalchbrenner: The Subscale WaveRNN 8x in action: https://t.co/7bm9fL0yvU https://t.co/zuwc8XQY6Z
+968067707680841700,Mon Feb 26 10:18:21 +0000 2018,RT @kcimc: wavernn: wavenet-quality audio synthesis on cpu in realtime by @NalKalchbrenner et al. 😳 this feels like a big step. waiting for…
+965589138056544300,Mon Feb 19 14:09:24 +0000 2018,RT @dawen_liang: Our paper on using variational autoencoder as a powerful recommender system is up! Code available at https://t.co/tOyQvW7B…
+963497668147318800,Tue Feb 13 19:38:39 +0000 2018,RT @chrisdonahuey: Paper out for WaveGAN, a first attempt at generating raw audio samples with GANs. WaveGAN learns to produce intelligible…
+963196199254790100,Mon Feb 12 23:40:43 +0000 2018,RT @fjord41: New blog post about the project I've been working on for a while. Automatic piano music transcription (raw audio to MIDI) that…
+961335179712352300,Wed Feb 07 20:25:42 +0000 2018,RT @DeepMindAI: IMPALA - a new and efficient distributed architecture capable of solving many tasks at the same time in DeepMind Lab.   - b…
+960782405773746200,Tue Feb 06 07:49:10 +0000 2018,RT @KaiLashArul: Significant practical achievement in DRL - achieving reasonable scores across all (57) Atari games with one agent. https:/…
+948927611039834100,Thu Jan 04 14:42:27 +0000 2018,RT @lucastheis: Still have to review a lot of generative modeling papers where evaluation is mainly based on visual quality of samples. Gen…
+947824115477549000,Mon Jan 01 13:37:33 +0000 2018,RT @alphagomovie: Happy New Year! #AlphaGo Movie is now live on #Netflix. A great way to start 2018! https://t.co/JgCSNpe52r https://t.co/n…
+947207496753696800,Sat Dec 30 20:47:20 +0000 2017,@DBahdanau Most likely this is not what you're after, but I found Payne's "Describing Morphosyntax" really great to… https://t.co/CbAKnIFePm
+945371830646427600,Mon Dec 25 19:13:03 +0000 2017,RT @alphagomovie: Happy holidays everyone! Excited to announce that #AlphaGo Movie will be available to watch on #Netflix from 1st January…
+940297369421275100,Mon Dec 11 19:08:57 +0000 2017,RT @sindero: ICYMI, keynotes and oral sessions from NIPS 2017 are recorded and available from the NIPS Facebook page: https://t.co/Mp6k7LGS…
+939942074677211100,Sun Dec 10 19:37:08 +0000 2017,RT @osageev: check out the fascinating art gallery page at https://t.co/0oKuuMDWvX from the #nips4creativity workshop which was fantastic.…
+939653440094978000,Sun Dec 10 00:30:12 +0000 2017,RT @nalkalchbrenner: Slides from my #BayesianDL workshop at #NIPS17 on underlying principles and recent developments in Autoregressive Gene…
+939620134364241900,Sat Dec 09 22:17:51 +0000 2017,RT @abursuc: An overview and comparison of autoregressive architectures by @nalkalchbrenner #NIPS2017 https://t.co/R1ljZ5QoCu
+939581865878372400,Sat Dec 09 19:45:48 +0000 2017,RT @yaringal: Nal Kalchbrenner (Google DeepMind) now talking about Recent Advances in Autoregressive Generative Models #BDL https://t.co/qa…
+939553201195384800,Sat Dec 09 17:51:53 +0000 2017,RT @ada_rob: Excited to share my newest work #MusicVAE for interpolating and sampling melodies, beats, and three-part song segments from a…
+939273008396546000,Fri Dec 08 23:18:30 +0000 2017,RT @dirkvandenpoel: Superb talk by Sander Dieleman (@sedielem) at #NIPS2017 on #DeepLearning for music recommendation and generation. See e…
+939247256762400800,Fri Dec 08 21:36:11 +0000 2017,I'm giving a talk at the #ML4audio workshop at #NIPS2017 at 2PM! I'll be covering music recommendation and generati… https://t.co/GgO1KaEYyC
+939233139607658500,Fri Dec 08 20:40:05 +0000 2017,Having lunch with @ugent alumni and students at #nips2017! Now at @IBMResearch, @DeepMindAI, @GoogleBrain and… https://t.co/LlWiNlvrXf
+939220594930753500,Fri Dec 08 19:50:14 +0000 2017,RT @mark_riedl: A lot of interest in computational creativity at #NIPS2017 #nips4creativity https://t.co/m0fGPldl2U
+939185363519553500,Fri Dec 08 17:30:14 +0000 2017,RT @elluba: Livestream for NIPS Machine Learning for Creativity and Design workshop #nips4creativity #nips2017 #creativeAI https://t.co/JLA…
+939169587098030100,Fri Dec 08 16:27:33 +0000 2017,#nips4creativity workshop beginning shortly! Join us downstairs at the Hyatt hotel. https://t.co/n30PdUQfnY… https://t.co/FVF6RyVcEC
+938973558516133900,Fri Dec 08 03:28:36 +0000 2017,RT @rivatez: We just realized it’s the 1 year anniversary of #RocketAI today. Celebratory party: 10pm- 2am, At The Top, Pine Ave, (5m walk…
+936921643644891100,Sat Dec 02 11:35:01 +0000 2017,RT @alphagomovie: #AlphaGo Movie is now available to rent and buy on @GooglePlay &amp; heading to other on-demand platforms on 8 December! http…
+936543081008173000,Fri Dec 01 10:30:45 +0000 2017,RT @hardmaru: NIPS Workshop on Machine Learning for Creativity and Design @NipsConference 2017 accepted papers are now online. https://t.co…
+934945299533123600,Mon Nov 27 00:41:44 +0000 2017,@EMCP_ @DeepMindAI The closest thing I've seen is speaker transfer with VQ-VAE from my colleague @avdnoord et al.… https://t.co/C1iz9PVZnw
+933865070672666600,Fri Nov 24 01:09:17 +0000 2017,RT @memotv: happy to finally post research w @colormotor et al from over year ago on generating &amp; stylising calligraphy, asemic writing &amp; g…
+933447028289540100,Wed Nov 22 21:28:08 +0000 2017,RT @avdnoord: Introducing Parallel WaveNet, or how to generate 500,000 audio samples per second :). This is our generative Text-To-Speech m…
+933444695564476400,Wed Nov 22 21:18:52 +0000 2017,RT @DeepMindAI: Here’s how we took WaveNet from research to production https://t.co/8kDtzCZ5Jk https://t.co/k6JdUU2yAE
+932741606674960400,Mon Nov 20 22:45:03 +0000 2017,@biggiobattista @goodfellow_ian Makes sense, thanks for the link. What inspired this tweet is that I've been seeing… https://t.co/QrYFO7dtfi
+932733537844899800,Mon Nov 20 22:12:59 +0000 2017,@goodfellow_ian Cool, thanks for the pointer! Hadn't heard of FID before. That's my bedtime reading sorted :)
+932731883309420500,Mon Nov 20 22:06:24 +0000 2017,One thing I don't get about inception scores: isn't the confidence of a discriminative model on data that potential… https://t.co/Uhn5q8lmBz
+930805235940982800,Wed Nov 15 14:30:36 +0000 2017,RT @avdnoord: Slides from my SANE 2017 talk "Neural Discrete Representation Learning". https://t.co/yd7lhNfImv https://t.co/GbRWlIA7Ba
+928592312371904500,Thu Nov 09 11:57:14 +0000 2017,RT @zacharylipton: What?!?! "ICML Registrations Sell Out Before Submission Deadline" https://t.co/M6JmxMhuQN
+927927256139337700,Tue Nov 07 15:54:32 +0000 2017,RT @genekogan: running face recognition over that one-hour video of GAN-generated celebrity faces released by @NvidiaAI last week (https://…
+927353586954227700,Mon Nov 06 01:54:59 +0000 2017,RT @avdnoord: VQ-VAE: our paper on learning discrete representations! Unsupervisedly discovers phonemes and voice style transfer https://t.…
+926883816232366100,Sat Nov 04 18:48:17 +0000 2017,RT @douglas_eck: @hardmaru @sedielem @elluba @RebeccaFiebrink @arkitus And &gt;60 art submissions! This should be a full workshop. Consider at…
+926883788885344300,Sat Nov 04 18:48:10 +0000 2017,RT @douglas_eck: NIPS ML for Creativity and Design had &gt;50 paper submissions! https://t.co/KXXMLh18E3 @hardmaru @sedielem @elluba @RebeccaF…
+926503887615529000,Fri Nov 03 17:38:35 +0000 2017,RT @fjord41: Check out our new paper on state of the art automatic piano transcription! Onsets and Frames: Dual-Objective Piano Transcripti…
+923970483401445400,Fri Oct 27 17:51:44 +0000 2017,RT @elluba: One week left to submit papers + art to our Machine Learning for Creativity + Design workshop https://t.co/CwU8NexjW4 #creative…
+922745050727108600,Tue Oct 24 08:42:18 +0000 2017,@m_deff @ISMIR2017 @trekkinglemon @xbresson @crowd_ai @SDSCdatascience @freemusicarchiv @keunwoochoi Unfortunately… https://t.co/1vYElVCXFg
+920707519529586700,Wed Oct 18 17:45:53 +0000 2017,RT @DeepMindAI: Our 2nd AlphaGo @nature paper! #AlphaGo Zero learns to master the game of Go 'tabula rasa', entirely from self play https:/…
+920596607346905100,Wed Oct 18 10:25:09 +0000 2017,@No742617000027 Entirely different criteria ;) Very hard to say up front what would be commercially viable in MIR /… https://t.co/zmdfnenXda
+920244547644424200,Tue Oct 17 11:06:12 +0000 2017,@RushilNagda slides are here: https://t.co/PlSqgRtxJH
+919589605409771500,Sun Oct 15 15:43:41 +0000 2017,@dzidorius Sure! My calendar is a bit packed for the rest of the year, but I'd be happy to visit next year.
+919565205046259700,Sun Oct 15 14:06:44 +0000 2017,@RushilNagda Unfortunately not, I'll share the slide deck though!
+919556267747790800,Sun Oct 15 13:31:13 +0000 2017,I'm speaking at the MIR meetup in Berlin tomorrow https://t.co/6F00r5pGpp and at NDSS in Stockholm on Thursday… https://t.co/lU8Jp0JPjb
+919162355438837800,Sat Oct 14 11:25:57 +0000 2017,@quasimondo @genekogan the former, just a time sink :)
+919161045025017900,Sat Oct 14 11:20:44 +0000 2017,@quasimondo @genekogan The particle accelerator version of this is also wonderful: https://t.co/HFBGgTcQaj (by one… https://t.co/tM5GCqkhzx
+917557882215903200,Tue Oct 10 01:10:21 +0000 2017,@jekbradbury @Smerity @yaringal @PyTorch @RichardSocher @StrongDuality @CaimingXiong @ChainerOfficial Cool, thanks… https://t.co/capUZE1UpY
+917533482565472300,Mon Oct 09 23:33:23 +0000 2017,@Smerity @yaringal @PyTorch @RichardSocher @jekbradbury @StrongDuality @CaimingXiong @ChainerOfficial Cool! How doe… https://t.co/28sVs6J8tP
+916453651023040500,Sat Oct 07 00:02:31 +0000 2017,@dawen_liang @keunwoochoi @colinraffel "test time" is a poor choice of words imo, the distinction between validatio… https://t.co/6b6rDUJpKw
+916449717478920200,Fri Oct 06 23:46:54 +0000 2017,@dawen_liang @colinraffel inferencing!
+916306410593574900,Fri Oct 06 14:17:27 +0000 2017,RT @SoundCloudDev: Berlin brains: we're hosting the next Berlin Music Information Retrieval Meetup on Oct. 16! Featuring @sedielem! 🔥🌊🧠 htt…
+916300836032180200,Fri Oct 06 13:55:18 +0000 2017,RT @DeepMindAI: We're opening a new research office in #Montreal, Canada, in collaboration with @mcgillu &amp; led by Dr. Doina Precup: https:/…
+916060843028164600,Thu Oct 05 22:01:39 +0000 2017,RT @viegasf: Lovely music: listen to a real-time performance RNN in the browser with deeplearn.js: https://t.co/7Ks8pmyR64 https://t.co/J4q…
+915703054426570800,Wed Oct 04 22:19:55 +0000 2017,RT @demishassabis: WaveNet: the best text-to-speech system in the world. So proud of the team, from research to full-scale production in a…
+915664398433349600,Wed Oct 04 19:46:19 +0000 2017,RT @DeepMindAI: Last year WaveNet was a research project, today it launches in the @Google Assistant https://t.co/CuRBl92Hy2 https://t.co/X…
+915650425268908000,Wed Oct 04 18:50:48 +0000 2017,Google Assistant is now powered by WaveNet! https://t.co/LXe9DcR38m
+911330274855792600,Fri Sep 22 20:44:03 +0000 2017,RT @titsconference: Announcing TITS 2017: the world's best AI event  https://t.co/4gwhfrWkAx
+910167222680727600,Tue Sep 19 15:42:30 +0000 2017,RT @DeepMindAI: Take a look at the brand new @alphagomovie website for a first look at the trailer &amp; upcoming screenings: https://t.co/XHXe…
+908584542843412500,Fri Sep 15 06:53:30 +0000 2017,RT @hardmaru: NIPS2017 Workshop on Machine Learning for Creativity &amp; Design. Call for Papers &amp; Artwork! Visit our site for details https://…
+908399818036449300,Thu Sep 14 18:39:28 +0000 2017,RT @douglas_eck: Important: #NIPS2017 sells out in ~24hrs! Join our Creativity Workshop. @elluba, @sedielem, @hardmaru, @RebeccaFiebrink, @…
+908348967536267300,Thu Sep 14 15:17:24 +0000 2017,PSA: #nips2017 will sell out today or tomorrow! Their predictive model does not seem to account for the feedback lo… https://t.co/ahrNXRGKLb
+907674315482689500,Tue Sep 12 18:36:35 +0000 2017,RT @KaiLashArul: Looks like Geoff finally got his capsules to work 😀🎉 https://t.co/Vwd9GjbKcU
+906840798913757200,Sun Sep 10 11:24:29 +0000 2017,RT @elluba: Our workshop on Machine Learning for Creativity + Design will be @NipsConference 🤖💕 Yay @douglas_eck @hardmaru @RebeccaFiebrink…
+906482795102515200,Sat Sep 09 11:41:54 +0000 2017,@jeremyphoward @kallumadi Slides of the DL tutorial at RecSys 2017 a couple of weeks back are also worth taking a l… https://t.co/RKIizXCfTB
+906482633076437000,Sat Sep 09 11:41:16 +0000 2017,@jeremyphoward @kallumadi Paging @alexk_z @balazshidasi @domonkostikk @oren_sarshalom @BrachaShapira, who are all b… https://t.co/BPz037J2gN
+906480723380637700,Sat Sep 09 11:33:40 +0000 2017,@kallumadi @jeremyphoward But code release is always commendable of course :) Could be interesting to try for impli… https://t.co/TwR8sgkMbE
+906480066451841000,Sat Sep 09 11:31:04 +0000 2017,@kallumadi @jeremyphoward Also a bit unsure about the claimed novelty when they later say in the paper "people have… https://t.co/GtycVx8tWS
+906479855604162600,Sat Sep 09 11:30:13 +0000 2017,@kallumadi @jeremyphoward The RecSys community as a whole has moved away from rating prediction and now considers it largely irrelevant.
+905762645319577600,Thu Sep 07 12:00:17 +0000 2017,RT @debuggermassa: WARNING: Extensive use of Lasagne on top of theano can lead to significant weight gain:  Googling for documentation make…
+901904183108001800,Sun Aug 27 20:28:08 +0000 2017,RT @domonkostikk: We have full house at #dlrs2017 at #recsys2017 200+ audience &amp; a kinda miniconf #DeepLearning 4 #recsys thx all 4 present…
+901468053136977900,Sat Aug 26 15:35:06 +0000 2017,@cedricdb Yeah, just arrived in Cernobbio! Read your paper this week btw, nice work :)
+900453562601394200,Wed Aug 23 20:23:53 +0000 2017,RT @dlrs_workshop: The program of DLRS 2017 was announced on our website earlier this week: https://t.co/8NkfdY2fu5
+896138932076724200,Fri Aug 11 22:39:05 +0000 2017,RT @karpathy: Neat, the CS231n 2017 lecture videos are now up: https://t.co/pmjPvJSFtq I hear that was a lot of work :) great job @jcjohnss…
+895336066927833100,Wed Aug 09 17:28:47 +0000 2017,RT @DeepMindAI: The wait is over. Introducing SC2LE - an RL environment based on StarCraft II from DeepMind and @Blizzard_Ent https://t.co/…
+893810923655352300,Sat Aug 05 12:28:25 +0000 2017,RT @zacharylipton: Interviewing Elon Musk and Mark Zuckerberg for expert opinions on AI is like interviewing the president of Switzerland a…
+892757330017833000,Wed Aug 02 14:41:48 +0000 2017,@colinraffel even more underappreciated: not just training, but also scoring is fully parallelisable. Only sampling is sequential.
+892756775539269600,Wed Aug 02 14:39:36 +0000 2017,RT @colinraffel: Underappreciated: non-RNN autoregressive models (eg pixelcnn, attn is all you need) can be trained completely in parallel…
+890149505571713000,Wed Jul 26 09:59:14 +0000 2017,RT @boredyannlecun: Today, @elonmusk &amp; Zuck diss each other's knowledge of AI. Perhaps tomorrow @Madonna &amp; @katyperry will joust over quant…
+889895127027781600,Tue Jul 25 17:08:26 +0000 2017,@functiontelechy @urinieto @jordiponsdotme @keunwoochoi @kastnerkyle Instantaneous frequency looks like a good cand… https://t.co/v4QdiFhxPS
+888028340015304700,Thu Jul 20 13:30:29 +0000 2017,@jordiponsdotme @keunwoochoi @functiontelechy @kastnerkyle Depending on the size of the dataset it could just be ov… https://t.co/40fk2YEToB
+888005100685471700,Thu Jul 20 11:58:08 +0000 2017,@keunwoochoi Yeah :) I've been using it for ages, but I guess it's more appropriate now that I live in London
+888003880709222400,Thu Jul 20 11:53:18 +0000 2017,@jordiponsdotme @keunwoochoi @functiontelechy @kastnerkyle # input dimensions only affects the size of the first co… https://t.co/QUpQQDKWI5
+888003117597458400,Thu Jul 20 11:50:16 +0000 2017,@keunwoochoi @jordiponsdotme @functiontelechy @kastnerkyle A compromise is conv + location-dependent bias, very few… https://t.co/AaCK1ekXRU
+888002861086511100,Thu Jul 20 11:49:15 +0000 2017,@keunwoochoi @jordiponsdotme @functiontelechy @kastnerkyle Fair enough, that addresses nonstationarity, but what ao… https://t.co/AX1AIASxmY
+887992263552507900,Thu Jul 20 11:07:08 +0000 2017,@jordiponsdotme @keunwoochoi @functiontelechy @kastnerkyle any experimental results to back this up? Seems highly t… https://t.co/EVA26uMgma
+887748840434143200,Wed Jul 19 18:59:51 +0000 2017,@keunwoochoi @kastnerkyle Sorry, to clarify: I meant log-magnitude, linear frequency. Any other freq. scaling is ac… https://t.co/EZOCUuxHNN
+887745606164389900,Wed Jul 19 18:47:00 +0000 2017,@kastnerkyle @keunwoochoi These days I'm all for raw audio input, but failing that, log-mag. spectrograms should be… https://t.co/Ft9YOvkKsy
+887745020702462000,Wed Jul 19 18:44:41 +0000 2017,@keunwoochoi @heghbalz Nice! 31 and 32 seem to be examples of CNN+MFCC :)
+887744730272063500,Wed Jul 19 18:43:31 +0000 2017,@heghbalz @keunwoochoi I think it almost never makes sense to convolve across the frequency dimension, even without… https://t.co/0QitxQcoUf
+887743591799545900,Wed Jul 19 18:39:00 +0000 2017,@heghbalz @keunwoochoi This was the time of RBMs and unsupervised feature learning :) Not sure if I could find an e… https://t.co/tG2mb4SDim
+887742828062937100,Wed Jul 19 18:35:58 +0000 2017,@keunwoochoi Not sure actually, but I'm pretty sure it wasn't my idea. A lot of people were also using MFCCs at the time
+887740599855714300,Wed Jul 19 18:27:07 +0000 2017,@keunwoochoi I used it because everyone else used it in 2011 :)
+882606363695820800,Wed Jul 05 14:25:29 +0000 2017,RT @DeepMindAI: We're opening a research office in #Edmonton, Canada, in collaboration with @UAlberta, led by RL pioneer Rich Sutton https:…
+880558259207249900,Thu Jun 29 22:47:03 +0000 2017,RT @hardmaru: Performance RNN: Generating Music with Expressive Timing and Dynamics https://t.co/IEZpeqXJxb https://t.co/Wx0LrHl6t9
+877644628744257500,Wed Jun 21 21:49:19 +0000 2017,RT @Machine_Leaning: An Adaptive Accelerated Proximal Gradient Method and its Homotopy Continuation for Sparse Optimization https://t.co/ZY…
+874370192381550600,Mon Jun 12 20:57:53 +0000 2017,RT @dlowd: Deep learning revolutionizes everything! For example, before deep learning we had double-blind peer review. Now we have arXiv +…
+868985569761787900,Mon May 29 00:21:19 +0000 2017,@zacharylipton Read in a prof's bio once that they'd published in Science and Nature. https://t.co/eKccJkm3Es
+867334197630971900,Wed May 24 10:59:21 +0000 2017,@poolio @niru_m I've observed this in practice (https://t.co/g3XqL98VIs). Not having to tune params trumps ε better… https://t.co/kkIh21fBLE
+866678322239090700,Mon May 22 15:33:08 +0000 2017,RT @thetalperry: I just published “Convolutional Methods for Text” https://t.co/YUDjVQXRKh
+865310428716552200,Thu May 18 20:57:37 +0000 2017,RT @jesseengel: Want to play a WaveNet? Happy to announce neural synthesizer instruments for web browser and Ableton Live: https://t.co/KaA…
+865210385179213800,Thu May 18 14:20:05 +0000 2017,RT @benhamner: We encourage top @kaggle competitors to apply for access to the @Tensorflow TPU Research Cloud https://t.co/8w9wJOQjrT
+864822562290901000,Wed May 17 12:39:01 +0000 2017,RT @kaggle: Team Deep Breath approached lung cancer detection using a combo of segmentation, xfer learning &amp; u-nets #DataSciBowl https://t.…
+864791503679475700,Wed May 17 10:35:36 +0000 2017,PatternNet &amp; PatternLRP: nice work from a former colleague on interpreting neural network classification decisions.… https://t.co/k4509KQQ3S
+862030996597768200,Tue May 09 19:46:20 +0000 2017,@Kikohs @AtulAcharya @m_deff I wish this had existed when I was doing my PhD! Data drives research, so I think the… https://t.co/xMZddHcIUu
+862000576191746000,Tue May 09 17:45:27 +0000 2017,RT @m_deff: Our FMA dataset is online! 106,574 songs, 161 hierarchical genres, 917 GiB, 343 days of audio under #creativecommons https://t.…
+861864707187245000,Tue May 09 08:45:33 +0000 2017,RT @erikmschmidt: Machine Learning for Music Discovery dates and website are set for ICML 2017! Looking forward to the submissions! https:/…
+860931509452243000,Sat May 06 18:57:21 +0000 2017,@AIActorCritic @soumithchintala @ylecun @PyTorch Of course it isn't. It's more "useful" though, which is exactly what @ylecun said.
+857530832545878000,Thu Apr 27 09:44:17 +0000 2017,RT @ericjang11: On The Perils of Batch Norm https://t.co/i7NbiZI1f1
+856359690716024800,Mon Apr 24 04:10:35 +0000 2017,On the way to Toulon for #ICLR2017! Hopefully I'll make it in time for the first poster session :)
+855016140610953200,Thu Apr 20 11:11:48 +0000 2017,RT @DeGeyterGert: All information on #Astrohack, taking place 28/04 - 30/04,  can be found here: https://t.co/uLZpHsZuGO Sharing is caring!…
+853343310185984000,Sat Apr 15 20:24:34 +0000 2017,@EricBattenberg @karpathy @AlecRad tbh I've long held the belief that a lot of the popularity of batchnorm can be e… https://t.co/bxhq13Cbin
+853288665543520300,Sat Apr 15 16:47:25 +0000 2017,@karpathy @AlecRad I hope this paper was a few years old at least ;)
+853172335570014200,Sat Apr 15 09:05:10 +0000 2017,@karpathy This is why the variance is usually adapted to the layer sizes nowadays (Glorot/He/Orthogonal/...), any r… https://t.co/q0TG56t3ji
+852494288986546200,Thu Apr 13 12:10:51 +0000 2017,RT @soumithchintala: ProTip from @ylecun while discussing @pytorch's upcoming feature to add Hessian-vector products (among differentiating…
+852493354734669800,Thu Apr 13 12:07:08 +0000 2017,RT @avdnoord: New autoregressive singing synthesizer! Really cool. More samples here https://t.co/dibwwVYYXt https://t.co/9bwbBAgvpI
+852435240475922400,Thu Apr 13 08:16:13 +0000 2017,RT @SaileNav: 9th place in Kaggle's lung cancer prediction competition! #datascibowl Read about our approach here: https://t.co/udyPZNQRbx
+851352442017116200,Mon Apr 10 08:33:34 +0000 2017,RT @DeepMindAI: #AlphaGo is playing again in May, in a festival designed to explore the mysteries of Go! More on our blog: https://t.co/NnH…
+850351426819821600,Fri Apr 07 14:15:53 +0000 2017,@nospokot @GoogleBrain @cinjoncin @jesseengel @douglas_eck https://t.co/GRtlVqOsmK
+850335211049103400,Fri Apr 07 13:11:27 +0000 2017,The TF wrapper we use internally at DeepMind has been open sourced. Lasagne users might like this one, it shares a… https://t.co/60JUMhaOLO
+850095309250285600,Thu Apr 06 21:18:10 +0000 2017,@pieterbuteneers My guess based on increase in CUDA cores / memory bandwidth / clock speed is 10-20% faster than the Titan X / 1080 Ti.
+850095136470073300,Thu Apr 06 21:17:29 +0000 2017,@pieterbuteneers I wouldn't trust anything but raw benchmarks. I think it could be a while before people have a chance to benchmark these.
+850054538346102800,Thu Apr 06 18:36:09 +0000 2017,@modeless Interesting! So GP102 had 30 SMs all along? I sort of assumed the Titan X would be top of the line, guess I was wrong :)
+850027357884887000,Thu Apr 06 16:48:09 +0000 2017,I've been working on WaveNet autoencoders with @GoogleBrain Magenta. blog post: https://t.co/o4oDVRl9Rh paper:… https://t.co/zDqy2cs0l0
+849981358181154800,Thu Apr 06 13:45:22 +0000 2017,Titan Xp has 3840 cores, as opposed to Titan X Pascal's 3584 (very confusing names btw), looks like this is a new c… https://t.co/AzM5rJoTle
+847954379776852000,Fri Mar 31 23:30:53 +0000 2017,RT @goodfellow_ian: CycleGAN learns to turn horses into zebras *without supervision*: https://t.co/JVTWIyDYAj https://t.co/FRpCtYCwM9
+845037509990080500,Thu Mar 23 22:20:17 +0000 2017,RT @karpathy: Deep Photo Style Transfer https://t.co/0pYfLkvDlC wow results. PhotoShop of the future will be amazing. https://t.co/tocKvVs0…
+844893914108715000,Thu Mar 23 12:49:41 +0000 2017,@keunwoochoi these are tags, right? Not surprising, this is why we usually measure things like AUC / precision + recall and not accuracy :)
+844634201022435300,Wed Mar 22 19:37:40 +0000 2017,@hardmaru I don't think it's fair to judge artwork in the same way as a schematic diagram. This comparison doesn't make sense.
+841219518127050800,Mon Mar 13 09:28:56 +0000 2017,RT @YadFaeq: Very cool, an open dataset for Music Analysis: Free Music Archive (FMA) contains 77,643 songs &amp; 68 genres https://t.co/yMcSfeI…
+841219052353802200,Mon Mar 13 09:27:05 +0000 2017,RT @scott_e_reed: Sampling animations for Parallel Multiscale Autoregressive Density Estimation. https://t.co/rNabVgzPGa
+841216120774377500,Mon Mar 13 09:15:26 +0000 2017,RT @scott_e_reed: Parallel Multiscale Autoregressive Density Estimation https://t.co/kLOJTQKpI6 https://t.co/Sb1EAMP3aG
+840382742835654700,Sat Mar 11 02:03:54 +0000 2017,RT @RichardSocher: Rather than spending a month figuring out an unsupervised machine learning problem, just label some data for a week and…
+839245320441704400,Tue Mar 07 22:44:11 +0000 2017,RT @marcgbellemare: Our paper on PixelCNN for exploration is out! Neural alternative to CTS + practical insights into "hard" exploration ht…
+839000834952343600,Tue Mar 07 06:32:41 +0000 2017,RT @karpathy: Squeezed in some time over the weekend to implement discussions for arxiv-sanity (Markdown/LaTeX, tags etc.) w00t!: https://t…
+835082164697989100,Fri Feb 24 11:01:17 +0000 2017,RT @balazshidasi: Deep Learning for Recommender Systems workshop (DLRS 2017) will be held once again in conjunction with #RecSys. Stay tune…
+832398337282338800,Fri Feb 17 01:16:43 +0000 2017,Slides for my talk at Trinity College Cambridge are here: https://t.co/IAtuJfzInN This was a lot of fun, thanks to… https://t.co/apc4QUswTL
+832266997484367900,Thu Feb 16 16:34:49 +0000 2017,RT @elluba: In Cambridge? Come join @sedielem @DeepMindAI talk on deep learning for music tonight 6.15 🎶 Details https://t.co/kQJoINaMY9 #c…
+829867226140385300,Fri Feb 10 01:38:59 +0000 2017,@elluba @marko_stam video won't be possible unfortunately, but I'll share the slides afterwards!
+829812288043499500,Thu Feb 09 22:00:41 +0000 2017,RT @elluba: Next Thurs 16 Feb @sedielem @DeepMindAI talk @Cambridge_Uni on deep learning for music 🎶 https://t.co/cKnMZd0usi #AI #creativeA…
+826022671028715500,Mon Jan 30 11:02:06 +0000 2017,RT @soumithchintala: Wasserstein GANs: loss correlates with sample quality, fix mode dropping, improved stability, sound theory: https://t.…
+821864008026361900,Wed Jan 18 23:37:03 +0000 2017,RT @PyTorch: GPU Tensors, Dynamic Neural Networks and deep Python integration. Hello world! https://t.co/b35UOLhdfo https://t.co/MnuNVqJVZK
+821296258732138500,Tue Jan 17 10:01:01 +0000 2017,RT @poolio: We just released an example notebook for unrolled GANs on github! Very easy to implement using TF's graph_replace: https://t.co…
+819594946177105900,Thu Jan 12 17:20:37 +0000 2017,RT @kaggle: Just launched! Compete in @BoozAllen's 3rd annual #DataSciBowl to improve lung cancer detection for $1M in prizes. https://t.co…
+819567454523445200,Thu Jan 12 15:31:22 +0000 2017,New @kaggle competition: lung cancer detection. First prize $500k, prizes for the entire top 10. Nice!… https://t.co/lWNsotZDMC
+816662674406772700,Wed Jan 04 15:08:49 +0000 2017,RT @demishassabis: Excited to share an update on #AlphaGo! https://t.co/IT5HGBmYDr
+816431684640014300,Tue Jan 03 23:50:56 +0000 2017,RT @petewarden: Why Deep Learning Needs Assembler Hackers: https://t.co/Bwq23DgUaS
+816431498052141000,Tue Jan 03 23:50:12 +0000 2017,RT @dominikgrewe: @DeepMindAI are hiring a compiler engineer to help accelerate AI research! More information at https://t.co/b2WfT8LzlM
+816402752339320800,Tue Jan 03 21:55:58 +0000 2017,RT @poolio: GANs are great and all, but they aren't the world-changing technique you promise. Ask anyone who has trained a GAN. https://t.c…
+815884176859795500,Mon Jan 02 11:35:20 +0000 2017,RT @soumithchintala: /r/ml is noisy, but it is great in certain ways! I feel like it's the only public platform that provides negative rein…
+814909262799454200,Fri Dec 30 19:01:23 +0000 2016,@poolio this paper just got withdrawn, there was a mistake in the NLL calculation. See reddit for details. Too good to be true I guess :(
+814207661411565600,Wed Dec 28 20:33:28 +0000 2016,@poolio The sampling speed numbers are a bit dubious, sampling impl. seems suboptimal. I posted comments on reddit: https://t.co/qohSkfl7WR
+814195421904048100,Wed Dec 28 19:44:50 +0000 2016,RT @gstsdn: @pfau @sedielem ALI / BiGAN https://t.co/IY39UnvAHF do inference well. AC-GAN work https://t.co/ZMTqaLw0YC has lots of quantita…
+814122337280917500,Wed Dec 28 14:54:25 +0000 2016,RT @pfau: @sedielem But people seem to like pretty pictures more than numbers.
+814122113359609900,Wed Dec 28 14:53:32 +0000 2016,@pfau haha no, just trying to be objective :P I interpreted "inference" as "inferring latents" which I guess is not exactly what you meant!
+814121151135907800,Wed Dec 28 14:49:42 +0000 2016,@pfau does the same reasoning apply to autoregressive models then, where there are no latents to infer to begin with?
+814120553644703700,Wed Dec 28 14:47:20 +0000 2016,RT @pfau: @sedielem The fixes are cosmetic touches to a framework that is broken.
+814120545277120500,Wed Dec 28 14:47:18 +0000 2016,RT @pfau: @sedielem I think that inference is more important than generation, which is backwards from the way the GAN framework is formulat…
+814119888470077400,Wed Dec 28 14:44:41 +0000 2016,@pfau interesting! Why not? Which of the issues specifically are unfixable? Lots of people seem to be investing time &amp; effort to find fixes.
+814095036698820600,Wed Dec 28 13:05:56 +0000 2016,RT @alexjc: Here's a wonderful visual interpretation of the current consensus that GANs are unstable and hard to train... https://t.co/tgcW…
+814093764201500700,Wed Dec 28 13:00:53 +0000 2016,Haven't looked at GANs much myself because of instability, mode-dropping, finicky training. Happy to see these issues being addressed! [3/3]
+814093650368069600,Wed Dec 28 13:00:26 +0000 2016,More on analyzing &amp; fixing GANs: https://t.co/rzLipRM94d https://t.co/h1nfsHWfLi -- let me know what I've missed! [… https://t.co/4pFsfw1okp
+814093563189493800,Wed Dec 28 13:00:05 +0000 2016,Lots of interesting work on "fixing" GANs right now: https://t.co/EhDppNh0RW https://t.co/CNT82rTuHt… https://t.co/JDeU1ptxA3
+814088384289341400,Wed Dec 28 12:39:30 +0000 2016,https://t.co/0DSKahTIrK nice comprehensive curated guide for those starting out in deep learning, bundling courses, tutorials, software etc.
+813436265156710400,Mon Dec 26 17:28:13 +0000 2016,@kchonyc @Smerity Sure, but do we know that's really what's happening? What if it still works with something else instead of sigmoid?
+813431754111516700,Mon Dec 26 17:10:17 +0000 2016,@kchonyc @Smerity I suppose it's too late to stop the trend! But the metaphor seems a lot less appropriate here compared to e.g. LSTM, GRU.
+813431073573077000,Mon Dec 26 17:07:35 +0000 2016,@Smerity @kchonyc I wonder if "gating" is really the right name/metaphor here. In this form I see it more as yet another new nonlinearity :)
+812604386258124800,Sat Dec 24 10:22:37 +0000 2016,RT @nalkalchbrenner: Slides from my #RNNSymposium talk "Generative Modelling as Sequence Learning" https://t.co/mBfhqEIkC1 https://t.co/eTW…
+812329767135510500,Fri Dec 23 16:11:23 +0000 2016,@fhuszar I think most people do either this, or use grad wrt input of strided conv. But cudnn supports it now, so tricks no longer needed :)
+812327883972771800,Fri Dec 23 16:03:54 +0000 2016,@fhuszar I like the implementation trick, it can also be used for dilated convolution with space-to-batch instead of space-to-channels
+812327617449836500,Fri Dec 23 16:02:50 +0000 2016,@fhuszar is this equivalent to tiled convolution? (Le et al. https://t.co/RWwHOLP373)
+811320251526905900,Tue Dec 20 21:19:56 +0000 2016,@deworrall92 @dovgalec I thought the q was whether rotated MNIST as a dataset makes sense at all :) eqv can't help if orientation is random
+811319619029975000,Tue Dec 20 21:17:25 +0000 2016,The authors have also shared their @tensorflow implementation: https://t.co/WmwcWK43J5
+811318688162910200,Tue Dec 20 21:13:43 +0000 2016,@dovgalec @deworrall92 I suppose they would be in print, perhaps in handwriting you can still tell them apart because of stroke order?
+811317020969074700,Tue Dec 20 21:07:05 +0000 2016,Harmonic networks (@deworrall92 et al.) are fully rotation equivariant convnets. Very cool! https://t.co/4DHkF9LKLM… https://t.co/x2ztYN2tGQ
+810940327389491200,Mon Dec 19 20:10:15 +0000 2016,RT @karpathy: A short/quick blog post: “Yes you should understand backprop” https://t.co/fOsrsiU2HA
+808988943530258400,Wed Dec 14 10:56:09 +0000 2016,@hen_drik @samim @graphific style transfer and deep dream are not quite the same thing :)
+808968223991459800,Wed Dec 14 09:33:49 +0000 2016,Audio style transfer experiments with random neural nets on spectrograms. Works surprisingly well! Code available f… https://t.co/VMHqztpocE
+807639072139186200,Sat Dec 10 17:32:14 +0000 2016,@keunwoochoi @seaandsailor interesting topic though, maybe we should continue the discussion on a different medium :)
+807635918702133200,Sat Dec 10 17:19:42 +0000 2016,@seaandsailor @keunwoochoi e.g. guitar players can affect timbre, they don't just string together notes. Is that "message" or "physical"?
+807635786497593300,Sat Dec 10 17:19:11 +0000 2016,@seaandsailor @keunwoochoi I think the distinction is not nearly as binary as you seem to imply.
+807635510503977000,Sat Dec 10 17:18:05 +0000 2016,@seaandsailor @keunwoochoi so "message" is everything contained in the conditioning? Because for TTS it also includes e.g. prosody, length
+807635139417153500,Sat Dec 10 17:16:37 +0000 2016,@seaandsailor @keunwoochoi and our identification of two particular scales as "physical" and "message" is actually pretty arbitrary.
+807635007711776800,Sat Dec 10 17:16:05 +0000 2016,@seaandsailor @keunwoochoi I think that for these models, that distinction is mostly one of scale.
+807511308727894000,Sat Dec 10 09:04:33 +0000 2016,@keunwoochoi same goes for images: pixel-by-pixel generation is arbitrary but works very well. The key is avoiding independence assumptions.
+807510838030561300,Sat Dec 10 09:02:41 +0000 2016,@keunwoochoi they make equal amounts of sense :) in neither case it matches the true underlying physical process, but it works pretty well.
+807038225495822300,Fri Dec 09 01:44:41 +0000 2016,RT @pfau: Proud to have been part of the #RocketAI launch tonight. Sorry all the seed funding will be going to legal fees.
+807037790689067000,Fri Dec 09 01:42:57 +0000 2016,RT @karpathy: Best party of #nips2016 award goes to #rocketai (https://t.co/RfOFeqxBLx). Definitely a company to watch closely.
+807027928609542100,Fri Dec 09 01:03:46 +0000 2016,Best company party at #nips2016: definitely #rocketai
+806861305940475900,Thu Dec 08 14:01:40 +0000 2016,RT @boredyannlecun: It's the convolution solution / solving tasks with masks / forget the RNN / use Gated pixel-CNN #tensorFLOW #feelthelea…
+806837545225093100,Thu Dec 08 12:27:15 +0000 2016,If anyone is looking for us, we are in room 120 on the 1st floor #lasagne #nips2016
+806661146807779300,Thu Dec 08 00:46:19 +0000 2016,RT @boredyannlecun: Hedge fund booths less popular than  kernel machines at #NIPS2016 #torched
+806464141292617700,Wed Dec 07 11:43:29 +0000 2016,RT @NandoDF: GitHub - our #nips2016 Learning to Learn code in TensorFlow https://t.co/eis5zzCOLD
+806193973928849400,Tue Dec 06 17:49:56 +0000 2016,More info on the mailing list: https://t.co/MSlc6Q0MSF
+806173847389175800,Tue Dec 06 16:29:57 +0000 2016,@volkuleshov @alexjc @ajmooch see latest tweet :)
+806173612629692400,Tue Dec 06 16:29:01 +0000 2016,#Lasagne devs &amp; users at #nips2016: lunch on Thursday, meeting at the registration desk at 12:30. Let me know if you'd like to join!
+806132684066000900,Tue Dec 06 13:46:23 +0000 2016,@alexjc @ajmooch sounds like a plan :) where / when?
+805938348552556500,Tue Dec 06 00:54:10 +0000 2016,RT @soumithchintala: MSFT has one of the best souvenirs. research paper cards (like baseball cards)! Super 😎 https://t.co/7R14tDoxlt
+805109777013604400,Sat Dec 03 18:01:43 +0000 2016,RT @DeepSpiker: Important work. The first quantitative comparison between GANs and VAEs https://t.co/94Alxs2SvI  #gan #vae  #overfitting #s…
+805034865326518300,Sat Dec 03 13:04:03 +0000 2016,Heading to Barcelona for #NIPS2016 tomorrow! Who else is coming? Not presenting anything this year, just a tourist :)
+805027752034402300,Sat Dec 03 12:35:47 +0000 2016,RT @avdnoord: On my way to #nips2016 :-). Come see our poster about Conditional PixelCNNs on Wed! @nalkalchbrenner @OriolVinyalsML @koraykv…
+804703969583001600,Fri Dec 02 15:09:11 +0000 2016,RT @fhuszar: Struggling to get started with ICLR reviews? use jQuery: $('.h2').each(function( ){$(this).text('Harry Potter and the '+$(this…
+802510219712589800,Sat Nov 26 13:52:00 +0000 2016,RT @NandoDF: Repeal the new Surveillance laws (Investigatory Powers Act) - UK petition to protect privacy  https://t.co/oGrMAu2jnL
+795408434053128200,Sun Nov 06 23:32:03 +0000 2016,RT @demishassabis: #AlphaGo update: we've been hard at work improving AG, delighted to announce that more games will be played in early 201…
+795377568404807700,Sun Nov 06 21:29:24 +0000 2016,RT @graphific: Big Bigger Biggest: The Sparsely-Gated Mixture-of-Experts Layer by Shazeer et al (128 K40 GPUs for a 36B param net!) https:/…
+794855620944003100,Sat Nov 05 10:55:22 +0000 2016,RT @317070: Gait found by gradient descent through physics. Only 500 model evaluations required, starting from standstill. https://t.co/oAu…
+794111002434486300,Thu Nov 03 09:36:31 +0000 2016,RT @DeepMindAI: Exciting new training method for discrete operations in neural nets: The Concrete Distribution! https://t.co/rM9fzzWowR
+793379665272508400,Tue Nov 01 09:10:27 +0000 2016,RT @nalkalchbrenner: New neural net for Language and Machine Translation! Fast and simple way of capturing very long range dependencies htt…
+791559523634974700,Thu Oct 27 08:37:51 +0000 2016,@keunwoochoi NIPS will have two tracks this year :) it's also likely to be twice as big as last year so it might not make a difference...
+791339410717548500,Wed Oct 26 18:03:12 +0000 2016,RT @dumoulinv: Our style transfer paper is out. https://t.co/ekIlrBIlfH Google Research Blog post at https://t.co/AoUCRgZ4Xm
+791330012150497300,Wed Oct 26 17:25:51 +0000 2016,RT @hardmaru: A Learned Representation For Artistic Style, by Vincent Dumoulin, Jonathon Shlens, Manjunath Kudlur. #GoogleBrain #ICLR2017 h…
+790860350006632400,Tue Oct 25 10:19:35 +0000 2016,@keunwoochoi neither :) I guess it's more similar to DenseNet, but it wasn't every layer to every layer. Not my idea, it's a pretty old one!
+788686206087401500,Wed Oct 19 10:20:19 +0000 2016,@yassersouri agreed, this is annoying. PRs welcome :)
+788056265478049800,Mon Oct 17 16:37:09 +0000 2016,@ch402 @kcimc PixelCNN for example :) But I guess it could also work for models with latents, need to think about that though
+788033610142060500,Mon Oct 17 15:07:08 +0000 2016,@sedielem another way to avoid these artifacts is not to use deconvolution at all -- use dilated conv instead and don't reduce resolution :)
+788033228804423700,Mon Oct 17 15:05:37 +0000 2016,Why deconvolution artifacts exist and how to get rid of them. Loving the interactive widgets :) https://t.co/2CpdpuMivA
+786344088815611900,Wed Oct 12 23:13:34 +0000 2016,@sedielem DenseNet implementation in Lasagne by Jan Schlüter: https://t.co/kOO2prpzwv
+786253788810096600,Wed Oct 12 17:14:45 +0000 2016,RT @demishassabis: The article on DNCs is #DeepMind's third @Nature paper in just over 18 months! Pretty unprecedented in computer science!…
+786253599215013900,Wed Oct 12 17:14:00 +0000 2016,RT @DeepMindAI: Read our blog to see how DNCs use memory to solve puzzles &amp; navigate the London Underground: https://t.co/lY84gkuQ32 #DNCpa…
+785569908864278500,Mon Oct 10 19:57:16 +0000 2016,@fastml_extra no.
+784715019212693500,Sat Oct 08 11:20:14 +0000 2016,RT @scott_e_reed: Code for NIPS'16 "Learning What and Where to Draw" at https://t.co/xgnK41xTfO. https://t.co/fUFJVTtFW4
+783282789806407700,Tue Oct 04 12:29:04 +0000 2016,RT @j26774: Code for my ECCV paper on real-time style transfer is up!  https://t.co/kfpc0k0JYL
+783232171691634700,Tue Oct 04 09:07:56 +0000 2016,RT @nalkalchbrenner: 4/5 Samples from the VPN on the Robotic Pushing dataset. 18/20 frames are generated https://t.co/MNocWC4flQ
+783232106805784600,Tue Oct 04 09:07:40 +0000 2016,After PixelRNN/CNN and WaveNet, VPNs: more state of the art results with autoregressive models! https://t.co/z2XC1lGJ2I
+782920474762281000,Mon Oct 03 12:29:21 +0000 2016,RT @heiga_zen: WaveNet for text generation.  https://t.co/4Iyse9IuEM
+782920162920001500,Mon Oct 03 12:28:07 +0000 2016,@F_Vaggi @alexjc @genekogan to be fair the same could be said of RNNs, in practice they don't have infinite receptive fields either.
+781243700059992000,Wed Sep 28 21:26:27 +0000 2016,Deep learning-powered image search for fashion, by one of my former colleagues at Spotify. Looks pretty slick! https://t.co/uFy0v2iPwm
+781220434620608500,Wed Sep 28 19:54:00 +0000 2016,RT @googleresearch: Announcing YouTube-8M: A Large and Diverse Labeled Video Dataset for Video Understanding Research - https://t.co/kxLUxG…
+779428376905912300,Fri Sep 23 21:13:00 +0000 2016,A human rendition of one of the #WaveNet piano samples, and some detailed analysis from Magenta:… https://t.co/DE0vm2cS3S
+776858943129780200,Fri Sep 16 19:03:00 +0000 2016,RT @PhilemonBrakel: John Hershey and I are organizing a NIPS workshop about end-to-end learning for speech and audio processing: https://t.…
+776553639313825800,Thu Sep 15 22:49:49 +0000 2016,@keunwoochoi @ekrofto yes :)
+776551425606377500,Thu Sep 15 22:41:02 +0000 2016,@keunwoochoi @ekrofto just treat the frequency axis as input channels instead of as a spatial dimension, then it should be straightforward
+776531171152986100,Thu Sep 15 21:20:33 +0000 2016,@kcimc you might be interested in some of Michiel Hermans's work, former colleague of mine: https://t.co/ilSKDkuxjl https://t.co/U2DSqHq1Vc
+776503260211535900,Thu Sep 15 19:29:38 +0000 2016,Slides for my talk about content-based music recommendation at the @dlrs2016 workshop this morning: https://t.co/xZTizeN7YF #RecSys2016
+776258620640067600,Thu Sep 15 03:17:32 +0000 2016,@mllrkln no idea about video, will make sure to share the slides afterwards (feel free to remind me if I forget!)
+776246664847880200,Thu Sep 15 02:30:01 +0000 2016,@keunwoochoi @ekrofto also consider trying raw audio + dilated conv. as in WaveNet, should also work well for discriminative problems!
+776246243467137000,Thu Sep 15 02:28:21 +0000 2016,@keunwoochoi @ekrofto what comment is that?
+776246004593164300,Thu Sep 15 02:27:24 +0000 2016,@keunwoochoi @ekrofto filters should span almost all of the frequency axis. Or all of it (1D conv), which is a lot cheaper computationally!
+776245862213292000,Thu Sep 15 02:26:50 +0000 2016,@keunwoochoi @ekrofto so IMO it doesn't make sense to apply the same filter with an offset of more than 1 octave.
+776245737147473900,Thu Sep 15 02:26:20 +0000 2016,@keunwoochoi @ekrofto 1D conv all the way :) Spectrograms are non-stationary across the frequency axis.
+776244004249858000,Thu Sep 15 02:19:27 +0000 2016,@keunwoochoi @heghbalz why don't we all forget that paper ever existed ;)
+776159644163211300,Wed Sep 14 20:44:14 +0000 2016,In Boston for #RecSys2016, talking about music at the deep learning for recommender systems workshop tomorrow! https://t.co/XopYr2dpCH
+775736043526058000,Tue Sep 13 16:40:59 +0000 2016,@fhuszar cool, will have a look, thanks!
+774619314364252200,Sat Sep 10 14:43:30 +0000 2016,@keunwoochoi cool, see you there!
+774553987324477400,Sat Sep 10 10:23:55 +0000 2016,@functiontelechy @keunwoochoi was thinking magnitude spectrogram, usually we feed NNs real input :) don't see the issue if you don't bprop.
+774435596513214500,Sat Sep 10 02:33:29 +0000 2016,@keunwoochoi training on raw audio also works pretty well by the way ;)
+774435474660266000,Sat Sep 10 02:33:00 +0000 2016,@keunwoochoi it should be. They are all basically just strided convolutions followed by a nonlinearity, but you don't backprop through them
+774018475203424300,Thu Sep 08 22:55:59 +0000 2016,@kcimc @avdnoord LSTMs don't do very well modelling dependencies beyond a few hundred timesteps though. Also convolutions are much faster :)
+773957781846102000,Thu Sep 08 18:54:49 +0000 2016,@nynexrepublic @kcimc actually @avdnoord was the lead on this project :)
+773947042527936500,Thu Sep 08 18:12:08 +0000 2016,I guess it was only a matter of time before I started working on music again :) https://t.co/E5PcTkfe7l
+770572740407468000,Tue Aug 30 10:43:52 +0000 2016,@eigenhector actually they do away with residual connections, they are unnecessary when there is a direct path from each layer to output :)
+770405439540457500,Mon Aug 29 23:39:04 +0000 2016,@antgoldbloom glad to hear it! Let's hope other hosts don't use this as a precedent then. Being able to publish/talk about results is key :)
+770371267954352100,Mon Aug 29 21:23:17 +0000 2016,RT @DeepMindAI: New blog post up, explaining our paper Decoupling Neural Networks Using Synthetic Gradients! https://t.co/b9CsmHyRpN https:…
+770366390343721000,Mon Aug 29 21:03:54 +0000 2016,@owhadi according to the authors, very reasonable because you need fewer filters per layer. They discuss this at length in the paper.
+770317983579332600,Mon Aug 29 17:51:33 +0000 2016,RT @kaggle: Read how writing about his competition wins launched @sedielem's career at @DeepMindAI https://t.co/JNIT0mnLAl https://t.co/04m…
+770302388313948200,Mon Aug 29 16:49:35 +0000 2016,I am of course very grateful to @kaggle for the platform they've provided. We had a chat about it recently: https://t.co/Y7104wcXmj
+770204394788978700,Mon Aug 29 10:20:12 +0000 2016,@fdelamuerte @kaggle as long as it's not in the competition agreement, they cannot. Either way it's still disappointing that they would ask.
+770038652080689200,Sun Aug 28 23:21:35 +0000 2016,@AndrewLBeam @kaggle cool, thanks, I read it earlier! Sharing here as well because it's worth a read: https://t.co/pUgLHTSTqb
+770033412472209400,Sun Aug 28 23:00:46 +0000 2016,@sedielem Monetary rewards are nice of course, but being able to share solutions is what got me my current job.
+770032639512305700,Sun Aug 28 22:57:42 +0000 2016,@sedielem I've found solution sharing to be the most valuable aspect of Kaggle, both sharing own solutions and learning from those of others
+770032080357064700,Sun Aug 28 22:55:29 +0000 2016,Apparently @kaggle have been asking high-ranking contestants not to blog/share their solution. Very disappointing! https://t.co/GMwGtxFKYF
+769459409214996500,Sat Aug 27 08:59:53 +0000 2016,@kastnerkyle @AndrewLBeam @dnouri @brandondamos the link with conditioning/VAEs is unclear to me, what do you mean?
+769305322821386200,Fri Aug 26 22:47:36 +0000 2016,tl;dr: connect every CNN layer to every other layer. Simple but effective idea, well-written paper. Worth a read! https://t.co/eenqsgziKI
+768450879858942000,Wed Aug 24 14:12:21 +0000 2016,RT @egrefen: Montreal DLSS talks now online. Slide-aligned videos coming soon. Awesome set of lectures! https://t.co/f6lCjbx5WH
+768148864188710900,Tue Aug 23 18:12:15 +0000 2016,@petewarden don't need RNNs to beat JPEG, see e.g. Fig. 8 in https://t.co/gQpN3GHJCZ. JPEG2000 is probably a better benchmark.
+765458116205023200,Tue Aug 16 08:00:11 +0000 2016,RT @soumithchintala: "Any state-of-the-art neural network trains in 4 days. Improve training speed 10x, and it still trains in 4 days :/ "-…
+763382197286035500,Wed Aug 10 14:31:13 +0000 2016,Here's @urinieto casually spinning some @meshuggah at #ismir2016 :) Wish I could attend! https://t.co/wl3KptWyHH
+763278185337327600,Wed Aug 10 07:37:55 +0000 2016,RT @kcimc: one ISMIR paper raffel &amp; ellis has midi/audio alignment for 45k tracks. the closest thing to "image net" for audio.. https://t.c…
+763109108660760600,Tue Aug 09 20:26:04 +0000 2016,RT @nervanasys: Breaking news! #Nervana is planning to join #Intel!! Read the full story in this post by our CEO: https://t.co/3gC4l4Pvof @…
+761606644467920900,Fri Aug 05 16:55:48 +0000 2016,More deep learning finding its way into production at @Spotify! https://t.co/qWkYZ9ai3L
+758398588061880300,Wed Jul 27 20:28:08 +0000 2016,RT @soumithchintala: @deliprao @AlfredoCanziani Ideas are cheap, but showing that ideas work is much more valuable.
+758072144697946100,Tue Jul 26 22:50:58 +0000 2016,@amuellerml student-t might be worth considering: https://t.co/Acb9oTJrG1
+750857542369247200,Thu Jul 07 01:02:43 +0000 2016,@soumithchintala out of town all weekend, but I'll say hi very briefly at the bmva workshop :)
+750359659085791200,Tue Jul 05 16:04:18 +0000 2016,RT @twiecki: New post: #Bayesian #DeepLearning Part II: Bridging #PyMC3 and #Lasagne https://t.co/DSJfKFSm8e https://t.co/gSRmn4EnEx
+748877624554852400,Fri Jul 01 13:55:13 +0000 2016,RT @dlrs2016: Very happy to announce that @sedielem will be keynote speaker for the @dlrs2016 workshop https://t.co/42zIe5Y4k2  #deeplearni…
+748312810149523500,Thu Jun 30 00:30:51 +0000 2016,RT @nervanasys: Hot off the press! Part 2 of our #Winograd for #DeepLearning blog series has been released: https://t.co/rYqdwqNdLA #CVPR20…
+748214841748369400,Wed Jun 29 18:01:34 +0000 2016,RT @mxlearn: Theano/Lasagne implementation of CNN+GRU for spoken language identification https://t.co/duBhyH8wVD
+747088782357372900,Sun Jun 26 15:27:00 +0000 2016,@faroit most of my colleagues used it, I borrowed it from them :) I'll see if I can upload it somewhere when I get back (still in NYC)!
+746914664370544600,Sun Jun 26 03:55:07 +0000 2016,@lyon_cao ImageNet images have a canonical orientation, so fully equivariant nets are probably not ideal. Can do partial eqv. though :)
+745723703539933200,Wed Jun 22 21:02:40 +0000 2016,Just updated the #ICML2016 workshops schedule on Clashfinder: https://t.co/EVDK2gmiIm https://t.co/efu18AB5B2
+745641430870265900,Wed Jun 22 15:35:45 +0000 2016,RT @AlisonBLowndes: 'There's no up&amp;down in space!' @sedielem @DeepMindAI @icmlconf https://t.co/8Z1ObJWmx0 work being used by @nasa_fdl htt…
+745327780649373700,Tue Jun 21 18:49:25 +0000 2016,Presenting our poster on cyclic symmetry in CNNs this afternoon at #ICML2016! (With @JeffreyDeFauw and @koraykv) https://t.co/3rTq5OdoGp
+744971243086962700,Mon Jun 20 19:12:39 +0000 2016,@icmlconf schedules on icml.cc and whova differ in some places, which one is up to date? Thanks!
+744893450353467400,Mon Jun 20 14:03:32 +0000 2016,RT @DeepMindAI: #DeepMind Team win 2 of 3 best paper awards at #icml2016! Congrats to all! https://t.co/ODYXR0NxJJ https://t.co/LynahdnqQp
+744750127907242000,Mon Jun 20 04:34:01 +0000 2016,RT @ML_Hipster: Given the importance of L2 and L1 norms in machine learning, it's apt that ICML is finally being held in Times Square, Manh…
+744312693960638500,Sat Jun 18 23:35:49 +0000 2016,ICML 2016 workshops clashfinder, for workshop-hoppers like myself: https://t.co/NeSuEAHcon (lmk about any mistakes/changes!) #icml2016 #FOMO
+743984821177827300,Sat Jun 18 01:52:58 +0000 2016,RT @DeepMindAI: The new #DeepMind blog page is live! First post is on Deep Reinforcement Learning by Dave Silver: https://t.co/aOTQ9Lumlc
+743929842249441300,Fri Jun 17 22:14:30 +0000 2016,@SamRozen sure, when? I'm actually in the neighbourhood right now :)
+743874132689961000,Fri Jun 17 18:33:08 +0000 2016,Just arrived in NYC for ICML! Poster about cyclic convnets (https://t.co/zO6FidSHq0) on Tuesday, presenting on Wednesday. Come say hi :)
+743870294411087900,Fri Jun 17 18:17:53 +0000 2016,RT @DeepMindAI: PixelCNN 2.0: New state of the art generative model for conditional natural image synthesis https://t.co/2agVAzdsbB https:/…
+743716945401253900,Fri Jun 17 08:08:32 +0000 2016,@sedielem convnets are great for onset detection as well though, not sure why they weren't used for that, see e.g. https://t.co/SPr4mzgXPW
+743715665203232800,Fri Jun 17 08:03:26 +0000 2016,@iamchrismiller I don't, found the link on reddit :) was very happy to find a nice write-up on how to do convnets for music properly!
+743713455656435700,Fri Jun 17 07:54:40 +0000 2016,Music transcription with convnets: https://t.co/xnyQxNTFMd nice overview of how to design convnets for spectrograms.
+743667310724972500,Fri Jun 17 04:51:18 +0000 2016,RT @Miles_Brundage: "Conditional Image Generation with PixelCNN Decoders," van den Oord et al. at DeepMind: https://t.co/olug4WHXoM https:/…
+742985531211026400,Wed Jun 15 07:42:09 +0000 2016,RT @demishassabis: We're putting the final touches to a new version of #Labyrinth which we'll be open sourcing soon for everyone to use htt…
+741579328954064900,Sat Jun 11 10:34:24 +0000 2016,RT @FastForwardLabs: Amazing work by NYU's Juan Bello with deep nets and probabilistic techniques to model music: https://t.co/TIWqz9Hnfx h…
+741058557592928300,Fri Jun 10 00:05:02 +0000 2016,RT @alexjc: Systematic comparison of architectural decisions for convolution networks, some surprises: https://t.co/ZhpLt9ERd5 https://t.co…
+740126913914622000,Tue Jun 07 10:23:01 +0000 2016,Nice example of Lasagne's interoperability with other libraries: easy to use wherever you used plain Theano before. https://t.co/olxSBnRQD3
+739953225823092700,Mon Jun 06 22:52:51 +0000 2016,RT @mllrkln: Finally flushed out the bugs in my Preactivation ResNet code. https://t.co/JPzjpCSDPD #deeplearning #MachineLearning
+739931970185105400,Mon Jun 06 21:28:23 +0000 2016,@samim @seaandsailor @alexjc unless I'm missing something, overfitting on individual examples is trivial. No point in asking questions...
+739913746781442000,Mon Jun 06 20:15:58 +0000 2016,@seaandsailor @samim the issue is that 24 people retweeted the original tweet, probably only a fraction of those saw the ensuing discussion.
+739853037829824500,Mon Jun 06 16:14:44 +0000 2016,@seaandsailor @samim I think being a little more critical wouldn't be a bad thing. Lots of people only look at the pictures and get excited.
+739843731621351400,Mon Jun 06 15:37:45 +0000 2016,@samim didn't read yet, but is this not just massively overfitting? The "jazz" samples are just cut-and-paste versions of the training clip.
+738051321929011200,Wed Jun 01 16:55:22 +0000 2016,RT @googleresearch: Check out Magenta, an open-source ML research project looking at music and art generation - https://t.co/p878J0UDTP htt…
+736683340712005600,Sat May 28 22:19:29 +0000 2016,Looks like GTX 1080 does not have fast fp16 :( disappointed, but not surprised... I guess I won't upgrade just yet! https://t.co/Cbfg0KxqqO
+735033073121792000,Tue May 24 09:01:55 +0000 2016,RT @amuellerml: Wouldn't it be great if @kaggle competitions would say what license their data has? Too few real datasets in research. cc @…
+735000323266379800,Tue May 24 06:51:47 +0000 2016,RT @soumithchintala: Wide Residual Networks: deeper != better. Squeezed out ~80% on CIFAR-100 with 1.8x to 8x faster. Imagenet pending... h…
+734847842121060400,Mon May 23 20:45:53 +0000 2016,RT @joelgrus: new blog post: Fizz Buzz in Tensorflow  https://t.co/1tvl2MrojB
+734648633585438700,Mon May 23 07:34:18 +0000 2016,RT @soumithchintala: Residual Networks are Exponential Ensembles of Relatively Shallow Networks. Interesting...: https://t.co/c0cCwKqlaG ht…
+734495393535430700,Sun May 22 21:25:22 +0000 2016,RT @PopSci: 'Magenta' is Google's new project to make art with artificial intelligence  https://t.co/EkP5ooUVQR
+733943062204960800,Sat May 21 08:50:36 +0000 2016,RT @carlos_ciller: "The 1st step in #ML is to start doing something better than random, then you overfit, then you regularize!" @OriolVinya…
+733384173159735300,Thu May 19 19:49:47 +0000 2016,RT @kaggle: Competition launch! Can you identify nerve structures in ultrasound images of the neck? https://t.co/L7Z1p8kgwi https://t.co/Y4…
+733054595279294500,Wed May 18 22:00:09 +0000 2016,RT @petewarden: Sundar reveals our Tensor Processing Unit at IO! https://t.co/QqppcQdFUE
+732698386772688900,Tue May 17 22:24:42 +0000 2016,RT @MirowskiPiotr: "What the AI behind @DeepMindAI's #AlphaGo can teach us about being human" (Wired) https://t.co/GHmvA9CA5k
+730804972212879400,Thu May 12 17:00:57 +0000 2016,RT @fhuszar: my notes on Dilated Convolutions and Kronecker-factored Convolutions: exponential savings in # of parameters.  https://t.co/VH…
+729244498061045800,Sun May 08 09:40:11 +0000 2016,RT @matthieunapoli: When we open a pull request, we are also asking the maintainer to commit to maintaining our code. It's never just about…
+729239147488088000,Sun May 08 09:18:56 +0000 2016,@SashaVNovikov @deliprao looks like they don't train from scratch in that paper though. Not sure if that would work nearly as well :)
+729119352298078200,Sun May 08 01:22:54 +0000 2016,@Cote_Marc yeah, this was always a bit useless IMO :) but the new way should be super useful for e.g. RNNs.
+729098436864299000,Sat May 07 23:59:47 +0000 2016,Since Theano v0.8, setting optimizer=fast_compile works on GPU. This means fast compilation but no graph optimisation (as in TensorFlow).
+729092912793960400,Sat May 07 23:37:50 +0000 2016,@karpathy note that TensorFlow calls it 'atrous_conv2d', after "algorithme à trous". Docs here: https://t.co/rloUhgl5tJ
+729088325047431200,Sat May 07 23:19:37 +0000 2016,@karpathy a nice way to think about it is to rename the traditional stride parameter to "output stride", and the dilation to "input stride".
+729088037934731300,Sat May 07 23:18:28 +0000 2016,@karpathy and now in Lasagne as well :) https://t.co/zqi5lGYpGM
+729087869197951000,Sat May 07 23:17:48 +0000 2016,RT @karpathy: Dilated convolutions are a very good idea. Expecting this to become standard https://t.co/joZrTq3TXh already supported by Tor…
+729072224045568000,Sat May 07 22:15:38 +0000 2016,RT @Miles_Brundage: "Towards Conceptual Compression," Gregor et al, DeepMind https://t.co/t7L9TkejUm Convolutional DRAW, relevant to unsupe…
+729062605130768400,Sat May 07 21:37:25 +0000 2016,@deliprao @SashaVNovikov this is not tried in the paper, but I'm sure the idea can be extended to conv layers. Impl might be a challenge.
+729062188472733700,Sat May 07 21:35:45 +0000 2016,@deliprao @SashaVNovikov that will depend on the implementation. It does make networks with very large representations possible (Sec. 6.2.1)
+729060930785521700,Sat May 07 21:30:45 +0000 2016,@deliprao @SashaVNovikov this is a reparameterisation, you train the net with this structure from scratch, instead of compressing afterwards
+729059259464470500,Sat May 07 21:24:07 +0000 2016,RT @SashaVNovikov: BTW we've just released a @TensorFlow implementation https://t.co/DAXKjnXnu2 #TensorizingNeuralNetworks #iclr2016
+729054151792021500,Sat May 07 21:03:49 +0000 2016,RT @KaiLashArul: Programme for @TheBMVA DL4CV Workshop: https://t.co/NEbLtPEAhY. Exciting talks from @samim @sedielem @amiconfusediam @nkou…
+728855156612341800,Sat May 07 07:53:05 +0000 2016,@amiconfusediam @nvidia any idea how they get to 9TFlops? Is that fp32? So do we get 18TFlops fp16? Hope so :)
+727006702235570200,Mon May 02 05:27:59 +0000 2016,RT @DeepMindAI: #ICLR2016 starts tomorrow, #DeepMind had 13 great papers accepted! Check them all out here: https://t.co/AELAvrG0wu
+726487528816128000,Sat Apr 30 19:04:59 +0000 2016,@Tim_Dettmers @karpathy sounds good :)
+726159249567404000,Fri Apr 29 21:20:31 +0000 2016,RT @kaggle: Competition launch! Put order to space &amp; time in Draper's Satellite Image Chronology https://t.co/fB3jIrp8Mk https://t.co/HatgP…
+726158617682923500,Fri Apr 29 21:18:00 +0000 2016,RT @googleresearch: Today we are excited to announce that DeepMind will start using #TensorFlow for all future research! - https://t.co/kCJ…
+726158567665889300,Fri Apr 29 21:17:48 +0000 2016,@pieterbuteneers @googleresearch you bet :)
+725848584751435800,Fri Apr 29 00:46:02 +0000 2016,@karpathy none yet, just got here 2 hours ago. I'm sure they're coming :)
+725843042993901600,Fri Apr 29 00:24:01 +0000 2016,@karpathy cool :) see you soon! It's a bit hot.
+725838823846907900,Fri Apr 29 00:07:15 +0000 2016,In San Juan for #iclr2016! Who else is coming?
+725061196852940800,Tue Apr 26 20:37:14 +0000 2016,RT @shakir_za: Be part of the conversation: #ICML2016 workshop on Data-efficient Machine Learning, 2pg submissions due 1 May. https://t.co/…
+724625092496490500,Mon Apr 25 15:44:19 +0000 2016,@jeremyphoward yes, this was originally developed for plankton. For galaxies the approach was a bit more primitive, not truly invariant.
+724336322761113600,Sun Apr 24 20:36:51 +0000 2016,Our paper about exploiting cyclic symmetry in convnets was accepted at ICML! https://t.co/zO6FidSHq0 https://t.co/B7UWURB2w2
+720902092718751700,Fri Apr 15 09:10:27 +0000 2016,Awesome initiative! I am not worthy to have the title of "human compiler" bestowed upon me though ;) https://t.co/2yvO67Ta6w
+720321864552198100,Wed Apr 13 18:44:50 +0000 2016,RT @kaggle: How to diagnose heart disease w/ MRI scans, deep neural nets &amp; no hand-labeling #DataSciBowl https://t.co/EPc8H7W99q https://t.…
+719126874862010400,Sun Apr 10 11:36:22 +0000 2016,Two G+ discussions on weight initialization in NNs from a while back, still a great read! https://t.co/ouxzIKaFgD https://t.co/UVB9B2gq0c
+718879792494469100,Sat Apr 09 19:14:33 +0000 2016,@AtulAcharya disclaimer: it's mostly just a couple of papers glued together ;) I've tried to add some context though.
+718877435018801200,Sat Apr 09 19:05:11 +0000 2016,I've uploaded my PhD thesis "Learning feature hierarchies for musical audio signals", which I defended in January: https://t.co/oLDu3WkRQX
+718552054814392300,Fri Apr 08 21:32:14 +0000 2016,RT @jakevdp: Your periodic reminder that importing * is bad for your health #Python https://t.co/qjPFiMWdyP
+716629352146985000,Sun Apr 03 14:12:06 +0000 2016,Detailed install &amp; config guides for Lasagne + dependencies (Theano, BLAS, CUDA, cuDNN etc.), for Ubuntu and Windows https://t.co/GtnjT3m7FZ
+715650635358715900,Thu Mar 31 21:23:02 +0000 2016,@AuroraKnox most of them were published at ISMIR if that helps. There are probably better resources available now compared to when I started
+715640971959119900,Thu Mar 31 20:44:38 +0000 2016,@AuroraKnox not really, I just read a bunch of papers back in the day :) Don't know of any resources that provide a good overview, sorry!
+715548074127573000,Thu Mar 31 14:35:29 +0000 2016,@alexjc sounds like that's the next step: a feed-forward net that can take both the style and content images as input, no retraining needed.
+715493894415368200,Thu Mar 31 11:00:12 +0000 2016,RT @nova77t: Automatic colorization is getting closer to reality https://t.co/nyC4IdBCBR https://t.co/cn182fiq06
+715300994150699000,Wed Mar 30 22:13:41 +0000 2016,@alexjc not a mac user myself, haven't heard about anything like this either. Probably a Theano issue rather than a Lasagne issue though?
+715113939844071400,Wed Mar 30 09:50:24 +0000 2016,RT @kcimc: the guilt of going to bed without training a net overnight
+715113318428647400,Wed Mar 30 09:47:55 +0000 2016,More feed-forward style transfer, results look nice! (Compare also with Texture Networks https://t.co/cP4WjdMSLx) https://t.co/7TlIl36qK1
+713895671368167400,Sun Mar 27 01:09:26 +0000 2016,RT @demishassabis: Great article summarizing the key moments from the games, some really creative and beautiful moves from #AlphaGo: https:…
+713141580136362000,Thu Mar 24 23:12:56 +0000 2016,RT @fhuszar: latest on Generative Adversarial Networks: new update rule + links to importance estimation: https://t.co/f5XyDT5wDZ https://t…
+713135453088694300,Thu Mar 24 22:48:36 +0000 2016,RT @kastnerkyle: Every wonder about convolutions for upsampling (or convolution in general)? See the new writeup from MILA here https://t.c…
+713135415100842000,Thu Mar 24 22:48:27 +0000 2016,RT @amiconfusediam: Want super-duper-efficient convnets on CPUs? look no further, NNPack is here: https://t.co/RvU8rtvPmc . The perf is qui…
+712775415283236900,Wed Mar 23 22:57:56 +0000 2016,RT @karpathy: At last - this year's 130/200 CS231n Final Course Project Reports are now posted! https://t.co/B2nBW5Z0Rh big congrats to stu…
+712775361004769300,Wed Mar 23 22:57:43 +0000 2016,@karpathy can we get https://t.co/TJH5Pjvvks please :)
+712774091258855400,Wed Mar 23 22:52:40 +0000 2016,@fulhack @fchollet I posted a comment to that extent but it doesn't seem to be appearing. This is a very misleading blog post.
+712671403904995300,Wed Mar 23 16:04:38 +0000 2016,RT @kcimc: wow no one ever mentioned that dcgan is amazing at abstract impressionism https://t.co/98zL3bPYS9
+711503797764358100,Sun Mar 20 10:44:59 +0000 2016,@graphific @samim @keunwoochoi @functiontelechy yeah, so basically we need an open version of the music genome project :)
+711501721512575000,Sun Mar 20 10:36:44 +0000 2016,@graphific @samim @keunwoochoi @functiontelechy genre is probably too ill-defined to be of much use, need a stronger / more varied signal
+711498649914757100,Sun Mar 20 10:24:31 +0000 2016,@graphific @samim @keunwoochoi @functiontelechy for a lot of tasks 30 sec is probably enough though. Much better than nothing :)
+711498421513936900,Sun Mar 20 10:23:37 +0000 2016,@keunwoochoi @functiontelechy imo lots of false negatives is inherent to the tagging task though, not necessarily a data issue.
+711497448787681300,Sun Mar 20 10:19:45 +0000 2016,@samim @keunwoochoi @functiontelechy @graphific don't think that'd help, even if companies wanted to share data, licensing/copyright issues
+711496623621279700,Sun Mar 20 10:16:28 +0000 2016,@keunwoochoi @functiontelechy maybe if you ask the Pandora guys really nicely ;)
+711280000952098800,Sat Mar 19 19:55:41 +0000 2016,@karpathy it's excellent, I've started checking every few days and saving a few papers. Now to figure out when to actually read them :)
+710941171116339200,Fri Mar 18 21:29:18 +0000 2016,@AlisonBLowndes @fchollet @nvidia not sure if I'll make it on the 20th, 21st for sure :)
+710932580112199700,Fri Mar 18 20:55:10 +0000 2016,@AlisonBLowndes @fchollet GitHub stars are very noisy, I would be more interested to see the stats @NVIDIA collects for cuDNN downloads ;)
+710760115750772700,Fri Mar 18 09:29:51 +0000 2016,@sedielem Lasagne-based code for the 1st place solution as well: https://t.co/NFdjWiR3WH
+710509183599251500,Thu Mar 17 16:52:44 +0000 2016,New ResNet results from He et al.: put ReLU/batchnorm before weight layers instead of after! https://t.co/Pz69rAw8Yv https://t.co/Hj9idKxV2F
+710209947242537000,Wed Mar 16 21:03:41 +0000 2016,RT @demishassabis: The Korean Baduk (Go) Association (KBA) have officially awarded #AlphaGo an honorary 9-dan ranking! So cool... https://t…
+709742384180031500,Tue Mar 15 14:05:45 +0000 2016,@notmisha @dwf apparently derivatives are computed using finite differences. https://t.co/47UNjdpYse
+709666348385890300,Tue Mar 15 09:03:37 +0000 2016,RT @demishassabis: #AlphaGo wins game 5! One of the most incredible games ever. To comeback from the initial big mistake against Lee Sedol …
+709660088739491800,Tue Mar 15 08:38:44 +0000 2016,RT @phelixlau: @sedielem @graphific The comments are the best! ;) https://t.co/RxZo9e2Ux7
+709660065888931800,Tue Mar 15 08:38:39 +0000 2016,@phelixlau @graphific haha, looks like they didn't spend as much time cleaning up the code as we did last time :)
+709651980654944300,Tue Mar 15 08:06:31 +0000 2016,@graphific naming classes is hard :)
+709637149914767400,Tue Mar 15 07:07:35 +0000 2016,RT @demishassabis: #AlphaGo made a bad mistake early in the game (it didnt know a known tesuji) but now it is trying hard to claw it back..…
+709624033885745200,Tue Mar 15 06:15:28 +0000 2016,Neural net with differentiable approximate integration layer to estimate volume, very cool! https://t.co/i74TLGI4xF https://t.co/EQp4nT8vtY
+709591384974630900,Tue Mar 15 04:05:44 +0000 2016,RT @demishassabis: Taken a quick look at the logs: AlphaGo gave a probability of &lt;1 in 10000 for Lee's brilliant move 78, so AG found this …
+709578783305678800,Tue Mar 15 03:15:39 +0000 2016,Code for the 2nd place solution for this year's National Data Science Bowl: https://t.co/GaLPbI4sj5 using Python / Theano / Lasagne
+709577303190278100,Tue Mar 15 03:09:47 +0000 2016,RT @demishassabis: Final game 5 starting in a few hours: 13:00 KST (local), 04:00 GMT, 20:00 PT. Livestream: https://t.co/NOhkY0XVQe Should…
+709577193433735200,Tue Mar 15 03:09:20 +0000 2016,RT @JoniDambre: Our lab @ugent @ugent_fea @DataScience_Lab  just came out second in Kaggle #datascibowl ! 50k$ prize: not bad, after last y…
+709577150395973600,Tue Mar 15 03:09:10 +0000 2016,@JoniDambre @ugent @ugent_fea @DataScience_Lab not bad is the least you could say :) Congrats!
+709575900363427800,Tue Mar 15 03:04:12 +0000 2016,My former colleagues haven't stopped Kaggling :) 2nd place in the NDSB! Huge congrats! https://t.co/kdcpLT7FGk https://t.co/hWbkrRzezL
+709377234503598100,Mon Mar 14 13:54:46 +0000 2016,RT @ShaneLegg: Outstanding article on the significance of AlphaGo by DeepMinder Lucas Baker   https://t.co/wPyDoOPFc5  #AlphaGo
+708944551180955600,Sun Mar 13 09:15:27 +0000 2016,RT @demishassabis: Mistake was on move 79, but #AlphaGo only came to that realisation on around move 87
+708944377029201900,Sun Mar 13 09:14:45 +0000 2016,RT @demishassabis: Lee Sedol wins game 4!!! Congratulations! He was too good for us today and pressured #AlphaGo into a mistake that it cou…
+708735778487214100,Sat Mar 12 19:25:51 +0000 2016,RT @TorchML: Texture Networks: Fast networks for styling images like others. From folks at Yandex. https://t.co/OF0yDrP9TQ https://t.co/VVw…
+708717469729423400,Sat Mar 12 18:13:06 +0000 2016,@_onionesque @karpathy indeed L2 + sigmoid/softmax is almost never a good idea (unless you want this behaviour)
+708698243450929200,Sat Mar 12 16:56:42 +0000 2016,@sedielem results don't look quite as good so far, imo, but the approach is promising! And a lot more practical, less resource-intensive.
+708696913776873500,Sat Mar 12 16:51:25 +0000 2016,Texture networks: feed-forward style transfer, avoiding costly iterative optimization! https://t.co/sMYNfLQdSq https://t.co/4pQlib0KzC
+708681198780940300,Sat Mar 12 15:48:59 +0000 2016,@zygmuntzajac @karpathy I think what he's saying is that most problems are actually classification rather than regression.
+708597383739871200,Sat Mar 12 10:15:56 +0000 2016,RT @randal_olson: Thinking times for #LeeSedol vs. #AlphaGo in game 2. #MachineLearning #dataviz  https://t.co/CYksAVwk2v https://t.co/EuSY…
+708569313368744000,Sat Mar 12 08:24:23 +0000 2016,RT @ShaneLegg: They said this wouldn't happen for a long time... but it just did!  Well done team and thanks to Sedol for fighting hard to …
+708567971480936400,Sat Mar 12 08:19:03 +0000 2016,RT @demishassabis: #AlphaGo won game 3 and the match! Historic moment. In complete awe of Lee Sedol’s incredible genius, and proud of the a…
+708564055783559200,Sat Mar 12 08:03:30 +0000 2016,RT @nova77t: AlphaGo don't care https://t.co/pmdkVtZBer :)
+708530664421851100,Sat Mar 12 05:50:48 +0000 2016,@karpathy unless you want to go with max-margin instead, of course
+708530603780603900,Sat Mar 12 05:50:34 +0000 2016,@karpathy imo it all comes down to maximising log-likelihood and choosing the right distribution :) Sometimes Gaussian assumption is best
+708490981671362600,Sat Mar 12 03:13:07 +0000 2016,RT @demishassabis: Game 3 starting in an hour! livestream here: https://t.co/EWAk0GwMED also live on national TV in China (CCTV) and Korea …
+708490961823928300,Sat Mar 12 03:13:03 +0000 2016,RT @demishassabis: Distributed version is only ~75% win rate against single machine version! Using distributed for match but single machine…
+708490940713996300,Sat Mar 12 03:12:58 +0000 2016,RT @demishassabis: Our neural network training algorithms are more important to #AlphaGo performance than the hardware it uses to play (see…
+708490916387037200,Sat Mar 12 03:12:52 +0000 2016,RT @demishassabis: We are using roughly same amount of compute power as in Fan Hui match: distributing search over further machines has dim…
+707853852108836900,Thu Mar 10 09:01:24 +0000 2016,RT @demishassabis: #AlphaGo wins match 2, to take a 2-0 lead!! Hard for us to believe. AlphaGo played some beautiful creative moves in this…
+707795541099475000,Thu Mar 10 05:09:41 +0000 2016,@apetresc yep :)
+707762466621673500,Thu Mar 10 02:58:16 +0000 2016,RT @demishassabis: 5 hours to Match 2, going to be epic! Livestream here: https://t.co/a4FCPyqCXn Subscribe to #DeepMind channel: https://t…
+707661040234930200,Wed Mar 09 20:15:14 +0000 2016,RT @petewarden: We have released a full Inception training example in TensorFlow: https://t.co/mSk35mzfAJ
+707480030100766700,Wed Mar 09 08:15:58 +0000 2016,RT @demishassabis: #AlphaGo WINS!!!! We landed it on the moon. So proud of the team!! Respect to the amazing Lee Sedol too
+707469826726486000,Wed Mar 09 07:35:25 +0000 2016,RT @egrefen: Well done #AlphaGo!! Fantastic game from Lee Sedol. Four more games, but indubitably a new milestone has been reached in AI re…
+707452820576936000,Wed Mar 09 06:27:50 +0000 2016,RT @demishassabis: extremely tense... Lee Sedol is famous for his creative fighting skills, #AlphaGo going toe to toe. Incredibly complicat…
+707436814181785600,Wed Mar 09 05:24:14 +0000 2016,RT @mustafasuleymn: Love it... The DeepMind office in London is packed at 5am for the big match. Enjoy guys! :-) https://t.co/oP31r0a23i
+707003690637520900,Tue Mar 08 00:43:09 +0000 2016,RT @alexjc: Should be enough in the repo to reproduce the paper now  (new code). Not bad for ~200 LOC. https://t.co/MZfbWHpxwb https://t.co…
+706438702306893800,Sun Mar 06 11:18:06 +0000 2016,RT @demishassabis: Livestream for Match 1: https://t.co/iVwacLxkrh Wed 9th Mar 13:00 KST, 04:00 GMT, which is Tue 8th Mar (-1 day) 20:00 PT…
+706114826737750000,Sat Mar 05 13:51:08 +0000 2016,Technical discussion about Winograd conv. and tensor layouts with @scottgray76 @ajlavin @jdemouth, worth a read! https://t.co/U5rWYKvuml
+705889781239160800,Fri Mar 04 22:56:53 +0000 2016,@JesseBuesking thanks for the heads up! looks a little overkill for us I reckon :)
+705758895931859000,Fri Mar 04 14:16:47 +0000 2016,RT @alexjc: Left: me trying to paint a new Renoir piece late at night. Right: semantic style transfer fixing it up for me! https://t.co/T3q…
+705681639632986100,Fri Mar 04 09:09:48 +0000 2016,RT @amiconfusediam: I've independently benchmarked Nervana's Neon kernels here. Almost 2x on VGG-style nets: https://t.co/G9Y5w4bDXC
+705681629231054800,Fri Mar 04 09:09:45 +0000 2016,RT @nervanasys: #neon v1.3 now 2x faster using Nervana Winograd https://t.co/NAv1ArXXde
+705188526304989200,Thu Mar 03 00:30:21 +0000 2016,@jordannovet @DeepMindAI @Spotify been there for a while now :) Thanks!
+704840886946033700,Wed Mar 02 01:28:57 +0000 2016,RT @demishassabis: We had over a dozen papers with DeepMind co-authors accepted to the upcoming ICLR conf! All our publications here: https…
+704699607696216000,Tue Mar 01 16:07:33 +0000 2016,cc @avdnoord :) https://t.co/gHmykPHlGp
+703320157679165400,Fri Feb 26 20:46:07 +0000 2016,Some excellent points from @kastnerkyle about the differences between Theano and TensorFlow. Worth a read! https://t.co/ctPqnhZXvN
+703016319130714100,Fri Feb 26 00:38:46 +0000 2016,G-CNNs: https://t.co/0H0zzIdjkM some overlap with my "cyclic rolling" (https://t.co/zO6FidSHq0), but more theory :) https://t.co/TqkxxbkJej
+702922213226369000,Thu Feb 25 18:24:49 +0000 2016,@bwhitman @kcimc :) very useful for explicit broadcasting. stride_tricks.as_strided is also worth looking into, useful for windowing
+702911714317176800,Thu Feb 25 17:43:06 +0000 2016,@kcimc @bwhitman I prefer x[:, np.newaxis] or even x[:, None]
+702793042672132100,Thu Feb 25 09:51:33 +0000 2016,@aloisgr @nilandmusic pas de problème si vous parlez assez lentement! okay maybe I'll just take a look at the slides then ;)
+702787398116249600,Thu Feb 25 09:29:07 +0000 2016,@aloisgr @nilandmusic any chance this is being recorded, or will the slide deck be available at least? Relevant to my interests ;)
+702614829731848200,Wed Feb 24 22:03:24 +0000 2016,Very exciting to see the Lasagne ecosystem grow :) Excellent read as well! https://t.co/THXz8uBMVI
+702609879974944800,Wed Feb 24 21:43:43 +0000 2016,RT @mustafasuleymn: So proud to announce the launch of DeepMind Health – working with nurses &amp; doctors to transform patient care. https://t…
+701484933857091600,Sun Feb 21 19:13:35 +0000 2016,RT @hugo_larochelle: My thoughts on "A note on the evaluation of generative models": https://t.co/drwPBkJutP Mandatory reading to do genera…
+699712715330293800,Tue Feb 16 21:51:26 +0000 2016,RT @ThreadGenius: We just published how we built "Shazam for Fashion With Deep Neural Networks" https://t.co/5NaA7v2H1H #deeplearning
+699599069283512300,Tue Feb 16 14:19:50 +0000 2016,RT @317070: I generated 10 hours of neural networks on LSD. HD-quality, but not interactive though. https://t.co/B2NInIBDQK
+697394288771145700,Wed Feb 10 12:18:50 +0000 2016,BinaryNet: weights+activations constrained to -1/+1, very fast, low mem  https://t.co/5luWGqxCD2 impl using Lasagne: https://t.co/V8Rxjh8tSZ
+697381348428902400,Wed Feb 10 11:27:24 +0000 2016,Finally wrote a paper about convnets with cyclic pooling / rolling (used to win last year's NDSB competition): https://t.co/zO6FidSHq0
+697138961110691800,Tue Feb 09 19:24:15 +0000 2016,RT @OriolVinyalsML: Our new Language Modeling paper: https://t.co/5cOm4cd0a3 With a single RNNLM (no ensembling), we reduce perplexity from…
+696658470184075300,Mon Feb 08 11:34:57 +0000 2016,@cashmoneykush better ask @317070 :)
+696286195379277800,Sun Feb 07 10:55:40 +0000 2016,Convnet class visualization with bilateral filters for regularisation. Looks awesome! https://t.co/qyVEHteQ71
+695379940368187400,Thu Feb 04 22:54:31 +0000 2016,RT @demishassabis: Thrilled to officially announce the 5-game challenge match between #AlphaGo and Lee Sedol in Seoul from March 9th-15th f…
+693928375178641400,Sun Jan 31 22:46:31 +0000 2016,@SoerenSoenderby yes? :)
+693767063249276900,Sun Jan 31 12:05:32 +0000 2016,More residual learning experiments: https://t.co/WjWY6Nblxn -- interesting conclusions about where to put batch norm (before or after add)!
+692467524504526800,Wed Jan 27 22:01:37 +0000 2016,RT @EricBattenberg: I'm really impressed with the state of the Lasagne neural net framework for Theano.  Nice work @sedielem et al. https:/…
+692430706543321100,Wed Jan 27 19:35:19 +0000 2016,RT @demishassabis: We made the front cover of Nature! Details here: https://t.co/v6CSHelVTC #AlphaGo #DeepMind https://t.co/bugshPxb4q
+692407987244265500,Wed Jan 27 18:05:03 +0000 2016,RT @demishassabis: A 20-year dream comes to fruition - our program AlphaGo masters the game of Go, achieving a grand challenge of AI https:…
+692407532573343700,Wed Jan 27 18:03:14 +0000 2016,Google achieves AI 'breakthrough' by beating Go champion https://t.co/AiM5leKvRP
+692055037921607700,Tue Jan 26 18:42:33 +0000 2016,RT @amiconfusediam: Pixel RNNs - 2D RNNs that spit out pixel values. Pretty cool stuff from DeepMind. https://t.co/ySB4RnAbSy https://t.co/…
+690928854643445800,Sat Jan 23 16:07:30 +0000 2016,@balazskegl @energie_sombre Sweet, thanks!
+690697165778391000,Sat Jan 23 00:46:51 +0000 2016,@balazskegl @LSST @euclidmission @MHuertasCompany any slide decks available by any chance? Relevant to my interests :)
+689592902029287400,Tue Jan 19 23:38:54 +0000 2016,RT @_Pandy: i fed a recurrent neural network with the scripts for every episode of friends and it learned to generate new scenes https://t.…
+689584325596176400,Tue Jan 19 23:04:49 +0000 2016,@pieterbuteneers I would, but I have no idea :)
+689176372053471200,Mon Jan 18 20:03:46 +0000 2016,RT @phelixlau: The code for my 2nd place finish in #Kaggle Right Whale recognition challenge is now available at https://t.co/21R3YRfEKb
+688741659450957800,Sun Jan 17 15:16:22 +0000 2016,Lots of useful insights from the winners of the Right Whale Recognition @Kaggle comp: https://t.co/9qmsPwwpiM Great use of aux. targets!
+688438828667940900,Sat Jan 16 19:13:01 +0000 2016,RT @GygliMichael: My implementation of "C3D: Generic Features for Video Analysis" is now available in Lasagne of @sedielem https://t.co/jTM…
+686513258099032000,Mon Jan 11 11:41:30 +0000 2016,RT @mclduk: How to undo maxpooling in #Lasagne/Theano, one-hot style: use InverseLayer https://t.co/sucUh8R5LO
+686179808716394500,Sun Jan 10 13:36:29 +0000 2016,@mmilakov no,  but explored nevertheless :) I think vlrelu might not have made the cut either.
+685942909837926400,Sat Jan 09 21:55:08 +0000 2016,Another nice, detailed Kaggle competition write-up! Very leaky ReLUs, spatial transformers, residual learning etc. https://t.co/4kCC6NQ2yf
+685257893243928600,Fri Jan 08 00:33:07 +0000 2016,@phelixlau that's great to hear, thanks :) Don't wait too long publishing the blog post, take advantage of the current momentum if you can!
+685255810134458400,Fri Jan 08 00:24:51 +0000 2016,@phelixlau congratulations! Any plans to publish a blog post? I thoroughly recommend doing that ;)
+684807612643328000,Wed Jan 06 18:43:52 +0000 2016,@dwf @AlecRad @kastnerkyle I thought it might be upsampling that respects image gradients (i.e. edges), or something :)
+684806957413318700,Wed Jan 06 18:41:16 +0000 2016,@kastnerkyle @AlecRad @dwf not sure what that is, sorry :)
+684692356310929400,Wed Jan 06 11:05:53 +0000 2016,@ogrisel I don't, sorry
+684113086370984000,Mon Jan 04 20:44:04 +0000 2016,@sedielem + interview on the Kaggle blog: https://t.co/6Jc0WWoXad
+684112482055680000,Mon Jan 04 20:41:40 +0000 2016,@alexjc @samim I'm not convinced this is encouraging at all. Little too much excitement about RNNs overfitting on audio samples lately...
+684112052047245300,Mon Jan 04 20:39:58 +0000 2016,Excellent post on predicting rainfall with BiDi RNNs (Kaggle): https://t.co/qclIp2facV code: https://t.co/w4m8pI9LEX https://t.co/gdpKS1xRhM
+683428286471508000,Sat Jan 02 23:22:55 +0000 2016,RT @egrefen: David Dalrymple on Differentiable Programming as the next frontier for Machine Learning Research: https://t.co/GSYi1017VQ
+683236443532169200,Sat Jan 02 10:40:36 +0000 2016,@frederic_godin Looks like it is, at least in some cases: see section 3.2 of https://t.co/Is7JxP785q
+682296746035298300,Wed Dec 30 20:26:35 +0000 2015,@frederic_godin I wonder if maybe it's just a question of having to apply it in a particular way, as with dropout https://t.co/263CQZwr9F
+679762777653821400,Wed Dec 23 20:37:30 +0000 2015,@kastnerkyle @seaandsailor lots of good stuff in there :) some overlap with librosa: https://t.co/g2QZkQEmig they might appreciate PRs!
+679420677749911600,Tue Dec 22 21:58:07 +0000 2015,Got a mention in this article about @Spotify's awesome Discover Weekly feature. Happy to hear my work was useful :) https://t.co/yzo6wdRkab
+678626736792293400,Sun Dec 20 17:23:16 +0000 2015,@kastnerkyle couldn't resist calling them out on that one thread yesterday. One of my pet peeves. I hope that backlash is coming soon ;)
+677796097969012700,Fri Dec 18 10:22:37 +0000 2015,@EricBattenberg good question, should try with a more heterogeneous arch! I figured it would time each op instance separately, but not sure.
+677674021543088100,Fri Dec 18 02:17:31 +0000 2015,@sedielem more details: 'cp8' kaggle-ndsb net on a 980Ti: https://t.co/lrenMQ0kMD not quite full VGG, but similar. 44s/chunk instead of 69s!
+677672628790915100,Fri Dec 18 02:11:59 +0000 2015,Theano recommendation: dnn.conv.algo_fwd=time_once (+ same for bwd), ~50% speedup for a VGG-style net with cuDNN v4! https://t.co/MDAJH8rZE6
+677289582271062000,Thu Dec 17 00:49:54 +0000 2015,@amiconfusediam @syhw @alexjc @ogrisel interesting, thanks for sharing :) I'm also wondering how essential BN is, especially for 152 layers.
+677284237406552000,Thu Dec 17 00:28:40 +0000 2015,@syhw @alexjc @ogrisel one thing isn't mentioned afaik: is BN applied before or after the addition? After makes more sense to me.
+676526241101533200,Mon Dec 14 22:16:39 +0000 2015,RT @DeepForger: We use great open source libraries including Lasagne (for deep neural networks) https://t.co/GbBjcedgnK and Theano https://…
+676514450363555800,Mon Dec 14 21:29:48 +0000 2015,Downhill: stochastic gradient routines for Theano https://t.co/1D2kQgCEDq Should play nice with Lasagne as well!
+676467677993566200,Mon Dec 14 18:23:57 +0000 2015,RT @kaggle: It's launch day! Join @BoozAllen #DataSciBowl &amp; use your expertise to transform heart health https://t.co/HVmj7HSl4V https://t.…
+675394055388454900,Fri Dec 11 19:17:45 +0000 2015,RT @karpathy: Deep Residual Learning for Image Recognition https://t.co/dxje3GHMnM nice 2am read :) Identity shortcut connections, BatchNor…
+675119416854650900,Fri Dec 11 01:06:26 +0000 2015,RT @benhamner: Had a peek at data for @BoozAllen's Data Science Bowl launching Dec 14 on @kaggle. Will be hardest computer vision challenge…
+675116240944406500,Fri Dec 11 00:53:49 +0000 2015,RT @shakir_za: Andrew Saxe gives fantastic insight into learning dynamics of deep networks. For initialisation, use orthogonal init. #NIPS2…
+674968988225511400,Thu Dec 10 15:08:41 +0000 2015,Video + IPython notebooks for Eben Olson's comprehensive Lasagne tutorial at @PyData https://t.co/FvhFVGamqy
+674609050697494500,Wed Dec 09 15:18:25 +0000 2015,Lasagne implementation of "Tensorizing Neural Networks" (https://t.co/x0QFGBWF17) by one of the authors: https://t.co/w8yIkDFy7T
+673236227223613400,Sat Dec 05 20:23:19 +0000 2015,Heading to Montreal for #NIPS2015 tomorrow! Who's coming?
+672845839702839300,Fri Dec 04 18:32:03 +0000 2015,RT @kaggle: 2.5 billion beats. 1 lifetime. Can data science make a difference? #DataSciBowl @BoozAllen https://t.co/kcVGdpmCOm https://t.co…
+672768592023314400,Fri Dec 04 13:25:06 +0000 2015,@kastnerkyle @syhw @ogrisel @glouppe I'll be there as well
+672529313955229700,Thu Dec 03 21:34:18 +0000 2015,@EricBattenberg @deeplearningldn missed opportunity!
+671840381655494700,Tue Dec 01 23:56:43 +0000 2015,My slides about plankton classification with convnets for tonight's @deeplearningldn meetup are here: https://t.co/cjNdzKNUfe
+670177340509593600,Fri Nov 27 09:48:23 +0000 2015,@fchollet CpuCorrMM was merged recently, hopefully this will change soon! https://t.co/qpPYDcQNaJ
+668758113768620000,Mon Nov 23 11:48:53 +0000 2015,RT @deeplearningldn: We're excited to announce our next #DeepLearning event featuring @sedielem &amp; @JeffreyDeFauw https://t.co/uLpe6mLHBK ht…
+668166898966782000,Sat Nov 21 20:39:37 +0000 2015,@nerdworldorder no idea, that's mostly up to @317070 :)
+667497442611433500,Fri Nov 20 00:19:26 +0000 2015,Eben Olson gave a comprehensive Lasagne tutorial at @PyData covering finetuning, style transfer, etc.! Notebooks: https://t.co/88xpaE1NRe
+666290127522676700,Mon Nov 16 16:22:00 +0000 2015,A bunch of useful tricks for training generative adversarial networks. https://t.co/xWlBgPgOYI
+664599759815053300,Thu Nov 12 00:25:05 +0000 2015,Some interesting comments about tensor layouts for convolutions. Sounds like we should be putting batch size last! https://t.co/yPOYwO1nO1
+664440925402357800,Wed Nov 11 13:53:55 +0000 2015,I'm speaking at the "Deep Learning for Computer Vision" BMVA workshop in London on July 8th. https://t.co/abRr63jZkH
+664384750690398200,Wed Nov 11 10:10:42 +0000 2015,This is very exciting. We may get up to 4x faster 3x3 convolutions soon! https://t.co/rhKMdo1Mrc
+664379077068005400,Wed Nov 11 09:48:10 +0000 2015,RT @amiconfusediam: Convnet-benchmarks on TensorFlow. A bit disappointing: https://t.co/DhZndoHhH7
+664222632062120000,Tue Nov 10 23:26:30 +0000 2015,@kcimc very cool :) "GitHub stars" should be taken with a grain of salt though, as this graph shows a lot of it is down to marketing!
+664189560600006700,Tue Nov 10 21:15:05 +0000 2015,RT @kcimc: i started a big list of deep learning frameworks! https://t.co/fuPSfEJ76w it's open to editing, please help me fill it out :)
+664029140757033000,Tue Nov 10 10:37:38 +0000 2015,You can now use arbitrary Theano expressions as layer parameters in Lasagne. Blog post: https://t.co/gcZpWlIadb
+663902056344920000,Tue Nov 10 02:12:39 +0000 2015,@fulhack @fchollet hopefully they take it as a compliment :) TF, MXNet, Chainer, CFT are what they are because they could learn from Theano!
+663723783623155700,Mon Nov 09 14:24:16 +0000 2015,@benm @samim it's good to have options, isn't it :) Really happy to see the computational graph paradigm break through!
+663723484179259400,Mon Nov 09 14:23:04 +0000 2015,RT @googleresearch: Today we’re proud to announce the open source release of TensorFlow, our second-generation machine learning system - ht…
+662563718790803500,Fri Nov 06 09:34:35 +0000 2015,A note on the evaluation of generative models: why likelihood/samples alone don't tell the whole story. https://t.co/PLrrkgKONx
+662218446814494700,Thu Nov 05 10:42:35 +0000 2015,@TomLePaine agreed, learning a ton from my fellow developers as well :)
+662033715346952200,Wed Nov 04 22:28:32 +0000 2015,Cool stuff, nice demo of using Lasagne together with an existing Theano codebase! (it's used only for the conv part) https://t.co/ohVaOKUWp1
+661302672847425500,Mon Nov 02 22:03:38 +0000 2015,RT @KaiLashArul: Chairing a DL workshop for @TheBMVA on July 8th in London. Speakers so far: @amiconfusediam, @sedielem. Andrea Vedaldi and…
+660032294049194000,Fri Oct 30 09:55:36 +0000 2015,RT @frederic_godin: I released a Theano/Lasagne implementation of Dynamic CNN of Kalchbrenner et al. https://t.co/w7vjT00vjn . Improvements…
+659821718559727600,Thu Oct 29 19:58:51 +0000 2015,RT @jvanbalen: Since it came up a couple of times today: my fingerprinting glitch piece 'Shazam Me' (Try it!) https://t.co/TB24MGnbE5 #ismi…
+658692984049934300,Mon Oct 26 17:13:39 +0000 2015,RT @kcimc: the intro to emmanuel vincent's WASPAA talk about neural nets and speech processing is ♥️ https://t.co/B29JxLKg6N https://t.co/k…
+658654261937635300,Mon Oct 26 14:39:47 +0000 2015,RT @mclduk: Getting neural networks and deep learning right for audio (#waspaa and #sane2015): https://t.co/k1BC9lj5TK #machinelearning
+658391244658364400,Sun Oct 25 21:14:39 +0000 2015,RT @karpathy: New blog post: "What a Deep Neural Network thinks about your #selfie" https://t.co/dYOlALiclp this one was fun :)
+657708907134107600,Sat Oct 24 00:03:17 +0000 2015,@amiconfusediam nice, will have to play with it sometime!
+657708184249987100,Sat Oct 24 00:00:25 +0000 2015,@amiconfusediam Sweet! Looking forward to that CUDA version :)
+657219641899667500,Thu Oct 22 15:39:07 +0000 2015,@dovgalec @scottgray76 @ajlavin @fchollet probably not the right level of abstraction for this, hopefully it ends up in Theano via cuDNN :)
+657114881917919200,Thu Oct 22 08:42:51 +0000 2015,Winograd 3x3 conv. GPU impl. by @scottgray76/@ajlavin runs at 10 Tflops, huge potential speedup for VGG-style nets! https://t.co/bjMb5xZm9j
+656841463565824000,Wed Oct 21 14:36:23 +0000 2015,@orestistsinalis have not worked on this problem since. I think the key is: bigger networks, more data. The nets in that paper were tiny!
+656132260316487700,Mon Oct 19 15:38:15 +0000 2015,Here's how you compress VGG16 down to 11MB without accuracy loss http://t.co/tQN6kpHaQr
+654357963008790500,Wed Oct 14 18:07:50 +0000 2015,Our collection of Lasagne recipes is growing at a steady pace! Saliency maps by Jan Schlüter https://t.co/Gezz4Mj2Q8 http://t.co/PdXwx3Blhb
+654217843760869400,Wed Oct 14 08:51:03 +0000 2015,@realRandomWalk no idea sorry!
+654003810189320200,Tue Oct 13 18:40:33 +0000 2015,I'm speaking about plankton classification with convnets in Edinburgh next month! https://t.co/zcdOEjVYZ6
+652974168489754600,Sat Oct 10 22:29:08 +0000 2015,RT @giostats: Check out "Deep learning for computer vision" http://t.co/6iBhzxJMSB @Eventbrite
+652484550594064400,Fri Oct 09 14:03:34 +0000 2015,Parmesan: variational autoencoders and semi-supervised NNs in Lasagne. Love the name :) https://t.co/PQ17toHI6h
+651542247767453700,Tue Oct 06 23:39:11 +0000 2015,RT @kaggle: Applying CNNs to electrophysiology. Fascinating 3rd place team &amp; story in our recent EEG comp http://t.co/q87yHEEjpr http://t.c…
+649758793841176600,Fri Oct 02 01:32:23 +0000 2015,Another Kaggle win for convnets, recurrent convnets this time. And implemented in Lasagne, of course :) https://t.co/GrUwcrVFGd
+649203094367129600,Wed Sep 30 12:44:13 +0000 2015,RT @abursuc: CelebA: a large-scale dataset of celebrity faces with attributes annotations -  10k celebs, 200k imgs, 40 attr/img http://t.co…
+648306023724396500,Mon Sep 28 01:19:35 +0000 2015,@kcimc @karpathy agreed. Still it's nice to get results faster, to inform future experiments! Multi GPU could help with that.
+648304794193502200,Mon Sep 28 01:14:42 +0000 2015,@kcimc @karpathy the latter, always plenty of things to try :)
+648264558759559200,Sun Sep 27 22:34:49 +0000 2015,@karpathy a 3 GPU machine in my old lab has the 5820k, but the motherboard supports 8x/8x/8x, so I can't compare.
+648264429994397700,Sun Sep 27 22:34:18 +0000 2015,@karpathy good question! I've always been told to pay attention to this, but perhaps it's less relevant for DL workloads than for gaming?
+648260145798082600,Sun Sep 27 22:17:17 +0000 2015,@karpathy also, the motherboard seems to do 16x/8x/4x for 3 GPUs with that CPU (not sure why it can't do 8x/8x/8x): http://t.co/cLkh9636WE
+648259826376679400,Sun Sep 27 22:16:01 +0000 2015,@karpathy How many GPUs are you planning to have in there? That CPU does not seem ideal for 3/4 GPU setups, only has 28 PCI-e lanes
+647719802493124600,Sat Sep 26 10:30:09 +0000 2015,High redshift galaxy classification with convnets: http://t.co/NfX7Cz2MBP  great to see astronomers are training their own neural nets now!
+647190942185881600,Thu Sep 24 23:28:39 +0000 2015,@matsiyatzy it's worth a try :) magnatagatune has a nice mix of low-level (instruments, dynamics) and high-level (genre) tags.
+647182755432919000,Thu Sep 24 22:56:07 +0000 2015,@matsiyatzy the dataset I used (magnatagatune) is public, I think you could still get some mileage out of that by scaling up the nets
+647171518783483900,Thu Sep 24 22:11:28 +0000 2015,@matsiyatzy don't remember exactly, probably a few hours at most. It was pretty tiny!
+647151707097579500,Thu Sep 24 20:52:45 +0000 2015,@KaiLashArul Yep! Thanks :) So I would love to come by some time. Feel free to email me.
+647151402901487600,Thu Sep 24 20:51:32 +0000 2015,@kcimc @matsiyatzy FT is just a windowed linear transform, if that is the optimal thing to do a convnet should learn it, given enough data.
+647148605799800800,Thu Sep 24 20:40:25 +0000 2015,@matsiyatzy No. I have a hunch that the results may be much more in favour of raw audio input if the dataset is large enough.
+647148309065433100,Thu Sep 24 20:39:14 +0000 2015,@KaiLashArul Well I'm going to be here a while, I live here now :) But thanks! Nice to meet you as well.
+646452525978140700,Tue Sep 22 22:34:27 +0000 2015,Here are my slides for the meetup talk: https://t.co/nO2qZEi5y8
+646337324729679900,Tue Sep 22 14:56:41 +0000 2015,I'm speaking about classifying plankton with deep neural nets in London tonight! http://t.co/4ukn5XnBsS
+646104475493638100,Mon Sep 21 23:31:25 +0000 2015,@fchollet you mean like this? :) http://t.co/2wntDCMX2y
+644867139816583200,Fri Sep 18 13:34:41 +0000 2015,@montopronto try HTTP instead of HTTPS. Someone tried to fix this a while ago but it had other side-effects. Still looking for a good fix!
+644863350900424700,Fri Sep 18 13:19:38 +0000 2015,@montopronto I'm sorry you feel that way! I think it looks great :) I could look into adding an RSS feed, if that helps!
+644832753700216800,Fri Sep 18 11:18:03 +0000 2015,Recurrent Spatial Transformer Networks by Søren Sønderby et al. http://t.co/YJXyitvjko code: https://t.co/vYZcjbkmOH http://t.co/EsqSlsYUHW
+644634208254693400,Thu Sep 17 22:09:06 +0000 2015,@kcimc I don't know. I think NMF updates are usually multiplicative. I've never implemented / used it myself.
+644556530742882300,Thu Sep 17 17:00:26 +0000 2015,@kcimc No, how would that work? non-negativity constraints have been used in matrix factorization though.
+644272633870164000,Wed Sep 16 22:12:20 +0000 2015,@amiconfusediam @graphific @dribnet @kcimc @AlecRad still sounds weird to use part of the model itself to evaluate the model though...
+644262923393613800,Wed Sep 16 21:33:45 +0000 2015,@graphific @dribnet @amiconfusediam @kcimc @AlecRad disagree, what with conv. models for example? Shift everything right 2px -&gt; high MSE
+644262559730655200,Wed Sep 16 21:32:18 +0000 2015,@kcimc @dribnet it's much harder to formalize what we expect a generative model to do. High likelihood? Nice samples? Not always correlated.
+644231657134915600,Wed Sep 16 19:29:30 +0000 2015,@dribnet @amiconfusediam @graphific @kcimc @AlecRad good question. I don't think we have the  tools yet for non-probabilistic models.
+644215302591529000,Wed Sep 16 18:24:31 +0000 2015,@dribnet @amiconfusediam @graphific @kcimc @AlecRad that will tell you next to nothing about overfitting though. Many other ways to overfit.
+644087508746301400,Wed Sep 16 09:56:43 +0000 2015,@AlecRad @dribnet how can you check for this properly though? e.g. eucl. distance in pixel space only rules out the most 'obvious' cases
+643203871179980800,Sun Sep 13 23:25:27 +0000 2015,@jimmiegoode @fchollet cool! Note that the mp version avoids the GIL entirely at the cost of process + (de)serialization overhead.
+643199430842282000,Sun Sep 13 23:07:49 +0000 2015,@jimmiegoode @fchollet I want to add some generator-based data wrangling stuff to Lasagne eventually, related issue: https://t.co/3goxLopTJL
+643199277758586900,Sun Sep 13 23:07:12 +0000 2015,@jimmiegoode @fchollet glad you found it useful!
+643198731802800100,Sun Sep 13 23:05:02 +0000 2015,RT @jimmiegoode: Buffered Python generators from @sedielem's code applied to @fchollet's Keras: http://t.co/TkWvp8pkxs
+642122804889026600,Thu Sep 10 23:49:41 +0000 2015,Nice notes from the 2015 deep learning summer school, including some things that tend to be glossed over in papers http://t.co/B7EzuZSvC4
+641918660840398800,Thu Sep 10 10:18:29 +0000 2015,@samim @functiontelechy @kastnerkyle that paper may have a few problems though, see r/ML discussion: https://t.co/yNsV4lCTMf
+641917887003934700,Thu Sep 10 10:15:25 +0000 2015,@functiontelechy cool :) probably not one of mine though, we took the name from a Periphery T-shirt design http://t.co/YZxHxF4ahA
+641555416934187000,Wed Sep 09 10:15:05 +0000 2015,RT @functiontelechy: Ok everyone: #stylenet solves automatic music transcription. We can all go home now. #hadtotry http://t.co/wpBdCAcmCG
+641319025188978700,Tue Sep 08 18:35:45 +0000 2015,RT @TorchML: @Moodstocks write about spatial transformer networks, 1 STN beats a committee of 25 CNNs ... http://t.co/OfvY7sb9sf http://t.c…
+640134771843203100,Sat Sep 05 12:09:57 +0000 2015,@graphific @samim @IgorCarron MFCCs are designed to capture timbre, throw away a lot of information (e.g. pitch). So not that surprising :)
+640128394559135700,Sat Sep 05 11:44:36 +0000 2015,@graphific @samim @IgorCarron 30 sec is not really a problem (I used 30 sec clips at Spotify), the number of examples is, though.
+640127780085198800,Sat Sep 05 11:42:10 +0000 2015,@graphific @samim @IgorCarron out of those, most usable one is probably Magnatagatune. Only 25k 30 sec clips though. http://t.co/Wkf6cEBJGM
+640127514589954000,Sat Sep 05 11:41:07 +0000 2015,@graphific @samim @IgorCarron too bad they are all tiny :( The Million Song Dataset is the largest, but no audio available.
+639951875647897600,Sat Sep 05 00:03:11 +0000 2015,@kcimc @samim nor is there any public dataset large enough to train one :( right now I wish I still had access to my Spotify nets :)
+639577450687688700,Thu Sep 03 23:15:21 +0000 2015,@davidjayharris @kcimc @mtyka @_vade @alexjc @samim @mappingbabel makes sense! was thinking something like multivariate normal KL divergence
+639547546793324500,Thu Sep 03 21:16:32 +0000 2015,RT @JeffreyDeFauw: Happy to be speaking a bit about the @kaggle diabetic comp at the @teamrework Deep Learning Summit in London on Sept 24!…
+639535642406469600,Thu Sep 03 20:29:13 +0000 2015,@kcimc @mtyka @_vade @alexjc @samim @mappingbabel also wondering if MSE is the correct error measure to match gram matrices... maybe not.
+639532495906672600,Thu Sep 03 20:16:43 +0000 2015,@kcimc @mtyka @_vade @alexjc @samim @mappingbabel and the answer is no afaik, you get cross terms that don't cancel out
+639532417037004800,Thu Sep 03 20:16:24 +0000 2015,@kcimc @mtyka @_vade @alexjc @samim @mappingbabel in that case I think you have a typo? Second term reads Vb.VaT, should probably be Vb.VbT
+639509643857915900,Thu Sep 03 18:45:55 +0000 2015,@kcimc 2GB might be a bit meagre for VGG-19 I think!
+639497654519660500,Thu Sep 03 17:58:16 +0000 2015,@kcimc how much vram do you have? I think Eben had 6GB
+639393689090060300,Thu Sep 03 11:05:09 +0000 2015,The IPython Notebook for Eben Olson's #StyleNet implementation: https://t.co/T9grVBk3Uv
+639361426071638000,Thu Sep 03 08:56:57 +0000 2015,Eben Olson is preparing a Lasagne recipe / notebook for #StyleNet, follow his progress here: https://t.co/ZKiZkxpm6H http://t.co/ypmLCX3jgl
+639118952401137700,Wed Sep 02 16:53:27 +0000 2015,@alexjc convnet features already capture semantics, so these labels needn't even be explicit. Just make the style features nonstationary :)
+639016985490255900,Wed Sep 02 10:08:16 +0000 2015,RT @kaggle: London Kagglers: Don't miss NDSB winner @sedielem's Sept 22nd technical talk on ConvNets http://t.co/rkWDyZluM7 http://t.co/D62…
+638766435238592500,Tue Sep 01 17:32:40 +0000 2015,Also giving a brief overview of our plankton classification convnets at the Rework Deep Learning Summit on Sept 24! @teamrework #reworkDL
+638765950578335700,Tue Sep 01 17:30:44 +0000 2015,I'm giving an in-depth technical talk about my former lab's plankton classification @kaggle win in London on Sept 22! http://t.co/4ukn5XnBsS
+638740116689846300,Tue Sep 01 15:48:05 +0000 2015,@amiconfusediam @karpathy @j26774 it's already doing this: https://t.co/kFj8SxsPwU the paper says they were equally weighted though!
+638125967135887400,Sun Aug 30 23:07:41 +0000 2015,RT @amiconfusediam: the latest round of convnet benchmarks: https://t.co/j0hHo2igFr
+638000590560329700,Sun Aug 30 14:49:28 +0000 2015,Looks like our deep dream Twitch stream is back online :) Not sure for how long though! http://t.co/V82dFqvwZn #deepdream
+637041667560865800,Thu Aug 27 23:19:03 +0000 2015,RT @kaggle: New (very tricky) @NOAAFisheries image classification comp! Right whale "facial" recognition https://t.co/as7rtrEIfW http://t.c…
+636943479571148800,Thu Aug 27 16:48:54 +0000 2015,RT @ch402: LSTMs are an important kind of #NeuralNet but look kind of intimidating. I've tried to write a friendly introduction: http://t.c…
+636687084087025700,Wed Aug 26 23:50:04 +0000 2015,@AlecRad hah, I knew it! There's always one :)
+636684861735084000,Wed Aug 26 23:41:14 +0000 2015,@AlecRad looking forward to that! What about stability / param tuning? GAN models seem very sensitive to this, what's your experience?
+636679458942939100,Wed Aug 26 23:19:46 +0000 2015,Compositional character models: compose word vectors from char. embeddings to exploit morphological structure. Cool! http://t.co/5sdEc58Tkc
+636670158992371700,Wed Aug 26 22:42:49 +0000 2015,@AlecRad looks very convincing! Loving those indecipherable artist names and album titles :) What does the model look like? conv. VAE? DRAW?
+636660492996513800,Wed Aug 26 22:04:24 +0000 2015,RT @AlecRad: Moar pixels! Samples from 128x128 generative model of ~700K album covers. http://t.co/ttsaDd979n
+636198244830322700,Tue Aug 25 15:27:36 +0000 2015,Looks very promising! https://t.co/p3MSYvRY56
+634324920521084900,Thu Aug 20 11:23:40 +0000 2015,Lasagne demo: Spatial Transformer Network spotting and classifying cluttered MNIST digits https://t.co/AsBndwD2Yf http://t.co/4ByIGTixll
+634001404185739300,Wed Aug 19 13:58:08 +0000 2015,RT @teamrework: *New Speakers* for #reworkDL London: @johnpoverington @JeffreyDeFauw @sedielem @AlisonBLowndes http://t.co/h6b6KNQt3Y http:…
+632282338714488800,Fri Aug 14 20:07:11 +0000 2015,RT @kaggle: Image classification? Deep Sea's blog on ConvNets with cycling pooling has become a must read http://t.co/x4Yc19VIRZ http://t.c…
+631962271086985200,Thu Aug 13 22:55:21 +0000 2015,@seaandsailor cool! I've been skimming a few of the presentations, which the organisers were kind enough to upload straight away :)
+631942568700317700,Thu Aug 13 21:37:03 +0000 2015,@seaandsailor yes, at last :) I look forward to trying it out myself, I haven't had the chance yet!
+631936653364297700,Thu Aug 13 21:13:33 +0000 2015,Lasagne 0.1 is released! PyPI: https://t.co/0aQk65pMGE GitHub: https://t.co/7FZx4j18FS + it is now citable! https://t.co/Lz8TSaNdQC
+631571382111989800,Wed Aug 12 21:02:06 +0000 2015,@pedroKarudoso sorry for the delay :) it's a big change so we wanted to do it properly. First library release is imminent as well!
+630865552454455300,Mon Aug 10 22:17:23 +0000 2015,RT @kaggle: Blog, code &amp; model on convnets using Lasagne &amp; Theano to classify diabetic retinopathy images http://t.co/oCEuEzsENj http://t.c…
+630497910770257900,Sun Aug 09 21:56:30 +0000 2015,@fulhack regardless, the 3x larger memory can also be a huge advantage worth investing in
+630497783049506800,Sun Aug 09 21:56:00 +0000 2015,@fulhack I think you may have been missing a factor of 4 before? (4x Titan X is a 8-12x speedup over an AWS instance)
+630496055331811300,Sun Aug 09 21:49:08 +0000 2015,@fulhack don't forget electricity though! 4x Titan X + CPU etc. probably draws 1-1.5 kW.
+630495864063135700,Sun Aug 09 21:48:22 +0000 2015,@fulhack building your own is probably $7-8k. Not sure why the devbox is $15k, cards are only $1k each + free software.
+630490690015875100,Sun Aug 09 21:27:49 +0000 2015,@fulhack I reckon a single Titan X will give you 2x-3x the flops that one of the AWS GPUs gives you, + 3x more memory
+630490495551148000,Sun Aug 09 21:27:02 +0000 2015,@fulhack building your own 4x Titan X box is probably the most cost-effective option in the long run :) Someone should do the maths though!
+630332072704536600,Sun Aug 09 10:57:31 +0000 2015,RT @karpathy: RNNs generating classical music (blogpost+code) http://t.co/bbvwmkJ2qN nice and promising result here! neat
+629579202245853200,Fri Aug 07 09:05:53 +0000 2015,RNNs / LSTMs have finally arrived in Lasagne! http://t.co/pP3KseegG8 Excellent work by Colin Raffel, Søren Sønderby et al.
+628915598668509200,Wed Aug 05 13:08:58 +0000 2015,@AlisonBLowndes @JeffreyDeFauw no worries :) thanks for the heads up!
+627859850593218600,Sun Aug 02 15:13:48 +0000 2015,RT @JeffreyDeFauw: I released the code (+ one model) from the diabetic retinopathy comp: https://t.co/h5ezZW6952. It's quite ... rough. But…
+627417971779047400,Sat Aug 01 09:57:55 +0000 2015,Spatial Transformer Network implementation for Lasagne by Soren Sonderby https://t.co/3bbyVOWKnx just plug a TransformerLayer into your net!
+626892590470836200,Thu Jul 30 23:10:15 +0000 2015,@benschrauwen nie genoeg data... zou anders wel wijs zijn idd! Maar ik denk dat het met RNNs mss ietske beter gaat gaan :)
+626817620340265000,Thu Jul 30 18:12:21 +0000 2015,@kaggle weird, it's listed on my disqus profile with a red 'detected as spam' flag. https://t.co/r7ouG9aowg is the comment url
+626696043137232900,Thu Jul 30 10:09:14 +0000 2015,@kaggle my comment on your latest blog post (taxi trajectory prediction) was marked as spam :( wondering if you could whitelist it? Thanks!
+626482500316065800,Wed Jul 29 20:00:42 +0000 2015,Some nice tricks for encouraging more coherent convnet class visualizations (+ code): http://t.co/fwteqdjfsS
+626413814955819000,Wed Jul 29 15:27:46 +0000 2015,Another Lasagne-fueled Diabetic Retinopathy competition report, from the #2 ranked team: https://t.co/1Va241CnJ0 congrats Mathis &amp; Stephan!
+625934793910415400,Tue Jul 28 07:44:18 +0000 2015,Here's another blog post about the Kaggle DR competition describing the #20 solution, also using Lasagne :) http://t.co/90ImoC8aig
+625820923183169500,Tue Jul 28 00:11:49 +0000 2015,Detailed overview of the 5th place solution for the diabetic retinopathy Kaggle competition, using Theano + Lasagne! https://t.co/3mvwZyb5kM
+625056115336855600,Sat Jul 25 21:32:45 +0000 2015,RT @dnouri: Winners of saliency prediction task in LSUN Challenge published their lasagne/nolearn-based code: https://t.co/ZcsqUETSDF
+619466721720729600,Fri Jul 10 11:22:30 +0000 2015,@LasseSR unfortunately not. I'll put the slides up afterwards!
+619434846591561700,Fri Jul 10 09:15:50 +0000 2015,Speaking about deep learning for content-based music recommendation at #icml2015 ml4md workshop tomorrow at 11:30! https://t.co/sAghRJxvek
+618812387433521200,Wed Jul 08 16:02:24 +0000 2015,RT @nvidia: Get mesmerized with hallucinations by an #AI neural network running on NVIDIA #GPUs! http://t.co/ap4t8dWeo3 http://t.co/BuD3uwG…
+617345261623492600,Sat Jul 04 14:52:34 +0000 2015,@kcimc @matsiyatzy @mtyka first fc layer becomes NxN conv where NxN is the size of the topmost feature maps. all other fc layers -&gt; 1x1 conv
+617345084716122100,Sat Jul 04 14:51:52 +0000 2015,@kcimc @matsiyatzy @mtyka we have our own Theano implementation where it's relatively easy, but I'm sure it's possible in Caffe as well
+617341372346040300,Sat Jul 04 14:37:07 +0000 2015,@kcimc @matsiyatzy @mtyka or you convert turn the fc layers into conv layers and then you can use image size you like :) This is what we do
+617325968408092700,Sat Jul 04 13:35:54 +0000 2015,@kcimc @ch402 @mtyka @matsiyatzy weird! We used a single Gaussian / Student t for the prior (not a mixture), maybe that also plays a role.
+617320913911054300,Sat Jul 04 13:15:49 +0000 2015,RT @yaringal: What my deep model doesn't know... | Yarin Gal - Blog | Cambridge Machine Learning Group http://t.co/sWwYLoH0QD
+617316955394048000,Sat Jul 04 13:00:06 +0000 2015,@sphericon most of the credit goes to @317070, I just helped a little :) But thanks!
+617314576636325900,Sat Jul 04 12:50:38 +0000 2015,@sphericon @317070 it crashes occasionally. Most of the time it should recover automatically but it doesn't work every time.
+617302241297481700,Sat Jul 04 12:01:37 +0000 2015,@kcimc @ch402 @mtyka @matsiyatzy I have a suspicion that VGG results always come out less 'coherent' than GoogLeNet, we had the same problem
+617300652176339000,Sat Jul 04 11:55:19 +0000 2015,RT @karpathy: Very nice/long blog post from @yaringal on uncertainty in Neural Networks: "What My Deep Model Doesn't Know..." http://t.co/c…
+616730218645049300,Thu Jul 02 22:08:37 +0000 2015,RT @jrmontag: Interesting thought experiment re: trippy NN fractals e.g. on Twitch.  http://t.co/7omza7TSlK  h/t @ogrisel http://t.co/Yg6st…
+616729834614575100,Thu Jul 02 22:07:05 +0000 2015,RT @nvidiadeveloper: Check out this craziness: #Twitch plays Large Scale Deep neural net http://t.co/MxKUUw6Wp4 http://t.co/jTyOuNyskt
+616716110784630800,Thu Jul 02 21:12:33 +0000 2015,My colleague @317070 did a little follow up post on our interactive neural net dreaming experiment: http://t.co/PKbJh2PCZi + source code!
+616715965372371000,Thu Jul 02 21:11:58 +0000 2015,RT @317070: Source code of the interactive hallucinations from our LSD neural net is out! See blogpost: http://t.co/mARZNRXNkq
+616376914241060900,Wed Jul 01 22:44:42 +0000 2015,RT @mtyka: Ok, folks: The code from our #inceptionism neural network post is now on github: https://t.co/pESzdoDfh4 http://t.co/NI99JYsMhr
+615550829945339900,Mon Jun 29 16:02:08 +0000 2015,@DDoosterlinck no clue to be honest :)
+615550735867056100,Mon Jun 29 16:01:46 +0000 2015,@DDoosterlinck no, @317070 knows more about that
+615444006810579000,Mon Jun 29 08:57:40 +0000 2015,@hutstaender source is being published soon, no trade needed ;)
+615151093769764900,Sun Jun 28 13:33:44 +0000 2015,@jonmorgatron @317070 code is coming in a couple of days!
+615090606298263600,Sun Jun 28 09:33:23 +0000 2015,@squidclaw @317070 thanks for the bug report :)
+614562110400544800,Fri Jun 26 22:33:19 +0000 2015,RT @317070: http://t.co/2GKqsYRoDJ  received an update: now it's possible to mix 2 classes! Good for 2.000.000 possibilities, or over 4 yea…
+614537013912539100,Fri Jun 26 20:53:36 +0000 2015,@mattregul @317070 we're close :) I think it would still work, just won't look nearly as interesting.
+614536380862103600,Fri Jun 26 20:51:05 +0000 2015,@mattregul @317070 can't make it zoom too fast, the network needs time to run. Else the features do not become well-defined enough :)
+614504778912108500,Fri Jun 26 18:45:30 +0000 2015,@zenflow87 @317070 it will be available in a few days :)
+614500133112299500,Fri Jun 26 18:27:03 +0000 2015,@zygmuntzajac That's up to Twitch I guess! We're not storing the video locally or anything.
+614497587601756200,Fri Jun 26 18:16:56 +0000 2015,The interactive LSD neural net can now do combinations of two things! 1000x more possibilities http://t.co/V82dFqvwZn
+614339400005222400,Fri Jun 26 07:48:21 +0000 2015,@meickenberg awesome, thanks for the heads up :)
+614337476732284900,Fri Jun 26 07:40:42 +0000 2015,RT @317070: http://t.co/QtxWHUxG4D received an update: 2x more optimization, 720p rendering and settings for bigger, screen-filling objects.
+614195538750238700,Thu Jun 25 22:16:42 +0000 2015,@jvanbalen @317070 denk het niet, helaas. Wel ICML over een week of twee :)
+614188565132668900,Thu Jun 25 21:48:59 +0000 2015,@jvanbalen danku! 't was vooral @317070, ik heb af en toe een beetje geholpen :)
+614185190689271800,Thu Jun 25 21:35:35 +0000 2015,Some coverage of our interactive LSD neural net: http://t.co/Wuk2gocuAb http://t.co/abcemjynPw
+614089740669845500,Thu Jun 25 15:16:18 +0000 2015,@mtyka @bitcraftlab @317070 @lpigou @avdnoord in theory, I guess. You'd probably have to be Google to make that work in practice *cough*
+614060799544455200,Thu Jun 25 13:21:17 +0000 2015,@joergbreithut just the previous frame it generated, but slightly rotated and zoomed in :)
+614057518583709700,Thu Jun 25 13:08:15 +0000 2015,@joergbreithut we downloaded parameters for a trained network. It was trained on ImageNet: http://t.co/SrYQxm4wHW
+613831244175044600,Wed Jun 24 22:09:07 +0000 2015,@samim @karpathy @317070 we had a look but we decided to roll our own for the time being, since the application is quite different ;)
+613829953298276400,Wed Jun 24 22:03:59 +0000 2015,@karpathy @317070 yep! we figured our gaussian prior should cover local correlations + L2reg, &amp; the other 2 might make things less trippy :)
+613827999587303400,Wed Jun 24 21:56:14 +0000 2015,@karpathy Thanks! @317070 deserves most of the credit, the rest of us mostly just yelled ideas at him while he was coding ;)
+613823815605469200,Wed Jun 24 21:39:36 +0000 2015,@blastron "procrastinating PhD students" describes us better ;)
+613813215965876200,Wed Jun 24 20:57:29 +0000 2015,@samim @317070 @lpigou @avdnoord almost all credit goes to @317070! The rest of us just yelled ideas at him mostly :)
+613812156191109100,Wed Jun 24 20:53:16 +0000 2015,@samim @317070 @lpigou @avdnoord pretty fitting! If we put on music I think it should be generated by an NN as well though :)
+613811875017564200,Wed Jun 24 20:52:09 +0000 2015,RT @mtyka: Check out this continuously updating neural network hallucination by @sedielem @317070 @lpigou and @avdnoord http://t.co/Qrjikod…
+613807584789852200,Wed Jun 24 20:35:06 +0000 2015,RT @samim: Here is the blog post about the neural #LSD: https://t.co/dPmOH4vkKM code coming a few days. Art world, get ready, set...
+613793946226065400,Wed Jun 24 19:40:55 +0000 2015,@mtyka @samim @317070 @lpigou @avdnoord it's coming in a few days!
+613791131940352000,Wed Jun 24 19:29:44 +0000 2015,@mtyka @samim Thanks, and thanks for the inspiration :) cc @317070
+613784672296902700,Wed Jun 24 19:04:04 +0000 2015,RT @alexjc: Watch Deep Neural Network dream live on Twitch, topics are from chat! http://t.co/ciD2mWBWJS (Here: football helmet!) http://t.…
+613783356271120400,Wed Jun 24 18:58:50 +0000 2015,RT @samim: Oh my, the LSD neural net is implemented in Theano and Lasagne?! Great, no caffe makes me happy :-) Code please!
+613783345974104000,Wed Jun 24 18:58:47 +0000 2015,RT @samim: LSD neural net - Large Scale Deep Neural Net visualizing top level features: https://t.co/dPmOH4vkKM  great title!
+613782055680372700,Wed Jun 24 18:53:40 +0000 2015,RT @notmisha: Inceptionism live stream: http://t.co/iNZMWViw6o neural networks dreaming in real time.
+613772721969872900,Wed Jun 24 18:16:34 +0000 2015,@karpathy try 'nipple', it's probably not what you think :)
+613770675644407800,Wed Jun 24 18:08:27 +0000 2015,@fchollet Jonas said he plans to share the code eventually :)
+613764424655073300,Wed Jun 24 17:43:36 +0000 2015,Inspired by Google's inceptionism art, my colleagues made an interactive visualization of a dreaming convnet. Trippy! http://t.co/V82dFqvwZn
+611680027042807800,Thu Jun 18 23:40:57 +0000 2015,@robertsdionne @exilefaker would be awesome wouldn't it :) unfortunately I don't have the weights! + not sure what the prior would look like
+610427865277026300,Mon Jun 15 12:45:18 +0000 2015,RT @MLWave: I wrote a #Kaggle Ensembling Guide with results, examples and code: http://t.co/HrfAmv1deM Create your own ensembles! http://t.…
+608749185047900200,Wed Jun 10 21:34:50 +0000 2015,@dwliang sweet! already had a look at your abstract, looks awesome!
+608742670928851000,Wed Jun 10 21:08:57 +0000 2015,Who's going to #ICML2015? I'm speaking about content-based music recommendation at the ML4MD workshop https://t.co/1mGsKI2qur
+608196701137059800,Tue Jun 09 08:59:27 +0000 2015,Cool idea, we tried this for the NDSB: affine transf. are differentiable, so put them in a neural net http://t.co/0Dgs6ndEqM (via @jorenvs)
+607867874695364600,Mon Jun 08 11:12:49 +0000 2015,RT @lpigou: New paper about gesture recognition in video with RNNs and temporal convolutions: http://t.co/eEFhjXuPnn
+605288782728949800,Mon Jun 01 08:24:26 +0000 2015,Lasagne now has close to 100% test coverage (if you run them on a machine with a Kepler GPU, at least). Almost ready for the first release!
+602601478499467300,Sun May 24 22:26:02 +0000 2015,RT @karpathy: CVPR 2015 papers are now up so I organized them into my annual pretty interface http://t.co/ZV33Yfsaxp This year: new interac…
+601757879553622000,Fri May 22 14:33:53 +0000 2015,RT @mclduk: Following @karpathy's lovely blog &amp; code (see last RT), @boblsturm used it to generate folk music tunes: https://t.co/gxvCq0rirG
+601707990819962900,Fri May 22 11:15:38 +0000 2015,Another Kaggle win for Lasagne :) (and XGBoost, sklearn, R, libfm, ...) Congrats! https://t.co/IWLOCR0w4i
+601376804495032300,Thu May 21 13:19:37 +0000 2015,@Urk0 nervana's conv kernels are inherently 3D - 1D and 2D are treated as special cases. I wish more libraries would approach it this way!
+601374687785066500,Thu May 21 13:11:13 +0000 2015,@Urk0 nobody is working on it at the moment. 3D conv in Theano is a bit of a mess :) But it would be good to have something! PRs welcome!
+601088068880306200,Wed May 20 18:12:17 +0000 2015,Lasagne docs are starting to look half decent: http://t.co/KNB49KfROx almost ready for the 0.1 release! (let us know what's missing!)
+600581102735138800,Tue May 19 08:37:47 +0000 2015,@robertsdionne @exilefaker not as useful in convnets though, dropout is usually in dense layers, almost all computation is in conv layers.
+600580916193435600,Tue May 19 08:37:03 +0000 2015,@robertsdionne @exilefaker cool idea, talked about it on r/ML earlier: http://t.co/1EEUYQjiRY
+599903452311978000,Sun May 17 11:45:03 +0000 2015,@Urk0 https://t.co/gZb3onHtge almost there!
+599898650672783400,Sun May 17 11:25:58 +0000 2015,@Urk0 we're almost ready to release, so it's a good time to add some more examples :)
+599668536110374900,Sat May 16 20:11:34 +0000 2015,"Highway Networks" &amp; "Discovering hidden factors of variation in deep networks" in Lasagne: https://t.co/es0QmynkIw https://t.co/zdeNDhKPLP
+598614540553723900,Wed May 13 22:23:22 +0000 2015,@lzamparo @t3kcit @syhw @fchollet long, interesting discussion about init: https://t.co/ouxzIKaFgD and https://t.co/UVB9B2gq0c
+598613483681353700,Wed May 13 22:19:10 +0000 2015,@lzamparo @t3kcit @syhw @fchollet I guess! I like the underlying motivation, no hyperparams (except gain), it's the fire-and-forget init :)
+598612080044933100,Wed May 13 22:13:36 +0000 2015,@t3kcit @syhw @fchollet Lasagne default is Glorot because I didn't know about orthogonal yet! :) Dunno if we'll change it, works well enough
+598611454900752400,Wed May 13 22:11:07 +0000 2015,@t3kcit @syhw @fchollet yep, that's the diff, not a huge diff in practice. sqrt(6) is sqrt(3) from uniform dist. times sqrt(2) ReLU gain.
+598592989368291300,Wed May 13 20:57:44 +0000 2015,@t3kcit @syhw @fchollet he and glorot are more or less the same, the main thing is the correct gain factor. Fan of orthogonal myself :)
+598445415344779300,Wed May 13 11:11:20 +0000 2015,@abursuc absolutely :)
+598421985002135600,Wed May 13 09:38:14 +0000 2015,Time to get a real job: I am moving to London in July to join Google DeepMind as a research scientist!
+598410763238285300,Wed May 13 08:53:38 +0000 2015,@mclduk too bad about the 512 limit. Should be possible to implement this with a loop over pooling positions instead, I think. Fewer iters.
+598410492378488800,Wed May 13 08:52:33 +0000 2015,@mclduk that Python loop is in the gradient of the gradient though :) which apparently only has a pure Python implementation
+598235580632330200,Tue May 12 21:17:31 +0000 2015,@mclduk I think the gradient of max_pool_2d basically does what you want: https://t.co/4DdzB1gEMi might be tricky to figure out the args!
+598055001253085200,Tue May 12 09:19:58 +0000 2015,@mclduk try Adam as well, I've had more luck with that than any other ada* method: http://t.co/B0bO76uL4Q still prefer Nesterov+SGD though!
+596382808785997800,Thu May 07 18:35:16 +0000 2015,Some love for Lasagne from a top Kaggler :) Good advice as well! https://t.co/HrHUEnQL4P
+596379287256756200,Thu May 07 18:21:16 +0000 2015,RT @github: Jupyter/IPython notebooks now render on GitHub. Learn more: https://t.co/LvEHeykDDp
+596292183742898200,Thu May 07 12:35:09 +0000 2015,@vincent_spruyt we will be merging this into the library when the API is stable :)
+596279353929015300,Thu May 07 11:44:10 +0000 2015,I wrote a rudimentary Theano wrapper for the @nervanasys Maxwell-optimized convolution kernels: https://t.co/LtMer5vfq7
+596057960754864100,Wed May 06 21:04:26 +0000 2015,@fchollet @karpathy I think the most interesting part for us is the fast Maxwell-optimized kernels, and they are coming to Theano as well :)
+595629223278153700,Tue May 05 16:40:47 +0000 2015,@fchollet @t3kcit probably thanks to nolearn :) Lasagne by itself is only useful for existing Theano users, which is intentional.
+595594521263616000,Tue May 05 14:22:54 +0000 2015,@deathbullet @neelv very cool! Not quite the same type of diagrams though, I tend to use TikZ for those.
+595594014222635000,Tue May 05 14:20:53 +0000 2015,@Swayson @fchollet @t3kcit doing a few more API changes and working on extensive docs / tests before releasing, couple more weeks of work :)
+595492714206081000,Tue May 05 07:38:21 +0000 2015,@neelv I don't know of any good tools either, which is why I ended up using MS PowerPoint!
+595492159467475000,Tue May 05 07:36:09 +0000 2015,@fchollet @t3kcit disagree, simplicity and easy extensibility are also design goals for Lasagne. Our target audience differs though.
+595491926125707300,Tue May 05 07:35:13 +0000 2015,@fchollet @t3kcit RNN/LSTM support is being worked on in a separate fork, already usable. hoping to merge soon: https://t.co/kYo6Cct4lX
+595136988354900000,Mon May 04 08:04:49 +0000 2015,@TimothyElser @t3kcit Sounds about right :) We do plan to add some beginner-friendly stuff to Lasagne, but it's not currently our priority.
+592590353410236400,Mon Apr 27 07:25:24 +0000 2015,My paper about convnets for galaxy morphology prediction is now available on the MNRAS website: http://t.co/mEf3VhLG5q
+591215915078922200,Thu Apr 23 12:23:53 +0000 2015,@culurciello what you linked is an older version though, @amiconfusediam benchmarked a more recent iteration which uses fp16 / fp32 :)
+590921521952120800,Wed Apr 22 16:54:04 +0000 2015,RT @Tim_Dettmers: I just made an update to my GPU advice blog post; I no longer recommend the GTX 580 due to improvements to cuDNN https://…
+590564063954001900,Tue Apr 21 17:13:39 +0000 2015,@culurciello This post by @scottgray76 explains it a little: https://t.co/PcCn20HC68
+590558039503167500,Tue Apr 21 16:49:43 +0000 2015,RT @culurciello: How come an independent company (Nervana) is better at programming nVidia GPUs better than nVidia itself? https://t.co/lGm…
+590250074569060400,Mon Apr 20 20:25:58 +0000 2015,@agibsonccc @petewarden @dwf @karpathy none of those! fp16 is coming :)
+590249921049206800,Mon Apr 20 20:25:22 +0000 2015,@dwf @petewarden @karpathy Yep, although not too surprising since there is no Maxwell-optimized code yet (except for @nervanasys's stuff)
+590164806356840400,Mon Apr 20 14:47:09 +0000 2015,@petewarden @karpathy interesting, didn't know that. cuda-convnet v1 was a direct impl. though iirc? Also beats cudnn v2 sometimes :)
+590162300872556500,Mon Apr 20 14:37:11 +0000 2015,@petewarden @karpathy The kernels by @nervanasys are the fastest there though, I believe they also use a variant of the lazy im2col approach
+590162059540705300,Mon Apr 20 14:36:14 +0000 2015,@petewarden @karpathy What about cuda-convnet2? It still seems to be faster than cuDNN, even on Maxwell: https://t.co/TdB7EHnLmi
+588279980272066600,Wed Apr 15 09:57:31 +0000 2015,Paris ML/DL meetup live stream: http://t.co/dU7mqWaF0t - our talk about plankton classification is at 8PM CET tonight (after Bengio's talk)
+588083664002646000,Tue Apr 14 20:57:26 +0000 2015,@AlecRad sweet! It might be time for a shopping spree soon :)
+588082818053464000,Tue Apr 14 20:54:04 +0000 2015,@AlecRad interesting! What about (cuDNN) convolutions? Also I'm extremely jealous.
+587724741638783000,Mon Apr 13 21:11:12 +0000 2015,@abhi1thakur a GeForce Titan X will get you a faster GPU with the same 12GB of RAM at a quarter of the price!
+587647605670293500,Mon Apr 13 16:04:41 +0000 2015,I'll be speaking about plankton classification with deep neural networks at the Paris ML/DL meetup on Wednesday: http://t.co/fJYKXZldCL
+587019532755173400,Sat Apr 11 22:28:57 +0000 2015,@karpathy @traboukos it's a tradeoff :) for me, automatic diff. and optimization more than make up for the less straightforward debugging
+586203125406683100,Thu Apr 09 16:24:50 +0000 2015,Lasagne is now at https://t.co/xCDL1DBDkJ. Currently preparing for the release of version 0.1, hopefully by the end of the month!
+584114608828448800,Fri Apr 03 22:05:49 +0000 2015,Coverage of my work on galaxy morphology prediction on @techreview and the @galaxyzoo blog: http://t.co/EYspv444DI http://t.co/Jp80YNzqGK
+584113105535402000,Fri Apr 03 21:59:51 +0000 2015,RT @techreview: How Machine Vision Is Reinventing the Study of Galaxies http://t.co/02Q7agF6qN
+583323247917326300,Wed Apr 01 17:41:14 +0000 2015,@mclduk interesting, haven't seen that one yet
+583037065572577300,Tue Mar 31 22:44:03 +0000 2015,Implementation of DRAW (http://t.co/S6jF6x0bYs) using Theano / Lasagne by Søren Kaae Sønderby: https://t.co/NprsSoXIoO
+582870582699692000,Tue Mar 31 11:42:30 +0000 2015,@mclduk @SidSig @IgorCarron or if that hack bothers you, you can also get rid of the pooling layers (same authors): http://t.co/HZm71ItGVy
+582845942346457100,Tue Mar 31 10:04:36 +0000 2015,@mclduk @SidSig @IgorCarron Have a look at http://t.co/GOthxG1IuK - basically just always pick the top left pixel and it works :)
+582685813445664800,Mon Mar 30 23:28:18 +0000 2015,@lzamparo @dwf Thanks, I'll have to look into it then. Any idea how it compares to h5py in terms of read speed? Both use libhdf5 I guess?
+582645788477669400,Mon Mar 30 20:49:15 +0000 2015,@dwf Thanks! Interesting solution :) I was hoping maybe PyTables also handles this better, but its API really puts me off.
+582643416846213100,Mon Mar 30 20:39:50 +0000 2015,Any blog posts / papers on storing large datasets? Lots of options: HDF5, bcolz, LevelDB, LMDB, ... what works best? http://t.co/jcabpSxGLL
+581749904088895500,Sat Mar 28 09:29:20 +0000 2015,Interesting alternative to Lasagne with a Torch7-like API, seems to share a lot of design goals: @fchollet's Keras https://t.co/wKFQW6rFtX
+581748107165204500,Sat Mar 28 09:22:11 +0000 2015,@mclduk Thanks! Unfortunately I'm not allowing myself to do any more competitions until I've written my dissertation :) Maybe later!
+581352054708445200,Fri Mar 27 07:08:25 +0000 2015,@kastnerkyle not my experience, but I've only tried it once. Still figuring out why it didn't help. Did you try different initializations?
+580942157491650600,Thu Mar 26 03:59:38 +0000 2015,RT @karpathy: The CS231n (our ConvNet class) final project reports have been posted! http://t.co/fK4SShOq20 100 ConvNet projects
+580936500851949600,Thu Mar 26 03:37:09 +0000 2015,RT @kaggle: #nofreehunch post &amp; photos by @utdiscant on the recent #Kaggle meetup he led in Copenhagen. Wish we were there! http://t.co/UCi…
+580806132178001900,Wed Mar 25 18:59:07 +0000 2015,RT @kaggle: Rotation-invariant convolutional neural networks for galaxy morphology prediction http://t.co/nn9JdB6TWp @galaxyzoo Challenge w…
+580791654715682800,Wed Mar 25 18:01:35 +0000 2015,The code for our winning solution for the National Data Science Bowl competition on @kaggle is now on GitHub: https://t.co/09dr2Mourg
+580707776713924600,Wed Mar 25 12:28:17 +0000 2015,RT @lievenscheire: Zoveel plankton... wie gaat dat allemaal tellen? De computer! Internationale prijs voor @ugent computerwetenschappers ht…
+580651106218430500,Wed Mar 25 08:43:06 +0000 2015,I wrote a paper about convnets for galaxy morphology prediction with @kwwillett and @JoniDambre: http://t.co/yKctFkwS2J
+580411086706483200,Tue Mar 24 16:49:21 +0000 2015,Really cool paper by my former colleague Michiel Hermans about backpropagation through physical media: http://t.co/RDElWtyP4A
+579724322836725800,Sun Mar 22 19:20:23 +0000 2015,@ThePBXGuy @glouppe totally would if I wasn't on the other side of the world!
+578974302197968900,Fri Mar 20 17:40:05 +0000 2015,@lelayf thanks! We think pairing it with aggressive data augmentation/bigger models was probably important
+578198649320116200,Wed Mar 18 14:17:55 +0000 2015,@thvasilo true, I suppose getting Theano running can be a challenge sometimes :)
+578183868043419600,Wed Mar 18 13:19:10 +0000 2015,4x @NVIDIA Titan X = $4,000, Digits DevBox = $15,000. Wondering where the other $11,000 goes.
+578132628450242600,Wed Mar 18 09:55:34 +0000 2015,@AlecRad agreed, was watching the keynote yesterday. 10x is a bit of a stretch, but the improvement should be significant :)
+578131706462486500,Wed Mar 18 09:51:54 +0000 2015,@AlecRad it's interesting that they're marketing this card for DL, because cuDNN is not optimized for Maxwell yet. Hopefully soon!
+577767443730419700,Tue Mar 17 09:44:27 +0000 2015,@_MadisonMay_ we will release all of the code required to generate our winning submission within a few weeks :)
+577633511869427700,Tue Mar 17 00:52:15 +0000 2015,RT @pieterbuteneers: Our team and I at #ReservoirLab @ugent just won the Data Science Bowl competition @kaggle out of 1049 participants!! h…
+577621088882049000,Tue Mar 17 00:02:53 +0000 2015,Looks like our team just won the NDSB on @kaggle! Here's a blog post explaining our approach in detail: http://t.co/54hbfa9WkO
+576815734598287400,Sat Mar 14 18:42:42 +0000 2015,@holla_joshua Thanks! Also thall
+576815430209261600,Sat Mar 14 18:41:29 +0000 2015,@vladsandulescu Thanks! You can find them here: https://t.co/ZxJHFjT5hc (pdf, 15MB) https://t.co/timLZFtwDj (pptx, 75MB)
+575630552419725300,Wed Mar 11 12:13:13 +0000 2015,@AloisGruson no idea about video, but I'll make sure to upload my slides afterwards!
+575587416876150800,Wed Mar 11 09:21:48 +0000 2015,Presenting at a 3 day @kaggle workshop in Copenhagen tomorrow! http://t.co/yLeTWWElTT
+569882876562554900,Mon Feb 23 15:34:00 +0000 2015,RT @karpathy: Did not appreciate initialization. Having stepped through the math carefully not sure how most deep nets train at all without…
+569872444548386800,Mon Feb 23 14:52:33 +0000 2015,RT @Tim_Dettmers: I updated my blog post with new GPU advice and added a general overview for memory requirements of conv nets https://t.co…
+568672452269760500,Fri Feb 20 07:24:12 +0000 2015,@huntedguy thanks :)
+568537252684558340,Thu Feb 19 22:26:58 +0000 2015,RT @karpathy: Gave talk on "Automated Image Captioning with ConvNets and Recurrent Nets" 2 weeks ago at SF ML meetup, video is up: https://…
+568340077711126500,Thu Feb 19 09:23:28 +0000 2015,@GaborMelis @ogrisel @AlecRad good to know, thanks! I've been prodding the authors as well :) They said v3 is coming soon!
+568336748335521800,Thu Feb 19 09:10:14 +0000 2015,@GaborMelis @ogrisel @AlecRad by "lowered" you mean something like lambda=1-1e-5 or so? Or did you increase beta1 from the start?
+568320887881142300,Thu Feb 19 08:07:13 +0000 2015,@GaborMelis @ogrisel @AlecRad interesting! lambda should be 1-1e-8, right? Do you tune this? Seems like it takes a lot of steps to decay.
+568320887881142300,Thu Feb 19 08:07:13 +0000 2015,@GaborMelis @ogrisel @AlecRad interesting! lambda should be 1-1e-8, right? Do you tune this? Seems like it takes a lot of steps to decay.
+566556794663620600,Sat Feb 14 11:17:20 +0000 2015,RT @MrChrisJohnson: Searching for PhD and MS summer interns interested in music recommendations at scale at @Spotify NYC. DM for details.
+565184111804153860,Tue Feb 10 16:22:47 +0000 2015,RT @fwyffels: A lot of interest our @ResearchUGent #ReservoirLab #DeepLearning workshop by #SanderDieleman http://t.co/kstBUws07V http://t.…
+565183088272371700,Tue Feb 10 16:18:43 +0000 2015,RT @dirkvandenpoel: Great Deep Learning Tutorial by @sedielem @ugent @ResearchUGent #neuralnets #GPUacceleration #Theano with @BieBiep http…
+565182983326683140,Tue Feb 10 16:18:18 +0000 2015,@noootsab @dirkvandenpoel @ugent @ResearchUGent @BieBiep slides are at https://t.co/JkAQuQynJO
+564926739604705300,Mon Feb 09 23:20:05 +0000 2015,RT @kaggle: Hear from 3 top Kagglers at this open workshop in Copenhagen on March 12! #machinelearning http://t.co/n003dAYk7X
+563369063863185400,Thu Feb 05 16:10:26 +0000 2015,@kastnerkyle @fchollet my model wasn't exactly generative though! But I agree it would be cool!
+560932698836181000,Thu Jan 29 22:49:11 +0000 2015,RT @jnelder: Key #deeplearning @Spotify is predicting genre at the track level. No wonder they can read my music thoughts.@nmontecc #DeepL1…
+560361948156821500,Wed Jan 28 09:01:14 +0000 2015,@AlecRad @ogrisel @kastnerkyle interesting that this "perforated" upsampling works so well - no need to remember pooling locations, clearly!
+560165543001743360,Tue Jan 27 20:00:47 +0000 2015,@MrChrisJohnson @ogrisel @t3kcit I put my implicit MF implementation up on GitHub as well a while back: https://t.co/gdFVBMsRUR
+559686492705280000,Mon Jan 26 12:17:12 +0000 2015,RT @abhi1thakur: now this is the kind of Lasagne I like :D  https://t.co/xSzBybvn09
+556033489892810750,Fri Jan 16 10:21:29 +0000 2015,RT @karpathy: ICLR papers are now up http://t.co/l5T0V2bvjw . This year have to use CMT to see/submit comments https://t.co/8pY14n6HqR
+555496630800384000,Wed Jan 14 22:48:12 +0000 2015,Some great practical advice from Ilya Sutskever for training large deep neural networks http://t.co/m0GBzeEJBf
+554041698565636100,Sat Jan 10 22:26:49 +0000 2015,@kastnerkyle The abstract and paper are here if you're interested: http://t.co/AE9BKLnOVE
+554041644471681000,Sat Jan 10 22:26:36 +0000 2015,@kastnerkyle I had a paper about this at ICASSP. It works okay, spectrograms still work better. Maybe with more time and tuning though :)
+554038300994842600,Sat Jan 10 22:13:19 +0000 2015,@kastnerkyle sweet! Do raw audio signals next :)
+554038211853307900,Sat Jan 10 22:12:57 +0000 2015,@kastnerkyle actually that's not true, overcomplete layers will have col norms &lt; 1.0 (the row norms are then 1.0). Maybe that's it?
+554037420761428000,Sat Jan 10 22:09:49 +0000 2015,@kastnerkyle Looking forward to that! Using any value &lt;= 1.0 seems odd with orthogonal initialization, since the norms start at 1.0 anyway
+553644843453653000,Fri Jan 09 20:09:51 +0000 2015,@kastnerkyle Thanks! Interestingly, you seem to use sqrt(1.9365) in your code, pylearn2 uses 1.9365. Is that a bug or a feature? :)
+553642293174210560,Fri Jan 09 19:59:43 +0000 2015,@kastnerkyle very interesting, thanks! I'll give it a go. Is that combined with orthogonal initialization, where all the norms start at 1.0?
+553583941329109000,Fri Jan 09 16:07:51 +0000 2015,@kastnerkyle I still haven't been able to make max col norm regularization work. How do you choose the max norm?
+553336321482448900,Thu Jan 08 23:43:54 +0000 2015,RT @kaggle: Take on convnets and #deeplearning with this superb @dnouri tutorial for our Facial Keypoints Detection competition! https://t.…
+545146779382317060,Wed Dec 17 09:21:35 +0000 2014,RT @dnouri: Wrote a tutorial: Using convolutional neural nets to detect facial keypoints. http://t.co/wYFMt6Mp8o #DeepLearning #Lasagne #Th…
+544904838153506800,Tue Dec 16 17:20:11 +0000 2014,@ogrisel @AlecRad @kastnerkyle @johnmyleswhite @tcovert validation. It's inspired by my personal motto: "What would Krizhevsky do?"
+544902506913218560,Tue Dec 16 17:10:56 +0000 2014,@ogrisel @AlecRad @kastnerkyle @johnmyleswhite @tcovert the only schedule I use is "divide learning rate by 10 if loss stops decreasing" :)
+543881381429145600,Sat Dec 13 21:33:20 +0000 2014,@eelstretching @plamere I'm aware, we met this summer during my internship at Spotify! Thanks for the warning!
+543880572696006660,Sat Dec 13 21:30:08 +0000 2014,@eelstretching cool, thanks!
+543877595641966600,Sat Dec 13 21:18:18 +0000 2014,@eelstretching sounds interesting, is there a paper? We had an MSD-based paper + demo at NIPS last year :) http://t.co/Ml4zQuIhid
+543545296903761900,Fri Dec 12 23:17:52 +0000 2014,@AlecRad @ogrisel @kastnerkyle @johnmyleswhite @tcovert I can't make any of them work better than NAG so far. Must be doing something wrong!
+542337305814777860,Tue Dec 09 15:17:44 +0000 2014,@fulhack true, I'll pass that on to Jan!
+542315271990829060,Tue Dec 09 13:50:11 +0000 2014,@fulhack only with very memory-hungry FFT convolutions though! But hopefully the new meta-optimizers will change that.
+542298642745671700,Tue Dec 09 12:44:06 +0000 2014,A guest post by Jan Schlüter: The fastest convolutions in Theano with meta-optimization! http://t.co/A9VcYflmbJ
+542242591715377150,Tue Dec 09 09:01:22 +0000 2014,RT @balazskegl: It's been confirmed: NIPS review process is very noisy. Acceptance  disagreement=26%, where max=37. #NIPS2014 http://t.co/d…
+542242307815510000,Tue Dec 09 09:00:15 +0000 2014,RT @AndrewYNg: We just posted the NIPS 2014 Deep Learning workshop papers online. Check them out!  http://t.co/b98swFA9MI
+542055666891100160,Mon Dec 08 20:38:36 +0000 2014,sklearn-theano + colour histograms + t-SNE on a bunch of album covers taken from my website http://t.co/ONMBjPg78q http://t.co/c1UCmm26xJ
+540868301824741400,Fri Dec 05 14:00:26 +0000 2014,RT @plamere: perhaps the densest song to ever appear on the Infinite Jukebox - http://t.co/8rw3rELAm7
+540267911144017900,Wed Dec 03 22:14:42 +0000 2014,Awesome automatic image captioning demo by Ryan Kiros et al. http://t.co/RMkpufXvRB

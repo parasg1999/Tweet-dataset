@@ -1,0 +1,339 @@
+id,created_at,text
+1259954042752680000,Mon May 11 21:10:27 +0000 2020,RT @ShriramKMurthi: Authors adjusting LaTeX itemize spacing. https://t.co/O6IG4OXcJM
+1258826316947902500,Fri May 08 18:29:16 +0000 2020,@RogueRad Having said that, if a radiologist would be given a task with severe class imbalance, they probably recal… https://t.co/mjITh36pgi
+1258825533271482400,Fri May 08 18:26:09 +0000 2020,@RogueRad With the current state of the art, (greatly simplifying) I think the class imbalance is still easier for… https://t.co/ZPcjz3DpcX
+1258824944806441000,Fri May 08 18:23:49 +0000 2020,@RogueRad Interesting question, however, I think the way you are asking it, is conflating two things a bit. 1) Whet… https://t.co/xDI2AtQHBX
+1258822928503840800,Fri May 08 18:15:48 +0000 2020,RT @Tooploox: Our next online meetup! Let's talk about AI research with world-class AI practitioners and researchers. Register right away👉…
+1258411027592556500,Thu May 07 14:59:03 +0000 2020,RT @RichBonneauNYU: We (@FlatironCCB ) have open positions for computational people that want to wait an extra year before hitting job mark…
+1257735051502125000,Tue May 05 18:12:58 +0000 2020,@MichalSofka @konradzolna @kchonyc Glad to know you are reading our papers @MichalSofka!
+1257060868937912300,Sun May 03 21:34:00 +0000 2020,RT @tdietterich: To researchers submitted Covid-19 lung x-ray papers to @arxiv_org: If you test on a small test set (e.g., 100-200 images),…
+1256980675577725000,Sun May 03 16:15:21 +0000 2020,RT @konradzolna: While classified-dependent saliency maps are useful for debugging, they are unsuitable for general-purpose visualizations…
+1256007674560479200,Thu Apr 30 23:48:59 +0000 2020,The code is available at https://t.co/o20U6w89qP  This work is the product of a collaboration between… https://t.co/4zPere59DV
+1256007673197273000,Thu Apr 30 23:48:59 +0000 2020,The saliency maps we obtain can be used, for example, to perform weakly supervised localization accurately. Our met… https://t.co/ldl24PscH0
+1256007671687319600,Thu Apr 30 23:48:59 +0000 2020,We achieved that by training a network which masks the input image to confuse a randomly sampled classifier from a… https://t.co/fXkHx5aFNm
+1256007670139695000,Thu Apr 30 23:48:58 +0000 2020,We (@konradzolna, @kchonyc, and I) finally got our paper on "Classifier-agnostic saliency map extraction" published… https://t.co/gfIbTO9xzT
+1250534117365543000,Wed Apr 15 21:19:02 +0000 2020,RT @NYUDataScience: CDS Founder @ylecun talks to @nytimes on the limits of supervised learning for AI. Can we teach computers how to teach…
+1249858035184525300,Tue Apr 14 00:32:31 +0000 2020,Looking forward to this! Join me tomorrow at 2pm (EST). https://t.co/EpB8GHDak7
+1245526607009386500,Thu Apr 02 01:40:58 +0000 2020,RT @Radiology_AI: fastMRI: A Publicly Available k-Space and DICOM Dataset of Knee MRI Images for Accelerated Image Reconstruction Using #Ma…
+1244041241131712500,Sat Mar 28 23:18:39 +0000 2020,RT @breathe4science: Help us scale #COVID19 detection over the phone.   If you have a #COVID19 diagnosis or are healthy, consider recording…
+1242882192713437200,Wed Mar 25 18:33:01 +0000 2020,RT @nyugrossman: Excited to share that pending approval from @NYSEDNews and #LCME, @NYUGrossman will allow select medical students to gradu…
+1242582377832030200,Tue Mar 24 22:41:39 +0000 2020,RT @taromakino: It is my pleasure to announce that our new paper “Understanding the robustness of deep neural network classifiers for breas…
+1242461159015547000,Tue Mar 24 14:39:58 +0000 2020,RT @ML_in_PL: #Startups, #research and differences in approach. Łukasz Kidziński @kidzik has described his experience during the #interview…
+1240348843549642800,Wed Mar 18 18:46:23 +0000 2020,Doing research these days. https://t.co/TfBFQfDLiN
+1237734550660407300,Wed Mar 11 13:38:07 +0000 2020,RT @iclr_conf: Due to  concerns about COVID-19, #ICLR2020 will cancel its physical conference this year, and instead host a fully virtual c…
+1237152711579185200,Mon Mar 09 23:06:06 +0000 2020,RT @si_org_pl: O algorytmie, który diagnozuje nowotwór piersi precyzyjniej niż doświadczony radiolog, Krzysztof Geras opowiada Monice Redzi…
+1236789983786262500,Sun Mar 08 23:04:45 +0000 2020,RT @iclr_conf: Quick conference update: #ICLR2020 is working through potential methods to hold a remote conference this year, as it is look…
+1235360549501841400,Thu Mar 05 00:24:41 +0000 2020,RT @NYUImaging: NYU Radiology is excited to join the Radiology Twitter Community to share and celebrate the initiatives and achievements of…
+1232809031527534600,Wed Feb 26 23:25:52 +0000 2020,RT @slashML: The Break-Even Point on Optimization Trajectories of Deep Neural Networks https://t.co/JxuZOffnyO
+1232423440658858000,Tue Feb 25 21:53:40 +0000 2020,RT @ylecun: An adversarial method to remove artifact from quickly-collected MRI images. From FAIR+NYU https://t.co/ykPIALI4oe
+1232408571574444000,Tue Feb 25 20:54:35 +0000 2020,RT @kudkudakpl: Two SGD trajectories (with 2 different LR) diverged after the "break-even point", and it made all the difference :) Our ICL…
+1231243927019294700,Sat Feb 22 15:46:42 +0000 2020,@RogueRad @drsxr @DrHughHarvey @DrIanWeissman @Vilavaite If I remember correctly, the student actually did well in… https://t.co/YILsowhwxu
+1231234077514256400,Sat Feb 22 15:07:33 +0000 2020,@drsxr @KjGera Thanks for the comment! Indeed, one reader was a student. We included her as she worked with us for… https://t.co/RakVpzzHId
+1231227251875864600,Sat Feb 22 14:40:26 +0000 2020,@DrLukeOR @drsxr I would say that this is an example that evaluation of ML models is not obvious under class imbala… https://t.co/Ip64FZ2y2C
+1230644043522113500,Fri Feb 21 00:02:58 +0000 2020,This paper is another product of a collaboration between @cai2r and @NYUDataScience. It was led by @ArtieShen, supp… https://t.co/O56161kZ8f
+1230644041391509500,Fri Feb 21 00:02:58 +0000 2020,We made the code and the model public at https://t.co/xATXueLLWw. We are hoping to enable others to experiment with… https://t.co/8Dk8nQeZKw
+1230644039374037000,Fri Feb 21 00:02:57 +0000 2020,We are expecting that our model will be especially useful when applied to data for which it is difficult or impossi… https://t.co/6zQmsb8wQk
+1230644036760985600,Fri Feb 21 00:02:57 +0000 2020,We conducted extensive experiments on the importance of various design choices in the model, the type of pooling ag… https://t.co/34sU9oOMmp
+1230644034437251000,Fri Feb 21 00:02:56 +0000 2020,Our model works in 3 stages. (1) Looking at the entire image with a network of a relatively low capacity to identif… https://t.co/3euKC8pn5m
+1230644032163995600,Fri Feb 21 00:02:56 +0000 2020,Despite learning only with image-level labels, the model achieves an AUC of 0.93, outperforming ResNet-34 and Faste… https://t.co/OXcr0Wb9AE
+1230644029311901700,Fri Feb 21 00:02:55 +0000 2020,We just released a new paper on deep learning for screening mammography!  “An interpretable classifier for high-res… https://t.co/FzD2F7Qr0w
+1227035348271816700,Tue Feb 11 01:03:18 +0000 2020,@chrisgorgo @Eklund @GlockerBen @DanielRueckert Not necessarily. It is usually possible to trade off gpu memory req… https://t.co/cPtpEMgYGD
+1227032331627659300,Tue Feb 11 00:51:19 +0000 2020,@chrisgorgo @Eklund @GlockerBen @DanielRueckert I would train bigger models and use fewer tricks for memory efficie… https://t.co/s9cmVlmtNh
+1224394403822874600,Mon Feb 03 18:09:08 +0000 2020,RT @RandomlyWalking: Come work with us as an intern on #DeepLearning and #ProgramSynthesis at @GoogleAI! We have exciting  research, a grea…
+1222651624927133700,Wed Jan 29 22:43:57 +0000 2020,RT @Radiology_AI: fastMRI: A Publicly Available k-Space and DICOM Dataset of Knee MRI Images for Accelerated Image Reconstruction Using #Ma…
+1221865759544090600,Mon Jan 27 18:41:12 +0000 2020,RT @PicardTips: Picard management tip: If you never fail, you aren't going boldly enough.
+1220800704610230300,Fri Jan 24 20:09:04 +0000 2020,RT @nyuniversity: This month in NYU research news you can use: 🔬 How AI can help detect breast cancer 🤤 What sea slugs can teach us about f…
+1220370129709621200,Thu Jan 23 15:38:06 +0000 2020,More details here: https://t.co/9EmOEvHgB0
+1220370128220631000,Thu Jan 23 15:38:06 +0000 2020,A very nice video about our work on deep learning for breast cancer screening by @nyuniversity and @Sapna_Parikh!  https://t.co/luXOTacZvc
+1220364143297007600,Thu Jan 23 15:14:19 +0000 2020,RT @mattlungrenMD: Announcing new medical imaging dataset for an important clinical use case - and our first for ultrasound/ cardiac echo.…
+1218312354686996500,Fri Jan 17 23:21:15 +0000 2020,RT @midl_conference: #MIDL2020 will have a special issue in MELBA (The Journal of Machine Learning for Biomedical Imaging), a new, web-base…
+1218264045511487500,Fri Jan 17 20:09:17 +0000 2020,RT @ned_potter: Cows make milk. They milk themselves.  Other cows check the milk (for free).   Cows - get this - PAY THE FARMER to take the…
+1213276480635113500,Sat Jan 04 01:50:29 +0000 2020,@vandelunep @IEEE_TMI @NYUDataScience @cai2r Definitely not. I would actually say the opposite. Radiology will be g… https://t.co/ttKcAbKcYz
+1212893770343157800,Fri Jan 03 00:29:43 +0000 2020,@ylecun @demishassabis @DeepMindAI @GoogleHealth @CR_UK @nature @kchonyc Thanks for making sure that our work also… https://t.co/xyyYjO7PsM
+1212892773440995300,Fri Jan 03 00:25:46 +0000 2020,@DrHughHarvey Thanks for making sure that our work gets recognition too @DrHughHarvey! Here is my take on Google's… https://t.co/KSsURAMGUn
+1212882674886549500,Thu Jan 02 23:45:38 +0000 2020,Ultimately, we should remember what the final goal of our research is, which is to decrease the effect that breast… https://t.co/9Yaw8pAvPJ
+1212882671975764000,Thu Jan 02 23:45:37 +0000 2020,Finally, breast cancer screening is the first step. There are fascinating challenges ahead: explainability, robustn… https://t.co/JtGg8JIIbb
+1212882668951605200,Thu Jan 02 23:45:37 +0000 2020,Ours and Google’s work on breast cancer screening is just the beginning. We both have shown that there is a potenti… https://t.co/xYB23WdlOt
+1212882666418327600,Thu Jan 02 23:45:36 +0000 2020,Our code and the weights of trained networks are publicly available for that reason. I hope that sharing the code w… https://t.co/CuKuds8P1H
+1212882663058661400,Thu Jan 02 23:45:35 +0000 2020,The greatest shortcoming of G’s paper is the lack of publicly available code reproducing their results. It’s very h… https://t.co/HOe5KGSCF1
+1212882660009422800,Thu Jan 02 23:45:35 +0000 2020,I believe when multiple groups show similar results with similar methods, it’s a good thing. It co-validates our ap… https://t.co/54TgC7GzNS
+1212882656788172800,Thu Jan 02 23:45:34 +0000 2020,Having said that, the strength of G’s paper is in careful analysis of the results. I appreciate that. We will use s… https://t.co/nzrCpqEJC9
+1212882652077973500,Thu Jan 02 23:45:33 +0000 2020,“Novelty” is difficult to quantify. There are already multiple papers that show similar results. Some of them even… https://t.co/U3ghSKfLPV
+1212882648756035600,Thu Jan 02 23:45:32 +0000 2020,First of all, I would like to congratulate the authors of that paper for its acceptance and the attention it got. O… https://t.co/8RwqXr9zNN
+1212882645253853200,Thu Jan 02 23:45:31 +0000 2020,Today there was a lot of discussion regarding the novelty of Google’s new paper on using AI for breast cancer scree… https://t.co/9ZZPlLhj27
+1209196451013779500,Mon Dec 23 19:37:54 +0000 2019,@woojinrad @cekahn How many of them (approximately) can experienced radiologists accurately identify based just on a chest radiograph?
+1207831076309262300,Fri Dec 20 01:12:23 +0000 2019,RT @iclr_conf: Decisions released 🎉 Congratulations to accepted papers; to those who we could not accommodate, we wish you success in your…
+1207343190430367700,Wed Dec 18 16:53:42 +0000 2019,RT @cai2r: Looking for a pythonista to geek out with us on machine learning infrastructure for #biomedicalimaging research.  Sounds like yo…
+1206348830997975000,Sun Dec 15 23:02:28 +0000 2019,@guicho271828 There are quite a few MS students doing research at NYU. Shizhan has started early enough and work so… https://t.co/IF7BFJqRg3
+1205945309832130600,Sat Dec 14 20:19:01 +0000 2019,The other authors of this work are Matthew Muckley, Nan Wu (@NanWu__), Taro Makino, S. Gene Kim, Laura Heacock, Lin… https://t.co/uYYKCMO1Sq
+1205945303146389500,Sat Dec 14 20:19:00 +0000 2019,Shizhan Gong, an MS (!) student from @NYUDataScience, talking at the #medneurips workshop at #neurips19 about our w… https://t.co/IlsWmoYF0N
+1205924286143316000,Sat Dec 14 18:55:29 +0000 2019,RT @DanielSodickson: Program for the Medical Imaging Meets Machine Learning Workshop at #NeurIPS2019.  We present outcomes of the fastMRI c…
+1205742198165106700,Sat Dec 14 06:51:56 +0000 2019,RT @pabbeel: Deep Reinforcement Learning NIPS workshop so overcrowded that the security guard decided to keep out Rich Sutton! https://t.co…
+1205202132669845500,Thu Dec 12 19:05:54 +0000 2019,RT @EEMLcommunity: Dates confirmed: EEML 2020 will be organised in Krakow, Poland, between 6-11 July 2020! Speakers to be confirmed shortly…
+1204011558113689600,Mon Dec 09 12:14:59 +0000 2019,Myself and @kchonyc are looking for a postdoc to work on deep learning for medical image analysis. We are both at… https://t.co/J5p0cfftfQ
+1201655792669200400,Tue Dec 03 00:14:01 +0000 2019,RT @NYUDataScience: @NYUDataScience is hiring Faculty Fellows! Follow the link below to learn more about our faculty fellow positions. Plea…
+1201318250254127000,Mon Dec 02 01:52:44 +0000 2019,RT @facebookai: We’ve completed the first fastMRI image reconstruction challenge to spur development of new AI techniques to make scans 10x…
+1201203444532547600,Sun Dec 01 18:16:33 +0000 2019,If you are interested in working with me, you can apply to one of these programs:   - NYU School of Medicine (… https://t.co/G3nUSzGngW
+1201203441546285000,Sun Dec 01 18:16:32 +0000 2019,In my opinion, it's usually best to apply with at least one specific potential supervisor in mind, however, it's po… https://t.co/5F7zkDWmJy
+1201203437255495700,Sun Dec 01 18:16:31 +0000 2019,The admission process is usually quite complicated and involves multiple stages (e.g. initial screening, phone inte… https://t.co/kI0OishaXr
+1201203433690271700,Sun Dec 01 18:16:30 +0000 2019,It's ok if you want to let someone know you are applying, but they won't be able to give you a definite answer. You… https://t.co/yANed5GqRj
+1201203428992700400,Sun Dec 01 18:16:29 +0000 2019,As the PhD application deadlines are approaching, I'm getting quite a few emails saying "I like your work, can I be… https://t.co/E2l6BmNeCG
+1200622873641148400,Sat Nov 30 03:49:34 +0000 2019,RT @kchonyc: @GaryMarcus I would like in fact to hear a solid and testable proposal based on your 20 years of insisting how ML is not on th…
+1199715641852334000,Wed Nov 27 15:44:33 +0000 2019,Nvidia shared Jason's (@zhansheng) blog post on the challenges we were tackling in our work on deep learning for br… https://t.co/ehxPbun5GS
+1199408974812131300,Tue Nov 26 19:25:58 +0000 2019,- Improving localization-based approaches for breast cancer screening exam classification (https://t.co/TVzaRShdSO)… https://t.co/9PlMrmAFrA
+1199408973142806500,Tue Nov 26 19:25:57 +0000 2019,The relevant papers: - Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening (… https://t.co/HngvVjeNOW
+1199408972081565700,Tue Nov 26 19:25:57 +0000 2019,Here is the talk I gave at the Ai4 Healthcare conference, which briefly summarizes our recent work on developing de… https://t.co/oev7XcLNZ2
+1197922011613401000,Fri Nov 22 16:57:18 +0000 2019,Just finished submitting reimbursement forms for the last three months! What a relief! I feel like this is somethin… https://t.co/cerpbqioVU
+1194292235476582400,Tue Nov 12 16:33:52 +0000 2019,RT @cai2r: Use your #ML &amp; #ComputerVision skills for good! Join our interdisciplinary team developing explainable #AI for early breast canc…
+1190089784364093400,Fri Nov 01 02:14:50 +0000 2019,RT @CHILconference: Announcing the first ever ACM Conference on Health, Inference, and Learning (CHIL) in Toronto,  April 2-4 2020!   CALL…
+1188806018899366000,Mon Oct 28 13:13:36 +0000 2019,RT @NYUDataScience: October is Breast Cancer Awareness Month, but CDS PhD student Nan Wu takes awareness into action by applying deep neura…
+1186724490040037400,Tue Oct 22 19:22:21 +0000 2019,The NYU Center for Data Science (@NYUDataScience) and The NYU School of Medicine (@nyuschoolofmed) are jointly laun… https://t.co/dESz19ABzj
+1186631310774804500,Tue Oct 22 13:12:05 +0000 2019,RT @iclr_conf: #ICLR2020 Review completion: ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░ 22% done 🏃🏽‍♀️ #deadlines
+1186419943614615600,Mon Oct 21 23:12:11 +0000 2019,Also pictured, in the background, are my parents in law to whom I owe my wife and, by proxy, the correct grammar in my papers.
+1186419938996686800,Mon Oct 21 23:12:10 +0000 2019,The lady next to me in the photo is my wife Catriona. By day she is a primary school teacher, by night she often re… https://t.co/LSXfK1Nob3
+1186260757299761200,Mon Oct 21 12:39:38 +0000 2019,RT @DrLindaMoy: The results of our DL model just published in TMI https://t.co/Q6IjabEeze
+1186030858114916400,Sun Oct 20 21:26:06 +0000 2019,@nyuschoolofmed @nyuniversity More details of the story here: https://t.co/9EmOEvHgB0
+1185195325700620300,Fri Oct 18 14:06:00 +0000 2019,@langdon @IEEE_TMI @NYUDataScience @cai2r It is already https://t.co/qF8oq41Fsx
+1185002166915915800,Fri Oct 18 01:18:27 +0000 2019,Do you have a PhD (or soon will) and want to join us in these efforts? Apply for a postdoc! https://t.co/jO9DLNkE1E… https://t.co/pXFdD8lGG1
+1185002165137498000,Fri Oct 18 01:18:27 +0000 2019,We are now focusing more on methodological advances: - neural networks better adjusted to high-resolution medical i… https://t.co/cuddBPyGO2
+1185002163346591700,Fri Oct 18 01:18:26 +0000 2019,It was completed by a big team including @NanWu__ @jpatrickpark @zhansheng @ArtieShen @kchonyc @DrLindaMoy… https://t.co/dRxo1QKqvj
+1185002161534591000,Fri Oct 18 01:18:26 +0000 2019,A report explaining how the data set was extracted in detail is at https://t.co/u8Te6YYMno.  We also wrote a blog p… https://t.co/mG6NaZa3Hm
+1185002159466827800,Fri Oct 18 01:18:25 +0000 2019,We aimed for transparency and reproducibility to let others build upon our work.  The paper is available at… https://t.co/2TFxICVXjM
+1185002157361242000,Fri Oct 18 01:18:25 +0000 2019,Our model is as accurate as experienced radiologists when presented with the same data. A hybrid model, averaging t… https://t.co/yaKoEZumSM
+1185002154056130600,Fri Oct 18 01:18:24 +0000 2019,We trained and evaluated neural networks on over 1,000,000 images. Our network achieved an AUC of 0.895 in predicti… https://t.co/skCt18Ibdn
+1185002150360948700,Fri Oct 18 01:18:23 +0000 2019,Great news! Our paper "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening" has been… https://t.co/RHgyoMBNWj
+1183900675777978400,Tue Oct 15 00:21:31 +0000 2019,This poster based on the paper "Globally-Aware Multiple Instance Classifier for Breast Cancer Screening" (… https://t.co/Lbr9otbI43
+1182141034203144200,Thu Oct 10 03:49:20 +0000 2019,Some translated my blog post, "A personal advice on how to be a successful PhD student in machine learning" (… https://t.co/gVUc2IEIwJ
+1181556572461371400,Tue Oct 08 13:06:53 +0000 2019,RT @ML_in_PL: Finding a good place to pursue PhD, BSc or MSc degree or academic work in Poland is not easy! To facilitate this process, we'…
+1179999439026569200,Fri Oct 04 05:59:24 +0000 2019,RT @rsalakhu: Ultra-Wide Deep Nets and the Neural Tangent Kernel (NTK) – Blog | Machine Learning | Carnegie Mellon University https://t.co/…
+1179201402737959000,Wed Oct 02 01:08:17 +0000 2019,RT @kudkudakpl: I will be speaking at https://t.co/99GKK04nQZ about our recent work on optimization vs generalization in deep learning (htt…
+1178753832182059000,Mon Sep 30 19:29:48 +0000 2019,RT @caglarml: The title of this ICLR submission is longer than the number of characters allowed by ICLR/openreview. It might have been gene…
+1177992961172426800,Sat Sep 28 17:06:22 +0000 2019,RT @EricTopol: The potential of deep learning #AI for mammography: an outstanding, balanced, comprehensive, #openaccess review https://t.co…
+1177590469246804000,Fri Sep 27 14:27:01 +0000 2019,RT @radiology_rsna: #AI for Mammography and Digital Breast Tomosynthesis: Current Concepts and Future Perspectives​. Krzysztof et al explai…
+1177334521601114000,Thu Sep 26 21:29:58 +0000 2019,These are very accurate! https://t.co/aY6wlRHxmn  "The last evening before deadline" :D https://t.co/s2z6DXf9QI
+1177243183010525200,Thu Sep 26 15:27:01 +0000 2019,@hanianow @NYUDataScience Definitely. I expect that there will be successful candidates with no prior postdoc experience.
+1177239841429495800,Thu Sep 26 15:13:44 +0000 2019,Another opportunity to get a job at @NYUDataScience! NYU CDS is recruiting "Faculty Fellows" (i.e. postdocs without… https://t.co/RUqnDFsWQc
+1177049847456837600,Thu Sep 26 02:38:46 +0000 2019,RT @srush_nlp: Early ICLR 2020 submission numbers:   2020:  2600 2019:  1580 2018:    950  # ICLR 2020 submits are similar to NeurIPS circa…
+1176500847532003300,Tue Sep 24 14:17:15 +0000 2019,A new review article on AI for mammography in @radiology_rsna (by @DrLindaMoy, Ritse Mann and me):… https://t.co/utbT8y2Rea
+1174580902887714800,Thu Sep 19 07:08:04 +0000 2019,Apply for a PhD at @NYUDataScience! CDS is especially interested in candidates who are keen on both methodology and… https://t.co/16YY2xJHuf
+1174391038489682000,Wed Sep 18 18:33:37 +0000 2019,RT @FJCarmonas: First talk of the FAC Symposium by @kjgeras from @nyulangone on developing #DeepLearning for #breastcancer diagnosis using…
+1174390756959604700,Wed Sep 18 18:32:30 +0000 2019,RT @StanfordAIMI: @StanfordMed #FACsymposium panel on #AI to improve accuracy of diagnosis and health risk assessment with Yan Wu and @kjge…
+1173819773521518600,Tue Sep 17 04:43:37 +0000 2019,RT @icmlconf: #ICML2020 deadlines posted:  Abstracts due: Jan 30 Papers due: Feb 6 Reviews out: Mar 31 Response due: Apr 7 Notifications: M…
+1171896699222188000,Wed Sep 11 21:22:00 +0000 2019,RT @NYUDataScience: Interested in data science as an undergrad? There's a major for that! @NYUDataScience teamed up with @NYUCAS to launch…
+1171567780891713500,Tue Sep 10 23:35:00 +0000 2019,RT @ai_memes: Immediately adds tensorflow contributor to bio https://t.co/P2dvCkzZsI
+1171464776033034200,Tue Sep 10 16:45:42 +0000 2019,RT @ML_in_PL: We invite you to join the 3rd pre-meeting before #MLinPL Conference 2019!  Łukasz Kidziński (@kidzik) - PhD and the researche…
+1169659189553258500,Thu Sep 05 17:10:56 +0000 2019,I had a chat with @ML_in_PL (embodied by @schizoburger7) on machine learning in Poland and the US.  Thanks!  https://t.co/ErbnJGs2Zd
+1169619999922802700,Thu Sep 05 14:35:13 +0000 2019,RT @cai2r: The fastMRI challenge, a collaboration between our lab &amp; @facebookai research, is now open!  #AI, #MachineLearning, &amp; #DeepLearn…
+1169372909489594400,Wed Sep 04 22:13:22 +0000 2019,RT @NeurIPSConf: For 2019 NeurIPS will use a new approach to ticketing and registration https://t.co/qL5dJCcEqi
+1167217230024777700,Thu Aug 29 23:27:28 +0000 2019,It's that time of year again! Best wishes to all students starting their PhD adventure! https://t.co/oHmnm4GfpF
+1167099817413267500,Thu Aug 29 15:40:54 +0000 2019,RT @ML_in_PL: We are happy to announce that this year we introduce Student Travel Scholarships - the program for those who need financial a…
+1166840480333799400,Wed Aug 28 22:30:24 +0000 2019,Best things about being a professor - Scaling up a research agenda - Supervising students and postdocs - Meeting in… https://t.co/wVdo8f3hpn
+1166743097189052400,Wed Aug 28 16:03:26 +0000 2019,RT @fangf07: The CFP for the AI for social good workshop at NeurIPS 2019 is out! Please refer to our site for additional details.  Workshop…
+1166497141000417300,Tue Aug 27 23:46:05 +0000 2019,I was trying to find some historical information on ICML today and found this ICML'96 website:… https://t.co/H16jlsd3AC
+1166388441464090600,Tue Aug 27 16:34:09 +0000 2019,A prediction: over the next 30 years more than 1/3 of the Turing Awards will be given for contibutions to (broadly… https://t.co/jIUpCCY6dG
+1166363559808442400,Tue Aug 27 14:55:17 +0000 2019,RT @ML_in_PL: Call for Contributions for #MLinPL 2019 is now open! We encourage everyone to check out detailed information, as well as the…
+1166015301932200000,Mon Aug 26 15:51:26 +0000 2019,RT @zhansheng: We just released @tensorflow versions of our trained models from the paper "Deep Neural Networks Improve Radiologists' Perfo…
+1165344480012198000,Sat Aug 24 19:25:49 +0000 2019,RT @NASAJPL: NASA maps carbon monoxide from #AmazonRainforest fires from orbit: https://t.co/xFvWUfDfVm https://t.co/eRrp34QvGm
+1164961529537736700,Fri Aug 23 18:04:07 +0000 2019,@NYUDataScience @ArtieShen Other CDS students involved in this project are: Nan Wu (@NanWu__), Jason Phang (… https://t.co/Oyva2avf1u
+1164297824483315700,Wed Aug 21 22:06:47 +0000 2019,This work is a joint effort by a few people from @cai2r and @NYUDataScience: @ArtieShen, @NanWu__, @zhansheng,… https://t.co/gbbpw1UUwg
+1164297822554022000,Wed Aug 21 22:06:47 +0000 2019,Artie's paper is on using multiple instance learning to find important parts of a high-resolution image with a rela… https://t.co/zDxMNBchVs
+1164297819286659000,Wed Aug 21 22:06:46 +0000 2019,Artie Shen (@ArtieShen) just got his first first author paper "Globally-Aware Multiple Instance Classifier for Brea… https://t.co/hVu32TvBI0
+1164226156104736800,Wed Aug 21 17:22:00 +0000 2019,RT @kchonyc: Joint Workshop on AI for Social Good Workshop at NeurIPS2019 https://t.co/UgvncHwvlp
+1163955917282599000,Tue Aug 20 23:28:10 +0000 2019,I will be speaking about our work on deep learning for breast cancer screening at the Frontier of AI-Assisted Care… https://t.co/zJYoTzetcm
+1163864451868741600,Tue Aug 20 17:24:43 +0000 2019,RT @ML_in_PL: The second pre-meeting before #MLinPL Conference is on! We welcome @aleks_madry, one of the most awarded #MachineLearning Pol…
+1162170046875078700,Fri Aug 16 01:11:45 +0000 2019,@arxiv_org @kastnerkyle Check this out :D https://t.co/WOVdKvxyXg
+1162096037579894800,Thu Aug 15 20:17:40 +0000 2019,@EricKimMD @ABR_Radiology big congratulations Eric!
+1162070500400652300,Thu Aug 15 18:36:12 +0000 2019,RT @cai2r: Join a research team in NYC &amp; help develop open-source, deep-learning tools for medical image analysis.   [job] https://t.co/9uN…
+1161669374895382500,Wed Aug 14 16:02:16 +0000 2019,An important data point! We should be very careful when stating that AI-based models are ready for clinical deploym… https://t.co/AQiwLw0wh1
+1161288017459462100,Tue Aug 13 14:46:53 +0000 2019,@kchonyc but does it cite reviewer's papers???
+1160347833058435000,Sun Aug 11 00:30:56 +0000 2019,I dreamt last night I promised to give a talk on an unbiased estimator of the variance of cross-validation. Then I… https://t.co/hKEvERr0sB
+1159110404704002000,Wed Aug 07 14:33:50 +0000 2019,Nan Wu's (@NanWu__) talk from the #ICML2019 workshop on AI for Social Good (starting at 6:45) about our recent pape… https://t.co/c5CVkWbNSk
+1158488439404322800,Mon Aug 05 21:22:22 +0000 2019,My talk titled "Towards Solving Breast Cancer Screening Diagnosis with Deep Learning" at @UniWarszawski organized b… https://t.co/Y5qdesFx6W
+1156705742445043700,Wed Jul 31 23:18:34 +0000 2019,RT @Kyle_L_Wiggers: AI takes advantage of existing mammography scans to make a cancer diagnosis https://t.co/sJhnFe9jHA
+1152211958524981200,Fri Jul 19 13:41:52 +0000 2019,RT @LakeBrenden: My lab at NYU has a new postdoc position in self-supervised learning. Work with me to model child headcam videos, with the…
+1149467853487140900,Thu Jul 11 23:57:47 +0000 2019,@erykml1 @UniWarszawski @ML_in_PL Słyszałem, że tak.
+1149418064854888400,Thu Jul 11 20:39:56 +0000 2019,18 lipca będzie na @UniWarszawski mój wykład na temat moich prac związanych z wykorzystywaniem uczenia maszynowego… https://t.co/D8Bmw6ALpZ
+1148985720700317700,Wed Jul 10 16:01:57 +0000 2019,Many comments during the conference along the lines of "why did you not compare to my favourite method X?" is a sym… https://t.co/kRFHVadBk7
+1148985719530119200,Wed Jul 10 16:01:57 +0000 2019,I also believe we should put a lot of effort in reproducibility of the results. A key element of this is making the… https://t.co/nUXrwYvy7w
+1148985718343118800,Wed Jul 10 16:01:57 +0000 2019,Thanks for a great conference @midl_conference! My conclusion: we need to follow an example of the computer vision… https://t.co/MWhWY3sMJK
+1148875931584532500,Wed Jul 10 08:45:41 +0000 2019,RT @ML_in_PL: The 3rd edition of the conference will be held on 22-25 November! This year, we changed the name and we invite you to #MLinPL…
+1148305397977178100,Mon Jul 08 18:58:36 +0000 2019,@MAMazurowski @drsxr @DukeForge @FalgunChokshiMD @RogueRad @AndrewYNg @togelius @GeoffRubin It would be strange to… https://t.co/tVQm0ZbyyV
+1147882132242653200,Sun Jul 07 14:56:41 +0000 2019,These papers are a joint effort of people from @cai2r and @NYUDataScience, also including @zhansheng @kchonyc… https://t.co/NrXw4ayhiP
+1147878579675570200,Sun Jul 07 14:42:34 +0000 2019,I'm going to present these posters on our work on deep learning for mammography at #MIDL2019. Come and say hi!  The… https://t.co/spYI6cFYwS
+1147489147659128800,Sat Jul 06 12:55:06 +0000 2019,RT @NanWu__: @kjgeras is going to present our work on #MIDL2019! Welcome to check out our poster and say Hi!  Link to the abstract: https:/…
+1146945594302304300,Fri Jul 05 00:55:13 +0000 2019,RT @jpatrickpark: If you are coming to #MIDL2019, please come to our poster on our work on screening mammogram classification with prior ex…
+1146241061494427600,Wed Jul 03 02:15:39 +0000 2019,@UjasParikhMD @RadChiefs @EricKimMD @DrLindaMoy 1) is the easiest and the least interesting in my view. 2) is proba… https://t.co/KmHHWdtJaR
+1146240388715425800,Wed Jul 03 02:12:59 +0000 2019,@UjasParikhMD @RadChiefs @EricKimMD @DrLindaMoy I can think of a few fairly obvious possible elements of this. 1) E… https://t.co/VYcvyk3Sxr
+1146191644733165600,Tue Jul 02 22:59:17 +0000 2019,@UjasParikhMD @RadChiefs That's a fascinating idea! What do you think such an "AI track" should entail in practice?
+1145532056434282500,Mon Jul 01 03:18:19 +0000 2019,RT @NASAGoddard: Twenty-five years ago, humanity watched enormous pieces of comet Shoemaker-Levy 9 crash into Jupiter. For World Asteroid D…
+1144627519443935200,Fri Jun 28 15:24:01 +0000 2019,RT @cai2r: We asked our P.I. @DanielSodickson what accounts for the growth of imaging research at @nyulangone. Here's what he had to say: h…
+1144369629441200100,Thu Jun 27 22:19:15 +0000 2019,Spotted at the Turing Lecture! (https://t.co/FzkILWPRS1)  Thank you for mentioning our work @ylecun. We would not b… https://t.co/R2WqryGVmY
+1144270201376124900,Thu Jun 27 15:44:10 +0000 2019,RT @midl_conference: #MIDL2019 is now officially SOLD OUT with more than 500 people joining us for full three days of #MedicalImaging with…
+1143645511469142000,Tue Jun 25 22:21:52 +0000 2019,We just released additional "image-wise" models from our paper "Deep Neural Networks Improve Radiologists' Performa… https://t.co/Ff9Ofp3WTI
+1143312415205015600,Tue Jun 25 00:18:16 +0000 2019,A new blog post! "How to make the most of your PhD advisor's time" https://t.co/1i594ien6r
+1141383668721733600,Wed Jun 19 16:34:07 +0000 2019,RT @PL_in_ML: We're happy to share with you that one of our PL in ML organizer teammates has just got an honorable mention in best paper aw…
+1140701542972035100,Mon Jun 17 19:23:35 +0000 2019,@cai2r @NanWu__ @NYUDataScience Co-authors include: @zhansheng @kchonyc @DrLindaMoy @EricKimMD @UjasParikhMD… https://t.co/SnqXjj9r0b
+1140698865353535500,Mon Jun 17 19:12:57 +0000 2019,RT @cai2r: Congratulations to @NanWu__ (@NYUDataScience), @kjgeras (@cai2r), &amp; co-authors!  [about] https://t.co/lIUVoavOw3 [code] https://…
+1140093843674550300,Sun Jun 16 03:08:48 +0000 2019,@MichaelJGTZ Sure, shoot me an email.
+1140080061179019300,Sun Jun 16 02:14:02 +0000 2019,RT @NanWu__: So glad that we got the Best Paper Award at the AI for social good Workshop at #ICML2019 🥳 https://t.co/KLkCEwUPkR
+1140016691109228500,Sat Jun 15 22:02:14 +0000 2019,Great talk @NanWu__ ! https://t.co/MPcjHUOfA5
+1138644642839187500,Wed Jun 12 03:10:12 +0000 2019,Me talking to undergraduate students these days :D. https://t.co/s3imx9iS0B
+1138467860261457900,Tue Jun 11 15:27:44 +0000 2019,RT @RyutaroT92: Adaptive Neural Trees (ANTs)  - our #icml2019 paper w/ @KaiLashArul, D. Alexander, A. Criminisi &amp; A. Nori @MSFTResearch. We…
+1138179053783900200,Mon Jun 10 20:20:07 +0000 2019,RT @ylecun: Announcing PyTorch Hub!  Want ResNet, ResNext, BERT, GPT, PGAN, Tacotron, DenseNet, MobileNet...? - Pull models with 1 line of…
+1137850742952382500,Sun Jun 09 22:35:32 +0000 2019,Me and @NanWu__ are going to present this poster on our work on deep learning for breast cancer screening at the AI… https://t.co/MOp001ryDE
+1131542620369506300,Thu May 23 12:49:18 +0000 2019,RT @jonlevyBU: 20 years ago today (!), I defended my dissertation. To celebrate this anniversary, let me offer up 10 thoughts/opinions abou…
+1131355479966400500,Thu May 23 00:25:40 +0000 2019,Woohoo! A short version of our paper "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Scree… https://t.co/LWBvG1niXI
+1129088580754772000,Thu May 16 18:17:49 +0000 2019,RT @NYUDataScience: The @NYUDataScience undergraduate major has been approved by @NYSEDNews! We have already begun to offer undergraduate c…
+1128810693325656000,Wed May 15 23:53:36 +0000 2019,Wow! The code for our paper "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening" jus… https://t.co/GB6r7ZOVSz
+1128398851629625300,Tue May 14 20:37:05 +0000 2019,RT @DanielSodickson: Florian Knoll, at #ISMRM19, announces #fastMRI dataset and upcoming challenge.  Download at https://t.co/SdtZJGIqgr.…
+1128311013810606100,Tue May 14 14:48:03 +0000 2019,I just reorganized my researchgate profile a bit: https://t.co/OvbeMpnc4A. It's interesting that people who work on… https://t.co/4eTZo4m6Jj
+1123289133064101900,Tue Apr 30 18:12:53 +0000 2019,@midl_conference Will the abstract decisions be made before then?
+1123025266769576000,Tue Apr 30 00:44:23 +0000 2019,If you are planning a trip to New York, watch this! https://t.co/XDOHNaaLWk
+1122630346938486800,Sun Apr 28 22:35:06 +0000 2019,Group trip #3 https://t.co/Zku79Wubh2
+1121440223894868000,Thu Apr 25 15:45:59 +0000 2019,Should We Introduce a Dislike Button for Academic Articles? https://t.co/pHKoyhP8wL
+1121282864710967300,Thu Apr 25 05:20:42 +0000 2019,@keunwoochoi @functiontelechy @urinieto No, that is how the internet will look like in 2029.
+1121203246486511600,Thu Apr 25 00:04:19 +0000 2019,@hanianow Definitely. There are currently very few conferences or journals that are interested in new developments… https://t.co/hiPxqFqf0e
+1121172068341616600,Wed Apr 24 22:00:26 +0000 2019,It's great to see that @midl_conference is growing! The intersection of deep learning and medical imaging badly nee… https://t.co/r95kIIYyMq
+1120474943496626200,Mon Apr 22 23:50:18 +0000 2019,We submitted two new short papers to #MIDL2019: - Improving localization-based approaches for breast cancer screeni… https://t.co/emHAxKCB5g
+1120422782456741900,Mon Apr 22 20:23:02 +0000 2019,Nan Wu (@NanWu__) giving a talk at the CILVR seminar about our latest work: https://t.co/qF8oq41Fsx https://t.co/lSNiAsQa2Z
+1116799456593236000,Fri Apr 12 20:25:14 +0000 2019,RT @cai2r: We were among the first to reconstruct MR images w/ NNs. Now we're working on learning diagnostic parameters from raw data. Join…
+1115601500728844300,Tue Apr 09 13:04:59 +0000 2019,NYU Hawk Cam: https://t.co/YMzHRsXh9x
+1114059326765793300,Fri Apr 05 06:56:56 +0000 2019,RT @midl_conference: Just missed the @miccai2019 deadline? Or have an idea too preliminary for a full paper? Send your extended abstract to…
+1114059326765793300,Fri Apr 05 06:56:56 +0000 2019,RT @midl_conference: Just missed the @miccai2019 deadline? Or have an idea too preliminary for a full paper? Send your extended abstract to…
+1114057075527753700,Fri Apr 05 06:47:59 +0000 2019,RT @PyTorch: Reseachers from NYU and @cai2r talk about a novel two-phase deep network combined with a large dataset (that they created) imp…
+1113223857240985600,Tue Apr 02 23:37:04 +0000 2019,RT @zhansheng: We are excited to showcase our latest work on applying deep neural networks to breast cancer screening, where our model is s…
+1110961923883962400,Wed Mar 27 17:48:57 +0000 2019,RT @RadiologyBiz: #AI trained on more than 1M medical images predicts presence of #breastcancer @nyuschoolofmed  @arxiv #imaging #radiology…
+1110867719702892500,Wed Mar 27 11:34:37 +0000 2019,RT @ylecun: I am extremely honored to be the recipient of the 2018 ACM A.M. Turing Award, and absolutely delighted to be sharing it with my…
+1109549715950092300,Sat Mar 23 20:17:21 +0000 2019,RT @cai2r: While other networks said to outperform radiologists remain black boxes, our network code &amp; dataset characteristics are availabl…
+1108832987234340900,Thu Mar 21 20:49:19 +0000 2019,This is a very good summary of our work. https://t.co/2jVoaAovin
+1108832705209339900,Thu Mar 21 20:48:12 +0000 2019,@Kyle_L_Wiggers Thanks Kyle. I enjoyed reading your article a lot!
+1108789797081006100,Thu Mar 21 17:57:42 +0000 2019,@PierreFillard @alexandrecadrin @therapixel No doubt. That is something that we are all ultimately aiming at.
+1108762576815566800,Thu Mar 21 16:09:32 +0000 2019,@alexandrecadrin @therapixel I agree. Comparing to prior exams is definitely an important, unsolved to my best know… https://t.co/8gtDQc9XEb
+1108531098362040300,Thu Mar 21 00:49:44 +0000 2019,We have just released a paper in which we show that a deep neural network can be as accurate as a radiologist in cl… https://t.co/FUKCUxBymi
+1108410781941538800,Wed Mar 20 16:51:38 +0000 2019,RT @RARohde: Growth of the world's population over the last 12,000 years with respect to present-day national territories.  Population esti…
+1103054642064298000,Tue Mar 05 22:08:15 +0000 2019,RT @RyutaroT92: Our new work on modeling uncertainty of multiple annotators of varying skill levels and biases (accepted at #cvpr2019):  ht…
+1097655357252485100,Tue Feb 19 00:33:25 +0000 2019,RT @RandomlyWalking: New blog: The three @PHDcomics strips that are actually good research advice! https://t.co/Y2uPJfDaxG
+1093645327327027200,Thu Feb 07 22:58:59 +0000 2019,RT @roydanroy: Can someone please extend this with a deep learning elite haxor? https://t.co/V5etHjkeRh
+1093278284291469300,Wed Feb 06 22:40:29 +0000 2019,RT @NYUDataScience: Learn more about how our very own, @kchonyc, @kjgeras, &amp; Nan Wu contributed to a recent pub about breast density classi…
+1092209979501801500,Sun Feb 03 23:55:26 +0000 2019,What is the best license for publicly releasing code while making using it for commercial purposes as hard as possi… https://t.co/E6XjqHbaAB
+1090288123093884900,Tue Jan 29 16:38:39 +0000 2019,RT @MadameSurgeon: Perlmutter Cancer Center Receives Anonymous $75 Million Gift https://t.co/rbXxTbH4Os via @nyulangone
+1087841182753927200,Tue Jan 22 22:35:23 +0000 2019,@DrHughHarvey @kchonyc Cool, will read carefully! On breast density classification: https://t.co/iwkhZzftvD. Even t… https://t.co/n98S2WPxZT
+1087812448416079900,Tue Jan 22 20:41:12 +0000 2019,A new review on AI for breast imaging: https://t.co/GwuC7ZnUHo
+1082726328716181500,Tue Jan 08 19:50:47 +0000 2019,RT @Tooploox: If you are passionate about #research and want to join our #AI Team, we have something special for you! 📣 Check out our lates…
+1082016923213332500,Sun Jan 06 20:51:52 +0000 2019,I once heard a cognitive scientist stating that there is a lot of evidence that humans are bad at making calibrated… https://t.co/qco71IK9Do
+1081302109583224800,Fri Jan 04 21:31:27 +0000 2019,RT @andy_pavlo: Latest trends in @SCSatCMU grad school admissions! This chart shows the percentage of masters/PhD applications in the last…
+1075515151489601500,Wed Dec 19 22:16:08 +0000 2018,@Radiology_AI will be considering papers previously submitted to arXiv. This will definitely make this journal popu… https://t.co/0UfshpsFvF
+1073394053545365500,Fri Dec 14 01:47:39 +0000 2018,With my capstone project team at @NYUDataScience. Good job guys! https://t.co/Lk6iAfrQZ6
+1073321541943943200,Thu Dec 13 20:59:31 +0000 2018,RT @cai2r: Looking forward to hearing from @pwnic of @imperialcollege next Thursday about detecting outliers with Bayesian #DeepLearning.…
+1071143701454430200,Fri Dec 07 20:45:33 +0000 2018,@absudabsu We often have postdoc openings, but I think we don't have any open position in related projects at the moment.
+1070484856000405500,Thu Dec 06 01:07:32 +0000 2018,@ortizsjesus Sure, please write me an email.
+1070315993443041300,Wed Dec 05 13:56:33 +0000 2018,@Michallys @ylecun @DanielSodickson Full time.
+1070120542789951500,Wed Dec 05 00:59:53 +0000 2018,We (F. Knoll, @DanielSodickson and myself) are looking for a research engineer to join us at NYU School of Medicine… https://t.co/WbsOVd1CPx
+1069965325737824300,Tue Dec 04 14:43:07 +0000 2018,RT @fhuszar: Congrats to Léon Bottou and @obousquet for the test of time award for their pioneering work on the generalization and optimiza…
+1067119076969988100,Mon Nov 26 18:13:08 +0000 2018,RT @DanielSodickson: More information about the open fastMRI dataset and benchmarks just released by @nyulangone and FAIR: 1) Paper describ…
+1067109665748779000,Mon Nov 26 17:35:44 +0000 2018,I think this is one of the most exciting projects that is currently happening at the intersection of machine learni… https://t.co/XZ9PZzfzjj
+1066836221345890300,Sun Nov 25 23:29:10 +0000 2018,Edinburgh is a fantastic place to do machine learning! https://t.co/TK10VFFVmB
+1066807130710249500,Sun Nov 25 21:33:34 +0000 2018,RT @cai2r: To accelerate #AI research into faster #MRI, we're sharing a trove of anonymized data: 1.5K raw data sets + 10K image data sets…
+1066751422899859500,Sun Nov 25 17:52:13 +0000 2018,RT @DanielSodickson: From Dr. Recht's visionary annual oration in diagnostic radiology at #RSNA18, here is a start on large, curated public…
+1066751088035094500,Sun Nov 25 17:50:53 +0000 2018,RT @DanielSodickson: Francis Bacon, 1597: Knowledge itself is power. Michael Recht #RSNA18: Data translates into power.  Some power newly i…
+1064916979000193000,Tue Nov 20 16:22:47 +0000 2018,RT @YichuanZhang_: Here is a new statistical inference principle after variational inference and Markov chain Monte Carlo. This inference p…
+1063424804760559600,Fri Nov 16 13:33:25 +0000 2018,RT @polonium_org: Stanisław Jastrzębski from the @JagiellonskiUni explaining how neural networks begin to learn things. What happens in the…
+1062841500076331000,Wed Nov 14 22:55:34 +0000 2018,Eric Kim (@EricKimMD) won a Roadie award for his @RSNA 2018 abstract on our work on breast density classification w… https://t.co/3ZOyZex5dp
+1062779964574101500,Wed Nov 14 18:51:03 +0000 2018,@EricKimMD @NYURadiology @DrLindaMoy @AuntMinnie The article on the abstract says it's 200,000 mammograms but it's… https://t.co/uEG8xlJ0TF
+1062755551048798200,Wed Nov 14 17:14:03 +0000 2018,RT @EricKimMD: Excited to have been awarded the Roadie 2018 award for one of my abstracts at RSNA this year! #rsna #radiology #radres @NYUR…
+1062143703987429400,Tue Nov 13 00:42:47 +0000 2018,RT @ylecun: That's cute: ConvNet... https://t.co/C7Tljsi1yQ
+1062018306377424900,Mon Nov 12 16:24:30 +0000 2018,RT @roydanroy: Any optimization experts out there willing to weigh in?  https://t.co/tG1JsqGLOg https://t.co/Kx4lQ2bIaL
+1061734932865802200,Sun Nov 11 21:38:28 +0000 2018,What would be the most appropriate references which showed that neural network optimization landscapes have more sa… https://t.co/usoFH6fUE0
+1060996268758106100,Fri Nov 09 20:43:17 +0000 2018,@harvardnlp @tallinzen @shaohua0116 @Smerity @sleepinyourhat Interesting idea. On top of what others said, I would… https://t.co/sxiwz7g4FV
+1060199257217622000,Wed Nov 07 15:56:15 +0000 2018,RT @KyleCranmer: Job alert: Faculty Fellow @NYUDataScience. An extension of the Moore-Sloan Data Science Fellows program, which has been a…
+1059847559609507800,Tue Nov 06 16:38:43 +0000 2018,Jeśli ktoś chciałby pracować przez rok w mojej grupie nad explainable AI (https://t.co/DB9Wn3F87j) lub ML dla obraz… https://t.co/gcSjA4vIGK
+1059496657933553700,Mon Nov 05 17:24:22 +0000 2018,RT @iclr2019: ICLR Update: Most reviews are now in. Our plan is to release reviews to authors this evening, Nov 5th, to begin our extended…
+1058366328573251600,Fri Nov 02 14:32:50 +0000 2018,@mmjb86 @_rockt @iclr2019 I can see more reviews now, so I think I was right. I am not sure if it is a good idea to… https://t.co/qsBaA1iznD
+1058070740589822000,Thu Nov 01 18:58:17 +0000 2018,@mmjb86 @_rockt @iclr2019 Maybe it's a bug. @iclr2019, should I see other people's reviews after I submit mine?
+1058024205546065900,Thu Nov 01 15:53:22 +0000 2018,@_rockt @iclr2019 I think so. After I submitted my review, I can see another review that I can't see when I am not… https://t.co/2Q2p6KUQI9
+1058022366285062100,Thu Nov 01 15:46:03 +0000 2018,It is less than 2 days before the @iclr2019 review deadline. For most papers I reviewed so far, I was the first one… https://t.co/GVYa9LI0Vk
+1058015333292875800,Thu Nov 01 15:18:07 +0000 2018,RT @zhansheng: Come see our poster! @iwontbecreative #emnlp2018 #conll2018 https://t.co/O4Xz0UJ3fU
+1057380363302002700,Tue Oct 30 21:14:58 +0000 2018,Eric will talk at @RSNA about our work on classifying breast density with deep learning.  Related paper:… https://t.co/zojH1EYGIH
+1056688948817342500,Sun Oct 28 23:27:32 +0000 2018,@DrLindaMoy talking about our work on breast cancer screening with deep learning at @ISMRM workshop on machine lear… https://t.co/f1q1ZjcLrA
+1053347151722496000,Fri Oct 19 18:08:25 +0000 2018,RT @ProfFeynman: Being wrong isn't a bad thing like they teach you in school. It is an opportunity to learn something. https://t.co/YrNW7JH…
+1052282311499292700,Tue Oct 16 19:37:08 +0000 2018,If you are coming to the #i2iworkshop on Thursday, please come to our poster.  It's based on this paper on predicti… https://t.co/O8XaM9aQWS
+1052201422522060800,Tue Oct 16 14:15:42 +0000 2018,RT @cai2r: A few spots are still open for the #i2iworkshop evening events! Online registration will close tonight at 6:00 p.m., New York ti…
+1051479821346369500,Sun Oct 14 14:28:19 +0000 2018,Another great conference in Poland! https://t.co/faX9jfmRPS
+1049388228841787400,Mon Oct 08 19:57:05 +0000 2018,Yes, @NipsConference has a party chair :). https://t.co/BvdGFBVDCf
+1048712178667323400,Sat Oct 06 23:10:42 +0000 2018,I will be speaking at this conference. I attended it two years ago and enjoyed it tremendously. The beautiful city… https://t.co/yIa4QOKVeY
+1046879520035356700,Mon Oct 01 21:48:22 +0000 2018,Excellent opportunity! https://t.co/DXYqJH9zvL
+1046430106959384600,Sun Sep 30 16:02:33 +0000 2018,Team trip #2. https://t.co/HtnwHNcP3z
+1042796220102717400,Thu Sep 20 15:22:47 +0000 2018,RT @NYUDataScience: Check out our latest blog post! An interview with Dr. Brian McFee, who recently became an Assistant Professor of Music…
+1036622942304710700,Mon Sep 03 14:32:23 +0000 2018,RT @RandomlyWalking: New blog on how to manage stress as a researcher: If you really are an impostor, it's not a syndrome. https://t.co/FuN…
+1035398789975232500,Fri Aug 31 05:28:02 +0000 2018,RT @ylecun: First PyTorch developer conference: Oct 2 in San Francisco. https://t.co/16AWt34bSf
+1035242994746699800,Thu Aug 30 19:08:58 +0000 2018,RT @PL_in_ML: If you have a great story about the practical use of machine learning, you are perfect for our Call for Talks!  https://t.co/…
+1034820739357179900,Wed Aug 29 15:11:04 +0000 2018,RT @_rockt: I had the pleasure to co-supervise outstanding MSc students jointly with Jakob Foerster (@j_foerst) and Greg Farquhar (@greg_fa…
+1034576411770675200,Tue Aug 28 23:00:12 +0000 2018,Woohoo! In addition to my position at @NYURadiology I am now also an affiliate faculty member at @NYUDataScience.
+1033793002928590800,Sun Aug 26 19:07:13 +0000 2018,Konrad Żołna is going to present a poster on "Classifier-agnostic saliency map extraction" at @SymposiumAi. Please… https://t.co/q35yyD0VGF
+1033098896338243600,Fri Aug 24 21:09:05 +0000 2018,RT @SymposiumAi: The list of accepted papers is now online: https://t.co/dgJPjv8i16 Congratulations to the authors!
+1033096817624444900,Fri Aug 24 21:00:49 +0000 2018,RT @NYUDataScience: Interested in working at one of the top Data Science centers in the country?! NYU CDS seeks exceptional candidates for…
+1032350291205738500,Wed Aug 22 19:34:24 +0000 2018,RT @LakeBrenden: I'm excited that my lab at NYU has two new postdoc positions available immediately! Seeking candidates to work at the inte…
+1032284067415449600,Wed Aug 22 15:11:15 +0000 2018,RT @PL_in_ML: The second edition of PL in ML conference is confirmed! Find out more: WWW: https://t.co/FOvNrpynzC FB: https://t.co/LFtgD8l7…
+1031959885464961000,Tue Aug 21 17:43:04 +0000 2018,RT @jhnhw: First 1e6 integers, represented as binary vectors indicating their prime factors, and laid out using the sparse matrix support i…
+1031939418821718000,Tue Aug 21 16:21:44 +0000 2018,RT @gg1729: Only just learnt python for loops have an else clause: https://t.co/Tf1oxbuUrx
+1031586032679043100,Mon Aug 20 16:57:30 +0000 2018,Exciting times to be at the NYU School of Medicine! https://t.co/mZkESDgfFb
+1030136956741673000,Thu Aug 16 16:59:24 +0000 2018,RT @nyulangone: .@nyuschoolofmed has some exciting news to share: All current and future MD degree program students will be receiving full-…
+1030130557009756200,Thu Aug 16 16:33:58 +0000 2018,RT @narges_razavian: Proud of Jingshu Liu and Zachariah Zhang at @NYUDataScience and @nyulangone, for Publishing "Deep EHR: Chronic Disease…
+1027592306373931000,Thu Aug 09 16:27:52 +0000 2018,I've got great news! As soon as Stanisław Jastrzębski (@kudkudakpl) graduates, he is going to join our group as a p… https://t.co/4kYWrQkrJv
+1027175813458931700,Wed Aug 08 12:52:52 +0000 2018,Mój wykład na UW (po polsku):   https://t.co/4LRD0AHvq6
+1024733689878593500,Wed Aug 01 19:08:44 +0000 2018,RT @NYUDataScience: Teaching computers to identify the most dominant feature of an image has proved a difficult task– but one that just got…
+1024301799182876700,Tue Jul 31 14:32:34 +0000 2018,RT @ChrisFiloG: Why science is broken: (1) Don't replicate - "innovate". (2) Don't bother with sharing tools, data, scripts - just publish…
+1023951154542248000,Mon Jul 30 15:19:13 +0000 2018,@lopusz Dobre pytanie. Też nie mogę znaleźć tego znaleźć. Zakładam, że to będzie w jednej z sal przy głównych schod… https://t.co/dAlzNTh8yG
+1023919637912866800,Mon Jul 30 13:13:59 +0000 2018,Jutro wieczorem na UW, będę mówił o mojej wspólnej pracy z Konradem Żołną (UJ) i Kyunghyunem Cho (NYU) "Classifier-… https://t.co/MDTECHsSpV
+1020490789342851100,Sat Jul 21 02:08:58 +0000 2018,@RandomlyWalking How different scientific communities have so different ideas on how the whole publication system s… https://t.co/nci3pbwTrM
+1020485694395953200,Sat Jul 21 01:48:43 +0000 2018,I just submitted my first grant application on my own. That was tough, even though I am excited about what I proposed!
+1019729852130381800,Wed Jul 18 23:45:17 +0000 2018,RT @ylecun: ICLR 2019 will take place in New Orleans.  Here is the call for papers. Submission deadline: September 27.  https://t.co/i71Qad…
+1018943536102862800,Mon Jul 16 19:40:44 +0000 2018,RT @kudkudakpl: Our paper on understanding DNN's loss surface curvature during training is finally on arXiv: https://t.co/ovNho5DQLW :) We…
+1018686340471427100,Mon Jul 16 02:38:44 +0000 2018,RT @tdietterich: Every time we read a great paper, we should tweet or blog about it. This would be particularly valuable for researchers wh…
+1017190214366908400,Wed Jul 11 23:33:40 +0000 2018,@DrHughHarvey @kchonyc @DrLindaMoy @KheironMedical k.j.geras@nyu.edu
+1017189745695363100,Wed Jul 11 23:31:48 +0000 2018,@DrHughHarvey @kchonyc @DrLindaMoy @KheironMedical Can you shoot me an email? I don't seem to be able to find yours.
+1016814634140094500,Tue Jul 10 22:41:14 +0000 2018,We (myself, @kchonyc, @DrLindaMoy and S. Gene Kim) are looking for a postdoc to join our efforts in developing deep… https://t.co/1vHEU3PwOw
+1016799877764960300,Tue Jul 10 21:42:36 +0000 2018,RT @cai2r: We're sharing the data set of 100 anonymized knee #MRI exams that we used to train an #AI network to reconstruct images from k-s…
+1016407705572053000,Mon Jul 09 19:44:15 +0000 2018,RT @distillpub: Feature-wise transformations - A new Distill article by @dumoulinv, Ethan Perez, @nschucher, Florian Strub, @harm_devries,…
+1015442118016413700,Sat Jul 07 03:47:21 +0000 2018,RT @FNP_org_pl: NAWA prowadzi otwarty nabór ekspertów do merytorycznego oceniania wniosków dotyczących mobilności naukowców i nauczycieli a…
+1015280068103491600,Fri Jul 06 17:03:25 +0000 2018,A wise move by @radiology_rsna. https://t.co/r5lBZM0UxY
+1013946141031923700,Tue Jul 03 00:42:52 +0000 2018,@zhansheng and @jpatrickpark created a PyTorch implementation of our model for breast density classification. Enjoy… https://t.co/TJVZnR9zXw
+1012496090535428100,Fri Jun 29 00:40:53 +0000 2018,We just made the code and the model (Tensorflow and PyTorch versions) used in our paper "High-resolution breast can… https://t.co/jNhVX9Rnc3
+1009568272180793300,Wed Jun 20 22:46:47 +0000 2018,RT @ShalitUri: The recent paper out from Google, "Scalable and accurate deep learning with electronic health records", has an notable resul…
+1009202524514025500,Tue Jun 19 22:33:26 +0000 2018,RT @quantombone: It was great meeting some energetic young #Polish researchers from Warsaw at #CVPR2018. Poland needs to have a stronger pr…
+1008729566708469800,Mon Jun 18 15:14:04 +0000 2018,@wintercarver @stacewolfson @DrLindaMoy @kchonyc At this point the most accurate answer I can offer is that, sharin… https://t.co/wx7TbXvdSL
+1008011019145416700,Sat Jun 16 15:38:49 +0000 2018,We made the code and models used in our paper "Breast density classification with deep convolutional neural network… https://t.co/icByvClGYK
+1008008470367494100,Sat Jun 16 15:28:41 +0000 2018,RT @StijnImaging: Interesting Educational on Jump Starting MRI Deep Learning https://t.co/xaS07GLDra #ismrm18 #ParisMR18
+1008008171221409800,Sat Jun 16 15:27:30 +0000 2018,RT @adam_golinski: Polish meetup at ICML in Stockholm on 9th July, share with friends!  https://t.co/d15HYeUvQf
+1007095219978940400,Thu Jun 14 02:59:46 +0000 2018,RT @ylecun: An open-source ConvNet trained for mammograms.  From NYU. https://t.co/C0sviCIiTk
+1006187369710669800,Mon Jun 11 14:52:17 +0000 2018,The code we (Konrad Żołna, me and @kchonyc) used in our recent preprint "Classifier-agnostic saliency map extractio… https://t.co/dVjLlNOTDY
+1005912699979649000,Sun Jun 10 20:40:51 +0000 2018,RT @polonium_org: A dzisiaj zawitaliśmy do Nowego Jorku 🇺🇸 gdzie współorganizowaliśmy Polish #Science &amp; #Innovation Meetup! Dzięki @Koscius…
+1002585015316828200,Fri Jun 01 16:17:49 +0000 2018,@PetrosPapapa I agree. I think many of these pieces of advice are more broadly applicable.
+1002330258174042100,Thu May 31 23:25:30 +0000 2018,My first academic blog post. A personal advice on how to be a successful PhD student in machine learning. https://t.co/oHmnm4GfpF
+999457992536883200,Thu May 24 01:12:09 +0000 2018,@YadKonrad @kchonyc I'm very glad you like it! We spent many hours deciding on details of this figure :).
+999456832677695500,Thu May 24 01:07:32 +0000 2018,RT @kchonyc: let Konrad Żołna, Krzysztof Geras and me present you with a new algorithm for obtaining a saliency map extractor: https://t.co…
+990331683957338100,Sat Apr 28 20:47:27 +0000 2018,I strongly support this. Knowledge shouldn't be behind a paywall. https://t.co/ITk5JqZOGp
+989523683076124700,Thu Apr 26 15:16:45 +0000 2018,RT @NYUDataScience: We are pleased to announce that the amazing Dr. Julia Kempe has been appointed as the new director of the NYU Center fo…
+982775584416772100,Sun Apr 08 00:22:13 +0000 2018,RT @RandomlyWalking: I've been reflecting on why the work of research can be so stressful. One reason is that it's so easy to confuse our c…
+970102579496734700,Sun Mar 04 01:04:13 +0000 2018,RT @RandomlyWalking: Trying to work out why research is so stressful, and how to cope. One reason: The Tournament and the Axe. New blog: ht…
+960959076535623700,Tue Feb 06 19:31:12 +0000 2018,These results are amazing. https://t.co/WZzrNi8ZUI
+940313643438264300,Mon Dec 11 20:13:37 +0000 2017,RT @cai2r: What if a #deeplearning network had 200K mammograms to learn to classify breast density? Computer scientist @kjgeras, radiologis…
+939252479505715200,Fri Dec 08 21:56:56 +0000 2017,RT @davekale: First ever NIPS debate at #NIPS2017 The proposition on the table: interpretability is necessary for machine learning. Pro: Pa…
+936588554096074800,Fri Dec 01 13:31:26 +0000 2017,That's surprising. https://t.co/moAaXmverE
+935901145855381500,Wed Nov 29 15:59:56 +0000 2017,Couldn't agree more. I believe, hyperparameter selection is something we should pay a lot more attention to as a co… https://t.co/6IVLqf0nWF
+930829047692701700,Wed Nov 15 16:05:13 +0000 2017,RT @RandomlyWalking: For PhD applicants in computer science: A word about rankings https://t.co/XodWpelTi8
+913381395128635400,Thu Sep 28 12:34:29 +0000 2017,RT @RandomlyWalking: One more blog about arxiv and double blind reviewing (I couldn't resist) https://t.co/yJNTRzkWvb
+906234759696801800,Fri Sep 08 19:16:18 +0000 2017,RT @NYUDataScience: Learn about how CDS Prof @kchonyc, Dr. Geras, + their researchers use #NeuralNetworks to help breast cancer research. #…
+857190781576020000,Wed Apr 26 11:13:02 +0000 2017,RT @boredyannlecun: Do deep convolutions need to be deep or convolutional? Does the sun need to rise? Does bebop need to swing? #feelthelea…
+847317818395705300,Thu Mar 30 05:21:24 +0000 2017,RT @driainmurray: Toronto's new Vector Institute looks like it will be amazing. AI research with magnitude and direction. https://t.co/AEYw…
+844721001279696900,Thu Mar 23 01:22:35 +0000 2017,RT @kchonyc: Our very first result in deep learning for breast cancer screening: https://t.co/oDvjIzNWm3, https://t.co/WXECEbCZHa @NYUDataS…
+821534966672748500,Wed Jan 18 01:49:34 +0000 2017,So true. https://t.co/C4Tj56KesX
+804512637958684700,Fri Dec 02 02:28:54 +0000 2016,What an awesome workshop! https://t.co/taZatTHyYf
+787388830903042000,Sat Oct 15 20:25:00 +0000 2016,Very glad to see this happening. https://t.co/DGXqlWy2IO
+780447506538893300,Mon Sep 26 16:42:40 +0000 2016,RT @karpathy: ImageNet ILSVRC 2016 results are out https://t.co/Gj9KzvI8vh congrats to Trimps-Soushen (0.02991 error), &amp; FAIR team with 0.0…
+770719107343847400,Tue Aug 30 20:25:29 +0000 2016,RT @kchonyc: Full house (+a bunch via hangout) at the first meeting of CILVR group this year! https://t.co/q7o5CjU1TG
+761667555052388400,Fri Aug 05 20:57:50 +0000 2016,RT @ylecun: ICLR2017: April 24 to 26 in the city of Toulon in southern France.  Deadline for submissions: November 4.... https://t.co/qM6um…
+747807614638129200,Tue Jun 28 15:03:23 +0000 2016,Very good work. https://t.co/AiHVRaCfji
+746472649208008700,Fri Jun 24 22:38:43 +0000 2016,RT @hugo_larochelle: Looks like a really nice, comprehensive review on optimization methods by Bottou, Curtis and Nocedal: https://t.co/XE6…
+727308501312118800,Tue May 03 01:27:14 +0000 2016,RT @NandoDF: Networks do have to be deep and convolutional --- Gregor Urban et al at #ICLR2016 https://t.co/nRarPzozL8
+727308501312118800,Tue May 03 01:27:14 +0000 2016,RT @NandoDF: Networks do have to be deep and convolutional --- Gregor Urban et al at #ICLR2016 https://t.co/nRarPzozL8

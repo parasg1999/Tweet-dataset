@@ -1,0 +1,877 @@
+id,created_at,text
+1260427987624788000,Wed May 13 04:33:44 +0000 2020,Good paper. https://t.co/6Mq0G8yHBy
+1258684969703993300,Fri May 08 09:07:36 +0000 2020,RT @sykp241095: PingCAP 招聘围绕着 Github 写自动化工具的实习生 #Github #PingCAP
+1255700957427429400,Thu Apr 30 03:30:12 +0000 2020,RT @nick_r_cameron: If anyone wants a 'getting started' issue with distributed transactions in TiKV (open source, distributed key-value sto…
+1255700936837619700,Thu Apr 30 03:30:07 +0000 2020,RT @chaos_mesh: Ready for some great news? 👂 Introducing `StressChaos`, a new chaos type that will 🔥burn your CPU and 😈eat your memory!  Wi…
+1255436670779957200,Wed Apr 29 10:00:01 +0000 2020,@keaising 不，造砖的，砖窑老板
+1255436330131169300,Wed Apr 29 09:58:40 +0000 2020,@keaising Be proud
+1255435529929269200,Wed Apr 29 09:55:29 +0000 2020,@keaising 我一直觉得自己和修桥铺路的挺像的
+1255435150739083300,Wed Apr 29 09:53:59 +0000 2020,@keaising 算啊 怎么不算
+1254590673581293600,Mon Apr 27 01:58:20 +0000 2020,@liufu_ty @fulhack not yet, but towards this direction.
+1254262840329769000,Sun Apr 26 04:15:38 +0000 2020,RT @hacker_news_hir: X-Ray for Your Database : https://t.co/N8sdRaMpoL #Database Comments: https://t.co/6v8GxEpciK
+1253506740940759000,Fri Apr 24 02:11:10 +0000 2020,RT @nick_r_cameron: I blogged a blog: How TiDB handles large transactions: https://t.co/Tw1gQmnjE2
+1253148656066162700,Thu Apr 23 02:28:16 +0000 2020,Check my previous tweet https://t.co/CL1EsiARHB
+1253148487824208000,Thu Apr 23 02:27:36 +0000 2020,omg...someone uses TiDB’s keyvisualizer(it is a tool for monitoring traffic on keys) to draw a picture...well done,… https://t.co/mVWqRMiMnZ
+1252197131248492500,Mon Apr 20 11:27:15 +0000 2020,@zty0826 @Haier0715 nrc 在我司工作（虽然我们已经接近用英语作为文档语言了）， 这个也算是必备技能之一。。。
+1250766244380205000,Thu Apr 16 12:41:25 +0000 2020,See u there~😀 https://t.co/LlvEVfjm6Z
+1248890391853592600,Sat Apr 11 08:27:27 +0000 2020,RT @PingCAP: Today is our 5th anniversary. The past 5 years saw #TiDB grow from inception to a production-ready #HTAP platform. However, we…
+1247720830357901300,Wed Apr 08 03:00:02 +0000 2020,@dankohn1 @amazon @WholeFoods Take care!
+1247479437446140000,Tue Apr 07 11:00:49 +0000 2020,RT @chaos_mesh: Wow I have been waiting for this book for so long, because this story included is my pre-sequel! Thank you @caseyrosenthal…
+1245563260474015700,Thu Apr 02 04:06:37 +0000 2020,RT @PingCAP: TiDB Operator v1.1.0-rc.1 is released!🥳 Some notable features are: * Allow elastic scaling of #TiDB/#TiKV by CPU usage (alpha)…
+1245563229100630000,Thu Apr 02 04:06:29 +0000 2020,RT @tikvproject: Today marks 4 years since the #TiKV project was open sourced.  What TiKV is today should be credited to the incredible com…
+1245239463392850000,Wed Apr 01 06:39:58 +0000 2020,TiUP: TiUP is a component manager for TiDB https://t.co/AB5dZRqWsC
+1245169407623458800,Wed Apr 01 02:01:35 +0000 2020,RT @PingCAP: 📣Introducing `AUTO_RANDOM`, a new column attribute in #TiDB v3.1 to make #TiDB automatically assign random integers to the pri…
+1244480316032471000,Mon Mar 30 04:23:23 +0000 2020,RT @_rsc: Thrilled that Go has popularized pprof, a fantastic cross-language tool!  Pprof was written by Sanjay Ghemawat in 2001, in C++ fo…
+1244442976299839500,Mon Mar 30 01:55:00 +0000 2020,RT @dxhuang: @oytyafln @siddontang hahaha, interesting! Let me take a look, and thank you for sharing😉
+1244442937234043000,Mon Mar 30 01:54:51 +0000 2020,@oytyafln @siddontang hahaha, interesting! Let me take a look, and thank you for sharing😉
+1243072906214563800,Thu Mar 26 07:10:50 +0000 2020,@WADeptHealth Thank you for your hard work! Let me know how we can help! Ed, Co-founder and CTO at PingCAP for… https://t.co/vkksp7I57m
+1241906427817427000,Mon Mar 23 01:55:40 +0000 2020,我想滑雪去。。。。今年整个雪季都浪费掉了。。。5555 https://t.co/BRVOWq7cU6
+1241557237434220500,Sun Mar 22 02:48:07 +0000 2020,RT @tikvproject: 📢 Shout out to @gsoc applicants!  We've already started receiving #GSoC 2020 proposals. @CloudNativeFdn Wanna take this ch…
+1241317491990646800,Sat Mar 21 10:55:27 +0000 2020,@liprais 是啊 我看到你正在review tidb的代码 有没有兴趣到community里面一起改进 可以在slack里面say个hi
+1241310708471488500,Sat Mar 21 10:28:29 +0000 2020,@liprais 感谢指出，这个地方确实不太优雅，这就去改
+1241258617921089500,Sat Mar 21 07:01:30 +0000 2020,@ifesdjeen It seems a Chinese press bought the copyright from O'Reilly, and my friend is one of the translators.
+1241244337922396200,Sat Mar 21 06:04:46 +0000 2020,Reviewing the Chinese version of &lt;&lt;Database Internals&gt;&gt;, so happy to offer my help on bringing this book to Chinese… https://t.co/Qn3WvBGwQs
+1241204075221250000,Sat Mar 21 03:24:46 +0000 2020,RT @PingCAP: #UsabilityChallenge Sometimes workloads in TiDB experience read/write hotspots.  A diagnostic rule to suggest hot regions in t…
+1239021678207721500,Sun Mar 15 02:52:42 +0000 2020,RT @learnk8s: chaos-mesh is a chaos engineering platform for Kubernetes. You can create chaos experiments and test the response of your clu…
+1235750785943662600,Fri Mar 06 02:15:21 +0000 2020,@ice1000kotlin DB 领域也是一样一样的
+1235749306176434200,Fri Mar 06 02:09:28 +0000 2020,RT @tikvproject: We are pleased to announce that @tikvproject has finished the #security audit from @cure53berlin with positive results🎉🥂Th…
+1235459518647005200,Thu Mar 05 06:57:57 +0000 2020,Thank you all! 😉😉 https://t.co/NCnd2pKBtk
+1235015338766372900,Wed Mar 04 01:32:56 +0000 2020,RT @PingCAP: What is a #NewSQL database and why would you use one? 🤔  If you are troubled by this question and happen to be around Wellingt…
+1234793250487062500,Tue Mar 03 10:50:26 +0000 2020,RT @dotGoEu: 🚨 IMPORTANT 🚨  It is with great sadness that we must cancel dotGo 2020 :-(  This cancellation follows the recent instructions…
+1234747735909122000,Tue Mar 03 07:49:35 +0000 2020,Skyline pruning in #TiDB https://t.co/iUvSoqkVUx
+1234691176881504300,Tue Mar 03 04:04:50 +0000 2020,#TiDB repo is only 132MB (28MB source code only), and I think we still have potential to reduce the size. https://t.co/E2N0ZbGiZ9
+1233767395476426800,Sat Feb 29 14:54:04 +0000 2020,That’s a good idea https://t.co/1zxQ7IYBaU
+1232832445772230700,Thu Feb 27 00:58:54 +0000 2020,I really enjoy coding in Go https://t.co/EDt851Oscu
+1232477290459623400,Wed Feb 26 01:27:39 +0000 2020,@zty0826 简历里写一句我是 tikv 的 committer 就足够有说服力了 哈哈哈，committer 证书收到了嘛
+1232207117567684600,Tue Feb 25 07:34:04 +0000 2020,@zty0826 +1s
+1230733287938642000,Fri Feb 21 05:57:36 +0000 2020,😉 https://t.co/g8RUMuOc8n
+1229747178630856700,Tue Feb 18 12:39:09 +0000 2020,@ShlomiNoach @github Good luck on the next adventure! 😃
+1229741027717632000,Tue Feb 18 12:14:43 +0000 2020,Congrats! My friend, @zty0826 😄   #tidb #tikv @PingCAP https://t.co/e10MtP0GsH
+1228343405874303000,Fri Feb 14 15:41:04 +0000 2020,@hareemca @PingCAP Yeah.
+1228343132284043300,Fri Feb 14 15:39:58 +0000 2020,@hareemca @PingCAP 3, I think, pd is just for metadata and it's not related to the workload.
+1228330603335995400,Fri Feb 14 14:50:11 +0000 2020,RT @PingCAP: If you are wondering how is that even possible, here is a case study from @xgsun a while ago: https://t.co/qt0QQtGrQo #distrib…
+1228329234264805400,Fri Feb 14 14:44:45 +0000 2020,Translate: Maybe it's the largest single TiDB cluster in the world: 168 TiKV instances / 21 TiDB / 1.82 trillion ro… https://t.co/RSHUxtbo3Z
+1227087095627300900,Tue Feb 11 04:28:56 +0000 2020,@ant_sz @Haier0715 好呀 有机会的
+1227051429732335600,Tue Feb 11 02:07:13 +0000 2020,RT @PingCAP: #PaperReading  Do fast analytical queries and high get/put throughput sound conflicting for a Key-Value Stores? This paper fro…
+1227050221114253300,Tue Feb 11 02:02:24 +0000 2020,@Haier0715 哈哈哈，我尽量去 (我现在在北京家中...
+1226873913390428200,Mon Feb 10 14:21:49 +0000 2020,:) See u in Amsterdam https://t.co/aSG1bTK8Ue
+1226767281092354000,Mon Feb 10 07:18:06 +0000 2020,Love it, and just added some papers I love. https://t.co/eBHZBstlQG
+1226737304317751300,Mon Feb 10 05:18:59 +0000 2020,RT @learnk8s: chaos-mesh is a chaos engineering platform for Kubernetes. It has the following components:  - Chaos Operator - Chaos Dashboa…
+1225724038485463000,Fri Feb 07 10:12:38 +0000 2020,Thank you! We will try our best to make it happen. https://t.co/VvFKiSp9en
+1224656490033639400,Tue Feb 04 11:30:34 +0000 2020,👍👍 https://t.co/OLIneo9bpU
+1223806311063646200,Sun Feb 02 03:12:16 +0000 2020,@MarkCallaghanDB 1. Async 2. I think Primary here means one of the 6 copies. So, when Aurora claims it supports up… https://t.co/qyHiPdJiIU
+1223465067166883800,Sat Feb 01 04:36:17 +0000 2020,@MarkCallaghanDB Great article! In addition, I would say replication and consensus algorithm is sometimes not only… https://t.co/RCE73wnOys
+1223083468600430600,Fri Jan 31 03:19:57 +0000 2020,RT @PingCAP: Feel Rust compile time is bad? @rustlang You are not alone. One of Rust's original authors, Brian Anderson, could not agree mo…
+1222381046479507500,Wed Jan 29 04:48:46 +0000 2020,@kevinsxu @oytyafln @PingCAP But that's good one indeed, LOL 😂😂😂😂 classic google translate joke :)
+1222378522808701000,Wed Jan 29 04:38:45 +0000 2020,@oytyafln @kevinsxu @PingCAP Haha! Kudos to Google :)
+1222348623922360300,Wed Jan 29 02:39:56 +0000 2020,LOL https://t.co/2Cx1Sw6V8A
+1218138100905332700,Fri Jan 17 11:48:49 +0000 2020,RT @chaos_mesh: Thanks @PierreZ for letting me create "chaos" in @FoundationDB on #K8s using  @golang #YCSB! It feels great to explore a ne…
+1214413238374240300,Tue Jan 07 05:07:33 +0000 2020,@keaising @hachetw 感谢理解。你一定要相信，我也很愁的。
+1212576698224365600,Thu Jan 02 03:29:48 +0000 2020,I think MySQL DBA would like this feature :) https://t.co/Odj2A2Ag8E
+1212575345972400000,Thu Jan 02 03:24:25 +0000 2020,RT @PingCAP: #HappyNewYear2020 💝Last day of 2019 saw 10,000+ commits in the #TiDB repository on GitHub! This milestone marks all our contri…
+1212575216288714800,Thu Jan 02 03:23:54 +0000 2020,RT @chaos_mesh: Hello World😀! I am Chaos Mesh, a cloud-native, visualized and easy-to-use #chaosengineering platform. I am open-sourced tod…
+1211933284592017400,Tue Dec 31 08:53:06 +0000 2019,😀 https://t.co/QsuQjlFwh5
+1209277306331492400,Tue Dec 24 00:59:11 +0000 2019,@yanqingdw 我也想滑雪，今年雪季还没有周末不在出差的😭😭
+1209277101607534600,Tue Dec 24 00:58:22 +0000 2019,@yanqingdw 你太瘦了...
+1208390478766297000,Sat Dec 21 14:15:15 +0000 2019,RT @PingCAP: #PaperReading  LI Zejun shared Adaptive Replacement Cache, a caching algorithm that dynamically, adaptively and continually ba…
+1205624386855694300,Fri Dec 13 23:03:47 +0000 2019,RT @PingCAP: #BestPractices  It matters to leverage fully the capacity of all nodes in scenarios of highly-concurrent write for distributed…
+1204169546992693200,Mon Dec 09 22:42:47 +0000 2019,@MarkCallaghanDB @DavidDaly44 @h_ingo Congrats!
+1203005878258913300,Fri Dec 06 17:38:46 +0000 2019,RT @nick_r_cameron: I've been working on a new style guide for writing @rustlang code. It's open source and work-in-progress. Take a look a…
+1202664013861015600,Thu Dec 05 19:00:19 +0000 2019,😉 https://t.co/g8oHOn95H9
+1202385686919147500,Thu Dec 05 00:34:21 +0000 2019,NetEase Games is one of the biggest gaming companies all over the world, this post shows why and how they use TiDB,… https://t.co/ghXBYf0Pul
+1199474377911222300,Tue Nov 26 23:45:51 +0000 2019,Cool! https://t.co/t56udL4qch
+1197262185602240500,Wed Nov 20 21:15:23 +0000 2019,@frankobe 好呀 晚上大概6:30以后会场见吧
+1197257161828487200,Wed Nov 20 20:55:25 +0000 2019,@frankobe Still here today?
+1197207678147158000,Wed Nov 20 17:38:48 +0000 2019,I really like this feature -&gt; Using SQL to profile and directly obtain flamegraph in TiDB 😉, usability matters! https://t.co/9psjo2bSJK
+1196970296948871200,Wed Nov 20 01:55:32 +0000 2019,when ./configure; make; make install without any warning and error. https://t.co/2sTH69KByV
+1196954881505947600,Wed Nov 20 00:54:16 +0000 2019,@edwardpku 会的
+1196912784597868500,Tue Nov 19 22:07:00 +0000 2019,@gengmao Nop, not this time.
+1196862543421010000,Tue Nov 19 18:47:21 +0000 2019,@hackintoshrao @hi_balaji See u there!
+1196854434245968000,Tue Nov 19 18:15:08 +0000 2019,Feel free to say hi to me if you’re in KubeCon San Diego! I am wearing TiDB shirt, you will not miss 😂😂 https://t.co/wFSegp03NN
+1195940104998514700,Sun Nov 17 05:41:55 +0000 2019,RT @PingCAP: How to build an in-browser relational database?  ✔️ An SQL #datatbase written in #Golang ✔️ #WebAssembly ✔️ And this blog: htt…
+1195135157088477200,Fri Nov 15 00:23:20 +0000 2019,@petermattis @asatarin @JordanALewis @CockroachDB Looking forward to it!
+1195133427730632700,Fri Nov 15 00:16:28 +0000 2019,RT @PingCAP: At @PingCAP, we are committed to building a developer-friendly community, starting from documenting guidelines to help write c…
+1194758212068630500,Wed Nov 13 23:25:29 +0000 2019,Imagine that if it's a few years ago, I told my friends, having an ESC key would be one of the biggest selling poin… https://t.co/ioAVHWY48J
+1194346698245468200,Tue Nov 12 20:10:17 +0000 2019,RT @Percona: Warning: EXT4 Disk performance issues are slowing down databases on the latest Linux releases. Here's what you need to know. h…
+1194043694287970300,Tue Nov 12 00:06:15 +0000 2019,😉Great book! @ifesdjeen @therealdatabass https://t.co/Cow8OVE0uH
+1193989918575321000,Mon Nov 11 20:32:34 +0000 2019,@toshi_pp Yes, you can.
+1193665346747547600,Sun Nov 10 23:02:50 +0000 2019,@nick_r_cameron @tikvproject Hahaha, that’s a good one :)
+1192889701717434400,Fri Nov 08 19:40:42 +0000 2019,@ssougou @h_ingo Wow, just three days ago, we're chatting in the US, and now you're in Moscow :)
+1192888854937628700,Fri Nov 08 19:37:20 +0000 2019,Wow, thanks @DatabaseDaily , as a subscriber for a long time, and it’s really great to see our project in the newsl… https://t.co/DbUOX9GOTB
+1192629073131888600,Fri Nov 08 02:25:03 +0000 2019,@cherylnatsu @AstroProfundis 我就是受害者！xps哪哪都满意 就是内存太小
+1192622939394343000,Fri Nov 08 02:00:41 +0000 2019,@Vivian_zly7755 I think JD is also a huge user of TiKV
+1192621561267642400,Fri Nov 08 01:55:12 +0000 2019,@Vivian_zly7755 Why not TiKV @JD😄
+1192576456309653500,Thu Nov 07 22:55:58 +0000 2019,Small Datum: Index+log - an alternative to LSM https://t.co/X7F2iJiF2V
+1192530031697784800,Thu Nov 07 19:51:30 +0000 2019,@kellabyte Maybe you should check out TiDB, https://t.co/mTcOATNIiZ
+1192116291097596000,Wed Nov 06 16:27:26 +0000 2019,Mark https://t.co/D0ZfRE4qCV
+1192112690283438000,Wed Nov 06 16:13:08 +0000 2019,Kudos to TiDB-Wasm! Can't wait to see the possibilities brought to the #TiDB ecosystem by the #opensource community… https://t.co/OQRC3jyPLl
+1191858941161902000,Tue Nov 05 23:24:49 +0000 2019,@shenli3514 Yes, but I don't think it's convincing (to me), just showed a comparion of 1 writer vs 2 writers, but t… https://t.co/7aCHfZKEBi
+1191840319127441400,Tue Nov 05 22:10:50 +0000 2019,@MarkCallaghanDB and RocksDB is popular :)
+1191840012553179100,Tue Nov 05 22:09:36 +0000 2019,typical use case: continuous HA for single-writer mode. to avoid conflicts, perfer partioning writes to per table (… https://t.co/mbJHtcypvL
+1191838797249400800,Tue Nov 05 22:04:47 +0000 2019,Just listened to @jstnlvndski 's great talk about Multi-Master of Aurora, some quick notes: 10GB page, OCC-style tr… https://t.co/u42K10AgZ4
+1191788561416085500,Tue Nov 05 18:45:10 +0000 2019,This post was actually written ~3 years ago (in Chinese) when I started the TiKV project. I didn't even describe ra… https://t.co/onR1iSPjno
+1191785983827558400,Tue Nov 05 18:34:55 +0000 2019,Congrats, my friend :) https://t.co/jLvFhI4ErG
+1191520198827769900,Tue Nov 05 00:58:47 +0000 2019,My post about large scale Raft-based storage system is on HN front page!!🥳🥳🥳😉😉@ongardie https://t.co/X7l6xXiigM
+1191445301912993800,Mon Nov 04 20:01:10 +0000 2019,RT @siddontang: Want Rust program to profile itself? Try https://t.co/GXDQBMWe9P - a pure Rust CPU profiler. #rustlang #ThisWeekInRust
+1191224955150585900,Mon Nov 04 05:25:35 +0000 2019,@nobuhatano wow...this is the first time I notice you speak Japanese...
+1191147852551975000,Mon Nov 04 00:19:13 +0000 2019,RT @siddontang: Reading "Database Internals" #therealdatabass and find it awesome! Strongly recommend for those whoever wants to understand…
+1191085799380377600,Sun Nov 03 20:12:38 +0000 2019,Heading to HTPS19!😀😀🥳🥳 https://t.co/aZy94e1tHy
+1191082305906806800,Sun Nov 03 19:58:45 +0000 2019,TLA+ specification for TiDB 3.0 pessimistic transaction algorithm =&gt; https://t.co/nKQDlmSj2f
+1190326069200478200,Fri Nov 01 17:53:44 +0000 2019,Thank you for creating this, Rust rocks! 😎 https://t.co/Mohb9udvDV
+1190292717349134300,Fri Nov 01 15:41:13 +0000 2019,See u there :) https://t.co/wWFpm50qb2
+1189898156118442000,Thu Oct 31 13:33:22 +0000 2019,👍 https://t.co/nCGKRa0nl5
+1189873630399778800,Thu Oct 31 11:55:54 +0000 2019,@gen_server 还有标准库的IO相关包，很简洁很好用
+1188852206801305600,Mon Oct 28 16:17:08 +0000 2019,#TiDB hackathon 2019 was magic! First-prize winner Unified Thread Pool, improves TiDB's performance in some Sysbenc… https://t.co/uvs8bdfyV8
+1188676038487752700,Mon Oct 28 04:37:06 +0000 2019,RT @PingCAP: First prize goes to “Unified Thread Pool” which uses a self-adaptive unified thread pool in @tikvproject  to process the reque…
+1187922579681509400,Sat Oct 26 02:43:08 +0000 2019,RT @JuneHua71214380: Day 1 of #TiDB Hackathon 2019  Our CTO announced the start of "Happy Hacking" @PingCAP   Look forward to cool stuff!…
+1187687385078747100,Fri Oct 25 11:08:33 +0000 2019,40 teams, 120 ppl, TiDB Rocks :) https://t.co/hBLMgNQVXC
+1187215456135893000,Thu Oct 24 03:53:16 +0000 2019,So true. LOL https://t.co/tfj9U00LDZ
+1187209493878198300,Thu Oct 24 03:29:35 +0000 2019,RT @tikvproject: Last night @PingCAP transferred raft-rs, grpcio, rust-prometheus, rust-rocksdb, and fail-rs to the TiKV github org!  Huge…
+1186188195920150500,Mon Oct 21 07:51:18 +0000 2019,@zty0826 Right, using Kv, SQL seems a overkill to this scenario
+1186162723286990800,Mon Oct 21 06:10:05 +0000 2019,Just want to build a Firebase API layer for TiKV
+1185372942063915000,Sat Oct 19 01:51:47 +0000 2019,@ManishEarth @nick_r_cameron True, that's why I got a Google Fi :)
+1185369096428245000,Sat Oct 19 01:36:30 +0000 2019,@nick_r_cameron Hahaha, company VPN can help you :), but if you want to treat this as a special experience, that's OK
+1184862235383890000,Thu Oct 17 16:02:25 +0000 2019,RT @googollee: #AirOnGNews https://t.co/Gz4CmcJUhu 【TiDB@丰巢】支付平台的迁移之旅 细节很多的一篇文章，详细讲了丰巢迁移数据库的原因，方案选择的过程，实施细节以及中间遇到的问题。一些思路和选择并不局限于TiDB，可以参考到…
+1184771135696588800,Thu Oct 17 10:00:25 +0000 2019,@googollee Tokyo
+1184739699438473200,Thu Oct 17 07:55:30 +0000 2019,Just gave a talk about TiDB at the home of Spanner 😂 https://t.co/KWsctB1sgx
+1184644687535034400,Thu Oct 17 01:37:57 +0000 2019,@nick_r_cameron Three days, till next Wednesday
+1184640997227020300,Thu Oct 17 01:23:17 +0000 2019,I will be there too :) https://t.co/rVAgZB9pTX
+1184640958631010300,Thu Oct 17 01:23:08 +0000 2019,RT @nick_r_cameron: Are you in Shanghai this weekend? I'll be giving a talk at the PingCAP infra meetup. https://t.co/PHERO7Rv8S 赵磊 will be…
+1173643253641429000,Mon Sep 16 17:02:11 +0000 2019,Thrilled to finally meet @ericabrescia  and the team from @github in our Shanghai office and briefly introduced the… https://t.co/8MWU9d1kkT
+1165834904044630000,Mon Aug 26 03:54:35 +0000 2019,RT @Que8eny: TiKV Browser：inspect key-values in  a browser #TiKV @tikvproject @bsdelf  https://t.co/ANmw6uuq5P
+1164724780991299600,Fri Aug 23 02:23:21 +0000 2019,@ajlopez Thank you for sharing.
+1164682500628607000,Thu Aug 22 23:35:21 +0000 2019,RT @PingCAP: The front-page of Zhihu (Chinese Quora) recommends you-might-like posts to its 220 million users without repeating the "alread…
+1163971664104661000,Wed Aug 21 00:30:44 +0000 2019,RT @PingCAP: Don't forget to join us tomorrow to learn more about TiDB 3.0 during our live webinar. Register here! https://t.co/ksoTAq5Xxb
+1163614453734101000,Tue Aug 20 00:51:19 +0000 2019,@a_hoverbear I have one Debian laptop , but an old one, I think it’s time to upgrade it.
+1163560310155776000,Mon Aug 19 21:16:10 +0000 2019,.....the most annoying thing 🤬 https://t.co/4ww8faRonD
+1162256277101170700,Fri Aug 16 06:54:24 +0000 2019,RT @kevinsxu: Really 💕 @monkchips keynote at #DevOpsWorld driving a powerful much-needed message for better inclusion to build a 100m devel…
+1162047110654484500,Thu Aug 15 17:03:15 +0000 2019,@gaocedidi 有机会来我们北京或者上海office面基，我给你
+1159833461575700500,Fri Aug 09 14:27:00 +0000 2019,@ice1000kotlin Okie...
+1159568078771904500,Thu Aug 08 20:52:28 +0000 2019,@ice1000kotlin Cool, where?
+1159564179151343600,Thu Aug 08 20:36:58 +0000 2019,Also @CloudNativeFdn https://t.co/66uHCGYD4d
+1159564000767565800,Thu Aug 08 20:36:16 +0000 2019,RT @nick_r_cameron: Introducing a new newsletter about @tikvproject : This Month in TiKV. The first issue (July) is up now at https://t.co/…
+1159177853570674700,Wed Aug 07 19:01:51 +0000 2019,RT @tikvproject: Our contributor, @nick_r_cameron , recently wrote about how he migrated our Rust Client to the new Futures 0.3 version fro…
+1158237276431716400,Mon Aug 05 04:44:20 +0000 2019,RT @hochgenuss: The second part of my blog series on doing @PingCAP's Practical Networked Applications in Rust course is up! https://t.co/L…
+1153847776129634300,Wed Jul 24 02:02:01 +0000 2019,@gnukix @PingCAP Yeah, you're right, AUTO_INCREMENT is not good for TiDB. and if your backup data is in MyDumper fo… https://t.co/OIxnEsZhN8
+1153553603732238300,Tue Jul 23 06:33:05 +0000 2019,@gnukix @PingCAP Can you share more information with us? Maybe we can help you tuning, make sure everything goes well.
+1152153252483358700,Fri Jul 19 09:48:36 +0000 2019,RT @tikvproject: TiKV reaches 3.0 GA!  Our open source, distributed transaction key-value store is now even more steady at scale and has a…
+1152060457907212300,Fri Jul 19 03:39:52 +0000 2019,RT @sykp241095: PingCAP 招聘 Golang 方向工具研发、SRE、DevOps，Base 地：北京、上海、杭州、广州、深圳、成都都可以。
+1151701490244804600,Thu Jul 18 03:53:27 +0000 2019,RT @a_hoverbear: When you get to write the release announcement. 😁 https://t.co/qnTBnOmJxE
+1150594242852446200,Mon Jul 15 02:33:39 +0000 2019,TiDB Operator v1.0.0-rc.1 released!  https://t.co/ReqVR4A8jR
+1149578357215907800,Fri Jul 12 07:16:53 +0000 2019,RT @RocksDB: Yi Wu from @PingCAP talking about using Guards to optimize RocksDB compaction IO #meetup https://t.co/O8bh6jjvUm
+1148240985299673100,Mon Jul 08 14:42:38 +0000 2019,Benchmark, not benchmarketing. https://t.co/yZXHJwFqCK
+1144825035921621000,Sat Jun 29 04:28:53 +0000 2019,🥳 TiDB 3.0 GA! 3.0 GA is a milestone release. Contributors, users, PingCAPers, thank you all, ❤️ you. https://t.co/HukCey0gyw
+1143511832507719700,Tue Jun 25 13:30:40 +0000 2019,RT @thenewstack: Many thanks to @pingCAP’s @kevinsxu for joining us on today’s livestream! https://t.co/AFJ30KbLAW
+1141918134942650400,Fri Jun 21 03:57:53 +0000 2019,RT @PingCAP: NEW BLOG POST on some best practices for developing applications with TiDB. Lots of technical know-hows for DBAs, infrastructu…
+1141915149780938800,Fri Jun 21 03:46:02 +0000 2019,June 26, 2019, FaunaDB😃 https://t.co/yZRDMoJSVD
+1141580330463199200,Thu Jun 20 05:35:34 +0000 2019,RT @kevinsxu: Thanks @thenewstack for publishing my observation of the emergence of the #KOST stack (#Kubernetes #Operator #Spark #TiDB) to…
+1141580303154044900,Thu Jun 20 05:35:28 +0000 2019,RT @PingCAP: #TiDB's @kubernetesio Operator is on OperatorHub!  To try it out, please follow our user guide, where you can deploy on @awscl…
+1139712100958265300,Sat Jun 15 01:51:54 +0000 2019,Thank you for your awesome work, my friend :) https://t.co/TItPfWXfAW
+1139404073554157600,Fri Jun 14 05:27:54 +0000 2019,RT @RocksDB: The schedule and registration has been posted for the RocksDB Meetup @ Twitter HQ which is happening on July 11th! Can't wait…
+1139401874895822800,Fri Jun 14 05:19:10 +0000 2019,@ashihito Just feel free to contact me if you have any questions 😃
+1139400977130242000,Fri Jun 14 05:15:36 +0000 2019,@ashihito https://t.co/6W6EGR1Ryc  This is a good video tutorial for beginner  https://t.co/WyKF4b7L4S  and you can… https://t.co/okVgkmG8AA
+1139396099951624200,Fri Jun 14 04:56:13 +0000 2019,@ashihito How can I help :)
+1139395945227882500,Fri Jun 14 04:55:36 +0000 2019,@178inaba_ How can I help :)
+1138970757055168500,Thu Jun 13 00:46:04 +0000 2019,In the HN post, I wrote some feelings about this test, also with some tips for friends who want to do Jepsen test i… https://t.co/rH4Eftsqwa
+1138946359438876700,Wed Jun 12 23:09:07 +0000 2019,RT @PingCAP: We also published a companion blog post to additional context to the results: https://t.co/lA3gYKCF1Q
+1138820416263213000,Wed Jun 12 14:48:40 +0000 2019,RT @tikvproject: We'd love it if you checked out some training material we've been working on!  It's called "Practical Networked Applicatio…
+1138820356951515100,Wed Jun 12 14:48:26 +0000 2019,RT @jepsen_io: In the latest #Jepsen analysis, we worked with @pingcap to test TiDB 2.1.7 through 3.0.0-rc.2. Due to 2 transaction retry me…
+1135610134858674200,Mon Jun 03 18:12:09 +0000 2019,RT @PingCAP: ICYMI THREAD: Here are ALL the slides from #TiDB track at @Percona Live in Austin this year, starting with Keynote on TiDB 3.0…
+1134299351533203500,Fri May 31 03:23:34 +0000 2019,RT @PingCAP: And that’s a wrap! Loved seeing old friends and making new ones at #PerconaLive. Hope to see you all again soon! https://t.co/…
+1134089669090730000,Thu May 30 13:30:22 +0000 2019,RT @datanami: Off the Wire: TiDB 3.0 Officially Available for Public Preview https://t.co/r2mT5p3LVJ
+1133800022951301100,Wed May 29 18:19:25 +0000 2019,@bytebot @PingCAP @RocksDB @mariadb Thank you!
+1133795312139743200,Wed May 29 18:00:41 +0000 2019,@bytebot @PingCAP @RocksDB @mariadb Actually, we're doing official Jepsen test now, we publish the report in the near future.
+1133747496201654300,Wed May 29 14:50:41 +0000 2019,RT @Percona: Come and learn about TiDB 3.0: What's new and what's next with @dxhuang @PingCAP #PerconaLive https://t.co/g9iwuIPnUZ https://…
+1133735208094711800,Wed May 29 14:01:52 +0000 2019,RT @Percona: Don't miss @PeterZaitsev at 9:05am in Ziker as he presents The State of Open Source Databases: https://t.co/uRJ5eG9dc1 #percon…
+1133576710673317900,Wed May 29 03:32:03 +0000 2019,RT @Que8eny: @dxhuang will talk about #TiDB 3.0 tomorrow morning at 10:00 am. Feel free to join us tomorrow in the keynote session: https:/…
+1130938719878361100,Tue May 21 20:49:37 +0000 2019,Check out this post from the TiKV blog: "CNCF TOC votes to move TiKV to Incubating Status" https://t.co/qTSnKN1UEl
+1130885665485275100,Tue May 21 17:18:48 +0000 2019,:) Super! https://t.co/Gxi9EexMgI
+1130581734485942300,Mon May 20 21:11:05 +0000 2019,RT @ono_matope: “TiDB: Distributed, horizontally scalable, MySQL compatible” https://t.co/y5F5VpCfOI #TiDB
+1130189630391742500,Sun May 19 19:13:00 +0000 2019,RT @Percona: According to recent data, 48% of those in the cloud choose to self-manage their databases, but 52% were comfortable relying on…
+1129493241122832400,Fri May 17 21:05:48 +0000 2019,😁😋 https://t.co/nom2GnTNkQ
+1129484157476671500,Fri May 17 20:29:42 +0000 2019,RT @tikvproject: You're invited to our community chat!  It's a great way to get talk with other TiKV developers and users, ask questions, o…
+1129068673526747100,Thu May 16 16:58:43 +0000 2019,RT @PingCAP: Webinar Episode 3 Synchronize Data from AWS Aurora to TiDB in Real-time is starting now come and join us!  #TiDB https://t.co/…
+1129044295896457200,Thu May 16 15:21:51 +0000 2019,@asynchio @KubeCon_ @cra @dankohn1 Patpat
+1128701194119942100,Wed May 15 16:38:29 +0000 2019,Tomorrow 10am :) https://t.co/DskFNN8iqS
+1128040856739442700,Mon May 13 20:54:32 +0000 2019,rust-rocksdb: A battle-tested RocksDB client in Rust. Used by #TiKV, maintained by @PingCAP https://t.co/YbNwfeeDAD
+1126905517798936600,Fri May 10 17:43:06 +0000 2019,Highlights in 3.0-RC1: 1. RBAC  2. Support SQL Plan Management 3. Use the DP algorithm to do join reorder 4. add ve… https://t.co/s0UUOWYG8S
+1126904166482305000,Fri May 10 17:37:44 +0000 2019,TIDB 3.0 RC1 is released! We put a lot of effort into it, TiDB3 has a huge improvement in stability, performance an… https://t.co/m16SgA9PA4
+1126619637880217600,Thu May 09 22:47:07 +0000 2019,Yesterday, I said I successfully synchronized data in real-time from AWS Aurora to TiDB. In this webinar, I will sh… https://t.co/fMpszfF7CL
+1126187668499337200,Wed May 08 18:10:38 +0000 2019,RT @PingCAP: Look! #TiDB Operator is officially certified just in time for @RedHatSummit! Check it out. cc @RedHatPartners @rhc4tp #RHSummi…
+1125843181981950000,Tue May 07 19:21:46 +0000 2019,RT @Percona: At #PerconaLive this year, @PingCAP will be hosting a full track dedicated to #TiDB their open source NewSQL database with MyS…
+1125843181981950000,Tue May 07 19:21:46 +0000 2019,RT @Percona: At #PerconaLive this year, @PingCAP will be hosting a full track dedicated to #TiDB their open source NewSQL database with MyS…
+1125842040044961800,Tue May 07 19:17:14 +0000 2019,Just finished a little experiment of synchronizing data from multiple Aurora instances to one #TiDB Cluster to do r… https://t.co/45rEv3SCfK
+1125505989094957000,Mon May 06 21:01:53 +0000 2019,Thank you, @Percona  😋 https://t.co/aJUOyALt7T
+1125457725817643000,Mon May 06 17:50:06 +0000 2019,Just posted to HN: https://t.co/NSh1ZxTXmQ https://t.co/mwIDoVRVHq
+1125453815954661400,Mon May 06 17:34:34 +0000 2019,Here is a hands-on tutorial for you to have a try on your laptop: https://t.co/DS2ysWlzPO https://t.co/mwIDoVRVHq
+1125452265593102300,Mon May 06 17:28:24 +0000 2019,Today, we open-sourced our official CDC tool for TiDB, tidb-binlog: A tool used to collect and merge TiDB's binlog… https://t.co/QmMW19yqVn
+1125258579424923600,Mon May 06 04:38:46 +0000 2019,@157rahul Happy to see that! Feel free to contact me if you got any questions 😄
+1125247606576181200,Mon May 06 03:55:10 +0000 2019,tidiff: A tool to compare the result set difference of the same query in TiDB/MySQL  https://t.co/kYeFU64B9v
+1124146125840085000,Fri May 03 02:58:16 +0000 2019,RT @classyhacker: .@dxhuang we implemented batch GRPC by combining unary calls to bi-streaming calls. @PingCAP @gosv11  We had 30 % perform…
+1124085978271035400,Thu May 02 22:59:16 +0000 2019,Reminder, I will have a talk in this meetup tonight, hope to see you there. https://t.co/JoQcqdEEdB
+1124053490840612900,Thu May 02 20:50:10 +0000 2019,Had a great time in #norcaldb19, met with a lot of new/old friends from AWSAurora/FaunaDB/FoundationDB/Spanner/F1... https://t.co/c309kH6j1V
+1124024189722165200,Thu May 02 18:53:44 +0000 2019,Very interesting project (and ambitious)! A unified programming interface for Serverless services. Good job, Andy! 😀 https://t.co/d4zooCdjJ7
+1123976220524281900,Thu May 02 15:43:08 +0000 2019,Reminder: 10am today 😀 https://t.co/2QySGe8xu2
+1123603016135766000,Wed May 01 15:00:09 +0000 2019,RT @browseyourlife: Project update: We've improved image classification (now based on NASNet Mobile) and added auth to the built-in TiDB se…
+1123448649030295600,Wed May 01 04:46:45 +0000 2019,Try to Fix Two Linux Kernel Bugs While Testing TiDB Operator in K8s | PingCAP https://t.co/FUszxdagVE
+1123389556810666000,Wed May 01 00:51:56 +0000 2019,RT @PingCAP: Want to interact with the #TiDB community in real time and get all the latest news about the product? Join the TiDB Community…
+1123375548099465200,Tue Apr 30 23:56:16 +0000 2019,RT @PingCAP: Check out a wrap-up blog post of the first ever @RustConAsia, written by our wonderful intern, June Huang. @rustlang #rustlang…
+1123304587874582500,Tue Apr 30 19:14:18 +0000 2019,RT @Percona: Tomorrow! Join Percona CEO Peter Zaitsev and PingCAP Senior Product and Community Manager Morgan Tocker as they present their…
+1123292872558559200,Tue Apr 30 18:27:45 +0000 2019,@Sempr 恭喜 🎊 kubecon见
+1123292747341762600,Tue Apr 30 18:27:15 +0000 2019,RT @natfriedman: We are thrilled to welcome the Apache Software Foundation to GitHub, and we will strive to diligently and humbly serve the…
+1122939046991257600,Mon Apr 29 19:01:46 +0000 2019,In this episode, I will show how to deploy a 'production-ready' tidb-cluster in AWS, and run Sysbench on this clust… https://t.co/HmAOAz6qaz
+1122567493602517000,Sun Apr 28 18:25:21 +0000 2019,RT @PeterZaitsev: Reducing Write Amplification in RocksDB even further with Titan  Plugin  #rocksdb #tidb https://t.co/oNP3waXPQC
+1121924509257220100,Fri Apr 26 23:50:22 +0000 2019,Cute~#GopherChina https://t.co/856t9EVmBX
+1121900590307561500,Fri Apr 26 22:15:19 +0000 2019,RT @newsycombinator: Open-sourcing F14 for memory-efficient hash tables https://t.co/2iORoMTLTG
+1121555716358074400,Thu Apr 25 23:24:54 +0000 2019,👍 https://t.co/lG52Kyucdz
+1121518362205376500,Thu Apr 25 20:56:29 +0000 2019,@keaising Why not use Redis as a queue and resolve the conflicts in the application layer. TiDB, or any other relat… https://t.co/ZBmbqatZ3L
+1121515955786375200,Thu Apr 25 20:46:55 +0000 2019,RT @PingCAP: Episode 2: Deploying and Benchmarking TiDB on AWS is happening next week! Come join us to learn more about how you can easily…
+1121459753069105200,Thu Apr 25 17:03:35 +0000 2019,AWS Console is down????
+1121134817268002800,Wed Apr 24 19:32:24 +0000 2019,RT @Percona: Here's a sneak of some of the companies who will be speaking at Percona Live, Click here to reveal the full list! https://t.co…
+1120462783181619200,Mon Apr 22 23:01:59 +0000 2019,@ibuildthecloud interesting, in your case, I think CockroachDB may be a good fit, but I am not sure if it can run o… https://t.co/x3EGd84UUA
+1120453631902462000,Mon Apr 22 22:25:37 +0000 2019,@sadisticsystems Love to see the benchmark result.
+1120428697784389600,Mon Apr 22 20:46:32 +0000 2019,Introduce of io_uring IO (new AIO implementation in Linux) https://t.co/d3voZkkkH2
+1120424523659132900,Mon Apr 22 20:29:57 +0000 2019,@ibuildthecloud Maybe you can also checkout TiDB :) PingCAP Engineering Blog: https://t.co/sNNPRz5NI5
+1120358668204068900,Mon Apr 22 16:08:16 +0000 2019,RT @gosv11: .@dxhuang Co-founder and CTO of @PingCAP will be giving a lightning talk at our upcoming Meetup on May 2nd.  “TiDB is a distrib…
+1120196464976601100,Mon Apr 22 05:23:44 +0000 2019,I just spent half of my weekend on this project, very interesting. https://t.co/OgM0dTGD2H
+1119807388343656400,Sun Apr 21 03:37:41 +0000 2019,@Sempr @cofyc @PingCAP 你的话 随时啊
+1119605032108748800,Sat Apr 20 14:13:35 +0000 2019,RT @a_hoverbear: Hi RustCon! https://t.co/MAqVH884fR
+1119427786194636800,Sat Apr 20 02:29:16 +0000 2019,@killme2008 当时还有一个原因是之前一直都很喜欢rust，但是缺乏一个机会写点生产的东西
+1119303373801476100,Fri Apr 19 18:14:54 +0000 2019,Video record of the TiDB webinar yesterday. Tips: Demo starts at 29:51 😆...https://t.co/YgDtAtU1hb
+1119264979973050400,Fri Apr 19 15:42:20 +0000 2019,@Sempr @cofyc @PingCAP 太多message看漏了😆😆还好最后结果如此圆满
+1118941062767054800,Thu Apr 18 18:15:12 +0000 2019,@Jiezixiaojie 谁啊？
+1118674975831945200,Thu Apr 18 00:37:52 +0000 2019,a little nervous 😂 https://t.co/LgViLWAfHZ
+1118203097879158800,Tue Apr 16 17:22:48 +0000 2019,Finally, TiDB-operator supports 1-click deployment in AWS. #TiDB @PingCAP  ♥😎 https://t.co/SJoTVDlBwF
+1118201475971207200,Tue Apr 16 17:16:21 +0000 2019,@tikvproject Took me 1hr to compile the whole stuff......😂
+1117979521402019800,Tue Apr 16 02:34:23 +0000 2019,And welcome to the mothership :) https://t.co/aohXvN8Fpo
+1117956092896497700,Tue Apr 16 01:01:17 +0000 2019,@baloose yep，gpd pocke 2
+1117953877867786200,Tue Apr 16 00:52:29 +0000 2019,New toy, surprisingly good https://t.co/dat4jkTSwH
+1117456095008546800,Sun Apr 14 15:54:29 +0000 2019,RT @siddontang: An amazing PR https://t.co/XPWrhKg2th from the contributor. using tokio-threadpool ( @tokio_rs, @carllerche ) to reduce 14%…
+1116815287850942500,Fri Apr 12 21:28:08 +0000 2019,TLDR: 4 nodes TiKV / Stress testing result for the SELECT statement is ~40K QPS, Insert ~17K TPS / online query lat… https://t.co/87JS24Yn64
+1116813219819950100,Fri Apr 12 21:19:55 +0000 2019,I have a Xiaomi MIX 2, and very proud to see TiDB is helpful :) https://t.co/S3x4BXubAU
+1116550071519047700,Fri Apr 12 03:54:16 +0000 2019,Can't! Typo
+1116549720053149700,Fri Apr 12 03:52:52 +0000 2019,Can wait to see you guys in #KubeCon Shanghai, will be there, ask me anything about TiDB/TiKV/Distributed Systems!… https://t.co/k7ODkie0fB
+1116194949362405400,Thu Apr 11 04:23:08 +0000 2019,Failpoint: An elegant fault-injection library in Golang (by @PingCAP ) https://t.co/ISoD1yPjjD
+1116125001332080600,Wed Apr 10 23:45:11 +0000 2019,:) https://t.co/SMiY3B9vUs
+1115732703469400000,Tue Apr 09 21:46:20 +0000 2019,@googollee 拭目以待，至少对开源 partner 的态度我还是很欣赏的
+1115695129317101600,Tue Apr 09 19:17:02 +0000 2019,Idiomatic monads in Rust https://t.co/Z10JgH0yvJ
+1115661185553010700,Tue Apr 09 17:02:09 +0000 2019,RT @Alluxio: Don't miss the Global Tech Leadership Open Source Panel this Sunday feat. founders and experts of open source projects such as…
+1115357902863102000,Mon Apr 08 20:57:01 +0000 2019,@ssougou 🙋‍♂️count me in
+1115357461437767700,Mon Apr 08 20:55:15 +0000 2019,Celebrating 4 years anniversary of @PingCAP and TiDB in different offices and time zones 🤣🎉🎊 https://t.co/GBXKlgO3vn
+1114608424925319200,Sat Apr 06 19:18:51 +0000 2019,RT @RustConAsia: Thanks to @xiaozhangguide1 for the colorful banner of #RustConAsia https://t.co/nFinvBiDZS
+1114586295542603800,Sat Apr 06 17:50:55 +0000 2019,@zty0826 it's a good idea.
+1114282266715275300,Fri Apr 05 21:42:49 +0000 2019,https://t.co/OVa6OVvvpO
+1114236866545442800,Fri Apr 05 18:42:25 +0000 2019,RT @jdarrow: SHUTDOWN ABORT the last Oracle database running Amazon Fulfillment! https://t.co/DorqTua2Lt
+1113923284599361500,Thu Apr 04 21:56:21 +0000 2019,https://t.co/ZpLOByDV8F
+1113912302120497200,Thu Apr 04 21:12:42 +0000 2019,It would be my first webinar  :) https://t.co/MXvoHSclYu
+1113857741678760000,Thu Apr 04 17:35:54 +0000 2019,@Jiezixiaojie @PingCAP 厉害了
+1113543100507406300,Wed Apr 03 20:45:38 +0000 2019,@ice1000kotlin 啥？恋爱了啊少年？
+1112869491644358700,Tue Apr 02 00:08:57 +0000 2019,Yep, like a home game. 😎 https://t.co/kxGGvXxs0p
+1112868928701661200,Tue Apr 02 00:06:43 +0000 2019,Check out this Meetup: Keep Calm and Scale-Out: TiDB 3.0  https://t.co/s0sKRYeshD #Meetup #SanMateo via @Meetup
+1110959648276779000,Wed Mar 27 17:39:55 +0000 2019,See u this afternoon // Rock Solid - Why and How did Facebook Created RocksDB and MyRocks | Meetup https://t.co/j2OB7bXqpg
+1110567955627049000,Tue Mar 26 15:43:28 +0000 2019,RT @kubernetesio: Kubernetes 1.14 release blog - Production-level support for Windows Nodes, Kubectl Updates, Persistent Local Volumes GA a…
+1110560832910286800,Tue Mar 26 15:15:10 +0000 2019,RT @PingCAP: #TiDB will make a big splash at @Percona Live in Austin, TX (May 28-30). There will be a full track of talks from new 3.0 feat…
+1109206756071071700,Fri Mar 22 21:34:33 +0000 2019,RT @opensourceway: How to save time with TiDB, a distributed SQL database by Morgan Tocker of @PingCAP | https://t.co/0VfTUaitbd https://t.…
+1108800600936845300,Thu Mar 21 18:40:38 +0000 2019,RT @kevinsxu: @lucperkins Do say hi tomorrow to @c4pt0r and @siddontang ! They are giving the @grpcio @rustlang talk :)
+1106688381117853700,Fri Mar 15 22:47:25 +0000 2019,@silentsam0 🙌😀 https://t.co/8EEGUiZzza
+1106268915154321400,Thu Mar 14 19:00:37 +0000 2019,@siddontang @PingCAP True, I think it Mar 27
+1106265663595659300,Thu Mar 14 18:47:42 +0000 2019,I would also give a lightning talk in this meetup. :) https://t.co/tjfzFU5fp6
+1106008912820559900,Thu Mar 14 01:47:28 +0000 2019,These cool stickers are the only reason I still keep my good old XPS13 😂 https://t.co/U2QF0EhFhz
+1105589770267254800,Tue Mar 12 22:01:56 +0000 2019,Just finished my exam, I think I would be the first certificated TiDB DBA....😉 https://t.co/I8KTszaei5
+1105553214470942700,Tue Mar 12 19:36:41 +0000 2019,@liprais 是啊，莫名其妙每天少睡一小时。。。
+1104421419067162600,Sat Mar 09 16:39:20 +0000 2019,Congrats!🎉 https://t.co/Rp9AHN0Sye
+1103899647376945200,Fri Mar 08 06:06:00 +0000 2019,@ice1000kotlin 别说，这个还真是个合法的 hash function
+1103899370842337300,Fri Mar 08 06:04:54 +0000 2019,@alfiedotwtf I can recall a lot of books about how to build a compiler from scratch...but a database? no clue....😂
+1103817512389500900,Fri Mar 08 00:39:37 +0000 2019,@alfiedotwtf if you mean distributed database, I haven't seen anything good yet, I learn by reading papers. But if… https://t.co/v9Jp3Ti3fX
+1103789427485102100,Thu Mar 07 22:48:01 +0000 2019,Looks amazing, can't wait to read it. https://t.co/il9mU5BMrv
+1103428106096799700,Wed Mar 06 22:52:15 +0000 2019,RT @datacharmer: #dbdeployer and its community - Part 1: TiDB https://t.co/riMaAexpwO #mysql #golang https://t.co/mr0wg8FpqJ
+1103359518715465700,Wed Mar 06 18:19:43 +0000 2019,This tool is so important to help existing MySQL users smoothly migrate and synchronize data into TiDB. https://t.co/nDIFjVnV6U
+1103322475889221600,Wed Mar 06 15:52:31 +0000 2019,@liufu_ty I live in Cupertino, office is in San Mateo
+1103322138654597100,Wed Mar 06 15:51:11 +0000 2019,@sijieg Sure thing!
+1103085662834634800,Wed Mar 06 00:11:31 +0000 2019,Just moved to San Francisco Bay Area for a long term stay. Feeling great about the first week, if anyone who wants… https://t.co/F79HkFHALC
+1103081179828256800,Tue Mar 05 23:53:42 +0000 2019,@keaising s/tibd/TiDB/
+1103081012270030800,Tue Mar 05 23:53:02 +0000 2019,@keaising hmmm
+1102793983980236800,Tue Mar 05 04:52:29 +0000 2019,@isNoFate 作为每天在Linux和MacOS切换的人，我都觉得我快精神分裂了
+1102700588788138000,Mon Mar 04 22:41:22 +0000 2019,TiDB 3.0 beta, sysbench result   https://t.co/7w1PnnX0LM
+1101516184313245700,Fri Mar 01 16:14:58 +0000 2019,@googollee 感谢分享
+1101124720282333200,Thu Feb 28 14:19:25 +0000 2019,RT @tikvproject: Congratulations!  We are too, as part of the CNCF!  It's going to be a rusty summer!  https://t.co/P0ybkMPNUg https://t.co…
+1101124107314184200,Thu Feb 28 14:16:59 +0000 2019,RT @software_daily: China Scale: the New Sandbox to Battle-Test Innovative Technology by Kevin Xu @kevinsxu @PingCAP #China #ecommerce #TiD…
+1100897268788453400,Wed Feb 27 23:15:37 +0000 2019,@00_passw0rd_00 Yes. It's the only way we have (for now) to maintain such large TiDB cluster.
+1100412415441662000,Tue Feb 26 15:08:59 +0000 2019,RT @PingCAP: Excited to be sponsoring @Percona Live 2019 in Austin! There will be a full track worth of talks on #TiDB, like @siddontang ta…
+1100220150417043500,Tue Feb 26 02:24:59 +0000 2019,Successfully created a huge cluster in our test IDC...144 nodes, &gt; 200T data in a single TiDB cluster...✌ https://t.co/5Fl2hXasqb
+1100104389023359000,Mon Feb 25 18:44:59 +0000 2019,RT @software_daily: What is New About NewSQL? by @GokhanSimseek #databases @VoltDB @citusdata @Gartner_Inc @RocksDB @Azure @Vitessio @YouTu…
+1099637990500970500,Sun Feb 24 11:51:41 +0000 2019,RT @morgo: Announcing dbdeployer support for TiDB! https://t.co/shWRE01uxM
+1098411145541517300,Thu Feb 21 02:36:39 +0000 2019,RT @RustConAsia: We are very proud to announce RustCon Asia 2019, happening April 20th to 23rd in Beijing, China, it will span four days, i…
+1095898007973724200,Thu Feb 14 04:10:20 +0000 2019,Welcome, 老同学~:) https://t.co/Qf2GXrTKdk
+1095529794974801900,Wed Feb 13 03:47:11 +0000 2019,Like it! ♥ https://t.co/B1SgiHRCAD
+1094526515696398300,Sun Feb 10 09:20:31 +0000 2019,RT @PingCAP: Check out @CloudNativeFdn 2018 annual report! We are the 6th largest contributor with 32,000+ contributions! The five co's ahe…
+1092387879408435200,Mon Feb 04 11:42:20 +0000 2019,RT @kevinsxu: My favorite part of working at @PingCAP is I get to satisfy my inner nerd once in a while at #Fosdem to learn from awesome pe…
+1091965640187904000,Sun Feb 03 07:44:31 +0000 2019,RT @HorakHonza: #TiDB, a distributed database written in #golang and #rustlang, where each region on a node can act separately and one can…
+1090642375628664800,Wed Jan 30 16:06:20 +0000 2019,RT @kevinsxu: Pumped for the #Kubernetes meetup in Cologne, Germany next Tuesday (Feb 5) hosted by @giantswarm @puja108, where I'll chat ab…
+1090642110015975400,Wed Jan 30 16:05:16 +0000 2019,RT @CloudNativeFdn: Sending a huge CONGRATS to our newly-elected TOC members: @monadic, @brendandburns, @jbeda, @kelseyhightower, @mattklei…
+1090641679495790600,Wed Jan 30 16:03:34 +0000 2019,RT @tikvproject: Three TiKV engineers will be giving presentations in the @rustlang room at @fosdem this weekend.  Hope you can stop by. :)
+1089017616549634000,Sat Jan 26 04:30:07 +0000 2019,Releasing TiDB 3.0 Beta, the keyword is: Stability at Scale, the introduction of Titan (Our WiscKey implementation… https://t.co/fk1ZlsB9ix
+1088995517135183900,Sat Jan 26 03:02:18 +0000 2019,RT @PingCAP: ANNOUNCING: TiDB 3.0 Beta. Goal: reach stability at scale. New features: -Multi-thread Raftstore -Batch Message in @grpcio  -Q…
+1088685477052313600,Fri Jan 25 06:30:19 +0000 2019,I think TiDB is a good complement to MySQL community, especially on some MySQL-sharding scenarios, data can be aggr… https://t.co/LybUxpmMbx
+1088430837941493800,Thu Jan 24 13:38:28 +0000 2019,RT @software_daily: TiDB: Distributed NewSQL with Kevin Xu (@kevinsxu)  https://t.co/IJtkVqtgS3  @PingCAP https://t.co/3RzM8Qw9K5
+1088020825825919000,Wed Jan 23 10:29:13 +0000 2019,@a_hoverbear Sad to hear that~😢
+1087508068366147600,Tue Jan 22 00:31:43 +0000 2019,Welcome ☺️ https://t.co/czgnVL8TvT
+1087323207785316400,Mon Jan 21 12:17:08 +0000 2019,RT @PingCAP: The #TiDB team is excited to join others for the #MySQL and Friends community dinner pre @fosdem in just a few weeks. Register…
+1087303113239711700,Mon Jan 21 10:57:17 +0000 2019,TiDB-DM, TiDB's Data Migration Platform, it helps user to migrate data from MySQL/MariaDB to TiDB, including export… https://t.co/s9AV9ImJ9T
+1087302566633848800,Mon Jan 21 10:55:07 +0000 2019,TiDB-Lightning is a tool for fast full import of large amounts of data into a TiDB cluster, it loads mydumper dumpf… https://t.co/RRIBzNJ3wt
+1087302079876456400,Mon Jan 21 10:53:11 +0000 2019,Just open souced two new tools to TiDB family: tidb-lightning (https://t.co/XKzYIDlOMu)   and tidb-dm(https://t.co/qvkCiGUdk0)
+1085883562539114500,Thu Jan 17 12:56:30 +0000 2019,RT @opensourceway: Meet TiDB: An open source NewSQL database with Morgan Tocker | https://t.co/NDaMIgBhyC https://t.co/MfxRn3YcKn
+1085334539189153800,Wed Jan 16 00:34:53 +0000 2019,RT @PeterZaitsev: YSCB is far from perfect benchmark but it is nice to see multi-database implementation in Go https://t.co/5yC6O72Fo4
+1084702057301327900,Mon Jan 14 06:41:37 +0000 2019,RT @siddontang: You can use go-ycsb to benchmark different databases :-)  https://t.co/nDiZQWITwR
+1083683785852371000,Fri Jan 11 11:15:23 +0000 2019,⁦PhotoPrism❤️TiDB  https://t.co/ccpr6E1ZDJ
+1083028905135468500,Wed Jan 09 15:53:07 +0000 2019,@Sempr orz
+1081110617916813300,Fri Jan 04 08:50:32 +0000 2019,@__broken_mike @lmsresearch https://t.co/jXcIjBdTki https://t.co/Cm1CXVoYbq
+1080673694555361300,Thu Jan 03 03:54:21 +0000 2019,@__broken_mike @lmsresearch 是啊，我在文章里说了呀
+1080638763435343900,Thu Jan 03 01:35:33 +0000 2019,@lmsresearch 哎 如果blobdb能用的话就我们早就用了
+1078853915267850200,Sat Dec 29 03:23:12 +0000 2018,RT @a_hoverbear: You can meet me in Beijing on January 19th at @PingCAP's TiDB DevCon! https://t.co/dxnHfblcVm
+1078157962005246000,Thu Dec 27 05:17:44 +0000 2018,Go #TiDB! https://t.co/5yYLxrXf9u
+1077762126167531500,Wed Dec 26 03:04:49 +0000 2018,RT @JoeBaguley: A handy sheet for those of you visiting relatives over the holidays... https://t.co/sJjifjSXUq
+1077760678868348900,Wed Dec 26 02:59:04 +0000 2018,RT @PingCAP: #MerryChirstmas all! As we head into 2019, here’s a recap of 2018 in TiDB land.   #tldr launched TiDB 2.1/2.0/Cloud/Academy/Ti…
+1076322231905529900,Sat Dec 22 03:43:11 +0000 2018,I think it's doable. https://t.co/Kazp9zKjQK
+1075648335036305400,Thu Dec 20 07:05:22 +0000 2018,@browseyourlife @IssueHunt Ahhh, I found me in the issue thread...
+1073834735913263100,Sat Dec 15 06:58:46 +0000 2018,Such a question is we should think about. It can be said that all the design of TiDB so far is based on this goal. https://t.co/dKPT1DrWPf
+1073834615935103000,Sat Dec 15 06:58:17 +0000 2018,When the hardware cost drops to the point where the value of the data itself is higher than the hardware cost, how… https://t.co/PsDZ9wiYAA
+1073834149511721000,Sat Dec 15 06:56:26 +0000 2018,Most engineers have not realized that the continuous improvement of hardware performance and the continuous decline… https://t.co/pR6siTEIVp
+1073446652629766100,Fri Dec 14 05:16:40 +0000 2018,😂😂😂 https://t.co/2DsjTYhA8q
+1073078183052828700,Thu Dec 13 04:52:30 +0000 2018,@justincormack @nami_num_nums
+1073071096914571300,Thu Dec 13 04:24:20 +0000 2018,She is the star https://t.co/nGFISrrHW7
+1073070488077795300,Thu Dec 13 04:21:55 +0000 2018,Super busy day https://t.co/FUlOJL3Ctf
+1073039854433230800,Thu Dec 13 02:20:12 +0000 2018,RT @siddontang: Amazing, a friend has built @tikvproject as a remote storage of @PrometheusIO, see https://t.co/S6pO6SeZrv https://t.co/4Qa…
+1072940544907571200,Wed Dec 12 19:45:34 +0000 2018,@andy_pavlo @CockroachDB @MongoDB @GCPcloud @luciddb No love for TiDB😢
+1072934253585821700,Wed Dec 12 19:20:34 +0000 2018,RT @shenli3514: We proposed the design for plan management. With this feature, we can dynamically force the optimizer to choose a certain p…
+1072933415773626400,Wed Dec 12 19:17:15 +0000 2018,I always enjoy watching #TiDB balancing its data https://t.co/G2ZdLchP7p
+1072636920382005200,Tue Dec 11 23:39:05 +0000 2018,RT @thenewstack: We’re live with @derekcollison of @_synadia_, Scott Clinton of @hortonworks, @kevinsxu of @PingCAP, and @mmilinkov of @Ecl…
+1072636374719844400,Tue Dec 11 23:36:55 +0000 2018,RT @PingCAP: At #KubeCon? Come to booth G15 to grab a bag (for your other swags), stickers, and learn about how we use #Kubernetes internal…
+1072352980429692900,Tue Dec 11 04:50:48 +0000 2018,@cra @CloudNativeFdn You guys are doing a great job!👍🎂
+1072352668256006100,Tue Dec 11 04:49:34 +0000 2018,RT @PingCAP: Check out the fresh, new @CloudNativeFdn case study on how we use #Kubernetes both internally and for TiDB Cloud customers. Co…
+1072160648170074100,Mon Dec 10 16:06:32 +0000 2018,RT @shenli3514: TiDB will have Window Function in the near future! 😀 https://t.co/1DBCCN7sXC https://t.co/4TOa7XOF1N @PingCAP
+1071943211340296200,Mon Dec 10 01:42:31 +0000 2018,@ice1000kotlin 呃。。。
+1071885216652742700,Sun Dec 09 21:52:04 +0000 2018,RT @PingCAP: New swags, new stickers, new GA release. Can’t wait to see you all #KubeCon to hand these out and talk about TiDB 2.1 GA and T…
+1071277556698013700,Sat Dec 08 05:37:27 +0000 2018,RT @PingCAP: Another day, another #TiDB use case, this time written by Meituan-Dianping (@UberEats + @Yelp + @Groupon) on their evaluation…
+1070185342584553500,Wed Dec 05 05:17:23 +0000 2018,Interesting projects in #TiDBHackathon   1. https://t.co/TYqUOA4TbV   tiquery: all diagnosis in SQL   2.… https://t.co/nghLKQ3x1D
+1068799529640554500,Sat Dec 01 09:30:39 +0000 2018,Happy Hacking #TiDBHackathon2018 https://t.co/cfAuZBPcaa
+1068421237766910000,Fri Nov 30 08:27:28 +0000 2018,RT @ASFSkyWalking: [ANNOUNCE] New architecture for SkyWalking 6.0.0-beta release is ready. @MySQL and @PingCAP #TIDB will be available as s…
+1068352236017709000,Fri Nov 30 03:53:16 +0000 2018,Working on release notes.... https://t.co/jUjpCBxC0S
+1068352023710511100,Fri Nov 30 03:52:26 +0000 2018,RT @ngaut1: Good job https://t.co/we04WGQIrD
+1068351953866903600,Fri Nov 30 03:52:09 +0000 2018,@duobei42 @andelf 我也不知道。。。
+1067680587123580900,Wed Nov 28 07:24:23 +0000 2018,RT @awscloud: Firecracker, the underlying technology that powers AWS Lambda &amp; AWS Fargate, is now open source! #reInvent https://t.co/Lo7ZK…
+1067377901765517300,Tue Nov 27 11:21:37 +0000 2018,RT @siddontang: Titan: A Distributed Redis Protocol Compatible NoSQL Database based on TiKV https://t.co/OBhozyr2kb
+1066898681645826000,Mon Nov 26 03:37:22 +0000 2018,@elephas 这个应该在 tikv 上优化，识别出可以 1pc 的做 1pc，另外这类方案本质上也并不是和 redis 比性能
+1066610858942443500,Sun Nov 25 08:33:40 +0000 2018,RT @PingCAP: We had a great time watching the talks at @RustFest yesterday!  Today you can join our @a_hoverbear and Yann, our friend from…
+1064329893431828500,Mon Nov 19 01:29:55 +0000 2018,RT @DatabaseDaily: Titan: A Redis Protocol Compatible Distributed NoSQL Database - https://t.co/seRrfN8Uw3 (Very much 'under development'.…
+1063045565598990300,Thu Nov 15 12:26:27 +0000 2018,Rust client RFC for #TiKV 👉  https://t.co/pDKjAgxQLv  It's the fundamental component for building other language bindings. @tikvproject
+1063034540325658600,Thu Nov 15 11:42:39 +0000 2018,@a_hoverbear agree
+1063030520987013100,Thu Nov 15 11:26:41 +0000 2018,One guy I know mentioned that if someone can build a etcd api wrapper for tikv, that would be super useful https://t.co/RyYaIlM6Fx
+1062998022471045100,Thu Nov 15 09:17:32 +0000 2018,Happy to know that Meitu (one of the biggest smartphone manufacturers in China and their selfie app is also very po… https://t.co/z6ZQhm8Vs2
+1062268337919451100,Tue Nov 13 08:58:02 +0000 2018,#+1 #want https://t.co/XNSiHTuac0
+1061957713322684400,Mon Nov 12 12:23:43 +0000 2018,@asynchio Haha, just like this👇 https://t.co/4XgDIWdzhs
+1061923384575979500,Mon Nov 12 10:07:19 +0000 2018,I think it’s a huge milestone for TiDB or other open source distributed RDBMS, as far as I know it’s the first time… https://t.co/fnJkW2wHM8
+1061920979830505500,Mon Nov 12 09:57:45 +0000 2018,Core banking system on TiDB! https://t.co/jAmOz0RO1Y
+1060463638694133800,Thu Nov 08 09:26:48 +0000 2018,RT @PingCAP: That's a wrap from Team PingCAP at #PerconaLive in Frankfurt. Thanks @Percona for having us! If you missed the keynote by @kev…
+1060114001063899100,Wed Nov 07 10:17:28 +0000 2018,RT @ask_dba: Say hello and check it out. #TiDB #OpenSource @ #perconalive https://t.co/YsPWa8y9c0
+1060113871153725400,Wed Nov 07 10:16:57 +0000 2018,RT @kevinsxu: Had a great time keynoting #PerconaLive with @shenli3514 to introduce TiDB architecture, tools and migration path, and new cl…
+1060035862879064000,Wed Nov 07 05:06:58 +0000 2018,RT @Que8eny: Feel free to swing by the PingCAP booth at #PerconaLive to #TiDB Cloud in action! And talk to @kevinsxu @shenli3514 @morgo for…
+1060035811305906200,Wed Nov 07 05:06:46 +0000 2018,RT @asynchio: SUPER proud of my friends @cmcluck and @jbeda, co-creators of @kubernetesio, on @heptio + @VMware! 🥂👏🏻 Not too unlike Nicira…
+1059758528649297900,Tue Nov 06 10:44:57 +0000 2018,RT @PingCAP: Awesome to see TiDB Cloud (aka multi-cloud TiDB-as-a-service) mentioned in @PeterZaitsev #PerconaLive keynote. Want to see it…
+1059637829964156900,Tue Nov 06 02:45:20 +0000 2018,@iwinux @Sunng pingcap/grpc-rs 放心, 可用的, 我们自己在用着, 也在维护. https://t.co/pYtaS5sy3g  这哥们写了篇评测文章
+1058251856076451800,Fri Nov 02 06:57:58 +0000 2018,RT @nblaak: Joseph Jacks, General Partner of OSS Capital about what has motivated him to create an Open Source focused investment firm. @th…
+1058251314461700100,Fri Nov 02 06:55:49 +0000 2018,RT @Percona: Want to see Morgan Tocker present 'TiDB: Distributed, horizontally scalable, MySQL compatible', see them on Tuesday, November…
+1058246760710066200,Fri Nov 02 06:37:43 +0000 2018,RT @PingCAP: LAUNCHING: TiDB Cloud, fully-managed as a service by PingCAP (or 1-click install a standard cluster on @GCPcloud marketplace)!…
+1057506587168989200,Wed Oct 31 05:36:32 +0000 2018,@andelf 是啊。。。劝过他们n次了。。。
+1056754232836075500,Mon Oct 29 03:46:57 +0000 2018,@asynchio Agree
+1056750655887396900,Mon Oct 29 03:32:44 +0000 2018,RT @asynchio: IBM buying @RedHat is not about dominating the cloud. It is about becoming an OSS company. The largest proprietary software a…
+1056750578242543600,Mon Oct 29 03:32:25 +0000 2018,@Fenng Dongxu, running an open-source database company, C round.
+1056731781410414600,Mon Oct 29 02:17:44 +0000 2018,RT @PeterZaitsev: This is cool - top 3 Options to scale MySQL in one Meetup in Madrid Simon J Mudd, Morgan Tocker  #mysql https://t.co/Jern…
+1055285760075558900,Thu Oct 25 02:31:46 +0000 2018,RT @andy_pavlo: So I was slightly involved with this story: https://t.co/ohZhpyqmjo  TLDR: I've read the internal Amazon document in the CN…
+1054962327852859400,Wed Oct 24 05:06:33 +0000 2018,RT @asynchio: I love how the @CloudNativeFdn lays out OSS project maturity against Geoffrey Moore’s Crossing the Chasing phases. https://t.…
+1054961431718907900,Wed Oct 24 05:03:00 +0000 2018,RT @siddontang: Finally, go-ycsb supports benchmarking Google Cloud Spanner   https://t.co/Ii5ZV4PjON
+1054345894147977200,Mon Oct 22 12:17:04 +0000 2018,❤️Bear~ https://t.co/P2NcQU4HrL
+1054303199413170200,Mon Oct 22 09:27:25 +0000 2018,New mug for #TiDB contributors 😊☕️ https://t.co/iHlILN8DwY
+1052068617536163800,Tue Oct 16 05:27:59 +0000 2018,RT @strangeloop_stl: "A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js" by Ashley Williams @ag_dubs https://t.co/i5Gwf…
+1052047277051732000,Tue Oct 16 04:03:11 +0000 2018,@andy_pavlo @CockroachDB @comdb2 @YugaByte @FoundationDB Same story in China, most of the biggest internet companie… https://t.co/elCo9k80E5
+1050673561973579800,Fri Oct 12 09:04:32 +0000 2018,RT @i4isp: Top MySQL story: TiDB Academy | PingCAP https://t.co/ceajPRwNbz, see more https://t.co/SBcUofny1n
+1050562886584623100,Fri Oct 12 01:44:45 +0000 2018,RT @PingCAP: Psst...we will launch 2 really cool things: "TiDB Cloud" (multi-cloud, PingCAP managed TiDB as a service, signup: https://t.co…
+1049478087795036200,Tue Oct 09 01:54:09 +0000 2018,RT @RocksDB: Just announced the schedule for the 5th annual RocksDB Meetup @ Facebook!  Great line-up of presenters getting ready for you,…
+1049255237188350000,Mon Oct 08 11:08:37 +0000 2018,@Fitch_MT Coming soon
+1049253266012352500,Mon Oct 08 11:00:47 +0000 2018,Truly scalable (transparent to application) + Cloud-ready + MySQL-compatible =&gt; TiDB, it's a very ambitious project… https://t.co/7W2WO6NuAw
+1048760395266064400,Sun Oct 07 02:22:17 +0000 2018,RT @asynchio: ⚡️ I am incredibly honored and excited to launch @OSSCapital: A new, highly differentiated VC firm, the worlds first and only…
+1048403952348229600,Sat Oct 06 02:45:55 +0000 2018,“Dismissing Python Garbage Collection at Instagram” by Instagram Engineering https://t.co/maMoL0x4yT
+1046070534075813900,Sat Sep 29 16:13:45 +0000 2018,@hongbin119 和 Oracle 没啥关系啊, 就是普通的 SSD
+1046070388004917200,Sat Sep 29 16:13:10 +0000 2018,@hongbin119 yep
+1045431536269635600,Thu Sep 27 21:54:36 +0000 2018,@sadisticsystems AWESOME!
+1045420582823710700,Thu Sep 27 21:11:04 +0000 2018,See you guys tonight https://t.co/pxaTOw1yzq
+1045418846843220000,Thu Sep 27 21:04:10 +0000 2018,RT @PingCAP: Great to see #TiDB recognized as one of the best #OpenSource database projects by @infoworld’s 2018 Bossie Award! https://t.co…
+1045378747946422300,Thu Sep 27 18:24:50 +0000 2018,RT @c4pt0r: @hareemca @PingCAP @infoworld Yes, the first step is https://t.co/VmuMrfcuQN, we try to build a multi-tenant tidb solution (at…
+1045378627683127300,Thu Sep 27 18:24:21 +0000 2018,@hareemca @PingCAP @infoworld Yes, the first step is https://t.co/VmuMrfcuQN, we try to build a multi-tenant tidb s… https://t.co/93BwLj5aKV
+1045112825541091300,Thu Sep 27 00:48:09 +0000 2018,@hongbin119 正在做的一个新存储引擎
+1044880627307335700,Wed Sep 26 09:25:29 +0000 2018,RT @kevinsxu: Had a great time presenting #TiDB #TiKV and TiDB Operator w/ @c4pt0r at Portland’s @CloudNativeFdn #Kubernetes meetup. New fr…
+1044598457690804200,Tue Sep 25 14:44:14 +0000 2018,https://t.co/ioztwWCRep
+1044464282367213600,Tue Sep 25 05:51:04 +0000 2018,RT @PingCAP: THREAD: Team PingCAP is hitting the road &amp; bringing #TiDB #TiKV to a city near YOU! First up: Sept 25, Tues, Portland, OR, at…
+1044373022222602200,Mon Sep 24 23:48:26 +0000 2018,@googollee 漂亮
+1044274796425470000,Mon Sep 24 17:18:07 +0000 2018,Something cool we're working on. https://t.co/5pIqVtrrl2
+1043151805985644500,Fri Sep 21 14:55:46 +0000 2018,@EltonStoneman @MySQL @PingCAP You can try pingcap/tidb-docker-compose, it will launch a multi-nodes cluster in you… https://t.co/5QleBXAP7D
+1043099081244008400,Fri Sep 21 11:26:15 +0000 2018,哈哈哈，神交多年 https://t.co/4HTpt2C1SO
+1042465170541277200,Wed Sep 19 17:27:19 +0000 2018,mark https://t.co/wHtJ03Glyf
+1042165537298473000,Tue Sep 18 21:36:41 +0000 2018,the new mothership! https://t.co/Ouwf4rHwN9
+1039629813709910000,Tue Sep 11 21:40:37 +0000 2018,RT @TechCrunch: TiDB developer PingCAP wants to expand in North America after raising $50M Series C https://t.co/B2salp2HhE by @catherinesh…
+1038212743814209500,Fri Sep 07 23:49:41 +0000 2018,RT @PingCAP: Great to see @ContainerBlog covering TiKV’s entry to @CloudNativeFdn, how it provides #MySQL compatibility by working with #Ti…
+1037524003756240900,Thu Sep 06 02:12:53 +0000 2018,No doubt there’s a big potential market in OSS business in China, China and the US have similarly economic size, al… https://t.co/KG5mXawfGR
+1037517684068347900,Thu Sep 06 01:47:46 +0000 2018,RT @morgo: I'm digging the new PingCAP success stories page: https://t.co/mXRbb0tFB3  10+ petabytes in 200+ companies #tidb #mysql #htap
+1037517375908638700,Thu Sep 06 01:46:33 +0000 2018,RT @asynchio: Exciting to see @PingCAP lead the way as the first and major commercial OSS vendor in China. Awesome project and community. h…
+1037516445955973100,Thu Sep 06 01:42:51 +0000 2018,RT @PingCAP: TOMORROW: We'll be co-organizing the 2nd @rustlang Bay Area #meetup at Stanford, featuring talks on Cranelift by Dan Gohman an…
+1036373496899625000,Sun Sep 02 22:01:11 +0000 2018,RT @PingCAP: And that’s a wrap for team #TiDB’s first #OSSummit! Thank you @linuxfoundation for putting together such a great event! https:…
+1035411956411322400,Fri Aug 31 06:20:22 +0000 2018,RT @morgo: TiDB reaches 200 contributor milestone! https://t.co/56d8lgzrel #tidb #github
+1034692839375102000,Wed Aug 29 06:42:51 +0000 2018,Finally, we got a decent Generics😍 https://t.co/sJ3HiwgqGz
+1034689025796464600,Wed Aug 29 06:27:41 +0000 2018,@ice1000kotlin 恋爱了
+1034534588264140800,Tue Aug 28 20:14:01 +0000 2018,RT @PingCAP: Right Now,@c4pt0r is presenting about the #tidb at Room Segovia 4 @vldb2018. Come and join us! https://t.co/B7pWhMWDaa
+1034504608679448600,Tue Aug 28 18:14:53 +0000 2018,like TiDB, building a SQL layer on top of TiKV, TiDis, a Redis protocol layer on top of TiKV~~ https://t.co/iLAMMp4qHz
+1034504025088118800,Tue Aug 28 18:12:34 +0000 2018,Before creating TiKV, I have always dreamed of having a high-performance key-value database that supports ACID tran… https://t.co/d2SPPI939E
+1034485199554441200,Tue Aug 28 16:57:46 +0000 2018,Thank you CNCF! 😀 https://t.co/DEvCNe24Bc
+1033951266538500100,Mon Aug 27 05:36:06 +0000 2018,@queryproc @PingCAP @vldb2018 And if there's enough time, I'll give a tutorial on deploying and managing cloud-tidb… https://t.co/gUxMbmD96Q
+1033950966750568400,Mon Aug 27 05:34:55 +0000 2018,@queryproc @PingCAP @vldb2018 It's a 2hrs tutorial, the first hour is about the architecture and technical overview… https://t.co/gbKEPSukGJ
+1032528578171174900,Thu Aug 23 07:22:51 +0000 2018,RT @morgo: I'll be in San Francisco October 10th for the MySQL Meetup #tidb #htap https://t.co/fuxpM3VL0y
+1032528444708380700,Thu Aug 23 07:22:19 +0000 2018,RT @ztennix: Will talk about how to provision the distributed database #TiDB on #Kubernetes at the first #KubeCon Kube + #CloudNativeCon Ch…
+1031455419758129200,Mon Aug 20 08:18:30 +0000 2018,@UB6bJsDqyraeKLy @jimmycuadra @rustlang We will do that! I'm glad to hear the voice from you :)
+1029614481360351200,Wed Aug 15 06:23:16 +0000 2018,😍 https://t.co/bVzeZpCojn
+1027179145887854600,Wed Aug 08 13:06:07 +0000 2018,RT @morgo: My blog, now powered by TiDB! https://t.co/LdwZPRZyt2
+1027178638079184900,Wed Aug 08 13:04:06 +0000 2018,RT @PingCAP: Another day, another fantastic #TiDB success story *written by* our customer. See how Zhuan Zhuan (the @letgo of China) fuels…
+1026387330968371200,Mon Aug 06 08:39:43 +0000 2018,Happy to see @PingCAP 😋 https://t.co/CS8LWrCk51
+1026289508151521300,Mon Aug 06 02:11:00 +0000 2018,It's time to give #Rust a chance! 😀 https://t.co/EBGmrB1MQm
+1025382452645118000,Fri Aug 03 14:06:42 +0000 2018,@hareemca @kevinsxu Hmmm. Firstly how you define 'multi-tenancy'? Namespace/DB/User isolation? Logical or physical?… https://t.co/BKPJq25PQt
+1025173741200859100,Fri Aug 03 00:17:21 +0000 2018,Some thoughts about the why and how we build TiDB. Original post is written in Chinese, so thanks ⁦@kevinsxu⁩ for b… https://t.co/9OpLD6POWj
+1024572521658499100,Wed Aug 01 08:28:19 +0000 2018,RT @PingCAP: Read about how we leverage @grafana to help monitor and quickly troubleshoot #TiDB clusters for the 200+ companies currently d…
+1024523916054655000,Wed Aug 01 05:15:10 +0000 2018,@santoshmathew @PingCAP As you can see the real bottleneck is import procedure,  and I think mydumper is not slow,… https://t.co/HCjczRaY68
+1024523305842180100,Wed Aug 01 05:12:45 +0000 2018,@santoshmathew @PingCAP The input of tidb-lightning is backup files in mydumer format, tidb-lightning will bypass t… https://t.co/gVbx2KVhEU
+1024522508349857800,Wed Aug 01 05:09:35 +0000 2018,@santoshmathew @PingCAP Consider the consistency problem of physical backup, we don't have a plan to build our own… https://t.co/oUQytMfubT
+1024486255390871600,Wed Aug 01 02:45:31 +0000 2018,@astaxie 我们也很快了 :)
+1021229164156735500,Mon Jul 23 03:03:00 +0000 2018,Welcome aboard!  ❤️❤️❤️ https://t.co/zkjG17tGxK
+1017293682288934900,Thu Jul 12 06:24:48 +0000 2018,RT @dankohn1: The @CloudNativeFdn Cloud Native Definition is now also available in Chinese, thanks to a community effort: https://t.co/n4eD…
+1012622280122224600,Fri Jun 29 09:02:19 +0000 2018,RT @andrewhobden: Omg so excited @PingCAP Canada is now a multi-creature company.  I have a human co-worker who lives provinces away.  Yay!
+1012157091820130300,Thu Jun 28 02:13:50 +0000 2018,Thank you for having me 😁 https://t.co/ae2PFjk7DX
+1010059499099394000,Fri Jun 22 07:18:45 +0000 2018,@iwinux 人才 / 执行力的差距.
+1009766271104110600,Thu Jun 21 11:53:34 +0000 2018,RT @siddontang: “Streaming gRPC with Rust” by @KevinHoffman https://t.co/d2PNYsrPBg
+1008934671227351000,Tue Jun 19 04:49:05 +0000 2018,TiSpark: More Data Insights, No More ETL https://t.co/5dm0IIMxxR
+1008910215163437000,Tue Jun 19 03:11:54 +0000 2018,RT @awgupta: SIGMOD 2018 has an Amazon #Aurora paper "Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Ch…
+1008909516790849500,Tue Jun 19 03:09:08 +0000 2018,RT @siddontang: I just published “Build a Redis Compatible Cluster based on TiKV” https://t.co/IIfZYEMROB
+1006747020432851000,Wed Jun 13 03:56:08 +0000 2018,Try it on your laptop! https://t.co/oQ79b7jONB
+1006405462000975900,Tue Jun 12 05:18:54 +0000 2018,RT @andrewhobden: We just pushed some more documentation for the @pingCAP raft crate!   https://t.co/wa0FP0Hw7x
+1006182903573672000,Mon Jun 11 14:34:32 +0000 2018,RT @andrewhobden: Today at @PingCAP we learnt about durian coffee.  Yup, you read it right.  Durian...  Coffee. https://t.co/pqLb8QhsZw
+1000350232775815200,Sat May 26 12:17:35 +0000 2018,Great talk! Thank you Peter! @PeterZaitsev @Percona https://t.co/qjowbjDdeZ
+1000349653672456200,Sat May 26 12:15:17 +0000 2018,@skyredwang We have a office in Shanghai, come and say hi to us 😄
+999884761475657700,Fri May 25 05:27:58 +0000 2018,@YongXMan @github You are not alone.
+999141613958971400,Wed May 23 04:14:58 +0000 2018,RT @andy_pavlo: We replaced the Bloom filter in @RocksDB with SuRF and show how it reduces disk I/O for range queries with a small storage…
+998922928568778800,Tue May 22 13:45:59 +0000 2018,@andrewhobden Sad to hear that 😢
+998801443170668500,Tue May 22 05:43:15 +0000 2018,Our Raft in Rust！ https://t.co/EwtnHkzEd4
+998744628017877000,Tue May 22 01:57:29 +0000 2018,See u then https://t.co/wjdAS5Kv2Y
+997045945865945100,Thu May 17 09:27:32 +0000 2018,RT @davecheney: Performance rule of thumb:  Network/disk io &gt;&gt; allocations &gt;&gt; function calls  If your program is dominated by network or di…
+995816514744827900,Mon May 14 00:02:13 +0000 2018,A good post about eBPF for beginners   https://t.co/5OpqMfz2vT
+994342306865037300,Wed May 09 22:24:14 +0000 2018,RT @PeterZaitsev: What is the difference between Benchmarking and Benchmarketing in MySQL ?  It is whenever your innodb_doublewrite is  ON…
+993870586957910000,Tue May 08 15:09:47 +0000 2018,RT @siddontang: Check out this Meetup: Where "Self-Driving" Database Meets a "Rusty" Distributed Key-Value Store  https://t.co/j64yqVscns #…
+993581519993163800,Mon May 07 20:01:08 +0000 2018,RT @andy_pavlo: SFO/SV Friends: I am coming to the valley this Thursday May 10 @ 6:30pm to speak at @PingCAP's #NewSQL meetup. I will talk…
+992446174207426600,Fri May 04 16:49:41 +0000 2018,@kevinsxu yet another operator 😆 https://t.co/l0fOzfB4JE
+992446001901269000,Fri May 04 16:49:00 +0000 2018,RT @andrewhobden: Oh my gosh look it's @PingCAP sponsoring @RustFest! https://t.co/4Xrp7QjYcM  😍
+990954743613681700,Mon Apr 30 14:03:16 +0000 2018,RT @PeterZaitsev: TiDB 2.0 is out - massively scalable distributed MySQL Protocol Compatible Database   https://t.co/fUMDMA1Ymt https://t.c…
+990838230055440400,Mon Apr 30 06:20:17 +0000 2018,TiDB 2.0 Announcement  https://t.co/9f97HxhVbF
+989627345525919700,Thu Apr 26 22:08:40 +0000 2018,Had a great time at @github HQ, they have the coolest office in this planet for sure https://t.co/sR60BYLLY4
+989626614609625100,Thu Apr 26 22:05:45 +0000 2018,RT @PingCAP: ANNOUNCEMENT: hosting our first SF-Bay Area meetup on May 10th w/ Prof Andy Pavlo of CMU @andy_pavlo on “self-driving” databas…
+989296782977916900,Thu Apr 26 00:15:07 +0000 2018,RT @kevinsxu: Lots of pros in #rustlang, that’s why we are using it to build #TiKV (part of #TiDB)! #PerconaLive https://t.co/vdtlSiWJeL
+989296677738528800,Thu Apr 26 00:14:42 +0000 2018,RT @PingCAP: IN 45 MIN: @siddontang will be delivering a talk in Room M2 on how to scale #TiKV to 100+ nodes (FYI, the whole thing is built…
+989219978204233700,Wed Apr 25 19:09:56 +0000 2018,RT @Que8eny: If you are at #PerconaLive, @c4pt0r is about to start his lunch demo at 12:30 regarding how #HTAP rocks! Feel free to drop by!
+988922722003517400,Tue Apr 24 23:28:44 +0000 2018,RT @PingCAP: PSA: PingCAP is hiring hardcore database engineers! Based in the Bay Area but also remote friendly. Check out our job postings…
+988918771015303200,Tue Apr 24 23:13:02 +0000 2018,RT @aaron_turon: Does your company want to sponsor work on Rust?   E.g. improving compiler performance, IDE integration, Rust+Wasm integrat…
+988800157629104100,Tue Apr 24 15:21:43 +0000 2018,RT @andrewhobden: Stickers, shirts, demos, nice papers, we got them! :) https://t.co/2j8WTtAs4w
+988580605104349200,Tue Apr 24 00:49:17 +0000 2018,RT @kevinsxu: It’s hoppin’ at @Percona Live 2018 and the conference hasn’t even officially started! #Perconalive https://t.co/Wgr7yXUtzN
+988550341070278700,Mon Apr 23 22:49:02 +0000 2018,@Que8eny @grafana I am using Linux...😂
+987740024979443700,Sat Apr 21 17:09:07 +0000 2018,RT @kevinsxu: #TiDB T-shirts for @Percona Live! #getexcited #PerconaLive2018 https://t.co/GbAQ5ICmrg
+987739745512915000,Sat Apr 21 17:08:01 +0000 2018,Good to know someone from community builds a Redis protocol layer for TiKV, awesome work! Thank you! 😊 Checkout TiD… https://t.co/I2A2qYVSsu
+987717716122288100,Sat Apr 21 15:40:29 +0000 2018,@ngaut1 You got your shirt!I'll bring some back to China :)
+987121099979735000,Fri Apr 20 00:09:44 +0000 2018,@markcallaghan @ArielWeisberg @CockroachDB @rethinkdb TiKV is another distributed KV store which with ACID transaction support
+987119620569030700,Fri Apr 20 00:03:51 +0000 2018,RT @andrewhobden: Starting tomorrow evening I'll be in the Bay Area until next Saturday.  Want to talk about networking, databases, #rustla…
+987119438800478200,Fri Apr 20 00:03:08 +0000 2018,RT @PingCAP: Also @c4pt0r will share some #TiDB best practices on Monday 04/23, see details👇👇. If you still need a ticket to the conference…
+987119404784611300,Fri Apr 20 00:03:00 +0000 2018,RT @kevinsxu: I’ll be there along with @Que8eny @andrewhobden @c4pt0r @siddontang. Come visit our booth for some #TiDB swag and #database b…
+985695216358252500,Mon Apr 16 01:43:47 +0000 2018,RT @PeterZaitsev: How Chaos Engineering used to test TiDB - MySQL Compatible NewSQL database  https://t.co/XFq9eYAyBW https://t.co/xkPPpODI…
+985694861079670800,Mon Apr 16 01:42:22 +0000 2018,RT @andrewhobden: In case you didn't know, https://t.co/noExkxtTHU works great with @PingCAP's TiDB.  I do enjoy a bit of autocomplete in m…
+984620873448546300,Fri Apr 13 02:34:44 +0000 2018,Check out this Meetup: Where "Self-Driving" Database Meets a "Rusty" Distributed Key-Value Store… https://t.co/WMP6AQdF90
+984266891186208800,Thu Apr 12 03:08:08 +0000 2018,Pretty simple! 💪👊🕶️ https://t.co/xoUEnfw0P1
+983619464624144400,Tue Apr 10 08:15:29 +0000 2018,RT @PingCAP: Come join @kevinsxu at the Bay Area In-Memory Computing meetup this Wed (04/11) at 6PM where he will talk about the architectu…
+982758383773102100,Sat Apr 07 23:13:52 +0000 2018,@genedna @PingCAP 收啊 怎么不收
+981378579693891600,Wed Apr 04 03:51:01 +0000 2018,Powered by TiDB  😎 https://t.co/ieZszldkID
+981136463214526500,Tue Apr 03 11:48:56 +0000 2018,@genedna @siddontang @PingCAP 策划了好久 把这个crate name的持有人都招来了
+981017986982129700,Tue Apr 03 03:58:09 +0000 2018,RT @fuxiaohei: 这才是 TiDB 的高级玩法，https://t.co/4EPg1keTnz https://t.co/IRCUTHuMFA
+980695279660773400,Mon Apr 02 06:35:49 +0000 2018,both https://t.co/CtOx65iEdP
+980603832689414100,Mon Apr 02 00:32:27 +0000 2018,RT @PingCAP: cc @siddontang Your Chaos Monkey is on @thenewstack! #ChaosEngineering #TiDB #NewSQL #Database https://t.co/nhTUSCWuwZ
+980603582679519200,Mon Apr 02 00:31:27 +0000 2018,RT @gridgain: The next Bay Area In-Memory Computing Meetup is April 11 in Menlo Park! Dmitriy Setrakyan's talk is titled, "Comparing Apache…
+979739094350684200,Fri Mar 30 15:16:17 +0000 2018,Spent a lovely afternoon with @ongardie and @andrewhobden talking about tech/rust/raft/lives in different corners o… https://t.co/sO2aJ20aLU
+979463658903289900,Thu Mar 29 21:01:48 +0000 2018,RT @PingCAP: Awesome to see our Distinguished Engineer (and #rustlang mega-user) @siddontang on @thenewstack, sharing his thoughts on how w…
+979169402468827100,Thu Mar 29 01:32:32 +0000 2018,See u tomorrow, and a warm welcome, buddy 😄 https://t.co/KZdGZY7WQP
+979157391701827600,Thu Mar 29 00:44:48 +0000 2018,RT @javasoze: super proud of team for building @Elasticsearch alerting support into @grafana @wph95 Please try out the PR and vote on it: h…
+979123587595620400,Wed Mar 28 22:30:29 +0000 2018,@PLT_cheater @lucabruno testing distributed systems, do random fault injection and see if the system is still alive.
+977297412929634300,Fri Mar 23 21:33:55 +0000 2018,To be honest, I can stare at it for a day. #TiDB #TiDB-Data-Visualization https://t.co/7NozM5AGWh
+977282375892660200,Fri Mar 23 20:34:10 +0000 2018,@mnt_io yep, found a crate: https://t.co/FIfINwwBMR see what we can do
+977266227709034500,Fri Mar 23 19:30:00 +0000 2018,SIMD is the thing, actually we’re working on replacing some iterators in #TiKV to a SIMD implementation, should wor… https://t.co/f8eS7nLHF0
+977263682248785900,Fri Mar 23 19:19:53 +0000 2018,That was my first time to have a presentation in English, very nervous I remember 😂 https://t.co/dTkl7rHe5q
+976976797584605200,Fri Mar 23 00:19:54 +0000 2018,#TiSpark makes #TiDB a great real-time data warehouse! HTAP rocks! MySQL for the write, SparkSQL for the read, see: https://t.co/GccahJcElu
+976955905584463900,Thu Mar 22 22:56:53 +0000 2018,@andelf Hacker
+976830753383186400,Thu Mar 22 14:39:34 +0000 2018,@hermanradtke blazing fast！
+976583491621077000,Wed Mar 21 22:17:03 +0000 2018,@andrewhobden Awesome!
+976529759407521800,Wed Mar 21 18:43:32 +0000 2018,Shifting to #neovim, THAT IS AMAZING. https://t.co/w9RqxF97Ts
+975905663061602300,Tue Mar 20 01:23:36 +0000 2018,RT @PingCAP: If you happen to be in #Boston on March 28 (Wednesday), come see our CTO Ed Huang (@c4pt0r) at the local #Apache #Spark meetup…
+975828831633260500,Mon Mar 19 20:18:18 +0000 2018,RT @shenli3514: How to Do Performance Tuning on TiDB, A Distributed NewSQL Database https://t.co/4xnToOO3iN via @DZone
+973728641329721300,Wed Mar 14 01:12:53 +0000 2018,RT @PingCAP: Curious about who's using #TiDB #TiKV in production? Here's a list of a few of our adopters (Ok...maybe more than just a few).…
+972666156266881000,Sun Mar 11 02:50:57 +0000 2018,@dankohn1 @PingCAP @CloudNativeFdn Thanks!
+972285981935087600,Sat Mar 10 01:40:16 +0000 2018,RT @PingCAP: TiDB 2.0 RC1 is now released! 🎉🎊A significant step towards better MySQL compatibility, SQL optimization and stability! Details…
+971940911935471600,Fri Mar 09 02:49:05 +0000 2018,@thekangni 单机上可以用 docker-compose 哦
+971906721399545900,Fri Mar 09 00:33:14 +0000 2018,@kevinsxu I read it in Kindle 😀
+971905336264220700,Fri Mar 09 00:27:43 +0000 2018,@kevinsxu A good book I am reading: Programming Rust
+971218620813471700,Wed Mar 07 02:58:58 +0000 2018,@PingCAP @CloudNativeFdn still using old logo?😀
+971218469684310000,Wed Mar 07 02:58:22 +0000 2018,RT @PingCAP: Really dig @CloudNativeFdn's new #cloudnative interactive landscape page, and good to see #TiDB among the many great projects.…
+970987323226603500,Tue Mar 06 11:39:52 +0000 2018,RT @rystsov: My paper on CASPaxos, a simpler than Raft &amp; Multi-Paxos protocol for building replicated state machines, is now on arXiv! The…
+968825053109305300,Wed Feb 28 12:27:47 +0000 2018,Performance matters. https://t.co/lzQXk1hS73
+968479296607043600,Tue Feb 27 13:33:52 +0000 2018,What's New with #NewSQL? Join us and find out at the Bay Area #NewSQL database meetup! Buzzwords and industry jargo… https://t.co/fcmaKJQ2Zs
+968443317137457200,Tue Feb 27 11:10:54 +0000 2018,RT @ShooterPlayer: 50万年薪请1位NodeJS和1位Golang和我做射手Next。工作环境是mac/vue/electron和k8s。另外找中英文双语技术通的应届HR助理。简历请发 tomasen@gmail.com ，介绍成功送iPhone X 256G
+967983920485621800,Mon Feb 26 04:45:25 +0000 2018,RT @kevinsxu: This said “Hybrid Database” is #TiDB ;) https://t.co/SzEafG1s0T
+967394074117382100,Sat Feb 24 13:41:35 +0000 2018,Best release ever, again https://t.co/B4nLiholYS
+966504470338138100,Thu Feb 22 02:46:37 +0000 2018,RT @PingCAP: Curious about how #TiDB cluster provides monitoring and alerts? We use a combo of @PrometheusIO &amp; @grafana (installed by defau…
+964694632360587300,Sat Feb 17 02:54:58 +0000 2018,RT @PingCAP: Great to see our technical writer extraordinaire @Que8eny share her story on @women2. Like she said, we regard, evaluate &amp; res…
+964694454589210600,Sat Feb 17 02:54:15 +0000 2018,RT @kevinsxu: Here's the backstory of how I got to @PingCAP to bring #TiDB to a global audience. Enjoy and Happy #ChineseNewYear! (w/ shout…
+961075310098878500,Wed Feb 07 03:13:04 +0000 2018,RT @PingCAP: #ICYMI Our Chief Architect @siddontang presenting at #FOSDEM2018 &amp; talking about how to build an #OpenSource distributed trans…
+960783862308614100,Tue Feb 06 07:54:57 +0000 2018,😎 https://t.co/6PgCGFN2o9
+959872645687726100,Sat Feb 03 19:34:06 +0000 2018,Got a cool sticker from @andrewhobden at #FOSDEM18 https://t.co/3uGugw4xfX
+959871845942968300,Sat Feb 03 19:30:56 +0000 2018,RT @andrewhobden: Wow we met some amazing people at #FOSDEM2018 today!   Interested in distributed databases, SQL, or Rust? Want to chat? P…
+959281529934438400,Fri Feb 02 04:25:13 +0000 2018,TiDB &lt;3 Prometheus https://t.co/V0RiqSi78q
+959281310123507700,Fri Feb 02 04:24:21 +0000 2018,How TiDB keeps track of time. https://t.co/dJ5BoURS5x
+959280767204343800,Fri Feb 02 04:22:12 +0000 2018,@asatarin Sure, will do.
+958958656799821800,Thu Feb 01 07:02:15 +0000 2018,Does anyone want to buy me a 🍺? 😉 https://t.co/kZwFEoXvem
+958956283834531800,Thu Feb 01 06:52:49 +0000 2018,😬 I will try my best to make it easy  to understand for those who don’t have experience in TLAplus https://t.co/BryAxVPmyd
+958745328538103800,Wed Jan 31 16:54:33 +0000 2018,Yep, I will be there! https://t.co/0hozsf141F
+958706659550834700,Wed Jan 31 14:20:54 +0000 2018,RT @yanqingdw: See you next time! #TiDB #Devcon https://t.co/fJZzcyNUoV
+957453502640414700,Sun Jan 28 03:21:18 +0000 2018,@kaiqiu_sum Enjoy it. Example: https://t.co/uEJmlp4yDm
+956709434272645100,Fri Jan 26 02:04:38 +0000 2018,RT @kevinsxu: Feeling mad #FOMO for missing this event, esp best practices shared by engineers from @Mobike @ToutiaoApp &amp; https://t.co/mLIj…
+956089145960554500,Wed Jan 24 08:59:50 +0000 2018,This release is really important. Basically we rewrote our whole SQL optimizer, huge performance improvement, enjoy… https://t.co/4tAQqNieEU
+955247968801599500,Mon Jan 22 01:17:18 +0000 2018,RT @PingCAP: #TiDB DevCon2018: a technical party by the developers and for the developers. https://t.co/8wCNMHR4UM
+951626187133960200,Fri Jan 12 01:25:38 +0000 2018,RT @matyix_: I’ve always been a fan of @PingCAP TiDB and happy that we are deploying it with Pipeline and also using internally. Scaling a…
+951037739624906800,Wed Jan 10 10:27:21 +0000 2018,Base on the code snippet I wrote this morning (see my last tweet), I extend it and it becomes a simple CLI-tool: ti… https://t.co/1zd7KHLt2K
+950971082550296600,Wed Jan 10 06:02:28 +0000 2018,@andrewhobden Thank you!
+950955059172425700,Wed Jan 10 04:58:48 +0000 2018,Surprised that few people know TiKV has a Prefix Seek API, so I wrote a quick demo to show how to use it. Pretty si… https://t.co/fLdnTnFenZ
+950951072532582400,Wed Jan 10 04:42:58 +0000 2018,@andrewhobden Good job! I think I should give NixOS a try. XD
+950533920486928400,Tue Jan 09 01:05:21 +0000 2018,RT @andrewhobden: Playing with NixOS and @PingCAP's TiKV. Here's a shell.nix that lets you develop on TiKV. Works with `--pure`, will try a…
+949827474350792700,Sun Jan 07 02:18:11 +0000 2018,Yep, since day 1. https://t.co/pSHrIfI5DZ
+949115425685516300,Fri Jan 05 03:08:45 +0000 2018,@tuxuls XD, yes, we're real...
+949072426926657500,Fri Jan 05 00:17:54 +0000 2018,RT @kevinsxu: @andrewhobden @PingCAP @c4pt0r @Que8eny @siddontang @shenli3514 @qiuyesuifeng Very excited to have you on board the @PingCAP…
+948740512655163400,Thu Jan 04 02:18:59 +0000 2018,@qazbnm456 @PingCAP @shenli3514
+948525444562698200,Wed Jan 03 12:04:23 +0000 2018,So cool! TiDB data distribution visualization https://t.co/QqkYFfQQVd
+948086177105506300,Tue Jan 02 06:58:53 +0000 2018,Our topic has been accepted by #FOSDEM in the #Rust track, see u there~:) https://t.co/z3vMLSUKha
+947039192504078300,Sat Dec 30 09:38:33 +0000 2017,RT @VadimTk: “A Look at Ten New Database Systems Released in 2017” by @peterc https://t.co/juRQDB1Lvu
+945849374290059300,Wed Dec 27 02:50:38 +0000 2017,docker-compose for TiDB cluster, enjoy it. https://t.co/rlEpAhi4Dl #Automation #DockerCompose #TiDB
+944149888291373000,Fri Dec 22 10:17:29 +0000 2017,Good post! https://t.co/25CluSudBa
+939179373889970200,Fri Dec 08 17:06:26 +0000 2017,Our new office in the Valley https://t.co/U5o4h5yGdp
+938784439282237400,Thu Dec 07 14:57:06 +0000 2017,@hypoalex I will message you
+938782280419491800,Thu Dec 07 14:48:32 +0000 2017,@hypoalex You mean TiDB config or TiKV/pd?
+938573314074615800,Thu Dec 07 00:58:10 +0000 2017,RT @anshuvajpayee: #RocksDB as the storage engine of #Cassandra Awesome! https://t.co/GC19ssi1GW
+938571963219435500,Thu Dec 07 00:52:48 +0000 2017,Thanks! Your encouragement means a lot to us, and we are trying our best to help developers like you https://t.co/ct4Pc5orzs
+938452785963532300,Wed Dec 06 16:59:14 +0000 2017,RT @dankohn1: Lots of updates in @CloudNativeFdn landscape 1.0 https://t.co/6F900DLqxS https://t.co/COXT6uNAuE
+937901328730226700,Tue Dec 05 04:27:56 +0000 2017,I see me 🤪 https://t.co/PUwfLnRGwx
+937587488297648100,Mon Dec 04 07:40:51 +0000 2017,@liancheng 我去年在macbook装了个pdp模拟器跑过unix v6...
+937227513540968400,Sun Dec 03 07:50:26 +0000 2017,RT @TrendingGolang: pingcap / tidb: TiDB is a distributed HTAP database compatible with MySQL protocol https://t.co/zzHAbggYZt #golang
+936651382186115100,Fri Dec 01 17:41:06 +0000 2017,Can't wait to see the DEMO. 😎 https://t.co/f6UCq40WEr
+936651243178549200,Fri Dec 01 17:40:33 +0000 2017,Working on real-time syncing data from RDS to TiDB in AWS (Hook up as MySQL slave), what's more, if you've already… https://t.co/EHjz6mMSMZ
+936575363131482100,Fri Dec 01 12:39:01 +0000 2017,@pkokoliu 没关系
+936556557361221600,Fri Dec 01 11:24:18 +0000 2017,Is there a fixed error bound？Like Google’s TrueTime 🧐 https://t.co/4UdGyWQJ1n
+936416070939787300,Fri Dec 01 02:06:03 +0000 2017,See u there~😛 https://t.co/flMM3V6k5G
+936317685335433200,Thu Nov 30 19:35:06 +0000 2017,my interview about business https://t.co/nn4ipBRTmU
+935872857661247500,Wed Nov 29 14:07:31 +0000 2017,@f_rock Become a contributor to TiDB
+935549226792116200,Tue Nov 28 16:41:31 +0000 2017,👍 https://t.co/e1KLKO7uLO
+935372663295426600,Tue Nov 28 04:59:55 +0000 2017,That was my first tech talk in English...🙃 https://t.co/RthI2176nD
+935089463390126100,Mon Nov 27 10:14:35 +0000 2017,We're hiring in the Valley https://t.co/yz8nTAojT8
+935089142790209500,Mon Nov 27 10:13:19 +0000 2017,RT @PingCAP: Nov. 20 ~ Nov. 26, we landed 60 PRs for TiDB, 5 PRs for TiSpark, and 10 PRs for TiKV: https://t.co/XUo2VkGzdK @shenli3514 @sid…
+933901807641813000,Fri Nov 24 03:35:16 +0000 2017,Will be in Bay Area during Dec 2 to Dec 13, hope to talk to developers who are interested in TDB 😆
+933900371277201400,Fri Nov 24 03:29:34 +0000 2017,RT @poshboytl: Cool… 你们是新项目用 TiDB? 同致敬 @c4pt0r 😎 https://t.co/MEpyGJQUNp
+932554699709997000,Mon Nov 20 10:22:21 +0000 2017,Or if you're interested in trying TiDB or have already deployed in production environment, pls let me know :)😜 https://t.co/fE07M3TQJx
+932553506245902300,Mon Nov 20 10:17:36 +0000 2017,We're finding skillful SRE &amp; DevOps in SF/Bay Area, helping TiDB users in the US. Feel free to contact me if you're interested.
+931365380211085300,Fri Nov 17 03:36:25 +0000 2017,@tatakaba I don't know Japanese though...But still, thank you for retweeting my post...
+928865702735253500,Fri Nov 10 06:03:35 +0000 2017,TiDB &lt;3 Spark! 😎 @rxin @databricks https://t.co/l273vf7KW7
+928847800791580700,Fri Nov 10 04:52:27 +0000 2017,@Kee_Kun @googollee 也没那么夸张，比如打死我也不支持存储过程和外键
+926296808715931600,Fri Nov 03 03:55:43 +0000 2017,Hmm, at first glance, I think TiDB could have its seat in Serverless architecture. #OpenFaaS 🤔 https://t.co/MXeRd1Xcqx
+926295620398321700,Fri Nov 03 03:51:00 +0000 2017,#逃离北上广 （虽然 NYC 也算是北上广。。。） LOL😂 https://t.co/D5LjJ86skq
+926295620398321700,Fri Nov 03 03:51:00 +0000 2017,#逃离北上广 （虽然 NYC 也算是北上广。。。） LOL😂 https://t.co/D5LjJ86skq
+926275049161658400,Fri Nov 03 02:29:15 +0000 2017,It's me! 😋 https://t.co/CvTs1WCRiX
+925977030365253600,Thu Nov 02 06:45:02 +0000 2017,Thanks Vadim! https://t.co/1TJilW349K
+925175436195143700,Tue Oct 31 01:39:47 +0000 2017,RT @ifesdjeen: On Disk IO, Part 5: Access Patterns in LSM Trees on SSDs, HDDs and more, is now out! https://t.co/OtaPlXt4pS
+924840862575607800,Mon Oct 30 03:30:19 +0000 2017,RT @PingCAP: [Rust Meetup in Beijing] Intro to Rocket, a Simple, Fast, Type-Safe Web Framework for Rust from Sergio Benitez: https://t.co/w…
+923034183940784100,Wed Oct 25 03:51:13 +0000 2017,True, we bought 10+ Optane SSD for testing, it's blazing fast.. https://t.co/kDKlMPLtag
+923024617106575400,Wed Oct 25 03:13:12 +0000 2017,I see TiDB! :) Thanks! https://t.co/KFsc9KBCyA
+923021882323955700,Wed Oct 25 03:02:20 +0000 2017,👍🙌 Yay! https://t.co/pB714bk306
+923021523576791000,Wed Oct 25 03:00:54 +0000 2017,@ssougou @markcallaghan IMHO, our algorithm depends on our storage implementation, I think it's possible when you'r… https://t.co/3sCNYhoL3L
+923020902438125600,Wed Oct 25 02:58:26 +0000 2017,@ssougou @markcallaghan Yep, our online DDL is based on this paper - Online, Asynchronous Schema Change in F1.
+922300666617380900,Mon Oct 23 03:16:29 +0000 2017,RT @astaxie: The first Go Hackathon in China https://t.co/ssUqzXBSuo
+921262908922667000,Fri Oct 20 06:32:48 +0000 2017,@WuTao8 这个是啥榜单啊
+921209067208548400,Fri Oct 20 02:58:51 +0000 2017,RT @PeterZaitsev: TiDB  - MySQL protocol compatible distributed database by PingCap reaches 1.0 milestone https://t.co/b7g9B6hGbk
+920830748830998500,Thu Oct 19 01:55:33 +0000 2017,711 days journey. We're 1.0, finally. Proud of u guys! https://t.co/ztrAY2JeqA
+920559329949790200,Wed Oct 18 07:57:02 +0000 2017,We’re 1.0! https://t.co/Bb5LIBr2My
+919118039609516000,Sat Oct 14 08:29:51 +0000 2017,RT @dankohn1: Glad to speak next to @montywi at #TheComputingConference2017 (and happy to hear #Wikipedia is actually running on @mariadb)
+919051187747397600,Sat Oct 14 04:04:12 +0000 2017,Inspired by FreeBSD's failpoints, we open sourced a handy error-injection library in rust: pingcap/fail-rs  https://t.co/t4S4jZWp0p
+919036135564701700,Sat Oct 14 03:04:24 +0000 2017,RT @dankohn1: The biggest booth @CloudNativeFdn has ever had, at #TheComputingConference2017 in Hagzhou https://t.co/pHAidE7iTw
+917671534847713300,Tue Oct 10 08:41:58 +0000 2017,@liprais 我现在考虑的代价是 cpu / memory / network, 因为有 network 的代价，和 spanner 一样很多聚合算子会转化成 partial aggregate -&gt; final aggregate （下推）
+917670934760132600,Tue Oct 10 08:39:35 +0000 2017,@liprais 另一个层面来说，CBO 考虑的代价是 network 的代价，看我最新发的一个我的 slides，有我们的评估模型。
+917670701619748900,Tue Oct 10 08:38:39 +0000 2017,@liprais 对于查询来说，优化器这个层面考虑 geo 干嘛，这个是执行器层面（实际发起数据扫描）上考虑的事情；对于写入来说，本身就会通过 geo tag 来确保数据的不同副本在不同的数据中心
+917666112258445300,Tue Oct 10 08:20:25 +0000 2017,A slides about distributed SQL in TiDB https://t.co/frLwxQYbaU
+917664273886699500,Tue Oct 10 08:13:06 +0000 2017,@liprais 感觉你不太像读过 TiDB 的代码
+917663692933668900,Tue Oct 10 08:10:48 +0000 2017,@liprais 那句话说不考虑了？
+917638207029649400,Tue Oct 10 06:29:32 +0000 2017,RT @PingCAP: Scale the Relational Database with NewSQL, @shenli3514's speech at #NextCon: https://t.co/J4jGoDjLhj https://t.co/fQryoCLfWQ
+917638066386255900,Tue Oct 10 06:28:58 +0000 2017,RT @PingCAP: Chaos: a simple linearizability testing framework written by @siddontang https://t.co/vIPeUW9nBk
+917637778724200400,Tue Oct 10 06:27:49 +0000 2017,@jezell Thank you!
+916270673319751700,Fri Oct 06 11:55:26 +0000 2017,Great post about Linux I/O! https://t.co/ROtHZDnMGp
+915069619148267500,Tue Oct 03 04:22:53 +0000 2017,@Sempr 我用2715q
+915059068984631300,Tue Oct 03 03:40:57 +0000 2017,@Sempr 我现在已经回不去了...不是 4k 基本没法接受
+914822384049258500,Mon Oct 02 12:00:27 +0000 2017,@Sempr 4k的外接显示器能正常work吗
+913953630859927600,Sat Sep 30 02:28:20 +0000 2017,RT @PeterZaitsev: MySQL 8.0.0 first milestone release was released slightly over year ago.   What a great progress in a year! https://t.co/…
+913627436192903200,Fri Sep 29 04:52:09 +0000 2017,RT @RocksDB: RocksDB 5.8 is released. https://t.co/pNW97I05q3
+912967860833591300,Wed Sep 27 09:11:14 +0000 2017,Seems like my little essay got some attention....which I don't mean it.🙃 https://t.co/Uyqxun67T8
+912686946324901900,Tue Sep 26 14:34:59 +0000 2017,@Sempr 企业家你又调皮了
+912677163811274800,Tue Sep 26 13:56:07 +0000 2017,Why did we choose Rust over Golang or C/C++ to develop TiKV?  https://t.co/O2vy10l3Ib
+912188589475106800,Mon Sep 25 05:34:42 +0000 2017,Thank you, Asta! https://t.co/fYtPqtdIRL
+911783858076500000,Sun Sep 24 02:46:26 +0000 2017,Write a blog post about why we choose Rust instead of Golang in TiKV. // Trying to translate into English and will… https://t.co/r50YUfqSMG
+911480027165876200,Sat Sep 23 06:39:07 +0000 2017,Thank you, Rob!  https://t.co/IU9U8NyCr7
+911054547216326700,Fri Sep 22 02:28:25 +0000 2017,@PingCAP @shenli3514 https://t.co/lasU8Q5DXq
+910664613666086900,Thu Sep 21 00:38:57 +0000 2017,@leemars 哟，不对，miss 了最近的那条哦～
+910664399811092500,Thu Sep 21 00:38:06 +0000 2017,@leemars 最近几天都是螺螄粉。。。感觉不是南宁 😂
+910663222843162600,Thu Sep 21 00:33:26 +0000 2017,RT @FuadRKattan: @GRRMspeaking Happy birthday King George of House Martin. First of his name. Father of Dragons. King of the Andals and the…
+910663037777932300,Thu Sep 21 00:32:42 +0000 2017,@leemars 回家了呀～
+910343937512030200,Wed Sep 20 03:24:42 +0000 2017,RT @lcalcote: New @kubernetesio integration with Vault. #HashiConf https://t.co/eEJkir4p8A
+910330983953477600,Wed Sep 20 02:33:14 +0000 2017,RT @KarlKFI: @avideitcher @jbeda NewSQL (Cockroach, TiDB, Spanner) would be much easier to use &amp; operate: strongly consistent, relational,…
+910236244214390800,Tue Sep 19 20:16:46 +0000 2017,Home, sweet home! #Heading back to Beijing https://t.co/IDuIRVbcx1
+909164633910501400,Sat Sep 16 21:18:34 +0000 2017,Wrote a handy shell script to help deploying TiDB cluster in single machine, in one command. https://t.co/M6gKClYaO3
+907657866072297500,Tue Sep 12 17:31:13 +0000 2017,Recursive hack: [T]iDB [i]s a good [DB]. 🙃
+907657332963684400,Tue Sep 12 17:29:06 +0000 2017,@lusters_ ....例外
+907655042764701700,Tue Sep 12 17:20:00 +0000 2017,RT @databricks: Learn about #ApacheSpark APIs and Best Practices for Optimizing Spark Applications @Spark_Summit https://t.co/xPHd1VAEaN
+907654193325809700,Tue Sep 12 17:16:37 +0000 2017,Good post! https://t.co/cZo75oXWjr
+907653994029375500,Tue Sep 12 17:15:50 +0000 2017,RT @jeffsonstein: async I/O is really important, see https://t.co/cS2s8xJJUq for a pretty clear overview of Futures https://t.co/UcyUtcfbBh
+907466367917482000,Tue Sep 12 04:50:16 +0000 2017,RT @PingCAP: Sep. 04 ~ Sep. 10, we landed 49 PRs for TiDB and 32 PRs for TiKV:  https://t.co/lY7iPrG0ez @shenli3514 @siddontang
+906180397997801500,Fri Sep 08 15:40:17 +0000 2017,It costed us about two weeks for hunting this bug, and finally we found it, what a relief! 🐛🎉 https://t.co/655M2nOWOS
+905917698713858000,Thu Sep 07 22:16:25 +0000 2017,2 questions: 1/ How to do service discovery? 2/ Does wire protocol matters? What if I want to use other RPC framewo… https://t.co/wMu8cNJbAu
+905916838810456000,Thu Sep 07 22:13:00 +0000 2017,https://t.co/N90nxqsu5j https://t.co/yd7OF6eyLL
+905916813359198200,Thu Sep 07 22:12:54 +0000 2017,Nginx Unit, not a new idea, but it's suitable for Nginx providing such 'micro-service' infrastructure, hope to see more details.
+905814039627829200,Thu Sep 07 15:24:30 +0000 2017,😆 https://t.co/13GZ7bzB1c
+905241021360902100,Wed Sep 06 01:27:32 +0000 2017,Awesome! 4 months? That's something 👍 https://t.co/oa7ZsgJHgd
+905226200259248100,Wed Sep 06 00:28:39 +0000 2017,Running an open-source startup in China is totally different from running it in the US, maybe I can write something about this topic.
+905216143144525800,Tue Sep 05 23:48:41 +0000 2017,@liprais Why not~🙃
+905118686066876400,Tue Sep 05 17:21:25 +0000 2017,Rust 2017 Survey Results - The Rust Programming Language Blog https://t.co/dXfAnD9TpU
+905103638057574400,Tue Sep 05 16:21:37 +0000 2017,@lusters_ 照顾不熟悉csp的程序员
+905086659825254400,Tue Sep 05 15:14:10 +0000 2017,@lusters_ 我就是普通本科...
+905078316142534700,Tue Sep 05 14:41:00 +0000 2017,@lusters_ 简历挂？为啥啊
+904955693303607300,Tue Sep 05 06:33:45 +0000 2017,Agree！ https://t.co/hghleQpQqP
+904954510736474100,Tue Sep 05 06:29:03 +0000 2017,🤣 https://t.co/YjONmTnlQk
+904938211926982700,Tue Sep 05 05:24:17 +0000 2017,Yeah, rust rocks!🤘 https://t.co/NXzW9j0kn4
+904840715577860100,Mon Sep 04 22:56:52 +0000 2017,San Fransisco / Beijing / Shanghai, @PingCAP https://t.co/Nvg9JAZ1Vw
+904840449503801300,Mon Sep 04 22:55:48 +0000 2017,WE ARE HIRING! Developer Advocates/Database Engineer, helping build pingcap/tidb, next generation SQL database, huang@pingcap.com
+904802783349448700,Mon Sep 04 20:26:08 +0000 2017,RT @dankohn1: Congratulations on being the first Certified #Kubernetes Administrator on Twitter! (There are lots more coming.) https://t.co…
+903634236070010900,Fri Sep 01 15:02:45 +0000 2017,@matyix_ @PingCAP @aphyr Still working on it 😀
+903466884049231900,Fri Sep 01 03:57:45 +0000 2017,Passing jepsen is the baseline. https://t.co/pwRByZqzKy
+903374973913333800,Thu Aug 31 21:52:32 +0000 2017,@lusters_ 加油
+902925376355106800,Wed Aug 30 16:05:59 +0000 2017,Last few months, we've done many significant features: CBO/gRPC/continual improvement in Raft, I'm so proud of you… https://t.co/70mLw7qVrF
+902199460905680900,Mon Aug 28 16:01:28 +0000 2017,https://t.co/wE5BW0OYay
+902197432410292200,Mon Aug 28 15:53:24 +0000 2017,Tonight we're going to RocksDB meetup in SF, see U there https://t.co/pQfPOSrawF
+900208493873049600,Wed Aug 23 04:10:04 +0000 2017,RT @PingCAP: Aug. 14 ~ Aug. 20, we landed 57 PRs for TiDB and 33 PRs for TiKV! https://t.co/BWIgbuPTlA @shenli3514 @siddontang
+900185740637651000,Wed Aug 23 02:39:39 +0000 2017,RT @RocksDB: Exciting RocksDB meetup coming up next week in SF: https://t.co/DLzu90s8UZ. L0-&gt;L0 compaction, RocksDB cloud, Similarity Searc…
+899870747681636400,Tue Aug 22 05:47:59 +0000 2017,RT @redditrust: This week in TiKV (Aug. 14 to Aug. 20) https://t.co/LTJgsrDRLl
+898397121132453900,Fri Aug 18 04:12:19 +0000 2017,@flyer103 :) 正常
+897824124751315000,Wed Aug 16 14:15:26 +0000 2017,Back to SF next week.
+897393101936906200,Tue Aug 15 09:42:42 +0000 2017,RT @PingCAP: @ongardie How does TiKV ensure data consistency for 100 TB+ data? Multi-raft! See the design and implementation:  https://t.co…
+897315489809956900,Tue Aug 15 04:34:18 +0000 2017,I think it's a great example of how to use futures crate in Rust. Thank you Rust! @alex_crichton  #rustlang https://t.co/M0mxMLbyFC
+897314640715104300,Tue Aug 15 04:30:56 +0000 2017,Last three months,we're working on a Rust wrapper for gRPC, for now, it's production ready and used in TiDB/TiKV. https://t.co/5WVdmojU9Y
+897313469782937600,Tue Aug 15 04:26:17 +0000 2017,The brief design &amp; implementation of multi-raft in TiKV https://t.co/b5uJM7FwcQ
+892332973067968500,Tue Aug 01 10:35:34 +0000 2017,RT @PingCAP: The #Rust #gRPC library built on gRPC C core and futures: https://t.co/VM04QuLBvD @rustlang @grpcio @siddontang
+891638564546420700,Sun Jul 30 12:36:14 +0000 2017,RT @PingCAP: #TiKV uses the #Raft algorithm to implement the strong consistency of data in a distributed environment: https://t.co/u4FH8ZoS…
+889422919276798000,Mon Jul 24 09:52:03 +0000 2017,RT @PingCAP: When and how to use TiDB? See the following post for the best practices: https://t.co/2IN1cCArBj @shenli3514 @c4pt0r https://t…
+888186794755317800,Fri Jul 21 00:00:08 +0000 2017,RT @PingCAP: The brain behind #TiDB and #TiKV: Placement Driver.  Find about more on how everything is scheduled inside TiKV: https://t.co/…
+885659669473050600,Fri Jul 14 00:38:14 +0000 2017,We're trying to translate our blog posts into English. https://t.co/VM5jpw5dXY
+885659162423607300,Fri Jul 14 00:36:13 +0000 2017,There are 3 posts in this series #TiDB internal# in total, the Chinese version is very popular in China. https://t.co/LMz9qaRlci
+885658050240970800,Fri Jul 14 00:31:48 +0000 2017,This post presents the basic idea on how TiDB SQL layer do the distributed computation and shows the data flow when… https://t.co/uhXwuDe0bd
+885656879208190000,Fri Jul 14 00:27:09 +0000 2017,TiDB Internal (II) - Computing https://t.co/Bt2WEX0hjl
+885610191722471400,Thu Jul 13 21:21:38 +0000 2017,I thought Dropbox is using Rust for their storage infra, am I wrong? 🤔 https://t.co/z2leRy8Sec
+885568660332462100,Thu Jul 13 18:36:36 +0000 2017,Generics would be added in Go 2?? Amazing! https://t.co/8SM4XYLWY7
+885545073953263600,Thu Jul 13 17:02:52 +0000 2017,LOL https://t.co/HgIU8K2Vw2
+885213519418765300,Wed Jul 12 19:05:24 +0000 2017,@matyix_ @PingCAP @shenli3514 @siddontang @siddontang octopus got a fan 😃
+884956044887179300,Wed Jul 12 02:02:17 +0000 2017,@matyix_ @PingCAP @shenli3514 @siddontang But compare with Clojure, we feel more comfortable with Golang, so we're… https://t.co/a73Z8ot6zo
+884955985562845200,Wed Jul 12 02:02:03 +0000 2017,@matyix_ @PingCAP @shenli3514 @siddontang We've finished the integration with Jepsen at 2016, recently, we just add… https://t.co/IQxuiKxpn2
+884925643242168300,Wed Jul 12 00:01:29 +0000 2017,Arrived in Bay area~~Let's go get some Chinese food~my friends 😋
+884923812244062200,Tue Jul 11 23:54:12 +0000 2017,RT @PingCAP: How is data stored in TiDB? The following blog unveils the secret of TiDB data storage: https://t.co/oiOoCe4Urn @shenli3514 @c…
+868361266376581100,Sat May 27 07:00:33 +0000 2017,RT @PingCAP: In the 1st Rust meetup in Beijing, @siddontang talked about how we use #Rustlang in TiKV:  https://t.co/dbgah1NWh3 @redditrust…
+859062973754556400,Mon May 01 15:12:28 +0000 2017,RT @PingCAP: TiDB on #PerconaLive . We bring distributed scalability to SQL! https://t.co/yn7GnFrT3f
+858130276622323700,Sat Apr 29 01:26:15 +0000 2017,:) https://t.co/JQIo9Yweqh
+851791199316750300,Tue Apr 11 13:37:02 +0000 2017,@junyu 以前我是 Google keep 的重度用户，但有一次数据丢了...从此我再也不敢用了....
+851790864980426800,Tue Apr 11 13:35:42 +0000 2017,RT @Tyler_Bridges: @united @FoxNews @CNN not a good way to treat a Doctor trying to get to work because they overbooked https://t.co/sj9oHk…
+850297314409300000,Fri Apr 07 10:40:52 +0000 2017,4/25~5/5 在湾区，约起来
+847045724449587200,Wed Mar 29 11:20:12 +0000 2017,RT @PingCAP: March 20 ~ March 26, we landed 40 PRs for TiDB and 18 PRs for TiKV: https://t.co/LxlOtyKklw  @ngaut1 @c4pt0r @siddontang @shen…
+835666664670691300,Sun Feb 26 01:43:53 +0000 2017,@gslin @orsonwang Because $HOME/tidb is not in $GOPATH.
+829951608792375300,Fri Feb 10 07:14:17 +0000 2017,@owenzhao :)
+829951507327967200,Fri Feb 10 07:13:53 +0000 2017,great article! “NoSQL Databases: a Survey and Decision Guidance” by @Baqendcom https://t.co/uahM3Rfc13
+829127490618564600,Wed Feb 08 00:39:32 +0000 2017,@owenzhao @iigmir 纠正一下。。。TiDB 不是网易有道的。。。虽然我以前在网易有道待过。。。
+828853253945200600,Tue Feb 07 06:29:49 +0000 2017,@sampullara @PingCAP Awesome!
+816567017377382400,Wed Jan 04 08:48:42 +0000 2017,RT @TrendingGithub: pingcap / tidb: TiDB is a distributed NewSQL database compatible with MySQL protocol ★5890 https://t.co/ctcmD0e3MQ #Go
+816517104010547200,Wed Jan 04 05:30:22 +0000 2017,RT @albert_zhang: 因为看Google F1/Spanner相关资料找到的TiDB/TiKV，通过狗叔介绍，在2016年12月有幸结识了PingCAP。很不错的team和产品，对TiDB持续关注和测试中。希望2017年能部分用到生产环境。 https://t.c…
+816472056317415400,Wed Jan 04 02:31:22 +0000 2017,RT @PingCAP: From Dec. 26 ~ Jan. 1, we landed 28 PRs for TiDB and 19 PRs for TiKV: https://t.co/qXjCu3itMd @ngaut1 @c4pt0r @siddontang @she…
+816471264478933000,Wed Jan 04 02:28:13 +0000 2017,RT @internetsurfing: #TiDB – A distributed #NewSQL database compatible with #MySQL protocol https://t.co/VcbbYumBu0
+816470998174183400,Wed Jan 04 02:27:09 +0000 2017,@saneyuki_s yeah, our company is located in Beijing
+811555691672412200,Wed Dec 21 12:55:29 +0000 2016,RT @PingCAP: Wondering how to add Built-in functions to #TiDB? Check it out:  https://t.co/fkmbYdkmfl @shenli3514 @c4pt0r @ngaut1 @siddonta…
+806451287285841900,Wed Dec 07 10:52:24 +0000 2016,RT @PingCAP: How are the subqueries optimized in TiDB? @hanfei19910905 has it here: https://t.co/zqvoBTTFHo https://t.co/eOrl2KKgDP
+798471415053701100,Tue Nov 15 10:23:14 +0000 2016,RT @PingCAP: Wanna see how a TiDB cluster is behaving? Monitor it! Here is how: https://t.co/9l2ijcP8Fc https://t.co/7ewTcsn5ov
+798471342957834200,Tue Nov 15 10:22:57 +0000 2016,Time travelling in TiDB: https://t.co/J3MCxkqsOQ
+793783212627464200,Wed Nov 02 11:54:00 +0000 2016,Thank you and happy hacking! :) https://t.co/lydCM5MQb2
+791142402295726100,Wed Oct 26 05:00:22 +0000 2016,如何是好，不过应该不会有 Linux 版吧。。 https://t.co/EADy01B6Sg
+790741638586863600,Tue Oct 25 02:27:52 +0000 2016,RT @PingCAP: TiDB has a new logo. Check it out! Can you see the difference? https://t.co/Y3nxwyI2gN https://t.co/doaRQxl93J
+790741604365578200,Tue Oct 25 02:27:44 +0000 2016,RT @PingCAP: A better-formatted version for the speech text of Max Liu's talk at @Percona Live Open Source Database Conference: https://t.c…
+784658068944527400,Sat Oct 08 07:33:56 +0000 2016,RT @PingCAP: Thanks, @Percona, for such a great event #perconalive! Wanna recap on how TiDB is built? See the deck here: https://t.co/JvRmn…
+783231493485236200,Tue Oct 04 09:05:14 +0000 2016,RT @PingCAP: On Oct 5, 4:25pm to 5:15pm, @ngaut1 will deliver a 50-min talk on #perconalive @Percona Come and join us: https://t.co/JvRmnKq…
+778523179815796700,Wed Sep 21 09:16:04 +0000 2016,Actually, I'm feeling ambitious.....@cockroachdb https://t.co/bIge9HTGDA
+773812930911477800,Thu Sep 08 09:19:14 +0000 2016,I'll be there too! XD https://t.co/yZ6etMnRfQ
+772835703025643500,Mon Sep 05 16:36:04 +0000 2016,RT @PingCAP: This week in TiKV: https://t.co/UY8pKHuMft
+772835691617062900,Mon Sep 05 16:36:02 +0000 2016,RT @PingCAP: Awesome! https://t.co/rSMjCgcZ39
+772239244584558600,Sun Sep 04 01:05:58 +0000 2016,对啊，一样的感觉。。 https://t.co/7sk0fWR4TL
+772237536945066000,Sun Sep 04 00:59:10 +0000 2016,@siddontang Awesome! I think it's the first implementation for prometheus client in Rust #rustlang
+756364143670591500,Fri Jul 22 05:43:59 +0000 2016,RT @ngaut1: Thank to @NamazuFuzzTest for quick response (https://t.co/nLTSRrjF2g). Now TiKV use namazu to do fuzz testing. I love you guys.
+756363900480659500,Fri Jul 22 05:43:01 +0000 2016,RT @redditrust: This Week in TiKV https://t.co/QLX1VlQ6Dy
+740108124275630100,Tue Jun 07 09:08:22 +0000 2016,TiDB/TiKV is about to release its beta version by the end of June, more stable, more documents, feel free to hacking on it :)
+740106810267336700,Tue Jun 07 09:03:08 +0000 2016,I wrote a little app in Flask and sqlalchemy using TiDB + TiKV, it works like a charm :)
+740106181138518000,Tue Jun 07 09:00:38 +0000 2016,exactly! https://t.co/ZNxBcyXAVt
+725538253881798700,Thu Apr 28 04:12:54 +0000 2016,@isNoFate 年轻人 有时候身不由己啊……
+725534011515260900,Thu Apr 28 03:56:02 +0000 2016,💊 今年需要将口语水平锻炼到能做英文 presentation ，中文还没说利索呢……
+725384045790535700,Wed Apr 27 18:00:08 +0000 2016,@ikbear 白山云吧……
+717320409582936000,Tue Apr 05 11:58:07 +0000 2016,RT @elecash: Github is down! https://t.co/bLT9gycbdW
+697745258885574700,Thu Feb 11 11:33:27 +0000 2016,@junyu 服
+697743603016298500,Thu Feb 11 11:26:53 +0000 2016,RT @cockroachdb: What do #GitHub stars mean &amp; what can you learn from them? We've done some analysis: https://t.co/hiOFx2D8cu https://t.co/…
+684755730847547400,Wed Jan 06 15:17:43 +0000 2016,简单来说就是洗脑 // You’re Not Finished Selling Until You Change Your Customers Habits via @ttunguz https://t.co/50pUVn9beB
+672322966584098800,Thu Dec 03 07:54:21 +0000 2015,是啊 https://t.co/AKpSKxyNFh
+654324877889925100,Wed Oct 14 15:56:22 +0000 2015,Awesome// Mattermost 1.0 release (Slack opensource alternative) (Hacker News) http://t.co/e7V55XRarQ
+650902078550728700,Mon Oct 05 05:15:23 +0000 2015,“Competitors Are Not The Enemy” by @nicharry https://t.co/xogqnS3owq
+645026916357943300,Sat Sep 19 00:09:35 +0000 2015,Why Slack could be the future of conferences (The Verge) http://t.co/iEZiizeTjK http://t.co/E2F73CZIFi
+644839247099199500,Fri Sep 18 11:43:51 +0000 2015,RT @PingCAP: TiDB, a MySQL drop-in replacement written in Go, able to run Wordpress https://t.co/KjPEwbWyds http://t.co/zQlG2NO8Xy
+643448721842159600,Mon Sep 14 15:38:24 +0000 2015,@ixever 有啊 邮件沟通吧
+640841959855132700,Mon Sep 07 11:00:04 +0000 2015,@JesseDearing thanks!
+640809978253606900,Mon Sep 07 08:52:59 +0000 2015,RT @PingCAP: TiDB - Scalable RDBMS Inspired by Google F1 with Support for MySQL Protocol https://t.co/Y3nxwyI2gN
+639353738570760200,Thu Sep 03 08:26:24 +0000 2015,Pocket 的无敌杠杆：20 人团队何以撬动 2,000万 用户？ (TECH2IPO创见) http://t.co/XJiB5D5wTK http://t.co/Jyac7lmH9m
+638965680499372000,Wed Sep 02 06:44:24 +0000 2015,An in-depth look at the new Google brand identity. http://t.co/stzBCJ9uHg via @GoogleDesign
+637987876110622700,Sun Aug 30 13:58:57 +0000 2015,LOL //Dropbox工程师开发出无损压缩算法“Pied Piper” (Solidot) http://t.co/N04zznv6vv
+634188147207729200,Thu Aug 20 02:20:11 +0000 2015,再写一个~！ https://t.co/xux6bvvGNR
+633994566375313400,Wed Aug 19 13:30:58 +0000 2015,RT @cockroachdb: Cucaracha of the Week: Thanks to contributor XisiHuang and his work building rename operations &amp; builtin functions: http:/…
+633830612609036300,Wed Aug 19 02:39:28 +0000 2015,RT @siddontang: 我写了新文章《使用sqllogic test进行SQL逻辑测试》 （ 分享自 @jianshucom ） http://t.co/cn0VligL30
+633830311969722400,Wed Aug 19 02:38:17 +0000 2015,RT @cxiaoji: 早班车司机放NPR，讲到Jeff Bezos回应纽时报道：「不爽怎么还不走」「不爽直接给我发邮件」车里的码农集体爆笑，陌生人之间热烈地讨论起来。这个城市从未感觉这样温暖。
+631697146538934300,Thu Aug 13 05:21:50 +0000 2015,感觉突然一下子变得睿智了呢 https://t.co/ArDEWyuxWp
+631502920865845200,Wed Aug 12 16:30:03 +0000 2015,Do You Trust Larry Page? (Stratechery by Ben Thompson) https://t.co/fLSOFYrbrW
+630656634679771100,Mon Aug 10 08:27:13 +0000 2015,commits are worth a read // Ask HN: I will help your startup in exchange for food and a place to stay http://t.co/QXbNQqiHDd
+626211592972075000,Wed Jul 29 02:04:12 +0000 2015,RT @getqujing: 各位，再见 https://t.co/aMmaRsvQIA
+626057722253955100,Tue Jul 28 15:52:47 +0000 2015,The Duct Tape Programmer - Joel on Software http://t.co/DrUXRRl3EZ
+626018579301818400,Tue Jul 28 13:17:14 +0000 2015,@larrylv  恩, 我平时上班都用这个
+626017185211752400,Tue Jul 28 13:11:42 +0000 2015,曲径竟然挂掉了，需要寻找一个新的 backup (via Weibo http://t.co/rBwkvkUBRV)
+626015958260252700,Tue Jul 28 13:06:49 +0000 2015,曲径竟然挂掉了，需要寻找一个新的 backup
+625646761818914800,Mon Jul 27 12:39:46 +0000 2015,The Singular Mind of Terry Tao http://t.co/ErqueUDPMu (via Weibo http://t.co/lXhgAVe24u (via Weibo http://t.co/DuOhIF5UVG)
+625636976725725200,Mon Jul 27 12:00:53 +0000 2015,The Singular Mind of Terry Tao http://t.co/ErqueUDPMu (via Weibo http://t.co/xFY3EwPnVG)
+625636490719039500,Mon Jul 27 11:58:57 +0000 2015,The Singular Mind of Terry Tao http://t.co/JvU93dT916
+625635392117538800,Mon Jul 27 11:54:35 +0000 2015,@larrylv 点个赞
+625597612733919200,Mon Jul 27 09:24:28 +0000 2015,活捉一个说谎者悖论 (via Weibo http://t.co/s768BYcCwb)
+624807497417818100,Sat Jul 25 05:04:50 +0000 2015,452b 和费米悖论结合起来看简直细思恐极 http://t.co/LVy8uZG0SM (via Weibo http://t.co/tcrkPhFxaO)
+624447798096826400,Fri Jul 24 05:15:31 +0000 2015,快到大选年了 买一幅晚上带回家镇宅 (via Weibo http://t.co/9uqv4QM8WS)
+624261369467142100,Thu Jul 23 16:54:43 +0000 2015,搞不好真有碳基生命哦[吃惊] (via Weibo http://t.co/Hp2fEHITkv)
+624257557675307000,Thu Jul 23 16:39:34 +0000 2015,没记错的话 天鹅座还有一个恒星级黑洞 真是个神奇的地方 //@Dongxu_Huang:环境不错 就是有点远 没有曲率引擎搞不定。。。 (via Weibo http://t.co/ipfNkAH5Km)
+624257555666182100,Thu Jul 23 16:39:34 +0000 2015,环境不错 就是有点远 没有曲率引擎搞不定。。。 (via Weibo http://t.co/POjdztxGog)
+624128957668028400,Thu Jul 23 08:08:33 +0000 2015,转发微博 (via Weibo http://t.co/4spMpoIMJA)
+623865804342341600,Wed Jul 22 14:42:53 +0000 2015,"Aggregation Theory" #apple #feedly https://t.co/VbIXaKKaS7
+619055398973104100,Thu Jul 09 08:08:03 +0000 2015,RT @siddontang: Our first article in highscalability  http://t.co/SILsXLfmgf but reading our Chinese English is painful for others. :-)
+617809827385864200,Sun Jul 05 21:38:35 +0000 2015,@larrylv 没错
+608811907143716900,Thu Jun 11 01:44:04 +0000 2015,RT @mxcl: Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck of…
+604286629830774800,Fri May 29 14:02:14 +0000 2015,@siddontang cool! iMac retina 27' is amazing! btw you need another keyboard :)
+599770514823852000,Sun May 17 02:56:48 +0000 2015,RT @siddontang: Good by Kingsoft, Hello PingCAP. Once startup again.
+597436287272898600,Sun May 10 16:21:25 +0000 2015,RT @engadget: CHIP is a $9 Raspberry Pi killer http://t.co/6Jqvb3uCHw http://t.co/pcv6TURZzo
+575876306157490200,Thu Mar 12 04:29:45 +0000 2015,@Fenng 微博太小气了。。
+558625364977520640,Fri Jan 23 14:00:40 +0000 2015,RT @siddontang: 我写了新文章《MySQL问题两则》 （ 分享自 @jianshucom ） http://t.co/jOoeIaKfFm
+553395310207053800,Fri Jan 09 03:38:18 +0000 2015,Someone else had your idea first http://t.co/KkcqdyZUt5
+539710860797571100,Tue Dec 02 09:21:11 +0000 2014,@siddontang btw, 你在北京吗? 如果在的话, 可以一起交流一下哈~ :)
+539709837559754750,Tue Dec 02 09:17:07 +0000 2014,@artofhuh thanks for sharing!
+539709489252139000,Tue Dec 02 09:15:44 +0000 2014,@siddontang   "虽然proxy对于相应slot一段时间无法处理外部请求，但这个时间是很短的（不过此时config当掉了就惨了）" 这个是不会发生的, 此时 proxy 还是可以对外提供服务的, 只不过在新的请求过来的时候会强行先进行一次migrate key
+531075105406062600,Sat Nov 08 13:25:46 +0000 2014,RT @RedisLabsInc: "Codis is a proxy based high performance Redis cluster solution written in Go/C, an alternative to Twemproxy.": https://t…
+531073621725548540,Sat Nov 08 13:19:52 +0000 2014,@wandoujia 不明觉厉！！！
+530974905941377000,Sat Nov 08 06:47:37 +0000 2014,RT @wandoujia: 我荚的 Codis 正式开源了~ 一夜之间登上了 Github Trending Top 5  https://t.co/ufQ9Xa04tI  撒花！(￣▽￣)o∠※PAN!=.:*:'☆.:*:'★':*
+526665566761664500,Mon Oct 27 09:23:50 +0000 2014,RT @Fenng: 翻看了 @罗永浩 最近的微博，好几条都说到他自己要反思的话。锐气尽失。妈的，好心酸，感觉好像一个倍儿阳刚的男人突然阳痿了一样。 (via http://t.co/6V8dukzItd)
+516519055952338940,Mon Sep 29 09:25:14 +0000 2014,@isNoFate 牛逼
+516463986368200700,Mon Sep 29 05:46:24 +0000 2014,@isNoFate 你去的这个时间也是赶巧了, 目睹历史啊
+516463503251484700,Mon Sep 29 05:44:29 +0000 2014,RT @apple4us: 中文電腦印刷字體考古：1990-1992: http://t.co/keWudVLgI4
+516463457021878300,Mon Sep 29 05:44:18 +0000 2014,RT @AmberTaipei: 可以把佔中罷課寫成萬人慶祝國慶，強國好強啊～ 圖片轉自「香灣湯生」fb。 http://t.co/oy10G2mzun
+492550981758890000,Fri Jul 25 06:04:39 +0000 2014,@larrylv 暂时没打算走 下次走估计就是创业或者去硅谷了
+492486573695316000,Fri Jul 25 01:48:43 +0000 2014,@larrylv 在硅谷？
+492255278125969400,Thu Jul 24 10:29:38 +0000 2014,@larrylv lv神去哪了？ :)
+482207378750705660,Thu Jun 26 17:02:52 +0000 2014,@ApacheMesos cool~~我是作者之一哦
+478854235493126140,Tue Jun 17 10:58:41 +0000 2014,@getqujing 请问现在个人用户有办法可以注册吗？
+478203891931033600,Sun Jun 15 15:54:27 +0000 2014,RT @Fenng: 尽管墙的阻尼越来越大，但 Twitter 上的大陆用户还是越来越多。信息是增墒的。
+450908249982656500,Tue Apr 01 08:11:18 +0000 2014,Learn iOS Design: http://t.co/zEqQLkzgFw
+447252746019016700,Sat Mar 22 06:05:38 +0000 2014,我喜爱 Dropbox 的原因是 空间不足了... https://t.co/ZixJBxzXea
+382792648404135940,Wed Sep 25 09:04:14 +0000 2013,RT @hewigovens: 早上看到两个好消息，Chrome打算移除NPAPI支持；PyCharm3.0社区版开源并免费
+382792590686318600,Wed Sep 25 09:04:00 +0000 2013,RT @laoyang945: 233 RT @laughing1210 我发现没有任何一个煤矿工人因为挖煤快又多当上了煤老板----今日金句
+381723423409307650,Sun Sep 22 10:15:30 +0000 2013,@c4pt0r 竟然是免费的...我陷入了深深的担忧
+381723340294996000,Sun Sep 22 10:15:11 +0000 2013,终于找到Google Drawing的替代品了，还是个国内的服务ProcessOn。 Awesome, 千万别死啊, 这就去给你们付费
+367973830569898000,Thu Aug 15 11:39:32 +0000 2013,https://t.co/vuHQq2UN3L   --- 国内果然有人山寨asana了
+367670848959696900,Wed Aug 14 15:35:36 +0000 2013,@junyu 好希望asana能有自己host服务器的版本,像github enterprise那样就好了. 否则国内访问好慢...难道是我的打开方式不对？
+367669190544461800,Wed Aug 14 15:29:00 +0000 2013,清理了一下following list, 把一些spammer和僵尸号删掉了, 决定尝试开始主力用twitter来记录, 原因比较简单, 因为twitter的open api比sina的友好, 做起备份来比较方便.
+367668615891263500,Wed Aug 14 15:26:43 +0000 2013,最近一直想写一些小而美的小东西玩, 但是一直缺乏灵感
+342604734328356860,Thu Jun 06 11:31:48 +0000 2013,RT @g201513: 我有一种比拖延症还奇葩的习惯， deadline越近越不想做。。。
+342514999706656800,Thu Jun 06 05:35:14 +0000 2013,RT @go_nuts: A conversation with the Go team http://t.co/SFLjboGLmx #golang
+342498048640954400,Thu Jun 06 04:27:52 +0000 2013,@liruqi  LOL...是在暗示dropbox同步速度堪忧吗...
+331727366193823740,Tue May 07 11:09:01 +0000 2013,We request the United States government will tofu curd official taste is sweet http://t.co/eZrgNgUl3c
+317180849059676160,Thu Mar 28 07:46:22 +0000 2013,新工具：Crafty 2D游戏引擎（javascript） (http://t.co/L1eH2LKDS9) http://t.co/i1bpx0N4Ur
+300277585944932350,Sat Feb 09 16:18:50 +0000 2013,@foxaecom 电信网络下无法使用？联通3g貌似也无法使用，是我打开方式不对还是服务器故障？。。。人在广西南宁
+268582962252111870,Wed Nov 14 05:15:42 +0000 2012,paperwhite http://t.co/wqnqZAeK
+268003745311367170,Mon Nov 12 14:54:06 +0000 2012,@freefcw 对啊
+268001532866338800,Mon Nov 12 14:45:19 +0000 2012,@freefcw  我也觉得celery有点2b，rpc的代码居然要和其他的业务逻辑放在一起 表示很不能接受, 虽然重构老代码方便了点 但是还是不爽
+260591781698211840,Tue Oct 23 04:01:36 +0000 2012,RT @Fenng: 「在党的十八大即将召开之际，华中科技大学，用“多米诺骨牌”组成党旗和“十八大”字样的图案，表达对党的十八大胜利召开的殷切期盼和对国家欣欣向荣的祝福之情。」多米诺骨牌，哈哈哈，绝对的高级黑
+251987661080903680,Sat Sep 29 10:11:55 +0000 2012,我在北京南站：去魔都 http://t.co/TP5BR7gM http://t.co/zy7uws1j
+219767597103718400,Mon Jul 02 12:20:52 +0000 2012,我在網易有道搜尋：第一本golang的中文書 看看 http://t.co/7Aq2vFyN
+219378957231984640,Sun Jul 01 10:36:33 +0000 2012,我在福口居(清河店)：第一次來家門口的這家店 http://t.co/MzzztAul
+219378946536521730,Sun Jul 01 10:36:31 +0000 2012,我得到了街旁徽章【大喇叭】，用街旁來曬出你的快樂行蹤，獨樂樂不如眾樂樂，越分享越快樂！ http://t.co/bqhMHgY6
+138583425811611650,Mon Nov 21 11:43:58 +0000 2011,RT @muzuiget: 沃兹的价值观我深得我心：做一辈子工程师，搞一辈子技术，不想做管理层之类要搞权谋机诈的工作。好产品应该由工程师来主导，工程师也是艺术家，苹果3如此失败，就是它由市场和管理部门那些手握大权而不不懂技术来主导。 #iWoz
+86634287226564600,Fri Jul 01 03:16:38 +0000 2011,似乎妹纸都不爱用google系的东西？
+85719945794699260,Tue Jun 28 14:43:22 +0000 2011,我觉得django + tornado的组合简直太适合创业团队初期了....
+85718766918447100,Tue Jun 28 14:38:41 +0000 2011,@yangzhe1991 engine X
+83537322263588860,Wed Jun 22 14:10:24 +0000 2011,@9Apache9 啊？
+83537240566935550,Wed Jun 22 14:10:04 +0000 2011,RT @cydu: 某次线上模块出Core,导致雪崩,服务全部瘫痪,我组织全组RD,QA,OP集体唱红歌,唱着唱着,模块就不出Core了,服务也正常了,性能比以前还提升了15%左右. 有感于:重庆癌症患者称靠唱红歌挺过化疗:一听就忘了痛_社会频道_新华网- http:// ...
+82290496399089660,Sun Jun 19 03:35:57 +0000 2011,一边听着social network的ost，一边coding.....感觉太赞了
+81634163383476220,Fri Jun 17 08:07:55 +0000 2011,把python当c写。。。。可读性真高啊.....
+81633928586338300,Fri Jun 17 08:06:59 +0000 2011,xulrunner-sdk 4编译出来的xpcom组件在ff4中运行的好好的，结果ff5中无法运行；最后的解决办法是下个最新的xulrunner-sdk重新编译下就好了....mozilla这程序写得实在是.....
+81179643209711620,Thu Jun 16 02:01:49 +0000 2011,@qiang linost
+80969487637155840,Wed Jun 15 12:06:44 +0000 2011,@FrostNovaZzz mac桌面开发
+80969287061352450,Wed Jun 15 12:05:57 +0000 2011,@FrostNovaZzz 除了ichat从未有第二选择的飘过....
+80968629985869820,Wed Jun 15 12:03:20 +0000 2011,@PiouseLeo 我现在用的vpn不错，和直接来没什么区别
+80895942395568130,Wed Jun 15 07:14:30 +0000 2011,@FrostNovaZzz 痛苦转型mac开发。。。哈哈
+79127242134917120,Fri Jun 10 10:06:19 +0000 2011,RT @FrostNovaZzz: 为什么程序员那么热衷创业? 因为写程序本身就是创造的过程. 为什么不做得更有意思一点?
+78973564400840700,Thu Jun 09 23:55:39 +0000 2011,不上twitter的pm不是好程序员
+78968434238558200,Thu Jun 09 23:35:16 +0000 2011,RT @matrix67: 如果你在森林里迷路了怎么办？答案：添加几条边，把它化为一棵树
+76217828390342660,Thu Jun 02 09:25:21 +0000 2011,作为谷粉，是不是应该小期待下chromebook?
+75818636685737980,Wed Jun 01 06:59:06 +0000 2011,RT @robbinfan: 我个人观点：程序员这个职业的特点是要求很强的自学能力和逻辑思维能力，凡是具备此种能力的人都可以自学成才，没必要上培训学校。我招人不要求任何学历，但上过培训学校的肯定不要。
+75817222039289860,Wed Jun 01 06:53:29 +0000 2011,最近想用python写一个照片分享的webapp, 在client端自动resize照片，自动上传到server上，主要是给我妈这种傻瓜用户用的....拍完照片, 在sd卡的目录中运行一个python脚本，然后一切搞定
+75813054662705150,Wed Jun 01 06:36:55 +0000 2011,@FrostNovaZzz 买个vpn
+75812537643438080,Wed Jun 01 06:34:52 +0000 2011,RT @FrostNovaZzz: 你不一定要读书成绩很好才可以有理想
+72287399278940160,Sun May 22 13:07:13 +0000 2011,@FrostNovaZzz 其实对于绝大多数情况下，没什么用,mysql绝对能够满足，但是能派上用场的厂商往往是最具有话语权和技术权威的。。。所以。。。。
+71400468668096510,Fri May 20 02:22:52 +0000 2011,@hanunyi 壮士，注意安全！
+69721411140329470,Sun May 15 11:10:54 +0000 2011,尼玛，windows下的默认字体真尼玛丑
+69701039858782210,Sun May 15 09:49:57 +0000 2011,http://postboard.tk:8888/           周末无聊的小作品
+69307670699589630,Sat May 14 07:46:51 +0000 2011,@FrostNovaZzz me2
+69307670565367810,Sat May 14 07:46:50 +0000 2011,@FrostNovaZzz me2
+69010030673936380,Fri May 13 12:04:08 +0000 2011,leveldb貌似需要c++0x, 看来google那帮家伙还真是先进啊
+69009724309372930,Fri May 13 12:02:55 +0000 2011,在c++写累的情况下, 写写js还是很惬意的
+69008793584926720,Fri May 13 11:59:13 +0000 2011,和mozilla的联系上了，一起开发一个extension
+69008555520425980,Fri May 13 11:58:16 +0000 2011,RT @bluedavy: 从leveldb的描述来看，还看不出太多亮点，主要就是原子的批量操作了，而且没有讲到这个leveldb是如何来支持分布的，莫非不支持？另外也许是性能吧，但需要测试。
+13289796467,Mon May 03 05:45:06 +0000 2010,Hello World form twitboo
+13289715476,Mon May 03 05:42:44 +0000 2010,Hello World From TwitterAPI
+12580425524,Wed Apr 21 14:49:58 +0000 2010,RT @glif: RT @buqing: 老婆想玩三国杀而不能，愤怒的质问：“盛大把三国杀的牌都弄成黑白的不行吗？”。
+12214882526,Thu Apr 15 10:09:37 +0000 2010,最新规定：世博会期间禁止打雷下雨！1、东方明珠被雷劈 雷公表示系临时工所为。2、东方明珠遭雷击 专家称此雷五十年一遇。3、雷公：东方明珠被雷起火是法盲悲剧，作为执法者我没有歉意。4、东方明珠被雷 周边高楼情绪稳定
+12090829983,Tue Apr 13 06:43:54 +0000 2010,我决定有空做一个twitter的桌面客户端
+12090818777,Tue Apr 13 06:43:28 +0000 2010,经过n天痛苦的编译, 终于把webkit编译出来了
+12090796204,Tue Apr 13 06:42:37 +0000 2010,@aoi_sola 私は、あなたが私の女神ですあなたを愛して
+12019625156,Mon Apr 12 00:58:48 +0000 2010,RT @aoi_sola: 我使用的是翻译。谢谢。在中国我的球迷。 I use a translator in chinese. Thank you for my fans in China.
+11459954599,Fri Apr 02 03:12:00 +0000 2010,微产阶级 利用微博客传播真相和维护权利，争取自由、民主、科学的无产阶级先锋组织。 我志愿加入该组织，愿为全天下人的自由、民主、科学发展贡献微薄之力量。
+11458542725,Fri Apr 02 02:41:42 +0000 2010,你们不能剥夺我们吃地沟油的权利!
+10916639392,Tue Mar 23 08:47:33 +0000 2010,google 真汉子啊!
+8879702167,Wed Feb 10 01:02:37 +0000 2010,@astrill  Give me a chance!

@@ -10,8 +10,8 @@ const TWITTER_API = {
 }
 
 // Specify first user_id (using user_id since there was a limit to use screen_name while fetching followers)
-let user_ids = ['216939636']
-let global_screen_name = 'AndrewYNg'
+let user_ids = ['2924521080']
+let global_screen_name = 'davidfrawleyved'
 
 let last_update = Date.now()
 

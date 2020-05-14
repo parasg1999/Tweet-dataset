@@ -1,0 +1,968 @@
+id,created_at,text
+1260678075714601000,Wed May 13 21:07:30 +0000 2020,👏Amazed by our outstanding bug hunter Dr.@RiggerManuel. So far, he has reported 28 P1/P2 bugs in Bug Hunting Contes… https://t.co/F7nTqnPmsc
+1260315059173109800,Tue May 12 21:05:00 +0000 2020,Both #DBMS developers and users face challenges while dealing with performance regression bugs. This @pvldb paper p… https://t.co/RLQnuv7zng
+1259866853985398800,Mon May 11 15:23:59 +0000 2020,We are glad to see #TiDB help solve @VNGCorporation1's infrastructure problems that blocked their business growth.… https://t.co/l7K2zCSSE0
+1259495829137576000,Sun May 10 14:49:40 +0000 2020,RT @readkubelist: The TiDB Operator from @PingCAP is a true K8s operator that provides built-in expertise. This Pperator handles installati…
+1259183057329946600,Sat May 09 18:06:50 +0000 2020,With Backup &amp; Restore (BR),  a distributed backup and restore tool introduced in #TiDB 4.0, you can easily backup a… https://t.co/hCdR16FHVj
+1258820526887354400,Fri May 08 18:06:16 +0000 2020,This paper proposes a scalable clustering method, EBD (edge-based distance) to solve k-paths—a fundamental trajecto… https://t.co/AesW3FImLJ
+1258596222295662600,Fri May 08 03:14:57 +0000 2020,RT @tikvproject: 🔊 The mentee application deadline has been extended to May 18th!  Take your time. 🤗 https://t.co/t87Ph7efXV
+1258502426371543000,Thu May 07 21:02:14 +0000 2020,#UsabilityChallenge #TiDB provides statement summary tables for 🛠troubleshooting #SQL performance issues. But the `… https://t.co/2rd4hLf9cL
+1258059441859149800,Wed May 06 15:41:59 +0000 2020,#futuredatabase  #TiDB 4.0 introduces SQL Plan Management, which lets the optimizer automatically choose execution… https://t.co/SiCM3eGVVi
+1257734283537637400,Tue May 05 18:09:55 +0000 2020,This paper proposes a GPU-based Personalized #PageRank algorithm that can answer top-k queries on billion-edge grap… https://t.co/85LwwvHBYB
+1257333407362830300,Mon May 04 15:36:59 +0000 2020,Felt complicated to run development builds for #TiDB or @tikvproject? Check out @nick_r_cameron‘s latest post - eve… https://t.co/9lbWoi49wt
+1256933947969114000,Sun May 03 13:09:40 +0000 2020,RT @k_staszewski: Useful FREE resources for beginners in @rustlang that is not rust book: 1. https://t.co/oPohYMYCaN by @fasterthanlime  2.…
+1256391937709338600,Sat May 02 01:15:55 +0000 2020,RT @CloudNativeFdn: #CNCF Ambassador Spotlight: Queeny Jin of @tikvproject 👋🏼😊https://t.co/ckricGN5Wa https://t.co/3IR3sMFGc7
+1255921676354715600,Thu Apr 30 18:07:16 +0000 2020,#UsabilityChallenge 👩‍💻👨‍💻Already completed several easy tasks and won 2⃣️0⃣️0⃣️+ points?  It's time to move on to… https://t.co/sHPrBNib5O
+1255558339024617500,Wed Apr 29 18:03:29 +0000 2020,#futuredatabase What can you do in one minute? Answer: You can get a #TiDB cluster up and running. No complicated s… https://t.co/H8r49f2CfW
+1255195789862862800,Tue Apr 28 18:02:51 +0000 2020,#PaperReading This paper presents a hybrid SCM-DRAM persistent tree, which stores leaf nodes in SCM (Storage Class… https://t.co/cZcgmLAeQN
+1254835523190960000,Mon Apr 27 18:11:17 +0000 2020,With the support of the 'SET CONFIG' syntax, you can easily update configs of #TiKV/PD using #SQL statements, witho… https://t.co/Ejn434vQvL
+1254435258105094100,Sun Apr 26 15:40:46 +0000 2020,RT @chaos_mesh: 📣📣Introducing my first-ever release!!!🥳🤩 V0.8.0 features all the cool improvements that mark my growth during the last few…
+1254198456442171400,Sat Apr 25 23:59:48 +0000 2020,RT @tikvproject: Dear adopters,   Thanks for choosing #TiKV! As maintainers of the project, we would love to hear from and connect with you…
+1253710547142365200,Fri Apr 24 15:41:01 +0000 2020,📣It's halfway through the #UsabilityChallenge. 📣  As of today, a total of 93 teams with 136 challengers signed up;… https://t.co/RlVTX2rIbg
+1253507979359314000,Fri Apr 24 02:16:05 +0000 2020,RT @nick_r_cameron: I blogged a blog: How TiDB handles large transactions: https://t.co/Tw1gQmnjE2
+1253385141788999700,Thu Apr 23 18:07:59 +0000 2020,By integrating major tech stacks like GitOps, #Kubernetes native middleware, and #gRPC, this #testbed environment e… https://t.co/KpHACkAIJv
+1253175069985005600,Thu Apr 23 04:13:14 +0000 2020,RT @Que8eny: Check out this job from Robert Half! It could really help if you are familiar with #TiDB: https://t.co/ykt8n0fwum
+1252993310580506600,Wed Apr 22 16:10:59 +0000 2020,#futuredatabase No more pain troubleshooting #DistributedSQL databases! #TiDB 4.0 introduces Key Visualizer, a visu… https://t.co/BK622PWQuY
+1252989377006821400,Wed Apr 22 15:55:21 +0000 2020,@qiuyesuifeng and @siddontang also made contributions to a paper discussing, UniKV, a novel KV Storage. The paper i… https://t.co/NZLMZEYdRw
+1252982035242643500,Wed Apr 22 15:26:11 +0000 2020,@qiuyesuifeng and @siddontang also made contributions to a paper discussing, UniKV, a novel KV Storage. The paper i… https://t.co/weVVDLB5sB
+1252981438460252200,Wed Apr 22 15:23:48 +0000 2020,It’s time to catch up with the latest #DataEngineering trends.🤓 Join us in reading some excellent-written papers fr… https://t.co/DZsmTjpYO3
+1252659637524091000,Tue Apr 21 18:05:05 +0000 2020,Can you start a #distributedSQL database in 10 minutes, in 1 minute, or even in 10 seconds? In our new quick start… https://t.co/IoZywzRMBg
+1252620341211324400,Tue Apr 21 15:28:56 +0000 2020,RT @webcode: A peek into the future of #database: A unified infrastructure to adapt intelligently https://t.co/TUi6zmH1lY via @dxhuang @Pin…
+1252271805609500700,Mon Apr 20 16:23:59 +0000 2020,Have you ever simulated clock skew to test a #DistributedSystem and messed up the entire node? TimeChaos lets you m… https://t.co/c0v93k41Hu
+1251210363816816600,Fri Apr 17 18:06:11 +0000 2020,#UsabilityChallenge Now you can add or drop multi-columns with a single `ALTER TABLE` statement in #TiDB. Congrats… https://t.co/ydbN8MGjEE
+1250824290749911000,Thu Apr 16 16:32:04 +0000 2020,RT @chaos_mesh: I had a lot of fun presenting to @CloudNativeFdn SIG-Network. Feel great to be known by more people.😉 Looking forward to th…
+1250531717846270000,Wed Apr 15 21:09:29 +0000 2020,#PaperReading In seek of a robust, ideal execution plan, this paper proposes an access path operator, Smooth Scan,… https://t.co/n9UcMYNnaW
+1250425598486302700,Wed Apr 15 14:07:49 +0000 2020,RT @RiggerManuel: Thrilled to see that @PingCAP has started implementing wreck-it, which is an implementation of the Pivoted Query Synthesi…
+1250123824986820600,Tue Apr 14 18:08:40 +0000 2020,To make a great GA, we invite you to the #TiDB 4.0 Bug Hunting Program to identify issues and get the RC into the b… https://t.co/pMwxAW99Zg
+1249725027739730000,Mon Apr 13 15:44:00 +0000 2020,#futuredatabase Introducing Backup and Restore (BR), a distributed backup and restore tool for large-scale… https://t.co/YZivzJVzFy
+1248790163230036000,Sat Apr 11 01:49:10 +0000 2020,As the opening of the #futuredatabase series, this article from @siddontang, our chief architect, provides a previe… https://t.co/X1cEB5MULp
+1248315744951115800,Thu Apr 09 18:24:00 +0000 2020,🤔With so many #databases on the market, how do you choose the right one for your e-commerce platform？ 👀Check this s… https://t.co/aTLsbT3u7b
+1248136852839645200,Thu Apr 09 06:33:09 +0000 2020,Feel intrigued about the ideas of the future database? Here is a peek - #TiDB 4.0 RC is just out, featuring some ma… https://t.co/wAuFW7HOko
+1248133224363995100,Thu Apr 09 06:18:44 +0000 2020,Today is our 5th anniversary. The past 5 years saw #TiDB grow from inception to a production-ready #HTAP platform.… https://t.co/etXWYNGo4O
+1247848981037637600,Wed Apr 08 11:29:15 +0000 2020,To guard #tidb against unpredicted incidents and make it resilient enough for production, we built our… https://t.co/cNfzpqWhE0
+1247420045828841500,Tue Apr 07 07:04:49 +0000 2020,Glad to see this book out! Our team has been a firm believer and practitioner of #chaosengineering since the very e… https://t.co/9YYnTFOCxM
+1247225289610072000,Mon Apr 06 18:10:56 +0000 2020,This #PaperReading recaps the basics of #Paxos first, then introduces Flexible Paxos which no longer requires quoru… https://t.co/yyWW4gqZfS
+1246138168283402200,Fri Apr 03 18:11:06 +0000 2020,#UsabilityChallenge Currently you cannot bypass #TiDB HTTP API to get the #MVCC information. But built-in functions… https://t.co/PPsoMQcjFn
+1245774850704191500,Thu Apr 02 18:07:24 +0000 2020,#TiDB v3.1 RC  is released today! Some notable changes are: ✅Re-implement partition pruning for better performance… https://t.co/VwNySIYf0v
+1245412321767436300,Wed Apr 01 18:06:50 +0000 2020,TiDB Operator v1.1.0-rc.1 is released!🥳 Some notable features are: * Allow elastic scaling of #TiDB/#TiKV by CPU us… https://t.co/Bk0SpUcLYJ
+1245049300020838400,Tue Mar 31 18:04:19 +0000 2020,📣Introducing `AUTO_RANDOM`, a new column attribute in #TiDB v3.1 to make #TiDB automatically assign random integers… https://t.co/PoTRZiWAb2
+1244686430179340300,Mon Mar 30 18:02:24 +0000 2020,This 2006 paper presents a cost-based transformation framework that combines logical transformation and physical op… https://t.co/4fWXP4Cvr6
+1244295981413220400,Sun Mar 29 16:10:54 +0000 2020,RT @_rsc: Thrilled that Go has popularized pprof, a fantastic cross-language tool!  Pprof was written by Sanjay Ghemawat in 2001, in C++ fo…
+1243644732913442800,Fri Mar 27 21:03:04 +0000 2020,For tables with predicate extractor, explantory information would be helpful for knowing your execution plan better… https://t.co/bxoCyHwNvg
+1243092302278484000,Thu Mar 26 08:27:55 +0000 2020,@jepsen_io @palvaro Congrats! Thanks Elle for detecting the anomaly in TiDB and making TiDB better! We are planning… https://t.co/97jtxOOBmJ
+1243076827762942000,Thu Mar 26 07:26:25 +0000 2020,RT @dxhuang: @WADeptHealth Thank you for your hard work! Let me know how we can help! Ed, Co-founder and CTO at PingCAP for #TiDB, a scale-…
+1242843726466211800,Wed Mar 25 16:00:09 +0000 2020,Troubled by finding @rustlang programs’ performance bottlenecks online? By integrating pprof-rs in @tikvproject,… https://t.co/6u0apkxJzm
+1242795274000420900,Wed Mar 25 12:47:37 +0000 2020,RT @chaos_mesh: Network Loss➕Network Delay➕Network Duplicate➕Network Corrupt = Netem!  With a new action `netem`, you can freely combine 4…
+1242160152771317800,Mon Mar 23 18:43:53 +0000 2020,For further reading, check out this blog to learn how Titan, a RocksDB plugin, adopts the idea of KV separation and… https://t.co/pQriFVyzgS
+1242153553822654500,Mon Mar 23 18:17:39 +0000 2020,HashKV aims for efficient updates atop KV separation. This #PaperReading highlights its design in hash-based data g… https://t.co/23lBvmd6wZ
+1241063643661455400,Fri Mar 20 18:06:45 +0000 2020,#UsabilityChallenge Sometimes workloads in TiDB experience read/write hotspots.  A diagnostic rule to suggest hot r… https://t.co/YMefs8DmTR
+1240449072068096000,Thu Mar 19 01:24:39 +0000 2020,RT @chaos_mesh: So you've embraced the idea of #ChaosEngineering and decided to practice it on your system. But how?  This 10-minute tutori…
+1239977783205548000,Tue Mar 17 18:11:55 +0000 2020,#TiDB is highly #MySQL compatible, so most best practices for MySQL-based #Java application also work for TiDB. 👐 R… https://t.co/rCqy7HIIjl
+1239614912156098600,Mon Mar 16 18:10:00 +0000 2020,#PaperReading Less than ideal cardinality estimates lead to suboptimal query plans. To address this issue, this pap… https://t.co/FGs00N9q3p
+1238165049233084400,Thu Mar 12 18:08:46 +0000 2020,Building compact yet fast in-memory search trees has been a major challenge in achieving memory efficiency for… https://t.co/DIh3CArL4d
+1237760891657076700,Wed Mar 11 15:22:47 +0000 2020,With so many #databases on the market, how do you choose the right one for your app? @ShopeeSG, a leading e-commerc… https://t.co/zSIgjCac64
+1237484158773051400,Tue Mar 10 21:03:09 +0000 2020,Starting from #TiDB 3.0, when the resource usage exceeds the threshold you specified, you can check the log to iden… https://t.co/6jbVmZF3YO
+1237075968117932000,Mon Mar 09 18:01:09 +0000 2020,Based on an optimized LSM-tree, Alibaba's OLTP storage engine can weather a storm of transaction data with features… https://t.co/CdhyvLJRrE
+1236658581925060600,Sun Mar 08 14:22:36 +0000 2020,48 hours, 104 authors, 431 commits, 204 PRs - This is how our book, “TiDB in Action”, gets written from scratch to… https://t.co/P1ZjjoOo3F
+1236246250128732200,Sat Mar 07 11:04:09 +0000 2020,RT @nick_r_cameron: As the US is now following China into a massive, enforced experiment in remote work, now seems a good time to re-up my…
+1236004411761201200,Fri Mar 06 19:03:10 +0000 2020,You are challenged! For the next 3 months, join us in the #TiDB Usability Challenge program, and help improve the u… https://t.co/6lZIgMDzno
+1235584449061908500,Thu Mar 05 15:14:23 +0000 2020,RT @tikvproject: We are pleased to announce that @tikvproject has finished the #security audit from @cure53berlin with positive results🎉🥂Th…
+1235439466124210200,Thu Mar 05 05:38:16 +0000 2020,RT @tikvproject: Thanks @CloudNativeFdn. This is a difficult but right call.  Looking forward to seeing you in summer at #TiKV speaking ses…
+1235435114735136800,Thu Mar 05 05:20:59 +0000 2020,It takes 5 years to shape what #TiDB is today, but it only takes 5 months for the TiDB repo to grow from 300 to 400… https://t.co/uUxEG2y0VF
+1235280869708923000,Wed Mar 04 19:08:04 +0000 2020,#PickoftheWeek Now #TiDB supports the SELECT INTO OUTFILE syntax!  😉 Combined with LOAD DATA INFILE, it surely will… https://t.co/CYBKygMieW
+1234887927668322300,Tue Mar 03 17:06:39 +0000 2020,What is a #NewSQL database and why would you use one? 🤔  If you are troubled by this question and happen to be arou… https://t.co/inqBEqASIp
+1234713297561108500,Tue Mar 03 05:32:44 +0000 2020,RT @zhangjian1012: After adopting skyline pruning, the index selection of TiDB SQL Optimizer is more robuster than before.
+1234555089987285000,Mon Mar 02 19:04:05 +0000 2020,Skyline Operator is a popular #SQL extension for query optimization. This #PaperReading shares how skyline operatio… https://t.co/KOKIq39HsN
+1233588698069061600,Sat Feb 29 03:03:59 +0000 2020,DBMS paper enthusiasts, still haven’t decided what to read for the weekend? Here are something fresh and juicy from… https://t.co/0HKRzvzmBM
+1233564611489587200,Sat Feb 29 01:28:16 +0000 2020,RT @golangweekly: Early Impressions of Go from a Rust Programmer: https://t.co/VTc48h4EuV
+1232842889618526200,Thu Feb 27 01:40:24 +0000 2020,From the perspective of a #Rust programmer, @nick_r_cameron shares with us his first impressions about #golang. Che… https://t.co/MvtTNQ9O5m
+1232349555401818000,Tue Feb 25 17:00:04 +0000 2020,Spread the word, distributed system learners - 5 lectures so far for the classic MIT 6.824 have been officially ava… https://t.co/AVwU1rxKmg
+1232216857278468000,Tue Feb 25 08:12:46 +0000 2020,RT @PingCAP: Huge data volume can make #backupandrestore long and tedious. 😫 Well, it doesn't have to be like this. Starting from #TiDB 3.1…
+1232216809933176800,Tue Feb 25 08:12:35 +0000 2020,RT @chaos_mesh: 📮#weeklyupdates📮  Yeet!🤩 I have some cool new #features!😎  ⏲Support TimeChaos to simulate time out of sync 🧐Support pprof i…
+1232019024038551600,Mon Feb 24 19:06:39 +0000 2020,Huge data volume can make #backupandrestore long and tedious. 😫 Well, it doesn't have to be like this. Starting fro… https://t.co/HxW0G3BWX7
+1231947554121584600,Mon Feb 24 14:22:40 +0000 2020,RT @zhangjian1012: This can be the best 3rd-party parser compatible with #mysql syntax! Besides #TiDB, other projects such as @Xiaomi's Gae…
+1230977241192030200,Fri Feb 21 22:06:59 +0000 2020,#PickoftheWeek Gone are the days when you could only load your #TiDB #configs from local. With this PR, you can dyn… https://t.co/qr9ipcsaQA
+1230530049373331500,Thu Feb 20 16:30:00 +0000 2020,Hailstorm is designed to improve load balance and utilization of LSM-based distributed databases. With #TiDB, it ha… https://t.co/BrlHV5nxEY
+1230160105859055600,Wed Feb 19 15:59:59 +0000 2020,🤔High read latency and network traffic are common issues for a #MultiRegion architecture. To our excitement, a team… https://t.co/WPZGaAFnsr
+1229942219374768000,Wed Feb 19 01:34:10 +0000 2020,#BestPractice Don't compromise on #TiKV performance when TOO many Regions overload the cluster. This doc explains h… https://t.co/JTGG5e8fV8
+1229491954347626500,Mon Feb 17 19:44:59 +0000 2020,#WorkLifeBalance is harder when you work remotely, but still doable. Check out @nick_r_cameron’s last article of th… https://t.co/6YYTosM8zQ
+1228710558926614500,Sat Feb 15 16:00:00 +0000 2020,Ever felt frustrated about communication inefficency when working  remotely? @nick_r_cameron has some really cool i… https://t.co/F2YV1ejZkp
+1228117646291304400,Fri Feb 14 00:43:58 +0000 2020,If you are wondering how is that even possible, here is a case study from @xgsun a while ago: https://t.co/qt0QQtGrQo #distributedSQL
+1228116685149765600,Fri Feb 14 00:40:09 +0000 2020,RT @nick_r_cameron: Published part 3 of my remote work blog series: https://t.co/UuyyIBEVbb Some thoughts on maintaining work/life balance,…
+1228033369352671200,Thu Feb 13 19:09:05 +0000 2020,#PickoftheWeek 🤔What is the secret of 10X faster window function calculation? 🙌Sliding window! ❤️Check how our… https://t.co/SzY8kS6QlI
+1227997089549807600,Thu Feb 13 16:44:55 +0000 2020,RT @xgsun: 这也许是全世界最大的 TiDB 单体集群：168 TiKV 实例 /  21 TiDB 实例 / 18,200 亿行记录 / 318TB 数据 / 峰值读取 1 亿行每秒 / 峰值写入 8.7 万行每秒 。 It wouldn't have been po…
+1227997027251839000,Thu Feb 13 16:44:41 +0000 2020,“It wouldn’t have been possible if TiDB hadn’t been there”, said @xgsun.  Special moment with ❤️❤️❤️ https://t.co/wQ3w6BB4nH
+1227996243890036700,Thu Feb 13 16:41:34 +0000 2020,Probably the largest single-database #TiDB in-production cluster in the world!  - 21 #TiDB instances - 168 #TiKV in… https://t.co/drn7fC9WIH
+1227670711906558000,Wed Feb 12 19:08:01 +0000 2020,At @PingCAP, we believe in the culture of #remotework as we practice it. In his latest blog, our engineer,… https://t.co/UfErYwpr25
+1227268556955496400,Tue Feb 11 16:30:00 +0000 2020,Are you using #Aurora but plan to add #realtimeanalytical capabilities to it? 👀👀  #TiDB is your answer!  Using Data… https://t.co/rgAWrOl4Hl
+1226949453514444800,Mon Feb 10 19:21:59 +0000 2020,#PaperReading  Do fast analytical queries and high get/put throughput sound conflicting for a Key-Value Stores? Thi… https://t.co/lozrXmC1QF
+1226873816241979400,Mon Feb 10 14:21:26 +0000 2020,RT @tikvproject: 🥳So thrilled! We are going to Amsterdam for  #KubeCon + #CloudNativeCon Europe 2020 this April! https://t.co/K4un1s5lbC
+1226686642255065000,Mon Feb 10 01:57:40 +0000 2020,RT @siddontang: An "Awesome" project for digging deeper into the database, see https://t.co/1g2KmzERAv  #Database #DistributedSQL #tidb #ti…
+1226395712264401000,Sun Feb 09 06:41:37 +0000 2020,@zachgray_io @rustlang @tikvproject In the meantime, if somebody wanted to prototype @tikvproject under bazel, we w… https://t.co/wNiLyHJwcG
+1226395418746966000,Sun Feb 09 06:40:27 +0000 2020,@zachgray_io @rustlang @tikvproject Great suggestion. Yeah, Bazel is a great build system and would be worth explor… https://t.co/1xy5w6qbNV
+1225489332397625300,Thu Feb 06 18:39:59 +0000 2020,#PickoftheWeek In this PR, 🔽DateTime size in the chunk more compacted; 🔼cache utilization in TiDB computing framewo… https://t.co/EluWTmZ7mp
+1225179603435774000,Wed Feb 05 22:09:14 +0000 2020,Doubled system read throughput with ONLY 26 lines of code.🤔Wondering how? Introducing Follower Read, a #TiDB 3.1 Be… https://t.co/5cQl4EEWGh
+1224884599399964700,Wed Feb 05 02:37:00 +0000 2020,RT @tzkb: ゲーム会社のbillingチームがMySQLの準同期レプリケーションの多数のクラスタから、TiDBに移行した話。VitessやCockroachDBも検討し、MySQL互換や性能・周辺ツールなどからTiDBを選択。ピーク時10k QPS、Writeヘビーなど…
+1224804821414436900,Tue Feb 04 21:19:59 +0000 2020,Want to better visualize performance metrics of #TiDB and diagnose problems? Here are 7⃣ best practices for effecti… https://t.co/bj9U5YRVix
+1224592009521840000,Tue Feb 04 07:14:21 +0000 2020,RT @shenli3514: https://t.co/SGk4iS0Fji   @PingCAP  and Huawei led the way with 55,837 and 49,645 contributions, respectively, and are the…
+1224378516390797300,Mon Feb 03 17:06:00 +0000 2020,#PaperReading  Ryan shared a paper about TicToc, an OCC-based concurrency control algorithm that leverages data-dri… https://t.co/6jEXNqKJDF
+1223250742271570000,Fri Jan 31 14:24:38 +0000 2020,RT @hn_frontpage: The Rust Compilation Model Calamity L: https://t.co/djn9CnAVnJ C: https://t.co/SRT70PgrvM
+1222943957207875600,Thu Jan 30 18:05:35 +0000 2020,Feel Rust compile time is bad? @rustlang You are not alone. One of Rust's original authors, Brian Anderson, could n… https://t.co/EFgKZuRSHG
+1222719883340865500,Thu Jan 30 03:15:11 +0000 2020,#MySQL experts,  when you hit the MySQL scalability bottleneck, do you shard MySQL using all kinds of proxies or mi… https://t.co/kaiKGJZXB7
+1222392247015968800,Wed Jan 29 05:33:17 +0000 2020,RT @kevinsxu: My good friend @dxhuang wrote a post (in Chinese) explaining @PingCAP remote work culture/process/tools, to help the millions…
+1222233378797297700,Tue Jan 28 19:02:00 +0000 2020,#Amazon Aurora is a great relational database built for the Cloud on #AWS. For existing #Amazon Aurora users, you c… https://t.co/GXViCbvrba
+1220905397818548200,Sat Jan 25 03:05:04 +0000 2020,RT @Que8eny: Glad to see @dxhuang’s “building a large-scale distributed System Based on Raft” got 13859 page views and is listed as one of…
+1220885991948308500,Sat Jan 25 01:47:58 +0000 2020,2⃣2⃣0⃣ million registered users 3⃣0⃣ million questions with more than 130 million answers about 1⃣0⃣0⃣ billion rows… https://t.co/Szdjbw1hj9
+1220468266251976700,Thu Jan 23 22:08:04 +0000 2020,As an #OpenSource #CloudNative #distributedSQL database, #TiDB can be deployed on different Clouds. @dxhuang illust… https://t.co/VeG9hKz4Jt
+1220215353113886700,Thu Jan 23 05:23:05 +0000 2020,RT @chaos_mesh: #goodfirstissue of the week💡  As an open-source project, I breathe and grow through contributions from the community.🤗 Get…
+1220138218537963500,Thu Jan 23 00:16:35 +0000 2020,🧐Ever met 1. unstable kmem accounting or 2. network device reference count leak in #Kubernetes? 🛠️Why not try the w… https://t.co/56OuKkWO0R
+1219704210784125000,Tue Jan 21 19:31:59 +0000 2020,@dxhuang walks you through a recap of the core components of #TiDB and a quick demo on how to spin up your own… https://t.co/nkSDw3HdCW
+1219471070840803300,Tue Jan 21 04:05:34 +0000 2020,@a_hoverbear @tikvproject Thank you for your service and wish you all the best!
+1219438802097172500,Tue Jan 21 01:57:21 +0000 2020,RT @chaos_mesh: 📢NEW docs here!   Wondering how I simulate file system faults such as IO delay, read/write errors, etc? 😈  Check out this d…
+1219409660739870700,Tue Jan 21 00:01:33 +0000 2020,What could you do when your #Galera cluster for MySQL has a split-brain problem? @bookmyshow chose #TiDB and this i… https://t.co/bmsrJEVolS
+1218926646117294000,Sun Jan 19 16:02:13 +0000 2020,RT @tikvproject: Happy new decade!  Our contributors made 3 minor and 1 beta releases!  Learn about how you can try pprof in TiKV 3.0.8 and…
+1218348862290575400,Sat Jan 18 01:46:19 +0000 2020,RT @chaos_mesh: Q: What’s the relationship between chaos engineering and an ancient Chinese tale? A: They both have a “monkey” in it. Chaos…
+1217609484874305500,Thu Jan 16 00:48:17 +0000 2020,Thanks @DZoneInc for getting this article featured as the spotlight on the Performance Zone! The honor goes to our… https://t.co/geFpbLSakQ
+1217483785895174100,Wed Jan 15 16:28:48 +0000 2020,RT @chaos_mesh: Thanks for the support and attention along the way! Check out the first blog about how I help your system be more resilient…
+1217165738068336600,Tue Jan 14 19:25:00 +0000 2020,#PaperReading  The isolation level for transactions is important. Xuwei Fu shared a paper that introduces the first… https://t.co/KBkrllKR65
+1215373929608614000,Thu Jan 09 20:45:00 +0000 2020,#PickoftheWeek 🔍How to examine which parts of the #SQL statement consume most of CPU time? 💡Inspired by @golang pro… https://t.co/7kVFBLpj1Z
+1214993928006635500,Wed Jan 08 19:35:00 +0000 2020,#PaperReading  Unnesting subquery technique is important for query performance but is applicable in limited scenari… https://t.co/CPEadHHiQm
+1213092630021587000,Fri Jan 03 13:39:55 +0000 2020,RT @chaos_mesh: I am Trending! Thanks for all the love from the Community! ❤️ #opensource #chaosengineering https://t.co/fP72IMyfRS
+1212757945546616800,Thu Jan 02 15:30:00 +0000 2020,#PaperReading  John Zhou shared a classic paper on transaction isolation levels. The paper discusses the weakness i… https://t.co/7NGw7renWU
+1212162666195611600,Wed Jan 01 00:04:35 +0000 2020,#HappyNewYear2020 💝Last day of 2019 saw 10,000+ commits in the #TiDB repository on GitHub! This milestone marks all… https://t.co/SjymqKNXoy
+1212038181819801600,Tue Dec 31 15:49:55 +0000 2019,RT @chaos_mesh: Hello World😀! I am Chaos Mesh, a cloud-native, visualized and easy-to-use #chaosengineering platform. I am open-sourced tod…
+1211607922670616600,Mon Dec 30 11:20:14 +0000 2019,RT @tikvproject: Congrats to @niedhui on your promotion to a #TiKV Committer. Well deserved! With this role comes greater privileges and re…
+1210229620852871200,Thu Dec 26 16:03:21 +0000 2019,#BestPractices @HAProxy is widely used by leading web applications to balance the high concurrent load and achieve… https://t.co/1YRboSTkcU
+1209125550222192600,Mon Dec 23 14:56:10 +0000 2019,#PaperReading  Wenjun HUANG shared a #VLDB paper on window functions that elegantly express many Business Intellige… https://t.co/db5SSwfCDI
+1207811608174481400,Thu Dec 19 23:55:02 +0000 2019,RT @goLibHunt: Awesome #Go Weekly #187 is out https://t.co/L8s1cXVggf Featuring @stjepang @shihanng @ThreeDotsLabs @PingCAP @DerkTheDaring
+1207671685731762200,Thu Dec 19 14:39:01 +0000 2019,RT @milvusio: We're holding our next Arch Meetup together with @PingCAP this Saturday at Shanghai.🍻Warm welcome to all who wish to learn mo…
+1207490116421218300,Thu Dec 19 02:37:32 +0000 2019,This Hackathon project was inspired by two papers from academia. Thanks all for your work! @TaesooK31508132… https://t.co/lRmEDMIinA
+1207346029676441600,Wed Dec 18 17:04:59 +0000 2019,Don't wanna spend forever trying to locate bugs in massive code? Take a look at a bot built at #TiDB Hackathon 2019… https://t.co/HXFRg63fq6
+1207144567532748800,Wed Dec 18 03:44:27 +0000 2019,@hyphybyterhymer Thanks for your interest in TiDB. TiDB supports MySQL syntax and protocol, but it is a new open so… https://t.co/2SEppfrb0I
+1206759454856765400,Tue Dec 17 02:14:09 +0000 2019,@kentta97 Thanks for your attention. You can easily play around with TiDB in the browser here:… https://t.co/u02d9QiEWT
+1206592818409623600,Mon Dec 16 15:11:59 +0000 2019,#PaperReading  LI Zejun shared Adaptive Replacement Cache, a caching algorithm that dynamically, adaptively and con… https://t.co/SIeW7ehsLL
+1205667606868320300,Sat Dec 14 01:55:32 +0000 2019,🛠️To fix bugs is part of developers' everyday life. But sometimes the fix isn’t the hard part—it’s the absolute dru… https://t.co/YZqBr9B9gj
+1205565316727746600,Fri Dec 13 19:09:04 +0000 2019,#BestPractices  It matters to leverage fully the capacity of all nodes in scenarios of highly-concurrent write for… https://t.co/scvPlNNZL0
+1204844734591590400,Wed Dec 11 19:25:44 +0000 2019,RT @tikvproject: As winter descends on the northern hemisphere, we encourage you to keep warm by compiling TiKV!  Let's review what we did…
+1204481917149565000,Tue Dec 10 19:24:01 +0000 2019,RT @CloudNativeFdn: Check out the NEW guest post on the blog today 🌟➡ "#AutoTiKV: @tikvproject Tuning Made Easy by AI and #MachineLearning"…
+1204208142252265500,Tue Dec 10 01:16:08 +0000 2019,#PaperReading  Today Zhuhe FANG shared his paper on reducing cache misses in SIMD vectorization by using Interleave… https://t.co/z1JzDkItjG
+1204201660785946600,Tue Dec 10 00:50:23 +0000 2019,RT @tikvproject: Ever wondered how TiKV Reads and Writes data?  @siddontang walks you through how these things happen in our raw and transa…
+1203535016589873200,Sun Dec 08 04:41:23 +0000 2019,@nobuhatano Thanks! Feel free to try it out and let us know your comments.
+1202636562892284000,Thu Dec 05 17:11:15 +0000 2019,We are always up for changes that enable a more efficient and belonging-sensed community where contributors can gro… https://t.co/fryo7vrA2k
+1202545831842214000,Thu Dec 05 11:10:43 +0000 2019,@ddorian43 @RocksDB Hi dorian, these are the slides: https://t.co/4Ibzr55vbA. Hope that helps. Let us know if you have any questions :)
+1202452753756258300,Thu Dec 05 05:00:51 +0000 2019,RT @RocksDB: Thank you to Yi from @PingCAP for encouraging us all to be bold and try new features!  Great talk today, sorry I missed taking…
+1202268069621579800,Wed Dec 04 16:46:59 +0000 2019,NetEase Games' billing apps process 3.6+ bn requests and generate 5+ TB of log data every day. #TiDB stands out as… https://t.co/SUo63W76mP
+1201944940772757500,Tue Dec 03 19:22:59 +0000 2019,Join us at the 6th annual #RocksDB meetup at 2:00-6:00 p.m. on Dec. 4th. Get bold with Wu Yi and see how some of th… https://t.co/UIYp0Uo4Ff
+1201458804493148200,Mon Dec 02 11:11:15 +0000 2019,RT @swcarlosrj: Wink Yao introducing TiDB an open-source NewSQL database that supports ♻️ Hybrid Transactional &amp; Analytical Processing (HTA…
+1200455878744461300,Fri Nov 29 16:45:59 +0000 2019,We vectorized 360+ built-in functions along with #TiDB open-source community. This has remarkably improved the expr… https://t.co/QxG33WV3IM
+1199546963382792200,Wed Nov 27 04:34:17 +0000 2019,JD Cloud's OSS metadata storage capacity is extended by @tikvproject's horizontal scalability! Check out the result… https://t.co/chqBjXZZPW
+1199387046160126000,Tue Nov 26 17:58:49 +0000 2019,RT @tikvproject: What did our contributors get up to in October? Let's take a look!  Don't worry, no spooky tricks! Just some treats!  http…
+1199145112585961500,Tue Nov 26 01:57:28 +0000 2019,RT @sijieg: I wish I will be there. It is going to be a lot of fun - Transactions in an event streaming system (@apache_pulsar) and transac…
+1198015416422920200,Fri Nov 22 23:08:27 +0000 2019,RT @tikvproject: 🎉 Two hundred contributors! 🎉  Thanks so much for being involved with TiKV!  Here's to many more contributor milestones!…
+1197556021662822400,Thu Nov 21 16:42:59 +0000 2019,Really appreciate that @CloudNativeFdn published @dxhuang's blog! In this blog, Ed shared his original thoughts on… https://t.co/mWZKQBZHnL
+1197273987023159300,Wed Nov 20 22:02:17 +0000 2019,@felixge @La_Rainette @skprufo @CockroachDB You can review compatability here! https://t.co/ZZ2veKu59Y   Let us kno… https://t.co/HmHvPrxljG
+1197188599831244800,Wed Nov 20 16:22:59 +0000 2019,#PickoftheWeek  #TiDB perfschema: get performance flame graph using SQL Flames graph made from SQL! Using SQL inste… https://t.co/0y312EZnVl
+1196015524628570000,Sun Nov 17 10:41:36 +0000 2019,The following issue has been fixed in master: "The mocked fs didn’t implement the callbacks such as stat, lstat, un… https://t.co/BnYXzNZFzo
+1195907436013662200,Sun Nov 17 03:32:06 +0000 2019,Thanks @syrusakbary for compiling #TiDB to #WASI; it’s a pity that it’s too large to run on any runtime. https://t.co/yZakPmmSEn
+1195906706703835100,Sun Nov 17 03:29:12 +0000 2019,How to build an in-browser relational database?  ✔️ An SQL #datatbase written in #Golang ✔️ #WebAssembly ✔️ And thi… https://t.co/rq9FbIQnbo
+1195758470097600500,Sat Nov 16 17:40:10 +0000 2019,Wondering how we put an SQL database into a browser? Check this out: https://t.co/qs7HktekiM https://t.co/0eHSzm2yTM
+1195119794699296800,Thu Nov 14 23:22:17 +0000 2019,At @PingCAP, we are committed to building a developer-friendly community, starting from documenting guidelines to h… https://t.co/m3RCdf2baV
+1192269912682582000,Thu Nov 07 02:37:53 +0000 2019,@CrowderSoup Thanks for sharing!:)
+1192103141740884000,Wed Nov 06 15:35:11 +0000 2019,Cool project for #TiDB Newbies! TiDB-Wasm allows you to directly write SQL in your web browser by running a #golang… https://t.co/mkADr1ZYlc
+1191497852771602400,Mon Nov 04 23:29:59 +0000 2019,What’s technically interesting and new in #NewSQL in #HPTS2019? Chaired by @MarkCallaghanDB, @dxhuang, @rxin, Adar… https://t.co/THP96Pw5L2
+1191486888340684800,Mon Nov 04 22:46:25 +0000 2019,RT @CloudNativeFdn: "Building a Large-scale Distributed Storage System Based on Raft" via @dxhuang 👉 Guest post on the blog today! #TiKV ht…
+1191453492256243700,Mon Nov 04 20:33:43 +0000 2019,RT @siddontang: Want Rust program to profile itself? Try https://t.co/GXDQBMWe9P - a pure Rust CPU profiler. #rustlang #ThisWeekInRust
+1191396181831757800,Mon Nov 04 16:45:59 +0000 2019,Columnstore or Rowstore?  OLTP or OLAP? Why not both?  Powered by the #TiFlash extension, #TiDB is ready to deliver… https://t.co/ez2QmvIVyz
+1190283961752113200,Fri Nov 01 15:06:25 +0000 2019,Thanks @github for having @dxhuang to talk about  the challenges, considerations, and tips in building global devel… https://t.co/3cqkQPQs05
+1190234219458392000,Fri Nov 01 11:48:46 +0000 2019,Congratulations! https://t.co/SHH8Bq1T76
+1189895508715659300,Thu Oct 31 13:22:51 +0000 2019,RT @EltonStoneman: I've been using @PingCAP 's #TiDB for a while - a distributed database with MySQL protocol. The storage engine behind is…
+1189868078181433300,Thu Oct 31 11:33:51 +0000 2019,@EltonStoneman @CloudNativeFdn Thanks, @EltonStoneman for the shoutout! We are very happy to know that! Any feedback?
+1189722690053009400,Thu Oct 31 01:56:07 +0000 2019,@rahulthakoor @a_hoverbear Thanks!
+1189559773102071800,Wed Oct 30 15:08:45 +0000 2019,⏰2 days, 🏘️3 cities, 💡37 hackathon ideas! Huge thanks to all hackers, sponsors, mentors, judges and volunteers!👍 Ti… https://t.co/ZndB3x2wgp
+1188467381087043600,Sun Oct 27 14:47:58 +0000 2019,First prize goes to “Unified Thread Pool” which uses a self-adaptive unified thread pool in @tikvproject  to proces… https://t.co/j3x5f1REjm
+1188373659431383000,Sun Oct 27 08:35:33 +0000 2019,2-day hacking sparkled 37 #TiDB awesome ideas! Here comes TiSearch, TiNet, TiM, Self-driving TiDB, SQLAdvisor, etc.… https://t.co/XpnfczoWSo
+1187921691113996300,Sat Oct 26 02:39:36 +0000 2019,RT @JuneHua71214380: Day 1 of #TiDB Hackathon 2019  Our CTO announced the start of "Happy Hacking" @PingCAP   Look forward to cool stuff!…
+1187020861536178200,Wed Oct 23 15:00:01 +0000 2019,Wondering how much vectorization could impact on database performance?  Join us at https://t.co/AB7uOcWlgs and vect… https://t.co/xyI6n6QZL8
+1186796653686206500,Wed Oct 23 00:09:06 +0000 2019,RT @tikvproject: Last night @PingCAP transferred raft-rs, grpcio, rust-prometheus, rust-rocksdb, and fail-rs to the TiKV github org!  Huge…
+1184130436412268500,Tue Oct 15 15:34:30 +0000 2019,#PickofTheWeek  #TiDB PR: Calculate the GC `SafePoint` based on the global `MinStartTS`  Executing a long-time tran… https://t.co/4Ze0Vd8LoG
+1183189578460479500,Sun Oct 13 01:15:52 +0000 2019,@DaviesJeremy Thanks for sharing! :)
+1178705367729086500,Mon Sep 30 16:17:13 +0000 2019,Sept 23 ~ 29 in the #TiDB Community, we landed✍️: ✅162 #TiDB PRs ✅54 #TiKV + #PD PRs ✅15 #TiSpark PRs Welcome👏： ✅10… https://t.co/NspukBRbQZ
+1176156765861351400,Mon Sep 23 15:29:59 +0000 2019,Sept 16 ~ 22 in the #TiDB Community, we landed: ✅58 #TiDB PRs ✅27 #TiKV + #PD PRs ✅7 #TiSpark PRs Published: ✅a blo… https://t.co/GzutOyTCKm
+1174723681928409000,Thu Sep 19 16:35:25 +0000 2019,RT @tikvproject: What did we get up to in August?  Let's take a look!  * 4 minor releases (2.1x and 3.0.x) * 6 technical articles * 4.0 fea…
+1174348392207569000,Wed Sep 18 15:44:09 +0000 2019,Ready use a distributed database?  Is the database accurate in its claims and thorough in its testing? What are the… https://t.co/dKFd0ILkR5
+1174063381088571400,Tue Sep 17 20:51:37 +0000 2019,Database Deep Dives: @PingCAP and @tikvproject  with @siddontang  Learn about our transaction model, involvement in… https://t.co/ySyat5mHlE
+1173973838352175000,Tue Sep 17 14:55:49 +0000 2019,Proud to welcome the 302nd contributor to the #TiDB community! Your contribution goes far beyond the commits, pull… https://t.co/kQLSdaD8uV
+1173936554307309600,Tue Sep 17 12:27:39 +0000 2019,RT @siddontang: Glad to see that our bcc tool mentioned in the Brendan Gregg's new book "BPF performance tools". https://t.co/kGkHCZMFav
+1173739596078669800,Mon Sep 16 23:25:01 +0000 2019,RT @dxhuang: Thrilled to finally meet @ericabrescia  and the team from @github in our Shanghai office and briefly introduced the Chinese op…
+1173613325172691000,Mon Sep 16 15:03:16 +0000 2019,Sept 09 ~15 in the #TiDB Community, we landed: ✅92 #TiDB PRs ✅39 #TiKV + #PD PRs  Welcome🥳: ✅4 more contributors! C… https://t.co/8kAvU643Vg
+1171037367731228700,Mon Sep 09 12:27:19 +0000 2019,Another week starts with a brand new and enriched #TiDB weekly: A real-life TiDB case study, our recognition of new… https://t.co/ntR1jnVIee
+1169816752861016000,Fri Sep 06 03:37:02 +0000 2019,Glad to see @xgsun's sharing of #TiDB's case study at Zhihu got featured as @Dzone's spotlight for today:… https://t.co/wyNCiWhuEK
+1168458052279754800,Mon Sep 02 09:38:03 +0000 2019,Aug 26 ~ Sep 01, 2019, we landed 59 PRs for #TiDB, 12 PRs for #TiSpark, and 40 PRs for #TiKV and #PD:… https://t.co/dZ4uAYN7oM
+1165910273091199000,Mon Aug 26 08:54:05 +0000 2019,Aug 19 ~ Aug 25, 2019, we landed 59 PRs for #TiDB, 14 PRs for #TiSpark, and 38 PRs for #TiKV and #PD:… https://t.co/ymRlqaiyoh
+1165910273091199000,Mon Aug 26 08:54:05 +0000 2019,Aug 19 ~ Aug 25, 2019, we landed 59 PRs for #TiDB, 14 PRs for #TiSpark, and 38 PRs for #TiKV and #PD:… https://t.co/ymRlqaiyoh
+1164192934335590400,Wed Aug 21 15:09:59 +0000 2019,The front-page of Zhihu (Chinese Quora) recommends you-might-like posts to its 220 million users without repeating… https://t.co/VsW0tFbAGh
+1163934975349186600,Tue Aug 20 22:04:57 +0000 2019,Don't forget to join us tomorrow to learn more about TiDB 3.0 during our live webinar. Register here! https://t.co/ksoTAq5Xxb
+1163561613657424000,Mon Aug 19 21:21:21 +0000 2019,@kevinsxu Thank you for your service! https://t.co/vsxvOyCgYV
+1163511594216820700,Mon Aug 19 18:02:35 +0000 2019,TiDB 3.0: What’s new? Details and Demos live Webinar, is happening this Wednesday! Join us at 10:00am PST and talk… https://t.co/JfKok0JxyW
+1163480739830276000,Mon Aug 19 15:59:59 +0000 2019,ARM is gaining popularity for its low power and cost. Now #TiDB can run on ARM64 platform as well! Check the blog,… https://t.co/XYxfXZ0yQw
+1163387654295003100,Mon Aug 19 09:50:06 +0000 2019,Aug 12 ~ Aug 18, 2019, we landed 41 PRs for #TiDB, 24 PRs for #TiSpark, and 31 PRs for #TiKV and #PD:… https://t.co/df6GXVcbMo
+1162479560908300300,Fri Aug 16 21:41:39 +0000 2019,Don't miss out on the opportunity to join, listen in, and ask questions during PingCAPs live webinar on TiDB 3.0! H… https://t.co/MUNFkLz8as
+1161338122065649700,Tue Aug 13 18:05:59 +0000 2019,TiDB 3.0 was released with the goal to deliver stability at a massive scale, want to learn how we achieved this? Jo… https://t.co/qxNVBA5JA1
+1160875264106066000,Mon Aug 12 11:26:45 +0000 2019,Aug 05 ~ Aug 11, 2019, we landed 73 PRs for #TiDB, 12 PRs for #TiSpark, and 42 PRs for #TiKV and #PD:… https://t.co/Ec7mx0vptl
+1159888889307439000,Fri Aug 09 18:07:15 +0000 2019,Want to learn more about TiDB 3.0? Join us at our upcoming webinar Aug 21 at 10:00am PST. We will take a look at ne… https://t.co/au34QRtyjH
+1159511480674312200,Thu Aug 08 17:07:34 +0000 2019,RT @tikvproject: What did our TiKV contributors get up to in July?  News, releases, features, and other recent development news can be foun…
+1159136984691929000,Wed Aug 07 16:19:27 +0000 2019,RT @tikvproject: Our contributor, @nick_r_cameron , recently wrote about how he migrated our Rust Client to the new Futures 0.3 version fro…
+1158335706214756400,Mon Aug 05 11:15:27 +0000 2019,Jul 29 ~ Aug 04, 2019, we landed 83 PRs for #TiDB, 19 PRs for #TiSpark, and 31 PRs for #TiKV and #PD:… https://t.co/caUl5tZ7ex
+1157825937301356500,Sun Aug 04 01:29:49 +0000 2019,RT @hochgenuss: The second part of my blog series on doing @PingCAP's Practical Networked Applications in Rust course is up! https://t.co/L…
+1156293236744491000,Tue Jul 30 19:59:25 +0000 2019,ANNOUNCEMENT📢TiDB Operator 1.0 GA version is released! Deploying and managing transactional database clusters for p… https://t.co/ejPRtEvxKQ
+1155782520492834800,Mon Jul 29 10:10:00 +0000 2019,Jul 22 ~ Jul 28, 2019, we landed 102 PRs for #TiDB, 4 PRs for #TiSpark, and 27 PRs for #TiKV and #PD:… https://t.co/6sklH7ZD0n
+1154276795593572400,Thu Jul 25 06:26:48 +0000 2019,@xenji @timglabisch @kevinsxu Thanks, @xenji ! We are the team behind #TiDB. @dxhuang is our CTO and co-founder and… https://t.co/xM4iW7KBHw
+1153865376041599000,Wed Jul 24 03:11:58 +0000 2019,Thanks @hochgenuss for sharing his experience and learning progress of https://t.co/ylADo5dOvB in… https://t.co/hvHYhnzyLY
+1153853911238709200,Wed Jul 24 02:26:24 +0000 2019,@hochgenuss @rustlang Thanks for sharing your experience @hochgenuss! It's an honor that the @PingCAP talent plan c… https://t.co/t5JBBpa11O
+1153243077013717000,Mon Jul 22 09:59:10 +0000 2019,Jul 15 ~ Jul 21, 2019, we landed 68 PRs for #TiDB, 9 PRs for #TiSpark, and 39 PRs for #TiKV and #PD: (link:… https://t.co/lo9KCTNqRe
+1153146253590614000,Mon Jul 22 03:34:25 +0000 2019,Benchmarking or benchmarketing? Why benchmarking at all? What is a decent benchmark? Engineers from @gojektech went… https://t.co/qMrPm92cMn
+1151692347974963200,Thu Jul 18 03:17:07 +0000 2019,RT @tikvproject: TiKV reaches 3.0 GA!  Our open source, distributed transaction key-value store is now even more steady at scale and has a…
+1150709919563182100,Mon Jul 15 10:13:18 +0000 2019,Jul 08 ~ Jul 14, 2019, we landed 65 PRs for #TiDB, 5 PRs for #TiSpark, and 40 PRs for #TiKV and #PD:… https://t.co/8vVww5xLrO
+1149836227853467600,Sat Jul 13 00:21:34 +0000 2019,RT @RocksDB: Yi Wu from @PingCAP talking about using Guards to optimize RocksDB compaction IO #meetup https://t.co/O8bh6jjvUm
+1148277617033916400,Mon Jul 08 17:08:12 +0000 2019,Why Benchmarking Distributed Databases Is So Hard?? Check out our blog of Why Benchmarking Distributed Databases Is… https://t.co/Zlg7BHAtzE
+1148180893787287600,Mon Jul 08 10:43:51 +0000 2019,Jul 01 ~ Jul 07, 2019, we landed 69 PRs for #TiDB, 18 PRs for #TiSpark, and 34 PRs for #TiKV and #PD:… https://t.co/WQhbSoLpLw
+1147204034060832800,Fri Jul 05 18:02:10 +0000 2019,Have you heard of the KOST Stack? The KOST Stack is an Open-Source Cloud-Native Hybrid Database Stack. To learn mor… https://t.co/YNhq3qF014
+1145731287237496800,Mon Jul 01 16:30:00 +0000 2019,ANNOUNCEMENT 📢 TiDB 3.0 is here! Check out all the new features and improvements- https://t.co/ugBu1yBST7 This is t… https://t.co/1VyIrLqsso
+1145634409724276700,Mon Jul 01 10:05:02 +0000 2019,Jun 24 ~ Jun 30, 2019, we landed 52 PRs for #TiDB, 9 PRs for #TiSpark, and 38 PRs for #TiKV and #PD: https://t.co/xLTZ4ethhW
+1143264025909891100,Mon Jun 24 21:05:59 +0000 2019,If you are in the the Bay Area this Wednesday come join us for our monthly Meetup. We are hosting FaunaDB to talk a… https://t.co/qPeZmljSNY
+1143085651610333200,Mon Jun 24 09:17:11 +0000 2019,Jun 17 ~ Jun 23, 2019, we landed 68 PRs for #TiDB, 12 PRs for #TiSpark, and 47 PRs for #TiKV and #PD:… https://t.co/hf7Eq7FbEw
+1142638099064737800,Sun Jun 23 03:38:46 +0000 2019,RT @Que8eny: @PingCAP Cofounder @qiuyesuifeng says #OpenSource, always! And the #TiDB landscape! https://t.co/SGRxqQjpT1
+1142624788466171900,Sun Jun 23 02:45:53 +0000 2019,RT @Que8eny: @dxhuang is sharing the @jepsen_io test result with the 2019 #TiDB TechDay. More context: https://t.co/vLR8cMrdkt https://t.co…
+1142624734481285100,Sun Jun 23 02:45:40 +0000 2019,RT @Que8eny: HAPPENING NOW: @shenli3514 Talks about Titan at 2019 #TiDB TechDay. Context here: https://t.co/1Wr2yhtsp4 https://t.co/AN2IVr6…
+1142618908538486800,Sun Jun 23 02:22:31 +0000 2019,RT @Que8eny: 2019 TiDB TechDay, a packed room of developers and database engineers #TiDB https://t.co/9eON92gzMH
+1141814225293197300,Thu Jun 20 21:04:59 +0000 2019,For anyone who missed the webinar or just want to watch it again, you can check out the video here,… https://t.co/Gi1238B4bU
+1141769202870771700,Thu Jun 20 18:06:05 +0000 2019,NEW BLOG POST on some best practices for developing applications with TiDB. Lots of technical know-hows for DBAs, i… https://t.co/OK0gDEaErx
+1141751943771099100,Thu Jun 20 16:57:30 +0000 2019,Join our webinar happening now! MySQL to TiDB: Migration without the Migraine https://t.co/W6MQV9GWmZ
+1141733957194661900,Thu Jun 20 15:46:02 +0000 2019,Hands-On TiDB -- Episode 4 webinar happening today signup now and join us for MySQL to TiDB: Migration without the… https://t.co/iPZ30LhV0s
+1141557576175276000,Thu Jun 20 04:05:09 +0000 2019,Want to learn to love @rustlang and @golang as much as we do?  Check out our new training courses focusing on these… https://t.co/ulYknvQyqj
+1141494472590540800,Wed Jun 19 23:54:24 +0000 2019,RT @kevinsxu: Thanks @thenewstack for publishing my observation of the emergence of the #KOST stack (#Kubernetes #Operator #Spark #TiDB) to…
+1141099678538195000,Tue Jun 18 21:45:38 +0000 2019,RT @Percona: Let @panchobordenave bring you up to speed with how to replicate MySQL data to @pingcap #TiDB for real-time analytics at @binl…
+1141043737155575800,Tue Jun 18 18:03:21 +0000 2019,Signup for Hands-On TiDB -- Episode 4 webinar to talk about  MySQL to TiDB: Migration without the Migraine! Happeni… https://t.co/tn3s8AC9Ky
+1140895911435857900,Tue Jun 18 08:15:56 +0000 2019,#TiDB's @kubernetesio Operator is on OperatorHub!  To try it out, please follow our user guide, where you can deplo… https://t.co/imvzifWTaB
+1140574439685288000,Mon Jun 17 10:58:31 +0000 2019,Jun 10 ~ Jun 16, 2019, we landed 40 PRs for #TiDB, 9 PRs for #TiSpark, and 37 PRs for #TiKV and #PD:… https://t.co/fe34YsLkvu
+1139646212594946000,Fri Jun 14 21:30:05 +0000 2019,Hands-On TiDB webinar is back! Come join us next Thursday June 20th at 10am PST to hear about MySQL to TiDB: Migrat… https://t.co/XILRTUsIDD
+1138915374672633900,Wed Jun 12 21:06:00 +0000 2019,Don't forget to RSVP to our next Meetup happening Wednesday June 26th! See more details here https://t.co/qp7UL2G8EM
+1138855294493024300,Wed Jun 12 17:07:15 +0000 2019,We also published a companion blog post to additional context to the results: https://t.co/lA3gYKCF1Q
+1138855293582958600,Wed Jun 12 17:07:15 +0000 2019,Check out the latest #Jepsen test where several versions of #TiDB went through the wringer. It was a pleasure worki… https://t.co/A1DzZwmhSi
+1138602014147874800,Wed Jun 12 00:20:49 +0000 2019,RT @tikvproject: We'd love it if you checked out some training material we've been working on!  It's called "Practical Networked Applicatio…
+1138507333271732200,Tue Jun 11 18:04:35 +0000 2019,#ICYMI our team was at @Percona Live in Austin 2 weeks ago w/ a full #TiDB track, keynote, booth action &amp; fun team… https://t.co/T4E5IajzKy
+1138019017526992900,Mon Jun 10 09:44:11 +0000 2019,Jun 03 ~ Jun 09, 2019, we landed 70 PRs for #TiDB, 17 PRs for #TiSpark, and 28 PRs for #TiKV and #PD:… https://t.co/w4iH5drQjp
+1136058047913242600,Tue Jun 04 23:52:00 +0000 2019,Yes conferences like @Percona Live is work, esp when you are doing a keynote, full-track and exh booth. But our tea… https://t.co/2LyriuIe2P
+1135608822595297300,Mon Jun 03 18:06:56 +0000 2019,Mark your calendars for June 26th! Bay Area NewSQL Database Meetup will be hosting Deba Chatterjee who will be talk… https://t.co/B9WXYvSikR
+1135606140245430300,Mon Jun 03 17:56:17 +0000 2019,Migrating in (and out) of #TiDB from MySQL and MariaDB using open source tools made available by our team, to minim… https://t.co/acKQkjwpsj
+1135606138492219400,Mon Jun 03 17:56:16 +0000 2019,Using #Kubernetes Operator to make a DB-as-a-service offering with #TiDB: https://t.co/m2vhDQVySU #PerconaLive Lastly...
+1135606137468809200,Mon Jun 03 17:56:16 +0000 2019,How we make Hybrid Transaction and Analytical Processing #HTAP a reality with TiFlash, a new columnar storage engin… https://t.co/nU6Mc3vk2b
+1135606136730558500,Mon Jun 03 17:56:16 +0000 2019,A deep dive into #TiDB MySQL-compatible SQL layer with some solid technical details on how we make Online DDL work:… https://t.co/ak9STYbFt2
+1135606136059486200,Mon Jun 03 17:56:16 +0000 2019,How our team uses #ChaosEngineering to make #TiDB more performant and reliable: https://t.co/k8g9yZgNtU #PerconaLive Then...
+1135606135350734800,Mon Jun 03 17:56:15 +0000 2019,Comparing, Contrasting, and Combining #TiDB w/ Amazon Aurora:  https://t.co/B12sVcbAAW #PerconaLive Then...
+1135606134344101900,Mon Jun 03 17:56:15 +0000 2019,ICYMI THREAD: Here are ALL the slides from #TiDB track at @Percona Live in Austin this year, starting with Keynote… https://t.co/WT3dYk7Clq
+1135477302844780500,Mon Jun 03 09:24:19 +0000 2019,May 27 ~ Jun 02, 2019, we landed 37 PRs for #TiDB, 4 PRs for #TiSpark, and 38 PRs for #TiKV and #PD:… https://t.co/VP4yY98WMz
+1134229711335428100,Thu May 30 22:46:50 +0000 2019,And that’s a wrap! Loved seeing old friends and making new ones at #PerconaLive. Hope to see you all again soon! https://t.co/BS0Cy3RIfv
+1134191162439454700,Thu May 30 20:13:40 +0000 2019,RT @lilianlee90: #TiDB at #PerconaLive2019 😀 Come to the #PingCAP booth to learn more about #TiDB, and get a raffle ticket before 4 pm toda…
+1134191113580007400,Thu May 30 20:13:28 +0000 2019,RT @Que8eny: If you are at #PerconaLive19, don’t forget to come to the @PingCAP booth for a Raffle. You could win some new technology about…
+1133834135917781000,Wed May 29 20:34:58 +0000 2019,RT @datanami: Off the Wire: TiDB 3.0 Officially Available for Public Preview https://t.co/r2mT5p3LVJ
+1133797753639907300,Wed May 29 18:10:24 +0000 2019,@Percona @dxhuang Have questions about #TiDB? Come to our #PerconaLive booth or join our community Slack channel:… https://t.co/f9z9vVrXBy
+1133787824522715100,Wed May 29 17:30:56 +0000 2019,RT @fxober: Learn what Optane means, TiDB, DB benchmarking, win an Optane SSD. Which are blazing fast. Today at 2pm in Room BigBend A/B #Pe…
+1133760942649544700,Wed May 29 15:44:07 +0000 2019,#TiDB track starts NOW! It’s on the 1st floor of the Hyatt, in Big Bend A. All day long, lots of hardcore technical… https://t.co/iwoOFftOqY
+1133758200153595900,Wed May 29 15:33:13 +0000 2019,@bytebot @zhaiwx1987 Yes, we completely rebuilt it. Check it out here: https://t.co/Y3nxwyZDFn
+1133753417124536300,Wed May 29 15:14:13 +0000 2019,ANNOUNCEMENT: #TiDB 3.0 is officially ready for public preview. To try it out, use TiDB Operator to deploy it on an… https://t.co/VUy8O98S5R
+1133748820016324600,Wed May 29 14:55:57 +0000 2019,RT @Percona: Come and learn about TiDB 3.0: What's new and what's next with @dxhuang @PingCAP #PerconaLive https://t.co/g9iwuIPnUZ https://…
+1133738275414446100,Wed May 29 14:14:03 +0000 2019,HAPPENING NOW: #PerconaLive keynotes livestream. Our CTO @dxhuang will speak soon about #TiDB 3.0: https://t.co/7woBiHtziz
+1133563732519477200,Wed May 29 02:40:29 +0000 2019,@siddontang our chief engineer and @tikvproject lead doing a dry run of his #chaosengineering talk for Day 1… https://t.co/IrY2Y37Omv
+1133528243447902200,Wed May 29 00:19:27 +0000 2019,RT @Que8eny: @dxhuang will talk about #TiDB 3.0 tomorrow morning at 10:00 am. Feel free to join us tomorrow in the keynote session: https:/…
+1133490851571785700,Tue May 28 21:50:52 +0000 2019,We are HERE at #PerconaLive. Come visit our booth after grabbing some snacks, learn about #TiDB, grab swags, enter… https://t.co/Zc3i2SvTWI
+1133261915415883800,Tue May 28 06:41:10 +0000 2019,RT @Percona: So if you are in #Austin and thinking about the week ahead, maybe include a visit to the #PerconaLive open source database con…
+1132974708545081300,Mon May 27 11:39:54 +0000 2019,May 20 ~ May 26, 2019, we landed 44 PRs for #TiDB, 17 PRs for #TiSpark, and 45 PRs for #TiKV and #PD:… https://t.co/Qku4qeHNWB
+1131732739756048400,Fri May 24 01:24:46 +0000 2019,Earlier this year we open sourced TiDB Data Migration (DM), a tool that supports data migration/replication from My… https://t.co/5NbZS6fIAI
+1130923000382017500,Tue May 21 19:47:09 +0000 2019,The recording for Webinar: Episode 3: Synchronize Data from AWS Aurora to TiDB in Real-time is here! Check it out https://t.co/RutNqRUnN7
+1130907611581182000,Tue May 21 18:46:00 +0000 2019,RT @tikvproject: TiKV is now a CNCF incubating project!  We'd like to thank all of our contributors, users, and advocates over the last sev…
+1130888520539631600,Tue May 21 17:30:08 +0000 2019,RT @CloudNativeFdn: [NEWS from #KubeCon + #CloudNativeCon] @CloudNativeFdn to Host @tikvproject in the #CNCF Incubator 👋https://t.co/uBySFk…
+1130888500159451100,Tue May 21 17:30:03 +0000 2019,RT @kevinsxu: Super proud of everyone working on @tikvproject for this accomplishment. @siddontang @a_hoverbear @nick_r_cameron @dxhuang @Q…
+1130579467108278300,Mon May 20 21:02:04 +0000 2019,Want to read about how the #TiDB team designs and implements @golang failpoints? Today is your lucky day! https://t.co/mPD3hfLoQ5
+1130484525551706100,Mon May 20 14:44:48 +0000 2019,May 13 ~ May 19, 2019, we landed 37 PRs for #TiDB, 19 PRs for #TiSpark, and 24 PRs for #TiKV and #PD:… https://t.co/6Pdmab3NfY
+1129534057929420800,Fri May 17 23:47:59 +0000 2019,Tutorial Time! Want to experiment with TiDB Binlog, a Change Data Capture tool recently open sourced? Check out thi… https://t.co/IRq5rKeXxz
+1129492579110801400,Fri May 17 21:03:10 +0000 2019,@percona Live Alert! New talk in the #TiDB track: "TiDB and Amazon Aurora: Compare, Contrast, Combine" by @dxhuang.… https://t.co/EajWLAUHIZ
+1129492395806957600,Fri May 17 21:02:26 +0000 2019,RT @tikvproject: You're invited to our community chat!  It's a great way to get talk with other TiKV developers and users, ask questions, o…
+1129068158042746900,Thu May 16 16:56:40 +0000 2019,Webinar Episode 3 Synchronize Data from AWS Aurora to TiDB in Real-time is starting now come and join us!  #TiDB https://t.co/0MwLpUOntz
+1128386355313217500,Tue May 14 19:47:26 +0000 2019,Join us for Hands-On TiDB -- Ep. 3 Thursday May 16 at 10am PST, this webinar will demonstrate how TiDB can be deplo… https://t.co/PX4URlfql3
+1127869127056601100,Mon May 13 09:32:09 +0000 2019,May 06 ~ May 12, 2019, we landed 48 PRs for #TiDB, 8 PRs for #TiSpark, and 45 PRs for #TiKV and #PD:… https://t.co/LoArpJa7MM
+1127315221977026600,Sat May 11 20:51:08 +0000 2019,RT @lucabruno: Yay, latest version of the @rustlang library for @PrometheusIO supports registry-wide labels and prefix, and adds the abilit…
+1126706246084464600,Fri May 10 04:31:16 +0000 2019,And #TiDB :) https://t.co/GbiQGL1nrd
+1126623392117825500,Thu May 09 23:02:02 +0000 2019,@dgryski Also Rust! https://t.co/CJ0CP4oNcA
+1126596857168302100,Thu May 09 21:16:36 +0000 2019,Episode 3 of  Hands-On TiDB is here! Let's chat about Synchronize Data from AWS Aurora to TiDB in Real-time. Mark y… https://t.co/qW38DX8B5H
+1126550353040666600,Thu May 09 18:11:49 +0000 2019,RT @thedataday: For @451Research clients: Keeping its modular strategy, @PingCAP adds columnar storage engine for analytics https://t.co/3T…
+1126550344731742200,Thu May 09 18:11:47 +0000 2019,RT @maslett: For @451Research clients: Keeping its modular strategy, @PingCAP adds columnar storage engine for analytics https://t.co/hKIkw…
+1126272337987481600,Wed May 08 23:47:05 +0000 2019,The #TiDB Community Slack channel (launched just a few weeks ago) is growing like wildfire. Developers are getting… https://t.co/HGoyUs9jPG
+1126230791015551000,Wed May 08 21:01:59 +0000 2019,We recently open sourced TiDB-Binlog, a Change Data Capture (CDC) tool we've been developing for #TiDB. Want to kic… https://t.co/miq84dffeo
+1126186007446081500,Wed May 08 18:04:02 +0000 2019,Look! #TiDB Operator is officially certified just in time for @RedHatSummit! Check it out. cc @RedHatPartners… https://t.co/PdITaSvJO4
+1125870439388078100,Tue May 07 21:10:05 +0000 2019,This month PingCAP will be hosting a track at Percona Live 19' in Austin Texas! You can check out the full schedule… https://t.co/BDQp3p7Zth
+1125783803438325800,Tue May 07 15:25:49 +0000 2019,RT @Percona: At #PerconaLive this year, @PingCAP will be hosting a full track dedicated to #TiDB their open source NewSQL database with MyS…
+1125548218064953300,Mon May 06 23:49:41 +0000 2019,RT @PingCAP: ANNOUNCEMENT: we just open-sourced TiDB-Binlog, a change data capture (CDC) tool for real-time data replication. It also makes…
+1125507523816185900,Mon May 06 21:07:59 +0000 2019,Looking forward to putting on the first ever #TiDB track at @Percona Live later this month in Austin. Hope you got… https://t.co/VlUiBrWCCx
+1125507347403567100,Mon May 06 21:07:17 +0000 2019,RT @dxhuang: Thank you, @Percona  😋 https://t.co/aJUOyALt7T
+1125462639184941000,Mon May 06 18:09:37 +0000 2019,ANNOUNCEMENT: we just open-sourced TiDB-Binlog, a change data capture (CDC) tool for real-time data replication. It… https://t.co/oeGhSZA3Ht
+1125344663018168300,Mon May 06 10:20:50 +0000 2019,Apr 29 ~ May 05, 2019, we landed 41 PRs for #TiDB, 4 PRs for #TiSpark, and 21 PRs for #TiKV and #PD:… https://t.co/2hKwJkkKUt
+1124462138389663700,Fri May 03 23:53:59 +0000 2019,The video is here! In case you missed “Hands-On TiDB” -- Episode 2: Deploying and Benchmarking TiDB on AWS; check i… https://t.co/G92tvTyaSu
+1124175421312909300,Fri May 03 04:54:41 +0000 2019,RT @ask_dba: Check out the Facebook and PingCAP Tracks at #perconalive schedule  to see how they get along with #mysql #tidb #database #ope…
+1123694853030805500,Wed May 01 21:05:04 +0000 2019,Don't miss out on tomorrow's webinar Hands-On TiDB - Episode 2: Deploying and Benchmarking TiDB on AWS. #TiDB Regis… https://t.co/NAqfqhc2Qm
+1123650087706607600,Wed May 01 18:07:11 +0000 2019,Our team found two #linux kernel bugs while testing #TiDB Operator in #Kubernetes. Here's what we did to fix them: https://t.co/tACRKBQ2Wk
+1123635881410121700,Wed May 01 17:10:44 +0000 2019,RT @PeterZaitsev: I'm presenting on MySQL Sharding and TiDB Webinar with @Morgan Tocker in less than an hour.  Please join in!   #mysql #ti…
+1123377021592014800,Wed May 01 00:02:07 +0000 2019,RT @PingCAP: Check out a wrap-up blog post of the first ever @RustConAsia, written by our wonderful intern, June Huang. @rustlang #rustlang…
+1123373463513829400,Tue Apr 30 23:47:59 +0000 2019,Check out a wrap-up blog post of the first ever @RustConAsia, written by our wonderful intern, June Huang.… https://t.co/slUuFwZHCN
+1123331961609687000,Tue Apr 30 21:03:04 +0000 2019,Want to interact with the #TiDB community in real time and get all the latest news about the product? Join the TiDB… https://t.co/chyAc33I8w
+1123255291364069400,Tue Apr 30 15:58:25 +0000 2019,RT @tikvproject: Highlights from the Asian Rust community!  Proud to see @nick_r_cameron up there! https://t.co/t86pOiupsv
+1123010571840950300,Mon Apr 29 23:45:59 +0000 2019,Check out Titan: a @RocksDB plugin to reduce write amplification! Will be available in #TiDB 3.0. https://t.co/T2bBCARro9
+1122903993292689400,Mon Apr 29 16:42:29 +0000 2019,RT @tikvproject: Our @tikvproject contributors and maintainers having so much fun at RustCon Asia!  Can't wait for next time! Hope to talk…
+1122805743143440400,Mon Apr 29 10:12:04 +0000 2019,Apr 22 ~ Apr 28, 2019, we landed 59 PRs for #TiDB, 14 PRs for #TiSpark, and 25 PRs for #TiKV and #PD:… https://t.co/YGeCTvc50Y
+1122553048880992300,Sun Apr 28 17:27:57 +0000 2019,RT @PeterZaitsev: Reducing Write Amplification in RocksDB even further with Titan  Plugin  #rocksdb #tidb https://t.co/oNP3waXPQC
+1121585479986454500,Fri Apr 26 01:23:11 +0000 2019,RT @Percona: We're thrilled to have Jervin Real - Percona, and Francisco Bordenave  -Percona, present their talk "Replicating #MySQL Data t…
+1121476463608385500,Thu Apr 25 18:09:59 +0000 2019,Episode 2: Deploying and Benchmarking TiDB on AWS is happening next week! Come join us to learn more about how you… https://t.co/X6TGqyZFKK
+1121204220382683100,Thu Apr 25 00:08:11 +0000 2019,RT @Percona: Here's a sneak of some of the companies who will be speaking at Percona Live, Click here to reveal the full list! https://t.co…
+1121200395907412000,Wed Apr 24 23:52:59 +0000 2019,NEXT WEDNESDAY, May 1, 11AM PST: our own @morgo will be doing a joint webinar w/ @PeterZaitsev of @percona on "How… https://t.co/CmI8cZJkkv
+1120751043833421800,Tue Apr 23 18:07:26 +0000 2019,Come join us TOMORROW for our Bay Area NewSQL meetup to learn about TiDB 3.0 the biggest release of TiDB this year!… https://t.co/trISENDwjo
+1120584982383202300,Tue Apr 23 07:07:33 +0000 2019,RT @tikvproject: Wish is one of the @PingCAP team working on @tikvproject !  Way to go Wish! :) https://t.co/aisPOt03yW
+1120584972593709000,Tue Apr 23 07:07:31 +0000 2019,RT @tikvproject: So cool to see @nick_r_cameron (a member of @PingCAP's @tikvproject team) teaching our community!  Thanks Nick! :) https:/…
+1120584186170150900,Tue Apr 23 07:04:24 +0000 2019,RT @RustConAsia: The last three workshops are ongoing @PingCAP @ParityTech @gautamdhameja @blockstack  #rustlang https://t.co/CJ5m5AeTml
+1120433088750813200,Mon Apr 22 21:03:59 +0000 2019,TOMORROW: if you happen to be in Montevideo, Uruguay, go check out @Percona University to learn the latest/greatest… https://t.co/WkMe7VUdAE
+1120388174868623400,Mon Apr 22 18:05:31 +0000 2019,New Webinar Alert! Episode 2: Deploying and Benchmarking TiDB on AWS. This second webinar episode will show how you… https://t.co/IvOaFamsxq
+1120367116811505700,Mon Apr 22 16:41:50 +0000 2019,RT @gosv11: .@dxhuang Co-founder and CTO of @PingCAP will be giving a lightning talk at our upcoming Meetup on May 2nd.  “TiDB is a distrib…
+1120267935589617700,Mon Apr 22 10:07:44 +0000 2019,Apr 15 ~ Apr 21, 2019, we landed 28 PRs for #TiDB, 11 PRs for #TiSpark, and 27 PRs for #TiKV and #PD:… https://t.co/OjEZfqdBID
+1120114924729065500,Sun Apr 21 23:59:43 +0000 2019,RT @tikvproject: One of our maintainers. 😍 https://t.co/Nt8ADajG1C
+1119764144037609500,Sun Apr 21 00:45:50 +0000 2019,RT @RustConAsia: Futures in TiKV from Qu Peng at #RustConAsia #rustlang https://t.co/bpO0Ue4Ypw
+1119760414806552600,Sun Apr 21 00:31:01 +0000 2019,RT @RustConAsia: The second day of RustCon Asia starts. #RustConAsia https://t.co/XhLQLcWUpu
+1119333826264801300,Fri Apr 19 20:15:55 +0000 2019,Episode 1: What’s TiDB? A brief introduction recording is now up! Take a look #TiDB https://t.co/ItJ0yqZ7o9
+1119318808882106400,Fri Apr 19 19:16:14 +0000 2019,RT @dxhuang: Video record of the TiDB webinar yesterday. Tips: Demo starts at 29:51 😆...https://t.co/YgDtAtU1hb
+1119123973021716500,Fri Apr 19 06:22:02 +0000 2019,Check out the recording for the webinar here: Hands-On TiDB - Episode 1:  A Brief Introduction to TiDB… https://t.co/1uI7ryy5yg
+1118938178793164800,Thu Apr 18 18:03:45 +0000 2019,Come join us at our monthly Bay Area NewSQL Database Meetup to here Ed Huang's talk: Keep Calm and Scale-Out: TiDB… https://t.co/1m8jciGK3o
+1118260019714232300,Tue Apr 16 21:08:59 +0000 2019,Don't miss out on our first webinar happening this Thursday, April 18th, at 10 am! If you have not already register… https://t.co/QeKB8IT5S0
+1118205738491334700,Tue Apr 16 17:33:17 +0000 2019,RT @dxhuang: Finally, TiDB-operator supports 1-click deployment in AWS. #TiDB @PingCAP  ♥😎 https://t.co/SJoTVDlBwF
+1118201516098084900,Tue Apr 16 17:16:31 +0000 2019,RT @PingCAP: Our team will be there with a full track on #TiDB during Day 1. Here’s a 20% discount code if you need it: PLPINGCAP20  See yo…
+1118164136272072700,Tue Apr 16 14:47:59 +0000 2019,Our team will be there with a full track on #TiDB during Day 1. Here’s a 20% discount code if you need it: PLPINGCA… https://t.co/FeHldPd2mo
+1117723803952357400,Mon Apr 15 09:38:15 +0000 2019,Apr 08 ~ Apr 14, 2019, we landed 52 PRs for #TiDB, 9 PRs for #TiSpark, and 32 PRs for #TiKV and #PD:… https://t.co/5Y4ndoDlF1
+1116810240098545700,Fri Apr 12 21:08:05 +0000 2019,Look! One of the world's top smartphone makers, Xiaomi, also uses #TiDB to back some of its most popular services,… https://t.co/UvxRFWJmVL
+1116084432597917700,Wed Apr 10 21:03:59 +0000 2019,Don't forget to register for our first webinar that is happening next week! Thursday, April 18th at 10:00 AM -- Epi… https://t.co/MOTD2LCtw4
+1115712511003643900,Tue Apr 09 20:26:06 +0000 2019,RT @Alluxio: Don't miss the Global Tech Leadership Open Source Panel this Sunday feat. founders and experts of open source projects such as…
+1115694481443917800,Tue Apr 09 19:14:27 +0000 2019,Looks like our team made the right choice 3 years ago in choosing @rustlang to build #TiKV @tikvproject!… https://t.co/V4qYid2JiQ
+1115194169549418500,Mon Apr 08 10:06:23 +0000 2019,Apr 01 ~ Apr 07, 2019, we landed 61 PRs for #TiDB, 9 PRs for #TiSpark, and 21 PRs for #TiKV and #PD:… https://t.co/oAC3ufd57t
+1114562506641399800,Sat Apr 06 16:16:23 +0000 2019,RT @tshepang_dev: 'nother wonderful design... favorite poster of the moment #rustlang https://t.co/ILKWuPEdq1
+1114562488115155000,Sat Apr 06 16:16:19 +0000 2019,RT @RustConAsia: Friday! Two weeks away from https://t.co/tPqxtVi1hh https://t.co/aXFLPFNi7R
+1114562464618692600,Sat Apr 06 16:16:13 +0000 2019,RT @RustConAsia: Thanks to @xiaozhangguide1 for the colorful banner of #RustConAsia https://t.co/nFinvBiDZS
+1113911364995698700,Thu Apr 04 21:08:59 +0000 2019,Come join us in our new webinar series on TiDB!  Episode 1: What’s TiDB? A brief introduction  Webinar Registration… https://t.co/kvmYuqsWHy
+1113849087906857000,Thu Apr 04 17:01:31 +0000 2019,RT @software_daily: Project Health: Assessing Open Source Projects with More Context @kevinsxu  @PingCAP #OpenSource https://t.co/rIAPG0snE…
+1113185625568628700,Tue Apr 02 21:05:09 +0000 2019,@business reported Meituan-Dianping (China's Yelp+Grubhub+Expedia+Groupon) makes 20 million deliveries per day (… https://t.co/Ze66gNPYhw
+1112904631221346300,Tue Apr 02 02:28:35 +0000 2019,RT @c4pt0r: Check out this Meetup: Keep Calm and Scale-Out: TiDB 3.0  https://t.co/s0sKRYeshD #Meetup #SanMateo via @Meetup
+1112653409721544700,Mon Apr 01 09:50:19 +0000 2019,Mar 25 ~ Mar 31, 2019, we landed 62 PRs for #TiDB, 10 PRs for #TiSpark, and 21 PRs for #TiKV and #PD:… https://t.co/gKOnNn6xTP
+1112459638962716700,Sun Mar 31 21:00:21 +0000 2019,A major announcement at #TiDB DevCon where we unveiled TiDB 3.0 beta and all the cool features and improvments we a… https://t.co/3MxyVVvnFj
+1112459633069711400,Sun Mar 31 21:00:19 +0000 2019,A recap of our team's journey to #FOSDEM 2019 where we delivered 1 talk in the MySQL devroom and 2 talks in the… https://t.co/zHw2iKxvvj
+1112459630158897200,Sun Mar 31 21:00:18 +0000 2019,A piece by @morgo publishd on @opensourceway that shows #MySQL DBAs a few tricks to save time (thus money) when usi… https://t.co/pVV7TwkxNn
+1112459627017310200,Sun Mar 31 21:00:18 +0000 2019,Architectural overview of Data Migration (DM), a #TiDB ecosystem tool that helps replicate data from sharded #MySQL… https://t.co/uk8QktvzWO
+1112459624265875500,Sun Mar 31 21:00:17 +0000 2019,Another deep dive use case on how Shopee uses #TiDB. (Shopee is part of SEA Group and one of the largest e-commerce… https://t.co/WYLfTb8M1e
+1112459620755230700,Sun Mar 31 21:00:16 +0000 2019,A real world use case of #TiDB (replacing Galera) by @BookMyShowEng. (BookMyShow is one of the largest Internet co'… https://t.co/gTkHqMhif3
+1112459619316580400,Sun Mar 31 21:00:16 +0000 2019,End of Q1 THREAD: We produce *a lot* of content on #TiDB every quarter it's hard to keep track. So let's highlight… https://t.co/317znbPTt9
+1111384409846931500,Thu Mar 28 21:47:46 +0000 2019,@kennethreitz Thanks for using our #DevRel job description as an example.
+1110965057276600300,Wed Mar 27 18:01:25 +0000 2019,#ICYMI @morgo published a great post on @opensourceway about how a #MySQL DBA can save time when using #TiDB, which… https://t.co/PHNLGp9RNr
+1110959583315533800,Wed Mar 27 17:39:39 +0000 2019,RT @kevinsxu: Here are my slides: https://t.co/3tkGIcUMrb
+1110959571403599900,Wed Mar 27 17:39:37 +0000 2019,RT @kevinsxu: Had a great time last night sharing some learning on the why and how behind building #TiDB Operator to run this #opensource #…
+1110328537330958300,Mon Mar 25 23:52:06 +0000 2019,#TiDB will make a big splash at @Percona Live in Austin, TX (May 28-30). There will be a full track of talks from n… https://t.co/ZL33kdasDD
+1110117991184646100,Mon Mar 25 09:55:28 +0000 2019,Mar 18 ~ Mar 24, 2019, we landed 50 PRs for #TiDB, 4 PRs for #TiSpark, and 26 PRs for #TiKV and #PD:… https://t.co/LLidkJFd3N
+1110072323774640100,Mon Mar 25 06:54:00 +0000 2019,RT @Que8eny: Saving time with #tidb and make your life easier :) https://t.co/jRrmNt4Snm
+1109133794932473900,Fri Mar 22 16:44:38 +0000 2019,RT @opensourceway: How to save time with TiDB, a distributed SQL database by Morgan Tocker of @PingCAP | https://t.co/0VfTUaitbd https://t.…
+1108889452372348900,Fri Mar 22 00:33:42 +0000 2019,RT @RustConAsia: The first talks are appearing on the schedule! How exciting!  While speakers are confirmed, times might wobble. (As time i…
+1108458181087375400,Wed Mar 20 19:59:59 +0000 2019,Our third meetup is just a week away! Join us to listen to Yoshinori Matsunobu talk about Why and How did @Facebook… https://t.co/yLO3CYSREu
+1107587138797736000,Mon Mar 18 10:18:46 +0000 2019,Mar 11 ~ Mar 17, 2019, we landed 63 PRs for #TiDB, 6 PRs for #TiSpark, and 28 PRs for #TiKV and #PD:… https://t.co/sZzpXlq3Eq
+1106616299118043100,Fri Mar 15 18:01:00 +0000 2019,Another day, another #TiDB user story: https://t.co/hpAxJsX5no, one of India's largest Internet companies.  #tldr:… https://t.co/jjBTkXx2IY
+1106283708330491900,Thu Mar 14 19:59:24 +0000 2019,Attention all NewSQL enthusiasts! Bay Area NewSQL Database Meetup is coming up Wednesday March 27th at 4:30 pm. Spe… https://t.co/FON1tfkbOp
+1105517538874675200,Tue Mar 12 17:14:55 +0000 2019,The official #TiDB certification for #MySQL DBAs is ready in beta! Now after you take our free self-paced course on… https://t.co/Zj82OSiJ6K
+1105050478902034400,Mon Mar 11 10:18:59 +0000 2019,Mar 04 ~ Mar 10, 2019, we landed 51 PRs for #TiDB, 2 PRs for #TiSpark, and 15 PRs for #TiKV and #PD:… https://t.co/3fiLiE79zY
+1103863330953879600,Fri Mar 08 03:41:41 +0000 2019,RT @PeterZaitsev: DbDeployer now supports TiDB thanks to @datacharmer and Morgan Tocker   #tidb https://t.co/zXD7WRXZS2
+1103535665843560400,Thu Mar 07 05:59:40 +0000 2019,RT @datacharmer: If it quacks like a duck, it's a duck.  If it fits in a sandbox like #MySQL, is it MySQL?  #dbdeployer and #TiDB cooperate…
+1103428889081086000,Wed Mar 06 22:55:22 +0000 2019,RT @datacharmer: #dbdeployer and its community - Part 1: TiDB https://t.co/riMaAexpwO #mysql #golang https://t.co/mr0wg8FpqJ
+1103150979170496500,Wed Mar 06 04:31:03 +0000 2019,Check out this recent blog post if you are curious about the why and how of why we are building DM: https://t.co/64hfa8MxHv
+1103150977757077500,Wed Mar 06 04:31:03 +0000 2019,#TiDB Academy (taught by @morgo) just added new content on DM (Data Migration), a tool we recently open-sourced to… https://t.co/B51hEF2pv6
+1103070385736544300,Tue Mar 05 23:10:48 +0000 2019,RT @c4pt0r: TiDB 3.0 beta, sysbench result   https://t.co/7w1PnnX0LM
+1102954980200276000,Tue Mar 05 15:32:13 +0000 2019,RT @RustConAsia: Support and join RustCon Asia? Please check https://t.co/tPqxtVi1hh for more information #rustconasia https://t.co/tpQE6x7…
+1102503583344283600,Mon Mar 04 09:38:32 +0000 2019,Feb 25 ~ Mar 03, 2019, we landed 63 PRs for #TiDB, 2 PRs for #TiSpark, and 36 PRs for #TiKV and #PD:… https://t.co/CUVIRzHi9A
+1100879369126391800,Wed Feb 27 22:04:29 +0000 2019,RT @tikvproject: We'd love it if you submitted to the CFP of our friends at @RustConAsia !  https://t.co/Q883E0sScy
+1100784542426660900,Wed Feb 27 15:47:41 +0000 2019,RT @monadic: Cloud native open source at "China Scale" -- galaxy brain!  Must read piece from @PingCAP Kevin Xu.  China is blowing away alm…
+1100520640669306900,Tue Feb 26 22:19:02 +0000 2019,RT @kevinsxu: @monkchips @PingCAP has been hiring @rustlang engineers for a while now. Go check out the angelist link in their profile page…
+1100511458721321000,Tue Feb 26 21:42:32 +0000 2019,@monkchips We are hiring @rustlang engineers and have been for a couple of years now. (See our profile link to Ange… https://t.co/EOFhXihL10
+1100511077027110900,Tue Feb 26 21:41:01 +0000 2019,RT @monkchips: 2019 is the year of people getting jobs programming in RUST.
+1100437710517428200,Tue Feb 26 16:49:29 +0000 2019,RT @software_daily: China Scale: the New Sandbox to Battle-Test Innovative Technology by Kevin Xu @kevinsxu @PingCAP #China #ecommerce #TiD…
+1100262201779195900,Tue Feb 26 05:12:05 +0000 2019,Excited to be sponsoring @Percona Live 2019 in Austin! There will be a full track worth of talks on #TiDB, like… https://t.co/NmJEst74U5
+1100159579877367800,Mon Feb 25 22:24:18 +0000 2019,RT @morgo: TiDB now supported in DBdeployer 1.19.0! https://t.co/4NU9nQEwpR -- some details on my recent collab with @datacharmer following…
+1100156153688817700,Mon Feb 25 22:10:41 +0000 2019,#dbdeployer by @datacharmer now supports #TiDB, a great way to easily test whether your current #MySQL application… https://t.co/PCD7q734EO
+1099972247576428500,Mon Feb 25 09:59:54 +0000 2019,Feb 18 ~ Feb 24, 2019, we landed 75 PRs for #TiDB, 3 PRs for #TiSpark, and 21 PRs for #TiKV and #PD:… https://t.co/p47lSwSGMq
+1099464845072560100,Sun Feb 24 00:23:40 +0000 2019,RT @morgo: Announcing dbdeployer support for TiDB! https://t.co/shWRE01uxM
+1099075888069496800,Fri Feb 22 22:38:06 +0000 2019,RT @kevinsxu: #ICYMI I podcast-ed at @CloudNativeFdn KubeCon Seattle w/ some really cool ppl about using #TiDB #TiKV on #Kubernetes &amp; relat…
+1098605887076233200,Thu Feb 21 15:30:29 +0000 2019,RT @siddontang: https://t.co/ku6boFj7OU  We are starting to contribute to bcc, and plan to do more deep work about diagnosing performance p…
+1098082626303184900,Wed Feb 20 04:51:14 +0000 2019,RT @RustConAsia: We are very proud to announce RustCon Asia 2019, happening April 20th to 23rd in Beijing, China, it will span four days, i…
+1097739159987380200,Tue Feb 19 06:06:25 +0000 2019,RT @Que8eny: @PingCAP @Meetup It's just two days away! #TiDB #NewSQL #Kubernetes
+1097543393289236500,Mon Feb 18 17:08:30 +0000 2019,RT @morgo: Excited to see the BENCHMARK() function was added.  I use it for simulation a lot. https://t.co/J4Y3UX50xm
+1097436222564163600,Mon Feb 18 10:02:39 +0000 2019,Feb 11 ~ Feb 17, 2019, we landed 50 PRs for #TiDB, 2 PRs for #TiSpark, and 16 PRs for #TiKV and #PD.… https://t.co/cNKRKb5jFv
+1096104526317154300,Thu Feb 14 17:50:58 +0000 2019,Want to learn about how TiDB is used at Shopee, one of the largest e-commerce platforms in Southeast Asia? Read thi… https://t.co/ZN8AHRKyLa
+1095720394651123700,Wed Feb 13 16:24:34 +0000 2019,RT @dankohn1: "There are a lot of different open-source organizations out there, but none had a bigger year in 2018 than the Cloud Native C…
+1095423713082654700,Tue Feb 12 20:45:39 +0000 2019,Check out our post-@fosdem blog post, recapping our team's European journey, with videos of @morgo on TiDB,… https://t.co/VW6pfKsqBS
+1094891348329607200,Mon Feb 11 09:30:14 +0000 2019,Jan 28 ~ Feb 10, 2019, we landed 25 PRs for #TiDB, 2 PRs for #TiSpark, and 23 PRs for #TiKV and #PD:… https://t.co/JtKtS7Ff2A
+1094667099119611900,Sun Feb 10 18:39:09 +0000 2019,RT @liufu_ty: @PingCAP is trying/planning to make some awesome course on @rustlang and distributed systems. You might be interested in foll…
+1093955782800859100,Fri Feb 08 19:32:37 +0000 2019,RT @velmu: FOSDEM 2019: Morgan Tocker, “TiDB: Distributed, Horizontally Scalable, MySQL Compatible” https://t.co/vJKq2llmg3
+1093930726234280000,Fri Feb 08 17:53:04 +0000 2019,Check out @CloudNativeFdn 2018 annual report! We are the 6th largest contributor with 32,000+ contributions! The fi… https://t.co/VuiT2rD2jG
+1092903415565484000,Tue Feb 05 21:50:54 +0000 2019,Last but not least, @breeswish introducing a @rustlang implementation of @PrometheusIO in the #Rust devroom. Enjoy!… https://t.co/rHCVYXinGd
+1092903414177120300,Tue Feb 05 21:50:53 +0000 2019,Next, @a_hoverbear and Jay sharing ideas and advice on improving development posture in @rustlang in the #Rust devr… https://t.co/8BGicE30na
+1092903412763713500,Tue Feb 05 21:50:53 +0000 2019,Post-@fosdem 2019 wrap up: in case you missed our team's 3 talks at #FOSDEM, the videos are up!  First up, @morgo t… https://t.co/SV7GGNHVq3
+1092438484483219500,Mon Feb 04 15:03:25 +0000 2019,RT @ShlomiNoach: My #FOSDEM session, "MySQL and the CAP theorem: relevance &amp; misconceptions", is now available to watch on https://t.co/rlb…
+1092023907903815700,Sun Feb 03 11:36:03 +0000 2019,And Wish Shi from @tikvproject team speaking about rust-prometheus. @rustlang + @PrometheusIO at #FOSDEM 2019. https://t.co/h103eMcqE8
+1092012077248589800,Sun Feb 03 10:49:02 +0000 2019,RT @matthiasendler: @kevinsxu @PingCAP @rustlang Big fan of @PingCAP here. It's the future.
+1091996552686719000,Sun Feb 03 09:47:21 +0000 2019,At #FOSDEM 2019: @a_hoverbear and Jay Lee from @tikvproject, talking @rustlang to a packed devroom. #TiDB #TiKV https://t.co/2GVrMxvCRQ
+1091990158147309600,Sun Feb 03 09:21:56 +0000 2019,RT @kevinsxu: My favorite part of working at @PingCAP is I get to satisfy my inner nerd once in a while at #Fosdem to learn from awesome pe…
+1091776442709565400,Sat Feb 02 19:12:42 +0000 2019,RT @HorakHonza: #TiDB, a distributed database written in #golang and #rustlang, where each region on a node can act separately and one can…
+1091737038381031400,Sat Feb 02 16:36:08 +0000 2019,RT @bytebot: Maybe more interesting is how @Pingcap just had a “TiDB DevCon” conference with over 700+ attendees. It has been a long time s…
+1091734129744511000,Sat Feb 02 16:24:34 +0000 2019,RT @lefred: @morgo and his legendary large smile 😁 is back in the #fosdem #mysqldevroom #mariadbdevroom to talk about @PingCAP #TiDB https:…
+1091373334355357700,Fri Feb 01 16:30:54 +0000 2019,PingCAP will be hosting a meetup this month if you are in the Bay Area come join us! Topic; Smooth Operator: Using… https://t.co/xNJGQcO2A5
+1091297128641687600,Fri Feb 01 11:28:05 +0000 2019,RT @siddontang: Want to help us speed up comiling TiKV, please check  https://t.co/OK13USmW6i
+1090846835634102300,Thu Jan 31 05:38:47 +0000 2019,RT @tikvproject: Three TiKV engineers will be giving presentations in the @rustlang room at @fosdem this weekend.  Hope you can stop by. :)
+1089829318744727600,Mon Jan 28 10:15:32 +0000 2019,Jan 21 ~ Jan 27, 2019, we landed 22 PRs for #TiDB, 1 PR for #TiSpark, and 20 PRs for #TiKV and #PD:… https://t.co/8S2kNlrYPJ
+1089019661927145500,Sat Jan 26 04:38:15 +0000 2019,RT @c4pt0r: Releasing TiDB 3.0 Beta, the keyword is: Stability at Scale, the introduction of Titan (Our WiscKey implementation on RocksDB)…
+1088608917213524000,Fri Jan 25 01:26:05 +0000 2019,RT @PeterZaitsev: MySQL Compatible TiDB is taken to the test by Alexander Rubin - impressive results for analytical queries even for single…
+1088571954846588900,Thu Jan 24 22:59:13 +0000 2019,ANNOUNCING: TiDB 3.0 Beta. Goal: reach stability at scale. New features: -Multi-thread Raftstore -Batch Message in… https://t.co/8B9eix1FaX
+1088571178396991500,Thu Jan 24 22:56:08 +0000 2019,RT @planetmysql: A Quick Look into TiDB Performance on a Single Server https://t.co/qvrvtQ8t0p
+1088448916998082600,Thu Jan 24 14:50:18 +0000 2019,Check out the newest episode of @software_daily where  @the_prion interviews @kevinsxu about TiDB as a NewSQL datab… https://t.co/EeXNhlXiPm
+1088392928018354200,Thu Jan 24 11:07:50 +0000 2019,RT @software_daily: TiDB: Distributed NewSQL with Kevin Xu (@kevinsxu)  https://t.co/IJtkVqtgS3  @PingCAP https://t.co/3RzM8Qw9K5
+1087914380803489800,Wed Jan 23 03:26:15 +0000 2019,RT @Joab_Jackson: #K8s Operators for databases and other stateful workloads may help introduce #Kubernetes to a larger enterprise user-base…
+1087550349139832800,Tue Jan 22 03:19:43 +0000 2019,RT @c4pt0r: Just open souced two new tools to TiDB family: tidb-lightning (https://t.co/XKzYIDlOMu)   and tidb-dm(https://t.co/qvkCiGUdk0)
+1087538267048689700,Tue Jan 22 02:31:43 +0000 2019,2/2: Data Migration (DM), an integrated platform that supports migrating data from MySQL and MariaDB to TiDB.… https://t.co/HkaKfIflI4
+1087538265744232400,Tue Jan 22 02:31:42 +0000 2019,1/2: We just open sourced two tools in the TiDB ecosystem. Lightning, a high-speed data import tool.         https://t.co/D1GqZRlfiq
+1087492170213290000,Mon Jan 21 23:28:32 +0000 2019,@nick_r_cameron Welcome to the family. 🤗
+1087492005951721500,Mon Jan 21 23:27:53 +0000 2019,RT @nick_r_cameron: I start a new job at @PingCAP tomorrow. Excited would be an understatement! https://t.co/EdNQqZQZda
+1087285500321312800,Mon Jan 21 09:47:18 +0000 2019,Jan 14, 2019 ~ Jan 20, 2019, we landed 57 PRs for #TiDB, 1 PR for #TiSpark, and 19 PRs for #TiKV and #PD:… https://t.co/GISkMTKzqp
+1086535075922010100,Sat Jan 19 08:05:23 +0000 2019,RT @a_hoverbear: Speaking at TiDB DevCon in Beijing with @PingCAP about @tikvproject .  So amazing. What a cool experience. :) https://t.co…
+1086516653003698200,Sat Jan 19 06:52:11 +0000 2019,RT @Que8eny: #tidb DevCon, @qiuyesuifeng is doing a recap about the TiDB community and ecosystem in 2018. BTW: Congratulations to Meituan D…
+1086478352553111600,Sat Jan 19 04:19:59 +0000 2019,RT @Que8eny: #tidb DevCon, Yinggang Zhao said they fell in love with TiDB at first sight. Check out their success story at: https://t.co/e8…
+1086478345305448400,Sat Jan 19 04:19:57 +0000 2019,RT @Que8eny: The English version is here: https://t.co/euGorrxJAa
+1086478331900383200,Sat Jan 19 04:19:54 +0000 2019,RT @Que8eny: Ops, sorry about the link: it’s here: https://t.co/eaDwj6UJhg
+1086457041600708600,Sat Jan 19 02:55:18 +0000 2019,@morgo talking about #TiDB as a multi-cloud managed service delivered by PingCAP at TiDB DevCon 2019. Want to give… https://t.co/7hYhd4yJlV
+1086452576248160300,Sat Jan 19 02:37:34 +0000 2019,RT @wusheng1108: Take part in @PingCAP #TiDB DevCon 2019. Meet friends there. https://t.co/uZCOoyTeG1
+1086451053732614100,Sat Jan 19 02:31:31 +0000 2019,The chilly Beijing Morning on Jan. 19 sees many developers at #TiDB DevCon. We are sharing the developments in 2018… https://t.co/zSJ6eKhcxo
+1086449420600729600,Sat Jan 19 02:25:01 +0000 2019,RT @lilianlee90: At #TiDB DevCon 2019 😎 https://t.co/Lt2yzuEzhK
+1085784638797140000,Thu Jan 17 06:23:25 +0000 2019,RT @Jobspresso: PingCAP is now looking for a remote Cloud Product Engineer 🚀 #remotework #developer #digitalnomad https://t.co/0BY4XDWxLZ
+1085619971147755500,Wed Jan 16 19:29:05 +0000 2019,The #TiDB team is excited to join others for the #MySQL and Friends community dinner pre @fosdem in just a few week… https://t.co/FMbMqy2dWf
+1085385585316020200,Wed Jan 16 03:57:43 +0000 2019,RT @PeterZaitsev: YSCB is far from perfect benchmark but it is nice to see multi-database implementation in Go https://t.co/5yC6O72Fo4
+1084750454083412000,Mon Jan 14 09:53:56 +0000 2019,Jan 07, 2019 ~ Jan 13, 2019, we landed 51 PRs for #TiDB, 5 PRs for #TiSpark, and 32 PRs for #TiKV and #PD:… https://t.co/QeQhXinYJI
+1082209083095019500,Mon Jan 07 09:35:26 +0000 2019,Dec 31, 2018 ~ Jan 06, 2019, we landed 38 PRs for #TiDB, 2 PRs for #TiSpark, and 10 PRs for #TiKV and #PD:… https://t.co/SGAkqijynI
+1080930978258800600,Thu Jan 03 20:56:42 +0000 2019,RT @PingCAP: Team TiDB + @tikvproject is heading to @fosdem 2019 w/ 3 talks:  -@morgo in #MySQL #MariaDB &amp; friends devroom on TiDB fundamen…
+1080915911744249900,Thu Jan 03 19:56:50 +0000 2019,Rumor has it @kevinsxu will also be doing some volunteer bartending at the MySQL community dinner.  See you in Belg… https://t.co/rb9WIuO0L0
+1080915910687244300,Thu Jan 03 19:56:50 +0000 2019,Team TiDB + @tikvproject is heading to @fosdem 2019 w/ 3 talks:  -@morgo in #MySQL #MariaDB &amp; friends devroom on Ti… https://t.co/CXr91D0G4W
+1080403542035185700,Wed Jan 02 10:00:52 +0000 2019,Dec 24 ~ Dec 30, 2018, we landed 57 PRs for #TiDB, 9 PRs for #TiSpark, and 34 PRs for #TiKV and #PD:… https://t.co/Gs7a8GFsdl
+1079822040490602500,Mon Dec 31 19:30:11 +0000 2018,#HappyNewYear2019 from us to you and your loved ones! Look forward for bringing the power of #TiDB to help more com… https://t.co/wQqQjXCZGP
+1078044608540463100,Wed Dec 26 21:47:18 +0000 2018,Want to level up on distributed database knowledge with TiDB before the new year? Sign up for TiDB Academy taught b… https://t.co/5fjZdkBItr
+1077735457109078000,Wed Dec 26 01:18:50 +0000 2018,RT @PingCAP: #MerryChirstmas all! As we head into 2019, here’s a recap of 2018 in TiDB land.   #tldr launched TiDB 2.1/2.0/Cloud/Academy/Ti…
+1077699130871300100,Tue Dec 25 22:54:30 +0000 2018,#MerryChirstmas all! As we head into 2019, here’s a recap of 2018 in TiDB land.   #tldr launched TiDB 2.1/2.0/Cloud… https://t.co/yk0ARE4ETO
+1077281152803762200,Mon Dec 24 19:13:36 +0000 2018,RT @KaniyamMagazine: கணியம்: MySQLஇற்கும் TiDB எனும் கட்டற்ற புதிய SQL தரவுதளத்ததிற்குமிடையேயான வேறுபாடுகள் யாவை https://t.co/fHmuDtxgdQ
+1077121234704359400,Mon Dec 24 08:38:08 +0000 2018,Dec 17 ~ Dec 23, we landed 48 PRs for #TiDB and 29 PRs for #TiKV and #PD: https://t.co/2Kq5hvN6Hi @shenli3514 @siddontang
+1074607265926115300,Mon Dec 17 10:08:32 +0000 2018,Dec 10 ~ Dec 16, we landed 47 PRs for #TiDB, 2 PRs for #TiSpark, and 36 PRs for #TiKV and #PD:… https://t.co/TJzlleGVyT
+1074450726544302100,Sun Dec 16 23:46:30 +0000 2018,RT @Adron: To which I found some answers about one of the two key questions I'd been asking! What's the distributed database story around #…
+1073640018009157600,Fri Dec 14 18:05:02 +0000 2018,@matthewbeirouti All fixed. Thanks for letting us know!
+1073265512711254000,Thu Dec 13 17:16:53 +0000 2018,Day 3 at #KubeCon #CloudNativeCon, come say hi to Nami and grab some TiDB and TiKV stickers before they run out!… https://t.co/xIWU4qlgTD
+1073051622555545600,Thu Dec 13 03:06:57 +0000 2018,@roskilli @BrandonPhilips @traefik @CockroachDB @openshift @vitessio @projectcalico @kubernetesio @rook_io @coreos… https://t.co/VjIqGZ0ahF
+1073028408777429000,Thu Dec 13 01:34:43 +0000 2018,RT @siddontang: Amazing, a friend has built @tikvproject as a remote storage of @PrometheusIO, see https://t.co/S6pO6SeZrv https://t.co/4Qa…
+1073011645109039100,Thu Dec 13 00:28:06 +0000 2018,RT @shenli3514: We proposed the design for plan management. With this feature, we can dynamically force the optimizer to choose a certain p…
+1072894613046800400,Wed Dec 12 16:43:03 +0000 2018,Want to meet Nami, the unofficial #TiDB #TiKV puppy at #KubeCon? Come visit booth G15, chat about distributed datab… https://t.co/O9hINH9uRE
+1072608517041913900,Tue Dec 11 21:46:13 +0000 2018,RT @thenewstack: We’re live with @derekcollison of @_synadia_, Scott Clinton of @hortonworks, @kevinsxu of @PingCAP, and @mmilinkov of @Ecl…
+1072568344618983400,Tue Dec 11 19:06:35 +0000 2018,@hartley Thanks for the clarification Michael. We learned a lot from etcd, esp its Raft implementation, when we fir… https://t.co/zddZx6R6RA
+1072550955428790300,Tue Dec 11 17:57:29 +0000 2018,At #KubeCon? Come to booth G15 to grab a bag (for your other swags), stickers, and learn about how we use… https://t.co/p6mQL2aMfs
+1072351514390356000,Tue Dec 11 04:44:59 +0000 2018,Check out the fresh, new @CloudNativeFdn case study on how we use #Kubernetes both internally and for TiDB Cloud cu… https://t.co/8oHEbkLRlV
+1072145730687516700,Mon Dec 10 15:07:16 +0000 2018,RT @elastisys: Learn how to deploy @WordPress across multiple @GCPcloud regions using @kubernetesio and TiDB by @PingCAP in our latest blog…
+1072030949993406500,Mon Dec 10 07:31:10 +0000 2018,Dec 03 ~ Dec 09, we landed 48 PRs for #TiDB, 4 PRs for #TiSpark, and 22 PRs for #TiKV and #PD:… https://t.co/DXe7EY5cFb
+1071919368999563300,Mon Dec 10 00:07:47 +0000 2018,Great write up on #TiDB #TiKV @tikvproject ahead of #KubeCon “Engineers in China are like engineers everywhere. The… https://t.co/62cbBokMzf
+1071863655585636400,Sun Dec 09 20:26:24 +0000 2018,New swags, new stickers, new GA release. Can’t wait to see you all #KubeCon to hand these out and talk about TiDB 2… https://t.co/HZSQTmzsVZ
+1071604839044440000,Sun Dec 09 03:17:57 +0000 2018,RT @tikvproject: See how it's used in TiDB 2.1 here: https://t.co/PUEdwDkQCF See how to make your first TiKV contribution here: https://t.c…
+1071604823248691200,Sun Dec 09 03:17:53 +0000 2018,RT @tikvproject: RELEASE: TiKV 2.1 reaches GA!  - Optimized MVCC Scan - Unsafe Destroy Range - Coprocressor read pool - Prevote enabled - R…
+1070832817653743600,Fri Dec 07 00:10:13 +0000 2018,Another day, another #TiDB use case, this time written by Meituan-Dianping (@UberEats + @Yelp + @Groupon) on their… https://t.co/8b5SgpXjBy
+1070411957667164200,Wed Dec 05 20:17:52 +0000 2018,Excited to be at #KubeCon + #CloudNativeCon next week in Seattle as a Gold sponsor! Come to our booth to chat about… https://t.co/HLVj6Rkvzw
+1070081185806610400,Tue Dec 04 22:23:30 +0000 2018,RT @PeterZaitsev: Great update on TiDB 2.1 from Pingcap    #tidb #pingcap https://t.co/INfnON6ppP
+1070043288676163600,Tue Dec 04 19:52:55 +0000 2018,ANNOUNCING: TiDB 2.1 reaches GA! Lots of new stuff. Here are the highlights:  -better optimizer+executor -Raft prev… https://t.co/0ZUZ0TCxhA
+1069682772447440900,Mon Dec 03 20:00:21 +0000 2018,RT @morgo: Full schedule for FOSDEM MySQL devroom announced: https://t.co/lBXMiSDK6I -- my talk on "TiDB: Distributed, horizontally scalabl…
+1069516513499967500,Mon Dec 03 08:59:42 +0000 2018,Nov 26 ~ Dec 02, we landed 72 PRs for #TiDB, 2 PRs for #TiSpark, and 25 PRs for #TiKV and #PD:… https://t.co/bKzbj8fiF9
+1068863695281971200,Sat Dec 01 13:45:38 +0000 2018,RT @c4pt0r: Happy Hacking #TiDBHackathon2018 https://t.co/cfAuZBPcaa
+1068220111171899400,Thu Nov 29 19:08:15 +0000 2018,Psst...we will be releasing TiDB 2.1 GA in the coming days, stay tuned for the announcement blog post. #cantwait https://t.co/8k993e3EBY
+1067471629398110200,Tue Nov 27 17:34:03 +0000 2018,@monkchips @justincormack @awscloud copying our own firecracker @rustlang team @siddontang @a_hoverbear @c4pt0r
+1067279939714670600,Tue Nov 27 04:52:21 +0000 2018,RT @siddontang: Titan: A Distributed Redis Protocol Compatible NoSQL Database based on TiKV https://t.co/OBhozyr2kb
+1067236109510303700,Tue Nov 27 01:58:11 +0000 2018,RT @morgo: Interested in contributing to TiDB?  This is an easy first issue to work on: https://t.co/cohw7h8I8C  Several other issues are t…
+1066982377472221200,Mon Nov 26 09:09:57 +0000 2018,Nov 19 ~ Nov 25, we landed 46 PRs for #TiDB, 2 PRs for #TiSpark, and 20 PRs for #TiKV and #PD:… https://t.co/9NHGqUfmyv
+1066579050410344400,Sun Nov 25 06:27:16 +0000 2018,We had a great time watching the talks at @RustFest yesterday!  Today you can join our @a_hoverbear and Yann, our f… https://t.co/q5IAHAxstZ
+1066354889746395100,Sat Nov 24 15:36:32 +0000 2018,Happy to see our friends @ZhuAimee (@cryptape) and @aaron_turon at @RustFest Rome! https://t.co/bO5g70RwHq
+1064940418238959600,Tue Nov 20 17:55:56 +0000 2018,RT @shenli3514: We will publish TiDB proposals discussion agenda here: https://t.co/Vs766bNDrk Welcome to join us. @PingCAP
+1064454061267726300,Mon Nov 19 09:43:19 +0000 2018,Nov 12 ~ Nov 18, we landed 54 PRs for #TiDB, 3 PRs for #TiSpark, and 29 PRs for #TiKV and #PD:… https://t.co/xcctjCVu0p
+1063143905615642600,Thu Nov 15 18:57:14 +0000 2018,TiDB Eurotrip wraps up with a @morgo meetup talk in Madrid (thank you @sjmudd for hosting) after Frankfurt, Amsterd… https://t.co/GRE99tvh2J
+1063000325408391200,Thu Nov 15 09:26:41 +0000 2018,RT @c4pt0r: Happy to know that Meitu (one of the biggest smartphone manufacturers in China and their selfie app is also very popular) just…
+1062666660073619500,Wed Nov 14 11:20:49 +0000 2018,We are hiring (a lot): https://t.co/0sDTL13kmh https://t.co/1M0FAnUBlW
+1062656619161497600,Wed Nov 14 10:40:55 +0000 2018,Want to know the 5 key differences between MySQL and TiDB for scaling in the #cloud? Read all about it here:… https://t.co/XoXuhReIvo
+1062654638174990300,Wed Nov 14 10:33:03 +0000 2018,RT @Linuxnews1: Meet TiDB: An open source NewSQL database https://t.co/sH4u9Hrn0s  #linux
+1062648713531850800,Wed Nov 14 10:09:31 +0000 2018,@thesquashSH @copyconstruct We actually just wrote a blog post on this topic. tldr: we use "Lease Read". Here's the… https://t.co/cL8K3ZpryW
+1062043171373367300,Mon Nov 12 18:03:18 +0000 2018,@morgo talking about the 3 common TiDB use cases at Amsterdam MySQL meetup: 1. MySQL scalability (out of the box) 2… https://t.co/zk2QZpHx2e
+1062036880097714200,Mon Nov 12 17:38:18 +0000 2018,RT @walterheck: Watching @morgo introducing @PingCAP's TiDB at the #amsmysql Meetup https://t.co/mLCQIiAxNg
+1061918496412422100,Mon Nov 12 09:47:53 +0000 2018,Nov 05 ~ Nov 11, we landed 54 PRs for #TiDB, 3 PRs for #TiSpark, and 28 PRs for #TiKV and #PD:… https://t.co/KgqqF3bAAC
+1061729642116190200,Sun Nov 11 21:17:27 +0000 2018,RT @sjmudd: Scaling MySQL? Come to Amsterdam or Madrid meetups this week to discuss how? See: https://t.co/D1qweckPVE #mysql #vitess #TiDB…
+1061679993040834600,Sun Nov 11 18:00:10 +0000 2018,Another huge Singles’ Day (30.8B USD) in the books.   TiDB &amp; TiKV (a @CloudNativeFdn project @tikvproject) successf… https://t.co/RulpxdMKHy
+1060219285837172700,Wed Nov 07 17:15:50 +0000 2018,That's a wrap from Team PingCAP at #PerconaLive in Frankfurt. Thanks @Percona for having us! If you missed the keyn… https://t.co/Q45Gg0AiGc
+1059736060635332600,Tue Nov 06 09:15:40 +0000 2018,RT @Que8eny: Feel free to swing by the PingCAP booth at #PerconaLive to #TiDB Cloud in action! And talk to @kevinsxu @shenli3514 @morgo for…
+1059727284385538000,Tue Nov 06 08:40:48 +0000 2018,Awesome to see TiDB Cloud (aka multi-cloud TiDB-as-a-service) mentioned in @PeterZaitsev #PerconaLive keynote. Want… https://t.co/OfnCiNHdwH
+1059371425310498800,Mon Nov 05 09:06:44 +0000 2018,Oct 29 ~ Nov 04, we landed 49 PRs for #TiDB, 5 PRs for #TiSpark, and 5 PRs for #TiKV and #PD:… https://t.co/eHclr2boyp
+1058481982580043800,Fri Nov 02 22:12:24 +0000 2018,RT @datanami: Off the Wire: @PingCAP Announces TiDB Cloud Managed as a Service https://t.co/V3o8CAxgBX
+1058096431930589200,Thu Nov 01 20:40:22 +0000 2018,RT @RocksDB: One week to go until the 5th Annual RocksDB Meetup; Come join us for a great lineup of talks!  https://t.co/j83FCJEN6X
+1058042806277558300,Thu Nov 01 17:07:17 +0000 2018,RT @Percona: Want to see Morgan Tocker present 'TiDB: Distributed, horizontally scalable, MySQL compatible', see them on Tuesday, November…
+1058026266039738400,Thu Nov 01 16:01:33 +0000 2018,LAUNCHING: TiDB Cloud, fully-managed as a service by PingCAP (or 1-click install a standard cluster on @GCPcloud ma… https://t.co/679oi2O7zy
+1056970405905236000,Mon Oct 29 18:05:56 +0000 2018,RT @morgo: In Europe?  I'll be speaking about TiDB in Frankfurt, Amsterdam, Budapest &amp; Madrid in the next 2 weeks: https://t.co/0vC0NXGfmL…
+1056970311457882100,Mon Oct 29 18:05:34 +0000 2018,We are going to Amsterdam to talk about Scaling MySQL with TiDB. (RSVP: https://t.co/oEV97g2AQq) Then Budapest...(R… https://t.co/QXjvV4mZiA
+1056970309188763600,Mon Oct 29 18:05:33 +0000 2018,NEXT WEEK: Team PingCAP is heading to Frankfurt for @Percona Live Europe with a keynote presentation &amp; a talk to in… https://t.co/84khLEzWNH
+1056967867277631500,Mon Oct 29 17:55:51 +0000 2018,RT @kevinsxu: Pretty sure @PingCAP cloud product team is hiring...;) cc @RedHat @openshift https://t.co/DORhr9msZf
+1056834456160325600,Mon Oct 29 09:05:44 +0000 2018,Oct 22 ~ Oct 28, we landed 52 PRs for #TiDB and 31 PRs for #TiKV and #PD: https://t.co/aevOjkgAaZ @shenli3514 @siddontang
+1056688194668785700,Sun Oct 28 23:24:32 +0000 2018,RT @PeterZaitsev: This is cool - top 3 Options to scale MySQL in one Meetup in Madrid Simon J Mudd, Morgan Tocker  #mysql https://t.co/Jern…
+1055229057980190700,Wed Oct 24 22:46:27 +0000 2018,Pinging ALL @MySQL DBAs: time to sign up for TiDB Academy's first course taught by @morgo, "Distributed Database wi… https://t.co/DY0casoVB8
+1054460118132129800,Mon Oct 22 19:50:57 +0000 2018,Adding one more to this (LONG) list of community events. Oct 30: pre-Halloween #Kubernetes meetup hosted by… https://t.co/4vuPcGMdNZ
+1054354257682387000,Mon Oct 22 12:50:18 +0000 2018,Oct 15 ~ Oct 21, we landed 60 PRs for #TiDB, 2 PRs for #TiSpark, and 16 PRs for #TiKV and #PD:… https://t.co/ZuGoPHrwfk
+1053343790511996900,Fri Oct 19 17:55:04 +0000 2018,Hope this year's @rustbeltrust in Ann Arbor, Michigan will be another successful @rustlang gathering! Always love s… https://t.co/Sbps5g9IWs
+1053341518029709300,Fri Oct 19 17:46:02 +0000 2018,Want to see how iQiYi, the Netflix of China, is using #TiDB to entertain its 60+ million subscribers? Check out thi… https://t.co/gQks5MX5EX
+1052553828376215600,Wed Oct 17 13:36:02 +0000 2018,LAUNCHING: TiDB Academy, training courses and certifications on #TiDB designed for DBAs, DevOps, System Architects,… https://t.co/HmW1pSyrks
+1051882583775047700,Mon Oct 15 17:08:45 +0000 2018,If you are in Boston today, no better way to spend your evening at this meetup, listening to @morgo talk about and… https://t.co/RhiWGpG6fJ
+1051755637468684300,Mon Oct 15 08:44:19 +0000 2018,Sept 24 ~ Oct 14, we landed 74 PRs for #TiDB, 4 PRs for #TiSpark, and 42 PRs for #TiKV and #PD:… https://t.co/qzVOnuheju
+1050614475466797000,Fri Oct 12 05:09:45 +0000 2018,RT @dharmeshkakadia: We are hosting next SF #kubernetes #meetup at our office ! Come and learn about running stateful workloads on kubernet…
+1050467572066349000,Thu Oct 11 19:26:00 +0000 2018,Psst...we will launch 2 really cool things: "TiDB Cloud" (multi-cloud, PingCAP managed TiDB as a service, signup:… https://t.co/PhP2El0WON
+1049682498806931500,Tue Oct 09 15:26:24 +0000 2018,RT @RocksDB: Just announced the schedule for the 5th annual RocksDB Meetup @ Facebook!  Great line-up of presenters getting ready for you,…
+1047187401561362400,Tue Oct 02 18:11:46 +0000 2018,TOMORROW: if you are in #Chicago and love tech and database (who doesn't?), go see @morgo talk about #TiDB! RSVP li… https://t.co/R3956u73Cf
+1045971879679279100,Sat Sep 29 09:41:43 +0000 2018,RT @Lilian_Sd90: The birthday party for those born in Sept., also the 1st birthday party at PingCAP's new office🎂 #TiDB https://t.co/P8vwqI…
+1045071772268286000,Wed Sep 26 22:05:01 +0000 2018,Great to see #TiDB recognized as one of the best #OpenSource database projects by @infoworld’s 2018 Bossie Award! https://t.co/7vIXuxqKW8
+1044494311180529700,Tue Sep 25 07:50:24 +0000 2018,Sept. 17 ~ Sept. 23, we landed 29 PRs for #TiDB and 14 PRs for #TiKV and #PD: https://t.co/Lg8T7TwDXK @shenli3514 @siddontang
+1044267171981885400,Mon Sep 24 16:47:50 +0000 2018,RT @BostonMysql: Monday October 15: Join @morgo to learn about TiDB! https://t.co/1noXXj1RxG
+1043208766710116400,Fri Sep 21 18:42:06 +0000 2018,Oh! There's one more: Oct. 15, Monday, Boston, at Boston #MySQL Meetup Group, where @morgo will continue his roadsh… https://t.co/k16rt2t0W8
+1043205612899692500,Fri Sep 21 18:29:34 +0000 2018,That's a lot of events! We are working on more, and will add to this thread as they get confirmed. Please RT to hel… https://t.co/IvFJn18lWr
+1043205612014686200,Fri Sep 21 18:29:34 +0000 2018,Oct 19/20, Fri/Sat, Ann Arbor, Michigan, @rustbeltrust, featuring Sr. Database Engineer @a_hoverbear, showing you h… https://t.co/2E8cZd6z81
+1043205611037454300,Fri Sep 21 18:29:34 +0000 2018,Oct 10, Wed, SF/Bay Area, at #SFMySQL meetup (event happening at @Twitter HQ), featuring @morgo, delivering an over… https://t.co/RDIrvSigKO
+1043205610076954600,Fri Sep 21 18:29:33 +0000 2018,Oct 3, Wed, Chicago, at #ChiTown #MySQL user group meetup, featuring Sr. Product//Community Mgr @morgo, introducing… https://t.co/uoZ3GYJJOU
+1043205609095553000,Fri Sep 21 18:29:33 +0000 2018,Sept 27, Thurs, NYC, at Database Month + SQL NYC meetup, featuring @c4pt0r speaking about #TiDB's architecture +… https://t.co/uj81nDOZfT
+1043205607942058000,Fri Sep 21 18:29:33 +0000 2018,THREAD: Team PingCAP is hitting the road &amp; bringing #TiDB #TiKV to a city near YOU! First up: Sept 25, Tues, Portla… https://t.co/rClD9kWgMW
+1042634058797183000,Thu Sep 20 04:38:25 +0000 2018,RT @Bella07316236: A new bright office, May #PingCap and #TiDB have a bright future!! https://t.co/ZQrVjSWc0R
+1041919956344963100,Tue Sep 18 05:20:50 +0000 2018,RT @kevinsxu: Great pod by Dan on @changelog on how far the @CloudNativeFdn #CloudNative #Kubernetes world has come in the last year. (Also…
+1041612054480642000,Mon Sep 17 08:57:20 +0000 2018,Sept. 10 ~ Sept. 16, we landed 35 PRs for #TiDB, 1 PR for #TiSpark, and 28 PRs for #TiKV and #PD:… https://t.co/B2aHw9JQit
+1041046329537904600,Sat Sep 15 19:29:21 +0000 2018,@monadic @ibuildthecloud @wm We’ve been hiring @rustlang engineers for our #TiKV team (distributed kv store) and st… https://t.co/75jB84CRnr
+1039559200911704000,Tue Sep 11 17:00:02 +0000 2018,RT @TechCrunch: TiDB developer PingCAP wants to expand in North America after raising $50M Series C https://t.co/B2salp2HhE by @catherinesh…
+1039087401543454700,Mon Sep 10 09:45:16 +0000 2018,Sept. 03 ~ Sept. 09, we landed 39 PRs for #TiDB, 10 PRs for #TiSpark, and 50 PRs for #TiKV and #PD:… https://t.co/slYLbYC96O
+1038219499026014200,Sat Sep 08 00:16:32 +0000 2018,RT @PingCAP: Great to see @ContainerBlog covering TiKV’s entry to @CloudNativeFdn, how it provides #MySQL compatibility by working with #Ti…
+1038131740953333800,Fri Sep 07 18:27:49 +0000 2018,Great to see @ContainerBlog covering TiKV’s entry to @CloudNativeFdn, how it provides #MySQL compatibility by worki… https://t.co/c92ifAU8c7
+1037937834659725300,Fri Sep 07 05:37:18 +0000 2018,RT @confreaks: New video! @rustconf Using Raft in Rust by @PingCAP https://t.co/YNWwtGqwkO #rustconf
+1037024314967478300,Tue Sep 04 17:07:18 +0000 2018,TOMORROW: We'll be co-organizing the 2nd @rustlang Bay Area #meetup at Stanford, featuring talks on Cranelift by Da… https://t.co/Spr2LmGQJn
+1036669550501290000,Mon Sep 03 17:37:35 +0000 2018,RT @asynchio: Exciting to see @PingCAP lead the way as the first and major commercial OSS vendor in China. Awesome project and community. h…
+1036573834059513900,Mon Sep 03 11:17:15 +0000 2018,Aug. 27 ~ Sept. 02, we landed 45 PRs for #TiDB, 2 PRs for #TiSpark, and 30 PRs for #TiKV and #PD:… https://t.co/iSudmY4BeI
+1035647474965205000,Fri Aug 31 21:56:14 +0000 2018,And that’s a wrap for team #TiDB’s first #OSSummit! Thank you @linuxfoundation for putting together such a great ev… https://t.co/EAuDTgNkB6
+1035231028049195000,Thu Aug 30 18:21:25 +0000 2018,Whoa, #TiDB just reached 200 contributors! Thank you TiDB community for your ongoing support, feedback, and trust.… https://t.co/3jXqVWRJKf
+1035228959779115000,Thu Aug 30 18:13:12 +0000 2018,RT @kevinsxu: Had a ton of fun discussing #TiDB, distributed database, @rustlang and #OpenSource community w/ @alexwilliams of @thenewstack…
+1035207845120077800,Thu Aug 30 16:49:18 +0000 2018,RT @thenewstack: Tune in shortly for a live conversation with @kevinsxu of @PingCAP at #OSSummit about open source and distributed systems;…
+1035179848547762200,Thu Aug 30 14:58:03 +0000 2018,RT @andy_pavlo: Our #VLDB18 OtterTune demo pits the world's best DB researchers against machine learning. The competitors have to tune @pos…
+1034876415814955000,Wed Aug 29 18:52:19 +0000 2018,Want to work w/ #Kubernetes, @rustlang, a cool open source distributed database #TiDB? We are hiring for all positi… https://t.co/4D7ZJf952s
+1034849779220545500,Wed Aug 29 17:06:28 +0000 2018,Great to see @eWEEKNews @TechJournalist covering TiKV’s entry to @CloudNativeFdn on the morning of #OSSummit Day 1!  https://t.co/hTzDefzqq0
+1034577403819962400,Tue Aug 28 23:04:09 +0000 2018,Come find us at #OSSummit in Vancouver tomorrow (Booth 6) to chat #TiDB, #TiKV entering @CloudNativeFdn, and how… https://t.co/mHWIEcGPn4
+1034541550674407400,Tue Aug 28 20:41:41 +0000 2018,RT @linuxfoundation: [NEWS] @CloudNativeFdn to Host #TiKV in the Sandbox: https://t.co/i2zTVKq6Xl
+1034534332982018000,Tue Aug 28 20:13:00 +0000 2018,RT @thenewstack: The Cloud Native Computing Foundation (CNCF) accepted TiKV, an open source distributed transactional key-value database, i…
+1034533945004748800,Tue Aug 28 20:11:27 +0000 2018,RT @cra: ⚡ happy to welcome the TiKV project to the @CloudNativeFdn sandbox! this marks our 2nd project born in China and our 2nd project t…
+1034472017834074100,Tue Aug 28 16:05:23 +0000 2018,#TiKV a distributed transactional key-value store first built to power #TiDB is now part of @CloudNativeFdn! It lev… https://t.co/gP71kNYUWg
+1034466497932886000,Tue Aug 28 15:43:27 +0000 2018,RT @CloudNativeFdn: [NEWS] @CloudNativeFdn to Host #TiKV in the Sandbox 🎉 https://t.co/QkprFVJgAg https://t.co/RHBsVs6pEt
+1034067249454297100,Mon Aug 27 13:16:58 +0000 2018,Have a cup of coffee and then come to Room Segovia IV @vldb2018 to join @c4pt0r and have a hands-on workshop about… https://t.co/oPUinievhp
+1034050658742231000,Mon Aug 27 12:11:03 +0000 2018,Right Now,@c4pt0r is presenting about the #tidb at Room Segovia 4 @vldb2018. Come and join us! https://t.co/B7pWhMWDaa
+1034019340163604500,Mon Aug 27 10:06:36 +0000 2018,Aug. 20 ~ Aug. 26, we landed 34 PRs for #TiDB, 3 PRs for #TiSpark, and 27 PRs for #TiKV and #PD:… https://t.co/bwfqZlSObR
+1033826073467932700,Sun Aug 26 21:18:38 +0000 2018,We are here in Rio de Janeiro for @VLDB2018! Tomorrow, @c4pt0r will present at #VLDB about a #TiDB workshop. From A… https://t.co/02xB7bH6tB
+1032841837428367400,Fri Aug 24 04:07:37 +0000 2018,RT @NamazuFuzzTest: Namazu will be shown at  #OSSNA18! Thanks @andrewhobden @pingcap https://t.co/cXDwdyGhC0
+1032732027500421100,Thu Aug 23 20:51:17 +0000 2018,RT @grafana: See how PingCAP diagnoses and troubleshoots issues from a 1000 metrics on their TiDB clusters using Grafana. https://t.co/kNzg…
+1032487692670361600,Thu Aug 23 04:40:23 +0000 2018,RT @ztennix: Will talk about how to provision the distributed database #TiDB on #Kubernetes at the first #KubeCon Kube + #CloudNativeCon Ch…
+1032361863273574400,Wed Aug 22 20:20:23 +0000 2018,RT @infoworld: Introducing the Kubernetes Operator for TiDB - https://t.co/5RlnEjxVr0 #TiDB #Kubernetes #Docker #CloudNative
+1032025618643218400,Tue Aug 21 22:04:16 +0000 2018,RT @morgo: I'll be in San Francisco October 10th for the MySQL Meetup #tidb #htap https://t.co/fuxpM3VL0y
+1031474812206514200,Mon Aug 20 09:35:33 +0000 2018,Aug. 13 ~ Aug. 19, we landed 46 PRs for #TiDB, 2 PRs for #TiSpark, and 48 PRs for #TiKV and #PD:… https://t.co/Vh3imgjW7A
+1030580299933970400,Fri Aug 17 22:21:05 +0000 2018,RT @siddontang: Talking how to use Raft in Rust https://t.co/xscphR6HRz
+1030307159005782000,Fri Aug 17 04:15:43 +0000 2018,RT @andrewhobden: Very excited to see my friend @siddontang talk about Raft library tomorrow at @rustconf!  @PingCAP extracted it from TiKV…
+1030123705668489200,Thu Aug 16 16:06:44 +0000 2018,We just open-sourced TiDB-operator, leveraging #Kubernetes to deploy/operate/manage a distributed database like TiD… https://t.co/YpR9E0R83n
+1029589553462399000,Wed Aug 15 04:44:13 +0000 2018,RT @thenewstack: 5 Questions for Evaluating a Distributed Database https://t.co/4IyVWcgvJ7  #TiDB
+1029482671217365000,Tue Aug 14 21:39:30 +0000 2018,Are you in #SF on NEXT MONDAY, August 20? Come to our joint meetup with SF #DevOps to introduce #TiDB's architectur… https://t.co/CEI6esbHSc
+1028940896882978800,Mon Aug 13 09:46:41 +0000 2018,Aug. 06 ~ Aug. 12, we landed 46 PRs for #tidb and 27 PRs for #tikv and #pd: https://t.co/3Be3PtfBB6 @shenli3514 @siddontang
+1028069843625369600,Sat Aug 11 00:05:25 +0000 2018,RT @mgechev: TiDB uses our Go linter revive 🤯  Check out the PR which introduced the change https://t.co/kr5szAoYWr
+1027641178865393700,Thu Aug 09 19:42:04 +0000 2018,Pumped to be at #ossummit Vancouver Aug 29-31! Come to our very own @andrewhobden's tutorial on Chaos (or Resilienc… https://t.co/NwaokVv2CF
+1026922345405935600,Tue Aug 07 20:05:41 +0000 2018,RT @morgo: My blog, now powered by TiDB! https://t.co/LdwZPRZyt2
+1026911945000022000,Tue Aug 07 19:24:21 +0000 2018,Another day, another fantastic #TiDB success story *written by* our customer. See how Zhuan Zhuan (the @letgo of Ch… https://t.co/eZBJD5Iubc
+1026396065799368700,Mon Aug 06 09:14:26 +0000 2018,Jul. 30 ~ Aug. 05, we landed 68 PRs for #tidb and 30 PRs for #tikv and #pd: https://t.co/naXP1bhN65  @shenli3514 @siddontang
+1025477639585185800,Fri Aug 03 20:24:56 +0000 2018,Want to land your first @rustlang Pull Request in #TiKV to help power its Coprocessor with #TiDB by adding #MySql b… https://t.co/NbVCJsNDFw
+1025125448265523200,Thu Aug 02 21:05:27 +0000 2018,Check out our cofounder/CTO @c4pt0r's post published on @thenewstack.  Are you evaluating a distributed #database l… https://t.co/8rGzUF8P9Z
+1025110631647596500,Thu Aug 02 20:06:34 +0000 2018,RT @thenewstack: 5 Questions for Evaluating a Distributed Database https://t.co/4IyVWcgvJ7 @c4pt0r #TiDB
+1024361875239186400,Tue Jul 31 18:31:17 +0000 2018,@monkchips Important point re #womenintech  We are constantly working to build an inclusive/diverse workforce. Here… https://t.co/1IWxKJuW2p
+1024358894582157300,Tue Jul 31 18:19:26 +0000 2018,@monkchips @rustlang Thanks for the shoutout! Here's the use case story of how https://t.co/emxK6r5fm7 uses TiDB &amp;… https://t.co/lpuAVcZdH3
+1023999880136515600,Mon Jul 30 18:32:51 +0000 2018,RT @morgo: I'll be at the Open Source Summit in Vancouver at the end of August.  My colleague @andrewhobden will be giving a talk on "Survi…
+1023861481471799300,Mon Jul 30 09:22:54 +0000 2018,Jul. 23 ~ Jul. 29, we landed 43 PRs for #TiDB, 6 PRs for #TiSpark, and 17 PRs for #TiKV and #PD:… https://t.co/YfQT5MgYWj
+1021883578466979800,Tue Jul 24 22:23:25 +0000 2018,Read about how we leverage @grafana to help monitor and quickly troubleshoot #TiDB clusters for the 200+ companies… https://t.co/5bNXERwwe4
+1021480799080783900,Mon Jul 23 19:42:55 +0000 2018,Great to see #TiDB making its debut appearance on @mattturck 2018 #BigData and #AI landscape in the #NewSQL categor… https://t.co/hIVaiIxKzg
+1021319538460127200,Mon Jul 23 09:02:07 +0000 2018,Jul. 16 ~ Jul. 22, we landed 41 PRs for #TiDB, 2 PRs for #TiSpark, and 23 PRs for #TiKV and #PD:… https://t.co/spe2eG2QHe
+1018982687141326800,Mon Jul 16 22:16:19 +0000 2018,This WEDNESDAY: if you are in the SF/Bay Area, go check out the 1st @rustlang #meetup at @Stanford that we are co-o… https://t.co/mxXjTMRI7o
+1018758158104182800,Mon Jul 16 07:24:07 +0000 2018,Jul. 09 ~ Jul. 15, we landed 30 PRs for #TiDB and 19 PRs for #TiKV and #PD: https://t.co/bbpM69GBtS @shenli3514 @siddontang
+1017484800658059300,Thu Jul 12 19:04:15 +0000 2018,How does #TiDB make real-time data analytics...REAL? Check out this blog post that explains TiSpark, our… https://t.co/zg6SlbvzaB
+1016256170510594000,Mon Jul 09 09:42:06 +0000 2018,Jul. 02 ~ Jul. 08, we landed 34 PRs for #tidb, 5 PRs for #tispark, and 26 PRs for #tikv and #pd:… https://t.co/JvSP1m4qH7
+1013970047029555200,Tue Jul 03 02:17:52 +0000 2018,Excited to be supporting Bay Area @rustlang's first meetup @Stanford with 2 great talks on macros rules and… https://t.co/HRTIFxrE4k
+1013818946816958500,Mon Jul 02 16:17:27 +0000 2018,@rustconf @siddontang See y'all in Portland! https://t.co/NpNZawYh6H
+1013818437997490200,Mon Jul 02 16:15:26 +0000 2018,RT @rustconf: The folks at @PingCAP are on board as Bronze sponsors of #RustConf. You can catch also one of their engineers, @siddontang, s…
+1013710235909754900,Mon Jul 02 09:05:28 +0000 2018,Jun. 25 ~ Jul. 01, we landed 39 PRs for #TiDB and 25 PRs for #TiKV and #PD: https://t.co/5ekEuVdF5v @shenli3514 @siddontang
+1012707430243786800,Fri Jun 29 14:40:41 +0000 2018,Guess what's powering https://t.co/emxK6r5fm7's huge food delivery platform w/ 260 MILLION users (18x @Grubhub)?… https://t.co/GXXaauO6ty
+1012649039899156500,Fri Jun 29 10:48:39 +0000 2018,Good to see not one, but TWO, of our open source projects on @CloudNativeFdn cloud-native landscape. New entrant:… https://t.co/9yExu1wn3A
+1011182390121619500,Mon Jun 25 09:40:43 +0000 2018,Jun. 18 ~ Jun. 24, we landed 18 PRs for #TiDB, 5 PRs for #TiSpark and 19 PRs for #TiKV and #PD: https://t.co/JgWcbJCKWi
+1010291425181745200,Fri Jun 22 22:40:20 +0000 2018,Since it IS #TakeYourDogToWorkDay, allow us to introduce Poppi, the unofficial #TiDB puppy. https://t.co/na9DXnQM32
+1008996159589789700,Tue Jun 19 08:53:25 +0000 2018,Jun. 11 ~ Jun. 17, we landed 26 PRs for #TiDB and 28 PRs for #TiKV and #PD: https://t.co/yP45Zi2AFo @shenli3514 @siddontang
+1008859884643762200,Mon Jun 18 23:51:54 +0000 2018,Have you been wondering about how #TiSpark works to make #TiDB a distributed hybrid OLTP/OLAP database? We know you… https://t.co/R4FUwwPidO
+1006923831812878300,Wed Jun 13 15:38:43 +0000 2018,Great to see @jmscrts of @451Research covering #TiDB &amp; its hybrid workloads capabilities. Is TiDB the #HOAP (and Ch… https://t.co/xJhlikD1rl
+1006923003697905700,Wed Jun 13 15:35:26 +0000 2018,RT @maslett: For @451Research clients: @PingCAP eyes US market with database targeting operational and analytical workloads https://t.co/CQ…
+1006341754608595000,Tue Jun 12 01:05:45 +0000 2018,RT @denismagda: Guys, if you're dealing with in-memory caches, grids, databases and other related technologies, stop by this meetup on Wedn…
+1006101315364065300,Mon Jun 11 09:10:20 +0000 2018,Jun. 04 ~ Jun. 10, we landed 50 PRs for #TiDB, 2 PRs for #TiSpark and 20 PRs for #TiKV and #PD:… https://t.co/wl88c6nxmt
+1005870915572285400,Sun Jun 10 17:54:49 +0000 2018,@iamCharlesChege Hi there! Our usual rule of thumb is, if say you are using MySQL and your data size/growth is abou… https://t.co/RuFrxydgBM
+1005614995084722200,Sun Jun 10 00:57:52 +0000 2018,@kentccs Thank you! Let us know if you have any questions/issues when using #TiDB going forward.
+1005148421655748600,Fri Jun 08 18:03:53 +0000 2018,Need a fun project to work on and play with this weekend? How about spinning up your own #HTAP database with #TiDB… https://t.co/jbppKarLmu
+1004512541295300600,Wed Jun 06 23:57:07 +0000 2018,Wrap up #SparkAISummit on a high note! In &lt; 1 hour, #TiSpark team lead Shawn Ma will give a talk how we leverage Sp… https://t.co/htGuqJZ3NV
+1004405498274172900,Wed Jun 06 16:51:46 +0000 2018,Are you at #SparkAISummit today? Come check out our #TiSpark lead Shawn Ma’s talk today at 5:40PM in Room 2009 abou… https://t.co/WoiEiiMkQi
+1004056004063948800,Tue Jun 05 17:43:00 +0000 2018,@KevinHoffman Rust client for TiKV is definitely on our roadmap! We have a #Golang client now because #TiDB is a Go… https://t.co/8tGfqIUJr1
+1004039196456075300,Tue Jun 05 16:36:13 +0000 2018,#TiKV, a distributed transactional key-value store written in @rustlang, is the building block of #TiDB. It's alrea… https://t.co/kreSfebsXY
+1004007283230064600,Tue Jun 05 14:29:24 +0000 2018,RT @KevinHoffman: Finally got both the server-side and client-side #gRPC components to talk to each other, written in @rustlang #rustlang a…
+1003550890987384800,Mon Jun 04 08:15:52 +0000 2018,May 28 ~ Jun 03, we landed 50 PRs for #TiDB, 2 PRs for #TiSpark and 20 PRs for #TiKV and #PD:… https://t.co/MAvJvqtVCo
+1001017284129779700,Mon May 28 08:28:13 +0000 2018,May 21 ~ May 27, we landed 44 PRs for #TiDB, 2 PRs for #TiSpark and 20 PRs for #TiKV and #PD:… https://t.co/wXJmo1a9O0
+1001001078438051800,Mon May 28 07:23:49 +0000 2018,RT @andrewhobden: Enjoyed @RustFest? Want to hang out with such cool people all the time? Want to **work** with such cool people?  Check ou…
+1000371426732396500,Sat May 26 13:41:48 +0000 2018,RT @c4pt0r: Great talk! Thank you Peter! @PeterZaitsev @Percona https://t.co/qjowbjDdeZ
+1000328904274477000,Sat May 26 10:52:50 +0000 2018,RT @kevinsxu: In case you need something to scroll through during lunch time at @RustFest Paris, check out @PingCAP's latest blog post by @…
+999182130214154200,Wed May 23 06:55:58 +0000 2018,RT @Percona: Join Percona's CEO Peter Zaitsev as he discusses Using #MySQL for Distributed Database Architectures at the @PingCap Infra #Me…
+998490601707507700,Mon May 21 09:08:05 +0000 2018,May. 14 ~ May. 20, we landed 40 PRs for #TiDB, 4 PRs for #TiSpark and 35 PRs for #TiKV and #PD:… https://t.co/SSvg2SnXKG
+997888537776214000,Sat May 19 17:15:41 +0000 2018,RT @PeterZaitsev: Excited to speak on PingCAP meetup in Shanghai on Saturday May 26th!  #meetup #mysql #pingcap https://t.co/aiBcqiIzVZ htt…
+997543174229844000,Fri May 18 18:23:20 +0000 2018,Missed our 1st SF/Bay Area #NewSQL meetup last week? Don't worry, you can watch the entire event with @andy_pavlo,… https://t.co/19mO9eUfqN
+995953009480818700,Mon May 14 09:04:36 +0000 2018,May. 07 ~ May. 13, we landed 55 PRs for #TiDB and 24 PRs for #TiKV and #PD: https://t.co/YjPsi3LQHX @shenli3514 @siddontang
+995049419203473400,Fri May 11 21:14:03 +0000 2018,Last night's SF/Bay Area #NewSQL meetup was a YUGE success! Thanks to @andy_pavlo for sharing his research on "self… https://t.co/gpT2BEqJ82
+994771307303759900,Fri May 11 02:48:56 +0000 2018,RT @kevinsxu: @andy_pavlo showing how “self-driving” database gets done at @PingCAP’s first SF/Bay Area #NewSQL meetup. #CrushingIt https:/…
+994769869815009300,Fri May 11 02:43:13 +0000 2018,RT @siddontang: Our first Bay Area meetup https://t.co/S1vsUn5tvw
+994333183725334500,Wed May 09 21:47:59 +0000 2018,TOMORROW: the first SF/Bay Area #NewSQL meetup is coming your way with @andy_pavlo talking about "self-driving" DBM… https://t.co/uNcrwZrInJ
+993679250338201600,Tue May 08 02:29:29 +0000 2018,@andy_pavlo @leandrolugaresi We will set up recording for the entire event!
+993560933027823600,Mon May 07 18:39:20 +0000 2018,RT @andy_pavlo: SFO/SV Friends: I am coming to the valley this Thursday May 10 @ 6:30pm to speak at @PingCAP's #NewSQL meetup. I will talk…
+993442800539586600,Mon May 07 10:49:55 +0000 2018,Apr. 30 ~ May. 06, we landed 24 PRs for #TiDB, 1 PR for #TiSpark and 15 PRs for #TiKV and #PD:… https://t.co/lcO4OPDr0c
+992238794542792700,Fri May 04 03:05:38 +0000 2018,RT @andrewhobden: Oh my gosh look it's @PingCAP sponsoring @RustFest! https://t.co/4Xrp7QjYcM  😍
+992100636836610000,Thu May 03 17:56:38 +0000 2018,UPDATE: #ICYMI TiDB 2.0 was just released! So for our first SF/Bay Area #NewSQL meetup on May 10, in addition to ta… https://t.co/z1Zdy4DoFn
+991608096828149800,Wed May 02 09:19:28 +0000 2018,Apr. 23 ~ Apr. 29, we landed 49 PRs for #TiDB, 21 PRs for #TiKV and #PD, we released TiSpark 1.0 GA last week and 1… https://t.co/fXK8vbiEqD
+990949990997540900,Mon Apr 30 13:44:23 +0000 2018,BREAKING: TiDB 2.0 is ready! Faster, smarter, and battle-tested. See all the highlights here (TPC-H benchmarks incl… https://t.co/hcGJlT5q0b
+989575479257583600,Thu Apr 26 18:42:34 +0000 2018,ANNOUNCEMENT: hosting our first SF-Bay Area meetup on May 10th w/ Prof Andy Pavlo of CMU @andy_pavlo on “self-drivi… https://t.co/gPF0KlySpZ
+989251895465148400,Wed Apr 25 21:16:45 +0000 2018,IN 45 MIN: @siddontang will be delivering a talk in Room M2 on how to scale #TiKV to 100+ nodes (FYI, the whole thi… https://t.co/Jdn4m3eHOX
+989225651726045200,Wed Apr 25 19:32:28 +0000 2018,#ItsHappening Lunch time exhibit demo with Ed Huang @c4pt0r. Want to spin up your own TiDB HTAP cluster on your lap… https://t.co/29sjIvzYgs
+989188161099055100,Wed Apr 25 17:03:30 +0000 2018,Great turnout for #perconalive day 2. Don’t forget to check out Ed Huang @c4pt0r lunch time demo of #TiDB at 12:30p… https://t.co/cfAcDXEPAl
+989009002737553400,Wed Apr 25 05:11:35 +0000 2018,RT @andrewhobden: Talking Raft at Percona live! Stop by @siddontang s talk tomorrow  to see how we use Raft in TiKV at @PingCAP ! https://t…
+988921819636748300,Tue Apr 24 23:25:09 +0000 2018,RT @databaseguru: At #PerconaLive hearing views regarding multiple alternative technologies for data management, including a relatively new…
+988824014553366500,Tue Apr 24 16:56:31 +0000 2018,PSA: PingCAP is hiring hardcore database engineers! Based in the Bay Area but also remote friendly. Check out our j… https://t.co/lpjhVQNDkZ
+988553552866959400,Mon Apr 23 23:01:48 +0000 2018,Team PingCAP is ready for ya (Booth 305). Are YOU ready for some #TiDB? #PerconaLive https://t.co/nrRGV85VsO
+988543401418096600,Mon Apr 23 22:21:27 +0000 2018,RT @andrewhobden: Enjoying demos from @c4pt0r of @PingCAP 's TiSpark at Percona Live! https://t.co/Y6XCznxZ1e
+988513934691844100,Mon Apr 23 20:24:22 +0000 2018,Ed Huang (@c4pt0r) is about to give a talk on #TiDB best practice at #PerconaLive. Come join us NOW in Room 201! https://t.co/Mp83tJD5Ie
+988322699339448300,Mon Apr 23 07:44:28 +0000 2018,Apr. 16 ~ Apr. 22, we landed 36 PRs for #TiDB, 8 PRs for #TiSpark and 29 PRs for #TiKV and #PD:… https://t.co/dCVxqfc3Ue
+987747472557527000,Sat Apr 21 17:38:43 +0000 2018,RT @c4pt0r: Good to know someone from community builds a Redis protocol layer for TiKV, awesome work! Thank you! 😊 Checkout TiDis:  https:/…
+987009193516318700,Thu Apr 19 16:45:04 +0000 2018,Also @c4pt0r will share some #TiDB best practices on Monday 04/23, see details👇👇. If you still need a ticket to the… https://t.co/udAs66FYms
+987009191100366800,Thu Apr 19 16:45:03 +0000 2018,Are you going be at @Percona Live next week? We will! Join team PingCAP for 2+ days of database-conferencing, booth… https://t.co/Es2u9lOnlr
+986022232198529000,Mon Apr 16 23:23:14 +0000 2018,RT @kevinsxu: Look forward to delivering another talk this Wednesday evening (04/18) at the Bay Area Big Data Application Meetup (@GSVlabs)…
+985921187732643800,Mon Apr 16 16:41:43 +0000 2018,#ICYMI Here's our very own @siddontang's blog post on how we use #chaosengineering to test and improve the resilien… https://t.co/FPmL8KsWMX
+985808772445564900,Mon Apr 16 09:15:01 +0000 2018,Apr. 09 ~ Apr. 15, we landed 32 PRs for #TiDB, 3 PRs for #TiSpark and 25 PRs for #TiKV and #PD:… https://t.co/pxsakTeUg5
+984279130286972900,Thu Apr 12 03:56:46 +0000 2018,RT @kevinsxu: Really enjoyed sharing how #TiDB helps Mobike scale &amp; demoing how you can have #HTAP right on your laptop with TiDB and TiSpa…
+983474755498950700,Mon Apr 09 22:40:28 +0000 2018,Come join @kevinsxu at the Bay Area In-Memory Computing meetup this Wed (04/11) at 6PM where he will talk about the… https://t.co/Z4gyMkquhJ
+983268950602477600,Mon Apr 09 09:02:40 +0000 2018,Apr. 02 ~ Apr. 08, we landed 28 PRs for #TiDB, 1 PR for #TiSpark and 9 PRs for #TiKV and #PD:… https://t.co/YWsZvWyUqz
+981091913255153700,Tue Apr 03 08:51:54 +0000 2018,Mobike @Mobike has been using the #TiDB database in the production environment since early 2017. This post will pro… https://t.co/Adgee84moq
+981085992974106600,Tue Apr 03 08:28:23 +0000 2018,RT @siddontang: The first release of Raft implementation in Rust. https://t.co/0quT9JOH9l
+980762522176270300,Mon Apr 02 11:03:01 +0000 2018,March 26 ~ April 01, we landed 49 PRs for #TiDB, 6 PRs for #TiSpark and 21 PRs for #TiKV and #PD:… https://t.co/IKzG8XUl2M
+979742161091596300,Fri Mar 30 15:28:28 +0000 2018,Excited to be sponsoring and supporting the @Percona community 2 years in a row. Come to Percona Live 2018 (Apr 23-… https://t.co/AaxaypBox1
+979446329238851600,Thu Mar 29 19:52:56 +0000 2018,Awesome to see our Distinguished Engineer (and #rustlang mega-user) @siddontang on @thenewstack, sharing his though… https://t.co/BO04PTr9ML
+979445166326067200,Thu Mar 29 19:48:19 +0000 2018,cc @siddontang Your Chaos Monkey is on @thenewstack! #ChaosEngineering #TiDB #NewSQL #Database https://t.co/nhTUSCWuwZ
+978685096449445900,Tue Mar 27 17:28:04 +0000 2018,RT @kevinsxu: In Boston w/ @c4pt0r for some meeting, tech-ing, and community-building. If you are in #Beantown tomorrow (aka Wednesday 03/2…
+978217299411796000,Mon Mar 26 10:29:13 +0000 2018,March 19 ~ March 25, we landed 35 PRs for #TiDB, 4 PRs for #TiSpark and 26 PRs for #TiKV and #PD:… https://t.co/rVJ4ny8DqH
+977260286162878500,Fri Mar 23 19:06:23 +0000 2018,An oldie but a goodie: our co-founder/CTO @c4pt0r's presentation from @Percona Live 2017. Want to know what's new i… https://t.co/RR9NMQ445C
+977029112291254300,Fri Mar 23 03:47:47 +0000 2018,#TiDB 2.0 RC3 is now released! 🎉 👉 This release has great improvement in #MySQL compatibility, SQL optimization and… https://t.co/jrRX32833f
+977012962148810800,Fri Mar 23 02:43:36 +0000 2018,RT @c4pt0r: #TiSpark makes #TiDB a great real-time data warehouse! HTAP rocks! MySQL for the write, SparkSQL for the read, see: https://t.c…
+976701105940901900,Thu Mar 22 06:04:24 +0000 2018,@validvector @ilovesoup2000 Please take a look. Thanks！
+975905415547400200,Tue Mar 20 01:22:37 +0000 2018,If you happen to be in #Boston on March 28 (Wednesday), come see our CTO Ed Huang (@c4pt0r) at the local #Apache… https://t.co/UwwSx01ZNI
+975672999968833500,Mon Mar 19 09:59:04 +0000 2018,March 12 ~ March 18, we landed 60 PRs for #TiDB, 14 PRs for #TiSpark and released 1.0-RC1, 29 PRs for #TiKV and #PD… https://t.co/abVMIeisoz
+974599833842405400,Fri Mar 16 10:54:42 +0000 2018,How to do Performance Tuning on #TiDB？This article may help you get a good sense of some common bottleneck  scenari… https://t.co/IGLFsxsmJq
+973719020313677800,Wed Mar 14 00:34:39 +0000 2018,RT @PingCAP: Curious about who's using #TiDB #TiKV in production? Here's a list of a few of our adopters (Ok...maybe more than just a few).…
+973624307413733400,Tue Mar 13 18:18:18 +0000 2018,Curious about who's using #TiDB #TiKV in production? Here's a list of a few of our adopters (Ok...maybe more than j… https://t.co/lGv189QF2V
+973134575982407700,Mon Mar 12 09:52:17 +0000 2018,March 05 ~ March 11, we landed 38 PRs for #TiDB, 8 PRs for #TiSpark and 32 PRs for #TiKV and #PD:… https://t.co/Tm577BDpc3
+972133191556493300,Fri Mar 09 15:33:08 +0000 2018,TiDB 2.0 RC1 is now released! 🎉🎊A significant step towards better MySQL compatibility, SQL optimization and stabili… https://t.co/b9O2bGpVjN
+971802524645703700,Thu Mar 08 17:39:11 +0000 2018,RT @kevinsxu: A nice tidbit to wake up to: #TiDB just hit 12,000 #Github stars! (From 6,000 just a year ago) #rocketship #ThursdayThoughts…
+971802131245051900,Thu Mar 08 17:37:37 +0000 2018,@rudaykumarraju @kubernetesio Thanks! Let us know how we can be helpful!
+971215677125115900,Wed Mar 07 02:47:16 +0000 2018,Really dig @CloudNativeFdn's new #cloudnative interactive landscape page, and good to see #TiDB among the many grea… https://t.co/40NtwHl92K
+970588971276427300,Mon Mar 05 09:16:58 +0000 2018,Feb. 26 ~ March 04, we landed 27 PRs for #TiDB, 4 PRs for #TiSpark and 12 PRs for #TiKV and #PD:… https://t.co/4hSBZQk0S1
+969015154506588200,Thu Mar 01 01:03:10 +0000 2018,RT @infoworld: TiDB: Performance tuning a distributed NewSQL database - #TiDB #MySQL #HTAP #PrometheusIO #Grafana https://t.co/Zif2c07qVo
+968821300444643300,Wed Feb 28 12:12:52 +0000 2018,Yes, doing performance tuning on distributed systems is no joking matter. #PingCAP veteran engineer shares some bes… https://t.co/HjNGpd4TbX
+968041814459531300,Mon Feb 26 08:35:28 +0000 2018,Feb. 12 ~ Feb. 25, we landed 27 PRs for #TiDB, and 13 PRs for #TiKV and #PD: https://t.co/7uMpxnLfN1 … @shenli3514 @siddontang
+967977997402697700,Mon Feb 26 04:21:53 +0000 2018,RT @DatabaseDaily: The Hybrid Database Capturing Perishable Insights at Yiguo: https://t.co/VW1soWWVPe
+967391763869548500,Sat Feb 24 13:32:24 +0000 2018,#TiDB 1.1 Beta is now released! Check it out! https://t.co/OM2Vgs3tKm @c4pt0r @shenli3514 @siddontang
+966816823407624200,Thu Feb 22 23:27:47 +0000 2018,Awesome to see Yiguo (one of the largest B2C fresh produce online marketplaces) use #TiDB #TiKV #TiSpark for both t… https://t.co/YSYjSjzM6b
+966025188293853200,Tue Feb 20 19:02:07 +0000 2018,Curious about how #TiDB cluster provides monitoring and alerts? We use a combo of @PrometheusIO &amp; @grafana (install… https://t.co/YlgdQdKi5n
+964744634424426500,Sat Feb 17 06:13:39 +0000 2018,RT @women2: How I Lost and Found a Job in Tech While Pregnant https://t.co/KMpIxFr5kf #womenintech https://t.co/X633szpxWI
+964279386022199300,Thu Feb 15 23:24:55 +0000 2018,Thank you #FOSDEM2018 for showing @siddontang such a great time on his first trip to Belgium! Here's a post of his… https://t.co/VYqQr3IRD1
+964203613655461900,Thu Feb 15 18:23:50 +0000 2018,Great to see our technical writer extraordinaire @Que8eny share her story on @women2. Like she said, we regard, eva… https://t.co/lX9KhyXZdn
+963796898871066600,Wed Feb 14 15:27:41 +0000 2018,RT @kevinsxu: How does #TiDB compare with MySQL? by @shenli3514. Solid, technical answer to a very good question. https://t.co/QVFnAnPEEn
+963132814672588800,Mon Feb 12 19:28:51 +0000 2018,Want to deploy a #TiDB cluster in production? Well...it's as easy as @ansible! Just follow this guide, deploy with… https://t.co/BWd7o8sa4R
+963020126231679000,Mon Feb 12 12:01:04 +0000 2018,Feb. 05 ~ Feb. 11, we landed 67 PRs for #TiDB, 6 PRs for #TiSpark, and 19 PRs for #TiKV and #PD:… https://t.co/ITaOL836mF
+961327376188637200,Wed Feb 07 19:54:41 +0000 2018,Want to try out #TiDB &amp; feel its power and seamless compatibility with #MySQL right on your laptop? All it takes is… https://t.co/f0D3O7NivM
+960961506656464900,Tue Feb 06 19:40:51 +0000 2018,#ICYMI Our Chief Architect @siddontang presenting at #FOSDEM2018 &amp; talking about how to build an #OpenSource distri… https://t.co/inATmiq2wD
+960458673301499900,Mon Feb 05 10:22:46 +0000 2018,Jan. 29 ~ Feb. 04, we landed 35 PRs for #TiDB, 6 PRs for #TiSpark, and 22 PRs for #TiKV and #PD:… https://t.co/sljlad5ghJ
+960356251019501600,Mon Feb 05 03:35:47 +0000 2018,@placeybordeaux @siddontang Yes, the video will be released soon :) Stay tuned!
+960126554058600400,Sun Feb 04 12:23:03 +0000 2018,RT @andrewhobden: Check out @siddontang talking to a packed crowd about @PingCAP s product in #Rustlang !!! https://t.co/giR9cc96vz
+960121273194983400,Sun Feb 04 12:02:04 +0000 2018,Spectacular? Yes.👇👇👇 So many people line up to see @siddontang in person! His talk is about how to build an open so… https://t.co/jsPXq7wn6k
+959960074432127000,Sun Feb 04 01:21:31 +0000 2018,RT @DZone: Tick or Tock? Keeping Time and Order in Distributed Databases via Liu Tang https://t.co/VIgMqumza4 https://t.co/DuuTlnDTSI
+959573439081320400,Fri Feb 02 23:45:10 +0000 2018,RT @kevinsxu: Oh snap! @siddontang’s piece on how TiDB, a distributed database, keeps time and order gets the Spotlight in @DZone #Database…
+959256166281855000,Fri Feb 02 02:44:26 +0000 2018,Good to see @siddontang's piece on how #TiDB keeps track of time getting published on @DZone #CrushingIt. If you ar… https://t.co/WGpWHhPiSh
+959213385366868000,Thu Feb 01 23:54:27 +0000 2018,RT @kevinsxu: Good to see @PingCAP on @PrometheusIO user list. We've been using it for a while in #TiDB, and love it! cc @juliusvolz https:…
+958948864454733800,Thu Feb 01 06:23:20 +0000 2018,Verifying Distributed Transactions with TLA+ in TiDB from @c4pt0r https://t.co/lIcYxPlL3u https://t.co/UDXYYD5pg7
+958890725781004300,Thu Feb 01 02:32:19 +0000 2018,Are you at #FOSDEM2018 this weekend? Don't miss @siddontang's talk about using #Rust to build a distributed transac… https://t.co/fyboyEvJaQ
+958729108342607900,Wed Jan 31 15:50:06 +0000 2018,RT @yanqingdw: See you next time! #TiDB #Devcon https://t.co/fJZzcyNUoV
+957914621687582700,Mon Jan 29 09:53:37 +0000 2018,Jan. 22 ~ Jan. 28, we landed 28 PRs for #TiDB, 4 PRs for #TiSpark, and 17 PRs for #TiKV and #PD:… https://t.co/Pl77F5NLmV
+957625006548234200,Sun Jan 28 14:42:48 +0000 2018,RT @kaiqiu_sum: #rocksdb #raft Just notice that a KV database highly integrated with RocksDB and Raft https://t.co/471vgEVjqW https://t.co/…
+956552701021773800,Thu Jan 25 15:41:50 +0000 2018,TiDB DevCon 2018 Recap: News, Latest Development, and Roadmap https://t.co/wgTiy7OZuf https://t.co/gvNAqgXdtN
+955365757147275300,Mon Jan 22 09:05:20 +0000 2018,Jan. 15 ~ Jan. 21, we landed 43 PRs for #TiDB, 13 PRs for #TiSpark, and 18 PRs for #TiKV and #PD:… https://t.co/A9s0R3w5q8
+954565964850442200,Sat Jan 20 04:07:15 +0000 2018,#TiDB DevCon2018: a technical party by the developers and for the developers. https://t.co/8wCNMHR4UM
+954381198486368300,Fri Jan 19 15:53:03 +0000 2018,TiDB 1.1 alpha is now released! Check it out! https://t.co/mcLjQWEget @c4pt0r @shenli3514 @siddontang
+952807333981184000,Mon Jan 15 07:39:05 +0000 2018,Jan. 08 ~ Jan. 14, we landed 43 PRs for #TiDB, and 25 PRs for #TiKV and #PD: https://t.co/3w2ss4jhiE … @shenli3514 @siddontang
+951602737233276900,Thu Jan 11 23:52:27 +0000 2018,RT @BanzaiCloud: Interested in deploying and running a distributed, scalable and fully SQL compliant DB on #kubernetes - read on how we use…
+951601905632821200,Thu Jan 11 23:49:08 +0000 2018,RT @matyix_: I’ve always been a fan of @PingCAP TiDB and happy that we are deploying it with Pipeline and also using internally. Scaling a…
+951297362957250600,Thu Jan 11 03:39:00 +0000 2018,Rust in TiKV by @siddontang #bigdata #database#rust#HTAP https://t.co/0Tz26VRqie via @SlideShare
+951001579238207500,Wed Jan 10 08:03:39 +0000 2018,RT @c4pt0r: Surprised that few people know TiKV has a Prefix Seek API, so I wrote a quick demo to show how to use it. Pretty simple. Gist:…
+950558592725172200,Tue Jan 09 02:43:23 +0000 2018,RT @andrewhobden: Playing with NixOS and @PingCAP's TiKV. Here's a shell.nix that lets you develop on TiKV. Works with `--pure`, will try a…
+950322128104054800,Mon Jan 08 11:03:46 +0000 2018,Jan. 01 ~ Jan. 07, we landed 37 PRs for TiDB, 4 PRs for TiSpark, and 10 PRs for TiKV and PD: https://t.co/v2ZDH0jk44 @shenli3514 @siddontang
+949550869208490000,Sat Jan 06 07:59:03 +0000 2018,RT @deadjoe: https://t.co/cOAzJsmmUV gets an A+ on https://t.co/Fk05vfzz4u!
+948739687459377200,Thu Jan 04 02:15:42 +0000 2018,RT @c4pt0r: So cool! TiDB data distribution visualization https://t.co/QqkYFfQQVd
+948139389808345100,Tue Jan 02 10:30:20 +0000 2018,Happy New Year! Dec. 25 ~ Dec. 31, we landed 36 PRs for TiDB, 12 PRs for TiSpark, and 18 PRs for TiKV and PD:… https://t.co/LKPwrhEqRi
+948118231545405400,Tue Jan 02 09:06:16 +0000 2018,RT @c4pt0r: Our topic has been accepted by #FOSDEM in the #Rust track, see u there~:) https://t.co/z3vMLSUKha
+947085584664641500,Sat Dec 30 12:42:54 +0000 2017,In open source, we trust! Thank you all, our beloved contributors, customers, and partners, for an amazing 2017! He… https://t.co/ur4c4nunxH
+945853817131692000,Wed Dec 27 03:08:17 +0000 2017,RT @c4pt0r: docker-compose for TiDB cluster, enjoy it. https://t.co/rlEpAhi4Dl #Automation #DockerCompose #TiDB
+945246052482826200,Mon Dec 25 10:53:15 +0000 2017,Merry Christmas! Dec. 18 ~ Dec. 24, we landed 48 PRs for TiDB, 10 PRs for TiSpark, and 13 PRs for TiKV and PD:… https://t.co/4g0xFD0Mz7
+944313368315232300,Fri Dec 22 21:07:06 +0000 2017,RT @rustlang: #rustlang in 2017: what we achieved https://t.co/qS0SIJIzDQ
+944312983534018600,Fri Dec 22 21:05:34 +0000 2017,RT @andrewhobden: It's awesome to see people using #rustlang to tackle hard problems in distributed systems. :) Keep it up! https://t.co/mg…
+944142860043001900,Fri Dec 22 09:49:33 +0000 2017,Another piece from @siddontang on Time, Clocks, and the Ordering of Events in a #distributedsystems #Databases: Kee… https://t.co/2H3GOg6EdI
+942672705093906400,Mon Dec 18 08:27:41 +0000 2017,Dec. 11 ~ Dec. 17, we landed 46 PRs for TiDB, 10 PRs for TiSpark, and 14 PRs for TiKV and PD: @siddontang… https://t.co/pmCwu6TQJg
+940503487086858200,Tue Dec 12 08:47:59 +0000 2017,Golang in TiDB (GopherChina 2017) from @shenli3514 https://t.co/FpchncfhwA @golang  #database #distributedsystem #Golang via @SlideShare
+940153163314733000,Mon Dec 11 09:35:55 +0000 2017,Dec. 04 ~ Dec. 10, we landed 45 PRs for TiDB, 12 PRs for TiSpark, and 21 PRs for TiKV and PD: @siddontang… https://t.co/xixfSVpbzM
+939090942383988700,Fri Dec 08 11:15:02 +0000 2017,Check out our Silicon Valley office in @GSVlabs! Our first of many steps towards a global impact: @c4pt0r @ngaut1… https://t.co/snzkPKeSDs
+938671466136051700,Thu Dec 07 07:28:11 +0000 2017,RT @dankohn1: Lots of updates in @CloudNativeFdn landscape 1.0 https://t.co/6F900DLqxS https://t.co/COXT6uNAuE
+937652243578236900,Mon Dec 04 11:58:10 +0000 2017,Nov. 27 ~ Dec. 03, we landed 43 PRs for TiDB, 6 PRs for TiSpark, and 17 PRs for TiKV: https://t.co/Ao4CrjvZxm @shenli3514 @siddontang
+936557476580810800,Fri Dec 01 11:27:57 +0000 2017,The speech @ngaut1 gave at Percona Live Open Source Database Conference 2016: https://t.co/tvVuLRIhtL
+936468477451186200,Fri Dec 01 05:34:18 +0000 2017,RT @c4pt0r: See u there~😛 https://t.co/flMM3V6k5G
+935704790499172400,Wed Nov 29 02:59:41 +0000 2017,Revolutionizing Infrastructure Software: A Conversation with @c4pt0r , Co-Founder and CTO of PingCAP by The Harbing… https://t.co/jrg8Ye5Wh9
+935691367300206600,Wed Nov 29 02:06:20 +0000 2017,RT @dvrkps: Thx @PingCAP. Great gifts. https://t.co/ZWhNHNP5mG
+935441608584998900,Tue Nov 28 09:33:53 +0000 2017,The following blog from @siddontang introduces how we optimize Raft to ensure its performance in TiKV:  https://t.co/Z5GYzzRq5I
+935362706294562800,Tue Nov 28 04:20:22 +0000 2017,TiDB: A NewSQL database that is compatible with MySQL from @c4pt0r https://t.co/P3WxfWb0Sf Thanks! @Percona
+935080059483824100,Mon Nov 27 09:37:13 +0000 2017,Nov. 20 ~ Nov. 26, we landed 60 PRs for TiDB, 5 PRs for TiSpark, and 10 PRs for TiKV: https://t.co/XUo2VkGzdK @shenli3514 @siddontang
+933579374468644900,Thu Nov 23 06:14:02 +0000 2017,RT @qiuyesuifeng: Thanks to everyone. 🍻 Because of you, TiDB becomes better and better &amp; stronger and stronger. https://t.co/PaEaGNk1Uh htt…
+932566366124630000,Mon Nov 20 11:08:42 +0000 2017,Nov. 13 ~ Nov. 19, we landed 48 PRs for TiDB, 3 PRs for TiSpark, and 23 PRs for TiKV: https://t.co/FBVOxOElej @shenli3514 @siddontang
+930023062329688000,Mon Nov 13 10:42:31 +0000 2017,Nov. 06 ~ Nov. 12, we landed 45 PRs for TiDB, 5 PRs for TiSpark, and 18 PRs for TiKV: https://t.co/lkFLp0m0R2 @shenli3514 @siddontang
+928859628607225900,Fri Nov 10 05:39:27 +0000 2017,TiDB for Big Data by @shenli3514 #bigdata #database #TiSpark #HTAP https://t.co/gccZetLIS7 via @SlideShare
+927819137593643000,Tue Nov 07 08:44:55 +0000 2017,[Updated] TiDB as an HTAP Database by @PingCAP #database #htap https://t.co/ORxxfN8br9
+927491237904392200,Mon Nov 06 11:01:57 +0000 2017,Oct. 30 ~ Nov. 05, we landed 51 PRs for TiDB and 16 PRs for TiKV: https://t.co/dqSqXjGH08 @shenli3514 @siddontang
+925976537303625700,Thu Nov 02 06:43:04 +0000 2017,RT @VadimTk: One of the most interesting technologies released this year: TiDB by @PingCAP based on @RocksDB https://t.co/OBWr4F6wia https:…
+925920689965621200,Thu Nov 02 03:01:09 +0000 2017,A Brief Introduction of TiDB (Percona Live 2017 ) by @c4pt0r #database #htap https://t.co/mLyLhlAgoT
+925312613189238800,Tue Oct 31 10:44:53 +0000 2017,Speech content: https://t.co/J4jGoDjLhj
+925312348293705700,Tue Oct 31 10:43:49 +0000 2017,Scale Relational Database with NewSQL by @PingCAP #database #htap https://t.co/nFnncDiqyL
+925282911565180900,Tue Oct 31 08:46:51 +0000 2017,The slides for the speech: https://t.co/CuD5Yoxav6
+924950422946644000,Mon Oct 30 10:45:40 +0000 2017,Oct. 24 ~ Oct. 30, we landed 52 PRs for TiDB, 6 PRs for TiSpark, and 21 PRs for TiKV: https://t.co/tbaTpW1jm3 @siddontang @shenli3514
+924817854838464500,Mon Oct 30 01:58:53 +0000 2017,[Rust Meetup in Beijing] Intro to Rocket, a Simple, Fast, Type-Safe Web Framework for Rust from Sergio Benitez: https://t.co/wjnrCLYZzS via
+923851179892736000,Fri Oct 27 09:57:40 +0000 2017,RT @astaxie: Go hackathon project : powerful process management tools https://t.co/nijAAEWEH6
+923030766396653600,Wed Oct 25 03:37:38 +0000 2017,RT @c4pt0r: I see TiDB! :) Thanks! https://t.co/KFsc9KBCyA
+922776113071263700,Tue Oct 24 10:45:44 +0000 2017,RT @genedna: #rust #rocket topic on @PingCAP office https://t.co/LXVdgfMcq3
+922775841389416400,Tue Oct 24 10:44:39 +0000 2017,RT @qiuyesuifeng: - Hello world - we are programmer 😎 https://t.co/EdUd65adjG
+922726146948546600,Tue Oct 24 07:27:11 +0000 2017,Amazing open source! After 3 months and 180 conversations, the pull request about Plan Cache from https://t.co/RMRmptEpFr is finally merged!
+922648960077938700,Tue Oct 24 02:20:28 +0000 2017,RT @NexWebSites: Which is being used by the @PingCAP team to build Chaos, a jepsen-alike  (also #golang)  https://t.co/MjRRPi9rNj
+922405707898544100,Mon Oct 23 10:13:52 +0000 2017,Oct. 09 ~ Oct. 23, we landed 83 PRs for TiDB, 2 PRs for TiSpark, and 46 PRs for TiKV: https://t.co/g22Li4GYVL @shenli3514 @siddontang
+922288568587886600,Mon Oct 23 02:28:24 +0000 2017,RT @astaxie: The first Go Hackathon in China https://t.co/ssUqzXBSuo
+921735064907432000,Sat Oct 21 13:48:59 +0000 2017,RT @Sunng: .@rustlang meetup with Rocket.rs' Sergio at @PingCAP office https://t.co/nojDPVn6sa
+921212495439597600,Fri Oct 20 03:12:28 +0000 2017,RT @PeterZaitsev: TiDB  - MySQL protocol compatible distributed database by PingCap reaches 1.0 milestone https://t.co/b7g9B6hGbk
+920887917181935600,Thu Oct 19 05:42:43 +0000 2017,RT @hn_frontpage: TiDB – a global scale distributed DB – Reaches 1.0 L: https://t.co/SOE4wSkq4x C: https://t.co/Dyf0MXd6kQ
+920846692433379300,Thu Oct 19 02:58:54 +0000 2017,@aphyr Thanks for pointing this out!  We will fix it soon! Thanks for your feedback. TiDB's progress wouldn't be po… https://t.co/dxDLeqRWza
+920535568454262800,Wed Oct 18 06:22:36 +0000 2017,PingCAP Launches TiDB 1.0: 👏👏 https://t.co/OrJyH16ErM @c4pt0r @ngaut1 @shenli3514 @siddontang https://t.co/ifH9LKS1cj
+920481489636048900,Wed Oct 18 02:47:43 +0000 2017,RT @ShowHNDaily: TiDB 1.0 is production ready. https://t.co/pz5sqzLsxo
+919747608574169100,Mon Oct 16 02:11:32 +0000 2017,RT @andradeandrey: These guys have been doing a great job building a distributed SQL database! https://t.co/uS23gHOWZT #golang #mysql #NoSQL
+919747368911695900,Mon Oct 16 02:10:35 +0000 2017,RT @alancamillo: How to test #TiDB in cluster mode using @Docker: https://t.co/0hkPiensaM #NewSQL #NoSQL #BigData
+919423652688310300,Sun Oct 15 04:44:15 +0000 2017,RT @dankohn1: Glad to speak next to @montywi at #TheComputingConference2017 (and happy to hear #Wikipedia is actually running on @mariadb)
+919402258395119600,Sun Oct 15 03:19:14 +0000 2017,RT @DatabaseDaily: To SQL or Not to SQL? https://t.co/8CUoH2BG7Y (A comparison of SQL and NoSQL, and a overview of common databases of each…
+919106090381410300,Sat Oct 14 07:42:22 +0000 2017,RT @c4pt0r: Inspired by FreeBSD's failpoints, we open sourced a handy error-injection library in rust: pingcap/fail-rs  https://t.co/t4S4jZ…
+919027792464842800,Sat Oct 14 02:31:15 +0000 2017,@genedna Sure! Thanks for the reminder!
+918671986921898000,Fri Oct 13 02:57:24 +0000 2017,RT @rustlang: Announcing Rust 1.21 https://t.co/v4ghRuKt3L
+918119128547737600,Wed Oct 11 14:20:32 +0000 2017,RT @PeterZaitsev: Prometheus 1.8 is out https://t.co/xNg1IIGjrK
+917670015968542700,Tue Oct 10 08:35:55 +0000 2017,But SQL never dies... https://t.co/3jVF0iehPJ
+917661233158922200,Tue Oct 10 08:01:01 +0000 2017,RT @jezell: TiDB is doing some impressive work: https://t.co/l5oul93KoT
+917579833135132700,Tue Oct 10 02:37:34 +0000 2017,Scale the Relational Database with NewSQL, @shenli3514's speech at #NextCon: https://t.co/J4jGoDjLhj https://t.co/fQryoCLfWQ
+917346395983511600,Mon Oct 09 11:09:58 +0000 2017,Sep. 25 ~ Oct. 8, we landed 62 PRs for TiDB, 3 PRs for TiSpark, and 39 PRs for TiKV: https://t.co/m4M75aiKPt @shenli3514 @siddontang
+917220744395767800,Mon Oct 09 02:50:41 +0000 2017,Chaos: a simple linearizability testing framework written by @siddontang https://t.co/vIPeUW9nBk
+915343230077624300,Tue Oct 03 22:30:06 +0000 2017,https://t.co/sTtUPv0twG
+913908893146689500,Fri Sep 29 23:30:34 +0000 2017,RT @PeterZaitsev: MySQL 8.0.0 first milestone release was released slightly over year ago.   What a great progress in a year! https://t.co/…
+913780407182671900,Fri Sep 29 15:00:00 +0000 2017,RT @RocksDB: RocksDB 5.8 is released. https://t.co/pNW97I05q3
+912966213055144000,Wed Sep 27 09:04:41 +0000 2017,RT @newsycombinator: Why did we choose Rust over Golang or C/C++ to develop TiKV? https://t.co/eQnd6IcorR
+912966213055144000,Wed Sep 27 09:04:41 +0000 2017,RT @newsycombinator: Why did we choose Rust over Golang or C/C++ to develop TiKV? https://t.co/eQnd6IcorR
+912684656675270700,Tue Sep 26 14:25:53 +0000 2017,Every developer has his/her favorite programming language. For the TiKV team members, it's @rustlang https://t.co/9dmCnesYwn
+912257480184406000,Mon Sep 25 10:08:26 +0000 2017,#Gohack2017 See you in Shanghai, China. https://t.co/DefhdOIdHP
+912256737696129000,Mon Sep 25 10:05:29 +0000 2017,RT @astaxie: Go Hack 2017 coming @davecheney https://t.co/06Yh581A7f
+912256339690139600,Mon Sep 25 10:03:54 +0000 2017,Sep. 18 ~ Sep. 24, we landed 63 PRs for TiDB, 2 PRs for TiSpark, and 30 PRs for TiKV: https://t.co/ps8izwRKPg @shenli3514 @siddontang
+912255829809623000,Mon Sep 25 10:01:53 +0000 2017,RT @c4pt0r: Thank you, Asta! https://t.co/fYtPqtdIRL
+912136974298865700,Mon Sep 25 02:09:36 +0000 2017,RT @c4pt0r: Write a blog post about why we choose Rust instead of Golang in TiKV. // Trying to translate into English and will release soon…
+909732048952102900,Mon Sep 18 10:53:17 +0000 2017,Sep. 11~ Sep. 17, we landed 46 PRs for TiDB and 34 PRs for TiKV. You can also check the TiSpark update: https://t.co/PEatRSmm1q
+909601944641036300,Mon Sep 18 02:16:17 +0000 2017,Kudos to @c4pt0r for helping the users deploy a TiDB cluster in a single machine using one command! https://t.co/FGQgwb1g2j
+908554378482561000,Fri Sep 15 04:53:38 +0000 2017,Another speech from Siddion @siddontang at the @RocksDB meetup on Aug. 28: RocksDB in TiKV: https://t.co/JztcnMl9LM @markcallaghan @SiyingD
+907485498964303900,Tue Sep 12 06:06:17 +0000 2017,Siddon @siddontang gave a speech about Futures and gRPC in Rust, speech: https://t.co/aZq2VztwEh; video: https://t.co/mOFmaddrVj @rustlang
+907183134281625600,Mon Sep 11 10:04:48 +0000 2017,Sep. 04 ~ Sep. 10, we landed 49 PRs for TiDB and 32 PRs for TiKV:  https://t.co/lY7iPrG0ez @shenli3514 @siddontang
+906135268721279000,Fri Sep 08 12:40:57 +0000 2017,How did we Hunt a Data Corruption bug in RocksDB? https://t.co/aP7PLQwTyI @RocksDB @c4pt0r https://t.co/f5YdKQSLRn
+905614071130603500,Thu Sep 07 02:09:54 +0000 2017,@zwh8800 The transaction model is inspired by Google Percolator and Themis. For more information, see: https://t.co/ELEiCLIRTb
+904893671106949100,Tue Sep 05 02:27:17 +0000 2017,RT @c4pt0r: San Fransisco / Beijing / Shanghai, @PingCAP https://t.co/Nvg9JAZ1Vw
+904893473572102100,Tue Sep 05 02:26:30 +0000 2017,RT @c4pt0r: WE ARE HIRING! Developer Advocates/Database Engineer, helping build pingcap/tidb, next generation SQL database, huang@pingcap.c…
+904617024965328900,Mon Sep 04 08:08:00 +0000 2017,Aug. 28 ~ Sep. 03, we landed 42 PRs for TiDB and 32 PRs for TiKV:  https://t.co/sJS8s6mpZI @shenli3514 @siddontang
+903448988015239200,Fri Sep 01 02:46:38 +0000 2017,RT @rustlang: Announcing Rust 1.20! 🎊  Big feature: associated constants! https://t.co/PlC0W8rx31
+903444389732655100,Fri Sep 01 02:28:22 +0000 2017,What happens when TiDB meets Jepsen? https://t.co/Uw4H3HV3Iw @aphyr @c4pt0r
+902852940901126100,Wed Aug 30 11:18:09 +0000 2017,#TiDB Pre-GA is released! What do we have in this release? Check it out: https://t.co/SLGajioZNJ @ngaut1 @shenli3514 @c4pt0r @siddontang
+902141730970992600,Mon Aug 28 12:12:04 +0000 2017,Aug. 21~ Aug. 27, we landed 55 PRs for TiDB and 21 PRs for TiKV: https://t.co/q1Ooz8N7jd @shenli3514 @siddontang
+901023232056115200,Fri Aug 25 10:07:33 +0000 2017,#TiDB Quick Start: https://t.co/odaoNgliHd
+900169163989172200,Wed Aug 23 01:33:47 +0000 2017,RT @RocksDB: Exciting RocksDB meetup coming up next week in SF: https://t.co/DLzu90s8UZ. L0-&gt;L0 compaction, RocksDB cloud, Similarity Searc…
+899596425775820800,Mon Aug 21 11:37:56 +0000 2017,Aug. 14 ~ Aug. 20, we landed 57 PRs for TiDB and 33 PRs for TiKV! https://t.co/BWIgbuPTlA @shenli3514 @siddontang
+897331854650388500,Tue Aug 15 05:39:20 +0000 2017,@ongardie How does TiKV ensure data consistency for 100 TB+ data? Multi-raft! See the design and implementation:… https://t.co/hwHiV7k9Oa
+897038787200417800,Mon Aug 14 10:14:47 +0000 2017,Aug. 07 ~ Aug. 13, we landed 78 PRs for TiDB and 28 PRs for TiKV! https://t.co/mVgT3g3DrO @shenli3514 @siddontang
+894830913271418900,Tue Aug 08 08:01:29 +0000 2017,July 31 ~ Aug. 06, we landed 54 PRs for TiDB and 21 PRs for TiKV: https://t.co/sEvLf9SrgQ @shenli3514 @siddontang
+894796365116489700,Tue Aug 08 05:44:12 +0000 2017,TiDB use case: How TiDB tackles fast data growth and complex queries for https://t.co/xm1amj9l5L? https://t.co/SSEiDs2aME @c4pt0r @ngaut1
+893451163562983400,Fri Aug 04 12:38:51 +0000 2017,#TiDB RC4 is now released! Check out the update about TiDB, TiKV, PD, and TiSpark: https://t.co/Yvf13yWV2T @c4pt0r @shenli3514 @siddontang
+893419633595760600,Fri Aug 04 10:33:34 +0000 2017,@thesquashSH FYI~ https://t.co/jpxCcJZQQn
+893300554880995300,Fri Aug 04 02:40:23 +0000 2017,Special thanks to @DataismGuo for helping us translate the #TiSpark Beta user guide to English! https://t.co/a6VaSi3lpD
+893300098914033700,Fri Aug 04 02:38:34 +0000 2017,TiSpark sits #Spark SQL directly on top of a database storage engine to answer the complex OLAP queries: https://t.co/hE82TgGXhh
+892573363150889000,Wed Aug 02 02:30:47 +0000 2017,@tempoformula @rustlang @grpcio @siddontang There is a blog on its way to explain the reasons why we chose gRPC. Stay tuned!
+892266848057647100,Tue Aug 01 06:12:48 +0000 2017,The #Rust #gRPC library built on gRPC C core and futures: https://t.co/VM04QuLBvD @rustlang @grpcio @siddontang
+891972994704130000,Mon Jul 31 10:45:08 +0000 2017,July 24 ~ July 30, we landed 50 PRs for TiDB and 27 PRs for TiKV:  https://t.co/lpNKNxJGbk @shenli3514 @siddontang
+890806132641419300,Fri Jul 28 05:28:27 +0000 2017,#TiKV uses the #Raft algorithm to implement the strong consistency of data in a distributed environment:… https://t.co/y3PalfGUDL
+889432957265498100,Mon Jul 24 10:31:56 +0000 2017,July 17 ~ July 23, we landed 60 PRs for TiDB and 19 PRs for TiKV: https://t.co/KVoTohARY4
+889396071880736800,Mon Jul 24 08:05:22 +0000 2017,When and how to use TiDB? See the following post for the best practices: https://t.co/2IN1cCArBj @shenli3514 @c4pt0r https://t.co/vorTwpuClO
+887944611183771600,Thu Jul 20 07:57:47 +0000 2017,The brain behind #TiDB and #TiKV: Placement Driver.  Find about more on how everything is scheduled inside TiKV:… https://t.co/xWAPktuZ9Q
+886908350457290800,Mon Jul 17 11:20:03 +0000 2017,July 10 ~ July 16, we landed 51 PRs for TiDB and 23 PRs for TiKV: https://t.co/VpgOBJWJL4 @siddontang @shenli3514
+885688385993494500,Fri Jul 14 02:32:21 +0000 2017,How does the #TiDB SQL layer do the distributed computation? How does the data flow for a query? It’s all here:… https://t.co/rOICRsWbcC
+884626139024588800,Tue Jul 11 04:11:21 +0000 2017,How is data stored in TiDB? The following blog unveils the secret of TiDB data storage: https://t.co/oiOoCe4Urn… https://t.co/0xKgRETGVG
+884230269628072000,Mon Jul 10 01:58:19 +0000 2017,@rauburtin Thanks! And we have a detailed transcript of the presentation: https://t.co/VZ7Kue1xnI
+882082402897543200,Tue Jul 04 03:43:27 +0000 2017,June 26 ~ July 03, we landed 33 PRs for TiDB and 12 PRs for TiKV: https://t.co/waiQ8bFRkB @shenli3514 @siddontang
+881289923071848400,Sat Jul 01 23:14:25 +0000 2017,RT @just4v2ex: [分享创造] 参加 TiDB Tech Day，来体验一场真正的技术碰撞:  7 月 8 日，我们将在上海启动 TiDB Tech Day 2017 第一站，在这里我们将由浅入深抽丝剥茧地分享 TiDB 的技术内核，包括最新的 … https://…
+879605970745282600,Tue Jun 27 07:43:00 +0000 2017,To accelerate the expression evaluation, we recently refactored its framework. Find out more:… https://t.co/gVCxGX5BKx
+879295104472633300,Mon Jun 26 11:07:44 +0000 2017,June 19 ~ June 25, we landed 35 PRs for TiDB and 24 PRs for TiKV:  https://t.co/TIDGWksy4m
+877127979695919100,Tue Jun 20 11:36:21 +0000 2017,TiDB RC3 is now released! Check out the updates: https://t.co/p09szzsJuj https://t.co/fIe5dKIHiC https://t.co/pvJ0RIkp5K
+874571322986246100,Tue Jun 13 10:17:06 +0000 2017,I just published “Chinese Software Startup PingCAP Raises $15M in Series B and Strides Towards the Global Market” https://t.co/vCWSGKscy3
+874530834383949800,Tue Jun 13 07:36:13 +0000 2017,RT @chinamoneypod: China Growth Capital Leads $15M Round In Open-Source Database Firm PingCAP - https://t.co/bldngtXwHO #China #investment…
+874448319514157000,Tue Jun 13 02:08:20 +0000 2017,Love you all! @ngaut1 @c4pt0r @shenli3514 @siddontang https://t.co/jCLqTlUc66
+871680681914634200,Mon Jun 05 10:50:44 +0000 2017,May 21 ~ June 04, we landed 53 PRs for TiDB and 33 PRs for TiKV:  https://t.co/hs0xDuzuz0 @shenli3514 @siddontang
+871169609931472900,Sun Jun 04 00:59:55 +0000 2017,RT @astaxie: I added a video to a @YouTube playlist https://t.co/W4gybVSDWx 2 6 PingCAP Go in TiDB
+871157132258824200,Sun Jun 04 00:10:20 +0000 2017,@SwitchJam @rsslldnphy Here is a user case for your reference: https://t.co/bnIVCEBnll
+871156658889568300,Sun Jun 04 00:08:27 +0000 2017,@SwitchJam @rsslldnphy How about a NewSQL solution like TiDB? It is a relational distributed SQL DB and it is for b… https://t.co/Xe5Wrda11Q
+868496279252246500,Sat May 27 15:57:03 +0000 2017,RT @termoshtt: 北京のRustの会、横断幕まで作っててすごい
+868360977447755800,Sat May 27 06:59:25 +0000 2017,In the 1st Rust meetup in Beijing, @siddontang talked about how we use #Rustlang in TiKV:  https://t.co/dbgah1NWh3… https://t.co/sOJ7QvtXZL
+867929184198316000,Fri May 26 02:23:37 +0000 2017,@zhuer0632 @c4pt0r @ngaut1 @shenli3514 @siddontang @thenewstack The plan is by the end of July.
+867257262762373100,Wed May 24 05:53:38 +0000 2017,@thesquashSH @shenli3514 @djangoproject That would be great! Sorry we don't have an IRC channel. Feel free to visit… https://t.co/52eV1xbnej
+866982149248897000,Tue May 23 11:40:26 +0000 2017,Wondering what @c4pt0r said at #PerconaLive? Check it out! https://t.co/pIu8sWVBvA @ngaut1 @shenli3514 @siddontang @thenewstack
+866630577771880400,Mon May 22 12:23:25 +0000 2017,May 15 ~ May 21, we landed 31 PRs for TiDB and 16 PRs for TiKV: https://t.co/i56DeefI0W  @shenli3514 @siddontang @c4pt0r @ngaut1
+866554011142443000,Mon May 22 07:19:10 +0000 2017,TiDB in production! Let's how #NewSQL works in real world: https://t.co/bnIVCEBnll @ngaut1 @c4pt0r @shenli3514 @siddontang
+864663882110976000,Wed May 17 02:08:28 +0000 2017,@thesquashSH @djangoproject Thanks Nick! It's good to know. More docs are on their way. Stay tuned!
+864663467059322900,Wed May 17 02:06:49 +0000 2017,@thesquashSH @djangoproject Sure, why not? Thanks Nick!
+864106452377518100,Mon May 15 13:13:27 +0000 2017,May 8 ~ May 14, we landed 28 PRs for TiDB and 17 PRs for TiKV:  https://t.co/bJ8YUR8d42 @ngaut1 @c4pt0r @shenli3514 @siddontang
+862125387244912600,Wed May 10 02:01:24 +0000 2017,May 1 ~ May 7, we landed 33 PRs for TiDB and 13 PRs for TiKV:  https://t.co/fYDZ9m2cdO @ngaut1 @c4pt0r @shenli3514 @siddontang
+859789492823089200,Wed May 03 15:19:23 +0000 2017,April 24 ~ April 30, we landed 49 PRs for TiDB and 16 PRs for TiKV: https://t.co/BQs31ip4yE … …  @ngaut1 @c4pt0r @siddontang @shenli3514
+858619168181985300,Sun Apr 30 09:48:56 +0000 2017,TiDB on #PerconaLive . We bring distributed scalability to SQL! https://t.co/yn7GnFrT3f
+857492586562330600,Thu Apr 27 07:12:18 +0000 2017,Interview from The New Stack: TiDB Brings Distributed Scalability to SQL https://t.co/r0EMQNf7Z8 @ngaut1 @c4pt0r  @thenewstack @shenli3514
+854932139720060900,Thu Apr 20 05:38:00 +0000 2017,April 10 ~ April 16, we landed 26 PRs for TiDB and 18 PRs for TiKV: https://t.co/5jTxRLi36P …  @ngaut1 @c4pt0r @siddontang @shenli3514
+851478068031963100,Mon Apr 10 16:52:45 +0000 2017,March 27 ~ April 9, we landed 74 PRs for TiDB and 40 PRs for TiKV: https://t.co/g8w66wQNmJ  @ngaut1 @c4pt0r @siddontang @shenli3514
+846731597617360900,Tue Mar 28 14:31:59 +0000 2017,March 20 ~ March 26, we landed 40 PRs for TiDB and 18 PRs for TiKV: https://t.co/LxlOtyKklw  @ngaut1 @c4pt0r @siddontang @shenli3514
+844383781968535600,Wed Mar 22 03:02:36 +0000 2017,March 13 ~ March 19, we landed 33 PRs for TiDB and 10 PRs for TiKV: https://t.co/0b9fn931us … …… @ngaut1 @c4pt0r @siddontang @shenli3514
+841303369734012900,Mon Mar 13 15:02:08 +0000 2017,From March 06 ~ March 12, we landed 30 PRs for TiDB and 13 PRs for TiKV: https://t.co/FFD8RGIIsY… @ngaut1 @c4pt0r @siddontang @shenli3514
+837099326367137800,Thu Mar 02 00:36:46 +0000 2017,#TIDB RC2 is released! Check it out: https://t.co/Ta8auwy5Aq
+836223024441393200,Mon Feb 27 14:34:39 +0000 2017,From Feb. 19 ~ Feb. 26, we landed 39 PRs for TiDB and 25 PRs for TiKV: https://t.co/FVFzrsuneH @ngaut1 @c4pt0r @siddontang @shenli3514
+831333337440542700,Tue Feb 14 02:44:47 +0000 2017,From Feb. 6 ~ Feb. 12, we landed 25 PRs for TiDB and 14 PRs for TiKV: https://t.co/F1YwPt8hdx @ngaut1 @siddontang @shenli3514 @c4pt0r
+823782336932159500,Tue Jan 24 06:39:48 +0000 2017,From Jan. 9 ~ Jan. 22, we landed 87 PRs for TiDB and 50 PRs for TiKV: https://t.co/lErinlW9SM @ngaut1 @siddontang @c4pt0r @shenli3514
+818504476755566600,Mon Jan 09 17:07:28 +0000 2017,From Jan. 2 ~ Jan. 8, we landed 38 PRs for TiDB and 15 PRs for TiKV: http://https://t.co/b8WLMpxAtC @ngaut1 @c4pt0r @siddontang @shenli3514
+818336846866354200,Mon Jan 09 06:01:22 +0000 2017,@china_jameswu Sorry about this. But it seems to work fine for me. Could you please post your questions here: https://t.co/DDVr5geYmn?
+816920450454298600,Thu Jan 05 08:13:07 +0000 2017,Great! https://t.co/sbFpBU2Kcr
+816452526740377600,Wed Jan 04 01:13:45 +0000 2017,From Dec. 26 ~ Jan. 1, we landed 28 PRs for TiDB and 19 PRs for TiKV: https://t.co/qXjCu3itMd @ngaut1 @c4pt0r @siddontang @shenli3514
+816131058487824400,Tue Jan 03 03:56:21 +0000 2017,Thank you, @realityenigma! It means a lot to us!
+816107468665172000,Tue Jan 03 02:22:37 +0000 2017,@NicolasSeyvet Bingo!
+815401381687242800,Sun Jan 01 03:36:53 +0000 2017,Goodbye 2016! Hello 2017! @c4pt0r @ngaut1 @qiuyesuifeng @shenli3514 @siddontang https://t.co/RleQ2hK1u1
+813326672460070900,Mon Dec 26 10:12:44 +0000 2016,From Dec. 19 ~ Dec. 25, we landed 34 PRs for TiDB and 14 PRs for TiKV: https://t.co/1cNvOElDIa @ngaut1 @shenli3514 @siddontang
+813217391131828200,Mon Dec 26 02:58:29 +0000 2016,Wanna see the exciting updates in TiDB RC1 and play around? Check it out: https://t.co/9gWauVr8Wy
+812603468858814500,Sat Dec 24 10:18:59 +0000 2016,Merry Christmas and Happy New Year to all the dearest friends!
+812489872048943100,Sat Dec 24 02:47:35 +0000 2016,https://t.co/Ta8auwy5Aq
+812489591542272000,Sat Dec 24 02:46:28 +0000 2016,See what #santaclaus has brought us! TiDB RC1! @c4pt0r @ngaut1 @shenli3514 @siddontang https://t.co/ElrpIeV3CM
+811419591293288400,Wed Dec 21 03:54:40 +0000 2016,Wondering how to add Built-in functions to #TiDB? Check it out:  https://t.co/fkmbYdkmfl @shenli3514 @c4pt0r @ngaut1 @siddontang
+811058210090065900,Tue Dec 20 03:58:40 +0000 2016,"[Hiring!]Technical Evangelist (Remote in California)" https://t.co/IM318HFLnp on @LinkedIn
+810775315786113000,Mon Dec 19 09:14:33 +0000 2016,Welcome and thank you, our new contributor! https://t.co/o2hBpyft9g
+810775194130411500,Mon Dec 19 09:14:04 +0000 2016,From Dec.12  ~ Dec.18, we landed 32 PRs for TiDB and 11 PRs for TiKV: https://t.co/2Q3PF1dwk9
+808614383173570600,Tue Dec 13 10:07:46 +0000 2016,Thanks for testing TiDB, @xmaszh！ Please post your findings here: https://t.co/DDVr5geYmn
+808243845229969400,Mon Dec 12 09:35:23 +0000 2016,From Dec.05  ~ Dec.11, we landed 41 PRs for TiDB and 34 PRs for TiKV: https://t.co/JwW2P57OYC
+807534696099786800,Sat Dec 10 10:37:29 +0000 2016,Thanks so much for the 100-node cluster, @CloudNativeFdn! It means a lot to the team and we will the best of use of it!
+806416509840932900,Wed Dec 07 08:34:13 +0000 2016,How are the subqueries optimized in TiDB? @hanfei19910905 has it here: https://t.co/zqvoBTTFHo https://t.co/eOrl2KKgDP
+806048024136851500,Tue Dec 06 08:09:59 +0000 2016,From Nov.28  ~ Dec.04, we landed 48 PRs for TiDB, 22 PRs for TiKV, and updated 3 documents: https://t.co/l6u0Pu1pMd @siddontang @shenli3514
+804624136156823600,Fri Dec 02 09:51:57 +0000 2016,10:00 AM, Dec 3. The 32nd NewSQL Meetup, let's hear about Baidu File System and the future of database: https://t.co/mr9bxmuyMK
+803897046948159500,Wed Nov 30 09:42:46 +0000 2016,Wanna contribute to TiDB? Check out the following open issues on GitHub:  https://t.co/hiaFa5t9Bx
+803420007719804900,Tue Nov 29 02:07:11 +0000 2016,How are the #concurrency controlling problems resolved in #TiKV? MVCC! See this post for more details: https://t.co/ybTjMK7Pyr
+803165059706855400,Mon Nov 28 09:14:06 +0000 2016,From Nov.21  ~ Nov.27, we landed 44 PRs for TiDB, 20 PRs for TiKV, and 2 new documents: https://t.co/OBOYirtHqJ @siddontang @shenli3514
+802081988513407000,Fri Nov 25 09:30:22 +0000 2016,Join the TiDB mailing list to ask questions and share knowledge: https://t.co/DDVr5geYmn
+802067731658915800,Fri Nov 25 08:33:43 +0000 2016,Travelling Back in Time and Reclaiming the Lost Treasures!  https://t.co/ruqzlJtYuo
+802056634449043500,Fri Nov 25 07:49:37 +0000 2016,10:00 AM, Nov. 26, the 31st #NewSQL meetup! Let's talk about Placement Driver and Infrastructure Changes: https://t.co/aupWvd5LVr
+802022397876408300,Fri Nov 25 05:33:35 +0000 2016,Thanks @nosqlweekly for listing our post: A Deep Dive into TiKV! https://t.co/dtRAV1Lr3K
+800881094035796000,Tue Nov 22 01:58:27 +0000 2016,@mnccfr Thank you for your interest in my tweet!
+800632093940142100,Mon Nov 21 09:29:00 +0000 2016,From Nov.14  ~ Nov.20, we landed 30 PRs for TiDB, 19 PRs for TiKV, and 2 new documents: https://t.co/i1Uuh3x0pX @siddontang @shenli3514
+799534175376252900,Fri Nov 18 08:46:16 +0000 2016,10:00 am, Nov. 19,  #NewSQL meetup: 1. Deep learning and the crowdsourcing data in weather forcasting 2. TiDB-Binlog https://t.co/7NzDEgd4Q5
+798453244125028400,Tue Nov 15 09:11:02 +0000 2016,A Deep Dive into TiKV, an open source distributed Key-Value database: https://t.co/FMyABPV07t @siddontang @shenli3514 @ngaut1 @c4pt0r
+798079201492410400,Mon Nov 14 08:24:43 +0000 2016,From Nov. 07 ~ Nov.13, we landed 25 PRs for TiDB and 23 PRs for TiKV, as well as 4 new documents: https://t.co/Sve1bhUGYS
+797001493828112400,Fri Nov 11 09:02:18 +0000 2016,10:00 AM, Nov. 12: Weekly #NewSQL meetup: Let's talk about Architecture Optimisation and Transaction in #Database https://t.co/il8zwS0kBM
+796300454527258600,Wed Nov 09 10:36:37 +0000 2016,Wanna see how a TiDB cluster is behaving? Monitor it! Here is how: https://t.co/9l2ijcP8Fc https://t.co/7ewTcsn5ov
+795854962945232900,Tue Nov 08 05:06:24 +0000 2016,Can I migrate data from #mysql  to #TiDB? Of course and it's easy! See the following guide: https://t.co/rLaKTmClyP
+795575885843697700,Mon Nov 07 10:37:26 +0000 2016,Oct. 30~Nov. 06, we landed 42 PRs in the TiDB repositories and 29 PRs in the TiKV repositories. @shenli @siddontang https://t.co/2hELJ4uvn2
+794509186155495400,Fri Nov 04 11:58:45 +0000 2016,TiDB Beta4 release celebration! #PizzaTime https://t.co/3Eqk0H1Yjk
+794387204017504300,Fri Nov 04 03:54:03 +0000 2016,At 10:00 AM Nov. 5: Come and join us at the 28th #NewSQL Meetup! #Spark #SQL #Optimizer https://t.co/tGuhsO3EaC
+794361611787960300,Fri Nov 04 02:12:21 +0000 2016,TiDB Beta4 is released! The last Beta version! RC is coming! Stay tuned! https://t.co/N0SVSaPazQ
+793647752005623800,Wed Nov 02 02:55:43 +0000 2016,Thanks @matyix_! It means a lot to us!
+793006370496745500,Mon Oct 31 08:27:06 +0000 2016,From Oct. 24 to Oct. 30, we landed 28 PRs for TiDB @shenli3514 and 26 PRs for TiKV @siddontang. See the details: https://t.co/aaHLldlLij
+791846203675684900,Fri Oct 28 03:37:01 +0000 2016,10:00 am, Oct. 29: NewSQL meetup this week:  https://t.co/qakntxKBDq
+790851666278953000,Tue Oct 25 09:45:05 +0000 2016,From Oct. 17 to Oct. 23, we landed 30 PRs for TiDB and 26 PRs for TiKV. See the details here: https://t.co/IrwkleJzep
+790489715749195800,Mon Oct 24 09:46:49 +0000 2016,TiDB has a new logo. Check it out! Can you see the difference? https://t.co/Y3nxwyI2gN https://t.co/doaRQxl93J
+790473054048530400,Mon Oct 24 08:40:37 +0000 2016,@ThreeBearsDan You are most welcome. Please check your email :)
+790387306221801500,Mon Oct 24 02:59:53 +0000 2016,@ThreeBearsDan  Sure. May I have your email address?
+790375694819692500,Mon Oct 24 02:13:44 +0000 2016,@ngaut1 What do you think?
+789308633754374100,Fri Oct 21 03:33:37 +0000 2016,NewSQL meetup this week:  Distributed Database Practices in https://t.co/absJvm3VbY and Distributed System Testing  https://t.co/MlkzwOY8Xd
+789294870875611100,Fri Oct 21 02:38:56 +0000 2016,Wanna know more of TiDB? Here are some frequently asked questions (FAQ): https://t.co/uCgeUG5163 #FAQ
+788576807234646000,Wed Oct 19 03:05:36 +0000 2016,A better-formatted version for the speech text of Max Liu's talk at @Percona Live Open Source Database Conference: https://t.co/HM8yv3gGNP
+788205087894011900,Tue Oct 18 02:28:31 +0000 2016,Thanks for letting us know! @algir12 The images are now added :)
+788204562544930800,Tue Oct 18 02:26:26 +0000 2016,@ThreeBearsDan Thanks!
+788190866674360300,Tue Oct 18 01:32:01 +0000 2016,Haven't seen our updates in two weeks? Here is what happened: https://t.co/dhIUPdNgep
+786856133797437400,Fri Oct 14 09:08:16 +0000 2016,@PingCAP @algir12 Although we don't have video for the session @ngaut1 gave at #PerconaLive, we have the speech text that you can refer to.
+786852696716374000,Fri Oct 14 08:54:36 +0000 2016,I just published “How we build TiDB” https://t.co/AkUoUw8XAr
+786757515757224000,Fri Oct 14 02:36:23 +0000 2016,Thanks, Dan! It means a lot to us! @ThreeBearsDan
+786473676891824100,Thu Oct 13 07:48:31 +0000 2016,10:00 am on Oct. 15, 2016, the 25th NewSQL meetup at @PingCAP :  https://t.co/Bua3wLp60T
+784758155058159600,Sat Oct 08 14:11:38 +0000 2016,@Percona @algir12 Sorry to hear that :)  Welcome to follow us on @github https://t.co/Y3nxwyI2gN
+784680704424632300,Sat Oct 08 09:03:53 +0000 2016,@algir12 Thanks! @Percona Was this session recorded on video?
+784678582819823600,Sat Oct 08 08:55:27 +0000 2016,@ltzMaxwell Nope. Maybe @c4pt0r can share more information with you.
+784638883384418300,Sat Oct 08 06:17:42 +0000 2016,@algir12 You are welcome!
+784586138593943600,Sat Oct 08 02:48:07 +0000 2016,@algir12 See this PR for further update: https://t.co/Hj1nUHH5Rt
+784585691875381200,Sat Oct 08 02:46:20 +0000 2016,Thanks, @Percona, for such a great event #perconalive! Wanna recap on how TiDB is built? See the deck here:… https://t.co/9YD8P8Tuxi
+784577894106460200,Sat Oct 08 02:15:21 +0000 2016,Thanks, @algir12! It's a good idea! We will work on it!
+783213694360531000,Tue Oct 04 07:54:30 +0000 2016,See @ngaut1 tomorrow at #perconalive!  https://t.co/JvRmnKqHeA https://t.co/lQ6rNhKWke
+781792406005948400,Fri Sep 30 09:46:49 +0000 2016,Last week, we landed 17 PRs in the TiDB repositories： https://t.co/BTmN90ZVkf
+781791759810441200,Fri Sep 30 09:44:15 +0000 2016,Last week, we landed 13 PRs in the TiKV repositories: https://t.co/Fl6VWHKur9
+781026044832866300,Wed Sep 28 07:01:34 +0000 2016,It's coming! @ngaut1 will see you next week at #PerconaLive: https://t.co/JvRmnK96n2 https://t.co/aFe2J1nXTj
+780656954720911400,Tue Sep 27 06:34:56 +0000 2016,From Sep. 19 to Sep. 25, we landed 20 PRs in the TiDB repositories. Check out the update here: https://t.co/mQn9BBQ3y1
+780368291470581800,Mon Sep 26 11:27:53 +0000 2016,From Sep. 19 to Sep. 25, we landed 24 PRs in the TiKV repositories. Check out the update here: https://t.co/1xP0QHK0Bd
+778522025631420400,Wed Sep 21 09:11:29 +0000 2016,A 20-node TiDB cluster on 20 Raspberry Pis... @Raspberry_Pi #RaspberryPi https://t.co/w0nSmWUaLR
+777797993944584200,Mon Sep 19 09:14:27 +0000 2016,What happened in TiKV from Sep.12 to Sep. 18? See here: https://t.co/Yj4vZLZhQc
+777797903037280300,Mon Sep 19 09:14:05 +0000 2016,What happened in TiDB from Sep.12 to Sep. 18? See here: https://t.co/ZJGcWp7UGL
+777433275237228500,Sun Sep 18 09:05:11 +0000 2016,RT @shenli3514: Documents for TiDB and TiKV could be found here: https://t.co/hSwioEsbez
+775257032551075800,Mon Sep 12 08:57:34 +0000 2016,How are things in TiDB? Checkout this out: https://t.co/nmariM1hjj
+775256549040070700,Mon Sep 12 08:55:39 +0000 2016,Wanna know what happened this week in TiKV (September 05 to September 11, 2016)? Check this out: https://t.co/79U73psCSg
+773812054163533800,Thu Sep 08 09:15:45 +0000 2016,On Oct 5, 4:25pm to 5:15pm, @ngaut1 will deliver a 50-min talk on #perconalive @Percona Come and join us: https://t.co/JvRmnKqHeA
+772739342284369900,Mon Sep 05 10:13:10 +0000 2016,Awesome! https://t.co/rSMjCgcZ39
+772738744130469900,Mon Sep 05 10:10:48 +0000 2016,This week in TiKV: https://t.co/UY8pKHuMft
+644838439343403000,Fri Sep 18 11:40:39 +0000 2015,TiDB, a MySQL drop-in replacement written in Go, able to run Wordpress https://t.co/KjPEwbWyds http://t.co/zQlG2NO8Xy
+643728976804909000,Tue Sep 15 10:12:02 +0000 2015,RT @gogitservice: #Gogs now has experimental support of #TiDB @PingCAP , all #Go , all good!
+641882698022162400,Thu Sep 10 07:55:35 +0000 2015,go-xorm/tidb, simple and powerful ORM for Go, supports #TiDB now. Check it out https://t.co/FtjSfNKA60
+641608574729228300,Wed Sep 09 13:46:19 +0000 2015,@IT_Supertramp Thanks for your attention! :D
+641608068854210600,Wed Sep 09 13:44:18 +0000 2015,RT @GhubTrending: TiDB is a distributed SQL database.: https://t.co/VE4P4XjRSl
+641606529003581400,Wed Sep 09 13:38:11 +0000 2015,Thanks @cznic for your help and your awesome tools! https://t.co/z8YkggOc9r
+641605529492545500,Wed Sep 09 13:34:13 +0000 2015,Thanks @chuchao333  @joe2010xtmf  @astaxie for contributing to #TiDB! :D https://t.co/Y3nxwyI2gN
+641562502438916100,Wed Sep 09 10:43:14 +0000 2015,@Sempr Thanks~
+640810936073220100,Mon Sep 07 08:56:47 +0000 2015,@golang_news @ngaut1 Thanks!
+640805754732019700,Mon Sep 07 08:36:12 +0000 2015,TiDB - Scalable RDBMS Inspired by Google F1 with Support for MySQL Protocol https://t.co/Y3nxwyI2gN

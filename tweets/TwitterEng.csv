@@ -1,0 +1,540 @@
+id,created_at,text
+1260374514837229600,Wed May 13 01:01:15 +0000 2020,We’ve been thinking a lot about remote work lately and what it means for the future of our teams.🌍🌏🌎  What is some… https://t.co/SBXlBTlyH7
+1259929281104195600,Mon May 11 19:32:03 +0000 2020,Check out Twitter’s @mattbytes and @vsampat9 talk about our recent work on #OpenBMC at the @OpenComputePrj virtual… https://t.co/JJ7nUuD9wx
+1258045659678011400,Wed May 06 14:47:13 +0000 2020,RT @synecdotal: Now that everyone's working from home, @TwitterEng will no longer be using pants. https://t.co/hHsvCxQR14
+1257777134929539000,Tue May 05 21:00:11 +0000 2020,Learn how we delete data in our microservices architecture in this new blog post by @megankanne.  https://t.co/oLdzdsSxjO
+1255543644380991500,Wed Apr 29 17:05:06 +0000 2020,RT @TwitterDev: During these unprecedented times, what’s happening on Twitter can help the world better understand &amp; respond to the pandemi…
+1255255787817111600,Tue Apr 28 22:01:15 +0000 2020,Also us explaining React Router https://t.co/9zlPUGkB85
+1254905798850830300,Mon Apr 27 22:50:32 +0000 2020,Twitter's @c0ngwang &amp; @danluu walk through the discovery, debugging, and patching of a Linux kernel bug.   https://t.co/ZjPD0qGoEi
+1243600979259306000,Fri Mar 27 18:09:13 +0000 2020,Our teams are focused, and as we make changes to our systems to meet these new demands, we will communicate openly.… https://t.co/2PyHi2LlKK
+1243600978424651800,Fri Mar 27 18:09:12 +0000 2020,Our teams are actively addressing areas where we need to add capacity to critical services, looking at how we can o… https://t.co/qcFrRhWO11
+1243600977506128000,Fri Mar 27 18:09:12 +0000 2020,The effects of #COVID19 on Twitter have already surpassed any other event we’ve seen, and it’s possible that as the… https://t.co/NSw8hSH17A
+1243600976281403400,Fri Mar 27 18:09:12 +0000 2020,This new working environment coupled with the increased load on our infrastructure means that all of Twitter’s engi… https://t.co/lWUuKcfhoh
+1243600975320903700,Fri Mar 27 18:09:12 +0000 2020,Beyond Twitter, #COVID19 has also caused disruptions to our supply chain partners around the world, resulting in de… https://t.co/dWOLmGO1hs
+1243600971965419500,Fri Mar 27 18:09:11 +0000 2020,While many of our teams are transitioning to #WFH, some of our infrastructure teams have physical responsibilities… https://t.co/7SzvMNmKOu
+1243600971004956700,Fri Mar 27 18:09:11 +0000 2020,In the past few weeks, more and more people have turned to Twitter to participate in the public conversation and fo… https://t.co/p4M7EDV6Xe
+1243600970057040000,Fri Mar 27 18:09:10 +0000 2020,One of our top priorities in these difficult times is to keep Twitter running and the Tweets flowing. Our work has… https://t.co/DAPPxK8Nv8
+1242583650157211600,Tue Mar 24 22:46:42 +0000 2020,RT @michaelmontano: 📣Calling all developers! We’re excited to support the #COVID19 global hackathon. This is a great opportunity for develo…
+1237769127403466800,Wed Mar 11 15:55:31 +0000 2020,Check out our very own @Smitaw in the latest @IncrementMag on how we think about software architecture in our ads p… https://t.co/07JI92WaCl
+1235652243354878000,Thu Mar 05 19:43:46 +0000 2020,@joseeight Your bio is telling me @TwitterNYC, but your heart is saying @TwitterSF.
+1235626564009603000,Thu Mar 05 18:01:44 +0000 2020,@riggaroo I'll never get over how that mouse charges.
+1235626079492030500,Thu Mar 05 17:59:48 +0000 2020,@youfoundryan I'm very confused. Is this for sitting or standing?
+1235624627717599200,Thu Mar 05 17:54:02 +0000 2020,@wickman So this is why your webcam is always off.
+1235624499048894500,Thu Mar 05 17:53:32 +0000 2020,@Pentropy Love the keycaps.
+1235619776765890600,Thu Mar 05 17:34:46 +0000 2020,I'll go first https://t.co/Nb5AM15g71
+1235619776048726000,Thu Mar 05 17:34:45 +0000 2020,What does your WFH setup look like?
+1235393057270292500,Thu Mar 05 02:33:52 +0000 2020,RT @__lucab: Twitter is partnering with @recsyschallenge for 2020! We are releasing a huge dataset and we hope you will try train a model o…
+1233099551570968600,Thu Feb 27 18:40:17 +0000 2020,@kyle_laplante 👋
+1229888537392119800,Tue Feb 18 22:00:52 +0000 2020,RT @TwitterCareers: We’re coming to #LeadDevNewYork and have plenty of chances for you to meet our Flock. To start 👇 https://t.co/yngr1CALLl
+1228477661262966800,Sat Feb 15 00:34:33 +0000 2020,Spreading lots of love to all the engineers oncall this long weekend
+1228476309090623500,Sat Feb 15 00:29:10 +0000 2020,RT @womeng: Today, we’re talking about badass #WiT @milawilson_ a.k.a. Mila, a Software Engineer on our Notifications team. This is her #Lo…
+1228015367152263200,Thu Feb 13 17:57:33 +0000 2020,RT @TwitterSG: We are building our first-ever APAC engineering center in Singapore! New jobs open in #ProductEngineering, #SoftwareEngineer…
+1227687128231899100,Wed Feb 12 20:13:15 +0000 2020,RT @VoxxedBucharest: Excited to welcome again, this time for a keynote on #performance, @christhalinger, Java Champion &amp; Staff Software Eng…
+1225912275971657700,Fri Feb 07 22:40:37 +0000 2020,Note to self: Don't deploy on Fridays
+1222246159172812800,Tue Jan 28 19:52:47 +0000 2020,RT @umatweep: #graalcgo2020 @graalvm  "Science, Art, Voodoo: Using and Developing The Graal Compiler".  The 2020 Graal Workshop at CGO is h…
+1209172271736250400,Mon Dec 23 18:01:49 +0000 2019,Using PNGs for animation is difficult. APNGs are orders of magnitude larger than normal preview images. This can me… https://t.co/fMsJzVkVud
+1207725179880657000,Thu Dec 19 18:11:35 +0000 2019,RT @finagle: If you didn't have a chance to hear @brycelanderson and @rubenoanta present about Finagle's load balancing at SREcon this year…
+1190036490870513700,Thu Oct 31 22:43:03 +0000 2019,RT @umatweep: The 2020 Graal Workshop at CGO #graalcgo2020 call for participation: https://t.co/S1euf5BCzu organized by #TwitterVMTeam , @T…
+1182014308529520600,Wed Oct 09 19:25:46 +0000 2019,Cache rules everything around me https://t.co/T5vT57asuF
+1179836182110228500,Thu Oct 03 19:10:40 +0000 2019,RT @TwitterU: Come meet our @Twitter leaders @d_lux_brand @mad_typist @michaelmontano @jenniferfraser at the Twitter #GHC19 booth! https://…
+1179831574629478400,Thu Oct 03 18:52:22 +0000 2019,Want to make your team much more productive for server development? Read "One Pattern To Rule them All". https://t.co/SN1gp8Arsd
+1174819369651589000,Thu Sep 19 22:55:39 +0000 2019,A team of ML researchers and engineers recently explored delayed feedback in continuous learning for ads engagement… https://t.co/gqPT75Pe0F
+1173743445992599600,Mon Sep 16 23:40:19 +0000 2019,Expanding Twitter's edge network with Google PoPs and Control Tower: Twitter’s Traffic Mapping Service.  https://t.co/0ZYLFOBerm
+1163494716840665000,Mon Aug 19 16:55:31 +0000 2019,RT @TwitterOSS: When reasoning about the performance of @TwitterEng applications and services we need to be able to measure in milliseconds…
+1162476580658135000,Fri Aug 16 21:29:49 +0000 2019,We're actively growing our Android team! There are a bunch of roles open that we'd love to chat with you about at D… https://t.co/KWE4yJtI7M
+1162110633820741600,Thu Aug 15 21:15:40 +0000 2019,RT @paraga: Great write up by @prasadwagle describing the challenges involved in enabling batch and interactive analysis over many petabyte…
+1161775067484704800,Wed Aug 14 23:02:15 +0000 2019,To end the series, we look at how feedback and multiple iterations led to the https://t.co/ScASM5IdUx you see today… https://t.co/uA38H3nTHO
+1161775066406768600,Wed Aug 14 23:02:15 +0000 2019,Breaking down long haul projects into meaningful steps is a difficult skill to practice. Read about our approach fo… https://t.co/sBbm9KAZuv
+1161018873690280000,Mon Aug 12 20:57:24 +0000 2019,"It's very difficult for humans to identify which tweets are most relevant and most interesting to our users, which… https://t.co/s8f67k2s9a
+1161018551987081200,Mon Aug 12 20:56:08 +0000 2019,RT @terns: @michaelmontano @Twitter @alanbato @SaraHBKLYN @TwitterEng "I think there is a big opportunity for decentralization and globaliz…
+1159994428641013800,Sat Aug 10 01:06:38 +0000 2019,Additionally, we’ve fixed the issue where the composer moves away when new Tweets load. Now, when you are at the to… https://t.co/gdMbtbQLYA
+1159994426829054000,Sat Aug 10 01:06:37 +0000 2019,We’ve made some sizing and spacing updates so you’re able to view more of what’s happening on the new… https://t.co/e8OOezSU2i
+1159227266611593200,Wed Aug 07 22:18:12 +0000 2019,RT @jenniferfraser: Wonderful to partner with @LisaSu and @AMD for the #EPYC Launch.   Excited to announce Rome will be in @Twitter product…
+1159222596769992700,Wed Aug 07 21:59:39 +0000 2019,In this blog post, you can get a behind the scenes look into how we made the new https://t.co/ScASM5IdUx feel like… https://t.co/hEpfdOYPse
+1159222595088048000,Wed Aug 07 21:59:38 +0000 2019,Next up in our blog series, we break down our implementation of web push notifications for the new… https://t.co/UPzcLuh5se
+1154801744724889600,Fri Jul 26 17:12:45 +0000 2019,Want to read more on how we built the new https://t.co/ScASM5IdUx?   Check out our blog series, New Nest:  https://t.co/bwWkbkjn4c
+1154801743638626300,Fri Jul 26 17:12:45 +0000 2019,We’re so happy you’re all seeing our hard work, and keep letting us know what you think - we love the feedback.… https://t.co/od8PdJZbRq
+1154801742376083500,Fri Jul 26 17:12:45 +0000 2019,Based on feedback, we're working on fixes which will include: changing Tweet presentation density (so you see more… https://t.co/1MvCQorCSa
+1154801740920660000,Fri Jul 26 17:12:44 +0000 2019,People are excited about new features like Bookmarks, the option to turn on lights out themes 💡, easier account swi… https://t.co/s1zUYyQbDe
+1154801739813363700,Fri Jul 26 17:12:44 +0000 2019,Most of what we heard was that people wanted a responsive, faster site that could be personalized. So we prioritize… https://t.co/EUSN5CVSAO
+1154801737552629800,Fri Jul 26 17:12:44 +0000 2019,To build a better site, we spent nearly a year testing versions of the new site and reviewed more than 200,000 resp… https://t.co/FaMHpmOkkL
+1154801736067895300,Fri Jul 26 17:12:43 +0000 2019,A modern foundation was a key goal of the new site. The previous site was built with older technology that made del… https://t.co/1kvCPHKdIS
+1154801732003590100,Fri Jul 26 17:12:42 +0000 2019,Now that more people have the latest https://t.co/ScASM5IdUx, we want to walk you through a bit more of how and why… https://t.co/vioaDxUsKv
+1154460326340882400,Thu Jul 25 18:36:05 +0000 2019,@realNazZakaria Come #JoinTheFlock  https://t.co/6yg2PnKyhK
+1153766257268674600,Tue Jul 23 20:38:06 +0000 2019,The new https://t.co/ScASM5IdUx responds to more than just your screen size. Read more about how we brought our PWA… https://t.co/jBrl1171Hm
+1151921348525957100,Thu Jul 18 18:27:05 +0000 2019,Whether we are making small tweaks or shipping a whole new user experience we rely on an extensive set of tests to… https://t.co/I0WaRZHNad
+1151175310328467500,Tue Jul 16 17:02:36 +0000 2019,Next up in our blog series: Component-based design! Find out how the new https://t.co/UkEsgPxBOh uses components to… https://t.co/LV0gFrsQgC
+1150876419758493700,Mon Jul 15 21:14:55 +0000 2019,🧵 Hear from one of our software engineers on the Twitter Web team, @amesimmons, as she shares what each team member… https://t.co/wJCjWIvTIU
+1150814506064330800,Mon Jul 15 17:08:54 +0000 2019,If you’re curious to know more about what it takes to rebuild a site like Twitter, check out the first post of our… https://t.co/9VtKpkhiNF
+1150814505007382500,Mon Jul 15 17:08:53 +0000 2019,We’re still listening and iterating. We see this part of our journey as just the beginning. We’re excited to contin… https://t.co/cnCYKdIMvT
+1150814504030093300,Mon Jul 15 17:08:53 +0000 2019,The new https://t.co/UkEsgPxBOh you’ll start to see today is the result of many iterations, some of which you’ve al… https://t.co/kYY7gB9sBd
+1150814503073767400,Mon Jul 15 17:08:53 +0000 2019,We set out to create a site that was responsive to more than just design and screen size, showing that it’s possibl… https://t.co/9hReJbSC6w
+1150814502268465200,Mon Jul 15 17:08:53 +0000 2019,The new https://t.co/UkEsgPxBOh was rebuilt from scratch using the React-based platform we built to power… https://t.co/7dOfkPsZFz
+1150814500599152600,Mon Jul 15 17:08:52 +0000 2019,🥁Drumroll please! We are delighted to bring you the new https://t.co/UkEsgPxBOh. This is the largest platform rewri… https://t.co/LtXmkqcSUj
+1149415716228984800,Thu Jul 11 20:30:36 +0000 2019,Shout out to our SRE and Eng teams for fixing an internal configuration change gone wrong. We've found the root cau… https://t.co/gvILH7nwJh
+1149297511451918300,Thu Jul 11 12:40:54 +0000 2019,How do you make sense of 30 *billion* ad requests a day?  @shravana87 and @arolett describe @MoPub’s large-scale an… https://t.co/Ny5g8B2g3f
+1149017572530167800,Wed Jul 10 18:08:31 +0000 2019,RT @nicktornow: Twitter's first Engineering event at Bangalore is happening and we can't wait to see you there! https://t.co/4KPbcLQR2s
+1148970222549905400,Wed Jul 10 15:00:22 +0000 2019,The Twitter Eng Apprenticeship Program is an opportunity for even more folks to experience engineering at Twitter.… https://t.co/LW40TvGYcb
+1148970221916565500,Wed Jul 10 15:00:22 +0000 2019,However, there was a gap here for folks that didn’t fit into either one of these pre-established pieces of how we t… https://t.co/BWerxrxZWC
+1148970221220368400,Wed Jul 10 15:00:22 +0000 2019,Traditionally, our recruiting for engineering is split into two different parts; university recruiting, and industr… https://t.co/nUTE9kWCJ8
+1148970220280852500,Wed Jul 10 15:00:22 +0000 2019,We are working to significantly grow our company and our technical workforce in the next year. This program will he… https://t.co/7gFrsOYKpl
+1148970219366494200,Wed Jul 10 15:00:21 +0000 2019,Starting today, we’re accepting applications for our first cohort of engineering apprentices! We know that great ta… https://t.co/MtX49I2Zjn
+1148582874351730700,Tue Jul 09 13:21:11 +0000 2019,Did you know Twitter uses machine learning to tune JVM performance?  To learn more about the #TwitterVMTeam’s R&amp;D i… https://t.co/PnBsBn7XuR
+1144201170933571600,Thu Jun 27 11:09:52 +0000 2019,Check out @stuhood’s presentation at @ScalaDays 2019 on our Engineering Effectiveness team’s recent work to dramati… https://t.co/LYbWipOPI3
+1143585829568122900,Tue Jun 25 18:24:43 +0000 2019,This effort required teamwork and collaboration throughout multiple teams across Twitter’s Revenue Science and ML p… https://t.co/OdGkc1db1O
+1143585828913872900,Tue Jun 25 18:24:43 +0000 2019,This change ended up simplifying our ad serving stack, decreasing CPU utilization by ~20%! We’re most excited for t… https://t.co/KCPb5k8E3Q
+1143585828226027500,Tue Jun 25 18:24:42 +0000 2019,We evaluate hundreds of thousands of potential ads every time a user refreshes their timeline, handled through mult… https://t.co/uFllOm0vqv
+1143585827387105300,Tue Jun 25 18:24:42 +0000 2019,Twitter’s ad server operates at immense scale to match, rank, and deliver high quality ads in real time. Learn abou… https://t.co/gcDjzjfAiy
+1143256741989118000,Mon Jun 24 20:37:02 +0000 2019,RT @floydophone: Have you noticed less cryptospam in your timeline? Here’s why!
+1142378017227866100,Sat Jun 22 10:25:18 +0000 2019,Confira a palestra do @flaviowbrasil na @QConSP sobre como o #TwitterVMTeam tem melhorado a performance do Scala at… https://t.co/65KARNfbqz
+1141828999783387100,Thu Jun 20 22:03:42 +0000 2019,🗣️ NYC! Come through for some great data science talks https://t.co/O39pAQQO51
+1139649675089203200,Fri Jun 14 21:43:50 +0000 2019,Last week, Apple announced Project Catalyst for macOS 10.15 Catalina. This exciting new tech unlocks a path for Twi… https://t.co/k7cicHr3q0
+1139599516318019600,Fri Jun 14 18:24:32 +0000 2019,We learned how to make radar charts with Matplotlib this week, so cool! 🕸  What’s something that you picked up or s… https://t.co/XLabAbtVUT
+1138862883922632700,Wed Jun 12 17:37:25 +0000 2019,If you’re at #ICWSM2019 stop by, say hi 👋 and see how Eng and Research go hand in hand to build awesome things at T… https://t.co/uZajzL37MA
+1138506408427528200,Tue Jun 11 18:00:54 +0000 2019,RT @TwitterDev: 🎺 da-dada-DAH! We’re introducing the first Twitter Developer Labs endpoints:   ✨GET/users and GET/tweets ✨  Labs is now ope…
+1136356313351557100,Wed Jun 05 19:37:12 +0000 2019,RT @twimlai: Tech Lead for ML Core Environment at Twitter Cortex, Yi Zhuang (@yz) joins us to discuss the ML landscape at Twitter, the hist…
+1135502406287003600,Mon Jun 03 11:04:04 +0000 2019,📣 We're excited to announce @Fabula_AI is joining Twitter! They'll bring their machine learning talent to help us g… https://t.co/75OmuuXSaB
+1134177116289847300,Thu May 30 19:17:51 +0000 2019,We’re talking really, really secure. https://t.co/bnBNGnU1Z9 https://t.co/iAn3pK6dNi
+1132044802453676000,Fri May 24 22:04:47 +0000 2019,RT @BuiltInSeattle: In part two of a two-part series, we spoke with engineers at four Seattle-based tech companies about the benefits and c…
+1132044655053295600,Fri May 24 22:04:12 +0000 2019,@Twitter 📯
+1129140753555284000,Thu May 16 21:45:08 +0000 2019,RT @twitterhadoop: How does Twitter do hybrid cloud architecture? Here’s more info on what our Hadoop looks like on premises and in the clo…
+1128782382239141900,Wed May 15 22:01:06 +0000 2019,Want more info? see @addyosmani and @katiehempenius present on it at Google I/O #io19 https://t.co/m1bMSYOxh8
+1128782381148590100,Wed May 15 22:01:06 +0000 2019,We made a subtle change that has made images on ultra-retina devices load 33% faster and save upwards of 35% on dat… https://t.co/tP9jeZcE7s
+1128080687293067300,Mon May 13 23:32:49 +0000 2019,Check out how our Observability team has improved latency, cost, and more 👇https://t.co/5sGhaooxwq
+1125487365739372500,Mon May 06 19:47:53 +0000 2019,Also, here’s a story from the design team about how they approached the feature’s design. Happy Retweeting! https://t.co/pdklxsnZbH
+1125479158660730900,Mon May 06 19:15:16 +0000 2019,The most exciting part of this project was that we were working on a feature that many people asked for. We’re very… https://t.co/26EEAU5jmh
+1125479157457010700,Mon May 06 19:15:16 +0000 2019,These changes impacted the Tweet detail page and timelines so we accommodated design and functionality nuances acro… https://t.co/SkuY4qzYGT
+1125479156416827400,Mon May 06 19:15:15 +0000 2019,Teamwork and collaboration are a huge part of Twitter’s engineering culture. A project like this brought together a… https://t.co/JY0BomYN1J
+1125479155011805200,Mon May 06 19:15:15 +0000 2019,Exciting news: Today we are launching the ability to Retweet with GIF, photos, and video!  We find solutions to man… https://t.co/btaPQnQqW7
+1118632955423801300,Wed Apr 17 21:50:54 +0000 2019,The mission: Migrate key parts of Twitter’s infrastructure to the cloud. Find out how we got started👇https://t.co/6MVo0HALss
+1073421686685425700,Fri Dec 14 03:37:27 +0000 2018,RT @AndroidDev: Now you can stay up to date with the latest news without worrying about battery drain. Learn how Twitter uses @Firebase Clo…
+1068624775713452000,Fri Nov 30 21:56:15 +0000 2018,RT @KaiOStech: Ever wonder how an app like @Twitter gets redesigned and optimized for the smart feature phones powered by KaiOS? Get an ins…
+1067946101636919300,Thu Nov 29 00:59:26 +0000 2018,Want to know why Twitter decided to adopt @apachekafka as its publish-subscribe system? Check out what we learned t… https://t.co/WQlvN6GQQT
+1064985696690217000,Tue Nov 20 20:55:51 +0000 2018,Learn about the infrastructure that enables developers at Twitter to manage application configurations, perform exp… https://t.co/F6cx8i9bAI
+1042826007642660900,Thu Sep 20 17:21:09 +0000 2018,Learn more about how we are working toward developing models, related tooling, and infrastructure with the objectiv… https://t.co/Fa9w2xrofh
+1042208976715231200,Wed Sep 19 00:29:18 +0000 2018,Your security on Twitter is very important to us, so we are always looking for ways to make the experience even saf… https://t.co/XYbhHMEl18
+1029054055279022100,Mon Aug 13 17:16:20 +0000 2018,RT @Twitter: Don't let data worries keep you from Twitter. Twitter Lite is now in 21 more countries.  Stay informed with push notifications…
+1022195161856528400,Wed Jul 25 19:01:32 +0000 2018,RT @TwitterAPI: As a developer platform, our first responsibility is our users: to provide a place that supports the health of conversation…
+1021432555784921100,Mon Jul 23 16:31:13 +0000 2018,Welcoming @NickTornow on day1⃣! He will join our engineering leadership team as our new Platform Lead.
+1020357477957713900,Fri Jul 20 17:19:14 +0000 2018,RT @Policy: Putting people first on data portability. Hear from our Global Data Protection Officer @Damokieran on the launch of the 'The Da…
+1019682189569486800,Wed Jul 18 20:35:53 +0000 2018,RT @TwitterOSS: We've open sourced our Twitter Network Layer framework for iOS! Performant, extensible, and powerful networking for all! ht…
+1016384787626393600,Mon Jul 09 18:13:11 +0000 2018,After great a response at @PCS2018_SanFran we’re excited to share our new method for measuring perceived video qual… https://t.co/6qwnImdQSD
+1010191448744984600,Fri Jun 22 16:03:04 +0000 2018,Learn more about how we are productionizing machine learning with workflows at Twitter. https://t.co/9d8aaJVlM3
+1007372716477837300,Thu Jun 14 21:22:26 +0000 2018,Twitter migrates deep learning framework from Lua Torch to TensorFlow. Learn more: https://t.co/6FQ6bZSgrb
+1003935030987673600,Tue Jun 05 09:42:18 +0000 2018,RT @TwitterOSS: Announcing Sekhmet, foundational tools and building blocks for gaining insights and diagnosing system health in real-time.…
+1003935020342538200,Tue Jun 05 09:42:15 +0000 2018,RT @TwitterOSS: Tune into the #monitorama livestream to watch our very own @enbnt presenting remotely: https://t.co/EDQOkM67Mk #monitoringl…
+993845493334765600,Tue May 08 13:30:05 +0000 2018,Are you an Engineering Leader looking to take your career to the next level?   Twitter is hosting an Engineering Le… https://t.co/9mPal0i3Lu
+992071463325786100,Thu May 03 16:00:43 +0000 2018,Announcing a new collaboration with @googlecloud https://t.co/NMF9vLH9VX
+983854267487391700,Tue Apr 10 23:48:31 +0000 2018,Today, we are launching the mentions tab in your notifications on mobile web and Twitter Lite!   Find all notificat… https://t.co/jSlFBcLOge
+968909389175246800,Wed Feb 28 18:02:54 +0000 2018,RT @Twitter: Found something historic? Don’t want to forget a joke? Article that you want to read later?  Save the Tweet with Bookmarks, an…
+968909261563506700,Wed Feb 28 18:02:24 +0000 2018,@Twitter Here's how we took your feedback and created Bookmarks. https://t.co/F6ugnwIK5o
+968285156032241700,Tue Feb 27 00:42:25 +0000 2018,RT @TwitterOSS: Leaving the nest: Heron donated to @TheASF https://t.co/aBcav6DZOg
+956225594605289500,Wed Jan 24 18:02:02 +0000 2018,We have developed a new ML model to improve smart auto-cropping of images on Twitter. Learn more: https://t.co/3FMxCqt4r8
+953012655886762000,Mon Jan 15 21:14:57 +0000 2018,RT @Twitter: One man, countless lives changed.  To honor his legacy, share how Martin Luther King Jr.’s life impacted yours with #ThankYouM…
+951546991384830000,Thu Jan 11 20:10:56 +0000 2018,Up for a challenge? Twitter is co-organizing both the Learned Image Compression Challenge @ CVPR 2018 (… https://t.co/CibF6dqMzb
+941732127665619000,Fri Dec 15 18:10:10 +0000 2017,RT @TwitterOSS: Introducing Vireo, a lightweight and versatile video processing library https://t.co/Q3IkFnNgV1
+941394096039477200,Thu Dec 14 19:46:57 +0000 2017,RT @TwitterDev: 🎁 'Tis the season for opening packages. Today we're making all of Twitter Kit for iOS, Android and Unity open source, and i…
+938951262594269200,Fri Dec 08 02:00:00 +0000 2017,We're updating Explore in our Twitter Lite for Android app and globally for https://t.co/8NfwZpv0JU!  We want to ma… https://t.co/KdlBaoG4Oa
+930554614444843000,Tue Nov 14 21:54:43 +0000 2017,RT @TwitterAPI: Today we’re launching Twitter premium APIs to kick off the next era of innovation for Twitter developers. 🙌  These APIs pro…
+928005525471662100,Tue Nov 07 21:05:33 +0000 2017,Testing the limit! Here’s how we measured the impact of longer Tweets via experimentation: https://t.co/7kGc2HZmY7
+928005350107893800,Tue Nov 07 21:04:51 +0000 2017,Find out how we used data to engineer the right number of characters for you. https://t.co/kltpfVrVJE
+927696737149452300,Tue Nov 07 00:38:32 +0000 2017,RT @TwitterOSS: Introducing Serial, a new open source library for improved data serialization on Android https://t.co/TIUTV9nqbw
+927651344965517300,Mon Nov 06 21:38:10 +0000 2017,RT @WIREDInsider: Mazdak Hashemi’s secret to keeping Twitter’s network secure? Working constantly to bring it down #ad https://t.co/DNgX27U…
+925082447351394300,Mon Oct 30 19:30:17 +0000 2017,Want faster refactoring without tests getting in your way? See how feature testing might help! https://t.co/z452kXeiq7
+917437982432362500,Mon Oct 09 17:13:54 +0000 2017,RT @TwitterOSS: Today we are open-sourcing torch-decisiontree, providing fast GBDT and random forests for feature discretization. https://t…
+912410275596329000,Mon Sep 25 20:15:36 +0000 2017,RT @TwitterDev: Today we’re introducing a new home and format for all Twitter developer resources. https://t.co/AHkEQ6WuDF
+912378491928174600,Mon Sep 25 18:09:18 +0000 2017,Austin devs! Come #TapIntoTwitter w/ chatbots 🤖  &amp; learn how @unionmetrics was built on the @TwitterAPI https://t.co/fMFU7eslME
+902657524054212600,Tue Aug 29 22:21:38 +0000 2017,TONIGHT! Please don't forget to have your Eventbrite confirmation ready to go at check-in. Livestreaming here on… https://t.co/XRALQHiaLg
+897119038677155800,Mon Aug 14 15:33:41 +0000 2017,Join us again on Aug 29th @Twitter HQ in San Francisco, as we demystify the magic behind Machine and Deep Learning https://t.co/wZAVpjDSo9
+890390539484385300,Thu Jul 27 01:57:01 +0000 2017,Machine Learning Meetup happening LIVE now @Twitter HQ!  https://t.co/GuZzBhcJSZ
+884487501104136200,Mon Jul 10 19:00:27 +0000 2017,New on the blog: Reflecting on Power and Physics in Technology by @jenniferfraser https://t.co/hTNka9DYw1
+879434844605784000,Mon Jun 26 20:23:00 +0000 2017,Curious to know how Machine Learning is changing Twitter?  Join us next month at Twitter HQ, in San Francisco! https://t.co/pDqsMN0kxS
+877286261785886700,Tue Jun 20 22:05:18 +0000 2017,Check out this @InfoQ talk by @lamgary &amp; @pathak_s to learn more about how @Twitter notifications work https://t.co/2B6K3RSjl8
+877285270789304300,Tue Jun 20 22:01:22 +0000 2017,RT @womeng: We are welcoming @GirlsWhoCode Summer Immersion Program to @TwitterSF today! Looking forward to a great summer with these girls…
+874353977999056900,Mon Jun 12 19:53:27 +0000 2017,Interested in the data science behind A/B testing at Twitter? We'll be presenting at USF on June 22. Come join us! https://t.co/P3qXAt7cO7
+865345258837626900,Thu May 18 23:16:01 +0000 2017,RT @jack: Welcome to the flock! https://t.co/HehBLRwlmV
+865345029060968400,Thu May 18 23:15:06 +0000 2017,RT @jack: We're fortunate to have people like @naz_erkan! https://t.co/dbJxzQelAa
+864981856336322600,Wed May 17 23:11:59 +0000 2017,Twitter Lite live demo at #io17 https://t.co/S5IiZoA3mU
+862039241580204000,Tue May 09 20:19:05 +0000 2017,We’re using deep learning (at scale!) in our timelines. Learn more: https://t.co/MxC3YX6SJZ
+860589283471577100,Fri May 05 20:17:28 +0000 2017,RT @womeng: Thanks @jack for joining WomEng at our weekly technical office hours! https://t.co/x8i9PlJC8e
+850015280772153300,Thu Apr 06 16:00:10 +0000 2017,RT @TwitterDev: 1/ Today we’re sharing our vision for the future of the Twitter API platform! https://t.co/XweGngmxlP
+849865672221904900,Thu Apr 06 06:05:40 +0000 2017,We’re excited to introduce Twitter Lite, a Progressive Web App at https://t.co/8NfwZpdplk. Here's how we built it 🛠  https://t.co/n8BMqpqdW6
+842440876727050200,Thu Mar 16 18:22:11 +0000 2017,We optimized Twitter Heron processes to 170M tuples/sec in 17 machines. Learn more: https://t.co/md4vCxiaOq
+836970370166972400,Wed Mar 01 16:04:21 +0000 2017,RT @TwitterOSS: We've open sourced our Twitter Image Pipeline framework for iOS! Performant, robust and easy to use images for all https://…
+829776989091295200,Thu Feb 09 19:40:25 +0000 2017,RT @TwitterDev: Chicago Devs: Come #tapintotwitter with us next Wed @SproutSocial to kick off the 1st local Twitter Dev Community https://t…
+822165693411958800,Thu Jan 19 19:35:51 +0000 2017,Learn more about the infrastructure behind Twitter in our blog series, focused on Scale https://t.co/KD5OneBwMh
+821451702045790200,Tue Jan 17 20:18:42 +0000 2017,We're hosting an event about how we use A/B testing to drive our product decisions. Come join us! https://t.co/Eyob6X4S3U
+810977546024034300,Mon Dec 19 22:38:08 +0000 2016,Moving Tweet search results from reverse chronological order to relevance order: https://t.co/jN7QvygXl2
+796887615479742500,Fri Nov 11 01:29:47 +0000 2016,Simplify Service Dependencies with Nodes: a new library to make concurrent programming for services easier in Java https://t.co/1rJiUbI8xQ
+794665927367225300,Fri Nov 04 22:21:35 +0000 2016,How we improved our real-time search technology to support diverse document types: https://t.co/gayKpY5LEo
+793853855628800000,Wed Nov 02 16:34:42 +0000 2016,RT @TwitterDev: Announcing Twitter Developer Communities. #TapIntoTwitter and grow our 🌍 community. https://t.co/jtgR9OpCQs https://t.co/bW…
+793562345481965600,Tue Nov 01 21:16:21 +0000 2016,Read about our time at Grace Hopper Celebration this year. Can’t wait till next year! #ghc16 #WhyIAttendGHC https://t.co/aEUT49j4XP
+788422923128217600,Tue Oct 18 16:54:07 +0000 2016,RT @womeng: So excited to be back! We're here to reconnect with &amp; meet new innovators at #ghc16! https://t.co/MvA9MrbYab
+778731123211808800,Wed Sep 21 23:02:22 +0000 2016,Here's how we safely deploy our widgets javascript so Twitter content appears seamlessly on your website: https://t.co/KYEESar9jc
+776844150058594300,Fri Sep 16 18:04:13 +0000 2016,Our Cortex team just open sourced a new framework for reinforcement leaning in @TorchML. Get started now: https://t.co/5565S7xioq
+773952671925440500,Thu Sep 08 18:34:30 +0000 2016,RT @tweetanor: Let's make Twitter work for developers 👊 #TapIntoTwitter https://t.co/GRVaHnBUzT
+773952566438670300,Thu Sep 08 18:34:05 +0000 2016,RT @crashlytics: The inside scoop on how we symbolicate 1000 crashes every second: https://t.co/aG6Z2qua8t #mobiledev https://t.co/QGfGC5uo…
+768125759697190900,Tue Aug 23 16:40:26 +0000 2016,The infrastructure behind Twitter: efficiency and optimization https://t.co/QHTfkQdpEl
+765763723113795600,Wed Aug 17 04:14:33 +0000 2016,@deepika_087 Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/Fp4PKditII
+765763392799768600,Wed Aug 17 04:13:14 +0000 2016,@elbakantowin Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/8apq0edKbV
+765763009423679500,Wed Aug 17 04:11:43 +0000 2016,@pivithuru Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/kdp4Geuryn
+765762726832418800,Wed Aug 17 04:10:35 +0000 2016,@antonia_sar, @harrymvr Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/RCnAMu2Z4X
+765762114841481200,Wed Aug 17 04:08:10 +0000 2016,@mikefranchi23, @larrysigcho, @daraclifford, @karenohri, @megsraye Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/KXTAb8JSCG
+765761068073295900,Wed Aug 17 04:04:00 +0000 2016,@daraclifford Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/bFeU3voLCL
+765759740374724600,Wed Aug 17 03:58:43 +0000 2016,@orlandoferrer, @terry55404 Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/405rhYSDmE
+765758072119627800,Wed Aug 17 03:52:06 +0000 2016,@_arodriguez Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/hyIvQKsaiO
+765757402784215000,Wed Aug 17 03:49:26 +0000 2016,@alscor66 Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/QMopYnNEhO
+765756817875972100,Wed Aug 17 03:47:07 +0000 2016,@v_pena, @latifajackson Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/KYD7BzoBVs
+765756192710795300,Wed Aug 17 03:44:38 +0000 2016,@v_pena, @latifajackson, @mvasilev Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/Mki9fnaWP7
+765755497899176000,Wed Aug 17 03:41:52 +0000 2016,@parisa_km, @ellyArabmakki Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/Pq49PyvuVq
+765753813865115600,Wed Aug 17 03:35:10 +0000 2016,Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/8Z5KlUbMtM
+765749014599864300,Wed Aug 17 03:16:06 +0000 2016,@tamara_louie, @bjoseph Unsupervised Learning at Twitter HQ #TwitterKDD https://t.co/HfsF0HMpVG
+765254992382996500,Mon Aug 15 18:33:02 +0000 2016,A behind-the-scenes look at the relevance infrastructure that powers Twitter search quality improvement https://t.co/qjlFLRUeFo
+756586455212912600,Fri Jul 22 20:27:22 +0000 2016,SuperRoot: Launching a High-SLA Production Service at Twitter https://t.co/LaVJFcAfwx
+750466677372915700,Tue Jul 05 23:09:33 +0000 2016,RT @TwitterDev: Was such an honor working in partnership with @ihub for #SmartCityNairobi! Check out the highlights: https://t.co/gWBlQq2ZDW
+738393816168685600,Thu Jun 02 15:36:19 +0000 2016,Tune in at 9am PT today for @ccpinkham's #MesosCon keynote on Platform Infrastructure @twitter: https://t.co/rmgcrD0bZE
+738133602748112900,Wed Jun 01 22:22:19 +0000 2016,Check it out! Our @ccpinkham shares a preview of his upcoming #MesosCon keynote on Platform Infrastructure @Twitter: https://t.co/3cJzzHp2v1
+736332084625608700,Fri May 27 23:03:44 +0000 2016,How our bug bounty is going 2 years in: https://t.co/X3ucAhOG1P
+735500986148487200,Wed May 25 16:01:14 +0000 2016,Open sourcing Twitter Heron, our real-time stream processing engine https://t.co/A7zYWkDMAR
+729708015478181900,Mon May 09 16:22:02 +0000 2016,Deployments at scale - how we deploy our distributed key/value database, Manhattan, to production: https://t.co/wv9Ldkx4NM #TwitterManhattan
+728330503334416400,Thu May 05 21:08:18 +0000 2016,Introducing Omnisearch: an information retrieval system https://t.co/ooWBPIso7J
+727735781352198100,Wed May 04 05:45:05 +0000 2016,Also thanks to Program Co-Chairs Samy Bengio (Google) &amp; Brian Kingsbury (IBM), General Chairs @ylecun (FAIR) &amp; Yoshua Bengio (Univ Montreal)
+727735072795791400,Wed May 04 05:42:16 +0000 2016,Thanks to Twitter's @hugo_larochelle, Senior Program Chair for @iclr2016! https://t.co/ZsPsiTekoX
+727734921922482200,Wed May 04 05:41:40 +0000 2016,.@iclr2016 Machine Leaning conference is happening in Puerto Rico! Can't make it? All talks streamed on Periscope! https://t.co/psb0LiufBR
+727201991751921700,Mon May 02 18:24:00 +0000 2016,We're excited to be a part of the @pantsbuild 1.0.0 release! https://t.co/CA4BqSJC8m
+725745406303297500,Thu Apr 28 17:56:03 +0000 2016,Missed the #compute event at TwitterHQ? The talks are now live https://t.co/7wX8dPwLUE
+723578478252036100,Fri Apr 22 18:25:27 +0000 2016,Via @highscal, see how Twitter handles 3,000 images per second: https://t.co/0mv7y5FvO6
+719593417634787300,Mon Apr 11 18:30:14 +0000 2016,RT @TwitterDev: Twitter Ads API Challenge: Build great advertising tools for a shot at $250,000 $API.tw https://t.co/Peexsv5TLE https://t.c…
+715632800389423100,Thu Mar 31 20:12:10 +0000 2016,RT @blackbirds: Last week, Team Twitter attended #NSBE42. Take a look at some of our favorite moments! https://t.co/draeyXRGqw https://t.co…
+715270298086481900,Wed Mar 30 20:11:42 +0000 2016,Twitter’s ad server — our revenue engine — performs ad matching, scoring &amp; serving at an immense scale. Learn more: https://t.co/3JRkOdYv94
+713385407187005400,Fri Mar 25 15:21:49 +0000 2016,RT @blackbirds: LIVE on #Periscope: We're now LIVE from #NSBE42 w/ the #CornerOffice talk b/w @jack and @laurawp. #AskJack #Twitter… https:…
+713046327198769200,Thu Mar 24 16:54:26 +0000 2016,RT @blackbirds: Twitter has ✔️ in for #NSBE42! Stop by booth #105 to meet the team + enter to win a 😎 prize! #TwitterNSBE https://t.co/uSMW…
+712402770079273000,Tue Mar 22 22:17:10 +0000 2016,RT @blackbirds: We're hosting a talk with @Jack and @laurawp at #NSBE42 in Boston. Submit your questions using #NSBEAskJack! https://t.co/q…
+712353774069616600,Tue Mar 22 19:02:29 +0000 2016,Sharing more on observability at Twitter: focusing on visualization, alerting, distributed tracing systems and more https://t.co/sOtQyvJeiG
+710897945705472000,Fri Mar 18 18:37:32 +0000 2016,A look at our architecture and experience in developing and operating our systems: https://t.co/tke5hjYlMq
+710609684890189800,Thu Mar 17 23:32:06 +0000 2016,Over 100,000 containers are managed by our compute platform. Join us &amp; learn more: https://t.co/A6r13gn5je https://t.co/aZEyFvD8o5
+710580831094382600,Thu Mar 17 21:37:26 +0000 2016,How we added strong consistency to Manhattan, our distributed key/value database #TwitterManhattan https://t.co/gNvjqACk0n
+708352655295324200,Fri Mar 11 18:03:28 +0000 2016,A look at how the Twitter Command Center uses secondly metrics to detect and resolve problems: https://t.co/giVbBe9uoX
+707296142522843100,Tue Mar 08 20:05:15 +0000 2016,Understanding power, minimal detectable effect, and estimating the appropriate size of your A/B test: https://t.co/l3WTUAd3BA
+698246661185744900,Fri Feb 12 20:45:51 +0000 2016,Twitter engineer @vijayp recaps how the team tackled a Linux kernel bug: https://t.co/z9sjl3QSy9
+692447367493193700,Wed Jan 27 20:41:32 +0000 2016,We’re releasing new libraries for parallelizing the training of deep neural nets, in Torch https://t.co/cUFSvmdFod
+692447120498884600,Wed Jan 27 20:40:33 +0000 2016,RT @TwitterOSS: Our Cortex team just open-sourced new libraries for parallelizing the training of deep neural nets, in @TorchML https://t.c…
+689905322165571600,Wed Jan 20 20:20:21 +0000 2016,RT @TwitterDev: Announcing our #HelloWorld Tour -- Join us! https://t.co/m8ZjGu7Kpg https://t.co/ondOESIH1O
+687075699161616400,Wed Jan 13 00:56:26 +0000 2016,Read our exploration of the idea of using two controls in an A/B test: https://t.co/FNPhKJFabS
+684884035676446700,Wed Jan 06 23:47:33 +0000 2016,See how we apply data visualizations to explore funnels of user activities: https://t.co/unmVHuMTaL https://t.co/CzHrMgQe4L
+679458046645407700,Wed Dec 23 00:26:36 +0000 2015,Working towards SHA-1 Sunset. https://t.co/ab2J5jLZp6
+676817836237426700,Tue Dec 15 17:35:21 +0000 2015,The design, architecture, and implementation of Twitter’s failure testing framework: https://t.co/DgLnlBgfPN
+674709094498893800,Wed Dec 09 21:55:58 +0000 2015,Introducing Finatra 2.0: a high-performance, scalable &amp; testable framework powering production services at Twitter. https://t.co/hhh2C7v3uk
+672906788409217000,Fri Dec 04 22:34:15 +0000 2015,The team will be at @NipsConference in Montreal. Make sure to stop by the Twitter Cortex booth! There will be fun demos. #TwitterNIPS
+672906590882684900,Fri Dec 04 22:33:27 +0000 2015,Meet Twitter Cortex: https://t.co/JKhbkJHf2Q
+668917532150001700,Mon Nov 23 22:22:22 +0000 2015,Check out our new blog for a behind-the-scenes look at MoPub’s latest infrastructure improvements: https://t.co/Y5BJsQebXR
+666322962111336400,Mon Nov 16 18:32:28 +0000 2015,This Tweet is in Spanish...maybe? How we evaluate the accuracy of automatic Tweet language identification. https://t.co/sm0KsuUbqD
+664157769738534900,Tue Nov 10 19:08:46 +0000 2015,Come hear what Twitter is doing with A/B testing, entity classification and deep learning in Boston. Register now! https://t.co/ITzw2wFX8l
+662780555923075100,Fri Nov 06 23:56:13 +0000 2015,Check out how Twitter uses terabytes of data to evaluate the effects of product changes: https://t.co/0VIq8Io29I
+662724443408502800,Fri Nov 06 20:13:14 +0000 2015,We’re releasing a new framework for simplifying deep learning research: autograd for Torch https://t.co/cEHt6YetCl
+662432105310195700,Fri Nov 06 00:51:35 +0000 2015,Interested in large scale distributed systems? Learn about Twitter's production systems. Register at https://t.co/0MqBefKbuY
+657592024359546900,Fri Oct 23 16:18:50 +0000 2015,Learn about Twitter's A/B testing framework and philosophy: https://t.co/jdHEkE2zgI
+657332902544281600,Thu Oct 22 23:09:11 +0000 2015,RT @womeng: Recap of our amazing experience at #GHC15 https://t.co/Qc0jfzSbZF #twitterGHC
+649358066207449100,Wed Sep 30 23:00:02 +0000 2015,Thanks to everyone who came out to hear about what our @twitternyc teams are working on! #meettwitternyc http://t.co/9m73OokQpe
+648919107866226700,Tue Sep 29 17:55:46 +0000 2015,Excited to show off our new nest and projects we're working on tonight @twitternyc! #meettwitternyc
+648897144393302000,Tue Sep 29 16:28:29 +0000 2015,Hadoop filesystem at Twitter scale: HA, Federation, and Multi-DC ViewFS: https://t.co/0zO7d2ggnX
+644892490437300200,Fri Sep 18 15:15:25 +0000 2015,RT @mesoscon: Join the Apache Mesos community in Dublin for #MesosCon Europe! MesosCon takes place October 8-9th, register today! http://t.…
+644607686957469700,Thu Sep 17 20:23:43 +0000 2015,RT @ApacheMesos: #MesosCon Europe schedule is now online, and the diversity scholarship program returns! http://t.co/vvN3XodvPo
+644607319595216900,Thu Sep 17 20:22:15 +0000 2015,RT @ApacheAurora: Video: "Apache Aurora and Mesos at TellApart" -- including an overview of Docker support in Aurora https://t.co/CV2DMVyz1T
+643951878703738900,Wed Sep 16 00:57:46 +0000 2015,Learn how we built DistributedLog, Twitter’s high-performance replicated log service: https://t.co/NTbnuoDcZu
+643792107585454100,Tue Sep 15 14:22:54 +0000 2015,RT @TwitterOSS: Join the Messaging User Group Meetup September 21st, hosted by Twitter and the @asfbookkeeper community https://t.co/TU41k3…
+643792031504973800,Tue Sep 15 14:22:36 +0000 2015,RT @ApacheAurora: Bay Area: join the Apache Aurora community tomorrow afternoon for a getting started workshop from 1-5pm http://t.co/alCL4…
+639883124441284600,Fri Sep 04 19:29:59 +0000 2015,"Improving communication across distributed teams" https://t.co/g9GzKmA4uM
+639563640215965700,Thu Sep 03 22:20:29 +0000 2015,RT @TwitterOSS: we open sourced Diffy: a tool that automatically catches bugs in Thrift / HTTP services https://t.co/gy9mh8tebU http://t.co…
+639529747928641500,Thu Sep 03 20:05:48 +0000 2015,OSSome news: we're open sourcing Diffy, a tool that detects potential bugs in HTTP-based services. https://t.co/Ah9eQf4GVS
+638411017047830500,Mon Aug 31 18:00:22 +0000 2015,RT @ApacheAurora: From #MesosCon: "Twitter's Production Scale: Mesos and Aurora Operations" presented by @Yasumoto https://t.co/LMR5s2cS77
+638400870804099100,Mon Aug 31 17:20:03 +0000 2015,RT @finagle: Finagle 6.28.0 and Scrooge 4.0.0 are available now! Blog post about what's new in Scrooge coming soon. https://t.co/cqgXoEbr1T
+637295700468895700,Fri Aug 28 16:08:30 +0000 2015,RT @twitter: We’re setting new diversity goals, and making them public: https://t.co/YK1bCVs24j
+636621475655520300,Wed Aug 26 19:29:22 +0000 2015,RT @ApacheMesos: The official YouTube playlist of #MesosCon 2015 keynotes and sessions is now online: https://t.co/FgIuNwNnDt, expect more …
+636584206114517000,Wed Aug 26 17:01:16 +0000 2015,RT @TwitterUK: Calling all developers! Interested in joining our growing UK Engineering team? https://t.co/wPy76PGFKH http://t.co/DZdmGStu7c
+636241403857629200,Tue Aug 25 18:19:06 +0000 2015,RT @TwitterOSS: Join the Messaging User Group &amp; @asfbookkeeper community for a meetup 9/21. Talks from Twitter, Confluent, and Yahoo https:…
+635880749120426000,Mon Aug 24 18:25:59 +0000 2015,RT @ApacheMesos: The CFP for #MesosCon Europe has been extended &amp; will be open through Friday, August 28th! Submit a talk and join us http:…
+631559358820716500,Wed Aug 12 20:14:19 +0000 2015,We’re excited to be hosting the first annual #FinagleCon on August 13 and hope to see you there! https://t.co/EAuhA8aLnF
+628943398385291300,Wed Aug 05 14:59:26 +0000 2015,RT @ApacheMesos: Announcing #MesosCon Europe! Join us this October in Dublin, the CFP and early-bird registration are open today http://t.c…
+628663052217352200,Tue Aug 04 20:25:26 +0000 2015,Stop by Mandalay Bay L on August 6 at 11:00am &amp; 12:10pm to hear from @twittersecurity. #BlackHat #BHUSA http://t.co/VTwJsJoT1S
+628241408936144900,Mon Aug 03 16:29:58 +0000 2015,RT @TwitterOSS: 10 days until @FinagleCon #scala http://t.co/SKXRf2EryT http://t.co/BWaD5T4Mbe
+627234650885193700,Fri Jul 31 21:49:28 +0000 2015,We’re excited to sponsor &amp; participate in #MesosCon again, we hope to see you there: https://t.co/T5eSIASRfa
+626417295485632500,Wed Jul 29 15:41:36 +0000 2015,RT @ApacheMesos: Register for @MesosCon by 7/31 and save $100, the conference is less than a month away! http://t.co/KZYAu33MZz #Mesos
+626130886249943000,Tue Jul 28 20:43:30 +0000 2015,RT @finagle: Join us at @TwitterSF for #FinagleCon on August 13 to hear @marius, @pcalcado, and many others talk about Finagle: https://t.c…
+624410890809446400,Fri Jul 24 02:48:52 +0000 2015,RT @twitter: Congratulations @GirlsWhoCode graduates!  https://t.co/8YEB1TUoNK
+624392209094172700,Fri Jul 24 01:34:37 +0000 2015,Excited to have @periscopeco's @pandemona speaking at tonight's  @GirlsWhoCode graduation. http://t.co/845sWfHG1x
+623965376573931500,Wed Jul 22 21:18:33 +0000 2015,RT @TwitterOSS: we are happy to officially join and support the Open Container Initiative at #OSCON https://t.co/3iNpE6pYVg
+623195545998266400,Mon Jul 20 18:19:31 +0000 2015,RT @TwitterOSS: we are happy to adopt and support the #OpenCodeOfConduct, we hope others consider adopting the code of conduct! https://t.c…
+622165651793154000,Fri Jul 17 22:07:05 +0000 2015,RT @TwitterOSS: happy #WorldEmojiDay day, check out our free and open source emoji set on @github: #twemoji https://t.co/RadG5MSRc1 http://…
+621746651733061600,Thu Jul 16 18:22:07 +0000 2015,RT @finagle: We've just published the program for the first #FinagleCon! More about the lightning talks and other details soon— https://t.c…
+620727708251590700,Mon Jul 13 22:53:12 +0000 2015,RT @ApacheMesos: Announcing events and social activities before and during #MesosCon. Pre-conference hackathon! 🔨Party! 🎉Meetup! 📣 http://t…
+619226345185378300,Thu Jul 09 19:27:20 +0000 2015,One year in, an interview with @aroetter, our Head of Engineering: http://t.co/FgREKmiQGx
+616680579287896000,Thu Jul 02 18:51:22 +0000 2015,RT @finagle: Want to speak at #FinagleCon next month? If so you're in luck!—we've extended the CFP deadline through next Tuesday: https://t…
+616328681321971700,Wed Jul 01 19:33:03 +0000 2015,RT @ApacheMesos: New blog post: #MesosCon Seattle 2015 keynote speakers announced (and other conference announcements) http://t.co/kmpDSx18…
+613754601376907300,Wed Jun 24 17:04:34 +0000 2015,We're excited to be recognized once again by the Online Trust Alliance (@otalliance): https://t.co/MwO0MFilsS
+611569140713656300,Thu Jun 18 16:20:20 +0000 2015,RT @finagle: Join us next Tuesday (June 23) for a Finch and Finatra hack night at Twitter HQ! http://t.co/6nQvg1MQkU
+611202260907864000,Wed Jun 17 16:02:29 +0000 2015,We’ve acquired @whetlab to accelerate Twitter’s machine learning efforts. https://t.co/wGXuHUc36a
+610576482402992100,Mon Jun 15 22:35:52 +0000 2015,RT @womeng: Graduation day for our 2nd @GirlsWhoCode Club in @TwitterNYC. Congratulations! You ladies are amazing! http://t.co/7hbDFd1bV5
+608988328126353400,Thu Jun 11 13:25:06 +0000 2015,RT @FinagleCon: Join us at @ScalaByTheBay on August 13 for the first annual #FinagleCon! Registration and CFP are open today: https://t.co/…
+606262641825214500,Thu Jun 04 00:54:12 +0000 2015,RT @JoinTheFlock: Building a world class team @TwitterIndia #insidetwitter #lovewhereyouwork http://t.co/JWrhjyPsYr
+605784012599132200,Tue Jun 02 17:12:18 +0000 2015,Introducing Heron: a new real-time analytics platform at Twitter scale. Check it out: https://t.co/VWPYkStNMG
+603645867548090400,Wed May 27 19:36:04 +0000 2015,RT @TwitterDev: Excited for #io15? We're celebrating by open sourcing Twitter Kit and Digits for #Android! https://t.co/WgN3nwk0F9 http://t…
+601465317672357900,Thu May 21 19:11:21 +0000 2015,Learn about the @ApacheParquet v1.7 release and its graduation from @TheASF incubator: https://t.co/HviMNQOXD0 #hadoop
+600421091543121900,Mon May 18 22:01:58 +0000 2015,RT @scalding: Scalding 0.14.0 is released: https://t.co/U02r2Qiuac bug fix for skewJoin in the Fields API, and a few new features (TypedPip…
+598548788391714800,Wed May 13 18:02:06 +0000 2015,We're hosting a tech talk @TwitterSeattle next week. Come join us! RSVP here: https://t.co/M2YrjhbfCf
+592739378423799800,Mon Apr 27 17:17:35 +0000 2015,RT @TheASF: The Apache Software Foundation Announces @ApacheParquet as a Top-Level Project http://t.co/aB4LWEz6jr #Apache #storage @Hadoop …
+591645520365363200,Fri Apr 24 16:50:58 +0000 2015,Now trending! Check out how we revamped trends and rewrote the entire trends backend system. https://t.co/cdrhWvgHoe
+588789585745870800,Thu Apr 16 19:42:31 +0000 2015,We’re sharing updates on how we use MySQL &amp; our plans to open source Mysos, a new MySQL on Apache Mesos framework. https://t.co/mR5TQflGYq
+588385344422158300,Wed Apr 15 16:56:12 +0000 2015,Check out Vine's new Engineering Blog! First post explains how Vines infinitely loop on iOS. http://t.co/1ikG4wANq7
+575750861978124300,Wed Mar 11 20:11:17 +0000 2015,RT @kpcb: Amazing podcast with some engineering greats from @Twitter, @google, @Airbnb, and @kpcb. Must listen: http://t.co/AitbK2IW5x #eng…
+570676794304663550,Wed Feb 25 20:08:45 +0000 2015,RT @TwitterDev: Announcing the official Twitter plugin for @WordPress.  https://t.co/tTBnIb4nr4 http://t.co/rPoiI46BB2
+567777502358024200,Tue Feb 17 20:08:00 +0000 2015,Answers now handles five billion mobile app sessions a day, in real time. See how it's done: https://t.co/Gr7bwqXuc6
+565920635126165500,Thu Feb 12 17:09:28 +0000 2015,We're excited to announce the 0.7.0 release of @ApacheAurora and share the story of Aurora: https://t.co/UJKfobV92q
+562696248550236160,Tue Feb 03 19:36:54 +0000 2015,RT @ApacheAurora: Bay Area: join us for an Aurora meet up Thursday, Feb 19th! Hear about Docker+Mesos, Aurora at Twitter, and more! http://…
+556181823399534600,Fri Jan 16 20:10:54 +0000 2015,Check out our VP of Engineering @aroetter’s advice on how to develop engineering talent, shared at a @kpcb meetup: http://t.co/xsBLMayq9B
+555830578268745700,Thu Jan 15 20:55:11 +0000 2015,RT @ApacheMesos: .@MesosCon early-bird registration is now open to the first 140 attendees! Join us! http://t.co/LcIclfttgq More info: http…
+555781819283431400,Thu Jan 15 17:41:26 +0000 2015,RT @TwitterOSS: check out our free "Real-Time Analytics with @stormprocessor" course we developed at @udacity https://t.co/SZZKQf8Vd1 #d3js…
+552515138444869600,Tue Jan 06 17:20:48 +0000 2015,Today, we're open sourcing our AnomalyDetection R Package. Learn more: https://t.co/kLliNK42CQ #TimeSeries http://t.co/aVZiwkqqDd
+539912235879903200,Tue Dec 02 22:41:22 +0000 2014,RT @scalding: The @scalding team is very excited to release version 0.12: https://t.co/GGcY0brY2a — Better joining and a new way to compose…
+535854182360576000,Fri Nov 21 17:56:07 +0000 2014,RT @ApacheMesos: Announcing the release of #Mesos 0.21.0, featuring state reconciliation, modules, and new container isolators http://t.co/…
+534763087757189100,Tue Nov 18 17:40:30 +0000 2014,We're rolling out the ability to search for every Tweet ever published. Learn about how we built this https://t.co/KhbgVHZtYE #TwitterSearch
+530512097462194200,Fri Nov 07 00:08:35 +0000 2014,RT @TwitterOSS: today we are open sourcing our emoji to share with everyone #twemojiparty 🎉 😜 👯 🍻 🎈 🎤 🎮 🚀 🌉 ✨ https://t.co/zkXqMXEkOT
+527964960605749250,Thu Oct 30 23:27:10 +0000 2014,RT @finagle: New post by @travisbrown about named entity recognition example project, upcoming improvements to finagle-example: https://t.c…
+525753735470141440,Fri Oct 24 21:00:33 +0000 2014,Excited to open source the BreakoutDetection R package. No more undetected breakouts! #RobustStastitics  https://t.co/iJiJGrUumN
+517383625432916000,Wed Oct 01 18:40:43 +0000 2014,We're excited to invest in @MIT's Laboratory for Social Machines. Learn more: https://t.co/WHeAYPC3IJ
+513068813751836700,Fri Sep 19 20:55:12 +0000 2014,Celebrating a year of @flightjs https://t.co/eLWdrS4jMq
+511917751829422100,Tue Sep 16 16:41:17 +0000 2014,RT @TwitterOSS: say hello to @pantsbuild: some history and background on a build technology for large unified codebases https://t.co/9a2eBh…
+506879478300020740,Tue Sep 02 19:00:59 +0000 2014,RT @TwitterOSS: From #MesosCon: "State of @ApacheMesos 2014" keynote http://t.co/pKlLPA81qc
+506862058365657100,Tue Sep 02 17:51:46 +0000 2014,Pushing our limits - reliability testing @Twitter. https://t.co/tJ4wUmQMOS
+505416289175613440,Fri Aug 29 18:06:48 +0000 2014,Distributing the all-pairs similarity problem at Twitter, with DIMSUM. https://t.co/warbzhwjYK
+504663165087399940,Wed Aug 27 16:14:09 +0000 2014,We’re pleased to announce our participation in the new IEEE Center for Secure Design. https://t.co/VVNPabkUhQ
+504016090591424500,Mon Aug 25 21:22:54 +0000 2014,We spent our summer participating in @gsoc and @fossopw. Here are our results! https://t.co/gkkdOvK1hG
+502192678105542660,Wed Aug 20 20:37:19 +0000 2014,How we fight spam with Botmaker. https://t.co/AwLgHmu8sI
+497851135625932800,Fri Aug 08 21:05:35 +0000 2014,Our engineering teams are growing around the world. Learn about two #ScalingTwitter events held in Dublin &amp; the UK: https://t.co/MxRbmoKsmn
+497564941826523140,Fri Aug 08 02:08:21 +0000 2014,Our very own @dickc and @mayoredlee speaking at tonight's @GirlsWhoCode graduation. #GWCTwitter http://t.co/IcLhlPgZFI
+497558302188773400,Fri Aug 08 01:41:58 +0000 2014,Very proud to be a part of @GirlsWhoCode again this summer. These girls are inspiring! #GWCTwitter https://t.co/zMwG5AQJKC
+496324742823952400,Mon Aug 04 16:00:14 +0000 2014,RT @ApacheMesos: #MesosCon, the first-ever Apache #Mesos conference is only three weeks away! Register today: http://t.co/aXdH8QnsRy
+494895829556002800,Thu Jul 31 17:22:15 +0000 2014,Welcome to the flock, @mitroco!
+482569470645268500,Fri Jun 27 17:01:42 +0000 2014,On TSAR (TimeSeries AggregatoR) — how and why we built it, and the massive real-time scalability challenge it solves https://t.co/V90juH6jBF
+479718882022662140,Thu Jun 19 20:14:28 +0000 2014,We're hosting a #NettyMeetup in July to bring together the @netty_project community. http://t.co/iHoPN64mVu
+477490408503509000,Fri Jun 13 16:39:19 +0000 2014,RT @AllThingsMesos: Mesos gods @benh and @vinodkone talk about @ApacheMesos and open source in this killer video. https://t.co/OjJSz9ijFH
+477172160855683100,Thu Jun 12 19:34:43 +0000 2014,RT @TwitterOSS: new @ApacheMesos release: v0.19! introduces alpha support for custom container technologies http://t.co/JAqWnw5VoH http://t…
+476863084150001660,Wed Jun 11 23:06:33 +0000 2014,We're happy to announce the #MesosCon program which now includes a hackathon. Register today!  http://t.co/qbO606htP5
+462287172255494140,Fri May 02 17:47:05 +0000 2014,We collaborated with Stanford researchers to model how Tweets can help create more accurate ShakeMaps https://t.co/WcZl0N5OPy
+459058789631541250,Wed Apr 23 19:58:39 +0000 2014,Thanks to everyone who participated in our @reddit_AMA. Great questions about open source. Check it out: http://t.co/POLRPMg5VF
+459023808582537200,Wed Apr 23 17:39:38 +0000 2014,RT @TwitterOSS: our twitter open source AMA is starting #twitterama http://t.co/DplIp85AHU
+458997653506760700,Wed Apr 23 15:55:43 +0000 2014,Don't forget to join our open source team for our first @reddit_AMA today! We'll be starting at 10:30AM PT. http://t.co/YWmYVe0Y6R
+458754998029930500,Tue Apr 22 23:51:29 +0000 2014,RT @TwitterOSS: Join us tomorrow for a @reddit_AMA at 10:30AM PST that's all about open source at Twitter: @ApacheMesos @scalding @finagle …
+456927509376815100,Thu Apr 17 22:49:42 +0000 2014,Learn about the Reactive Streams initiative &amp; how we're supporting a standard for asynch stream processing on the JVM http://t.co/5wUF0PjTBe
+456863877364330500,Thu Apr 17 18:36:51 +0000 2014,We're thrilled to announce that we have selected six institutions to be a part of Twitter #DataGrants. https://t.co/Z4SMLDu7ln
+451382105776209900,Wed Apr 02 15:34:14 +0000 2014,Twitter has unique &amp; intensive storage requirements. We built a database that meets those requirements &amp; more. https://t.co/GFjWgjh7WS
+449203821240004600,Thu Mar 27 15:18:31 +0000 2014,We're excited to join the #WebScaleSQL initiative to collaborate and improve MySQL at scale. https://t.co/HlBV3jV4rY
+445625118035697660,Mon Mar 17 18:18:02 +0000 2014,Students! Spend your summer hacking with us and #GSOC. Check out our ideas page for more info. https://t.co/9jBn4RxaQA
+444540966523789300,Fri Mar 14 18:30:00 +0000 2014,FYI: You have one more day to apply for the first round of Twitter #DataGrants https://t.co/NsunacxLrX
+444157372529782800,Thu Mar 13 17:05:44 +0000 2014,Since mid-January, we've been protecting emails from Twitter using TLS. Read more: https://t.co/kp6zfewygB
+443881346189242400,Wed Mar 12 22:48:54 +0000 2014,Thanks for coming out, everyone. #jointheflock “@university: Standing room only at #TwitterBoston Open House! http://t.co/gwCwKvND5D”
+443117629884989440,Mon Mar 10 20:14:10 +0000 2014,Using __attribute__ directives properly in Objective-C can be a helpful tool. Learn how: https://t.co/0H5T0I51k2
+439208684883681300,Fri Feb 28 01:21:25 +0000 2014,Do you [[NSObject alloc] init]? Learn all about Objective-C initializer patterns in our latest how-to: https://t.co/MyFqkpCVsh
+436201201906888700,Wed Feb 19 18:10:45 +0000 2014,RT @womeng: We're thrilled to be hosting @girlswhocode summer programs again this year. 10th &amp; 11th grade girls: apply by Feb 27 http://t.c…
+434014775270322200,Thu Feb 13 17:22:40 +0000 2014,Learn more about how we use #Netty and @Finagle at Twitter: https://t.co/h7oGiSasQ1 http://t.co/urpCzjjXZK
+433385413894357000,Tue Feb 11 23:41:49 +0000 2014,The @ApacheMesos team has released their latest version 0.16.0, featuring improved reliability and flexibility http://t.co/XYXhvriWzU #Mesos
+431208322809622500,Wed Feb 05 23:30:50 +0000 2014,Twitter Data Grants: A pilot program to give researchers access to public and historical data. Learn more https://t.co/kj0QqZGqqg
+426166096475852800,Thu Jan 23 01:34:49 +0000 2014,RT @geekwire: Photos: A look inside Twitter’s new Seattle engineering office http://t.co/59UxVSjgZV
+421454491263578100,Fri Jan 10 01:32:35 +0000 2014,We're pleased to report that we've added initial authentication support for frameworks connecting to Mesos. https://t.co/hh7XjQnlNb
+418845833543434240,Thu Jan 02 20:46:43 +0000 2014,"I always think about how to deliver three things: autonomy, mastery &amp; purpose." -@chfry on managing @twittereng http://t.co/6nWtjksia2
+416669149658488800,Fri Dec 27 20:37:21 +0000 2013,We are having an open house to talk about Build tools and general developer productivity. Come visit! http://t.co/qLwXoFxTRp
+413747135562383360,Thu Dec 19 19:06:18 +0000 2013,RT @TwitterOSS: Introducing CocoaSPDY: SPDY for iOS and OS X https://t.co/pnARPMtuGJ
+411575961012805600,Fri Dec 13 19:18:50 +0000 2013,Want to learn about engineering at Twitter? Check out our new site with info about @university @TwitterOSS and more: http://t.co/oEmYlYDquC
+409417387004293100,Sat Dec 07 20:21:26 +0000 2013,RT @womeng: .@dickc "If you focus on what you want to do and what you are passionate about, you will make an impact." #CHIMEHACK http://t.c…
+408817866738114560,Fri Dec 06 04:39:09 +0000 2013,Our very own @adam_messinger kicking off #chimehack http://t.co/SAPmI9Xt8U
+404002292317179900,Fri Nov 22 21:43:47 +0000 2013,RT @twittersecurity: Forward secrecy is just the latest way in which Twitter is trying to defend and protect the user’s voice. https://t.co…
+400675317297061900,Wed Nov 13 17:23:34 +0000 2013,Learn how @TwitterMobile Android &amp; @Crashlytics teams scale #AndroidDev - Today at #AnDevCon #FireSideChat. Ask questions to #AnDevAtTwitter
+399999965063180300,Mon Nov 11 20:39:57 +0000 2013,Learn about slave recovery in the latest release of @ApacheMesos https://t.co/Hg0T6j0Kys
+393836198461845500,Fri Oct 25 20:27:21 +0000 2013,RT @TwitterOSS: "Twitter @university on YouTube" https://t.co/fivBf2qsAP
+393477874918776800,Thu Oct 24 20:43:30 +0000 2013,RT @TwitterOSS: Join us for a @Docker workshop/meetup at the @twoffice on Nov 5th https://t.co/ke1o1DB9Kr
+390152450767728640,Tue Oct 15 16:29:27 +0000 2013,Learn about how migrating to @netty_project 4 made our garbage collection more efficient: https://t.co/50uSgxieXc
+385081537042997250,Tue Oct 01 16:39:27 +0000 2013,We worked with 3 amazing students as a part of the Google Summer of Code. Check out their projects here: https://t.co/VQZYFythCR
+382912732476882940,Wed Sep 25 17:01:24 +0000 2013,"Java and Scala let Twitter readily share and modify its enormous codebase across a team of hundreds of developers." http://t.co/SvrZyeaSCL
+377833032436441100,Wed Sep 11 16:36:29 +0000 2013,Learn about @ParquetFormat in depth and columnar storage in this blog post https://t.co/rYm87OS99f
+377200899757588500,Mon Sep 09 22:44:37 +0000 2013,Learn how our Observability team captures, stores, queries &amp; visualizes the health &amp; performance of our services. https://t.co/J5mDvloYdy
+374929543439458300,Tue Sep 03 16:19:03 +0000 2013,We just open sourced @summingbird, streaming mapreduce with @scalding and @stormprocessor https://t.co/iLgkUEiUA7
+372410417307717600,Tue Aug 27 17:28:57 +0000 2013,RT @twu: TONIGHT: Don't miss @pandemona talk about the inspiration &amp; development of @vineapp for Android! http://t.co/sn8eZCtkJS
+370678660040101900,Thu Aug 22 22:47:34 +0000 2013,Learn about the accessibility improvements our @a11yteam has made for timelines on http://t.co/aPN62RjZeb http://t.co/Hr98DkMPfb
+370330390218555400,Wed Aug 21 23:43:40 +0000 2013,RT @SirPatStew: Delighted to have been invited to The Mothership--Twitter HQ. @twoffice Thank you everyone for the hospitality.
+370330330193870850,Wed Aug 21 23:43:25 +0000 2013,RT @twitter: Twitter... The final frontier? These are the voyages of @SirPatStew. https://t.co/a8IMWz7f9w
+368508567092875260,Fri Aug 16 23:04:23 +0000 2013,An inside (and detailed) look at re-architecting Twitter. Plus, a new Tweets-per-second peak: 143,199 Tweets. https://t.co/LKH4UdScFi
+368065872876683260,Thu Aug 15 17:45:17 +0000 2013,Congrats, @GirlsWhoCode grads! It was a pleasure to host such a great, inspiring group of young women this summer. http://t.co/fLTThIn1zp
+368051891298525200,Thu Aug 15 16:49:43 +0000 2013,Live near New York City? Join us August 20th for the NYC @ApacheMesos meetup! https://t.co/lfMKVYRpRc
+367356126121046000,Tue Aug 13 18:45:00 +0000 2013,RT @twu: To help @TwitterEng continue to develop their skills, we’ll offer technical classes like Android Internals and Python Bootcamp.
+367352712771280900,Tue Aug 13 18:31:26 +0000 2013,RT @twu: We want Twitter to be the best place in the world for engineers to work. Announcing Twitter University: https://t.co/q101ZuYAAZ
+366990156353384450,Mon Aug 12 18:30:46 +0000 2013,We've been exploring ways to provide greater transparency across our teams. Learn more about our process here: https://t.co/njrKMbomNk
+364815515149017100,Tue Aug 06 18:29:31 +0000 2013,"Login verification is more secure and easier to use. And you can still sign in even if you lose your phone." https://t.co/ovc1etOs41
+362997635310825500,Thu Aug 01 18:05:55 +0000 2013,On Twitter's move to the Java Virtual Machine: http://t.co/sZd4dFmS8Q "Reliability and performance are huge goals for us" -@rgbenson
+362337842975875100,Tue Jul 30 22:24:08 +0000 2013,RT @JoinTheFlock: We've opened an office in Sunnyvale &amp; are hiring for a variety of positions. Here's one of them: https://t.co/KEIyUqDA3n …
+362269798966640640,Tue Jul 30 17:53:45 +0000 2013,The @ParquetFormat team released 1.0: Columnar Storage for #Hadoop https://t.co/4BWFXJtGfZ
+362029711997677600,Tue Jul 30 01:59:44 +0000 2013,RT @TwitterOSS: Check out the @ParquetFormat July Meetup we're hosting on Tuesday evening with our friends at @cloudera #hadoop http://t.co…
+360056787443007500,Wed Jul 24 15:20:02 +0000 2013,We're happy to announce that @ApacheMesos graduated from incubation at @TheASF https://t.co/WqwB0Ni9Qn
+355008114287837200,Wed Jul 10 16:58:24 +0000 2013,Join us July 25th for a meetup about building &amp; running frameworks on @ApacheMesos including Jenkins &amp; #Hadoop. RSVP: http://t.co/ziZd7jqLwa
+349930634220802050,Wed Jun 26 16:42:19 +0000 2013,Inside the Hacker Mind: Twitter's @marius on Finagle http://t.co/2Wp979F3mj
+349920278068985860,Wed Jun 26 16:01:10 +0000 2013,hRaven and the @HadoopSummit https://t.co/FRPDxF1wDk
+347755042780090400,Thu Jun 20 16:37:17 +0000 2013,Zippy Traces with @ZipkinProject in your Browser: https://t.co/jcC9fae9ad
+347402645033611260,Wed Jun 19 17:16:59 +0000 2013,Today, we are open-sourcing Libcrunch, a piece of technology behind our in-house photo storage system. Learn more: https://t.co/ywYHthQpYR
+342737373123194900,Thu Jun 06 20:18:52 +0000 2013,CSP to the Rescue: Leveraging the Browser for Security https://t.co/iTt9toLXxQ
+340113549865127940,Thu May 30 14:32:43 +0000 2013,Mobile app development: Catching crashers -- how we used detailed data from @Crashlytics to diagnose and fix bugs. http://t.co/EW6h49iVdm
+340112748061003800,Thu May 30 14:29:32 +0000 2013,RT @crashlytics: It's Finally Here. Announcing Crashlytics for Android. http://t.co/lsVY6vwnkO
+334839856440156160,Thu May 16 01:16:57 +0000 2013,RT @purekate: The captivated crowd listening to @sandofsky during #twittermobile http://t.co/Diijn6wlod
+332555505849487360,Thu May 09 17:59:45 +0000 2013,Welcome to the flock. “@ubalo: We've got some exciting news: The Ubalo team is joining Twitter. Read more: http://t.co/Ti1QWWX3Hu.”
+329272464674795500,Tue Apr 30 16:34:07 +0000 2013,Summer of Code projects at Twitter span multiple programming languages &amp; open source communities. Read more: http://t.co/8o2xMlzMy4
+327110072108986400,Wed Apr 24 17:21:33 +0000 2013,Attention students: our Summer of Code ideas page is now live. Apply if you're eligible! #gsoc https://t.co/xQM80I3Zqr
+324558414011322400,Wed Apr 17 16:22:10 +0000 2013,RT @raffi: my final slide from my @twitterseattle talk - "our engineering journey is only just starting. #jointheflock" http://t.co/bgJU ...
+319116318076989440,Tue Apr 02 15:57:13 +0000 2013,"Thanks for inspiring new ideas and motivating us to build this week." - @raffi #hackweek http://t.co/042taDWOEa
+313708997167419400,Mon Mar 18 17:50:28 +0000 2013,RT @TweetDeck: Our use of the Flight JavaScript framework in TweetDeck http://t.co/G9sRrGHgJY
+312628509128400900,Fri Mar 15 18:16:59 +0000 2013,We're at #PyCon -- booth #169. If you're there too, swing by our booth and take our coding challenge. cc @JoinTheFlock
+308997786785951740,Tue Mar 05 17:49:47 +0000 2013,“Mesos makes it easier for Twitter engineers to think about running their applications across a data center." - @benh http://t.co/tRBnFTZhUt
+308997403124568060,Tue Mar 05 17:48:16 +0000 2013,RT @TwitterOSS: love twitter, distributed systems and open source? we're looking for an open source advocate to join our team! https://t ...
+308996761047924740,Tue Mar 05 17:45:43 +0000 2013,RT @raffi: sitting at the @twitterNYC eng all-hands. the teams here (platform services, and discover) are really growing.
+307222708406583300,Thu Feb 28 20:16:16 +0000 2013,We're open-sourcing Hosebird Client to provide a robust Java HTTP library for consuming Twitter's Streaming API. http://t.co/a73PDm8fBs
+304047504092196860,Wed Feb 20 01:59:08 +0000 2013,We open sourced typeahead.js today. Learn more in our blog post: Twitter Typeahead.js: You Autocomplete Me http://t.co/p6d32IUH
+299243384416137200,Wed Feb 06 19:49:17 +0000 2013,New Twitter search results http://t.co/SBqmPn3S
+297026024070340600,Thu Jan 31 16:58:17 +0000 2013,Introducing Flight: a web application framework http://t.co/cAGvp5yN
+296037828251484160,Mon Jan 28 23:31:33 +0000 2013,Braindump http://t.co/9F7yVK3f
+296037828251484160,Mon Jan 28 23:31:33 +0000 2013,Braindump http://t.co/9F7yVK3f
+292004336836440060,Thu Jan 17 20:23:53 +0000 2013,RT @cra: we're growing our open source efforts at twitter and looking for an advocate, come @jointheflock and work with me! http://t.co/ ...
+288750244974428160,Tue Jan 08 20:53:17 +0000 2013,Improving Twitter search with real-time human computation http://t.co/zCLn7z8q
+282248147118473200,Fri Dec 21 22:16:16 +0000 2012,Right-to-left support for Twitter Mobile http://t.co/Q3z0OYE7
+281826372324843520,Thu Dec 20 18:20:17 +0000 2012,How our photo filters came into focus http://t.co/UOjIaBwv
+279278833859977200,Thu Dec 13 17:37:17 +0000 2012,Class project: “Analyzing Big Data with Twitter” http://t.co/ZN5pT5Ye
+278603884665131000,Tue Dec 11 20:55:16 +0000 2012,Blobstore: Twitter’s in-house photo storage system http://t.co/w1FQhjcu
+277115521193877500,Fri Dec 07 18:21:03 +0000 2012,Implementing pushState for http://t.co/NOm7nNl9 http://t.co/g3X6zUAV
+276879044887343100,Fri Dec 07 02:41:23 +0000 2012,RT @ruslansv: Great to see so many exciting hacks from @ucberkeley students @twitter #ucbtwitterdemos @ucbtweeter
+276150656140705800,Wed Dec 05 02:27:01 +0000 2012,Twitter and SMS Spoofing http://t.co/2BaZFEvf
+269225906726375420,Thu Nov 15 23:50:32 +0000 2012,Discover with a new lens: Twitter cards http://t.co/tj4aRbQp
+268111562160627700,Mon Nov 12 22:02:32 +0000 2012,Dimension Independent Similarity Computation (DISCO) http://t.co/VWVf0gpF
+266366843579678720,Thu Nov 08 02:29:39 +0000 2012,RT @raffi: want to work on large scale? "Of course, we still have plenty more to do." #JoinTheFlock http://t.co/cEoSgiip
+266264767440760830,Wed Nov 07 19:44:02 +0000 2012,Bolstering our infrastructure http://t.co/L5aMybSV
+256443428563480580,Thu Oct 11 17:17:32 +0000 2012,Open Sourcing Clutch.IO http://t.co/7k9NHJa8
+250280188095635460,Mon Sep 24 17:07:01 +0000 2012,Scalding 0.8.0 and Algebird http://t.co/C2ysYHJ7
+245623775092154370,Tue Sep 11 20:44:06 +0000 2012,The @Twitter &amp; @Etsy Engineer Exchange Program: http://t.co/LOL2YjVe
+240164787428941820,Mon Aug 27 19:12:02 +0000 2012,Joining the Linux Foundation http://t.co/3yKMdCFJ
+239743791551098880,Sun Aug 26 15:19:08 +0000 2012,Want to learn about how we build Twitter for a global userbase? Interested in localization? Look no further! http://t.co/52HLaOIg
+239083982665433100,Fri Aug 24 19:37:18 +0000 2012,How we spent our Summer of Code http://t.co/kLrkUp94
+236147443606122500,Thu Aug 16 17:08:32 +0000 2012,Crowdsourced data analysis with Clockwork Raven http://t.co/99hyAZKD
+235775724517224450,Wed Aug 15 16:31:27 +0000 2012,RT @raffi: we're growing @twittereng's geo platform team based out of @twitterNYC! interested in working on geo at a crazy scale? ping m ...
+235032758211203070,Mon Aug 13 15:19:10 +0000 2012,Interested in big data &amp; machine learning? Join us on 8/22 for an open house &amp; tech talks at our HQ! http://t.co/FWo2vAnr #twitterdsml
+232904195865473020,Tue Aug 07 18:21:02 +0000 2012,Visualizing Hadoop with HDFS-DU http://t.co/VxRTjwEC
+231074388370419700,Thu Aug 02 17:10:02 +0000 2012,Trident: a high-level abstraction for realtime computation http://t.co/mbDBgjMU
+230735783747788800,Wed Aug 01 18:44:32 +0000 2012,TwitterCLDR: Improving Internationalization Support in Ruby http://t.co/MztH4HvY
+227846997409923070,Tue Jul 24 19:25:32 +0000 2012,Heading to #blackhat or #defcon? Say hi to some of our security peeps when you see 'em: @boblord @netik @moxie @tf @jimio @gerryeisenhaur
+224917327836221440,Mon Jul 16 17:24:04 +0000 2012,We're hosting an engineering open house with @TwitterOSS! Check it out and spread the word: http://t.co/ZTvOPahA #rtsoss
+222788036944085000,Tue Jul 10 20:23:01 +0000 2012,Caching with Twemcache http://t.co/YVTlnvuW
+218046401500823550,Wed Jun 27 18:21:27 +0000 2012,In case you missed it yesterday, we're working with @GirlsWhoCode to empower young women to pursue careers in tech: http://t.co/TULDIpXy
+218041218087653380,Wed Jun 27 18:00:52 +0000 2012,Miss our talks at #VelocityConf yesterday? Be sure to come by our booth in the exhibit to meet our team!
+217321767377698800,Mon Jun 25 18:22:01 +0000 2012,Building and profiling high performance systems with Iago http://t.co/Mvofqy7r
+214809827526967300,Mon Jun 18 20:00:28 +0000 2012,From @gigaom: Twitter slowly unfolding its search ambitions http://t.co/rbwz26Bi
+212915297441689600,Wed Jun 13 14:32:17 +0000 2012,Twitter at the Hadoop Summit http://t.co/gwt11NDb
+210776893094494200,Thu Jun 07 16:55:02 +0000 2012,Distributed Systems Tracing with Zipkin http://t.co/xooOfh0b
+209705666745614340,Mon Jun 04 17:58:21 +0000 2012,Hello, Seattle, home to such great engineering talent. We're excited to move into a small shared office here. #jointheflock
+209699794187321340,Mon Jun 04 17:35:01 +0000 2012,Studying rapidly evolving user interests http://t.co/Akkl8ftY
+208717355440799740,Sat Jun 02 00:31:09 +0000 2012,We're going to reschedule our @twittermobile open house for later this month. Stay tuned for an update. Apologies for the inconvenience!
+208609149926379520,Fri Jun 01 17:21:11 +0000 2012,RT @ryfar: Heading to #WWDC2012? Join the @TwitterMobile team for tech talks and beer on June 11! Details here: http://t.co/wmvTQlY4
+207584673503776770,Tue May 29 21:30:17 +0000 2012,Improving performance on http://t.co/NOm7nNl9 http://t.co/KS4TdsQ3
+206058883171622900,Fri May 25 16:27:20 +0000 2012,Hey NY - join us for an engineering open house with our Platform Services team on June 6th! http://t.co/2cVZ7fCW #twitterengyc
+202811786880225280,Wed May 16 17:24:32 +0000 2012,Visualize Data Workflows with Ambrose http://t.co/1cxBknwI
+202803665189343230,Wed May 16 16:52:16 +0000 2012,Headed to @acmsigmod2012 next week? We'll be there, so be sure to come meet our team and find out more about how to @jointheflock! #sigmod12
+201018470022905860,Fri May 11 18:38:32 +0000 2012,Related Queries and Spelling Corrections in Search http://t.co/FRtD9wM7
+200626887876296700,Thu May 10 16:42:32 +0000 2012,Incubating Apache Mesos http://t.co/qphzrU0j
+197826915556532220,Wed May 02 23:16:26 +0000 2012,We hosted 120 engineers at an engineering open house at our UK office last week. Read about it on our @twitterUK blog: http://t.co/KwNYPAkX
+197737223314092030,Wed May 02 17:20:02 +0000 2012,Summer of Code at Twitter http://t.co/VTAKzSdp
+197361891629219840,Tue May 01 16:28:36 +0000 2012,Discover: Improved personalization algorithms and real-time indexing http://t.co/IhKsUQyW
+193474182091243520,Fri Apr 20 23:00:14 +0000 2012,Closing out #hackweek with demos. And, a viewing of our Code Class video http://t.co/ygD9j4VS. / cc @jointheflock
+193401831861403650,Fri Apr 20 18:12:44 +0000 2012,RT @chanian: DemoDay for Twitter hackweek in action. http://t.co/XjpRaH1V
+193278632943296500,Fri Apr 20 10:03:11 +0000 2012,Sponsoring the Apache Foundation http://t.co/VDxNVPVm
+193039730651316220,Thu Apr 19 18:13:52 +0000 2012,Open source is a big part of Twitter. As part of our commitment to open source, we are sponsoring @theASF http://t.co/VDxNVPVm #opensource
+192307295680593920,Tue Apr 17 17:43:26 +0000 2012,RT @amac: Why #ipa? "It is important to some engineers &amp; designers and we want to be the best place for innovators to work." - @adam ...
+192304476877619200,Tue Apr 17 17:32:14 +0000 2012,RT @adam_messinger: Excited to announce the Innovator's Patent Agreement and put control back in the hands of engineers and designers. h ...
+192297448625020930,Tue Apr 17 17:04:19 +0000 2012,Introducing the Innovator’s Patent Agreement http://t.co/rwuOiqZh
+190862945331314700,Fri Apr 13 18:04:06 +0000 2012,RT @womeng: What are you doing next Tuesday? Come to an eng open house at Twitter HQ for an evening of tech talks, beer and food! http:/ ...
+190557172449550340,Thu Apr 12 21:49:04 +0000 2012,RT @TwitterOSS: we open sourced the audience moderation app by @couch from his @sxsw panel last month; a great @twitterapi example app h ...
+189469392873078800,Mon Apr 09 21:46:38 +0000 2012,RT @adam_messinger: Couldn't be happier that my friend @chfry is joining Twitter today as VP of Engineering.
+189399157235130370,Mon Apr 09 17:07:32 +0000 2012,MySQL at Twitter http://t.co/ajUrvoTE
+187961805946093570,Thu Apr 05 17:56:01 +0000 2012,RT @TwitterOSS: hey students, as a reminder #gsoc applications are due by 4/6 19:00 UTC so please check out our ideas page and apply htt ...
+187714273827487740,Thu Apr 05 01:32:25 +0000 2012,RT @velocityconf: Get the low down on from @raffi and @a_a about @Twitter's migration from #Ruby to #SOA http://t.co/eFJv1ouE #velocityc ...
+184325477530484740,Mon Mar 26 17:06:33 +0000 2012,RT @adam_messinger: Very pleased that @ruslansv is joining Twitter today as Director of Search and Relevance.  Welcome on board Ruslan!
+182947266364047360,Thu Mar 22 21:50:01 +0000 2012,Security Open House March 29 http://t.co/cXzwkv5Q
+178166248549519360,Fri Mar 09 17:11:58 +0000 2012,Find yourself at #pycon this weekend? Us too! Come by our booth to say hi and talk shop with folks from our engineering team.
+177893087790645250,Thu Mar 08 23:06:31 +0000 2012,Cassovary: A Big Graph-Processing Library http://t.co/Ylg0qjqg
+177481255946944500,Wed Mar 07 19:50:03 +0000 2012,.@gigaom: How Twitter is doing its part to democratize big data http://t.co/LHHX2S3F
+177112950568534000,Tue Mar 06 19:26:32 +0000 2012,Generating Recommendations with MapReduce and Scalding http://t.co/iLsaKxYx
+172073118565797900,Tue Feb 21 21:40:03 +0000 2012,Simple Strategies for Smooth Animation on the iPhone http://t.co/H0u9pfEZ
+167265309730942980,Wed Feb 08 15:15:32 +0000 2012,Twitter NYC Open House http://t.co/Pa7ukoAh
+164531411968204800,Wed Feb 01 02:12:00 +0000 2012,Say hello to Bootstrap 2.0 https://t.co/BcngifKH
+162998130256785400,Fri Jan 27 20:39:17 +0000 2012,Join the Flock: Twitter's International Engineering Open House http://t.co/Yav8ursF
+162983108898074620,Fri Jan 27 19:39:35 +0000 2012,RT @cra: amazed at what folks cranked out for @hackweek projects in a short period of time... passion matters
+162983005793685500,Fri Jan 27 19:39:11 +0000 2012,RT @satyap: the best and worst part of twitter @hackweek is that it provides further evidence that everyone here is smarter than me. #jo ...
+162982402703097860,Fri Jan 27 19:36:47 +0000 2012,RT @andres: That moment when you realize the lights you have on are no longer necessary. #hackweek #allNighter
+162269179238547460,Wed Jan 25 20:22:41 +0000 2012,Hack Week @ Twitter http://t.co/KyNbO4hd / cc @jointheflock
+159401934749577200,Tue Jan 17 22:29:17 +0000 2012,RT @twitterapi: Today's recommended reading - "Building Twitter Bootstrap": http://t.co/6jxwlTbh    ^JC
+157173684602286080,Wed Jan 11 18:55:01 +0000 2012,RT @TwitterOSS: if you're interested in technology like @scalding, we're looking for experienced @hadoop engineers to @jointheflock http ...
+157173575181283330,Wed Jan 11 18:54:35 +0000 2012,We open sourced Scalding, a Scala API for Cascading https://t.co/qjHN10E2
+149212722486198270,Tue Dec 20 19:40:59 +0000 2011,RT @TwitterOSS: we’re happy to announce our plan to open source software from the recent Whisper Systems acquisition #opensource https:/ ...
+136228932352606200,Mon Nov 14 23:48:03 +0000 2011,SpiderDuck: Twitter's Real-time URL Fetcher http://t.co/21E2l00p
+134362538946211840,Wed Nov 09 20:11:40 +0000 2011,If you're at @ghc, swing by the Twitter booth and talk to our engineers @danadanger, @pandemona and @lisaphillips. #ghc11
+133591455443845120,Mon Nov 07 17:07:39 +0000 2011,RT @adam_messinger: Heading in to my first day of work at Twitter.
+121316795108958200,Tue Oct 04 20:12:32 +0000 2011,Twitter, Open Source and the JVM http://t.co/VpFSpSq8
+120916490596786180,Mon Oct 03 17:41:52 +0000 2011,If you want to keep up with the @twittereng team, follow this list here: http://t.co/xHQkhua8
+119823463794999300,Fri Sep 30 17:18:34 +0000 2011,Getting Creative with MapReduce http://t.co/H7GDRTPF  (via @sritchie09)
+116580993414070270,Wed Sep 21 18:34:09 +0000 2011,Storm released as open source http://t.co/l8d6Kk27 . Read more on Storm here: http://t.co/ZxU6aj8p
+116573250661781500,Wed Sep 21 18:03:23 +0000 2011,Welcome to Twitter, Julpan! http://t.co/lUxyHx9u
+114035945547907070,Wed Sep 14 18:01:02 +0000 2011,Twitter’s mobile web app delivers performance http://t.co/DArqn1q
+106439448157368320,Wed Aug 24 18:55:16 +0000 2011,Finagle: A Protocol-Agnostic RPC System http://t.co/qKDz6Uu
+99204860238503940,Thu Aug 04 19:47:36 +0000 2011,A Storm is coming: more details and plans for release http://t.co/XIKoBhj
+94171587422597120,Thu Jul 21 22:27:10 +0000 2011,Info on @raffi's keynote at @oscon - From Ruby on Rails to the JVM: http://t.co/pUIOMt8 and @raffi & @stevej's session http://t.co/leAz1xe
+94171231561068540,Thu Jul 21 22:25:45 +0000 2011,If you're attending @oscon next week, keep an eye out for Twitter employees - @raffi @nathanmarz @caniszczyk and @stevej.
+91892509306920960,Fri Jul 15 15:30:56 +0000 2011,Delivering 350 billion Tweets a day is a terribly fun engineering challenge. But, it doesn't capture how passionate our users are.
+86846343586385920,Fri Jul 01 17:19:16 +0000 2011,Fast Core Animation UI for the Mac http://dlvr.it/Yb8Q6
+83657900496654340,Wed Jun 22 22:09:32 +0000 2011,Read about last week's engineering open house -- Join the Flock! http://t.co/8rYC4Fv
+81762772194562050,Fri Jun 17 16:38:58 +0000 2011,Thanks to everyone who came to our #twittereng open house last night. Looking forward to hosting another one in a couple months.
+81546934891978750,Fri Jun 17 02:21:19 +0000 2011,And, we're closing the evening with a talk from @mracus and @esbie -- client-side architecture of #newTwitter. #twittereng
+81532440769859580,Fri Jun 17 01:23:43 +0000 2011,Just heard @wfarner talk about private cloud computing with Mesos. And, @michibusch is now discussing Twitter real-time search #twittereng
+81512476868485120,Fri Jun 17 00:04:23 +0000 2011,Excited to welcome engineers to our first Twitter Eng Open House @Twitter HQ tonight. #twittereng
+80747470199586820,Tue Jun 14 21:24:31 +0000 2011,If you're an engineer and you're interested in working at Twitter, we're hiring! http://t.co/OuPrUYU (cc @jointheflock)
+80747358471716860,Tue Jun 14 21:24:05 +0000 2011,While Twitter is fully out of a managed environment, we'll continue to build our relationship with @ntt_america http://t.co/qAfR8Lp
+80747299432710140,Tue Jun 14 21:23:51 +0000 2011,We've done more to upgrade our infrastructure in the last several months than in the previous 4.5 years. #stability #launches
+76011643083046910,Wed Jun 01 19:46:02 +0000 2011,The Engineering Behind Twitter’s New Search Experience http://dlvr.it/TlwkL
+71355468638990340,Thu May 19 23:24:04 +0000 2011,Faster Ruby: Kiji Update http://dlvr.it/SJCr9
+58321910139854850,Thu Apr 14 00:13:21 +0000 2011,We're looking forward to hosting the SF Hadoop meetup today at Twitter HQ!
+55714648883863550,Wed Apr 06 19:33:02 +0000 2011,Twitter Search is Now 3x Faster http://t.co/BaPt2lE
+50819536802426880,Thu Mar 24 07:21:36 +0000 2011,RT @manju: Lady gaga in my office: http://instagr.am/p/Ce3EB/
+50244902247858180,Tue Mar 22 17:18:12 +0000 2011,Improving Browser Security with CSP http://t.co/pYFWdS7
+49877940279836670,Mon Mar 21 17:00:02 +0000 2011,The Great Migration, the Winter of 2011 http://t.co/c1nyBM2
+43801688083140610,Fri Mar 04 22:35:10 +0000 2011,Building a faster Ruby garbage collector http://t.co/n8u6SJs
+12278911824044032,Tue Dec 07 22:54:55 +0000 2010,We're looking for Tools http://t.co/9ggEJBO and Test Engineers  http://t.co/e5qR85B
+12278474198753280,Tue Dec 07 22:53:11 +0000 2010,Have a passion for highly scalable search? @jointheflock http://t.co/jn41j7a
+12278162134142976,Tue Dec 07 22:51:56 +0000 2010,We looking for systems engineers to @jointheflock!  http://t.co/nkcMlNP
+28462104013,Sat Oct 23 02:16:00 +0000 2010,Hack Week http://t.co/yStfpfr
+26593192731,Wed Oct 06 22:59:50 +0000 2010,Twitter's New Search Architecture http://t.co/JDen0o4
+26091999161,Fri Oct 01 15:49:22 +0000 2010,Tool Legit http://t.co/f4or2tF
+25056509404,Mon Sep 20 20:47:20 +0000 2010,The Tech Behind the New Twitter.com http://t.co/sEZDFN1
+22307111863,Fri Aug 27 23:28:11 +0000 2010,My Awesome Summer Internship at Twitter http://t.co/7AhwKsC
+19115470715,Wed Jul 21 23:56:08 +0000 2010,Twitter & Performance: An update http://dlvr.it/2tQkb
+19114501428,Wed Jul 21 23:40:25 +0000 2010,Room to grow: a Twitter data center http://dlvr.it/2tPlc
+18868977925,Sun Jul 18 22:39:09 +0000 2010,Some followings and un-followings will be delayed. http://dlvr.it/2mW2T
+18635060639,Thu Jul 15 22:13:05 +0000 2010,Murder: Fast datacenter code deploys using BitTorrent http://dlvr.it/2gT54
+18160083925,Sat Jul 10 00:59:07 +0000 2010,Cassandra at Twitter Today http://dlvr.it/2TLtH
+15956644507,Fri Jun 11 21:27:30 +0000 2010,A Perfect Storm.....of Whales http://dlvr.it/1dGJX
+15214161783,Wed Jun 02 00:25:09 +0000 2010,Announcing Snowflake http://dlvr.it/1Mgrb
+14600990202,Mon May 24 04:07:46 +0000 2010,Annotations Hackfest! http://dlvr.it/19Hl1
+13868249003,Wed May 12 19:42:20 +0000 2010,Tracing traffic through our stack http://dlvr.it/xSvY
+13321177598,Mon May 03 19:13:07 +0000 2010,Introducing FlockDB http://dlvr.it/ll0Y
+12526742896,Tue Apr 20 17:00:26 +0000 2010,Memcached SPOF Mystery http://dlvr.it/Yyrm
+11848920681,Thu Apr 08 23:14:55 +0000 2010,Hadoop at Twitter http://dlvr.it/SL93
+11726449830,Wed Apr 07 00:01:43 +0000 2010,Introducing Gizzard, a framework for creating distributed datastores http://dlvr.it/RLx6
+11443146612,Thu Apr 01 20:27:38 +0000 2010,Timeboxing http://dlvr.it/PYfP
+11339263304,Wed Mar 31 01:06:38 +0000 2010,Unicorn Power http://dlvr.it/NXTs
+9539393556,Tue Feb 23 19:37:13 +0000 2010,Link: Cassandra at Twitter http://dlvr.it/2X2M
+9362254450,Sat Feb 20 01:20:04 +0000 2010,The Anatomy of a Whale http://dlvr.it/1fd1
+9362254133,Sat Feb 20 01:20:04 +0000 2010,Links: Relational Algebra and Scala DI http://dlvr.it/1fd0
+9362253809,Sat Feb 20 01:20:03 +0000 2010,Introducing the Open Source Twitter Text libraries http://dlvr.it/1fcz
+9362253170,Sat Feb 20 01:20:03 +0000 2010,WOEIDs in Twitter's Trends http://dlvr.it/1fcy
+9362252668,Sat Feb 20 01:20:02 +0000 2010,Hello World http://dlvr.it/1fcx
+8984886012,Fri Feb 12 00:19:08 +0000 2010,RT @mf: open sourcing some stuff over here: http://bit.ly/kestrel-client

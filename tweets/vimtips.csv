@@ -1,0 +1,1028 @@
+id,created_at,text
+748561982480064500,Thu Jun 30 17:00:58 +0000 2016,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  https://t.co/VSMq78ttS8
+743125979602792400,Wed Jun 15 17:00:14 +0000 2016,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  https://t.co/V9BLpyPSEQ
+742401299463954400,Mon Jun 13 17:00:37 +0000 2016,:%s/[.!?]\_s\+\a/\U&amp;\E/g will uppercase the first letter of each sentence (except the very first one). https://t.co/RuLujPMciq
+740226977957838800,Tue Jun 07 17:00:38 +0000 2016,:g/_pattern_/s/^/#/g will comment out lines containing _pattern_ (if '#' is your comment character/sequence) (via @vrybas_)
+739864618445738000,Mon Jun 06 17:00:45 +0000 2016,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+738415059056087000,Thu Jun 02 17:00:43 +0000 2016,%s/^ \ n/ / to delete all empty lines (remove spaces from command!) (via @marekkubis)
+737690349066440700,Tue May 31 17:00:59 +0000 2016,ggVG= will auto-format the entire document
+737327911657693200,Mon May 30 17:00:47 +0000 2016,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): https://t.co/rTOUwfvGCO
+736240687293866000,Fri May 27 17:00:33 +0000 2016,To search for a URL without backslashing, search backwards!  Example: ?https://t.co/jqSJsx5fD4  https://t.co/RuLujPMciq
+735878250463932400,Thu May 26 17:00:21 +0000 2016,CTRL-w | and CTRL-W _ maximize your current split vertically and horizontally, respectively. CTRL-W = equalizes 'em.
+735515896559632400,Wed May 25 17:00:29 +0000 2016,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  https://t.co/UobsRbkhi0
+734791298729791500,Mon May 23 17:01:12 +0000 2016,:tabo will close all open tabs except the active one.
+733704060667371500,Fri May 20 17:00:54 +0000 2016,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  https://t.co/NdYhYsvTMn
+733341689847353300,Thu May 19 17:00:58 +0000 2016,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   https://t.co/VSMq78ttS8
+732616907975725000,Tue May 17 17:00:56 +0000 2016,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  https://t.co/ahNZE3y8fh
+732254455308124200,Mon May 16 17:00:41 +0000 2016,ga will display the ASCII, hex, and octal value of the character under the cursor. https://t.co/RuLujPMciq
+730442430693134300,Wed May 11 17:00:21 +0000 2016,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+730080221009973200,Tue May 10 17:01:03 +0000 2016,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  https://t.co/lZDfJ6xqSs
+729717823723999200,Mon May 09 17:01:01 +0000 2016,:40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  https://t.co/UobsRbkhi0
+728630607819968500,Fri May 06 17:00:48 +0000 2016,In your ~/.vimrc, `set clipboard=unnamed`. Now all operations work with the OS clipboard. No need for "+, "* (via @panozzaj)
+728268170021212200,Thu May 05 17:00:36 +0000 2016,vim -c [command] will launch vim and run a : command at launch, e.g. "vim -c NERDTree." (via @sgharms)
+727905778749820900,Wed May 04 17:00:36 +0000 2016,g; will cycle through your recent changes (or g, to go in reverse.  https://t.co/RuLujPMciq
+727543419552317400,Tue May 03 17:00:42 +0000 2016,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+725731442169401300,Thu Apr 28 17:00:33 +0000 2016,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  https://t.co/7iYF3CFUiE
+725369148616880100,Wed Apr 27 17:00:56 +0000 2016,g//# will print the results of the last search w/ line numbers (via @sehetw)
+725006651623874600,Tue Apr 26 17:00:30 +0000 2016,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+724644437482192900,Mon Apr 25 17:01:11 +0000 2016,:%s/~/sue/igc substitute your last replacement string with sue. https://t.co/RuLujPMciq
+723557092838236200,Fri Apr 22 17:00:28 +0000 2016,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  https://t.co/RuLujPMciq
+722469998921412600,Tue Apr 19 17:00:45 +0000 2016,:%s/~/sue/igc substitute your last replacement string with 'sue'.  https://t.co/RuLujPMciq
+722107526297296900,Mon Apr 18 17:00:25 +0000 2016,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  https://t.co/lZDfJ6xqSs
+721020462050971600,Fri Apr 15 17:00:48 +0000 2016,Edit and encrypt a file: vim -x filename (via @dlibanori)
+720658003989512200,Thu Apr 14 17:00:31 +0000 2016,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  https://t.co/NdYhYsvTMn
+720295620850933800,Wed Apr 13 17:00:33 +0000 2016,K runs a prgrm to lookup the keyword under the cursor. If writing C, it runs man. In Ruby, it (should) run ri, Python (perhaps) pydoc.
+719933239687778300,Tue Apr 12 17:00:34 +0000 2016,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  https://t.co/RuLujPMciq
+719570930872238100,Mon Apr 11 17:00:53 +0000 2016,zz to center the cursor vertically on your screen. Useful when you 250Gzz, for instance. https://t.co/E5ZgZzqfol
+718483792982327300,Fri Apr 08 17:00:59 +0000 2016,/.*fred&amp;.*joe/ will search for fred AND joe, in any order.  https://t.co/RuLujPMciq
+718122189447372800,Thu Apr 07 17:04:06 +0000 2016,gf will open the file under the cursor.  (Killer feature.) https://t.co/RuLujPMciq
+718121357368823800,Thu Apr 07 17:00:48 +0000 2016,/joe/e will search for joe and place the cursor at the end of the match. https://t.co/RuLujPMciq
+717396599681511400,Tue Apr 05 17:00:52 +0000 2016,@: to repeat the last executed command.  https://t.co/wyJOMNOIx0
+715947048357466100,Fri Apr 01 17:00:52 +0000 2016,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+715584651620958200,Thu Mar 31 17:00:50 +0000 2016,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. https://t.co/VSMq78ttS8
+715222178787156000,Wed Mar 30 17:00:30 +0000 2016,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) https://t.co/RuLujPMciq
+714859784583954400,Tue Mar 29 17:00:28 +0000 2016,/joe/+3 will search for joe and place the cursor three lines below the match.  https://t.co/RuLujPMciq
+714497353621848000,Mon Mar 28 17:00:18 +0000 2016,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  https://t.co/0mfEHQH5x7
+713410315560611800,Fri Mar 25 17:00:48 +0000 2016,CTRL-w s CTRL-w T will open current buffer in new tab (via @vrybas_)
+712685524356624400,Wed Mar 23 17:00:44 +0000 2016,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  https://t.co/RuLujPMciq
+711963022454038500,Mon Mar 21 17:09:46 +0000 2016,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  https://t.co/VSMq78ttS8
+710873486533791700,Fri Mar 18 17:00:21 +0000 2016,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+710511196240216000,Thu Mar 17 17:00:44 +0000 2016,CTRL-w K will switch vertical split into horizontal, CTRL-w H will switch a horizontal into a vertical. (via @mpetrsson)
+710148787226976300,Wed Mar 16 17:00:39 +0000 2016,:%s/\\/\//g Replaces all backslashes with forward slashes.
+709786328494383100,Tue Mar 15 17:00:22 +0000 2016,ysiw' to surround current word with ', cs'{ changes 'word' to { word } using the surround plugin https://t.co/BK7pigmjfv (via @oriolgual)
+709424017002905600,Mon Mar 14 17:00:40 +0000 2016,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) https://t.co/VSMq78ttS8
+708336890102095900,Fri Mar 11 17:00:49 +0000 2016,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  https://t.co/nBmmVAnCmz
+707974402034573300,Thu Mar 10 17:00:25 +0000 2016,'. jumps to last modified line.  `. jumps to exact position of last modification.  https://t.co/VSMq78ttS8
+707612049493336000,Wed Mar 09 17:00:34 +0000 2016,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+707249705349206000,Tue Mar 08 17:00:44 +0000 2016,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  https://t.co/RuLujPMciq
+706887190970822700,Mon Mar 07 17:00:14 +0000 2016,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  https://t.co/VSMq78ttS8
+705800064506187800,Fri Mar 04 17:00:23 +0000 2016,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See https://t.co/waAIUSfpJw for dependencies.)
+705437806013882400,Thu Mar 03 17:00:54 +0000 2016,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  https://t.co/cj9imOOnLK
+705075277550977000,Wed Mar 02 17:00:20 +0000 2016,:wa will save all buffers. :xa will save all buffers and exit Vim. https://t.co/BUDWiKOyvS
+704712838938554400,Tue Mar 01 17:00:08 +0000 2016,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  https://t.co/6d7N2DzKyA
+704350510082625500,Mon Feb 29 17:00:22 +0000 2016,:%s/\ v(.*\ n){5}/&amp;\ r will insert a blank line every 5 lines (remove spaces) https://t.co/7iYF3CFUiE
+703263416400609300,Fri Feb 26 17:00:39 +0000 2016,:history lists the history of your recent commands, sans duplicates.   https://t.co/VSMq78ttS8
+702901040757284900,Thu Feb 25 17:00:42 +0000 2016,:scriptnames will list all plugins and _vimrcs loaded. https://t.co/7iYF3CFUiE
+702538547132309500,Wed Feb 24 17:00:16 +0000 2016,Count the number of occurences of a word in a file with :%s/&amp;lt;word&amp;gt;//gn
+702176139670855700,Tue Feb 23 17:00:12 +0000 2016,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+701813835901046800,Mon Feb 22 17:00:32 +0000 2016,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  https://t.co/VSMq78ttS8
+700726702612340700,Fri Feb 19 17:00:39 +0000 2016,"2p will put the second to last thing yanked, "3p will put the third to last, etc. https://t.co/il1UkJuc2v
+700364312787943400,Thu Feb 18 17:00:38 +0000 2016,:ju(mps) : list your movements {{help|jump-motions}}  https://t.co/VSMq78ttS8\
+700001884736725000,Wed Feb 17 17:00:29 +0000 2016,In visual mode, use s" to surround the selected text with " using the surround plugin. https://t.co/BK7pigmjfv (via @grasselli)
+699639473018114000,Tue Feb 16 17:00:23 +0000 2016,:%s//joe/igc substitute your last search with joe. https://t.co/RuLujPMciq
+699277152399835100,Mon Feb 15 17:00:39 +0000 2016,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+697827569710854100,Thu Feb 11 17:00:32 +0000 2016,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+697465274853892100,Wed Feb 10 17:00:54 +0000 2016,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) https://t.co/RuLujPMciq
+697102890293469200,Tue Feb 09 17:00:55 +0000 2016,== will auto-indent the current line.  Select text in visual mode, then = to auto-indent the selected lines. https://t.co/FjfHGxgBGd
+696740398845325300,Mon Feb 08 17:00:30 +0000 2016,2f/ would find the second occurrence of '/' in a line.  https://t.co/UobsRbkhi0
+695653248221450200,Fri Feb 05 17:00:33 +0000 2016,:lcd %:p:h will change to the directory of the current file. https://t.co/RuLujPMciq
+695290983408345100,Thu Feb 04 17:01:02 +0000 2016,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+694928462604329000,Wed Feb 03 17:00:31 +0000 2016,:w !sudo tee % will use sudo to write the open file (have you ever forgotten to `sudo vim /path/to/file`?)  (via @gbretou)
+694567047162904600,Tue Feb 02 17:04:23 +0000 2016,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  https://t.co/VSMq78ttS8
+693116529806811100,Fri Jan 29 17:00:32 +0000 2016,* # g* g# each searches for the word under the cursor (forwards/backwards) https://t.co/VSMq78ttS8
+692754105840836600,Thu Jan 28 17:00:24 +0000 2016,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  https://t.co/wyJOMNOIx0
+692029377257828400,Tue Jan 26 17:00:35 +0000 2016,/begin\_.*end will search for begin AND end over multiple lines.  https://t.co/RuLujPMciq
+691666951840649200,Mon Jan 25 17:00:26 +0000 2016,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) https://t.co/evKVlLzGxk
+690579775275016200,Fri Jan 22 17:00:23 +0000 2016,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) https://t.co/RuLujPMciq
+690217510554222600,Thu Jan 21 17:00:52 +0000 2016,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) https://t.co/RuLujPMciq
+689854982288465900,Wed Jan 20 17:00:19 +0000 2016,/fred|joe/ will search for either fred OR joe.  https://t.co/RuLujPMciq
+689492609450913800,Tue Jan 19 17:00:22 +0000 2016,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  https://t.co/VSMq78L4JG
+689130276904144900,Mon Jan 18 17:00:36 +0000 2016,Use "_dd to delete one line without overriding the buffer. "_ is black hole register. "When writing to this register, nothing happens."
+688043160187080700,Fri Jan 15 17:00:47 +0000 2016,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  https://t.co/RuLujPMciq
+687680810355404800,Thu Jan 14 17:00:56 +0000 2016,:tab sball will re-tab all files in the buffers list. https://t.co/RuLujPMciq
+687318410523492400,Wed Jan 13 17:00:53 +0000 2016,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+686955891799765000,Tue Jan 12 17:00:22 +0000 2016,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. https://t.co/TT40DmnBl9
+686593698075938800,Mon Jan 11 17:01:08 +0000 2016,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. https://t.co/RuLujPMciq
+685506318770286600,Fri Jan 08 17:00:17 +0000 2016,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+685488567272009700,Fri Jan 08 15:49:44 +0000 2016,@acdesouza @rbernardelli Tweets can only be so long! I figured you smart folk can extrapolate. :-)
+685487784774250500,Fri Jan 08 15:46:38 +0000 2016,@sehetw Added to the list! Thanks!
+685486653524308000,Fri Jan 08 15:42:08 +0000 2016,@sehetw Yes, Twitter ate some slashes. You can find the full one at the included link. I'll work on fixing it.
+685486430131490800,Fri Jan 08 15:41:15 +0000 2016,@drscriptt Twitter ate some of the slashes. Click on the link in the tweet, search for `hours'. I'll work on getting it fixed up.
+685144089365463000,Thu Jan 07 17:00:54 +0000 2016,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. https://t.co/RuLujPMciq
+684781611469115400,Wed Jan 06 17:00:33 +0000 2016,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  https://t.co/RuLujPMciq
+684419318138953700,Tue Jan 05 17:00:55 +0000 2016,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  https://t.co/RuLujPMciq
+684056808487546900,Mon Jan 04 17:00:26 +0000 2016,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  https://t.co/RuLujPMciq
+682969619355807700,Fri Jan 01 17:00:20 +0000 2016,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   https://t.co/RuLujPMciq
+682607270220443600,Thu Dec 31 17:00:30 +0000 2015,:g/search_term/# display each line containing 'search_term' with line numbers. https://t.co/RuLujPMciq
+682244844245377000,Wed Dec 30 17:00:21 +0000 2015,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+681913529788723200,Tue Dec 29 19:03:49 +0000 2015,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  https://t.co/RuLujPMciq (spaces inserted to avoid HTML filtering).
+681873889807482900,Tue Dec 29 16:26:18 +0000 2015,Be back soon.
+331815807250210800,Tue May 07 17:00:27 +0000 2013,:ju(mps) : list your movements {{help|jump-motions}}  http://t.co/VSMq78L4JG\
+331453379366756350,Mon May 06 17:00:18 +0000 2013,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://t.co/nBmmVAFde7
+329641476248191000,Wed May 01 17:00:27 +0000 2013,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://t.co/VSMq78L4JG
+329279471725207550,Tue Apr 30 17:01:58 +0000 2013,/begin\_.*end will search for begin AND end over multiple lines.  http://t.co/RuLujPuATQ
+328916788622553100,Mon Apr 29 17:00:48 +0000 2013,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://t.co/VSMq78L4JG
+327829490946412540,Fri Apr 26 17:00:16 +0000 2013,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) http://t.co/evKVlLi58K
+327104765853057000,Wed Apr 24 17:00:28 +0000 2013,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://t.co/NdYhYsNuDV
+326742877650710500,Tue Apr 23 17:02:27 +0000 2013,To search for a URL without backslashing, search backwards!  Example: ?http://t.co/jqSJsxmQuC  http://t.co/RuLujPuATQ
+324930654804529150,Thu Apr 18 17:01:19 +0000 2013,== will auto-indent the current line.  Select text in visual mode, then = to auto-indent the selected lines. http://t.co/FjfHGxycxL
+324568212958240800,Wed Apr 17 17:01:06 +0000 2013,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://t.co/ahNZE3gwQH
+324205748798251000,Tue Apr 16 17:00:48 +0000 2013,/.*fred&amp;.*joe/ will search for fred AND joe, in any order.  http://t.co/RuLujPuATQ
+323843356679622660,Mon Apr 15 17:00:47 +0000 2013,:tab sball will re-tab all files in the buffers list. http://t.co/RuLujPuATQ
+322393699650773000,Thu Apr 11 17:00:22 +0000 2013,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+322031367359705100,Wed Apr 10 17:00:35 +0000 2013,vim -c [command] will launch vim and run a : command at launch, e.g. "vim -c NERDTree." (via @sgharms)
+321669039845949440,Tue Apr 09 17:00:50 +0000 2013,ggVG= will auto-format the entire document
+321306595722145800,Mon Apr 08 17:00:36 +0000 2013,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://t.co/RuLujPuATQ
+320219585460715500,Fri Apr 05 17:01:13 +0000 2013,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://t.co/RuLujPuATQ
+319856970238664700,Thu Apr 04 17:00:19 +0000 2013,:scriptnames will list all plugins and _vimrcs loaded. http://t.co/7iYF3CXvac
+319494548894126100,Wed Apr 03 17:00:11 +0000 2013,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+319132309309759500,Tue Apr 02 17:00:46 +0000 2013,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  http://t.co/7iYF3CXvac
+318770021478305800,Mon Apr 01 17:01:10 +0000 2013,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://t.co/V9BLpz7two
+317682626913792000,Fri Mar 29 17:00:15 +0000 2013,Edit and encrypt a file: vim -x filename (via @dlibanori)
+317320482158424060,Thu Mar 28 17:01:13 +0000 2013,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://t.co/RuLujPuATQ
+316958108154990600,Wed Mar 27 17:01:16 +0000 2013,ysiw' to surround current word with ', cs'{ changes 'word' to { word } using the surround plugin http://t.co/BK7pigDU73 (via @oriolgual)
+316595574130495500,Tue Mar 26 17:00:41 +0000 2013,g; will cycle through your recent changes (or g, to go in reverse.  http://t.co/RuLujPuATQ
+316233155369631740,Mon Mar 25 17:00:34 +0000 2013,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://t.co/VSMq78L4JG
+315145916849983500,Fri Mar 22 17:00:16 +0000 2013,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://t.co/RuLujPuATQ
+314787299198136300,Thu Mar 21 17:15:15 +0000 2013,@marekkubis @henrik Sorry. It's not easy to keep up with suggestions for tips and edits via Twitter. Thanks for the suggestion.
+314783635687489540,Thu Mar 21 17:00:41 +0000 2013,%s/^ \ n/ / to delete all empty lines (remove spaces from command!) (via @marekkubis)
+314421252846649340,Wed Mar 20 17:00:42 +0000 2013,:history lists the history of your recent commands, sans duplicates.   http://t.co/VSMq78L4JG
+314058981016494100,Tue Mar 19 17:01:10 +0000 2013,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://t.co/lZDfJ6fPtS
+313696413341069300,Mon Mar 18 17:00:27 +0000 2013,"2p will put the second to last thing yanked, "3p will put the third to last, etc. http://t.co/il1UkJLMU3
+312609205888639000,Fri Mar 15 17:00:17 +0000 2013,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://t.co/RuLujPuATQ
+312247109397131260,Thu Mar 14 17:01:26 +0000 2013,:tabo will close all open tabs except the active one.
+311884426365763600,Wed Mar 13 17:00:16 +0000 2013,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+311522130498048000,Tue Mar 12 17:00:38 +0000 2013,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://t.co/0mfEHQYGoF
+311159662630297600,Mon Mar 11 17:00:19 +0000 2013,Count the number of occurences of a word in a file with :%s/&amp;lt;word&amp;gt;//gn
+310072559695691800,Fri Mar 08 17:00:33 +0000 2013,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://t.co/VSMq78L4JG
+309347720630521860,Wed Mar 06 17:00:18 +0000 2013,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://t.co/VSMq78L4JG
+308985470119968800,Tue Mar 05 17:00:51 +0000 2013,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://t.co/VSMq78L4JG
+308623110830190600,Mon Mar 04 17:00:58 +0000 2013,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+307535784855089150,Fri Mar 01 17:00:19 +0000 2013,:g/search_term/# display each line containing 'search_term' with line numbers. http://t.co/RuLujPuATQ
+306811066447450100,Wed Feb 27 17:00:33 +0000 2013,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+306448706209734660,Tue Feb 26 17:00:39 +0000 2013,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+306086235645034500,Mon Feb 25 17:00:20 +0000 2013,:%s/\ v(.*\ n){5}/&amp;\ r will insert a blank line every 5 lines (remove spaces) http://t.co/7iYF3CXvac
+304999420112551940,Fri Feb 22 17:01:43 +0000 2013,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+304636757671018500,Thu Feb 21 17:00:37 +0000 2013,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://t.co/IPsZ50Z1u6
+304274357058945000,Wed Feb 20 17:00:34 +0000 2013,ga will display the ASCII, hex, and octal value of the character under the cursor. http://t.co/LDjwut6u
+303912109643800600,Tue Feb 19 17:01:08 +0000 2013,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+303549556715577340,Mon Feb 18 17:00:28 +0000 2013,2f/ would find the second occurrence of '/' in a line.  http://t.co/ceIvq25O
+302462589441548300,Fri Feb 15 17:01:15 +0000 2013,:%s/[.!?]\_s\+\a/\U&amp;\E/g will uppercase the first letter of each sentence (except the very first one). http://t.co/LDjwut6u
+302100086635237400,Thu Feb 14 17:00:48 +0000 2013,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. http://t.co/4HCLjaJl
+301375366872825860,Tue Feb 12 17:01:01 +0000 2013,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://t.co/7NwyjFx6
+301012922400903200,Mon Feb 11 17:00:47 +0000 2013,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://t.co/PkQ55Llc
+299925855952597000,Fri Feb 08 17:01:11 +0000 2013,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://t.co/jBk0diAu
+299563483786248200,Thu Feb 07 17:01:14 +0000 2013,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://t.co/N7g7LQA8
+299200969168797700,Wed Feb 06 17:00:44 +0000 2013,/joe/e will search for joe and place the cursor at the end of the match. http://t.co/LDjwut6u
+298838576370696200,Tue Feb 05 17:00:43 +0000 2013,* # g* g# each searches for the word under the cursor (forwards/backwards) http://t.co/N7g7LQA8
+298476089599217660,Mon Feb 04 17:00:19 +0000 2013,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://t.co/N7g7LQA8
+297388930117025800,Fri Feb 01 17:00:20 +0000 2013,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://t.co/LDjwut6u
+297026632273784800,Thu Jan 31 17:00:42 +0000 2013,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://t.co/LDjwut6u (spaces inserted to avoid HTML filtering).
+296664211994587140,Wed Jan 30 17:00:34 +0000 2013,CTRL-w K will switch vertical split into horizontal, CTRL-w H will switch a horizontal into a vertical. (via @mpetrsson)
+296301739911553000,Tue Jan 29 17:00:14 +0000 2013,CTRL-w | and CTRL-W _ maximize your current split vertically and horizontally, respectively. CTRL-W = equalizes 'em.
+289054175751454700,Wed Jan 09 17:01:00 +0000 2013,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://t.co/N7g7LQA8
+288691660035072000,Tue Jan 08 17:00:30 +0000 2013,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+287242155771166720,Fri Jan 04 17:00:41 +0000 2013,In your ~/.vimrc, `set clipboard=unnamed`. Now all operations work with the OS clipboard. No need for "+, "* (via @panozzaj)
+286879700071096320,Thu Jan 03 17:00:25 +0000 2013,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://t.co/LDjwut6u
+286517305733681150,Wed Jan 02 17:00:23 +0000 2013,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://t.co/LDjwut6u
+286154883311226880,Tue Jan 01 17:00:15 +0000 2013,zz to center the cursor vertically on your screen. Useful when you 250Gzz, for instance. http://t.co/ZN5JSach
+285792521026666500,Mon Dec 31 17:00:21 +0000 2012,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://t.co/LDjwut6u
+284705402095026180,Fri Dec 28 17:00:32 +0000 2012,:%s//joe/igc substitute your last search with joe. http://t.co/LDjwut6u
+284342981165723650,Thu Dec 27 17:00:24 +0000 2012,@: to repeat the last executed command.  http://t.co/K0YTgaLQ
+283980574073425920,Wed Dec 26 17:00:19 +0000 2012,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://t.co/DKpSo7oA
+283255797612417020,Mon Dec 24 17:00:19 +0000 2012,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://t.co/BjejKRCa for dependencies.)
+281806268094615550,Thu Dec 20 17:00:24 +0000 2012,/fred|joe/ will search for either fred OR joe.  http://t.co/LDjwut6u
+281444019278581760,Wed Dec 19 17:00:57 +0000 2012,:%s/~/sue/igc substitute your last replacement string with sue. http://t.co/LDjwut6u
+281081486617227260,Tue Dec 18 17:00:23 +0000 2012,gf will open the file under the cursor.  (Killer feature.) http://t.co/LDjwut6u
+280719125985247230,Mon Dec 17 17:00:29 +0000 2012,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://t.co/LDjwut6u
+279631964414283780,Fri Dec 14 17:00:30 +0000 2012,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+279269555677851650,Thu Dec 13 17:00:25 +0000 2012,CTRL-w s CTRL-w T will open current buffer in new tab (via @vrybas_)
+278907166738481150,Wed Dec 12 17:00:25 +0000 2012,K runs a prgrm to lookup the keyword under the cursor. If writing C, it runs man. In Ruby, it (should) run ri, Python (perhaps) pydoc.
+278544765551796220,Tue Dec 11 17:00:21 +0000 2012,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://t.co/LDjwut6u
+278182355603185660,Mon Dec 10 17:00:16 +0000 2012,:lcd %:p:h will change to the directory of the current file. http://t.co/LDjwut6u
+277095338203033600,Fri Dec 07 17:00:51 +0000 2012,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+276732843198132220,Thu Dec 06 17:00:25 +0000 2012,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://t.co/N7g7LQA8
+276370450131595260,Wed Dec 05 17:00:24 +0000 2012,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+276008106109042700,Tue Dec 04 17:00:35 +0000 2012,:wa will save all buffers. :xa will save all buffers and exit Vim. http://t.co/EizAEyQg
+275645648706093060,Mon Dec 03 17:00:18 +0000 2012,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://t.co/K0YTgaLQ
+274558472090185730,Fri Nov 30 17:00:15 +0000 2012,Use "_dd to delete one line without overriding the buffer. "_ is black hole register. "When writing to this register, nothing happens."
+274196128717733900,Thu Nov 29 17:00:26 +0000 2012,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+273833771814498300,Wed Nov 28 17:00:33 +0000 2012,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://t.co/9CE23jqs
+273471399232958460,Tue Nov 27 17:00:37 +0000 2012,/joe/+3 will search for joe and place the cursor three lines below the match.  http://t.co/LDjwut6u
+273108975854178300,Mon Nov 26 17:00:28 +0000 2012,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://t.co/ceIvq25O
+272021811464663040,Fri Nov 23 17:00:28 +0000 2012,:%s/\\/\//g Replaces all backslashes with forward slashes.
+271659378690641920,Thu Nov 22 17:00:17 +0000 2012,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://t.co/LDjwut6u
+271296988753039360,Wed Nov 21 17:00:17 +0000 2012,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://t.co/LDjwut6u
+270934644202041340,Tue Nov 20 17:00:27 +0000 2012,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+270572239974445060,Mon Nov 19 17:00:23 +0000 2012,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://t.co/LDjwut6u
+269485042659635200,Fri Nov 16 17:00:15 +0000 2012,:g/_pattern_/s/^/#/g will comment out lines containing _pattern_ (if '#' is your comment character/sequence) (via @vrybas_)
+269122758116524030,Thu Nov 15 17:00:40 +0000 2012,In visual mode, use s" to surround the selected text with " using the surround plugin. http://t.co/7QnGKWFT (via @grasselli)
+268760273660309500,Wed Nov 14 17:00:17 +0000 2012,:40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://t.co/ceIvq25O
+268397881868812300,Tue Nov 13 17:00:16 +0000 2012,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://t.co/YOMNibJ9
+268035525414383600,Mon Nov 12 17:00:23 +0000 2012,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://t.co/LDjwut6u
+266948393107066880,Fri Nov 09 17:00:31 +0000 2012,:w !sudo tee % will use sudo to write the open file (have you ever forgotten to `sudo vim /path/to/file`?)  (via @gbretou)
+266585950178664450,Thu Nov 08 17:00:18 +0000 2012,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://t.co/LDjwut6u
+260425336758616060,Mon Oct 22 17:00:13 +0000 2012,:ju(mps) : list your movements {{help|jump-motions}}  http://t.co/N7g7LQA8\
+258613456339603460,Wed Oct 17 17:00:27 +0000 2012,ysiw' to surround current word with ', cs'{ changes 'word' to { word } using the surround plugin http://t.co/7QnGKWFT (via @oriolgual)
+256801479782969340,Fri Oct 12 17:00:18 +0000 2012,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+256439075047866370,Thu Oct 11 17:00:14 +0000 2012,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://t.co/BjejKRCa for dependencies.)
+256076736138203140,Wed Oct 10 17:00:26 +0000 2012,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://t.co/LDjwut6u
+255714396037345280,Tue Oct 09 17:00:37 +0000 2012,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://t.co/LDjwut6u
+255351998663258100,Mon Oct 08 17:00:35 +0000 2012,vim -c [command] will launch vim and run a : command at launch, e.g. "vim -c NERDTree." (via @sgharms)
+254264757522153470,Fri Oct 05 17:00:16 +0000 2012,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://t.co/LDjwut6u
+253902490670620670,Thu Oct 04 17:00:45 +0000 2012,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+253540060547383300,Wed Oct 03 17:00:35 +0000 2012,Edit and encrypt a file: vim -x filename (via @dlibanori)
+253177742957346800,Tue Oct 02 17:00:52 +0000 2012,2f/ would find the second occurrence of '/' in a line.  http://t.co/ceIvq25O
+252815452697395200,Mon Oct 01 17:01:15 +0000 2012,:lcd %:p:h will change to the directory of the current file. http://t.co/LDjwut6u
+251365702114631680,Thu Sep 27 17:00:28 +0000 2012,Count the number of occurences of a word in a file with :%s/&amp;lt;word&amp;gt;//gn
+251003278115102720,Wed Sep 26 17:00:19 +0000 2012,g; will cycle through your recent changes (or g, to go in reverse.  http://t.co/LDjwut6u
+250640872574701570,Tue Sep 25 17:00:15 +0000 2012,/.*fred&amp;.*joe/ will search for fred AND joe, in any order.  http://t.co/LDjwut6u
+248828944550338560,Thu Sep 20 17:00:18 +0000 2012,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://t.co/fOonQaxH
+248466619892908030,Wed Sep 19 17:00:33 +0000 2012,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://t.co/LDjwut6u
+248104202251952130,Tue Sep 18 17:00:26 +0000 2012,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://t.co/LDjwut6u (spaces inserted to avoid HTML filtering).
+247741793465143300,Mon Sep 17 17:00:21 +0000 2012,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://t.co/K0YTgaLQ
+246654595022061570,Fri Sep 14 17:00:12 +0000 2012,@: to repeat the last executed command.  http://t.co/K0YTgaLQ
+246292270838599680,Thu Sep 13 17:00:27 +0000 2012,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://t.co/DKpSo7oA
+245929822814105600,Wed Sep 12 17:00:13 +0000 2012,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+245567463037743100,Tue Sep 11 17:00:20 +0000 2012,/fred|joe/ will search for either fred OR joe.  http://t.co/LDjwut6u
+245205099457179650,Mon Sep 10 17:00:26 +0000 2012,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://t.co/LDjwut6u
+244117905648787460,Fri Sep 07 17:00:18 +0000 2012,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://t.co/N7g7LQA8
+243755515199512580,Thu Sep 06 17:00:18 +0000 2012,* # g* g# each searches for the word under the cursor (forwards/backwards) http://t.co/N7g7LQA8
+243393138784350200,Wed Sep 05 17:00:20 +0000 2012,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://t.co/N7g7LQA8
+243030752386764800,Tue Sep 04 17:00:21 +0000 2012,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://t.co/LDjwut6u
+242668345214767100,Mon Sep 03 17:00:16 +0000 2012,In visual mode, use s" to surround the selected text with " using the surround plugin. http://t.co/7QnGKWFT (via @grasselli)
+241581173158051840,Fri Aug 31 17:00:14 +0000 2012,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+241219079850045440,Thu Aug 30 17:01:24 +0000 2012,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://t.co/N7g7LQA8
+240856755045797900,Wed Aug 29 17:01:39 +0000 2012,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://t.co/jBk0diAu
+240494354706346000,Tue Aug 28 17:01:36 +0000 2012,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://t.co/LDjwut6u
+240131970334588930,Mon Aug 27 17:01:37 +0000 2012,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://t.co/LDjwut6u
+239044794909859840,Fri Aug 24 17:01:35 +0000 2012,:g/search_term/# display each line containing 'search_term' with line numbers. http://t.co/LDjwut6u
+238685778601988100,Thu Aug 23 17:14:58 +0000 2012,@ReinH The tip is so useful, you probably just subconsciously want everyone to hear about it. Happens to me all the time.
+238682424823906300,Thu Aug 23 17:01:39 +0000 2012,"2p will put the second to last thing yanked, "3p will put the third to last, etc. http://t.co/2oJTu1Iv
+238320016200724480,Wed Aug 22 17:01:34 +0000 2012,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://t.co/7NwyjFx6
+237957656193675260,Tue Aug 21 17:01:40 +0000 2012,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://t.co/LDjwut6u
+237595260174344200,Mon Aug 20 17:01:38 +0000 2012,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://t.co/7NwyjFx6
+236508073693437950,Fri Aug 17 17:01:33 +0000 2012,:w !sudo tee % will use sudo to write the open file (have you ever forgotten to `sudo vim /path/to/file`?)  (via @gbretou)
+236145703418744830,Thu Aug 16 17:01:37 +0000 2012,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+235783282233573380,Wed Aug 15 17:01:29 +0000 2012,CTRL-w K will switch vertical split into horizontal, CTRL-w H will switch a horizontal into a vertical. (via @mpetrsson)
+235420920276197380,Tue Aug 14 17:01:35 +0000 2012,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://t.co/PkQ55Llc
+235058531106177020,Mon Aug 13 17:01:35 +0000 2012,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://t.co/LDjwut6u
+233971345879363600,Fri Aug 10 17:01:30 +0000 2012,:%s/[.!?]\_s\+\a/\U&amp;\E/g will uppercase the first letter of each sentence (except the very first one). http://t.co/LDjwut6u
+233608960891031550,Thu Aug 09 17:01:31 +0000 2012,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+233246571087667200,Wed Aug 08 17:01:30 +0000 2012,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+232884193682677760,Tue Aug 07 17:01:33 +0000 2012,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://t.co/LDjwut6u
+232521816395091970,Mon Aug 06 17:01:35 +0000 2012,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://t.co/YOMNibJ9
+231434637556195330,Fri Aug 03 17:01:32 +0000 2012,zz to center the cursor vertically on your screen. Useful when you 250Gzz, for instance. http://t.co/ZN5JSach
+231072246544867330,Thu Aug 02 17:01:31 +0000 2012,:40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://t.co/ceIvq25O
+230347471451193340,Tue Jul 31 17:01:31 +0000 2012,:%s//joe/igc substitute your last search with joe. http://t.co/LDjwut6u
+229985098123059200,Mon Jul 30 17:01:34 +0000 2012,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://t.co/N7g7LQA8
+228897971863961600,Fri Jul 27 17:01:43 +0000 2012,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://t.co/t7oS1vsG
+228535519095685120,Thu Jul 26 17:01:28 +0000 2012,:%s/\\/\//g Replaces all backslashes with forward slashes.
+228173125697806340,Wed Jul 25 17:01:27 +0000 2012,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://t.co/LDjwut6u
+227810790789509120,Tue Jul 24 17:01:39 +0000 2012,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://t.co/LDjwut6u
+227448375363112960,Mon Jul 23 17:01:33 +0000 2012,CTRL-w | and CTRL-W _ maximize your current split vertically and horizontally, respectively. CTRL-W = equalizes 'em.
+226361201960038400,Fri Jul 20 17:01:30 +0000 2012,ga will display the ASCII, hex, and octal value of the character under the cursor. http://t.co/LDjwut6u
+226032115932864500,Thu Jul 19 19:13:50 +0000 2012,RT @ReinH: @vimtips Now meaning as of Vim 7.3 iirc
+226032096228024320,Thu Jul 19 19:13:45 +0000 2012,RT @ReinH: @vimtips You can use :set colorcolumn=80 now as well.
+225998809233235970,Thu Jul 19 17:01:29 +0000 2012,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://t.co/YOMNibJ9
+225636516939055100,Wed Jul 18 17:01:52 +0000 2012,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://t.co/N7g7LQA8
+225274043157331970,Tue Jul 17 17:01:31 +0000 2012,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. http://t.co/4HCLjaJl
+224911678729490430,Mon Jul 16 17:01:37 +0000 2012,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+223824470543040500,Fri Jul 13 17:01:26 +0000 2012,/joe/e will search for joe and place the cursor at the end of the match. http://t.co/LDjwut6u
+223462118073171970,Thu Jul 12 17:01:35 +0000 2012,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+223099772855271420,Wed Jul 11 17:01:45 +0000 2012,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+222737276864708600,Tue Jul 10 17:01:19 +0000 2012,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://t.co/9CE23jqs
+222374997598019600,Mon Jul 09 17:01:45 +0000 2012,:%s/\ v(.*\ n){5}/&amp;\ r will insert a blank line every 5 lines (remove spaces) http://t.co/YPhIpSRm
+221287741927866370,Fri Jul 06 17:01:23 +0000 2012,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+220925444160102400,Thu Jul 05 17:01:45 +0000 2012,:g/_pattern_/s/^/#/g will comment out lines containing _pattern_ (if '#' is your comment character/sequence) (via @vrybas_)
+220562998127894530,Wed Jul 04 17:01:31 +0000 2012,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://t.co/N7g7LQA8
+220200605971521540,Tue Jul 03 17:01:30 +0000 2012,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://t.co/LDjwut6u
+219838186094993400,Mon Jul 02 17:01:22 +0000 2012,== will auto-indent the current line.  Select text in visual mode, then = to auto-indent the selected lines. http://t.co/gnxvE6Jf
+218751003024044030,Fri Jun 29 17:01:17 +0000 2012,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+218388613262614530,Thu Jun 28 17:01:17 +0000 2012,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://t.co/OtqkOXxp
+217663842132574200,Tue Jun 26 17:01:18 +0000 2012,:wa will save all buffers. :xa will save all buffers and exit Vim. http://t.co/EizAEyQg
+217301466703085570,Mon Jun 25 17:01:21 +0000 2012,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://t.co/BZwseG2M
+216214283527274500,Fri Jun 22 17:01:16 +0000 2012,To search for a URL without backslashing, search backwards!  Example: ?http://t.co/SUD8pLEm  http://t.co/LDjwut6u
+215489509637373950,Wed Jun 20 17:01:17 +0000 2012,CTRL-w s CTRL-w T will open current buffer in new tab (via @vrybas_)
+215127141057167360,Tue Jun 19 17:01:21 +0000 2012,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+214764751710978050,Mon Jun 18 17:01:21 +0000 2012,K runs a prgrm to lookup the keyword under the cursor. If writing C, it runs man. In Ruby, it (should) run ri, Python (perhaps) pydoc.
+213677601577893900,Fri Jun 15 17:01:24 +0000 2012,:tab sball will re-tab all files in the buffers list. http://t.co/LDjwut6u
+213315203339796480,Thu Jun 14 17:01:22 +0000 2012,gf will open the file under the cursor.  (Killer feature.) http://t.co/LDjwut6u
+212952810201956350,Wed Jun 13 17:01:21 +0000 2012,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+212590397787082750,Tue Jun 12 17:01:15 +0000 2012,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://t.co/LDjwut6u
+212228022823170050,Mon Jun 11 17:01:18 +0000 2012,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  http://t.co/YPhIpSRm
+211140894584344580,Fri Jun 08 17:01:26 +0000 2012,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://t.co/DKpSo7oA
+210416107771789300,Wed Jun 06 17:01:24 +0000 2012,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://t.co/LDjwut6u
+210053666051334140,Tue Jun 05 17:01:11 +0000 2012,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://t.co/N7g7LQA8
+209691324646035460,Mon Jun 04 17:01:22 +0000 2012,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://t.co/N7g7LQA8
+208604125657706500,Fri Jun 01 17:01:13 +0000 2012,:scriptnames will list all plugins and _vimrcs loaded. http://t.co/YPhIpSRm
+208241766816677900,Thu May 31 17:01:20 +0000 2012,In your ~/.vimrc, `set clipboard=unnamed`. Now all operations work with the OS clipboard. No need for "+, "* (via @panozzaj)
+207879403198365700,Wed May 30 17:01:26 +0000 2012,/begin\_.*end will search for begin AND end over multiple lines.  http://t.co/LDjwut6u
+207516968176197630,Tue May 29 17:01:15 +0000 2012,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) http://t.co/KWtN8dGy
+207154604541091840,Mon May 28 17:01:21 +0000 2012,:history lists the history of your recent commands, sans duplicates.   http://t.co/N7g7LQA8
+206067408664932350,Fri May 25 17:01:13 +0000 2012,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://t.co/mWzF9g1h
+205705018714755070,Thu May 24 17:01:12 +0000 2012,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://t.co/ceIvq25O
+205342620690550800,Wed May 23 17:01:10 +0000 2012,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://t.co/N7g7LQA8
+204980223324864500,Tue May 22 17:01:08 +0000 2012,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://t.co/N7g7LQA8
+204617883362394100,Mon May 21 17:01:19 +0000 2012,ggVG= will auto-format the entire document
+203568539053985800,Fri May 18 19:31:36 +0000 2012,. @_waseem :tabnew +4 /path/to/file should work. Try it.
+203530787889491970,Fri May 18 17:01:35 +0000 2012,/joe/+3 will search for joe and place the cursor three lines below the match.  http://t.co/LDjB237o
+203168354360500220,Thu May 17 17:01:25 +0000 2012,:%s/~/sue/igc substitute your last replacement string with sue. http://t.co/LDjB237o
+202805999583760400,Wed May 16 17:01:32 +0000 2012,Use "_dd to delete one line without overriding the buffer. "_ is black hole register. "When writing to this register, nothing happens."
+202502992614793200,Tue May 15 20:57:30 +0000 2012,%s/^ \ n/ / to delete all empty lines (remove spaces from command!) (via @marekkubis)
+202471908191637500,Tue May 15 18:53:59 +0000 2012,Sorry, everyone, for the extended absence. I hope to return to tweeting on a regular schedule shortly. The site will be back, too.
+202242395151155200,Tue May 15 03:41:59 +0000 2012,:scriptnames will list all plugins and _vimrcs loaded. http://t.co/YPhMXsSg
+147722649454395400,Fri Dec 16 16:59:58 +0000 2011,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://t.co/N7gcjqJi
+147360266349322240,Thu Dec 15 16:59:59 +0000 2011,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://t.co/9CE6ATzC
+146997877489668100,Wed Dec 14 16:59:59 +0000 2011,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+146635487799554050,Tue Dec 13 16:59:59 +0000 2011,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://t.co/LDjB237o
+146273102173704200,Mon Dec 12 16:59:59 +0000 2011,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+145185938107138050,Fri Dec 09 16:59:59 +0000 2011,CTRL-w | and CTRL-W _ maximize your current split vertically and horizontally, respectively. CTRL-W = equalizes 'em.
+144823553404051460,Thu Dec 08 17:00:00 +0000 2011,gf will open the file under the cursor.  (Killer feature.) http://t.co/LDjB237o
+144461166792544260,Wed Dec 07 17:00:00 +0000 2011,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://t.co/K0YXNKV0
+144098775894470660,Tue Dec 06 17:00:00 +0000 2011,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://t.co/LDjB237o
+143736388775456770,Mon Dec 05 17:00:00 +0000 2011,vim -c [command] will launch vim and run a : command at launch, e.g. "vim -c NERDTree." (via @sgharms)
+142649229674950660,Fri Dec 02 17:00:01 +0000 2011,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://t.co/DKpWVHxK
+142286842128105470,Thu Dec 01 17:00:01 +0000 2011,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+141924456187703300,Wed Nov 30 17:00:01 +0000 2011,:g/_pattern_/s/^/#/g will comment out lines containing _pattern_ (if '#' is your comment character/sequence) (via @vrybas_)
+141562065943924740,Tue Nov 29 17:00:01 +0000 2011,CTRL-w K will switch vertical split into horizontal, CTRL-w H will switch a horizontal into a vertical. (via @mpetrsson)
+141199680280330240,Mon Nov 28 17:00:01 +0000 2011,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+140112520684912640,Fri Nov 25 17:00:02 +0000 2011,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://t.co/DKpWVHxK
+139750136241864700,Thu Nov 24 17:00:03 +0000 2011,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+139387750406299650,Wed Nov 23 17:00:04 +0000 2011,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://t.co/7NwCRfGg
+139025358983938050,Tue Nov 22 17:00:03 +0000 2011,:lcd %:p:h will change to the directory of the current file. http://t.co/LDjB237o
+138662987400622080,Mon Nov 21 17:00:07 +0000 2011,:%s/\\/\//g Replaces all backslashes with forward slashes.
+137575810927304700,Fri Nov 18 17:00:04 +0000 2011,:ju(mps) : list your movements {{help|jump-motions}}  http://t.co/N7gcjqJi\
+137213421996359680,Thu Nov 17 17:00:03 +0000 2011,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://t.co/LDjB237o
+136851031421222910,Wed Nov 16 17:00:03 +0000 2011,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://t.co/N7gcjqJi
+136488647183708160,Tue Nov 15 17:00:03 +0000 2011,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://t.co/LDjB237o
+136126258810601470,Mon Nov 14 17:00:03 +0000 2011,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+135039094555283460,Fri Nov 11 17:00:03 +0000 2011,:g/search_term/# display each line containing 'search_term' with line numbers. http://t.co/LDjB237o
+134676707130093570,Thu Nov 10 17:00:03 +0000 2011,zz to center the cursor vertically on your screen. Useful when you 250Gzz, for instance. http://t.co/ZN5OpKdb
+131761950387482620,Wed Nov 02 15:57:51 +0000 2011,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://t.co/LDjB237o
+131399575763304450,Tue Nov 01 15:57:54 +0000 2011,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://t.co/N7gcjqJi
+131037204154826750,Mon Oct 31 15:57:58 +0000 2011,/joe/e will search for joe and place the cursor at the end of the match. http://t.co/LDjB237o
+129950080546504700,Fri Oct 28 15:58:08 +0000 2011,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://t.co/LDjB237o
+129587705444184060,Thu Oct 27 15:58:11 +0000 2011,CTRL-w s CTRL-w T will open current buffer in new tab (via @vrybas_)
+129225331159744510,Wed Oct 26 15:58:14 +0000 2011,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+128862960176209920,Tue Oct 25 15:58:18 +0000 2011,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://t.co/LDjB237o
+128500589834403840,Mon Oct 24 15:58:22 +0000 2011,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+127413463441088510,Fri Oct 21 15:58:31 +0000 2011,:ju(mps) : list your movements {{help|jump-motions}}  http://t.co/N7gcjqJi\
+127051091882938370,Thu Oct 20 15:58:35 +0000 2011,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+126688719087480830,Wed Oct 19 15:58:39 +0000 2011,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://t.co/LDjB237o
+126326343246954500,Tue Oct 18 15:58:41 +0000 2011,ysiw' to surround current word with ', cs'{ changes 'word' to { word } using the surround plugin http://t.co/7QnLiwP3 (via @oriolgual)
+125963974960349180,Mon Oct 17 15:58:46 +0000 2011,:wa will save all buffers. :xa will save all buffers and exit Vim. http://t.co/EizFc8Zq
+124876850072789000,Fri Oct 14 15:58:55 +0000 2011,* # g* g# each searches for the word under the cursor (forwards/backwards) http://t.co/N7gcjqJi
+124514476623011840,Thu Oct 13 15:58:59 +0000 2011,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://t.co/LDjB237o
+124152104490246140,Wed Oct 12 15:59:03 +0000 2011,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) http://t.co/KWtRFNPI
+123789727055876100,Tue Oct 11 15:59:05 +0000 2011,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://t.co/7NwCRfGg
+123427358270160900,Mon Oct 10 15:59:10 +0000 2011,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+122340234523447300,Fri Oct 07 15:59:19 +0000 2011,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+121977862571044860,Thu Oct 06 15:59:23 +0000 2011,zz to center the cursor vertically on your screen. Useful when you 250Gzz, for instance. http://t.co/ZN5OpKdb
+121615486466277380,Wed Oct 05 15:59:26 +0000 2011,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+121253113536581630,Tue Oct 04 15:59:29 +0000 2011,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+120890743626805250,Mon Oct 03 15:59:33 +0000 2011,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+119803619515183100,Fri Sep 30 15:59:43 +0000 2011,:%s/\ v(.*\ n){5}/&\ r will insert a blank line every 5 lines (remove spaces) http://is.gd/6PB6n
+119441246983950340,Thu Sep 29 15:59:47 +0000 2011,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+119078872250716160,Wed Sep 28 15:59:50 +0000 2011,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+118716499438485500,Tue Sep 27 15:59:53 +0000 2011,To search for a URL without backslashing, search backwards!  Example: ?http://t.co/SUDcXlNw  http://is.gd/4xZW
+118354129004404740,Mon Sep 26 15:59:57 +0000 2011,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+117265694869037060,Fri Sep 23 15:54:55 +0000 2011,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
+116903316105080830,Thu Sep 22 15:54:57 +0000 2011,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+116540946191093760,Wed Sep 21 15:55:01 +0000 2011,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+116178566508589060,Tue Sep 20 15:55:03 +0000 2011,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+115816191624351740,Mon Sep 19 15:55:06 +0000 2011,:40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+114729061162557440,Fri Sep 16 15:55:14 +0000 2011,After performing an undo, you can navigate through the changes using g- and g+. Also, try :undolist to list the changes. http://is.gd/cT0dc
+114366685997305860,Thu Sep 15 15:55:17 +0000 2011,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
+114004308554547200,Wed Sep 14 15:55:19 +0000 2011,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+113641934488215550,Tue Sep 13 15:55:23 +0000 2011,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+113279561168461820,Mon Sep 12 15:55:26 +0000 2011,== will auto-indent the current line.  Select text in visual mode, then = to auto-indent the selected lines. http://is.gd/8etC
+112192427531583490,Fri Sep 09 15:55:33 +0000 2011,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+111830051313557500,Thu Sep 08 15:55:36 +0000 2011,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+111467672230834180,Wed Sep 07 15:55:38 +0000 2011,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+111105299095621630,Tue Sep 06 15:55:42 +0000 2011,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+110742923435454460,Mon Sep 05 15:55:45 +0000 2011,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  http://is.gd/6PB6n
+109655793749602300,Fri Sep 02 15:55:53 +0000 2011,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
+109293418236227580,Thu Sep 01 15:55:56 +0000 2011,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+108931038562099200,Wed Aug 31 15:55:58 +0000 2011,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+108568665519165440,Tue Aug 30 15:56:01 +0000 2011,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI
+108206290513309700,Mon Aug 29 15:56:04 +0000 2011,"2p will put the second to last thing yanked, "3p will put the third to last, etc. http://is.gd/do1Dt
+107119159489474560,Fri Aug 26 15:56:12 +0000 2011,/fred|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+106756784504586240,Thu Aug 25 15:56:15 +0000 2011,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+106394405753196540,Wed Aug 24 15:56:17 +0000 2011,g; will cycle through your recent changes (or g, to go in reverse.  http://is.gd/4xZW
+105669657276588030,Mon Aug 22 15:56:24 +0000 2011,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+104582525376147460,Fri Aug 19 15:56:31 +0000 2011,K runs a prgrm to lookup the keyword under the cursor. If writing C, it runs man. In Ruby, it (should) run ri, Python (perhaps) pydoc.
+104220149376229380,Thu Aug 18 15:56:34 +0000 2011,vim -c [command] will launch vim and run a : command at launch, e.g. "vim -c NERDTree." (via @sgharms)
+103857772692652030,Wed Aug 17 15:56:37 +0000 2011,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://is.gd/4xZW
+103495394784325630,Tue Aug 16 15:56:39 +0000 2011,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+103133021531680770,Mon Aug 15 15:56:43 +0000 2011,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+102045890646261760,Fri Aug 12 15:56:50 +0000 2011,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+101683516064022530,Thu Aug 11 15:56:54 +0000 2011,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+101321136880619520,Wed Aug 10 15:56:56 +0000 2011,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+100958762340335620,Tue Aug 09 15:56:59 +0000 2011,Edit and encrypt a file: vim -x filename (via @dlibanori)
+100596389528080380,Mon Aug 08 15:57:02 +0000 2011,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+99509254892953600,Fri Aug 05 15:57:09 +0000 2011,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+99146881669677060,Thu Aug 04 15:57:13 +0000 2011,In visual mode, use s" to surround the selected text with " using the surround plugin. http://is.gd/fpwJQ (via @grasselli)
+98784505204195330,Wed Aug 03 15:57:16 +0000 2011,@: to repeat the last executed command.  http://is.gd/9cuP
+98422126700281860,Tue Aug 02 15:57:18 +0000 2011,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+98059754181636100,Mon Aug 01 15:57:21 +0000 2011,/begin\_.*end will search for begin AND end over multiple lines.  http://is.gd/4xZW
+96972621048057860,Fri Jul 29 15:57:29 +0000 2011,%s/^ \ n/ / to delete all empty lines (remove spaces from command!) (via @marekkubis)
+96610246696509440,Thu Jul 28 15:57:32 +0000 2011,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+96247891710050300,Wed Jul 27 15:57:40 +0000 2011,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
+95885495439069180,Tue Jul 26 15:57:38 +0000 2011,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+95523120873619460,Mon Jul 25 15:57:41 +0000 2011,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+94435989925277700,Fri Jul 22 15:57:49 +0000 2011,:scriptnames will list all plugins and _vimrcs loaded. http://is.gd/6PB6n
+94073614017642500,Thu Jul 21 15:57:52 +0000 2011,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+93711237950607360,Wed Jul 20 15:57:54 +0000 2011,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+93348862193971200,Tue Jul 19 15:57:57 +0000 2011,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+92986488614162430,Mon Jul 18 15:58:01 +0000 2011,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+91899354545258500,Fri Jul 15 15:58:08 +0000 2011,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+91536980789313540,Thu Jul 14 15:58:11 +0000 2011,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+91174603455610880,Wed Jul 13 15:58:14 +0000 2011,CTRL-w K will switch vertical split into horizontal, CTRL-w H will switch a horizontal into a vertical. (via @mpetrsson)
+90812229192130560,Tue Jul 12 15:58:17 +0000 2011,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
+90449852957343740,Mon Jul 11 15:58:20 +0000 2011,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://is.gd/4xZW
+89362723925794820,Fri Jul 08 15:58:28 +0000 2011,ggVG= will auto-format the entire document
+89000344385888260,Thu Jul 07 15:58:30 +0000 2011,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+88637969094811650,Wed Jul 06 15:58:33 +0000 2011,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+88275592344117250,Tue Jul 05 15:58:35 +0000 2011,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. http://is.gd/cT0dc
+87913220446232580,Mon Jul 04 15:58:39 +0000 2011,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+86826086809341950,Fri Jul 01 15:58:46 +0000 2011,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+86463715213459460,Thu Jun 30 15:58:50 +0000 2011,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://is.gd/7Onk
+86101337179303940,Wed Jun 29 15:58:53 +0000 2011,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+85738961162608640,Tue Jun 28 15:58:55 +0000 2011,:w !sudo tee % will use sudo to write the open file (have you ever forgotten to `sudo vim /path/to/file`?)  (via @gbretou)
+85376586743951360,Mon Jun 27 15:58:59 +0000 2011,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+84289454788972540,Fri Jun 24 15:59:06 +0000 2011,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+83927076889034750,Thu Jun 23 15:59:09 +0000 2011,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+83564702692687870,Wed Jun 22 15:59:12 +0000 2011,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+83202326306893820,Tue Jun 21 15:59:15 +0000 2011,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+82839952211181570,Mon Jun 20 15:59:18 +0000 2011,:g/_pattern_/s/^/#/g will comment out lines containing _pattern_ (if '#' is your comment character/sequence) (via @vrybas_)
+81752819648036860,Fri Jun 17 15:59:25 +0000 2011,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+81390445271330820,Thu Jun 16 15:59:28 +0000 2011,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+81028069871190020,Wed Jun 15 15:59:31 +0000 2011,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+80665692625580030,Tue Jun 14 15:59:34 +0000 2011,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
+80303319364542460,Mon Jun 13 15:59:37 +0000 2011,CTRL-w | and CTRL-W _ maximize your current split vertically and horizontally, respectively. CTRL-W = equalizes 'em.
+68706582535479300,Thu May 12 15:58:20 +0000 2011,zz to center the cursor vertically on your screen. Useful when you 250Gzz, for instance. http://is.gd/XKGK1X
+68344199744978940,Wed May 11 15:58:21 +0000 2011,CTRL-w | and CTRL-W _ maximize your current split vertically and horizontally, respectively. CTRL-W = equalizes 'em.
+67981816593788930,Tue May 10 15:58:22 +0000 2011,/fred|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+67619439436238850,Mon May 09 15:58:25 +0000 2011,CTRL-w K will switch vertical split into horizontal, CTRL-w H will switch a horizontal into a vertical. (via @mpetrsson)
+66532289919721470,Fri May 06 15:58:28 +0000 2011,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+66169908626587650,Thu May 05 15:58:30 +0000 2011,:g/_pattern_/s/^/#/g will comment out lines containing _pattern_ (if '#' is your comment character/sequence) (via @vrybas_)
+65807525563469820,Wed May 04 15:58:31 +0000 2011,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://is.gd/7Onk
+65445143062388740,Tue May 03 15:58:32 +0000 2011,To search for a URL without backslashing, search backwards!  Example: ?http://somestuff.com  http://is.gd/4xZW
+65082763375677440,Mon May 02 15:58:34 +0000 2011,:w !sudo tee % will use sudo to write the open file (have you ever forgotten to `sudo vim /path/to/file`?)  (via @gbretou)
+63995611673927680,Fri Apr 29 15:58:37 +0000 2011,vim -c [command] will launch vim and run a : command at launch, e.g. "vim -c NERDTree." (via @sgharms)
+63633228803747840,Thu Apr 28 15:58:38 +0000 2011,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+63270846977937410,Wed Apr 27 15:58:40 +0000 2011,%s/^ \ n/ / to delete all empty lines (remove spaces from command!) (via @marekkubis)
+62908463310835710,Tue Apr 26 15:58:41 +0000 2011,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
+62546086967001090,Mon Apr 25 15:58:43 +0000 2011,/joe/e will search for joe and place the cursor at the end of the match. http://is.gd/4xZW
+61458934610931710,Fri Apr 22 15:58:46 +0000 2011,CTRL-w s CTRL-w T will open current buffer in new tab (via @vrybas_)
+61096552785117180,Thu Apr 21 15:58:47 +0000 2011,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+60371789464866820,Tue Apr 19 15:58:50 +0000 2011,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+60009409966907390,Mon Apr 18 15:58:52 +0000 2011,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+58922259494076420,Fri Apr 15 15:58:56 +0000 2011,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+58559874971340800,Thu Apr 14 15:58:56 +0000 2011,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  http://is.gd/6PB6n
+58197492218605570,Wed Apr 13 15:58:58 +0000 2011,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+57835109637828610,Tue Apr 12 15:58:59 +0000 2011,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+57472730064371710,Mon Apr 11 15:59:01 +0000 2011,:wa will save all buffers. :xa will save all buffers and exit Vim. http://is.gd/do1qZ
+56385582808571900,Fri Apr 08 15:59:05 +0000 2011,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+56023198248087550,Thu Apr 07 15:59:05 +0000 2011,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+55660818758504450,Wed Apr 06 15:59:07 +0000 2011,"2p will put the second to last thing yanked, "3p will put the third to last, etc. http://is.gd/do1Dt
+55298435343073280,Tue Apr 05 15:59:09 +0000 2011,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
+54936056272920580,Mon Apr 04 15:59:11 +0000 2011,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+53848906928361470,Fri Apr 01 15:59:14 +0000 2011,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://is.gd/4xZW
+53530395135844350,Thu Mar 31 18:53:35 +0000 2011,If you've got a tip for vim users, please submit it at http://bit.ly/eQNaQ9 !
+53486521730334720,Thu Mar 31 15:59:15 +0000 2011,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+53124140223303680,Wed Mar 30 15:59:16 +0000 2011,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+52761759378976770,Tue Mar 29 15:59:18 +0000 2011,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+52430339213246460,Mon Mar 28 18:02:21 +0000 2011,@mxey Patience is a virtue. You can see more at http://vimtweets.com. You can also suggest a tip.
+52399380036194300,Mon Mar 28 15:59:20 +0000 2011,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+51312228779048960,Fri Mar 25 15:59:23 +0000 2011,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+50949844726063100,Thu Mar 24 15:59:24 +0000 2011,ggVG= will auto-format the entire document
+50587466008240130,Wed Mar 23 15:59:26 +0000 2011,Edit and encrypt a file: vim -x filename (via @dlibanori)
+50225080743112700,Tue Mar 22 15:59:27 +0000 2011,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+49862701731676160,Mon Mar 21 15:59:29 +0000 2011,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+48775553897078780,Fri Mar 18 15:59:32 +0000 2011,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+48413171366641660,Thu Mar 17 15:59:34 +0000 2011,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+48050787531767810,Wed Mar 16 15:59:35 +0000 2011,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+47688405961801730,Tue Mar 15 15:59:36 +0000 2011,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+47326028057681920,Mon Mar 14 15:59:39 +0000 2011,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+46253974852075520,Fri Mar 11 16:59:41 +0000 2011,:%s/\ v(.*\ n){5}/&\ r will insert a blank line every 5 lines (remove spaces) http://is.gd/6PB6n
+45891591289835520,Thu Mar 10 16:59:42 +0000 2011,:40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+45529210781040640,Wed Mar 09 16:59:44 +0000 2011,K runs a prgrm to lookup the keyword under the cursor. If writing C, it runs man. In Ruby, it (should) run ri, Python (perhaps) pydoc.
+45166829370490880,Tue Mar 08 16:59:45 +0000 2011,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+44804448270290940,Mon Mar 07 16:59:47 +0000 2011,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+43753015060086780,Fri Mar 04 19:21:46 +0000 2011,@evantravers See ack.vim: http://bit.ly/dD41HA
+43717297826836480,Fri Mar 04 16:59:50 +0000 2011,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+43354914952462340,Thu Mar 03 16:59:51 +0000 2011,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
+42992535555145730,Wed Mar 02 16:59:53 +0000 2011,After performing an undo, you can navigate through the changes using g- and g+. Also, try :undolist to list the changes. http://is.gd/cT0dc
+42630154060705790,Tue Mar 01 16:59:55 +0000 2011,ysiw' to surround current word with ', cs'{ changes 'word' to { word } using the surround plugin http://is.gd/fpwJQ (via @oriolgual)
+42267773392519170,Mon Feb 28 16:59:57 +0000 2011,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+41180654997733380,Fri Feb 25 17:00:07 +0000 2011,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+41180622206664700,Fri Feb 25 17:00:00 +0000 2011,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
+40818261922820100,Thu Feb 24 17:00:06 +0000 2011,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+40818241639165950,Thu Feb 24 17:00:01 +0000 2011,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+40455881015558140,Wed Feb 23 17:00:08 +0000 2011,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://is.gd/4xZW
+40455863290306560,Wed Feb 23 17:00:04 +0000 2011,:ju(mps) : list your movements {{help|jump-motions}}  http://is.gd/7Onk\
+39731105863041020,Mon Feb 21 17:00:08 +0000 2011,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+38643935085596670,Fri Feb 18 17:00:06 +0000 2011,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
+38281547203215360,Thu Feb 17 17:00:06 +0000 2011,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+37919157425020930,Wed Feb 16 17:00:06 +0000 2011,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+37556771694317570,Tue Feb 15 17:00:06 +0000 2011,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+37509729404063740,Tue Feb 15 13:53:11 +0000 2011,@jon2512chua period repeats the last action, @: repeats the last command-line command. :h @: for more info!
+37194390950641660,Mon Feb 14 17:00:08 +0000 2011,@: to repeat the last executed command.  http://is.gd/9cuP
+36107220324196350,Fri Feb 11 17:00:06 +0000 2011,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+35744831712010240,Thu Feb 10 17:00:06 +0000 2011,In visual mode, use s" to surround the selected text with " using the surround plugin. http://is.gd/fpwJQ (via @grasselli)
+35382445670928384,Wed Feb 09 17:00:07 +0000 2011,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+35020054818979840,Tue Feb 08 17:00:06 +0000 2011,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+34657677736943616,Mon Feb 07 17:00:08 +0000 2011,g; will cycle through your recent changes (or g, to go in reverse.  http://is.gd/4xZW
+33570507542499330,Fri Feb 04 17:00:07 +0000 2011,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
+33208123724402690,Thu Feb 03 17:00:08 +0000 2011,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+32845740774526976,Wed Feb 02 17:00:09 +0000 2011,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+32487254811222016,Tue Feb 01 17:15:39 +0000 2011,RT @ReinH: @vimtips or just set $VISUAL in your shell.
+32483348244865024,Tue Feb 01 17:00:08 +0000 2011,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+32120965274013696,Mon Jan 31 17:00:09 +0000 2011,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+31033791585722370,Fri Jan 28 17:00:07 +0000 2011,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://is.gd/4xZW
+30671405913735170,Thu Jan 27 17:00:07 +0000 2011,== will auto-indent the current line.  Select text in visual mode, then = to auto-indent the selected lines. http://is.gd/8etC
+30309020388560896,Wed Jan 26 17:00:08 +0000 2011,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+29946627879862270,Tue Jan 25 17:00:07 +0000 2011,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+29584254333616130,Mon Jan 24 17:00:10 +0000 2011,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
+28497072550322176,Fri Jan 21 17:00:06 +0000 2011,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+28134685347414016,Thu Jan 20 17:00:06 +0000 2011,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+27772300816285696,Wed Jan 19 17:00:07 +0000 2011,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
+27409910346022910,Tue Jan 18 17:00:06 +0000 2011,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+27047532655808510,Mon Jan 17 17:00:08 +0000 2011,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+25960358711664640,Fri Jan 14 17:00:06 +0000 2011,:scriptnames will list all plugins and _vimrcs loaded. http://is.gd/6PB6n
+25597977116549120,Thu Jan 13 17:00:07 +0000 2011,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+25235585845170176,Wed Jan 12 17:00:07 +0000 2011,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+24873196431867904,Tue Jan 11 17:00:06 +0000 2011,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+24510817156206590,Mon Jan 10 17:00:08 +0000 2011,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+23423645183377410,Fri Jan 07 17:00:06 +0000 2011,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+23061258873868290,Thu Jan 06 17:00:07 +0000 2011,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+22698869636730880,Wed Jan 05 17:00:06 +0000 2011,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+22336481808879616,Tue Jan 04 17:00:06 +0000 2011,/begin\_.*end will search for begin AND end over multiple lines.  http://is.gd/4xZW
+21974101459468290,Mon Jan 03 17:00:08 +0000 2011,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+20886930950455296,Fri Dec 31 17:00:07 +0000 2010,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI
+20868070373335040,Fri Dec 31 15:45:10 +0000 2010,@locks Yes. I retweeted @igrigorik's initial tweet about it on the 28th!
+20524543927918590,Thu Dec 30 17:00:07 +0000 2010,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+20162154489454590,Wed Dec 29 17:00:06 +0000 2010,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+19837495617257470,Tue Dec 28 19:30:02 +0000 2010,RT @igrigorik: *drumroll* ... vimgolf.com is live! join in on the fun / add your own challenges @ http://j.mp/hW2UuP :-)
+19836995421347840,Tue Dec 28 19:28:02 +0000 2010,RT @chrismdp: @vimtips how about just !!date? Insert results of command at cursor...
+19799765973733376,Tue Dec 28 17:00:06 +0000 2010,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://is.gd/4xZW
+19437382449238016,Mon Dec 27 17:00:07 +0000 2010,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://is.gd/4xZW
+18350213609562110,Fri Dec 24 17:00:06 +0000 2010,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+17987825483915264,Thu Dec 23 17:00:06 +0000 2010,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) http://is.gd/tj4y
+17625442253012992,Wed Dec 22 17:00:07 +0000 2010,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+17263050956480512,Tue Dec 21 17:00:06 +0000 2010,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+16900670045028352,Mon Dec 20 17:00:08 +0000 2010,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. http://is.gd/cT0dc
+10015294491729920,Wed Dec 01 17:00:06 +0000 2010,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+9652908211572736,Tue Nov 30 17:00:07 +0000 2010,ysiw' to surround current word with ', cs'{ changes 'word' to { word } using the surround plugin http://is.gd/fpwJQ (via @oriolgual)
+9290527547588608,Mon Nov 29 17:00:09 +0000 2010,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+8203354798825472,Fri Nov 26 17:00:06 +0000 2010,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+7840966803197952,Thu Nov 25 17:00:06 +0000 2010,:ju(mps) : list your movements {{help|jump-motions}}  http://is.gd/7Onk\
+7510928677412864,Wed Nov 24 19:08:39 +0000 2010,Many mentioned :Sex opens a file explorer also -- in a split window. It's a different tip! http://is.gd/hInzT Plus, :E is 2 fewer chars
+7510262055706624,Wed Nov 24 19:06:00 +0000 2010,RT @panozzaj: Wow, figured out that d% in #vim will delete to the matching brace.  Makes sense, but never used it before. /cc @vimtips
+7478579017289728,Wed Nov 24 17:00:06 +0000 2010,@: to repeat the last executed command.  http://is.gd/9cuP
+7116189411049472,Tue Nov 23 17:00:06 +0000 2010,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://is.gd/7Onk
+6753809405575168,Mon Nov 22 17:00:08 +0000 2010,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+5666641123745792,Fri Nov 19 17:00:07 +0000 2010,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+5304249663627264,Thu Nov 18 17:00:06 +0000 2010,/fred|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+4941866009108480,Wed Nov 17 17:00:07 +0000 2010,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+4579476818100224,Tue Nov 16 17:00:07 +0000 2010,/joe/e will search for joe and place the cursor at the end of the match. http://is.gd/4xZW
+4217093067112449,Mon Nov 15 17:00:07 +0000 2010,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+3129927805181952,Fri Nov 12 17:00:07 +0000 2010,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+2767538039554048,Thu Nov 11 17:00:07 +0000 2010,:scriptnames will list all plugins and _vimrcs loaded. http://is.gd/6PB6n
+2405146789154818,Wed Nov 10 17:00:06 +0000 2010,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+2042765802217472,Tue Nov 09 17:00:07 +0000 2010,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+1680390787964928,Mon Nov 08 17:00:11 +0000 2010,In visual mode, use s" to surround the selected text with " using the surround plugin. http://is.gd/fpwJQ (via @grasselli)
+578117823373312,Fri Nov 05 16:00:08 +0000 2010,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+29679072578,Thu Nov 04 16:00:09 +0000 2010,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+29584110429,Wed Nov 03 16:00:07 +0000 2010,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
+29482900795,Tue Nov 02 16:00:08 +0000 2010,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+29384755032,Mon Nov 01 16:00:10 +0000 2010,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
+29100941025,Fri Oct 29 16:00:08 +0000 2010,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
+29002007814,Thu Oct 28 16:00:10 +0000 2010,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+28902803023,Wed Oct 27 16:00:07 +0000 2010,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+28803838866,Tue Oct 26 16:00:07 +0000 2010,:%s/\ v(.*\ n){5}/&\ r will insert a blank line every 5 lines (remove spaces) http://is.gd/6PB6n
+28703994200,Mon Oct 25 16:00:09 +0000 2010,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+28417727726,Fri Oct 22 16:00:09 +0000 2010,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+28039436498,Thu Oct 21 16:00:09 +0000 2010,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://is.gd/4xZW
+27943780737,Wed Oct 20 16:00:06 +0000 2010,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+27846368946,Tue Oct 19 16:00:06 +0000 2010,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
+27747724978,Mon Oct 18 16:00:09 +0000 2010,"2p will put the second to last thing yanked, "3p will put the third to last, etc. http://is.gd/do1Dt
+27454960404,Fri Oct 15 16:00:06 +0000 2010,:wa will save all buffers. :xa will save all buffers and exit Vim. http://is.gd/do1qZ
+27354045468,Thu Oct 14 16:00:06 +0000 2010,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+27254399629,Wed Oct 13 16:00:07 +0000 2010,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+27151762528,Tue Oct 12 16:00:06 +0000 2010,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+27046650646,Mon Oct 11 16:00:09 +0000 2010,== will auto-indent the current line.  Select text in visual mode, then = to auto-indent the selected lines. http://is.gd/8etC
+26762583169,Fri Oct 08 16:00:07 +0000 2010,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+26661349645,Thu Oct 07 16:00:06 +0000 2010,%s/&lt;C-R&gt;a/bar/g will place the contents of register 'a' in the search, and replace it with 'bar'.
+26564028036,Wed Oct 06 16:00:06 +0000 2010,After performing an undo, you can navigate through the changes using g- and g+. Also, try :undolist to list the changes. http://is.gd/cT0dc
+26469119472,Tue Oct 05 16:00:06 +0000 2010,'0 opens the last modified file ('1 '2 '3 works too) (via @grasselli)
+26375206547,Mon Oct 04 16:00:09 +0000 2010,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+26092992413,Fri Oct 01 16:00:07 +0000 2010,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+25992611041,Thu Sep 30 16:00:06 +0000 2010,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+25895659485,Wed Sep 29 16:00:07 +0000 2010,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+25797568752,Tue Sep 28 16:00:06 +0000 2010,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+25699282829,Mon Sep 27 16:00:08 +0000 2010,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
+25416806505,Fri Sep 24 16:00:07 +0000 2010,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+25319689323,Thu Sep 23 16:00:07 +0000 2010,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+25223864518,Wed Sep 22 16:00:06 +0000 2010,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+25130764212,Tue Sep 21 16:00:06 +0000 2010,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+25037248322,Mon Sep 20 16:00:08 +0000 2010,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+24770466560,Fri Sep 17 16:00:07 +0000 2010,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
+24676159583,Thu Sep 16 16:00:07 +0000 2010,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+24582335287,Wed Sep 15 16:00:07 +0000 2010,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+24487724023,Tue Sep 14 16:00:06 +0000 2010,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+24394652985,Mon Sep 13 16:00:14 +0000 2010,ggVG= will auto-format the entire document
+24116700146,Fri Sep 10 16:00:06 +0000 2010,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+24022143070,Thu Sep 09 16:00:07 +0000 2010,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+23926305922,Wed Sep 08 16:00:07 +0000 2010,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+23911987185,Wed Sep 08 13:04:44 +0000 2010,RT @oriolgual: Anyone interested in a #VIM skin (like http://bit.ly/aYvhSx) for #apple keyboards (w/ or w/o numpad)? Need at least 50 or ...
+23249476700,Tue Sep 07 16:00:10 +0000 2010,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+23156698472,Mon Sep 06 16:00:10 +0000 2010,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://is.gd/4xZW
+22899255148,Fri Sep 03 16:00:09 +0000 2010,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+22810019529,Thu Sep 02 16:00:12 +0000 2010,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+22719469960,Wed Sep 01 16:00:06 +0000 2010,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+22628534836,Tue Aug 31 16:00:06 +0000 2010,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) http://is.gd/tj4y
+22535956695,Mon Aug 30 16:00:10 +0000 2010,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+22277824613,Fri Aug 27 16:00:06 +0000 2010,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+22189272161,Thu Aug 26 16:00:06 +0000 2010,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://is.gd/4xZW
+22099717463,Wed Aug 25 16:00:07 +0000 2010,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+22011580280,Tue Aug 24 16:00:09 +0000 2010,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+21924371634,Mon Aug 23 16:00:16 +0000 2010,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+21675321359,Fri Aug 20 16:00:11 +0000 2010,g; will cycle through your recent changes (or g, to go in reverse.  http://is.gd/4xZW
+21588354231,Thu Aug 19 16:00:08 +0000 2010,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+21501010077,Wed Aug 18 16:00:10 +0000 2010,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+21413854092,Tue Aug 17 16:00:07 +0000 2010,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+21325656415,Mon Aug 16 16:00:11 +0000 2010,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
+21075353218,Fri Aug 13 16:00:07 +0000 2010,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+21026975513,Fri Aug 13 02:24:47 +0000 2010,Gah! Sorry everyone. Those were meant for my personal account, of course.
+20986183668,Thu Aug 12 16:00:07 +0000 2010,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+20896771947,Wed Aug 11 16:00:10 +0000 2010,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+20805541574,Tue Aug 10 16:00:08 +0000 2010,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+20718575906,Mon Aug 09 16:00:09 +0000 2010,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://is.gd/4xZW
+20479740159,Fri Aug 06 16:00:07 +0000 2010,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI
+20398039099,Thu Aug 05 16:00:08 +0000 2010,/begin\_.*end will search for begin AND end over multiple lines.  http://is.gd/4xZW
+20314547632,Wed Aug 04 16:00:06 +0000 2010,:40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+20149511255,Mon Aug 02 16:00:11 +0000 2010,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+19920105278,Fri Jul 30 16:00:10 +0000 2010,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. http://is.gd/cT0dc
+19842794273,Thu Jul 29 17:35:35 +0000 2010,We have 87 tips, 3 of which have been tweeted since the restart. Suggest more at http://vimtweets.com!
+19842718983,Thu Jul 29 17:34:23 +0000 2010,Those who've been following for a long time might've noticed repeats the past couple days. The loop has restarted!
+19836441671,Thu Jul 29 16:00:06 +0000 2010,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+19751372758,Wed Jul 28 16:00:07 +0000 2010,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  http://is.gd/6PB6n
+19687033127,Tue Jul 27 21:23:52 +0000 2010,To search for a URL without backslashing, search backwards!  Example: ?http://somestuff.com  http://is.gd/4xZW
+18926201262,Mon Jul 19 16:00:10 +0000 2010,[I (that's bracket-open, capital-i) shows lines containing the word under the cursor (via @nvie)
+18612623379,Thu Jul 15 16:00:06 +0000 2010,In insert mode do Ctrl+r=53+17&lt;Enter&gt;. This way you can do some calcs with vim. (via @grasselli)
+18605912199,Thu Jul 15 14:26:35 +0000 2010,Actually used C-a and C-x to increment and decrement numbers in some test data. Never thought I'd use it!
+18447479087,Tue Jul 13 16:00:06 +0000 2010,:wa will save all buffers. :xa will save all buffers and exit Vim. http://is.gd/do1qZ
+18364315499,Mon Jul 12 16:00:07 +0000 2010,"2p will put the second to last thing yanked, "3p will put the third to last, etc. http://is.gd/do1Dt
+18128751924,Fri Jul 09 16:00:07 +0000 2010,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+18044519485,Thu Jul 08 16:00:06 +0000 2010,g; will cycle through your recent changes (or g, to go in reverse.  http://is.gd/4xZW
+17959390631,Wed Jul 07 16:00:06 +0000 2010,You probably know that 'u' is undo. Do you know that Ctrl-R is redo?
+17877234573,Tue Jul 06 16:00:07 +0000 2010,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+17799918043,Mon Jul 05 16:00:09 +0000 2010,ci " inside a " " will erase everything between "" and place you in insertion mode. (via @rbernardelli)
+17584008182,Fri Jul 02 16:00:11 +0000 2010,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+17502265030,Thu Jul 01 16:00:07 +0000 2010,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+17424173114,Wed Jun 30 16:00:07 +0000 2010,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+17343266689,Tue Jun 29 16:00:11 +0000 2010,Use '\v' in your regex to set the mode to 'very magic', and avoid confusion. (:h \v for more info.) http://is.gd/tj4y
+17261232738,Mon Jun 28 16:00:09 +0000 2010,:tabdo [some command] will execute the command in all tabs.  Also see windo, bufdo, argdo.
+17024857728,Fri Jun 25 16:00:08 +0000 2010,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+16940076475,Thu Jun 24 16:00:14 +0000 2010,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+16859593391,Wed Jun 23 16:00:06 +0000 2010,ci{ – change text inside {} block. Also see di{, yi{, ci( etc. http://is.gd/cT0dc
+16780721463,Tue Jun 22 16:00:08 +0000 2010,qa starts a recording in register 'a'. q stops it. @a repeats the recording. 5@a repeats it 5 times.  http://is.gd/6PB6n
+16703408073,Mon Jun 21 16:00:10 +0000 2010,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+16480319798,Fri Jun 18 16:00:08 +0000 2010,After performing an undo, you can navigate through the changes using g- and g+. Also, try :undolist to list the changes. http://is.gd/cT0dc
+16399256216,Thu Jun 17 16:00:08 +0000 2010,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://is.gd/4xZW
+16317052032,Wed Jun 16 16:00:08 +0000 2010,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+16234674225,Tue Jun 15 16:00:06 +0000 2010,:read [filename] will insert the contents of [filename] at the current cursor position (via @claytron)
+16158175796,Mon Jun 14 16:00:16 +0000 2010,To search for a URL without backslashing, search backwards!  Example: ?http://somestuff.com  http://is.gd/4xZW
+15938740582,Fri Jun 11 16:00:08 +0000 2010,:%s/\ v(.*\ n){5}/&\ r will insert a blank line every 5 lines (remove spaces) http://is.gd/6PB6n
+15859967554,Thu Jun 10 16:00:07 +0000 2010,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+15787816116,Wed Jun 09 16:00:07 +0000 2010,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+15715358055,Tue Jun 08 16:00:08 +0000 2010,:set autochdir instead of :lcd %:p:h in your vimrc to change directories upon opening a file. (via @jmdeldin)
+15638756509,Mon Jun 07 16:00:10 +0000 2010,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+15425499958,Fri Jun 04 16:00:07 +0000 2010,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+15334733883,Thu Jun 03 16:00:07 +0000 2010,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+15260889027,Wed Jun 02 16:00:07 +0000 2010,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+15211144699,Tue Jun 01 23:32:36 +0000 2010,/joe/e will search for joe and place the cursor at the end of the match. http://is.gd/4xZW
+15197115698,Tue Jun 01 19:01:26 +0000 2010,Technical difficulties with my auto-tweeting. It'll return soon. It may or may not be BP's fault.
+14623647867,Mon May 24 13:40:16 +0000 2010,Check out these Vim tips from the Thoughtbot crew: http://robots.thoughtbot.com/post/619330025/viiiiiiiiiiiiiiiiiim
+14172143660,Mon May 17 16:56:53 +0000 2010,You can now search tips at http://vimtweets.com. Check it out, and tell me what you think!
+13983562279,Fri May 14 16:00:11 +0000 2010,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
+13921219365,Thu May 13 16:00:08 +0000 2010,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
+13858410708,Wed May 12 16:00:06 +0000 2010,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://is.gd/7Onk
+13796225684,Tue May 11 16:12:30 +0000 2010,RT @peepcode: Smash Into Vim! It's the new screencast from PeepCode: http://peepcode.com/products/smash-into-vim-i
+13795627379,Tue May 11 16:00:28 +0000 2010,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+13733761016,Mon May 10 16:00:23 +0000 2010,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+13555956042,Fri May 07 16:00:12 +0000 2010,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+13496860336,Thu May 06 16:45:30 +0000 2010,@panozzaj It should be a command. Sorry. I've updated the tip to read :40,50m30
+13494725716,Thu May 06 16:00:24 +0000 2010,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+13439318929,Wed May 05 17:56:54 +0000 2010,RT @rbxbx: :y&lt;line-number&gt; will yank the passed in ln, :y&lt;ln1, ln2&gt; will yank the range. eg.   :y41 or :y45,50 #vim
+13433946066,Wed May 05 16:00:18 +0000 2010,/begin\_.*end will search for begin AND end over multiple lines.  http://is.gd/4xZW
+13371300276,Tue May 04 16:00:06 +0000 2010,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+13312611771,Mon May 03 16:00:10 +0000 2010,:set guifont=* in gvim or MacVim to get a font selection dialog. Useful while giving presentations. (via @claytron)
+13136571411,Fri Apr 30 16:00:09 +0000 2010,40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+13076114202,Thu Apr 29 16:00:13 +0000 2010,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+13014106745,Wed Apr 28 16:00:06 +0000 2010,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+12952078080,Tue Apr 27 16:00:22 +0000 2010,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+12890643363,Mon Apr 26 16:00:14 +0000 2010,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+12710040921,Fri Apr 23 16:00:12 +0000 2010,:%s/^\ n\ +/\ r/  will compress multiple empty lines into one.  (remove spaces) http://is.gd/4xZW
+12646815947,Thu Apr 22 16:00:08 +0000 2010,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://is.gd/4xZW
+12584130228,Wed Apr 21 16:00:07 +0000 2010,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+12523777348,Tue Apr 20 16:00:07 +0000 2010,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+12462864822,Mon Apr 19 16:00:15 +0000 2010,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+12290532502,Fri Apr 16 16:00:09 +0000 2010,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+12252295665,Fri Apr 16 00:06:10 +0000 2010,RT @claytron: wrote my first vim plugin! vimsizer, inspired by the great Firesizer for Firefox. http://bit.ly/9eKuOc
+12235161894,Thu Apr 15 17:35:29 +0000 2010,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+12235145908,Thu Apr 15 17:35:09 +0000 2010,Bonus tweet for (USA) tax day! Please suggest tweets at vimtweets.com.
+12230595339,Thu Apr 15 16:00:06 +0000 2010,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+12170597724,Wed Apr 14 16:00:07 +0000 2010,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
+12111662441,Tue Apr 13 16:13:20 +0000 2010,RT @jschoolcraft: 10 Vim Tutorials to Jumpstart Your Editor Skills:  http://bit.ly/axRdZY
+12111022543,Tue Apr 13 16:00:08 +0000 2010,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI
+12053153777,Mon Apr 12 16:00:13 +0000 2010,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+11887684977,Fri Apr 09 16:00:11 +0000 2010,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+11830382456,Thu Apr 08 16:00:10 +0000 2010,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+11763289442,Wed Apr 07 16:00:15 +0000 2010,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+11708486080,Tue Apr 06 17:11:38 +0000 2010,Announcement: Do you have a vim tip you'd like to share? Do you want to browse all vimtips? Check out http://vimtweets.com!
+11705174675,Tue Apr 06 16:00:09 +0000 2010,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
+11647362399,Mon Apr 05 16:00:06 +0000 2010,@: to repeat the last executed command.  http://is.gd/9cuP
+11487388427,Fri Apr 02 16:00:16 +0000 2010,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+11431512836,Thu Apr 01 16:00:10 +0000 2010,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+11373504572,Wed Mar 31 16:00:13 +0000 2010,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+11343693265,Wed Mar 31 02:41:43 +0000 2010,:scriptnames will list all plugins and _vimrcs loaded. http://is.gd/6PB6n
+11309575134,Tue Mar 30 14:09:13 +0000 2010,And, of course, follow @vimcasts.
+11309528088,Tue Mar 30 14:08:13 +0000 2010,While you're waiting for me to begin steady tweeting again, you should check out http://vimcasts.org!
+10994710603,Wed Mar 24 19:39:59 +0000 2010,In case you were worried: tips will return soon.  I promise.
+10380411961,Fri Mar 12 17:00:11 +0000 2010,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI
+10330568036,Thu Mar 11 17:00:08 +0000 2010,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+10320487906,Thu Mar 11 12:50:06 +0000 2010,@kevinwatters I don't disagree!  It's mostly just cute.  "hey look what I can do!"
+10279572986,Wed Mar 10 17:00:05 +0000 2010,:%s/&lt; !--\_.{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+10228695885,Tue Mar 09 17:00:06 +0000 2010,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+10178745430,Mon Mar 08 17:00:13 +0000 2010,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+10032543917,Fri Mar 05 17:00:14 +0000 2010,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+9981468530,Thu Mar 04 17:00:08 +0000 2010,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+9931855902,Wed Mar 03 17:00:06 +0000 2010,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+9882263140,Tue Mar 02 17:00:05 +0000 2010,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+9832704396,Mon Mar 01 17:00:08 +0000 2010,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+9686446831,Fri Feb 26 17:00:05 +0000 2010,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://is.gd/7Onk
+9633915252,Thu Feb 25 17:00:05 +0000 2010,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+9583716643,Wed Feb 24 17:00:05 +0000 2010,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+9533580265,Tue Feb 23 17:00:06 +0000 2010,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+9490127467,Mon Feb 22 19:44:07 +0000 2010,@godfoca . Repeats the last edit.  @: repeats the last command-line command.  So, :w then @: would write twice.  Make sense?
+9483790430,Mon Feb 22 17:00:11 +0000 2010,@: to repeat the last executed command.  http://is.gd/9cuP
+9343271687,Fri Feb 19 17:00:05 +0000 2010,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+9291631987,Thu Feb 18 17:00:05 +0000 2010,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+9241784383,Wed Feb 17 17:00:05 +0000 2010,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+9215937305,Wed Feb 17 03:01:44 +0000 2010,@pykler ha!  Right, that's what I meant.  ;-). Replace def with hours.  Sorry.
+9192579880,Tue Feb 16 17:00:05 +0000 2010,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+9147508191,Mon Feb 15 17:00:10 +0000 2010,:%s/\v(.*\n){5}/&\r will insert a blank line every 5 lines http://is.gd/6PB6n
+9016711530,Fri Feb 12 17:00:04 +0000 2010,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
+8968697878,Thu Feb 11 17:00:04 +0000 2010,40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+8909291169,Wed Feb 10 17:00:05 +0000 2010,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+8881172016,Wed Feb 10 01:40:02 +0000 2010,Tip from 2 days ago should have been %s#.*\ (def\ ).*#\ 1# will delete everything on all lines except for the string 'hours'. (no spaces)
+8862083302,Tue Feb 09 17:00:04 +0000 2010,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+8816323303,Mon Feb 08 17:00:09 +0000 2010,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+8684792336,Fri Feb 05 17:00:05 +0000 2010,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+8639456957,Thu Feb 04 17:00:04 +0000 2010,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+8594878944,Wed Feb 03 17:00:05 +0000 2010,:vsplit filename will split the window vertically and open the file in the left-hand pane.  Great when writing unit tests!
+8549585876,Tue Feb 02 17:00:05 +0000 2010,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+8505580159,Mon Feb 01 17:00:12 +0000 2010,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+8400701154,Sat Jan 30 05:19:49 +0000 2010,@mileszs Ignore this update.  It is only a test.
+8375226878,Fri Jan 29 17:00:05 +0000 2010,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
+8329846945,Thu Jan 28 17:00:06 +0000 2010,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
+8285933133,Wed Jan 27 17:00:05 +0000 2010,/fred|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+8242267551,Tue Jan 26 17:00:05 +0000 2010,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
+8198682155,Mon Jan 25 17:00:09 +0000 2010,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+8086918091,Fri Jan 22 22:25:12 +0000 2010,Added 5 new tips to the db. A sensible way for you to suggest tips is also in the works.
+8085942760,Fri Jan 22 21:54:57 +0000 2010,@euanmaxwell Yup!  Sorry.  I updated the tip.  Thanks for the heads-up.
+8076330118,Fri Jan 22 17:00:05 +0000 2010,== will auto-indent the current line.  Select text in visual mode, then == to auto-indent the selected lines. http://is.gd/8etC
+8033792718,Thu Jan 21 17:00:05 +0000 2010,:ju(mps) : list your movements {{help|jump-motions}}  http://is.gd/7Onk
+7994304855,Wed Jan 20 18:10:56 +0000 2010,RT @bryanl: Looking for tips to move text around in vim?  http://smartic.us/2010/01/20/moving-text-around-in-vim/
+7992090880,Wed Jan 20 17:00:06 +0000 2010,:vmap // y/&lt; C-R &gt;"&lt; CR &gt; will make searching for highlighted text (i.e. in visual mode) require only a highlight and // http://is.gd/4xZW
+7951936783,Tue Jan 19 17:00:06 +0000 2010,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+7910367137,Mon Jan 18 17:00:09 +0000 2010,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+7794100918,Fri Jan 15 17:00:04 +0000 2010,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://is.gd/4xZW
+7789237595,Fri Jan 15 14:33:23 +0000 2010,If you're a Ruby developer, check out @ReinH's rubyredgreen plugin for tests from Vim. http://is.gd/6jAut http://screenr.com/gK1
+7754051581,Thu Jan 14 17:00:05 +0000 2010,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+7729876002,Thu Jan 14 01:18:00 +0000 2010,@godfoca Sorry I wasn't of more help!
+7714514292,Wed Jan 13 17:00:05 +0000 2010,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+7710392027,Wed Jan 13 14:53:22 +0000 2010,@godfoca Perhaps one of the solutions here will help (I hope!): http://vim.wikia.com/wiki/Mac_OS_X_clipboard_sharing
+7675172675,Tue Jan 12 17:00:04 +0000 2010,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+7635594382,Mon Jan 11 17:00:08 +0000 2010,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+7529907886,Fri Jan 08 19:37:55 +0000 2010,I've built up ~70 tips in my db.  You'll see tips you've seen previously, if you've been following a while.  I know I should add more. :-)
+7524971393,Fri Jan 08 17:00:04 +0000 2010,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+7520284381,Fri Jan 08 14:37:46 +0000 2010,We're back, thanks to a reminder from HN!  Tips will be tweeted daily, again.  Perhaps I'll rewrite the tip-tweeting app this weekend....
+5367414053,Mon Nov 02 17:00:11 +0000 2009,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+5290614166,Fri Oct 30 16:00:05 +0000 2009,40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+5262048720,Thu Oct 29 16:00:04 +0000 2009,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+5233523022,Wed Oct 28 16:00:05 +0000 2009,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
+5203806008,Tue Oct 27 16:00:05 +0000 2009,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+5176016839,Mon Oct 26 16:00:11 +0000 2009,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
+5099960284,Fri Oct 23 16:00:08 +0000 2009,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+5072425659,Thu Oct 22 16:00:06 +0000 2009,/joe/+3 will search for joe and place the cursor three lines below the match. http://is.gd/4xZW
+5046659074,Wed Oct 21 16:00:09 +0000 2009,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search. http://is.gd/7Onk
+5021464422,Tue Oct 20 16:00:12 +0000 2009,Basic commands 'f' and 't' (like first and 'til) are very powerful. See :help t or :help f. http://is.gd/cCHy
+4994021807,Mon Oct 19 16:00:13 +0000 2009,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
+4918913408,Fri Oct 16 15:58:24 +0000 2009,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+4891728291,Thu Oct 15 15:58:28 +0000 2009,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://is.gd/4xZW
+4864943550,Wed Oct 14 15:58:32 +0000 2009,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+4837850363,Tue Oct 13 15:58:37 +0000 2009,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+4811552128,Mon Oct 12 15:58:48 +0000 2009,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+4737635712,Fri Oct 09 15:58:55 +0000 2009,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+4711400605,Thu Oct 08 15:58:59 +0000 2009,/fred|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+4685234659,Wed Oct 07 15:59:03 +0000 2009,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+4658110628,Tue Oct 06 15:59:08 +0000 2009,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+4630896251,Mon Oct 05 15:59:16 +0000 2009,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+4555884591,Fri Oct 02 15:59:26 +0000 2009,/\%&gt;80v.+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+4527779442,Thu Oct 01 15:59:31 +0000 2009,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+4500266393,Wed Sep 30 15:59:34 +0000 2009,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+4473067134,Tue Sep 29 15:59:45 +0000 2009,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+4445726055,Mon Sep 28 15:59:47 +0000 2009,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
+4371368744,Fri Sep 25 15:59:57 +0000 2009,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+4344794555,Thu Sep 24 16:00:01 +0000 2009,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://is.gd/4xZW
+4318407315,Wed Sep 23 16:00:06 +0000 2009,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+4174868315,Tue Sep 22 16:00:07 +0000 2009,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+4148994639,Mon Sep 21 16:00:16 +0000 2009,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+4081570402,Fri Sep 18 16:00:05 +0000 2009,:match ErrorMsg '\%&gt;80v.+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+4056825294,Thu Sep 17 16:00:05 +0000 2009,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+4031903632,Wed Sep 16 16:00:05 +0000 2009,:vmap // y/&lt; C-R &gt;"&lt; CR &gt; will make searching for highlighted text (i.e. in visual mode) require only a highlight and // http://is.gd/4xZW
+3982622519,Mon Sep 14 16:00:15 +0000 2009,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
+3913705053,Fri Sep 11 16:00:05 +0000 2009,:%s/&lt; !--\_.{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+3889978918,Thu Sep 10 16:00:05 +0000 2009,To search for a URL without backslashing, search backwards!  Example: ?http://somestuff.com  http://is.gd/4xZW
+3865721854,Wed Sep 09 16:00:05 +0000 2009,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+3713544140,Wed Sep 02 16:00:05 +0000 2009,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+3690897341,Tue Sep 01 16:00:06 +0000 2009,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+3668020837,Mon Aug 31 16:00:10 +0000 2009,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+3605234288,Fri Aug 28 16:00:05 +0000 2009,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+3581755513,Thu Aug 27 16:00:06 +0000 2009,To use a mouse in terminal vim, put "set mouse=a" and "set ttymouse=xterm2" in your .vimrc; although the 2nd setting may vary, :h ttymouse
+3514844245,Mon Aug 24 16:00:11 +0000 2009,@: to repeat the last executed command.  http://is.gd/9cuP
+3452290831,Fri Aug 21 16:00:05 +0000 2009,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+3407437978,Wed Aug 19 16:00:06 +0000 2009,/joe/e will search for joe and place the cursor at the end of the match. http://is.gd/4xZW
+3309915665,Fri Aug 14 16:00:05 +0000 2009,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+3288380637,Thu Aug 13 16:00:05 +0000 2009,:s/(.*):(.*)/2 : 1/ will reverse fields separated by ':'  http://is.gd/4xZW
+3267457813,Wed Aug 12 16:00:05 +0000 2009,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
+3247506201,Tue Aug 11 16:00:04 +0000 2009,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI (OSX users, see http://is.gd/9dmN)
+3227106643,Mon Aug 10 16:00:18 +0000 2009,:5s/^ +// will compress multiple empty lines into one.  http://is.gd/4xZW
+3147512488,Wed Aug 05 16:00:05 +0000 2009,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
+3126468234,Tue Aug 04 16:00:07 +0000 2009,:he /\v will set your magic level properly for Vim regexes. Can help avoid confusion! http://is.gd/tj4y
+3106292491,Mon Aug 03 16:00:09 +0000 2009,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+2953372981,Fri Jul 31 16:00:05 +0000 2009,g; will cycle through your recent changes (or g, to go in reverse.  http://is.gd/4xZW
+2932397743,Thu Jul 30 16:00:05 +0000 2009,:%s#&lt;[^&gt;]\+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+2911736038,Wed Jul 29 16:00:04 +0000 2009,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+2892025548,Tue Jul 28 16:00:05 +0000 2009,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+2872385036,Mon Jul 27 16:00:10 +0000 2009,== will auto-indent the current line.  Select text in visual mode, then == to auto-indent the selected lines. http://is.gd/8etC
+2820711001,Fri Jul 24 16:00:04 +0000 2009,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+2800388801,Thu Jul 23 16:00:05 +0000 2009,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+2780013932,Wed Jul 22 16:00:05 +0000 2009,:E to see a simple file explorer.  (:Ex will too, if that's easier to remember.) http://is.gd/7Onk
+2760008501,Tue Jul 21 16:00:06 +0000 2009,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+2740654276,Mon Jul 20 16:00:15 +0000 2009,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+2690418231,Fri Jul 17 16:00:07 +0000 2009,:ju(mps) : list your movements {{help|jump-motions}}  http://is.gd/7Onk
+2671464616,Thu Jul 16 16:00:06 +0000 2009,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+2653028327,Wed Jul 15 16:00:05 +0000 2009,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+2634171724,Tue Jul 14 16:00:05 +0000 2009,/begin\_.*end/ will search for begin AND end over multiple lines.  http://is.gd/4xZW
+2615961037,Mon Jul 13 16:00:10 +0000 2009,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
+2569901377,Fri Jul 10 16:00:10 +0000 2009,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+2405367826,Tue Jun 30 16:00:05 +0000 2009,:5s/^ +// will compress multiple empty lines into one.  http://is.gd/4xZW
+2389176101,Mon Jun 29 16:00:11 +0000 2009,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+2345652108,Fri Jun 26 16:00:08 +0000 2009,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
+2327959848,Thu Jun 25 16:00:05 +0000 2009,/begin\_.*end/ will search for begin AND end over multiple lines.  http://is.gd/4xZW
+2312124653,Wed Jun 24 16:00:05 +0000 2009,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+2296288769,Tue Jun 23 16:00:05 +0000 2009,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
+2280565575,Mon Jun 22 16:00:12 +0000 2009,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+2239815876,Fri Jun 19 16:00:05 +0000 2009,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+2224026347,Thu Jun 18 16:00:05 +0000 2009,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+2208277184,Wed Jun 17 16:00:06 +0000 2009,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+2193840025,Tue Jun 16 16:00:05 +0000 2009,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
+2179362316,Mon Jun 15 16:00:13 +0000 2009,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+2132876803,Fri Jun 12 16:00:05 +0000 2009,g; will cycle through your recent changes (or g, to go in reverse.  http://is.gd/4xZW
+2118455907,Thu Jun 11 16:00:05 +0000 2009,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+2104762976,Wed Jun 10 16:00:05 +0000 2009,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+2090963877,Tue Jun 09 16:00:05 +0000 2009,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://is.gd/4xZW
+2077499446,Mon Jun 08 16:00:12 +0000 2009,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+2044190032,Fri Jun 05 16:00:05 +0000 2009,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+2030870284,Thu Jun 04 16:00:06 +0000 2009,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+2017819065,Wed Jun 03 16:00:06 +0000 2009,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+2004957400,Tue Jun 02 16:00:07 +0000 2009,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+1992590546,Mon Jun 01 16:00:10 +0000 2009,:he /\v will set your magic level properly for Vim regexes. Can help avoid confusion! http://is.gd/tj4y
+1961110141,Fri May 29 16:00:07 +0000 2009,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
+1948593423,Thu May 28 16:00:07 +0000 2009,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
+1936981923,Wed May 27 16:00:05 +0000 2009,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+1924844478,Tue May 26 16:00:05 +0000 2009,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+1913489687,Mon May 25 16:00:10 +0000 2009,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+1883719581,Fri May 22 16:00:05 +0000 2009,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+1872273323,Thu May 21 16:00:05 +0000 2009,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+1860523086,Wed May 20 16:00:05 +0000 2009,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+1848509556,Tue May 19 16:00:05 +0000 2009,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+1837017271,Mon May 18 16:00:08 +0000 2009,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+1807293253,Fri May 15 16:00:05 +0000 2009,:vmap // y/&lt; C-R &gt;"&lt; CR &gt; will make searching for highlighted text (i.e. in visual mode) require only a highlight and // http://is.gd/4xZW
+1796172248,Thu May 14 16:00:05 +0000 2009,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+1785612828,Wed May 13 16:00:05 +0000 2009,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+1774577308,Tue May 12 16:00:05 +0000 2009,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+1764175803,Mon May 11 16:00:10 +0000 2009,:s/(.*):(.*)/2 : 1/ will reverse fields separated by ':'  http://is.gd/4xZW
+1738717993,Fri May 08 16:00:05 +0000 2009,:match ErrorMsg '\%&gt;80v.+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+1728271204,Thu May 07 16:00:07 +0000 2009,:%s/&lt; !--\_.{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+1717788523,Wed May 06 16:00:06 +0000 2009,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI (OSX users, see http://is.gd/9dmN)
+1707224684,Tue May 05 16:00:05 +0000 2009,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+1696799864,Mon May 04 16:00:10 +0000 2009,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
+1670246923,Fri May 01 16:00:06 +0000 2009,40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+1660127350,Thu Apr 30 16:00:10 +0000 2009,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://is.gd/4xZW
+1649991924,Wed Apr 29 16:00:09 +0000 2009,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+1640002010,Tue Apr 28 16:00:06 +0000 2009,/\%&gt;80v.+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+1630437735,Mon Apr 27 16:55:23 +0000 2009,There are several file explorer/project drawer plugins, as well.  NERDTree: http://is.gd/4t3p and Project: http://is.gd/uUrz, to name two.
+1630420179,Mon Apr 27 16:53:22 +0000 2009,@seanstickle pointed out that :E will get you the file explorer, and improve your typing efficiency!  Haha.  (Tip updated, this time.)
+1629974365,Mon Apr 27 16:00:13 +0000 2009,:Ex to see a simple file explorer.  http://is.gd/7Onk
+1604832776,Fri Apr 24 16:00:04 +0000 2009,To use a mouse in terminal vim, put "set mouse=a" and "set ttymouse=xterm2" in your .vimrc; although the 2nd setting may vary, :h ttymouse
+1595223567,Thu Apr 23 16:00:06 +0000 2009,/joe/e will search for joe and place the cursor at the end of the match. http://is.gd/4xZW
+1585734902,Wed Apr 22 16:00:07 +0000 2009,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+1576627103,Tue Apr 21 17:14:40 +0000 2009,If you like :vimgrep and :grep, you might also check out the Ack plugin.  http://is.gd/lZ1x
+1576015152,Tue Apr 21 16:00:07 +0000 2009,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+1566482844,Mon Apr 20 16:00:05 +0000 2009,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+1543376043,Fri Apr 17 16:33:45 +0000 2009,And, as @leptom mentions, gg=GG will auto-indent all lines.
+1543102562,Fri Apr 17 16:00:05 +0000 2009,== will auto-indent the current line.  Select text in visual mode, then == to auto-indent the selected lines. http://is.gd/8etC
+1534588640,Thu Apr 16 16:00:19 +0000 2009,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+1526181204,Wed Apr 15 16:00:06 +0000 2009,:ju(mps) : list your movements {{help|jump-motions}}  http://is.gd/7Onk
+1517582521,Tue Apr 14 16:00:05 +0000 2009,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
+1491157493,Fri Apr 10 16:00:06 +0000 2009,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+1484282030,Thu Apr 09 16:00:06 +0000 2009,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+1477365629,Wed Apr 08 16:00:12 +0000 2009,:%s#.*(hours).*#1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+1470319720,Tue Apr 07 16:00:13 +0000 2009,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+1463596672,Mon Apr 06 16:00:08 +0000 2009,/fred|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+1446093802,Fri Apr 03 16:00:07 +0000 2009,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+1439132452,Thu Apr 02 16:00:07 +0000 2009,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+1432155759,Wed Apr 01 16:00:05 +0000 2009,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+1425144782,Tue Mar 31 16:00:05 +0000 2009,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+1418510483,Mon Mar 30 16:00:14 +0000 2009,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+1401693070,Fri Mar 27 16:00:06 +0000 2009,To search for a URL without backslashing, search backwards!  Example: ?http://somestuff.com  http://is.gd/4xZW
+1395374722,Thu Mar 26 16:41:48 +0000 2009,:%s#&lt;[^&gt;]\+&gt;##g  There's an extra slash that doesn't belong.  You'd think I used all of these already.  Please, forgive me.
+1395125768,Thu Mar 26 16:00:06 +0000 2009,:%s/#&lt;[^&gt;]+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+1389578182,Wed Mar 25 18:43:11 +0000 2009,@VxJasonxV @: repeats commands (such as :write), whereas . repeats the last _change_.  Does that make sense?
+1389561712,Wed Mar 25 18:40:15 +0000 2009,:%s/ \ r//g and :%s/ \ r$// are the correct commands for the previous tip.  Sorry!  (Thanks @susam!)
+1389557115,Wed Mar 25 18:39:26 +0000 2009,@susam You're right.  Another case of part of the tip being eaten somewhere in the pipeline.
+1388661992,Wed Mar 25 16:00:10 +0000 2009,@: to repeat the last executed command.  http://is.gd/9cuP
+1382433097,Tue Mar 24 16:00:06 +0000 2009,:%s///g to remove all those nasty ^M from a file, or :%s/$//g for only at the end of a line.  http://is.gd/8ejs
+1311196932,Wed Mar 11 16:00:06 +0000 2009,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
+1300891129,Mon Mar 09 16:00:13 +0000 2009,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
+1294960841,Sun Mar 08 02:20:48 +0000 2009,Just hit 200 followers.  Thanks!  I hope we're helping.  Check out http://mileszs.github.com for more Vim stuff.  (And Vim Diesel)
+1289040041,Fri Mar 06 17:00:05 +0000 2009,:%s/[.!?]\_s\+\a/\U&\E/g will uppercase the first letter of each sentence (except the very first one). http://is.gd/4xZW
+1285466692,Thu Mar 05 22:00:06 +0000 2009,Ctrl-a, Ctrl-x will increment and decrement, respectively, the number under the cursor. http://is.gd/4xZW
+1279276393,Wed Mar 04 17:00:06 +0000 2009,:tab sball will re-tab all files in the buffers list. http://is.gd/4xZW
+1274496023,Tue Mar 03 17:00:06 +0000 2009,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
+1269887598,Mon Mar 02 17:00:16 +0000 2009,:lcd %:p:h will change to the directory of the current file. http://is.gd/4xZW
+1258764489,Fri Feb 27 17:00:05 +0000 2009,:r !date will insert the current date/time stamp (from the 'date' command -- a bit OS-specific).   http://is.gd/4xZW
+1254320168,Thu Feb 26 17:00:06 +0000 2009,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
+1249891760,Wed Feb 25 17:00:06 +0000 2009,:%s/#&lt;[^&gt;]+&gt;##g will remove HTML tags, leaving the text. (non-greedy) http://is.gd/4xZW
+1245522928,Tue Feb 24 17:00:06 +0000 2009,:%s/^ \ n \{3}// will delete a block of 3 empty lines. (remove the spaces) http://is.gd/4xZW
+1241426777,Mon Feb 23 17:00:08 +0000 2009,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
+1231183811,Fri Feb 20 17:00:07 +0000 2009,:%s/&lt; !--\_.{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
+1227424374,Thu Feb 19 17:40:30 +0000 2009,That last tip should have read :%s/ \ r / \ r /g, without all of the spaces.  Sorry!  Also, see @godfoca's response.
+1227282632,Thu Feb 19 17:00:06 +0000 2009,:s///g turn DOS returns (^M) into real returns.  http://is.gd/4xZW
+1223454628,Wed Feb 18 17:00:06 +0000 2009,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
+1219519397,Tue Feb 17 17:00:08 +0000 2009,:vmap // y/&lt; C-R &gt;"&lt; CR &gt; will make searching for highlighted text (i.e. in visual mode) require only a highlight and // http://is.gd/4xZW
+1215831112,Mon Feb 16 17:00:06 +0000 2009,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
+1206972660,Fri Feb 13 17:00:05 +0000 2009,/joe/e+1 will search for joe and place the cursor at the end of the match, plus on character.  http://is.gd/4xZW
+1203241905,Thu Feb 12 17:00:05 +0000 2009,:%s/~/sue/igc substitute your last replacement string with 'sue'.  http://is.gd/4xZW
+1199555542,Wed Feb 11 17:00:05 +0000 2009,To search for a URL without backslashing, search backwards!  Example: ?http://somestuff.com  http://is.gd/4xZW
+1196030225,Tue Feb 10 17:00:06 +0000 2009,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+1192407196,Mon Feb 09 17:00:06 +0000 2009,:%s#.*\(hours\).*#\1# will delete everything on a line except for the string 'hours'.  http://is.gd/4xZW
+1183731118,Fri Feb 06 17:00:05 +0000 2009,:%s/joe\|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
+1180262213,Thu Feb 05 17:00:09 +0000 2009,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
+1176828964,Wed Feb 04 17:00:06 +0000 2009,:5s/^\n\+/\r/ will compress multiple empty lines into one.  http://is.gd/4xZW
+1173450153,Tue Feb 03 17:00:06 +0000 2009,:s/\(.*\):\(.*\)/\2 : \1/ will reverse fields separated by ':'  http://is.gd/4xZW
+1170301961,Mon Feb 02 17:00:08 +0000 2009,:g/search_term/# display each line containing 'search_term' with line numbers. http://is.gd/4xZW
+1162152366,Fri Jan 30 17:00:05 +0000 2009,&lt; CTRL-x &gt;&lt; CTRL-l &gt; offers line completion in insert mode.  http://is.gd/7Onk
+1158969617,Thu Jan 29 17:00:05 +0000 2009,40,50m30 will move lines 40 through 50 to line 30. Most visual mode commands can be used w/ line numbers.  http://is.gd/cCHy
+1155746604,Wed Jan 28 17:00:05 +0000 2009,% matches opening and closing chars (){}[], and with matchit.vim, def/end, HTML tags, etc. as well!  http://is.gd/N4W
+1152553002,Tue Jan 27 17:00:07 +0000 2009,/\&lt; fred \ &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
+1149508257,Mon Jan 26 17:00:06 +0000 2009,:%s//joe/igc substitute your last search with joe. http://is.gd/4xZW
+1142403374,Fri Jan 23 17:00:06 +0000 2009,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
+1139535596,Thu Jan 22 17:00:10 +0000 2009,2f/ would find the second occurrence of '/' in a line.  http://is.gd/cCHy
+1136674255,Wed Jan 21 17:00:06 +0000 2009,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
+1133719820,Tue Jan 20 17:00:05 +0000 2009,:h slash&lt; CTRL-d &gt; to get a list of all help topics containing the word 'slash'.  http://is.gd/7Onk
+1130842947,Mon Jan 19 17:00:06 +0000 2009,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
+1124134483,Fri Jan 16 17:00:06 +0000 2009,:ju(mps) : list your movements {{help|jump-motions}}  http://is.gd/7Onk
+1121410413,Thu Jan 15 17:00:05 +0000 2009,Basic commands 'f' and 't' (like first and 'til) are very powerful.  See :help t or :help f.  http://is.gd/cCHy
+1118697481,Wed Jan 14 17:00:06 +0000 2009,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI (OSX users, see http://is.gd/9dmN)
+1116045923,Tue Jan 13 17:00:05 +0000 2009,/begin\_.*end/ will search for begin AND end over multiple lines.  http://is.gd/4xZW
+1113470664,Mon Jan 12 17:00:07 +0000 2009,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+1107122796,Fri Jan 09 17:00:05 +0000 2009,:history lists the history of your recent commands, sans duplicates.   http://is.gd/7Onk
+1104712730,Thu Jan 08 17:00:08 +0000 2009,/&lt; CTRL-r &gt;&lt; CTRL-w &gt; will pull the word under the cursor into search.   http://is.gd/7Onk
+1102248025,Wed Jan 07 17:00:05 +0000 2009,&lt; CTRL-o &gt; : trace your movements backwards in a file.  &lt; CTRL-i &gt; trace your movements forwards in a file.  http://is.gd/7Onk
+1099836641,Tue Jan 06 17:00:06 +0000 2009,@: to repeat the last executed command.  http://is.gd/9cuP
+1097461602,Mon Jan 05 17:00:08 +0000 2009,/fred\_s*joe/ will search for fred AND joe with whitespace (including newline) in between.  http://is.gd/4xZW
+1091823775,Fri Jan 02 17:00:08 +0000 2009,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
+1090135552,Thu Jan 01 17:00:07 +0000 2009,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
+1088321065,Wed Dec 31 17:00:07 +0000 2008,/joe/e will search for joe and place the cursor at the end of the match. http://is.gd/4xZW
+1086186612,Tue Dec 30 17:00:07 +0000 2008,/fred\|joe/ will search for either fred OR joe.  http://is.gd/4xZW
+1084220032,Mon Dec 29 17:00:07 +0000 2008,/\%&gt;80v.\+ with search highlighting (:set hlsearch) will highlight any text after column 80.  http://is.gd/8ekT
+1079526450,Fri Dec 26 17:00:07 +0000 2008,:%s/\r//g to remove all those nasty ^M from a file, or :%s/\r$//g for only at the end of a line.  http://is.gd/8ejs
+1078144607,Thu Dec 25 17:00:06 +0000 2008,&lt; CTRL-n &gt;&lt; CTRL-p &gt; offers word-completion while in insert mode.  http://is.gd/7Onk
+1076559190,Wed Dec 24 17:00:06 +0000 2008,:e $MYVIMRC to directly edit your vimrc.  :source $MYVIMRC to reload.  Mappings may make it even easier. http://is.gd/7Onk
+1074599653,Tue Dec 23 17:00:07 +0000 2008,In gvim, change the cursor depending on what mode you are in (normal, insert, etc): http://is.gd/9dq0
+1072571874,Mon Dec 22 17:00:06 +0000 2008,== will auto-indent the current line.  Select text in visual mode, then == to auto-indent the selected lines. http://is.gd/8etC
+1067402786,Fri Dec 19 17:00:07 +0000 2008,/.*fred\&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
+1065262190,Thu Dec 18 17:00:07 +0000 2008,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
+1063109186,Wed Dec 17 17:00:07 +0000 2008,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
+1060952777,Tue Dec 16 17:00:05 +0000 2008,To use a mouse in terminal vim, put "set mouse=a" and "set ttymouse=xterm2" in your .vimrc; although the 2nd setting may vary, :h ttymouse
+1058828505,Mon Dec 15 17:00:07 +0000 2008,:vimgrep pattern **/*.txt will search all *.txt files in the current directory and its subdirectories for the pattern.  http://is.gd/8epA
+1053722891,Fri Dec 12 17:00:06 +0000 2008,:vimgrep pattern *.txt will search all .txt files in the current directory for the pattern.  http://is.gd/8epA
+1051582335,Thu Dec 11 17:00:07 +0000 2008,Count the number of occurences of a word in a file with :%s/\&lt;word\&gt;//gn
+1049661923,Wed Dec 10 18:33:20 +0000 2008,@seanstickle makes a good point: You can also simply press :E to get the :Ex file explorer.  Thanks!
+1049485638,Wed Dec 10 17:00:06 +0000 2008,:Ex to see a simple file explorer.  http://is.gd/7Onk
+1047383330,Tue Dec 09 17:00:06 +0000 2008,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
+1045461772,Mon Dec 08 18:15:07 +0000 2008,'. jumps to last modified line.  `. jumps to exact position of last modification.  http://is.gd/7Onk
+1043941568,Sun Dec 07 21:16:15 +0000 2008,I'm agonizing over the exact hour.  Let me know what you think.
+1043941189,Sun Dec 07 21:16:01 +0000 2008,Officially, tips should start being tweeted tomorrow at 1700 UTC.  One per day!
+1043921048,Sun Dec 07 21:00:55 +0000 2008,/joe/+3 will search for joe and place the cursor three lines below the match.  http://is.gd/4xZW
+1043884234,Sun Dec 07 20:30:58 +0000 2008,Yeah!  Tip tweeted via Merb console.  Set up cron, and I think we're good to go.
+1043882006,Sun Dec 07 20:29:10 +0000 2008,From a command-line, vim scp://username@host//path/to/file to edit a remote file locally.  (See http://is.gd/9dwq for dependencies.)
+898379612,Mon Aug 25 16:48:54 +0000 2008,Position cursor behind previous occurrence of a character: T&lt;character&gt; eg., Tc would go to "c"ursor.

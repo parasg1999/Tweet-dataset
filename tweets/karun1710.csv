@@ -1,0 +1,1164 @@
+id,created_at,text
+1260682110173450200,Wed May 13 21:23:32 +0000 2020,Thank you to @analyseFooty for having me at #SSFCAnalytics2020! I couldn't get through all the submitted questions,… https://t.co/Z6wRpcGUz6
+1258682015160795100,Fri May 08 08:55:52 +0000 2020,Another example: @MilanKlaasman did a thorough analysis of how xG and xT are differently correlated with game outco… https://t.co/nOmftXCigQ
+1258682014376452000,Fri May 08 08:55:52 +0000 2020,In fact if you're looking for new ideas, try re-implementing and comparing existing methods! Best case, you get a b… https://t.co/ISjPrVPmg4
+1258682013361438700,Fri May 08 08:55:51 +0000 2020,I'd add that shedding the one-size-fits-all mentality is freeing and thinking in terms of (inevitable) trade-offs c… https://t.co/az6RY26ZEG
+1251183745689768000,Fri Apr 17 16:20:25 +0000 2020,RT @MilanKlaasman: I just published Effective models for winning football games. In which I make a comparison between Expected Threat (xT)…
+1250444120406941700,Wed Apr 15 15:21:25 +0000 2020,@903124S Yeah, definitely, I've been running some of those experiments and will share results soon! In general I do… https://t.co/zyuhb6AiiO
+1250440371814805500,Wed Apr 15 15:06:31 +0000 2020,@903124S I didn't go into detail at the Opta Pro Forum, but to add some color the input to that model was very simi… https://t.co/3Dgbkw2O1u
+1247232283557257200,Mon Apr 06 18:38:43 +0000 2020,RT @devinpleuler: I've put together a Soccer Analytics Handbook.  It provides some guidelines on what I think is worth learning, a bunch of…
+1246898387217043500,Sun Apr 05 20:31:56 +0000 2020,@thecomeonman Thanks for sharing! I'd be curious to see a side-by-side comparison of the values assigned to actions… https://t.co/eBGrm0T1Z8
+1246895278730309600,Sun Apr 05 20:19:35 +0000 2020,@thecomeonman @903124S @JanVanHaaren To add some color here -- the 'proper' way to solve for xT is to turn it into… https://t.co/sW4VwLi6RV
+1242893283195412500,Wed Mar 25 19:17:05 +0000 2020,RT @mixedknuts: CROWDSOURCE: We want to collect every match of the Arsenal Invinceables season and eventually release the data to the publi…
+1242206844887564300,Mon Mar 23 21:49:25 +0000 2020,RT @OptaPro: BLOG: @BenMackriell considers some of the key takeaways from concepts presented at the 2020 #OptaProForum. Thoughts.  https://…
+1240893914497728500,Fri Mar 20 06:52:18 +0000 2020,RT @OptaPro: VIDEO: @karun1710 presented at the 2020 #OptaProForum, introducing a new process for identifying recurring match scenarios, ac…
+1240640473334775800,Thu Mar 19 14:05:13 +0000 2020,[⚽📈] NEW: Self-Supervised Representations for Tracking Data https://t.co/qOKmxncNgT   Excited to share the work I p… https://t.co/jSM8puRMbF
+1240189745499492400,Wed Mar 18 08:14:11 +0000 2020,@JanVanHaaren @LotteBransen @SloanSportsConf Hi Jan, are the accompanying slides available anywhere?
+1238166194785403000,Thu Mar 12 18:13:19 +0000 2020,@AbhishekS9_ @AnEnglishGoat As you alluded to earlier, just be aware of the class imbalance -- I'd measure per-class accuracy or ideally AP
+1238146835685855200,Thu Mar 12 16:56:23 +0000 2020,@AbhishekS9_ @counterattack9 @AnEnglishGoat What do the predictions look like? Worth plotting a histogram. Also wha… https://t.co/xa2oKh71Yn
+1237792685559140400,Wed Mar 11 17:29:07 +0000 2020,RT @OptaPro: VIDEO: From the 2020 #OptaProForum, @dperdomomeza1 and @girela_d highlight the playing styles which are most effective against…
+1235590107442245600,Thu Mar 05 15:36:52 +0000 2020,@rwohan managed to smoothly weave together a bunch of analytics concepts (including Expected Threat and… https://t.co/T66UPW3zuR
+1234422858958246000,Mon Mar 02 10:18:38 +0000 2020,@903124S @joedgallagher I was thinking more along the lines of reducing it a simple set of binary features (e.g. wh… https://t.co/RqkqYPE8h2
+1234412188128800800,Mon Mar 02 09:36:14 +0000 2020,@joedgallagher Congrats Joe! Are you using field settings as well as an input? I'm guessing that's sort of the trac… https://t.co/ko9e8M5gKO
+1228389636054999000,Fri Feb 14 18:44:46 +0000 2020,RT @TruMediaSports: ICYMI, our #OptaProForum podcast with four presenters:  - @karun1710 - @dperdomomeza1  - @WillTGM - @VigneshJayanth1…
+1227986193570132000,Thu Feb 13 16:01:38 +0000 2020,RT @PaulCarr: At last week's #OptaProForum, I talked with four of the presenters about their work. Lots of good ideas from these four and o…
+1227891690557468700,Thu Feb 13 09:46:06 +0000 2020,⚽️🔊 Quick 10-minute summaries of some of the #OptaProForum presentations -- thank you @PaulCarr / @TruMediaSports f… https://t.co/p3HoLfx7WO
+1227619412858982400,Wed Feb 12 15:44:10 +0000 2020,@ap_mancunian Just vanilla Matplotlib! (Python)
+1227467211977220000,Wed Feb 12 05:39:23 +0000 2020,@903124S @devinpleuler @TomDecroos @LotteBransen @JanVanHaaren @jessejdavis1 Yep, although in some ways it's a hard… https://t.co/C2W3AMbBxu
+1227456577910734800,Wed Feb 12 04:57:07 +0000 2020,@devinpleuler VAEP by @TomDecroos, @LotteBransen, @JanVanHaaren, @jessejdavis1 captures possession + game context:… https://t.co/6oglnXBmWn
+1227248137695195100,Tue Feb 11 15:08:51 +0000 2020,Thank you to everyone who made #OptaProForum (+ the following days) very memorable! Looking forward to sharing a vi… https://t.co/gqh0uMtg6a
+1223735225458421800,Sat Feb 01 22:29:48 +0000 2020,Great summary of the various themes of research presented at the @StatsBomb conference! (by @alitweedale) https://t.co/40IkCUmbOo
+1222846515808329700,Thu Jan 30 11:38:23 +0000 2020,@JanBodenCoach Add your vote to this one too :) https://t.co/Z5WSAfOdd5
+1222839216809209900,Thu Jan 30 11:09:23 +0000 2020,@ferdiaoh Yep, that would definitely explain the distribution. The follow-up poll should be interesting: https://t.co/Z5WSAfOdd5
+1222838969315909600,Thu Jan 30 11:08:24 +0000 2020,@JanBodenCoach All together!
+1222834953160781800,Thu Jan 30 10:52:26 +0000 2020,@ video analysts, how much time do you spend each week studying match footage?
+1222834951785083000,Thu Jan 30 10:52:26 +0000 2020,I wasn't expecting a bimodal distribution! Let's try another version... https://t.co/tm25nochtR
+1222573838954684400,Wed Jan 29 17:34:52 +0000 2020,@ video analysts, how much time do you spend each week studying match footage?
+1219431847093887000,Tue Jan 21 01:29:42 +0000 2020,@jehlokhande It's a snapshot of a particular instance
+1219401388251177000,Mon Jan 20 23:28:40 +0000 2020,@EveryTeam_Mark @FC_rstats Some version of this here: https://t.co/Ry4Sr6RfRW
+1219400499058765800,Mon Jan 20 23:25:08 +0000 2020,@FPyLPython It isn't, but I like that thought :)
+1219335308338069500,Mon Jan 20 19:06:06 +0000 2020,How would you describe this situation, as an analyst?  Crowdsourcing (anonymous) responses for an upcoming presenta… https://t.co/E1cM8yOLiz
+1218888210522108000,Sun Jan 19 13:29:29 +0000 2020,@Nisschay_ Not quite, no -- just a measure of accumulated threat
+1218573612052959200,Sat Jan 18 16:39:23 +0000 2020,➡️Haaland (56') https://t.co/qfO7DHZOFP
+1217441281908985900,Wed Jan 15 13:39:55 +0000 2020,RT @lastrowview: The code and data for my latest blog post, "Valuing Off-the-ball Movement", is now available on Github, so you can replica…
+1217172289151697000,Tue Jan 14 19:51:02 +0000 2020,@AnEnglishGoat Thanks! And yep, I need to update that. Excluding the movement success probability is a bug in the original implementation.
+1217142575506710500,Tue Jan 14 17:52:58 +0000 2020,@AnEnglishGoat Yes, there's a term that accounts for the probability of executing a ball movement (pass / dribble /… https://t.co/M4IEqdyEzY
+1217120523492024300,Tue Jan 14 16:25:20 +0000 2020,@S_Hadgiyiannis Through xT, we can value each location on the pitch, and subsequently value actions based on the xT… https://t.co/0QWNpRGoXM
+1217111545349492700,Tue Jan 14 15:49:39 +0000 2020,A great place to start if you're interested in EPV (expected possession value) frameworks for ⚽. The repository hel… https://t.co/0GCFzjTNhl
+1216641530011639800,Mon Jan 13 08:41:59 +0000 2020,RT @lastrowview: I just published "Valuing Off-the-ball Movement" https://t.co/Emu0JIYxjb https://t.co/jU4uERhfhT
+1214528076064800800,Tue Jan 07 12:43:52 +0000 2020,@StatifiedF Yep, I think both are important to show! Check out the graphic towards the end here which does that: https://t.co/D8nvR0CeEw
+1214450487082115000,Tue Jan 07 07:35:34 +0000 2020,@StatifiedF This version shows the end-point of the xT events, weighted by xT value -- so it's essentially showing… https://t.co/6mI32IL1AH
+1213851854670446600,Sun Jan 05 15:56:49 +0000 2020,@goonersanti For sure, I'll experiment with that!
+1213845862419288000,Sun Jan 05 15:33:00 +0000 2020,Goalless stalemate at the Molineux #WOLMUN https://t.co/3Xg777r2FW
+1213845051534540800,Sun Jan 05 15:29:47 +0000 2020,🏆 FA Cup + xT visuals thread  Villa fall to two long-range strikes from Knockaert and Arter #FULAVL https://t.co/WGwnAFoPMh
+1213833683091615700,Sun Jan 05 14:44:36 +0000 2020,@M0o3atef @StatsBomb https://t.co/PVLis4wnXK
+1213833453185032200,Sun Jan 05 14:43:41 +0000 2020,https://t.co/HFUbGJcJdm is a good place to start for those asking!
+1213694016333631500,Sun Jan 05 05:29:37 +0000 2020,RT @sportschord: @karun1710 @StatsBomb Agreed its an amazing dataset! Perhaps not a definitive answer on how to stop him, but found an inte…
+1213552953396781000,Sat Jan 04 20:09:05 +0000 2020,There's likely no definitive answers (as is usually the case in analytics), and plenty of room to investigate diffe… https://t.co/z8QG0Z296F
+1213552950653718500,Sat Jan 04 20:09:04 +0000 2020,If anyone's looking to get their hands dirty in football analytics, a cool project might be using @StatsBomb's open… https://t.co/YHovPHHHHY
+1210842969428775000,Sat Dec 28 08:40:34 +0000 2019,Thoughts on who should fill the remaining 3 spots? I currently have Otamendi, Alli and Ings there 🤔 https://t.co/EzZtmu6CDS
+1210485123029713000,Fri Dec 27 08:58:37 +0000 2019,@pedrovcinelli Expected Threat -- roughly a measure of how much danger a team posed during a match. More detailed e… https://t.co/CRBtwPgeP6
+1210484836613292000,Fri Dec 27 08:57:29 +0000 2019,Chelsea with a lot of the ball, but no significant penetration into the box; Southampton on the other hand were abl… https://t.co/MY9UctHonU
+1210482633982918700,Fri Dec 27 08:48:44 +0000 2019,@ThaGreatZambino Yes, TAA would be on the lower-volume side -- overall Leicester didn't have any serious penetratio… https://t.co/GMNrNOHJjB
+1210480766389379000,Fri Dec 27 08:41:19 +0000 2019,Liverpool unstoppable at the moment, and it's scary that they could have easily had more than 4 #LEILIV https://t.co/Avl2PxrzqA
+1210478919628886000,Fri Dec 27 08:33:58 +0000 2019,A more positive performance from Arsenal going forward in their first game under Arteta #BOUARS https://t.co/UvkCnPNuIV
+1208349032642277400,Sat Dec 21 11:30:34 +0000 2019,@VigneshJayanth1 Thanks for the insight! Who's operating these during sessions? (Do they need much operating if the… https://t.co/01TUmaecNb
+1208217853041594400,Sat Dec 21 02:49:18 +0000 2019,How commonplace are training ground drones at PL / Championship clubs? In practice, how is the footage used?  (The… https://t.co/pCPyPucsuZ
+1207556389712748500,Thu Dec 19 07:00:53 +0000 2019,@903124S Yep, VAEP strictly carries more information since it has a larger context window. I only point out the int… https://t.co/yCdJHiadif
+1207550609085223000,Thu Dec 19 06:37:55 +0000 2019,Highly recommend this comparative analysis if you're interested in the Expected Possession Value problem!  One thin… https://t.co/vt1VF23oOl
+1206073326172426200,Sun Dec 15 04:47:43 +0000 2019,@mls_CEC Check out @TylerRichardett's follow up work: https://t.co/KfvAm7vf7O
+1206073041395970000,Sun Dec 15 04:46:35 +0000 2019,@chaitea_charles Hey! I haven't, but @TylerRichardett has! Check out https://t.co/KfvAm7vf7O
+1205871861545853000,Sat Dec 14 15:27:10 +0000 2019,@ analysts who have had to look through video to find certain positional situations (for either self or opposition… https://t.co/s3Q69UCmpp
+1197570622747840500,Thu Nov 21 17:41:00 +0000 2019,@p_robberechts Interesting that it's the Lyon version of Lacazette though!
+1195843130227978200,Sat Nov 16 23:16:34 +0000 2019,RT @CornellSports: Men’s soccer sent its seniors out the right way on Saturday, defeating Columbia by a final score of 4-0 from Berman Fiel…
+1193601866770215000,Sun Nov 10 18:50:35 +0000 2019,@OllieGlanvill Ha, that's the assumption this particular method relies on. In practice I'm sure they don't rely on that assumption
+1193598823093792800,Sun Nov 10 18:38:30 +0000 2019,@Nanni_Rillo Will be sharing some soon hopefully!
+1193598099714793500,Sun Nov 10 18:35:37 +0000 2019,@Nanni_Rillo Python!
+1193596929449455600,Sun Nov 10 18:30:58 +0000 2019,City almost always looked more likely to score, but Liverpool's efficiency means they go 9 point clear #LIVMCI https://t.co/Atn3JQpKvR
+1193592123955667000,Sun Nov 10 18:11:52 +0000 2019,@PIKa_kNIGHT @AshwinRaman_ Good question, this in particular relies on that assumption, but I'm sure the real VAR doesn't.
+1193588452115091500,Sun Nov 10 17:57:17 +0000 2019,@mixedknuts Perhaps my favorite part about it is that it's turned into an Intro to Computer Vision MOOC, complete now with code examples
+1193583872765657000,Sun Nov 10 17:39:05 +0000 2019,If you straighten out the image using a homography (using the four points shown in the first image), it becomes cle… https://t.co/GZiGoJMN0t
+1193360160040706000,Sun Nov 10 02:50:08 +0000 2019,@zehnersball For sure -- as always, it's a trade-off between accuracy and complexity/explainability. For example, c… https://t.co/ZZ5CAHW8l8
+1191017777856827400,Sun Nov 03 15:42:20 +0000 2019,RT @11tegen11: @BetweenThePosts @PositiespeI Here's a new passmap development, leaning heavily on @karun1710's brilliant idea to assign wei…
+1190529372836380700,Sat Nov 02 07:21:36 +0000 2019,@outlieranalysis With xG though, a dominant team will likely have far more shots, so it becomes easier for them to… https://t.co/iJsnabYRIr
+1190528867968020500,Sat Nov 02 07:19:35 +0000 2019,@outlieranalysis The number of distinct possessions each team has in a game is always very close, because a new "po… https://t.co/cHx0dNodyH
+1190527111460614100,Sat Nov 02 07:12:36 +0000 2019,And another one, just for fun: https://t.co/0cbG7uHjlz
+1190525904591523800,Sat Nov 02 07:07:49 +0000 2019,@outlieranalysis Liverpool accelerated ahead in that last push, but otherwise it was neck and neck. That being said… https://t.co/BdnVWEgHne
+1190525258932973600,Sat Nov 02 07:05:15 +0000 2019,And Liverpool vs Spurs was interesting for different reasons: a) xG got some stick here (https://t.co/sIuQBuS5Je) f… https://t.co/aAAZu7jI8H
+1190523580787773400,Sat Nov 02 06:58:35 +0000 2019,A few days late, but I wanted to highlight a couple of interesting xT timelines from the last two games at Anfield,… https://t.co/LyjhAC04z9
+1188240431328485400,Sat Oct 26 23:46:09 +0000 2019,@FutbolAnalysR @BarclaysFAWSL @StatsBomb @FC_rstats @MSPowerBI @ArsenalWFC @ChelseaFCW @_POTP xT game flow!
+1186704896571203600,Tue Oct 22 18:04:29 +0000 2019,The slides incorporate work from various other people. Thanks to: - @Twenty3sport and @robert_squared who built on… https://t.co/KsarC0JaNf
+1186687565174313000,Tue Oct 22 16:55:37 +0000 2019,And if you're looking to integrate xT into your analytics toolkit, or want to use it in your own research, reach out!
+1186677602192416800,Tue Oct 22 16:16:02 +0000 2019,Here are the slides, I'd recommend stepping through them side-by-side! https://t.co/mhXVEk9GKN  Feel free to reach… https://t.co/gY6posIedm
+1184207367166148600,Tue Oct 15 20:40:12 +0000 2019,@_vonarchimboldi @StatsBomb Probably the most useful dataset in there for modelling purposes is the FA Women's Supe… https://t.co/TEjUp4q3Rf
+1184203940860219400,Tue Oct 15 20:26:35 +0000 2019,@_vonarchimboldi @StatsBomb I'd recommend prototyping your ideas using whatever data is available to you (it doesn'… https://t.co/3NbC6mN4Fh
+1184201382712225800,Tue Oct 15 20:16:25 +0000 2019,In the spirit of paying it forward -- if you're just starting out with football analytics and are stuck, feel free… https://t.co/RJPjdxAmTW
+1184201378874433500,Tue Oct 15 20:16:24 +0000 2019,Last October, before I had published any blog posts, David was kind enough to let me bounce analytics ideas off him… https://t.co/lBPbJ4B45D
+1183080046791221200,Sat Oct 12 18:00:38 +0000 2019,And I'll be sharing my slides soon! In the meantime, here is the one demo that unfortunately didn't load during the… https://t.co/W7ugtwtlLR
+1183080045360930800,Sat Oct 12 18:00:38 +0000 2019,Thank you @StatsBomb for putting together a great conference, and congratulations to @jair1970, @mixedknuts, and ev… https://t.co/tpSTw3Cfv0
+1182309583257264000,Thu Oct 10 14:59:05 +0000 2019,@fbref @Funadrius Let me know how I can help -- happy to provide values and code for inference!
+1180037605976526800,Fri Oct 04 08:31:03 +0000 2019,@903124S @lemonwatcher @NilsMackay @OptaPro Yeah, this might be the most principled comparison of the two methods :)
+1180037399885295600,Fri Oct 04 08:30:14 +0000 2019,@NilsMackay @OptaPro cc @devinpleuler -- you had asked at Harvard about the xT approach vs fitting a model to predi… https://t.co/SQsriu6BFp
+1180035652156395500,Fri Oct 04 08:23:18 +0000 2019,@NilsMackay @OptaPro Re: continuous locations, I bilinearly interpolate at inference time to get more resolution wi… https://t.co/NRW3aXdaQC
+1180031691726839800,Fri Oct 04 08:07:33 +0000 2019,@NilsMackay @OptaPro Yep, but could you hold other input dimensions constant at their natural means? This would eff… https://t.co/oMy81g2R4Z
+1180023937809256400,Fri Oct 04 07:36:45 +0000 2019,@NilsMackay @OptaPro ... a discrete Markov process. I'd love to see actual value differences between the two approa… https://t.co/gLP3X0k9iY
+1180023429182836700,Fri Oct 04 07:34:43 +0000 2019,@NilsMackay @OptaPro Interesting -- actually xT is generally configured to look till the end of the possession (if… https://t.co/qEco2U1lTS
+1180020297585397800,Fri Oct 04 07:22:17 +0000 2019,Looking for 4 tickets to Arsenal vs Vitoria! (cc @arsenal_tickets)
+1179886634528997400,Thu Oct 03 22:31:09 +0000 2019,@OptaPro @NilsMackay Are you able to share any details as to how this is computed, and how it relates to xT (negative contributions aside)?
+1175101678430773200,Fri Sep 20 17:37:27 +0000 2019,Any tips for finding Arsenal tickets? Specifically looking at Bournemouth (6 Oct) and Palace (27 Oct)
+1173294570630566000,Sun Sep 15 17:56:39 +0000 2019,Too easy for Watford to penetrate the box; one-way traffic after Arsenal went 2-0 up.  #WATARS https://t.co/Sj9l9djke3
+1168804562133586000,Tue Sep 03 08:34:57 +0000 2019,@Bujamies https://t.co/TNdaq9wb8U
+1168804512967970800,Tue Sep 03 08:34:45 +0000 2019,🇪🇸 Atletico 3-2 Eibar https://t.co/OlFmbvEMSj
+1168804311502950400,Tue Sep 03 08:33:57 +0000 2019,@TheBusbyBlog No worries!
+1168803438613815300,Tue Sep 03 08:30:29 +0000 2019,@ploehmann I don't quite have numbers at that level, but happy to help you apply the algorithm if you have the event data!
+1168803250516066300,Tue Sep 03 08:29:44 +0000 2019,@MMaqdah https://t.co/4maoNm2TkY
+1168803202621296600,Tue Sep 03 08:29:33 +0000 2019,🇮🇹 Lazio 1-1 Roma https://t.co/BVEfF6PvgX
+1168802641587007500,Tue Sep 03 08:27:19 +0000 2019,@tjsmfc https://t.co/iaNjGkvqzf
+1168802571969941500,Tue Sep 03 08:27:03 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bristol City 2-2 Middlesbrough https://t.co/FsNoV8ilJI
+1168801644349231000,Tue Sep 03 08:23:21 +0000 2019,@TheBusbyBlog https://t.co/aMHNl5V4rz
+1168801120845582300,Tue Sep 03 08:21:17 +0000 2019,@19jem92 https://t.co/QyG97FNvyF
+1168801076109176800,Tue Sep 03 08:21:06 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 West Brom 3-2 Blackburn https://t.co/DcMgkkYCPZ
+1168800319460925400,Tue Sep 03 08:18:06 +0000 2019,@alpercaltik https://t.co/8lO1f9mW89
+1168800253224505300,Tue Sep 03 08:17:50 +0000 2019,🇹🇷 Fenerbahçe 1-1 Trabzonspor https://t.co/a3ew8tGath
+1168797713388847000,Tue Sep 03 08:07:44 +0000 2019,@palexage Don't have League One yet unfortunately!
+1168797436795474000,Tue Sep 03 08:06:38 +0000 2019,@Funadrius https://t.co/3F7oFhnXh2
+1168797315202572300,Tue Sep 03 08:06:09 +0000 2019,@JackCudworth https://t.co/bVpgmShuIP
+1168797218070859800,Tue Sep 03 08:05:46 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Palace 1-0 Villa https://t.co/o4Qjsg2v1j
+1168795893266407400,Tue Sep 03 08:00:30 +0000 2019,@Paulie https://t.co/G1c3p8H3Kn
+1168795731227861000,Tue Sep 03 07:59:52 +0000 2019,@Jon_izag https://t.co/WvEFZ3J7rI
+1168795649472483300,Tue Sep 03 07:59:32 +0000 2019,🇪🇸 Osasuna 2-2 Barcelona https://t.co/7s4FGva7DS
+1168793411261845500,Tue Sep 03 07:50:39 +0000 2019,@VillaAnalytics @Blades_analytic @SwansAnalytics @RobinsAnalysis @ARDataAnalysis Let me know how I can help!
+1168792988937441300,Tue Sep 03 07:48:58 +0000 2019,@sespino https://t.co/LgnRsMotKq
+1168792922394787800,Tue Sep 03 07:48:42 +0000 2019,🇦🇷 River Plate 0-0 Boca Juniors https://t.co/mEiS9WlDIP
+1168791989657067500,Tue Sep 03 07:45:00 +0000 2019,@DotevallJosef Yep! https://t.co/AV1nUMhcxZ
+1168791904047100000,Tue Sep 03 07:44:39 +0000 2019,@Jenksno1 Sure, here's a primer: https://t.co/D8nvR0CeEw  These charts are generated by looking at the maximum xT r… https://t.co/bknB93PxI6
+1168791591588286500,Tue Sep 03 07:43:25 +0000 2019,Taking requests for xT visuals from the weekend! https://t.co/65JzKwBkrg
+1168790941261451300,Tue Sep 03 07:40:50 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Everton 3-2 Wolves https://t.co/ZrI1HiqSna
+1168790939256492000,Tue Sep 03 07:40:49 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Manchester City 4-0 Brighton https://t.co/Rm7ucXY218
+1168214399548452900,Sun Sep 01 17:29:51 +0000 2019,Arsenal carry their late first-half momentum into the second to find an equalizer, but lost their way a bit in the… https://t.co/036r6fFPaU
+1168198569628582000,Sun Sep 01 16:26:57 +0000 2019,#ARSTOT 1-2 @ HT  Both teams particularly productive down the left (i.e. against Sánchez and Maitland-Niles). Can A… https://t.co/nztBBAasnI
+1168165590126563300,Sun Sep 01 14:15:54 +0000 2019,@jburnmurdoch Yep, makes total sense -- will try that out, thanks!
+1168081040948097000,Sun Sep 01 08:39:56 +0000 2019,@MMolsted Definitely, it's on my to-do list!
+1168079130304270300,Sun Sep 01 08:32:21 +0000 2019,@alpercaltik Yeah, just one-way traffic on the xT charts
+1168077842455728000,Sun Sep 01 08:27:14 +0000 2019,@alpercaltik Looks a bit like: https://t.co/pEGXe3bbn2
+1168073900053319700,Sun Sep 01 08:11:34 +0000 2019,@alpercaltik https://t.co/Xzk468k5Dk  Could you remind me about Fenerbahce after the game? Thanks!
+1168073780297519000,Sun Sep 01 08:11:05 +0000 2019,🇹🇷 Besiktas 1-1 Rizespor  (what's happened here?!) https://t.co/JflZHUcqcZ
+1168071885751345200,Sun Sep 01 08:03:33 +0000 2019,@ploehmann There's plenty of applications at the season-level! I go through a few of them in this blog post https://t.co/D8nvR0CeEw
+1168071726137147400,Sun Sep 01 08:02:55 +0000 2019,@ploehmann https://t.co/NeB9HsFL2Y
+1168071676719796200,Sun Sep 01 08:02:44 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Sheffield Wednesday 1-2 QPR https://t.co/zWrMg6lahy
+1168070769714163700,Sun Sep 01 07:59:07 +0000 2019,@R3greting Posted Bayern and Dortmund!
+1168070711325249500,Sun Sep 01 07:58:53 +0000 2019,🇩🇪 Union Berlin 3-1 Dortmund https://t.co/Rd2q7Ds5W4
+1168070577761898500,Sun Sep 01 07:58:22 +0000 2019,🇩🇪 Bayern 6-1 Mainz https://t.co/R5gEYqfz48
+1167932422140223500,Sat Aug 31 22:49:23 +0000 2019,@SamueILiles It's based on the amount of Expected Threat (xT) cumulated during each possession (https://t.co/D8nvR0CeEw)
+1167930261230608400,Sat Aug 31 22:40:48 +0000 2019,@JoshAHobbs https://t.co/G1c3p8H3Kn
+1167930124815089700,Sat Aug 31 22:40:15 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leeds vs Swansea https://t.co/2LSLlefQCk
+1167929396306428000,Sat Aug 31 22:37:21 +0000 2019,@R3greting Sure, will post later today!
+1167928826019467300,Sat Aug 31 22:35:05 +0000 2019,@jbcfc_ Sure! https://t.co/snObitIsLT
+1167928758805749800,Sat Aug 31 22:34:49 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Birmingham vs Stoke https://t.co/wIs8EVL0xX
+1167928185205342200,Sat Aug 31 22:32:33 +0000 2019,@Jaf1981 https://t.co/DogyPjnC2s
+1167927823022997500,Sat Aug 31 22:31:06 +0000 2019,Apart from a couple of moments, West Ham were mostly comfortable at home against Norwich, cruising to a 2-0 win (al… https://t.co/TK7ts3MNFg
+1167904258886267000,Sat Aug 31 20:57:28 +0000 2019,🇮🇹🎢 #JUVNAP https://t.co/GVvXSaG1yZ
+1167901042819776500,Sat Aug 31 20:44:41 +0000 2019,Southampton survive a mountain of United pressure after going down to ten men (73') to claim a point. #SOUMUN https://t.co/rYTy3ysmmq
+1167900525775339500,Sat Aug 31 20:42:38 +0000 2019,Sheffield United complete a 2-0 comeback in the dying minutes, but in truth they had been knocking on the door for… https://t.co/GOHMJg8jau
+1167011558146228200,Thu Aug 29 09:50:12 +0000 2019,@sean_mullen252 Working on getting some 🏴󠁧󠁢󠁳󠁣󠁴󠁿 games up soon!
+1167011446799995000,Thu Aug 29 09:49:45 +0000 2019,🇩🇪 Schalke vs Bayern https://t.co/6WUQDiaR2b
+1167010832217034800,Thu Aug 29 09:47:19 +0000 2019,🏴󠁧󠁢󠁥󠁮󠁧󠁿 Preston vs Wednesday https://t.co/R6OaGobeOO
+1167009622252638200,Thu Aug 29 09:42:30 +0000 2019,Speaking of roller coasters... #FiorentinaNapoli https://t.co/OIipiT52zA
+1167008519813398500,Thu Aug 29 09:38:07 +0000 2019,Quite a roller-coaster in the first half-hour, but Chelsea managed to control the game thereafter and edge out Norw… https://t.co/ClEKBmz5if
+1166573617372631000,Wed Aug 28 04:49:58 +0000 2019,🚌🚌🚌 #TOTNEW https://t.co/YyY9HHbjx9
+1166572604171444200,Wed Aug 28 04:45:57 +0000 2019,@DataNiner Sure! https://t.co/zWR0IecRCU
+1166572525335253000,Wed Aug 28 04:45:38 +0000 2019,Harvey Barnes' screamer sees Leicester over the line, after they capitalized on a careless mistake in the first hal… https://t.co/iCnkC7SFzO
+1166569124270694400,Wed Aug 28 04:32:07 +0000 2019,All it takes is a long ball and a goalkeeping error... 🤔 #MUNCRY https://t.co/Wm3SO4NQVD
+1166567944484245500,Wed Aug 28 04:27:26 +0000 2019,Taking requests for xT visuals from the weekend! https://t.co/Gi4ICRL9pC
+1166563784586092500,Wed Aug 28 04:10:54 +0000 2019,@KylEnsign Don't have the data yet, unfortunately!
+1165976011101692000,Mon Aug 26 13:15:18 +0000 2019,A one-sided first half saw Arsenal sit deep and counter-attack. Liverpool let them have more of the ball after goin… https://t.co/cwAPcpMA7H
+1164778750484963300,Fri Aug 23 05:57:49 +0000 2019,@Jon_Mackenzie @counterattack9 Not quite, they're showing the positions at which maximum xT was reached during the team's possessions.
+1164778507949367300,Fri Aug 23 05:56:51 +0000 2019,@p_astafiev @counterattack9 Potentially, haven't done a direct comparison yet!
+1164778359651364900,Fri Aug 23 05:56:16 +0000 2019,@lemonwatcher @counterattack9 That being said, it might be best to rebrand this version as less of an 'xT map' and… https://t.co/LYjbFVzeXv
+1164777781290385400,Fri Aug 23 05:53:58 +0000 2019,@lemonwatcher @counterattack9 Yes, I think the real added value -- scrolling through dozens of these maps -- is in… https://t.co/V4f29Kq3rj
+1164757753979555800,Fri Aug 23 04:34:23 +0000 2019,@Blades_analytic @joefriess Yeah, to add to this, expected threat (https://t.co/FA0Y1AMfJ4) can be evaluated at any… https://t.co/0oRFlQuspw
+1163735505332142000,Tue Aug 20 08:52:20 +0000 2019,@counterattack9 I agree, it would be good to slice it explicitly based on origin and end to show where the highest… https://t.co/uGdOJ3gw2x
+1163735150682751000,Tue Aug 20 08:50:55 +0000 2019,@lemonwatcher @counterattack9 Plotting the last position within each possession would definitely be, yes, note that… https://t.co/snXLCn9nn6
+1163729917537689600,Tue Aug 20 08:30:08 +0000 2019,@counterattack9 Yup, definitely -- one trade-off is that weighting by xT tends to heavily favor things closer to and inside the box
+1163729195702218800,Tue Aug 20 08:27:15 +0000 2019,Sporting 2-1 Braga https://t.co/cRekGi7F0x
+1163728561045295000,Tue Aug 20 08:24:44 +0000 2019,Porto 4-0 Setúbal https://t.co/7QXAilpEZ6
+1163728364521185300,Tue Aug 20 08:23:57 +0000 2019,@counterattack9 Thanks! They're showing the locations of maximum xT most often reached during the team's possession… https://t.co/cML4fEULF1
+1163724317508526000,Tue Aug 20 08:07:52 +0000 2019,@luistscosta Here's Benfica from the weekend https://t.co/9xOYYiMbqy
+1163724187191500800,Tue Aug 20 08:07:21 +0000 2019,Belenenses 0-2 Benfica 🇵🇹 https://t.co/uPoTimRLOe
+1163723006717264000,Tue Aug 20 08:02:40 +0000 2019,@johnmyrstad The map itself is more of a narrative tool, to be used with other information to make those kinds of d… https://t.co/7W0spIf22f
+1163721755019448300,Tue Aug 20 07:57:41 +0000 2019,@moyoli_ Most of the method is public at https://t.co/D8nvR0CeEw, but I will also try to shed more light on how the… https://t.co/xUya089UvV
+1163721387606855700,Tue Aug 20 07:56:14 +0000 2019,@dick_ee The shape of the map suggests a strong line of defence from Birmingham near the edge of their box? Seems l… https://t.co/Pj2SkrDs6X
+1163720421935472600,Tue Aug 20 07:52:24 +0000 2019,@danzn1 Sure! https://t.co/ME8l4MqlrW
+1163720352821682200,Tue Aug 20 07:52:07 +0000 2019,Hamburg 1-0 Bochum https://t.co/BLZd4FpVLB
+1163719398709874700,Tue Aug 20 07:48:20 +0000 2019,@MMolsted Most of the top leagues should be doable! Let me know what you'd like to see.
+1163719220883935200,Tue Aug 20 07:47:37 +0000 2019,@jbcfc_ https://t.co/SCpN2trZ7X
+1163719163577163800,Tue Aug 20 07:47:24 +0000 2019,Bristol City 2-0 QPR https://t.co/AHuGu7a2Q6
+1163718070713507800,Tue Aug 20 07:43:03 +0000 2019,@tjsmfc https://t.co/13MGpVfQ29
+1163717949489705000,Tue Aug 20 07:42:34 +0000 2019,Blackburn 1-0 Middlesbrough https://t.co/YMcUkR5pO9
+1163717014956859400,Tue Aug 20 07:38:51 +0000 2019,@LukeThrower45 Yep, here you go: https://t.co/ybYvioX8aK
+1163716922162049000,Tue Aug 20 07:38:29 +0000 2019,Stoke 2-2 Derby https://t.co/qquh3Ogzep
+1163716104063090700,Tue Aug 20 07:35:14 +0000 2019,@R3greting Sure! https://t.co/1DwXSeRxmw
+1163716011155021800,Tue Aug 20 07:34:52 +0000 2019,Another opening weekend surprise as a dominant Bayern drop points at home against Hertha Berlin. https://t.co/q5YVdnQtA3
+1163715317337477000,Tue Aug 20 07:32:07 +0000 2019,@DanielT_W https://t.co/O8HWD1oW22
+1163715241022148600,Tue Aug 20 07:31:48 +0000 2019,Dynamo Dresden 2-1 FC Heidenheim https://t.co/IBPh7Z20MR
+1163714119909830700,Tue Aug 20 07:27:21 +0000 2019,@BenS4G Thanks! Here you go: https://t.co/alUiSYLRjU
+1163714037718216700,Tue Aug 20 07:27:02 +0000 2019,Reading 3-0 Cardiff https://t.co/tPrFM34CSi
+1163712928417104000,Tue Aug 20 07:22:37 +0000 2019,@darylgouilard Don't have that one unfortunately!
+1163712515273977900,Tue Aug 20 07:20:59 +0000 2019,@ploehmann @Blades_analytic @SofaScoreINT https://t.co/E2TudWSbZY
+1163712398886224000,Tue Aug 20 07:20:31 +0000 2019,The effect of red cards on xT timelines is quite interesting -- 42nd minute red for Millwall here, but they managed… https://t.co/rNTyGuVIUZ
+1163710994515779600,Tue Aug 20 07:14:56 +0000 2019,Wolves made their way back into the game after a dominant first half from United. #WOLMUN https://t.co/XFA8Gqir1b
+1163709964432502800,Tue Aug 20 07:10:50 +0000 2019,@semperty Yep! https://t.co/IzvaDJ1XcO
+1163709737248026600,Tue Aug 20 07:09:56 +0000 2019,Bilbao upset Barca on the opening weekend with a goal worthy of 3 points. https://t.co/fpVuGcTwKP
+1163707657007407000,Tue Aug 20 07:01:40 +0000 2019,Round 2 starting soon, feel free to add requests!
+1163707177862758400,Tue Aug 20 06:59:46 +0000 2019,@justbhutani I can, which match are you thinking of? 🇪🇸
+1163702596462190600,Tue Aug 20 06:41:34 +0000 2019,@Blades_analytic @ploehmann @SofaScoreINT Not entirely sure how SofaScore computes Attack Momentum, but it is simil… https://t.co/sfu6EnkjJe
+1163673720294015000,Tue Aug 20 04:46:49 +0000 2019,@VishalRohra293 Let's all ping @EASPORTSFIFA
+1163388000669094000,Mon Aug 19 09:51:28 +0000 2019,Will get to the rest of the requests tomorrow!
+1163387526465253400,Mon Aug 19 09:49:35 +0000 2019,@_George2001_ Sure, here you go: https://t.co/4FwZC9cgfh
+1163387415731437600,Mon Aug 19 09:49:09 +0000 2019,#PukkiParty #NORNEW https://t.co/PpCH4Mr43o
+1163385968990122000,Mon Aug 19 09:43:24 +0000 2019,@geoftyler Yep! https://t.co/H5qpBd509R
+1163385892280529000,Mon Aug 19 09:43:06 +0000 2019,Bournemouth got off to a great start, and saw out roughly 70 minutes of Villa dominance. #AVLBOU https://t.co/80a5SpGaXe
+1163383869548056600,Mon Aug 19 09:35:03 +0000 2019,@outlieranalysis You didn't miss it -- I posted it after you requested it :)
+1163383626811105300,Mon Aug 19 09:34:05 +0000 2019,@crankRBL https://t.co/l4cl7KeeWU
+1163383565934977000,Mon Aug 19 09:33:51 +0000 2019,Union Berlin 0-4 RB Leipzig https://t.co/NlBvSz6Orn
+1163382611156164600,Mon Aug 19 09:30:03 +0000 2019,@R_by_Ryo https://t.co/C3EAmZDeRN
+1163382544269602800,Mon Aug 19 09:29:47 +0000 2019,Eintracht 1-0 Hoffenheim https://t.co/Oc4mUZTJNW
+1163381273332633600,Mon Aug 19 09:24:44 +0000 2019,@fitbainscotland I don't, unfortunately :(
+1163381109255573500,Mon Aug 19 09:24:05 +0000 2019,@OzilesqueMagic Thanks! Here you go: https://t.co/7p6REOIs20
+1163380702324199400,Mon Aug 19 09:22:28 +0000 2019,Interesting bimodal pattern on Forest's map... https://t.co/aMBzWJMI2z
+1163378971783749600,Mon Aug 19 09:15:36 +0000 2019,@outlieranalysis https://t.co/2AMORWKEG0
+1163378601762275300,Mon Aug 19 09:14:07 +0000 2019,Far from smooth sailing for Liverpool, but they got the job done at St. Mary's. #SOULIV https://t.co/96LRe4msIp
+1163377181663170600,Mon Aug 19 09:08:29 +0000 2019,@darylgouilard Which match do you have in mind? 🙂
+1163376708906446800,Mon Aug 19 09:06:36 +0000 2019,Sivasspor 3-0 Besiktas -- I'll leave the commentary to @alpercaltik 🙂 https://t.co/rKnQP8QsiU
+1163375530462236700,Mon Aug 19 09:01:55 +0000 2019,@EvertonSverige_ https://t.co/wbXtsV1jTg
+1163375365890293800,Mon Aug 19 09:01:16 +0000 2019,Bernard's early goal is the difference despite several sustained spells of Watford pressure. #EVEWAT https://t.co/sjSGGwpUB4
+1163373601916985300,Mon Aug 19 08:54:15 +0000 2019,@TomHarwood_ https://t.co/0LzqI2Fx6J
+1163373525748502500,Mon Aug 19 08:53:57 +0000 2019,Interesting to see the effect of the Wigan red card in the 21st minute here! https://t.co/BUiwfIVs7D
+1163372201287942100,Mon Aug 19 08:48:41 +0000 2019,@AMKPersonal Will follow-up tomorrow!
+1163372135844212700,Mon Aug 19 08:48:26 +0000 2019,@rramesss https://t.co/uzWOCleULj 🙂
+1163372038188228600,Mon Aug 19 08:48:02 +0000 2019,Chelsea dropped off quite a bit after the first half hour, and the Leicester equalizer had been coming for a while.… https://t.co/HTiIEPj4LX
+1163370203733827600,Mon Aug 19 08:40:45 +0000 2019,@Blades_analytic https://t.co/s60Nesljhw 🙂
+1163370128152514600,Mon Aug 19 08:40:27 +0000 2019,The Blades continue their impressive return to the PL with a 1-0 win vs Palace #SHUCRY https://t.co/CpVGPXbSLX
+1163365075928801300,Mon Aug 19 08:20:23 +0000 2019,@alpercaltik Which one?
+1163363846246944800,Mon Aug 19 08:15:29 +0000 2019,@johnmyrstad The map shows where max xT was reached during possession sequences, which tends to be a good indicatio… https://t.co/9yytCsXfxy
+1163362728766869500,Mon Aug 19 08:11:03 +0000 2019,Taking requests for xT visuals from the weekend! Let me know which match(es) you'd like. https://t.co/pEGXe3bbn2
+1162998093433856000,Sun Aug 18 08:02:07 +0000 2019,All the post-game focus is on the VAR decision, but City will be kicking themselves for not converting their threat… https://t.co/bqHTgvmVnm
+1162735118256988200,Sat Aug 17 14:37:09 +0000 2019,@ArsenalUTA https://t.co/D8nvR0CeEw🙂
+1162718825650905000,Sat Aug 17 13:32:24 +0000 2019,#ARSBUR 2-1 FT: - Arsenal shifted focus to the right with Pepe's introduction in the second half - Ceballos a consi… https://t.co/dhu6v1NUib
+1162702633167011800,Sat Aug 17 12:28:04 +0000 2019,#ARSBUR 1-1 at HT: - Burnley haven't had too much of the ball, but they are finding their way deep into Arsenal's h… https://t.co/zpqDIoSDHU
+1161472288606179300,Wed Aug 14 02:59:07 +0000 2019,@msubbaiah1 @StatsBomb should be a good starting point
+1161327898789200000,Tue Aug 13 17:25:22 +0000 2019,RT @AlbionAnalytics: [THREAD] Watford 0-3 Brighton    - A statistical analysis -   (Graphics and data @SofaScoreINT; @StatsZone; @WhoScored…
+1160802116048261000,Mon Aug 12 06:36:05 +0000 2019,@rramesss Too early to say! Probably worth revisiting in a few weeks :)
+1160801858358665200,Mon Aug 12 06:35:04 +0000 2019,@Sun7_S05 Take a look at https://t.co/CiTJadQn97, let me know if you have questions!
+1160801205297139700,Mon Aug 12 06:32:28 +0000 2019,@Blades_analytic @ploehmann Check it out at https://t.co/D8nvR0CeEw and let me know if you have questions! Would lo… https://t.co/qd1Op7FUav
+1160800826266251300,Mon Aug 12 06:30:58 +0000 2019,@Blades_analytic @JohnCarrafiell https://t.co/dTEraf18Bc
+1160800690786013200,Mon Aug 12 06:30:25 +0000 2019,Not as one-sided as the scoreline suggests -- Chelsea unable to convert their persistent threat into goals. #MUNCHE https://t.co/3TxTjtVozd
+1160795934910869500,Mon Aug 12 06:11:32 +0000 2019,@JohnCarrafiell Chelsea generated higher xT than United -- charts to come soon!
+1160568859868352500,Sun Aug 11 15:09:13 +0000 2019,@semperty It's a great point, and I need to look into it; my guess is that most possessions end with some base xT,… https://t.co/w2Z9uNYzky
+1160568243695710200,Sun Aug 11 15:06:46 +0000 2019,Leicester unable to take advantage of their dominance over Wolves #LEIWOL https://t.co/XB0T1P3fSj
+1160567011837001700,Sun Aug 11 15:01:52 +0000 2019,Arsenal hit on the counter to take home all 3 points and a rare clean sheet! #NEWARS https://t.co/Du6JW0aQut
+1160456997101174800,Sun Aug 11 07:44:43 +0000 2019,@Worville Been compiling xT Game Flows (https://t.co/YZVHGpONUZ) + watching extended highlights alongside. Game Flo… https://t.co/jIPng4pJ9K
+1160443912823033900,Sun Aug 11 06:52:43 +0000 2019,@LiamTharmeCoach @SheffieldUnited @afcbournemouth There's a detailed explanation of xT itself here:… https://t.co/XtG6i8HCYd
+1160442931158741000,Sun Aug 11 06:48:49 +0000 2019,@JoshAHobbs @SheffieldUnited @afcbournemouth Thanks for that, makes a lot of sense!
+1160442837835497500,Sun Aug 11 06:48:27 +0000 2019,@LiamTharmeCoach @SheffieldUnited @afcbournemouth Sort of when the flow was in the balance, but yes definitely not… https://t.co/hsB6irzbkA
+1160440478010990600,Sun Aug 11 06:39:04 +0000 2019,@JoshAHobbs @SheffieldUnited @afcbournemouth Got it, does the left-sided bias also make sense?
+1160438532818665500,Sun Aug 11 06:31:20 +0000 2019,@wiscostretford Thanks!
+1160438245148115000,Sun Aug 11 06:30:12 +0000 2019,@darylgouilard @SheffieldUnited @afcbournemouth https://t.co/JKu7vlP9R2
+1160438176915193900,Sun Aug 11 06:29:55 +0000 2019,Burnley got off to a shaky start, but followed-up with a dominant second half. #BURSOU https://t.co/di6yragOZ6
+1160435820194480000,Sun Aug 11 06:20:34 +0000 2019,@LiamTharmeCoach @SheffieldUnited @afcbournemouth https://t.co/IJeCP31dQE
+1160435725310910500,Sun Aug 11 06:20:11 +0000 2019,Watford get an early wake-up call from a clinical Brighton #WATBHA https://t.co/PT7geS8Sj2
+1160430185864319000,Sun Aug 11 05:58:10 +0000 2019,@JoshAHobbs @SheffieldUnited @afcbournemouth Here's a bonus EFL match :) Does it match up with what you would expec… https://t.co/BZ8SIliXWJ
+1160428757158490000,Sun Aug 11 05:52:30 +0000 2019,@DistanceCovered Thanks! Here you go: https://t.co/clALCVWUUl
+1160428578305003500,Sun Aug 11 05:51:47 +0000 2019,Liverpool ran away with it in the first half, but Norwich had their moments going forward. #LIVNOR https://t.co/jdT8MP4phc
+1160298495762292700,Sat Aug 10 21:14:53 +0000 2019,@rhapsodyinblu17 @SheffieldUnited @afcbournemouth https://t.co/XfMu5U8Io3
+1160298394104946700,Sat Aug 10 21:14:29 +0000 2019,Neither side unable to break the deadlock -- not sure which side walks away (un)happier! #CRYEVE https://t.co/AnrMicpsy5
+1160296664059371500,Sat Aug 10 21:07:36 +0000 2019,@johnmyrstad @SheffieldUnited @afcbournemouth Good point, I'll look into it! In the meantime, https://t.co/6WQFcF0xfw
+1160296384899117000,Sat Aug 10 21:06:30 +0000 2019,Villa beat the high press early on with a long ball to go 1-0 up, but Spurs eventually came good. #TOTAVL https://t.co/nrrSznBqUK
+1160295435807776800,Sat Aug 10 21:02:43 +0000 2019,City clinical as usual when they get into advanced areas. #WHUMCI https://t.co/eQRjbfFsU3
+1160292218768261000,Sat Aug 10 20:49:56 +0000 2019,[⚽️📈] Taking requests for Premier League xT Timelines / Flows -- let me know which match(es) you'd like to see!  St… https://t.co/sFQpeMkZaL
+1159866184742789000,Fri Aug 09 16:37:02 +0000 2019,@EveryTeam_Mark 😂
+1159859713774764000,Fri Aug 09 16:11:19 +0000 2019,RT @karun1710: Looks like there isn't, so...  Analytics Twitter #FPL league: 4ky49h https://t.co/8YOBjK9orn
+1159823828102443000,Fri Aug 09 13:48:43 +0000 2019,@smarterscout @lastrowview Very interesting, do you have results to share re: using the kernel?
+1159820826062930000,Fri Aug 09 13:36:48 +0000 2019,[⚽📈] Extending xT to tracking data is a direction I'm really excited about. This is a promising first attempt by… https://t.co/OsbN8kQfpv
+1159702580060016600,Fri Aug 09 05:46:55 +0000 2019,@algolritmo Haha I think all of us are in the same boat, don't worry 🙂
+1159668491651125200,Fri Aug 09 03:31:28 +0000 2019,@MikeTreacy @unravelsports Awesome, here you go: https://t.co/aHAFiVJSAo
+1159663163333202000,Fri Aug 09 03:10:18 +0000 2019,Looks like there isn't, so...  Analytics Twitter #FPL league: 4ky49h https://t.co/8YOBjK9orn
+1159643476432023600,Fri Aug 09 01:52:04 +0000 2019,Is there an Analytics Twitter FPL league?
+1157169824075669500,Fri Aug 02 06:02:39 +0000 2019,@KierDoyle Nice! Is that bucketing xT created based on origin?
+1156993495644528600,Thu Aug 01 18:21:59 +0000 2019,@KierDoyle Both -- it is roughly symmetrical over a league season, and I intentionally made it completely symmetric… https://t.co/Zlda5Y5Q1R
+1156990786065641500,Thu Aug 01 18:11:13 +0000 2019,@AbhishekS9_ Looking at my xTp90 numbers from 18/19, I actually get Iwobi on top even with just passes, around 0.33… https://t.co/Lm1uZR2gy9
+1156988811944923100,Thu Aug 01 18:03:23 +0000 2019,Another interesting application of xT: to figure out which strikers create their own chances! https://t.co/Dg2I0SER0Z
+1156987837834616800,Thu Aug 01 17:59:30 +0000 2019,@RizTalks @AbhishekS9_ Would love to discuss!
+1156987515435282400,Thu Aug 01 17:58:14 +0000 2019,@ThatGarateyjc @AbhishekS9_ Addressed some of the caveats here! https://t.co/6MNlqwSdUm
+1156987382480044000,Thu Aug 01 17:57:42 +0000 2019,@AbhishekS9_ And a third caveat, for a full picture we should reward carries/dribbles as well, which is where Iwobi really shines!
+1156987028862464000,Thu Aug 01 17:56:18 +0000 2019,@AbhishekS9_ Yup, 2 caveats: - Passing volume probably does dominate -- try normalizing by minutes played to get xT… https://t.co/gXWTlzgqkk
+1156282335865651200,Tue Jul 30 19:16:06 +0000 2019,@almost_kapil Empirically 🙂 the original blog post used 16x12, but that sometimes gets sparse for small samples and… https://t.co/E8P1dBALF9
+1156196523765633000,Tue Jul 30 13:35:07 +0000 2019,[⚽📈] Sharing league-wide xT values from the 2017-18 Premier League season (12x8 grid): https://t.co/IoZdCa2BbX  - N… https://t.co/vzjRU15JvD
+1149743496015650800,Fri Jul 12 18:13:05 +0000 2019,Vertical data that spans 15 seasons could lead to a lot of interesting evolutionary analytics -- thanks @StatsBomb!… https://t.co/nK699GYM7q
+1149240454149365800,Thu Jul 11 08:54:10 +0000 2019,@RowzReport @TylerRichardett This piece is all @TylerRichardett!
+1149236804156977200,Thu Jul 11 08:39:40 +0000 2019,[⚽️📈] Check out @TylerRichardett's work on extending xT to evaluate defensive actions! https://t.co/KfvAm7vf7O  Thi… https://t.co/Np6wyJzejL
+1148468026418683900,Tue Jul 09 05:44:49 +0000 2019,RT @realAbhiGupta: Newest Project: Visualizing the 2013 NBA Nets/Celtics trade from Celtics perspective. Looking for thoughts on this draft…
+1145240677623554000,Sun Jun 30 08:00:29 +0000 2019,First taste of the #CaliClasico -- positively surprised by the amount of xT created on both ends 👀… https://t.co/5LqwRMS4Na
+1141249638491496400,Wed Jun 19 07:41:31 +0000 2019,@Cantoner1 @StatsBomb Yes, it is! In the second image, you can see the cumulative xT of each team separately.
+1140822697259094000,Tue Jun 18 03:25:01 +0000 2019,[⚽️📈] #FIFAWWC 🇺🇸 3-0 🇨🇱: xT Timeline and Flow  Early goals from Carli Lloyd and Julie Ertz gave the US 3 points, b… https://t.co/gSJHMSqtFe
+1140537637167484900,Mon Jun 17 08:32:17 +0000 2019,⚡️ #FIFAWWC xT Flow Charts Compilation  https://t.co/vrvIQqZIPW
+1140535007779311600,Mon Jun 17 08:21:50 +0000 2019,[⚽️📈] #FIFAWWC 🇸🇪 5-1 🇹🇭: xT Timeline and Flow  Sweden cruise into the Round of 16, but Thailand will be ecstatic h… https://t.co/iUuCma6Ug1
+1140531517308858400,Mon Jun 17 08:07:58 +0000 2019,[⚽️📈] #FIFAWWC 🇨🇦 2-0 🇳🇿: xT Timeline and Flow  Second-half goals from Jessie Fleming and Nichelle Prince hand Cana… https://t.co/t0lABVSpHG
+1140530202751074300,Mon Jun 17 08:02:45 +0000 2019,[⚽️📈] #FIFAWWC 🇳🇱 3-1 🇨🇲: xT Timeline and Flow  Miedema's brace gives the Dutch the 3 points, but Cameroon will reg… https://t.co/UumzWSGuLO
+1140527961881239600,Mon Jun 17 07:53:50 +0000 2019,[⚽️📈] #FIFAWWC 🏴󠁧󠁢󠁥󠁮󠁧󠁿 1-0 🇦🇷: xT Timeline and Flow  One-way traffic, but Vanina Correa's Player of the Match perfo… https://t.co/nB1wTIqfm1
+1140526509314039800,Mon Jun 17 07:48:04 +0000 2019,[⚽️📈] #FIFAWWC 🇯🇲 0-5 🇮🇹: xT Timeline and Flow  Italy progress to the Round of 16 with a comfortable victory, but J… https://t.co/6LeF7lLkTP
+1140525404953776100,Mon Jun 17 07:43:41 +0000 2019,[⚽️📈] #FIFAWWC 🇯🇵 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿: xT Timeline and Flow  Japan went up 2-0 in the first half without much resistance, b… https://t.co/y6U8hRa7Xv
+1140523385023160300,Mon Jun 17 07:35:39 +0000 2019,[⚽️📈] #FIFAWWC 🇿🇦 0-1 🇨🇳: xT Timeline and Flow  China get 3 points on the board with a dominant performance, albeit… https://t.co/15nWfy7K02
+1140522007471124500,Mon Jun 17 07:30:11 +0000 2019,[⚽️📈] #FIFAWWC 🇦🇺 3-2 🇧🇷: xT Timeline and Flow  The Matildas come from behind in a roller-coaster game to keep thei… https://t.co/NPRMhmqwp8
+1140207705300197400,Sun Jun 16 10:41:15 +0000 2019,@AshwinRaman_ Runs per over seems to lend itself to a more natural interpretation and allows more resolution (i.e.… https://t.co/7gEgLy25pr
+1140202103970775000,Sun Jun 16 10:19:00 +0000 2019,@AshwinRaman_ Isn't it Wasim Akram right now?
+1139421710510248000,Fri Jun 14 06:37:59 +0000 2019,[⚽️📈] #FIFAWWC 🇫🇷 2-1 🇳🇴: xT Timeline and Flow  France took the lead early in the second half before Renard's unfor… https://t.co/MTlCg6kNcJ
+1139419731478241300,Fri Jun 14 06:30:08 +0000 2019,[⚽️📈] #FIFAWWC 🇩🇪 1-0 🇪🇸: xT Timeline and Flow  This one changed hands constantly, although Spain's periods of domi… https://t.co/LEXrLOZVwg
+1139417606195052500,Fri Jun 14 06:21:41 +0000 2019,[⚽️📈] #FIFAWWC 🇳🇬 2-0 🇰🇷: xT Timeline and Flow  Nigeria far from dominant, but they were more clinical in front of… https://t.co/Dl33frrG2J
+1139414579547533300,Fri Jun 14 06:09:39 +0000 2019,@danzn1 @StatsBomb Yes, it's coming up in a blog post :)
+1139096694174306300,Thu Jun 13 09:06:29 +0000 2019,@Escoot https://t.co/gd946LYHoG
+1139096358365753300,Thu Jun 13 09:05:09 +0000 2019,@aman_mittal7 I don't have a follow-up blog yet, but here's the original: https://t.co/FA0Y1AMfJ4
+1139095941766471700,Thu Jun 13 09:03:30 +0000 2019,@sznajdr Data isn't out yet, but should be out tomorrow!
+1139095440614256600,Thu Jun 13 09:01:31 +0000 2019,[⚽️📈] #FIFAWWC 🇺🇸 13-0 🇹🇭: xT Timeline and Flow  🤔🤔🤔  (Data via @StatsBomb) https://t.co/Nhuxkqtbwl
+1139093399250673700,Thu Jun 13 08:53:24 +0000 2019,[⚽️📈] #FIFAWWC 🇨🇱 0-2 🇸🇪: xT Timeline and Flow  It took Sweden 83 minutes to break the deadlock thanks in part to s… https://t.co/Q5gyXWZsFe
+1139091349871874000,Thu Jun 13 08:45:15 +0000 2019,[⚽️📈] #FIFAWWC 🇳🇿 0-1 🇳🇱: xT Timeline and Flow  Jill Roord's 90th minute goal gives the reigning European champions… https://t.co/Mnwig52TYp
+1139089701195792400,Thu Jun 13 08:38:42 +0000 2019,[⚽️📈] #FIFAWWC 🇨🇦 1-0 🇨🇲: xT Timeline and Flow  Kadeisha Buchanan's header for Canada is the difference, but it was… https://t.co/yrUkTUL7MK
+1139087695232114700,Thu Jun 13 08:30:44 +0000 2019,[⚽️📈] #FIFAWWC 🇦🇷 0-0 🇯🇵: xT Timeline and Flow  Argentina survive large periods of Japanese dominance to steal a su… https://t.co/AFw0WITUBD
+1138576837510963200,Tue Jun 11 22:40:46 +0000 2019,RT @Escoot: @karun1710 no need to run your xT for USA/Thailand https://t.co/uPNQKsy1Tq
+1138572840154804200,Tue Jun 11 22:24:53 +0000 2019,@Blades_analytic @OwlsAboutStat @SwansAnalytics @SBunching @Davefevs @rramesss @PannasNutmegs @11tegen11… https://t.co/L8RMBmPY7U
+1138313906466648000,Tue Jun 11 05:15:58 +0000 2019,[⚽️📈] #FIFAWWC 🏴󠁧󠁢󠁥󠁮󠁧󠁿 2-1 🏴󠁧󠁢󠁳󠁣󠁴󠁿: xT Timeline and Flow  A dominant first-half saw England go 2-0 up thanks to Nik… https://t.co/8vv3IaaWdq
+1138313904965050400,Tue Jun 11 05:15:58 +0000 2019,[⚽️📈] #FIFAWWC 🇧🇷 3-0 🇯🇲: xT Timeline and Flow  Similar to Norway vs Nigeria, xT again sheds more light on a match… https://t.co/mS4VRQffNH
+1138313900573712400,Tue Jun 11 05:15:57 +0000 2019,[⚽️📈] #FIFAWWC 🇦🇺 1-2 🇮🇹: xT Timeline and Flow  This one ebbed and flowed a fair amount, though Australia will be k… https://t.co/QAHiyrWk0W
+1137990740863139800,Mon Jun 10 07:51:50 +0000 2019,@RowzReport Thanks! I'm using Python (Matplotlib) but I'm sure you can reproduce these in R too!
+1137983217758171100,Mon Jun 10 07:21:56 +0000 2019,@Cantoner1 @StatsBomb Thanks for putting those side by side, very helpful to see! Based on this my guess is that th… https://t.co/K8hc1AeXRu
+1137965251813445600,Mon Jun 10 06:10:33 +0000 2019,(All of these are being generated using @StatsBomb data!)
+1137955102231224300,Mon Jun 10 05:30:13 +0000 2019,[⚽️📈] #FIFAWWC 🇳🇴 3-0 🇳🇬: xT Timeline and Flow  Not as one-sided as the scoreline suggests! Nigeria made costly def… https://t.co/kp3FdnSTGp
+1137955099584618500,Mon Jun 10 05:30:12 +0000 2019,[⚽️📈] #FIFAWWC 🇪🇸 3-1 🇿🇦: xT Timeline and Flow  South Africa made things interesting by grabbing the opening goal,… https://t.co/JXQs12CdMK
+1137955098133291000,Mon Jun 10 05:30:12 +0000 2019,[⚽️📈] #FIFAWWC 🇩🇪 1-0 🇨🇳: xT Timeline and Flow  Germany the more dangerous team throughout, but China had their mom… https://t.co/B7SjAhkJwm
+1137405827508129800,Sat Jun 08 17:07:35 +0000 2019,@ThaGreatZambino @StatsBomb Interesting, thank you! Do you know if there are details on how they're computing "pressure"?
+1137403534104653800,Sat Jun 08 16:58:29 +0000 2019,@sdotsom7 Yep, here you go! https://t.co/w0M600oUG8
+1137402745898430500,Sat Jun 08 16:55:21 +0000 2019,@ThaGreatZambino @StatsBomb That would be -- do you know where I can find those? Are they available for the 2018 WC, or the 2019 WWC?
+1137402546346049500,Sat Jun 08 16:54:33 +0000 2019,@etmckinley @StatsBomb There's similarities for sure! The differences are likely because of a) underlying differenc… https://t.co/nR4xMP19XY
+1137400517447913500,Sat Jun 08 16:46:29 +0000 2019,@903124S @StatsBomb - xT differs in that it captures the likelihood of scoring within the next few actions, rather… https://t.co/dl0in9ACbG
+1137398036043161600,Sat Jun 08 16:36:38 +0000 2019,[⚽️📈] #FIFAWWC France 4-0 South Korea: xT Flow and Timeline  The hosts dominate South Korea in the opener, not cedi… https://t.co/tSgne5gjc1
+1137354879620538400,Sat Jun 08 13:45:08 +0000 2019,[⚽️📈] NBA-inspired Game Flow charts from last year's World Cup: turns out that xT can capture shifts in momentum qu… https://t.co/XyUtj2eUC0
+1137156003806322700,Sat Jun 08 00:34:53 +0000 2019,@oawgunner It was Felipe Anderson, more details soon!
+1137155913540751400,Sat Jun 08 00:34:31 +0000 2019,@MyJBMe There seems to be less back-and-forth here, but maybe there's a way to make this work... I'll keep you posted!
+1137155430352805900,Sat Jun 08 00:32:36 +0000 2019,@Cantoner1 Both of these are coming: - I'll be publishing xT timelines during the #FIFAWWC - xG vs xT plot coming in the blog post!
+1137155007403372500,Sat Jun 08 00:30:55 +0000 2019,@joedgallagher @GregorydSam 🙂
+1136622592238993400,Thu Jun 06 13:15:18 +0000 2019,[⚽️📈] Prototyping a new visualization: xT timelines. The maximum xT reached during each possession sequence is accu… https://t.co/KZ3ZtvzcD5
+1135760691971776500,Tue Jun 04 04:10:25 +0000 2019,@Funadrius They are 5th and 6th respectively with approximately 0.32 and 0.29 xT created per 90 -- more in a blog post this week!
+1133913287257575400,Thu May 30 01:49:29 +0000 2019,@KeitaDeco It's some permutation of KdB, Hazard, David Silva, Mahrez and Iwobi :)
+1133885905855438800,Thu May 30 00:00:41 +0000 2019,@topbin_football Basically a measure of how much he increased Arsenal's chances of scoring through his ball movemen… https://t.co/hVOWADQkud
+1133883166928752600,Wed May 29 23:49:48 +0000 2019,Iwobi, believe it or not, was the 5th highest xT creator in the Premier League this season -- often goes unnoticed… https://t.co/XFCPIfuxDl
+1130254042561622000,Sun May 19 23:28:57 +0000 2019,This one is guaranteed to be close 🙂 https://t.co/vsNphUcJDy
+1130253114710171600,Sun May 19 23:25:16 +0000 2019,[⚽️📈] Who do you think had the highest xT created per 90 in the Premier League this season *outside the top 6*? (in… https://t.co/rbpvMhJHQO
+1130025343388213200,Sun May 19 08:20:11 +0000 2019,@Blades_analytic I can at least confirm that these 4 are among the top 5, so I'm standing on firm ground 😅
+1130019604993126400,Sun May 19 07:57:23 +0000 2019,@nandy_sushruta Ha, I like the De Bruyne reasoning 🙃
+1130019349689974800,Sun May 19 07:56:22 +0000 2019,@aman_mittal7 Or did I put him there to make it seem like a trick question? 🤔
+1130014800719827000,Sun May 19 07:38:17 +0000 2019,@sushantguptas Yep! https://t.co/FA0Y1AuERw
+1130013168086978600,Sun May 19 07:31:48 +0000 2019,[⚽️📈] Who do you think had the highest xT created per 90 in the Premier League this season? (includes xT created vi… https://t.co/7IsoCQAd6A
+1129935287771996200,Sun May 19 02:22:20 +0000 2019,@HypeMort Yep, this might be a bigger topic that I'll dedicate a separate post to! Lots of non-obvious decisions to… https://t.co/sPcDfGqSp8
+1129916730308870100,Sun May 19 01:08:36 +0000 2019,@I_Gooner4 I have an in-depth blog post that describes xT here: https://t.co/FA0Y1AMfJ4
+1129916310228365300,Sun May 19 01:06:55 +0000 2019,@Wertwhile Will look into these, thanks!
+1129915936029327400,Sun May 19 01:05:26 +0000 2019,@Nick_Mahon Hi Nick, re: 1) it's a tricky concept and we're discussing it on this thread https://t.co/NpY5Rcr3He an… https://t.co/J9piQgmjcx
+1129657076135866400,Sat May 18 07:56:49 +0000 2019,@jesseberger Yup, one related problem is "How should we aggregate mean xT for a team?" One idea I've been playing w… https://t.co/1bWmbIOmai
+1129441027595497500,Fri May 17 17:38:19 +0000 2019,@KierDoyle I have a hunch that those might end up being wrongly recorded passes :)
+1129439883079012400,Fri May 17 17:33:46 +0000 2019,@KierDoyle Hahaha thanks, those are all exciting ideas!
+1129439264410701800,Fri May 17 17:31:19 +0000 2019,@Thunderwood45 Interesting, the pattern you described is definitely clearly visible in the data 🙂
+1129438721651036200,Fri May 17 17:29:09 +0000 2019,@Funadrius That's interesting, do you have any hypotheses as to how xT might differ? Any areas of the pitch that we… https://t.co/9vAgN6ZmpL
+1129438367463006200,Fri May 17 17:27:45 +0000 2019,@Masterrianni xT tends to do a good job at isolating this! I'll definitely include visualizations of where the chan… https://t.co/orBK85zQER
+1129438015560937500,Fri May 17 17:26:21 +0000 2019,@danzn1 One idea is to invert the problem and ask "How does every other team create threat against Liverpool?", and… https://t.co/Fij73ZCV35
+1129437292546760700,Fri May 17 17:23:29 +0000 2019,@jesseberger Since xT approximates 'threat' (which is otherwise immeasurable), what do you think might be a good ba… https://t.co/uHBU5hYwGL
+1129436762676162600,Fri May 17 17:21:22 +0000 2019,@simplysxrgio Yes, exploring the defensive angle of xT has been on my to-do list for a while -- I might dedicate a… https://t.co/XgZk9b6pR7
+1129436161808580600,Fri May 17 17:18:59 +0000 2019,@Carlton_Blade Unfortunately not quite yet, mostly because of limitations in the data. Soon though!
+1129435979213762600,Fri May 17 17:18:16 +0000 2019,@thedummyrun Yes, definitely on the cards -- any specific narratives or hypotheses in mind?
+1129435597133582300,Fri May 17 17:16:44 +0000 2019,@SebC__ Yep, the graphic above is an example of "where the pass comes from", but I haven't yet explored the depth o… https://t.co/TdUxvtmPO8
+1129434984844996600,Fri May 17 17:14:18 +0000 2019,@Wertwhile Will look into that! Any hypotheses?
+1129377312162627600,Fri May 17 13:25:08 +0000 2019,[⚽📈] Writing a Premier League season review with a focus on Expected Threat (xT) — what would you like to see in it… https://t.co/2z09oH4ATo
+1125418552205250600,Mon May 06 15:14:26 +0000 2019,RT @Arsenal: How the kid from Caerphilly became an Arsenal icon 🏆  ❤️ @aaronramsey https://t.co/pGeZzIZyf1
+1124586169570693100,Sat May 04 08:06:51 +0000 2019,RT @natefoster: No, *this* is “office hours” for a CS class at Cornell. Professors skipping their conference and sitting in the hallway to…
+1123832553314619400,Thu May 02 06:12:15 +0000 2019,@juliankoh [3/3] - "Cornell should hire undergrad TAs": They do; vast majority of TAs are undergrads - "They should… https://t.co/VrwsyJjLrS
+1123832181003051000,Thu May 02 06:10:46 +0000 2019,@juliankoh [2/3] - "Why don't they help each other out?": Cornell takes Academic Integrity very seriously - "Have t… https://t.co/tnFVwmZu9a
+1123831904745271300,Thu May 02 06:09:40 +0000 2019,@juliankoh [1/3] Spent 4 years in these hallways, both as a helpless student and as an overwhelmed undergrad TA; he… https://t.co/gIMKForOZW
+1123649143241465900,Wed May 01 18:03:26 +0000 2019,@VideoHession @BrownUFootball So did @CornellSports 🙂 https://t.co/RwN7reeYhA
+1123465670866473000,Wed May 01 05:54:23 +0000 2019,@athyuttamre @juliankoh @Austen [3/3] It's certainly a hard and interesting problem that transcends product thinkin… https://t.co/VcsA7X0MJM
+1123463207799218200,Wed May 01 05:44:36 +0000 2019,@athyuttamre @juliankoh @Austen [2/3] - We built QMI as a product that could cater to these crazy Cornell CS classe… https://t.co/gFrHU7jJIJ
+1123462995953225700,Wed May 01 05:43:45 +0000 2019,@athyuttamre @juliankoh @Austen [1/3] Hi Atty, I was one of the PMs on the Queue Me In project (… https://t.co/AZbbfzsT7W
+1120960677454024700,Wed Apr 24 08:00:26 +0000 2019,@SwansAnalytics This might be relevant! https://t.co/w0M600oUG8
+1120948873030070300,Wed Apr 24 07:13:32 +0000 2019,[⚽️🤔] Really well put by @EveryTeam_Mark! (subscribe to his newsletter if you haven't yet)  Thinking of each player… https://t.co/uWdM6sWzfx
+1116520005359661000,Fri Apr 12 01:54:47 +0000 2019,RT @soccerquant: Plenty of exciting things happening in the space. Yet, football's resistance to change &amp; its urge to solve problems with m…
+1110825154207084500,Wed Mar 27 08:45:29 +0000 2019,Looking for any thoughts on what Van Gaal claims (https://t.co/GvQpVnbJ0q) for an upcoming post: how, if at all, ha… https://t.co/MgNVxptgUC
+1103162146790076400,Wed Mar 06 05:15:26 +0000 2019,🙂 https://t.co/L08qDbeR8F
+1099806260692578300,Sun Feb 24 23:00:20 +0000 2019,Thanks for your input! The purpose of this was to get a sense of how we think about player decision-making, and wha… https://t.co/3SFiJLnxNw
+1099613884720140300,Sun Feb 24 10:15:54 +0000 2019,@AshwinRaman_ I was hoping there'd be a better selection of Adama Traore GIFs https://t.co/736d9N8Z67
+1099613581769756700,Sun Feb 24 10:14:42 +0000 2019,@SkyblueJohnno 😅
+1099610922941702100,Sun Feb 24 10:04:08 +0000 2019,@joe_mulberry Let's say it's 0-0 in the first minute of the game
+1099609562808635400,Sun Feb 24 09:58:44 +0000 2019,[⚽️🤔] What should the player in red (who's about to receive the ball) do next? https://t.co/AquAKWJaWu
+1099570657136799700,Sun Feb 24 07:24:08 +0000 2019,@kikollan Actually, they're implemented from scratch using svg.js! (it's hard to use existing visualization librari… https://t.co/qiQki6Azen
+1099067806442614800,Fri Feb 22 22:05:59 +0000 2019,RT @petermckeever: Haven't written much in the past month. Here's some thoughts I have.  https://t.co/HyQ3NZ43ZO
+1098596442002853900,Thu Feb 21 14:52:57 +0000 2019,[⚽️📈] Which channels does the *opposition* successfully exploit against each team during buildup play?  Simulating… https://t.co/j1cjEWiHi6
+1098497759168983000,Thu Feb 21 08:20:49 +0000 2019,@CallanDray Regardless, I'm sure Nasri and Lanzini will indeed change West Ham's buildup (however it looks right now) 🙂
+1098497273699258400,Thu Feb 21 08:18:53 +0000 2019,@CallanDray Worth mentioning that this is based on last season's data, so it probably looks different for West Ham at the moment!
+1098468508705280000,Thu Feb 21 06:24:35 +0000 2019,@anand_iae @Zac_Urback Just vanilla Matplotlib (using Python)!
+1098440687245119500,Thu Feb 21 04:34:02 +0000 2019,@Zac_Urback Actually, this was produced using only event-level data! Tracking data would augment it further of cour… https://t.co/rXuHxBzryh
+1098439684949045200,Thu Feb 21 04:30:03 +0000 2019,@siwelwerd @sbagley @ProfNoodlearms What was Wenger thinking sending @theowalcott on that early? 🤔
+1098396980252819500,Thu Feb 21 01:40:21 +0000 2019,@ArunKrishnan_ @footalytics That's great, what is that visualization showing?
+1098394975283245000,Thu Feb 21 01:32:23 +0000 2019,@stockdale_adam 😂
+1098224580370546700,Wed Feb 20 14:15:18 +0000 2019,[⚽️📈] Which channels do teams exploit during buildup play? Using historical passing and dribbling data, we can simu… https://t.co/WLlf0oNGYh
+1097443898924818400,Mon Feb 18 10:33:09 +0000 2019,@colosslvictory Yup! Do you have any hypothesis as to which of those might be more successful? (any examples that c… https://t.co/6ThKKITbsM
+1097363531266060300,Mon Feb 18 05:13:48 +0000 2019,@903124S That would be worth a shot for sure. That being said, I do like the interpretability and intuition behind… https://t.co/YcDWImGRXs
+1097309273804046300,Mon Feb 18 01:38:12 +0000 2019,@aHellofaBeating https://t.co/w0M600oUG8 might help 🙂
+1097196187055059000,Sun Feb 17 18:08:50 +0000 2019,@903124S What labels would you be training it on? The state-based approach seems to work reasonably well because yo… https://t.co/mE5t7y3LzB
+1097064037332922400,Sun Feb 17 09:23:43 +0000 2019,@footballfactman They're excluded in my implementation
+1096918852917592000,Sat Feb 16 23:46:48 +0000 2019,@DaveLaidig Are you getting enough out of your sprints? 🏃‍♂️😅
+1096909446737911800,Sat Feb 16 23:09:26 +0000 2019,@DaveLaidig @Goalimpact @statlurker @AnalysisEvolved Yup, could probably get away with an analysis much simpler tha… https://t.co/nFitXNzX5d
+1096906386041012200,Sat Feb 16 22:57:16 +0000 2019,@Torreira_Edits It's about how good the possibilities are from that position, whether it be shooting directly, or p… https://t.co/bmZVrk8RYP
+1096905932670361600,Sat Feb 16 22:55:28 +0000 2019,@footyquant Hey Lukasz, would love to read about your implementation! Could you point me to it?
+1096905328866689000,Sat Feb 16 22:53:04 +0000 2019,@Guendouzied_9 @HeirToHenry This is definitely something that might be worth including. Your transition matrix coul… https://t.co/3lZCTVZaOk
+1096904776942374900,Sat Feb 16 22:50:52 +0000 2019,@Torreira_Edits When you watch your team play, there's some moments where you get up from your seat / get excited b… https://t.co/4dYiebQQA6
+1096903884990115800,Sat Feb 16 22:47:20 +0000 2019,@DaveLaidig @Goalimpact @statlurker Could you point me to the MLS values you calculated? I'm also in the process of… https://t.co/xq9iJStgyV
+1096902720064081900,Sat Feb 16 22:42:42 +0000 2019,RT @C_Carpenter14: Attached in this thread is a link to a study I've been working on for a while now, assessing where the teams from the la…
+1096832568291254300,Sat Feb 16 18:03:57 +0000 2019,@Guendouzied_9 @HeirToHenry ...percentile of xT created per action. That would effectively pick the 5/10% of the pl… https://t.co/pZ4y05072n
+1096832290326405100,Sat Feb 16 18:02:50 +0000 2019,@Guendouzied_9 @HeirToHenry Yes, this is why in the table of top xT creators I chose not to normalize by number of… https://t.co/CH8N4WyXMJ
+1096826993721540600,Sat Feb 16 17:41:48 +0000 2019,@ThaGreatZambino Yes, definitely! There was a thread in another reply here where we were discussing this. You could… https://t.co/RtGd6o66oe
+1096826077471637500,Sat Feb 16 17:38:09 +0000 2019,@EightyFivePoint Yep, that's one way to think about it! Most threat tends to be created within the last 4-5 actions preceding a shot.
+1096824778000744400,Sat Feb 16 17:32:59 +0000 2019,@Mladen_Sormaz @SaturdayOnCouch Interesting, will try both variations out!
+1096824424974606300,Sat Feb 16 17:31:35 +0000 2019,@HeirToHenry @Guendouzied_9 Thanks! I'd say that it's more to quantify creativity and execution in buildup play. Th… https://t.co/u4hObzJuaA
+1096686054013169700,Sat Feb 16 08:21:45 +0000 2019,@JigarThankiJT 1) it only counts successful passes where possession was retained by the team, so Holebas' crosses h… https://t.co/s1mkcfJEzd
+1096675242129248300,Sat Feb 16 07:38:47 +0000 2019,@footballfactman To be precise, here's the breakdown. Contribution due to the possibility of shooting = 0.74 * 0.14… https://t.co/8HVLWd7N7C
+1096674392984023000,Sat Feb 16 07:35:25 +0000 2019,@CoachChapperz @danzn1 Nope, the current xT implementation is based purely on event-level data! Though tracking dat… https://t.co/Why2Snrfe0
+1096674037663596500,Sat Feb 16 07:34:00 +0000 2019,@footballfactman So the "incremental" gain provided by Kolasinac's action is low compared to Ozil's. Meanwhile Ozil… https://t.co/eew45T3PzY
+1096673646121087000,Sat Feb 16 07:32:27 +0000 2019,@footballfactman Well, 3/4ths of the xT comes from the possibility of shooting, but the other 1/4th is considering… https://t.co/XkIMtTQP5y
+1096672474056384500,Sat Feb 16 07:27:47 +0000 2019,@KierDoyle @footballfactman Definitely! In fact, doing something like dividing up xT created between the passer and… https://t.co/kMmRGFXfM0
+1096671830239150100,Sat Feb 16 07:25:14 +0000 2019,@footballfactman and based on that, Kolasinac isn't deemed to have "added" as much to the play. The limitation of h… https://t.co/JZ2JLiEcPJ
+1096671502357811200,Sat Feb 16 07:23:55 +0000 2019,@footballfactman Also, I should clarify that the model doesn't assume that he will shoot (that would be a purely sh… https://t.co/yjTvmW1uBe
+1096670946071474200,Sat Feb 16 07:21:43 +0000 2019,@footballfactman Agree that this doesn't account for the lung-bursting run that Kolasinac made. A workaround for th… https://t.co/5PDG4evu9U
+1096669962796593200,Sat Feb 16 07:17:48 +0000 2019,@footballfactman Well, *relatively* easier position compared to where Ozil passed from :)
+1096669363417927700,Sat Feb 16 07:15:26 +0000 2019,@mniprat ...ability also tend to show up (like Holebas). What's really interesting though is Burnley's xT map at th… https://t.co/xeNm3bJz0I
+1096668733488083000,Sat Feb 16 07:12:55 +0000 2019,@mniprat ...these contributions are not significant/common enough to make the top contributors lists. This tends to… https://t.co/KJATHaovQN
+1096668468923920400,Sat Feb 16 07:11:52 +0000 2019,@mniprat It depends on how 'long' their long balls are. You can see in the visualizations that xT tends to only bec… https://t.co/pJhARWmE7R
+1096659472976498700,Sat Feb 16 06:36:07 +0000 2019,@ParadiseKuna That would be an interesting experiment -- although I don't have pre-Pep data, I could estimate it by… https://t.co/BQaAJrVEan
+1096568324203307000,Sat Feb 16 00:33:56 +0000 2019,@Tombirkert @Goalimpact Ha, it does indeed do negative numbers, I will update you when I get this year's data 😅
+1096568126316044300,Sat Feb 16 00:33:09 +0000 2019,@statlurker I left out details of the Markov interpretation to keep the post short, but we should discuss it here!… https://t.co/YOSXhEcTE2
+1096565401591271400,Sat Feb 16 00:22:19 +0000 2019,@CoachChapperz Oh, oops, thought this was a reply to another tweet. I've got access to the STATS dataset for resear… https://t.co/Lr9NtFEXoM
+1096483127319355400,Fri Feb 15 18:55:23 +0000 2019,@DataInsightDan Hi Dan, I am in SF but not a consultant, here's my LinkedIn: https://t.co/ovU6zM0zQF
+1096474486218448900,Fri Feb 15 18:21:03 +0000 2019,@MartynPhillips1 @NewportCounty @flynnster17 Good luck, I'll be supporting you! 😂
+1096474269117165600,Fri Feb 15 18:20:11 +0000 2019,@SaturdayOnCouch Hmm yeah, I will think about how we could best incorporate this... Let me know if you have ideas!
+1096474138628116500,Fri Feb 15 18:19:40 +0000 2019,@CoachChapperz Sorry, not sure I understand!
+1096472886003458000,Fri Feb 15 18:14:42 +0000 2019,@NeMoeImya Yes, a lot of the inspiration for this comes from work within basketball, including the paper I cited by @LukeBornn et al.!
+1096472573225758700,Fri Feb 15 18:13:27 +0000 2019,@AshwinRaman_ @rob_edw Not true, it takes a village! There's more and more people on here willing to engage and hav… https://t.co/ekcovs6Ci0
+1096471130204823600,Fri Feb 15 18:07:43 +0000 2019,@NeMoeImya Yep, one thing I could try is limiting the aggregation of xT created to only actions not in the final th… https://t.co/0pOmgCGY73
+1096470387737546800,Fri Feb 15 18:04:46 +0000 2019,@mhaz In a perfect model, definitely, yes; you might want to condition your xT model not just on the position of po… https://t.co/Gn0BOq6O77
+1096469483932155900,Fri Feb 15 18:01:11 +0000 2019,@__MM94__ I'm using WyScout's event data!
+1096469156352843800,Fri Feb 15 17:59:52 +0000 2019,@KierDoyle That's great to hear!
+1096467608029675500,Fri Feb 15 17:53:43 +0000 2019,@joe_mulberry Ha, nice!
+1096467362830737400,Fri Feb 15 17:52:45 +0000 2019,@SaturdayOnCouch Not directly in the xT model (couldn't find an obvious way of incorporating it without adding a lo… https://t.co/OijAiN5d65
+1096425209765208000,Fri Feb 15 15:05:15 +0000 2019,[⚽️📈✍️] NEW: Introducing Expected Threat (xT) https://t.co/FA0Y1AuERw  Packed with interactive visualizations, this… https://t.co/Fn6ayE7Xrr
+1094811323043442700,Mon Feb 11 04:12:14 +0000 2019,@danzn1 Could you point me to the STATS raw dataset?
+1094666643844657200,Sun Feb 10 18:37:20 +0000 2019,@TechnoRondo StatsBomb's open data is at the event-level!
+1094542357393854500,Sun Feb 10 10:23:28 +0000 2019,[⚽📈] Is there any open tracking-level football data (even if only for a single game) out there for research purposes?
+1091366042712981500,Fri Feb 01 16:01:55 +0000 2019,@SimonGleave They are different by definition semantically but the point of numbers is to see if they're different statistically
+1091264377435480000,Fri Feb 01 09:17:56 +0000 2019,@SimonGleave It's not about finding random triplets that fit, it's about evaluating how special/unique the promoted… https://t.co/aMpnT2Wbs0
+1091259050837168100,Fri Feb 01 08:56:46 +0000 2019,@SimonGleave @lemonwatcher Not looking at 'random' triplets, rather seeing how and where the promoted triplet fits… https://t.co/t5nBkU4pe6
+1091256546300878800,Fri Feb 01 08:46:49 +0000 2019,@SimonGleave @lemonwatcher Sure, I'm diving deeper into it because I was hoping the claim that it "really works mor… https://t.co/tUUmv0nAyC
+1091250899710664700,Fri Feb 01 08:24:23 +0000 2019,@lemonwatcher @SimonGleave Agreed, though it's more interesting to look at it from the angle of "do these distribut… https://t.co/Jc8oa5Pb6f
+1091245140784537600,Fri Feb 01 08:01:30 +0000 2019,@SimonGleave Unfortunately, as the numbers show, that characteristic is not just common among promoted teams, but r… https://t.co/OJ8n72T9wE
+1091242676081455100,Fri Feb 01 07:51:42 +0000 2019,Here's some evidence: this looks at all the triplets in each PL season over 19 years, and shows the distribution of… https://t.co/FgW0peAQZB
+1091242675292889100,Fri Feb 01 07:51:42 +0000 2019,An interesting thought, but unfortunately there's too much variance to draw any conclusions like this one. Also, "a… https://t.co/zeDXDl7NCd
+1088664079827267600,Fri Jan 25 05:05:17 +0000 2019,@FC_rstats Let me know if I can help!
+1086791297766088700,Sun Jan 20 01:03:31 +0000 2019,@danzn1 @Blades_analytic Going further, I'd recommend using Google Colaboratory: it gives you a notebook environmen… https://t.co/LZcLrorAol
+1084926937959518200,Mon Jan 14 21:35:13 +0000 2019,RT @C_Carpenter14: After messing around and learning Python, here's another visualization! Fairly simple, but it shows which areas of the p…
+1084523395113398300,Sun Jan 13 18:51:41 +0000 2019,@Guendouzied_9 Fixed, should be open now!
+1084357009468604400,Sun Jan 13 07:50:32 +0000 2019,@Guendouzied_9 We can talk over DM, let me know what exactly you're trying to make!
+1084355718126288900,Sun Jan 13 07:45:24 +0000 2019,@WSinsky @AshwinRaman_ Worth pointing out that this is for last season's data, so no Shaqiri but lots of Salah!
+1084353887316828200,Sun Jan 13 07:38:07 +0000 2019,@Coach_RBurk That was more of a light-hearted take 🙂 But it does bring up the question of how different passing and… https://t.co/l0AwCSYoji
+1084353255063220200,Sun Jan 13 07:35:36 +0000 2019,@Coach_RBurk Sure, though I think this is the more interesting visual that highlights subtle unique differences: https://t.co/eQAHGfLrmj
+1084139258523217900,Sat Jan 12 17:25:16 +0000 2019,@EFaroh There's some caveats here -- mainly that in this case "dribbles" are constrained to the more active kind of… https://t.co/rNPaNDDya8
+1084128021395558400,Sat Jan 12 16:40:37 +0000 2019,@Nick_Mahon Yeah, I'm in the same boat -- I think there's value hidden deep in there, it's just really hard to mine… https://t.co/wKaEZOLweG
+1084123812822569000,Sat Jan 12 16:23:53 +0000 2019,Second iteration: the edges are more prominent than the nodes (thanks @KierDoyle for the suggestion!) https://t.co/y1Aed4jTwv
+1084120887387775000,Sat Jan 12 16:12:16 +0000 2019,@KierDoyle @AshwinRaman_ @MC_of_A Yup, agreed. Another view is that dribbling and passing both transform the locati… https://t.co/fDyVPAJnmY
+1084120008572133400,Sat Jan 12 16:08:46 +0000 2019,I should add that this is definitely an exploratory experiment right now since it's not immediately obvious whether… https://t.co/ifwYOfeohz
+1084119449194553300,Sat Jan 12 16:06:33 +0000 2019,@KierDoyle @AshwinRaman_ @MC_of_A (the particular dataset I'm working with records a start and end location for a p… https://t.co/Dw3kPAaRJw
+1084119155618373600,Sat Jan 12 16:05:23 +0000 2019,@KierDoyle @AshwinRaman_ @MC_of_A Yup, the challenge here is to extract/highlight those frequent 'paths'... trying… https://t.co/cCo8a9vsZN
+1084117714006794200,Sat Jan 12 15:59:39 +0000 2019,@AshwinRaman_ Trying to test out that hypothesis exactly: the only useful thing it might do is highlight channels t… https://t.co/tMP5xLZaxp
+1084115251614773200,Sat Jan 12 15:49:52 +0000 2019,[⚽️📈] We've seen plenty of passing networks, but what about dribbling networks? 🤔 https://t.co/PjzRfcnRmb
+1084086800799289300,Sat Jan 12 13:56:49 +0000 2019,RT @ThatGarateyjc: Played around with @karun1710 (if you have any questions get on to him hes superb!) code for plotting passing data. This…
+1083818658491560000,Fri Jan 11 20:11:19 +0000 2019,@mabyillah cc: @Arsenal 🤔
+1083818200536498200,Fri Jan 11 20:09:30 +0000 2019,@mabyillah Thanks, let me know if you have ideas for potential improvements!
+1083810642568437800,Fri Jan 11 19:39:28 +0000 2019,@Wilky149 This is over the course of last season's Premier League, so 38 games each!
+1083801512881483800,Fri Jan 11 19:03:11 +0000 2019,@Sarrismau Yes, unfortunately haven't got my hands on 18/19 data yet, but will try to soon!
+1083801229770125300,Fri Jan 11 19:02:03 +0000 2019,@ThatGarateyjc This is Python! Let me know if you need help implementing a visualization like this
+1083756962322366500,Fri Jan 11 16:06:09 +0000 2019,@FosseFootball Yep, exactly. I'll try to get my hands on 18/19 data and generate a new version 👌
+1083754184325791700,Fri Jan 11 15:55:07 +0000 2019,@FosseFootball The plots are showing zones from where actions contributed highly positively to the team's chances,… https://t.co/aVWTuC3Y0A
+1083752476853981200,Fri Jan 11 15:48:20 +0000 2019,@MC_of_A @eaamalyon Yes, but we can pretend that it's Felipe Anderson 🙂  (the numbers tell me it's mostly Cresswell and Zabaleta)
+1083751261000785900,Fri Jan 11 15:43:30 +0000 2019,@FosseFootball ...that killer pass/dribble and are highly likely to score. For other teams, they may only have a hi… https://t.co/44fAOqJC2s
+1083750680181919700,Fri Jan 11 15:41:11 +0000 2019,@FosseFootball Some of this is an artifact of per-team normalization (Leicester's box is being highlighted a little… https://t.co/fTQWSAS5ow
+1083749424629612500,Fri Jan 11 15:36:12 +0000 2019,@KierDoyle Hazard leads that particular zone, followed (surprisingly?) by Kante. After that there's a bit of a gap,… https://t.co/4gZ3GMpYbO
+1083748506865610800,Fri Jan 11 15:32:33 +0000 2019,@EveryTeam_Mark That's a great point, I see some traces of it here https://t.co/MElJFJvrqI
+1083746600613163000,Fri Jan 11 15:24:59 +0000 2019,@eaamalyon Burnley's is always fun (when it comes to this analyzing buildup play) 🙂
+1083746183921623000,Fri Jan 11 15:23:19 +0000 2019,@KierDoyle Biggest contributors from that bright spot seem to be Eriksen (by a mile), Sissoko, and Aurier
+1083744286456217600,Fri Jan 11 15:15:47 +0000 2019,@KierDoyle Sorry, forgot to point out in the tweet that these are all for 17/18 (it's hidden away in the plot title… https://t.co/7pQs0zl5kb
+1083743981362540500,Fri Jan 11 15:14:34 +0000 2019,@EveryTeam_Mark It's always tricky because it requires per-team normalization to throw up interesting things (other… https://t.co/Dh5bEdOLeQ
+1083743369371603000,Fri Jan 11 15:12:08 +0000 2019,@thedummyrun Nick Pope was their biggest contributor of danger last season 🤔
+1083742208010768400,Fri Jan 11 15:07:32 +0000 2019,[⚽️📈] To better highlight each team's unique strengths relative to the league, here's the same data with the league… https://t.co/OvEYSnUhbv
+1083709276319768600,Fri Jan 11 12:56:40 +0000 2019,@tonytothe Thanks Anthony!
+1083708496200126500,Fri Jan 11 12:53:34 +0000 2019,@FC_rstats @counterattack9 @Blades_analytic @FC_Python And I can help out if you're using Python, let me know if you want pointers
+1083708168348172300,Fri Jan 11 12:52:16 +0000 2019,@outlieranalysis @FC_rstats Working on it 🙂
+1083628278022234100,Fri Jan 11 07:34:48 +0000 2019,@bhuvesh2194 @Masterrianni Sorry, I corrected this (I had the flanks flipped) in a reply to the original tweet! Als… https://t.co/pNlM0B2tYN
+1083516060991553500,Fri Jan 11 00:08:54 +0000 2019,@ferdiaoh @Masterrianni It's a little complex, so I'm packaging it into a blog post that'll go into detail. But in… https://t.co/oJXP3uoTnL
+1083513173653606400,Thu Jan 10 23:57:25 +0000 2019,@ShababHossain13 Check out @StatsBomb's open data for a start! https://t.co/VDt6t5xUS2
+1083498669985296400,Thu Jan 10 22:59:48 +0000 2019,@ShababHossain13 I'm working on a blog post that describes this in detail, but in short this is measuring how each… https://t.co/PGGS8JySV5
+1083497743752908800,Thu Jan 10 22:56:07 +0000 2019,Correction: I forgot to flip my matrices, thanks @Masterrianni for catching that! Here's a corrected version, flank… https://t.co/S7zm0da31j
+1083492165831909400,Thu Jan 10 22:33:57 +0000 2019,@Blades_analytic Following up with an explanation in a blog post, hopefully you'll be able to reproduce it for the EFL after reading it 🙂
+1083490873382322200,Thu Jan 10 22:28:49 +0000 2019,[⚽️📈] Different teams value possession differently across the pitch: where does each Premier League team create the… https://t.co/LZeJrda5c6
+1083385959108890600,Thu Jan 10 15:31:55 +0000 2019,@SgtSaltnPeppa Thanks for the primer on UAE! What are the simulations based on?
+1077017343497302000,Mon Dec 24 01:45:19 +0000 2018,@lastrowview Any chance you could do Aubameyang's first vs Burnley?
+1072739341766615000,Wed Dec 12 06:26:04 +0000 2018,@ToffeeAnalysis Worth mentioning that positions in passing networks can be very misleading, since they are averages… https://t.co/GgdBHCoXpP
+1071490534206693400,Sat Dec 08 19:43:45 +0000 2018,@lastrowview Perfect, of course!
+1071454378211471400,Sat Dec 08 17:20:05 +0000 2018,@lastrowview Can I use and cite a couple of your GIFs for an upcoming blog post?
+1070517485655384000,Thu Dec 06 03:17:12 +0000 2018,@KierDoyle Thanks!
+1070516837396340700,Thu Dec 06 03:14:37 +0000 2018,Anyone have Arsenal's xG sum/timeline vs Spurs?
+1070360144297451500,Wed Dec 05 16:51:59 +0000 2018,@Tacticsplatform @KierDoyle @AnalysisEvolved @etmckinley @thedummyrun Going further, it'd be nice if you could plot… https://t.co/j72bkzkUFM
+1070246902698926100,Wed Dec 05 09:22:00 +0000 2018,@Tacticsplatform @AnalysisEvolved @etmckinley @thedummyrun What does it look like if you exclude City? 🙂
+1069714281355046900,Mon Dec 03 22:05:33 +0000 2018,@SimonGleave @omnislip @mixedknuts @rohitbansal83 @GraceOnFootball @OmarChaudhuri What's the standard deviation of… https://t.co/aUYuakFATp
+1069711770229465100,Mon Dec 03 21:55:34 +0000 2018,@SimonGleave @omnislip @mixedknuts @rohitbansal83 @GraceOnFootball @OmarChaudhuri Yep, just to provide an alternati… https://t.co/aEru6mxjiR
+1069509429421269000,Mon Dec 03 08:31:33 +0000 2018,@mixedknuts @SimonGleave @rohitbansal83 @GraceOnFootball @SimonGleave I'm all for interpretability, but I think a s… https://t.co/nHOX7yUknq
+1068908878920908800,Sat Dec 01 16:45:10 +0000 2018,[⚽️📈] Testing a new viz: 'Potential Maps'  How dangerous is Team X when they have the ball in a certain part of the… https://t.co/n5VJWTxlqR
+1068619672633860100,Fri Nov 30 21:35:58 +0000 2018,@jair1970 @Tacticsplatform @RowdenJRSG @itsmevidhya_k @danzn1 Thanks for the shout-out, James! Let me know if you h… https://t.co/HcN99Mj4uS
+1068551027689812000,Fri Nov 30 17:03:12 +0000 2018,@mixedknuts @S2Stats @StatsBomb It'd be nice to be able to combine different levels of granularity, so that you can… https://t.co/GTfG6OmBbw
+1068538907699032000,Fri Nov 30 16:15:02 +0000 2018,I like how simple these are to interpret (the point comes across well even if you don't know Spanish!). The ideal c… https://t.co/cLgA8uFFyo
+1067940458989412400,Thu Nov 29 00:37:01 +0000 2018,Coming soon: dribbling networks 🙂 https://t.co/b7cbT9WrOM
+1067510253137395700,Tue Nov 27 20:07:32 +0000 2018,@BlueBeard19 You don't need to win by 3 to get 3 points, but consistently winning by 3+ isn't a signal you can igno… https://t.co/xh4yFTdVWp
+1067202152823689200,Mon Nov 26 23:43:15 +0000 2018,(thanks to @hkhare42 for the original implementation of @cchappas's @StatsBomb piece on a Schedule-Adjusted League Table)
+1067202150462382100,Mon Nov 26 23:43:14 +0000 2018,[⚽️] Here's Massey's Ranking Method from the NFL, applied to the current PL table: it assigns each team a score suc… https://t.co/W0MHGtEOiA
+1067173506595676200,Mon Nov 26 21:49:25 +0000 2018,@cchappas @Goalimpact @StatsBomb I too don't follow NFL, but I came across Massey's Method in a recent piece by… https://t.co/0UdkHZfZPr
+1067171941017096200,Mon Nov 26 21:43:12 +0000 2018,@AnalysisEvolved @etmckinley @Tacticsplatform Nice! I should point out that t-SNE purely reduces dimensionality in… https://t.co/d4kkEZgQN5
+1067071789283622900,Mon Nov 26 15:05:14 +0000 2018,@ people doing football analytics, let me know (here or via DM) if you have dealt with creating and/or interpreting… https://t.co/6fhvf4zy7w
+1066878002972295200,Mon Nov 26 02:15:12 +0000 2018,@cchappas @Goalimpact @StatsBomb ...and your method is nice in that it stays true to the league rankings, hence the… https://t.co/C6y9rgupHP
+1066876802554101800,Mon Nov 26 02:10:25 +0000 2018,@cchappas @Goalimpact @StatsBomb Yup, that is definitely a nice property to maintain, and yes, it will not hold if… https://t.co/CB93o2mcvg
+1066814788553109500,Sun Nov 25 22:04:00 +0000 2018,@cchappas @Goalimpact @StatsBomb Nope, I mean the opposite -- because currently the model would count non-head-to-h… https://t.co/J7S6WLL0Pg
+1066689018212073500,Sun Nov 25 13:44:14 +0000 2018,@cchappas @Goalimpact @StatsBomb Ah, I missed the head-to-head part. What are your thoughts on the head-to-head mat… https://t.co/vCS7qXbVYi
+1066561485906821100,Sun Nov 25 05:17:28 +0000 2018,@cchappas @Goalimpact @StatsBomb I was thinking about this some more, wouldn't the table after Week 1 (as shown in… https://t.co/PIrQiYkmbo
+1066399203478392800,Sat Nov 24 18:32:37 +0000 2018,[🏈📈] For any American Football followers, check out this piece by @realAbhiGupta! https://t.co/jqxokTLH1x
+1066190081164275700,Sat Nov 24 04:41:38 +0000 2018,@StatsBomb @cchappas Also curious as to how robust this is to noise / small changes in outcomes, especially at this… https://t.co/07EvDPMoBO
+1066189362122186800,Sat Nov 24 04:38:47 +0000 2018,@hkhare42 @StatsBomb @cchappas Oops, just realized I duplicated your question, sorry! My guess is that TotPts/2n is… https://t.co/egOd9y3EJ2
+1066188906436153300,Sat Nov 24 04:36:58 +0000 2018,@StatsBomb @cchappas Hi @cchappas (cc @octonion), could you explain how the scaling was done to go from x_i to AdjP… https://t.co/Fq6EtoaAaB
+1066061737831600100,Fri Nov 23 20:11:39 +0000 2018,@jan_mullenberg @alpercaltik Nice! Wonder how different it looks if you have curved vs straight edges.
+1065985940370395100,Fri Nov 23 15:10:27 +0000 2018,@alpercaltik What kind of data did you have, and how did you go about implementing it?
+1065982303623630800,Fri Nov 23 14:56:00 +0000 2018,[⚽📈] @ people into data-driven football analytics:  What's the one visualization that you wish you could make, but… https://t.co/HnADnGJodJ
+1065740827844993000,Thu Nov 22 22:56:28 +0000 2018,@GiantGooner @Zonal_Marking That's changing slowly 🙂 (https://t.co/NhlkvdKKcx)
+1065739425194201100,Thu Nov 22 22:50:54 +0000 2018,@SebC__ Interesting, how would you classify Ozil under Wenger?
+1065739123187605500,Thu Nov 22 22:49:42 +0000 2018,@NathanAClark If you had to pick a name, who would you say was the last of that breed in the Premier League?
+1065738262906433500,Thu Nov 22 22:46:16 +0000 2018,@NathanAClark That is my hypothesis at the moment as well. What, if anything, would you put that down to?
+1065736246851293200,Thu Nov 22 22:38:16 +0000 2018,My current answer is 'no one' (perhaps the old Ozil comes closest), so any names/hypotheses would be appreciated!
+1065732651045154800,Thu Nov 22 22:23:59 +0000 2018,From @Zonal_Marking's book, "English football was learning that players in Cantona's mould were worth embracing, wo… https://t.co/XKh0L4gZ9p
+1065729667791900700,Thu Nov 22 22:12:07 +0000 2018,@DeepMan1998 @ManUtd @ManCity DM me and we can talk :)
+1064900018220478500,Tue Nov 20 15:15:23 +0000 2018,[⚽📈] Here's @ManUtd's 3-2 comeback vs @ManCity, visualized using passing volume through different regions of the pi… https://t.co/QvT2P2W2bp
+1064575871510503400,Mon Nov 19 17:47:21 +0000 2018,[⚽️📈] How much can a red card impact a team's style of play? In @LFC's case, their pressing game becomes ineffectiv… https://t.co/vOOK6NbV71
+1064291259450159100,Sun Nov 18 22:56:24 +0000 2018,[⚽️] What are some potential factors that could change the way a team plays when in possession? I have some basic o… https://t.co/1LU8LcJ031
+1064059607595679700,Sun Nov 18 07:35:54 +0000 2018,[⚽️📈] Some great feedback in the past couple of days, so here's an improved iteration, except it answers a slightly… https://t.co/fvTjEf1mUF
+1063993318923677700,Sun Nov 18 03:12:29 +0000 2018,@FC_rstats Try Seaborn (and networkx for any kind of passing network)!
+1063790617547796500,Sat Nov 17 13:47:02 +0000 2018,As always, let me know if you have feedback for the next iteration, or if you'd like to see a particular set of teams!
+1063767022289342500,Sat Nov 17 12:13:16 +0000 2018,@Mladen_Sormaz @ChelseaFC @htafcdotcom @ManUtd I'm working on a more interactive viz that would let you adjust the… https://t.co/xX06PF6i4A
+1063766494784319500,Sat Nov 17 12:11:10 +0000 2018,@mikaelrousson @ChelseaFC @htafcdotcom @ManUtd That's interesting, I actually drew this as a network (with nodes an… https://t.co/vb0Hztg4qD
+1063510588939092000,Fri Nov 16 19:14:18 +0000 2018,@syskaul Thanks Eshaan!
+1063489955857453000,Fri Nov 16 17:52:18 +0000 2018,@DaveLaidig Interesting, maybe we can discuss over DM and find some way of comparing the two :)
+1063488266949689300,Fri Nov 16 17:45:36 +0000 2018,@thedummyrun @ChelseaFC @htafcdotcom @ManUtd Yup, the issue that I found with the color gradient for this viz is th… https://t.co/Jr9iWqpwgu
+1063487588290388000,Fri Nov 16 17:42:54 +0000 2018,@DaveLaidig Nice! It'd be interesting to compare this to the version I posted and see how they correlate. Which team/season is this showing?
+1063486547759001600,Fri Nov 16 17:38:46 +0000 2018,@thedummyrun @ChelseaFC @htafcdotcom @ManUtd I experimented with using color to redundantly reinforce that info, bu… https://t.co/SW4Q8Agmjx
+1063485232752382000,Fri Nov 16 17:33:32 +0000 2018,@mixedknuts That would be useful too! Quick question -- are these maps normalized so that each team is being compar… https://t.co/82dEkRF2gj
+1063483101014241300,Fri Nov 16 17:25:04 +0000 2018,@OllieGlanvill @ChelseaFC @htafcdotcom @ManUtd The caveats being that this only takes passing volume into account (… https://t.co/Upnt5zEBre
+1063482077738221600,Fri Nov 16 17:21:00 +0000 2018,@mixedknuts Curious to see what this looks like if you compare the first 12 games of 2017/18 to 2018/19 so far (sub… https://t.co/z5dH2bMtc7
+1063480002706993200,Fri Nov 16 17:12:45 +0000 2018,@DaveLaidig Yes, this is definitely meant to be more of a summary that precedes deeper analysis 🙂
+1063478543403741200,Fri Nov 16 17:06:57 +0000 2018,@thedummyrun @ChelseaFC @htafcdotcom @ManUtd Yep!
+1063478020076269600,Fri Nov 16 17:04:53 +0000 2018,@DaveLaidig I should've made that clearer -- it's a measure of completed pass volume through each region (counting… https://t.co/0i8jRVPddF
+1063477067801448400,Fri Nov 16 17:01:06 +0000 2018,@ntcthepaleboy @TomPayneftbl 🙂
+1063476649264435200,Fri Nov 16 16:59:26 +0000 2018,@andre_brener Yeah, only completed passes right now -- unsuccessful passes might give a little bit more information… https://t.co/w3BpYGrExu
+1063475912480514000,Fri Nov 16 16:56:30 +0000 2018,@OllieGlanvill @ChelseaFC @htafcdotcom @ManUtd Left-to-right!
+1063474795587620900,Fri Nov 16 16:52:04 +0000 2018,(thanks to @etmckinley, @thedummyrun, @AshwinRaman_ , @KierDoyle, and others for the feedback yesterday!)
+1063474223895609300,Fri Nov 16 16:49:48 +0000 2018,[⚽️📈] Based on the discussions around the passing signatures yesterday, here's another take at answering the same q… https://t.co/orbbErTnDp
+1063471162678632400,Fri Nov 16 16:37:38 +0000 2018,@andre_brener Yes, no restrictions on that, but each point takes into account passes made + received in that region… https://t.co/GzEpOZE9XA
+1063267812594962400,Fri Nov 16 03:09:35 +0000 2018,@itsmevidhya_k @FC_rstats As far as Python goes, over time I've built up a little toolkit/library using Matplotlib,… https://t.co/PF816D3EYD
+1063137651933343700,Thu Nov 15 18:32:23 +0000 2018,@etmckinley @AshwinRaman_ @thedummyrun Yeah! Pretty easy to do in Python too, I'll post a couple of updated prototypes here later today.
+1063137376732508200,Thu Nov 15 18:31:17 +0000 2018,@KierDoyle Just to make sure I understood correctly, you mean modifying the above to be more of a gridded heatmap?
+1063131244702003200,Thu Nov 15 18:06:55 +0000 2018,@KierDoyle Yes, it's Chelsea and Azpilicueta 🙂 What are your thoughts in that viz vs this one below? (Showing the s… https://t.co/UhbpFxjIEt
+1063130823988142100,Thu Nov 15 18:05:15 +0000 2018,@AshwinRaman_ @thedummyrun @etmckinley A slight variation of this is with nodes, just to make dominant areas cleare… https://t.co/GZav4V22XS
+1063127770002219000,Thu Nov 15 17:53:06 +0000 2018,@AshwinRaman_ @thedummyrun @etmckinley This is an alternative way of visualizing it -- any thoughts on the effectiv… https://t.co/fMYL5Z0ZUi
+1063125175942635500,Thu Nov 15 17:42:48 +0000 2018,@thedummyrun @etmckinley Ha, sorry about that awkward delay. What are your thoughts on the usefulness of the viz vs passing networks?
+1063124737579077600,Thu Nov 15 17:41:03 +0000 2018,@thedummyrun @etmckinley It is indeed Chelsea, and Azpilicueta is the RCB you alluded to 🙂  My concern though is th… https://t.co/wM65qkKMkz
+1063122466535440400,Thu Nov 15 17:32:02 +0000 2018,@thedummyrun @etmckinley Very interesting, any guesses as to which team it might be? (this is from 2017/18 data)
+1063115919436668900,Thu Nov 15 17:06:01 +0000 2018,@etmckinley Good point, I'll play around with maybe exponentiating the thicknesses to make them more varied. Is the… https://t.co/k6QL16utay
+1063110703299518500,Thu Nov 15 16:45:17 +0000 2018,@FC_rstats @danzn1 I see, plotting it on a pitch and removing the grid lines (+ thresholding the edges to filter ou… https://t.co/VYWLqHWe9E
+1063109891303174100,Thu Nov 15 16:42:04 +0000 2018,[⚽️📈] Trying to get a sense of how people interpret these passing signatures: what kind of information would you in… https://t.co/70mktIHjqv
+1063092806686666800,Thu Nov 15 15:34:11 +0000 2018,@FC_rstats @danzn1 That's a tough one, one way is to exponentially upweight all the edges so that only a few stand out. Any other ideas?
+1062568018847252500,Wed Nov 14 04:48:51 +0000 2018,@thedummyrun Separating by thirds definitely uncovers some more information (particularly for City)! https://t.co/n7ufE51Ft0
+1062454665990656000,Tue Nov 13 21:18:26 +0000 2018,@AnalyticsJW @danzn1 Yes, I'll continue to think about it, maybe there's a middle ground!
+1062400285719453700,Tue Nov 13 17:42:21 +0000 2018,@danzn1 Makes sense, thanks for catching that! By the way, (cc @thedummyrun) here's another example of breaking dow… https://t.co/HM55c7nMO8
+1062399614958137300,Tue Nov 13 17:39:41 +0000 2018,@thedummyrun @danzn1 Thanks for pointing that out, that's another bug from me :) Here's a corrected version: origin… https://t.co/r53bXsU2jK
+1062397332803616800,Tue Nov 13 17:30:37 +0000 2018,@AnalyticsJW @danzn1 Possibly... but I'm afraid that all the ways I can think of might unnecessarily crowd the viz,… https://t.co/yXfXskrOxr
+1062397132106170400,Tue Nov 13 17:29:49 +0000 2018,@thedummyrun @danzn1 Not sure if this changes your thoughts, but I accidentally swapped the two pictures above (lef… https://t.co/knusGSyMUS
+1062397132106170400,Tue Nov 13 17:29:49 +0000 2018,@thedummyrun @danzn1 Not sure if this changes your thoughts, but I accidentally swapped the two pictures above (lef… https://t.co/knusGSyMUS
+1062396994478473200,Tue Nov 13 17:29:16 +0000 2018,@danzn1 Oops, I messed up the order there; left shows the pass destinations, right shows the pass origins.
+1062396845106712600,Tue Nov 13 17:28:40 +0000 2018,@danzn1 Sorry, I messed up the order of those pictures: the one that arcs is actually showing pass destinations, an… https://t.co/72UaoUKLPQ
+1062395885907148800,Tue Nov 13 17:24:52 +0000 2018,@thedummyrun @danzn1 This is for successful completions, curious to hear why origin might be more interesting to you!
+1062389958109888500,Tue Nov 13 17:01:18 +0000 2018,@danzn1 The average of both, couldn't decide between either of only origin (left) and only destination (right) -- d… https://t.co/0vVzKtAVyC
+1062387586583261200,Tue Nov 13 16:51:53 +0000 2018,@Blades_analytic Thanks!
+1062387415963197400,Tue Nov 13 16:51:12 +0000 2018,@Blades_analytic It's based on raw passing data (2017/18), bucketed by y-coordinates!
+1062387148119101400,Tue Nov 13 16:50:08 +0000 2018,@thedummyrun Interesting, will definitely try that later today!
+1062386270519717900,Tue Nov 13 16:46:39 +0000 2018,[⚽️📈] Visualizing how City tend to distribute the ball across the width of the pitch: they have two 'above league a… https://t.co/lg9byJcCDd
+1061920830571999200,Mon Nov 12 09:57:10 +0000 2018,@outlieranalysis Eliminating the y-axis altogether might be the way to go (just a straight, flat line with varying thickness and color) 🤔
+1061919692573466600,Mon Nov 12 09:52:38 +0000 2018,@outlieranalysis Ah I see, because of the line thickness -- that is confusing now that I look at that way. The way… https://t.co/KR7Qbs3eBb
+1061918100780535800,Mon Nov 12 09:46:19 +0000 2018,@outlieranalysis So, for example, when in their own box, Arsenal naturally passed forward almost all the time, wher… https://t.co/p9bOsnHlhv
+1061917601205444600,Mon Nov 12 09:44:20 +0000 2018,@outlieranalysis Not at all! This is really useful feedback because I know this is one of those pretty but confusin… https://t.co/Ha89QKdK6f
+1061915100368367600,Mon Nov 12 09:34:24 +0000 2018,@outlieranalysis (btw, also check out the Shooting Signature visualizations over at https://t.co/LyZGme888k -- I tr… https://t.co/Wr4YOrACXV
+1061914431775363100,Mon Nov 12 09:31:44 +0000 2018,@outlieranalysis Yeah the main reason is that thickness alone has to be positive, and can't sufficiently capture bo… https://t.co/u7Kjl6i4Y5
+1061912928348069900,Mon Nov 12 09:25:46 +0000 2018,@outlieranalysis The color represents the deviation above/below the league average, while the thickness conveys the… https://t.co/tKSmqWKOMT
+1061911498090397700,Mon Nov 12 09:20:05 +0000 2018,@outlieranalysis Yes, sorry, forgot to mention that! Definitely way too much going on in there :)
+1061910520041680900,Mon Nov 12 09:16:11 +0000 2018,...and finally, y-axis = %age of passes that went 'forward'. There's perhaps a bit too much information in there, b… https://t.co/kClBom5BhJ
+1061910518854639600,Mon Nov 12 09:16:11 +0000 2018,[⚽️📈] Inspired by @pbesh's NBA Buckets visualizations, here's a first attempt at capturing team style (in possessio… https://t.co/T92eqMTSzf
+1061714411889381400,Sun Nov 11 20:16:56 +0000 2018,[⚽️📈] Re: subtracting the mean league grid passing network from an individual team's, the common piece of feedback… https://t.co/6FnvZIFVAN
+1061568076158660600,Sun Nov 11 10:35:26 +0000 2018,[⚽️📈] Here's a visualization of City vs United (2-3) back in April: each circle represents passing domination throu… https://t.co/A45FABlDvj
+1061526519091056600,Sun Nov 11 07:50:19 +0000 2018,[⚽️📈] Going off yesterday's grid-based passing viz, here's one that overlays the two opposing networks in a single… https://t.co/KUuipujPBK
+1061170703116849200,Sat Nov 10 08:16:25 +0000 2018,[⚽️📈] Trying something new with grid-based passing networks, would love to get early thoughts: @Arsenal's passing p… https://t.co/lUvkK6X46x
+1058770546958069800,Sat Nov 03 17:19:04 +0000 2018,@ people in football analytics, what kind of questions do you find yourself answering frequently about corners and set pieces?
+1057762499783618600,Wed Oct 31 22:33:26 +0000 2018,@mixedknuts @AlexRathke @jamielkyte Definitely; I'll start prototyping on top of the corner map vis tonight, I thin… https://t.co/vAlfsddnXP
+1057759322774487000,Wed Oct 31 22:20:49 +0000 2018,@mixedknuts @AlexRathke @jamielkyte The idea of not caring about single dots is pushed back against by the complex… https://t.co/wZcZ8qJBKO
+1057116383140429800,Tue Oct 30 03:46:00 +0000 2018,RT @mannyyylfc: A view from a Thai football fan on the passing of @LCFC ‘s chairman. This thread is dedicated to him. R.I.P.  As a fellow c…
+1055498777694355500,Thu Oct 25 16:38:13 +0000 2018,RT @Jon_Mackenzie: This is one of the most difficult pieces I've ever written about football. It is also one of the most rewarding.  https:…
+1055486610437886000,Thu Oct 25 15:49:52 +0000 2018,@deepxg A distribution of xPts would definitely be more reflective than a simple number. But do you think that a te… https://t.co/HX7nHWy6vx
+1055485521667846100,Thu Oct 25 15:45:32 +0000 2018,@FantasyFutopia That's exactly where I'm at -- it seems like it is sometimes interpreted far too literally without… https://t.co/sPjoGzvjmE
+1055354396689625100,Thu Oct 25 07:04:30 +0000 2018,@AlexRathke @Blades_analytic Thanks Alex! In this example, how would you go about drawing conclusions about, say, B… https://t.co/UiqDlHx52S
+1055353749919551500,Thu Oct 25 07:01:56 +0000 2018,@Blades_analytic Makes sense, I too interpret it as an indicator of either an attack or a defence that isn't matchi… https://t.co/EwQ8Hyf4C9
+1055339214462566400,Thu Oct 25 06:04:10 +0000 2018,@Blades_analytic Right, so in that case would you draw the conclusion there that team A is underperforming?
+1055330448606285800,Thu Oct 25 05:29:20 +0000 2018,@Blades_analytic Got it -- how would you interpret a team that has points far above their xPts total, or vice-versa?
+1055327923241021400,Thu Oct 25 05:19:18 +0000 2018,@ everyone in football analytics, how do you usually interpret expected points (xPts) and the numerical difference… https://t.co/FA8rtlArE7
+1055150710830972900,Wed Oct 24 17:35:07 +0000 2018,RT @grokstyle: Retailers, are you ready for it? GrokStyle can help! #visualsearch #retail https://t.co/SBNkK8V7P8
+1053138294437904400,Fri Oct 19 04:18:30 +0000 2018,@andre_brener Yep, I've seen those two being used most frequently -- I'll compute those though I want to be wary of… https://t.co/rPmoVVukVN
+1052994646165532700,Thu Oct 18 18:47:41 +0000 2018,@andre_brener Hi Andre, definitely something to try out -- I'll keep you posted! Are there specufic centrality meas… https://t.co/a3elvL5hS5
+1051678391965868000,Mon Oct 15 03:37:22 +0000 2018,@cameronsager ... parts of the pitch (grid-based) rather than between players. I'll be working on this in the comin… https://t.co/91VmYDnWLX
+1051678247300157400,Mon Oct 15 03:36:48 +0000 2018,@cameronsager Hi Cameron, I haven't yet tried to compile them over multiple games, but it's on my mind! There's a c… https://t.co/aYqUq76aFC
+1051677629177159700,Mon Oct 15 03:34:20 +0000 2018,@GiantGooner Thank you! Let me know if you have any thoughts on how it might be further improved
+1051245173538091000,Sat Oct 13 22:55:55 +0000 2018,@iambinnie6 @dperdomomeza1 Thanks John!
+1051244937126207500,Sat Oct 13 22:54:58 +0000 2018,@TechnoRondo @soccerquant @StatsBomb maintains an extremely useful open repository of event-level data, and they re… https://t.co/v8NRUYazDq
+1051244325944709100,Sat Oct 13 22:52:33 +0000 2018,@ThatGarateyjc @soccerquant @StatsBomb Once you have two differently-weighted passing maps, you can animate between… https://t.co/XIiNa4u6qB
+1051224669594869800,Sat Oct 13 21:34:26 +0000 2018,@Blades_analytic Not a complicated process at all, I wrote some scripts in Python to use @StatsBomb's World Cup dat… https://t.co/qZ4q9aALkh
+1051174135559204900,Sat Oct 13 18:13:38 +0000 2018,@mixedknuts Thanks for the feedback, Ted! I'd love to hear your thoughts in more detail, and iterate on this idea further 🙂
+1051173273407352800,Sat Oct 13 18:10:12 +0000 2018,RT @mixedknuts: There are elements I don't agree with here, but it's very thoughtful and a worthwhile read. It also has some very cool tech…
+1051172656647565300,Sat Oct 13 18:07:45 +0000 2018,@squinn92 @soccerquant @11tegen11 @mixedknuts And that phrase might mean different things to different people (and… https://t.co/X0gQ3LgA4k
+1051171976906068000,Sat Oct 13 18:05:03 +0000 2018,@squinn92 @soccerquant @11tegen11 @mixedknuts Thanks for the feedback! Would love to talk more to possibly come up… https://t.co/BEdhsnMQRI
+1051169742893936600,Sat Oct 13 17:56:11 +0000 2018,@EveryTeam_Mark @soccerquant Thanks Mark, glad to hear that you found them useful! I'd love to talk in more detail… https://t.co/2du5a56svQ
+1051159164045516800,Sat Oct 13 17:14:08 +0000 2018,@ThatGarateyjc @soccerquant Hi @ThatGarateyjc , it's using a JS library called sigma.js, and the data is from… https://t.co/T1pD2ThMEj
+1051151481494073300,Sat Oct 13 16:43:37 +0000 2018,RT @dperdomomeza1: Good delivery on these passing networks https://t.co/g7vgog8594 by @karun1710
+1051151363223121900,Sat Oct 13 16:43:09 +0000 2018,RT @soccerquant: This is a fun (nerdy) read, but with some genuine insights packed into it as well: https://t.co/UAeyXMZVIP, name-checking…
+1051151336815775700,Sat Oct 13 16:43:02 +0000 2018,RT @soccerquant: Some Saturday morning reading for the stats nerds out there. We regularly get inquiries about how to get into the football…
+1018560943641579500,Sun Jul 15 18:20:27 +0000 2018,RT @equipedefrance: ⭐️⭐️ #FiersdetreBleus https://t.co/R7iPKFrk9V
+1018560496910381000,Sun Jul 15 18:18:41 +0000 2018,RT @equipedefrance: CHAMPIONS DU MONNNNNNNNNNNDE ⭐⭐ #FiersdetreBleus https://t.co/ouMN5PkMJl
+993149069206925300,Sun May 06 15:22:44 +0000 2018,RT @Arsenal: …and here’s how we line up for his final home game 😉  #AFCvBFC https://t.co/UBp12N7dzX
+993149047581167600,Sun May 06 15:22:39 +0000 2018,RT @Arsenal: Here’s how we lined up for for Arsène Wenger’s first home game…   #MerciArsène https://t.co/O3dOxfXjh0
+958797290113785900,Wed Jan 31 20:21:02 +0000 2018,RT @_OlivierGiroud_: I spent five and a half amazing years within the arsenal family. This beautiful story ends today. Thank you for your w…
+958746706220372000,Wed Jan 31 17:00:02 +0000 2018,RT @Arsenal: For the scorpion kicks, the bullet headers, the late strikes, the north London derby winner, the FA Cup final assists, the 105…
+955531829997658100,Mon Jan 22 20:05:15 +0000 2018,RT @Sanogology: I'm really going to miss him man. He always gave 100%. He had a phenomenal record for us, I just wish it could have ended b…
+953740530608848900,Wed Jan 17 21:27:16 +0000 2018,RT @Arsenal: Thanks for everything, @theowalcott 🔴  All the best for your next chapter 👊 https://t.co/Eq2EVRVPSw
+953387434003251200,Tue Jan 16 22:04:12 +0000 2018,RT @theEpicGooner: Theo Walcott, a player who has been a part of some of the most incredible Football matches at Arsenal. Had two fantastic…
+952062978060439600,Sat Jan 13 06:21:17 +0000 2018,RT @ThierryHenry: This day six years ago was one of the best moments of my life. #onceagooneralwaysagooner @Arsenal https://t.co/LS2HmCpds9
+946400787566960600,Thu Dec 28 15:21:45 +0000 2017,RT @SaintShaqiri: Well that's gone well https://t.co/GtbFU4K0Y9
+946400315909144600,Thu Dec 28 15:19:53 +0000 2017,RT @Sammy_Goal: Guardiola asked if City are favourites for the CL.   PG: “Who does Messi play for?”  Reporter: “Barcelona.”  PG: “So they’r…
+943707647974416400,Thu Dec 21 05:00:11 +0000 2017,RT @bcfctweets: GOAL: #BristolCity 2-1 Manchester United, Smith 90. #BRCvMUN https://t.co/tVNEwCOaiE
+901398929283194900,Sat Aug 26 11:00:26 +0000 2017,RT @GeniusFootball: Steve Mandanda is crazy 😂 https://t.co/47B5plJKo1
+896909077120405500,Mon Aug 14 01:39:22 +0000 2017,RT @VieiraPaddy: An account of the banter era of Arsenal Football Club (2006-present)
+896262134178299900,Sat Aug 12 06:48:39 +0000 2017,RT @tomwfootball: Arsenal reshuffle means they now have a midfielder at right-back, a right-back at left-back and two left-backs at centre-…
+894413917023223800,Mon Aug 07 04:24:29 +0000 2017,RT @GeniusFootball: Courtois' penalty finally landed then...  😂😂https://t.co/oFB7ut1P24
+892578928451137500,Wed Aug 02 02:52:54 +0000 2017,RT @theEpicGooner: Arsene Wenger though🔥🔥  What a man. https://t.co/3trZvjqWkT
+890258981209350100,Wed Jul 26 17:14:15 +0000 2017,RT @442oons: 😡Klopp will not sell Coutinho to Barca!😡 #despacito https://t.co/UTvGR132ZL
+889347359259349000,Mon Jul 24 04:51:48 +0000 2017,RT @Korrupt_: Arsene Wenger considers Samba to be over-priced at £12m. Yet he pays £8.5 million for lightweight and unproven Koscielny. #AFC
+886877194055598100,Mon Jul 17 09:16:15 +0000 2017,RT @danielricciardo: I know HAM won today and congrats to him. But I felt I went HAM today
+882442740083998700,Wed Jul 05 03:35:18 +0000 2017,RT @Kaepernick7: How can we truly celebrate independence on a day that intentionally robbed our ancestors of theirs? To find my independenc…
+881213466702250000,Sat Jul 01 18:10:37 +0000 2017,RT @PatrickTimmons1: He also donated £18,000 to the Grenfell Towers victims, but that wouldn't generate you as many clicks, would it? https…
+879966290487558100,Wed Jun 28 07:34:47 +0000 2017,RT @ODDSbible: June 27th 2016. England trail Iceland 2-1 in the European Championships. They need a hero.  Up steps Harry Kane...   https:/…
+877922329468190700,Thu Jun 22 16:12:49 +0000 2017,RT @danielstorey85: Big fan of Adnan Januzaj playing for Man United, Sunderland and now joining Real Sociedad, like he's on a weird David M…
+876516648408170500,Sun Jun 18 19:07:08 +0000 2017,RT @ShashiTharoor: A brilliantly sane perspective on cricket from Bangladesh's philosopher-captain Mashrafe @IamMortaza. Applaud the real h…
+871443589263376400,Sun Jun 04 19:08:36 +0000 2017,RT @TheArseneView: You sure, @Nike? https://t.co/Fqf3P6ekaH
+869081603548397600,Mon May 29 06:42:55 +0000 2017,RT @MesutOzil1088: "Experts predictions" ... 😂😆 #FACup 🏆 https://t.co/dGhvXMiOFE
+868789852279648300,Sun May 28 11:23:36 +0000 2017,RT @CianTracey1: Alexis Sanchez looks like he's just won a competition to meet his favourite Arsenal player. https://t.co/adeXSwMZ1T
+868788358515916800,Sun May 28 11:17:40 +0000 2017,RT @RobHolding95: The Arsenal 🏆 https://t.co/WMlcJk6XyQ
+868788163887718400,Sun May 28 11:16:54 +0000 2017,RT @Arsenal: When you assist the winner with your first touch just 38 seconds after coming on…  #NaNaNaNaa https://t.co/Z7pK6lK0qc
+868786966640427000,Sun May 28 11:12:08 +0000 2017,RT @Arsenal: 🎶 Ohhhhh Santi Cazorla 🎶  #WeAreTheArsenal https://t.co/RottC154Ys
+868786408219172900,Sun May 28 11:09:55 +0000 2017,RT @nana_alaouie: "When I grow up I want to be just like Per Mertesacker" https://t.co/k7zNQPgI5R
+868786060628766700,Sun May 28 11:08:32 +0000 2017,RT @TheArseneView: 🙌🏻🙌🏻 https://t.co/0kWmvhyn55
+868590482288398300,Sat May 27 22:11:23 +0000 2017,RT @wembleystadium: That final was sick I can't lie
+868544126915977200,Sat May 27 19:07:11 +0000 2017,RT @johncrossmirror: All those years when everyone said they'd trade top four for a trophy. Well, there you go.
+868542286568726500,Sat May 27 18:59:52 +0000 2017,RT @FunnyGooner: 13 times !!! https://t.co/0TZdH0whfN
+868484398068285400,Sat May 27 15:09:50 +0000 2017,RT @BBCMOTD: Strong, strong words from Arsene Wenger. #bbcfacup #footballfocus https://t.co/4nMQit1kZS
+861540350728556500,Mon May 08 11:16:40 +0000 2017,RT @CalArsenal: The resemblance is unbelievable... https://t.co/8qi6vuGRCK
+861240237124710400,Sun May 07 15:24:08 +0000 2017,RT @FunnyGooner: Arsenal and United matches used to decide league titles now we're just waiting to see who's going to be less shite
+856312833822400500,Mon Apr 24 01:04:23 +0000 2017,RT @MesutOzil1088: That feeling when you play at Wembley in May again ... 😜 #YaGunnersYa #FACupFinal https://t.co/u3AoxTC5gp
+856312726515318800,Mon Apr 24 01:03:58 +0000 2017,RT @RobHolding95: What a feeling! 😆😆😆 #COYG https://t.co/qEWa9mdqbu
+856312512207302700,Mon Apr 24 01:03:07 +0000 2017,RT @_nachomonreal: WHAT A BIG WINNN!! Proud moment to score for Arsenal at Wembley #COYG #FACup https://t.co/UtAILeW4tN
+851645803764604900,Tue Apr 11 03:59:17 +0000 2017,RT @WeahsCousin: "You've got Marco Silva managing Hull, and Tony Adams at Granola. Swap em round, it doesn't add up Jeff. Adams can't speak…
+851347869542084600,Mon Apr 10 08:15:24 +0000 2017,RT @Arsenal: 🗓️ 13 years ago today: Simply stunning from @ThierryHenry  #Invincibles🔴 https://t.co/689Y40d3Q4
+851347522786406400,Mon Apr 10 08:14:01 +0000 2017,RT @Arsenal: 🦂 MATCHDAY  #CPFCvAFC https://t.co/vZzbLE5Dte
+850782762814632000,Sat Apr 08 18:49:52 +0000 2017,RT @theEpicGooner: This is so, so beautiful. Football is a special game. Hope you see this @MesutOzil1088. https://t.co/CAkdkWPolf
+842386779667873800,Thu Mar 16 14:47:13 +0000 2017,RT @HulkHulkenberg: Now you finally understand why I left Force India. 😉🤣🤐😂  #Formula1 https://t.co/02Yh2foari
+839711784118464500,Thu Mar 09 05:37:45 +0000 2017,RT @PatrickTimmons1: Interesting stat, just shows that body language isn't everything https://t.co/dDQoXERTYU
+839710584111251500,Thu Mar 09 05:32:58 +0000 2017,RT @GeniusFootball: 😂😂😂 https://t.co/Yio1owUvDx
+839708109367042000,Thu Mar 09 05:23:08 +0000 2017,RT @ThierryHenry: WOOOOOOOOOOOOOOWWWWWWWWWWWWWWW
+838476781455822800,Sun Mar 05 19:50:17 +0000 2017,RT @Akpommed: ArsenalFanTV with all the useless words removed 😂 https://t.co/0KBZbLu8kU
+824750802824736800,Thu Jan 26 22:48:09 +0000 2017,RT @FootyLaughs: What did I just watch?! 😂 https://t.co/8Ge3HthesZ
+822512900447371300,Fri Jan 20 18:35:31 +0000 2017,RT @gavinohara: This speaks volumes. (via @NormanGolightly) #Inauguration #NotMyPresident https://t.co/7ivLKp8ZOz
+820354815670616000,Sat Jan 14 19:40:04 +0000 2017,RT @AFCvideosHD: This video just goes to show how some pictures can be misleading. #afc  https://t.co/Y40rA3TRwu
+819229208794828800,Wed Jan 11 17:07:18 +0000 2017,RT @Arsenal: 🏀 You've got to see this...  Check out what happened when we teamed up with @BTSport and @DunkingDevils ahead of #NBALondon ht…
+818544805621956600,Mon Jan 09 19:47:44 +0000 2017,RT @topical_storm: If Tottenham's new stadium doesn't include a narrow row of sandwich shops called Deli Alley they aren't even trying and…
+817704612253859800,Sat Jan 07 12:09:06 +0000 2017,RT @WestHamUtd: MATCH 📸 | This is what West Ham United is all about 👏👏👏  [0-4] #COYI #WHUMCY https://t.co/WwGmjnwwzg
+816400225409470500,Tue Jan 03 21:45:56 +0000 2017,RT @andyyy_1: shoutout to Arsene Wenger for tricking us into thinking we were safely out of the banter era when it's actually never been mo…
+816390706885337100,Tue Jan 03 21:08:06 +0000 2017,RT @TheArseneView: Being an Arsenal fan really challenges a persons will to live.
+816389531217735700,Tue Jan 03 21:03:26 +0000 2017,RT @GymKardashian: "Imagine egg fried rice every day and £750k a week" https://t.co/eftEmOy8Nh
+815436498543611900,Sun Jan 01 05:56:25 +0000 2017,RT @Squawka: Jack Wilshere's game by numbers vs. Swansea:  100% take-ons 100% aerial duels won 51 passes 2 chances created 2 interceptions…
+815436296495632400,Sun Jan 01 05:55:37 +0000 2017,RT @davidhickman14: Happy New Year to you all Gooners around the world #Arsenal https://t.co/XPy8903R8v
+808318012294123500,Mon Dec 12 14:30:06 +0000 2016,RT @ClassofBergkamp: Arsenal's recurring Champions League draws. Shockingly boring (@behnisch) https://t.co/VXmAzihbSK
+808317603001303000,Mon Dec 12 14:28:29 +0000 2016,RT @wengerknowsbest: We look forward to today's Champions League draw. We don't mind who we get. As long as it's not Arsenal, they look exc…
+807842664595001300,Sun Dec 11 07:01:14 +0000 2016,RT @Arsenal: Now it's the Arsenal fans' turn to sing 🎶3-1, to the football team🎶  ⚽⚽⚽ - 🏉  #AFCvSCFC https://t.co/TeCbye5bck
+804543838215962600,Fri Dec 02 04:32:53 +0000 2016,RT @Arsenal: #ForçaChape https://t.co/tfkqyBIrsR
+804046437956915200,Wed Nov 30 19:36:23 +0000 2016,RT @Arsenal: Thinking of you, @ChapecoenseReal  #ForçaChapecoense https://t.co/0KGRwwqI76
+803122697031053300,Mon Nov 28 06:25:46 +0000 2016,RT @HulkHulkenberg: I leave this team with lots of happy memories and Force India will always be a part of my life. @ForceIndiaF1 @F1 #Feel…
+796444103043125200,Wed Nov 09 20:07:26 +0000 2016,RT @EByard: This is how the future voted. This is what people 18-25 said in casting their votes. We must keep this flame alight and nurture…
+788628175341359100,Wed Oct 19 06:29:43 +0000 2016,RT @TheArseneView: Martin Tyler can make a great moment, even greater... https://t.co/Fp8y5BKphB
+787328144730619900,Sat Oct 15 16:23:52 +0000 2016,RT @Arsenal: IT'S THE BIRTHDAY BOY!  #AFCvSCFC 🔴3-1⚪ (57) https://t.co/XmV16VEb7A
+783178795398361100,Tue Oct 04 05:35:50 +0000 2016,RT @BerglundViktor: Laurent Koscielny - The king of big goals https://t.co/38qlRAsr9V
+782636647582146600,Sun Oct 02 17:41:32 +0000 2016,RT @DeadlyBailly: Sterling dabbing when his team is 2-0 down. Disgusting https://t.co/RCXMhzvbhE
+782635154225426400,Sun Oct 02 17:35:36 +0000 2016,RT @GeoffArsenal: What an incredible stat, AW first 10 years compared to the last 10 years. https://t.co/WzbNybTYaJ
+782634310335692800,Sun Oct 02 17:32:14 +0000 2016,RT @Arsenal: #Wenger20 https://t.co/Kfw52hajjF
+782634202915344400,Sun Oct 02 17:31:49 +0000 2016,RT @ClassofBergkamp: I think I will never run out of reasons to love Arsene...   https://t.co/pwvzPWMqYD
+779246372499361800,Fri Sep 23 09:09:47 +0000 2016,RT @ThrowbackAFC: To celebrate #20YearsOfWenger, here's the top 15 goals of the Wenger era at Arsenal. https://t.co/jfEmUaAY2i
+777369104055472100,Sun Sep 18 04:50:11 +0000 2016,RT @nnehajainn: #Explosion outside our apartment at 23rd and 6th in #newyork. Terrified. Hoping everyone is okay. https://t.co/i3q4cG7aWT
+776680283911454700,Fri Sep 16 07:13:04 +0000 2016,RT @Lexus7Sanchez: 🗓| 20 years today, Arsène Wenger was officially confirmed as Arsenal manager. #AW20 https://t.co/rnSy0P06Bf
+776639315543728100,Fri Sep 16 04:30:16 +0000 2016,RT @mbatshuayi: @EASPORTSFIFA *downloading PES*
+776639219280252900,Fri Sep 16 04:29:53 +0000 2016,RT @XhakaLegacy: A question from 'Van Italia Persie'.  Bellerin: "By the way, I don't like that name". What a Legend @HectorBellerin https:…
+762835982445969400,Tue Aug 09 02:20:45 +0000 2016,RT @fit_kwik: History repeating it self 350m pounds  later  #united https://t.co/3GwYZdJINm
+757736296680828900,Tue Jul 26 00:36:25 +0000 2016,RT @Arsenal: 🇺🇸We're on board with @Emirates... next stop #ArsenalUSA - we can't wait to see you! https://t.co/FoMdvjBgo8
+751238966620270600,Fri Jul 08 02:18:21 +0000 2016,RT @8Fact_Footballl: Umtiti in #Euro2016  - never dribbled past - 4 interceptions - 1 foul - 16 clearances - 2 blocks - 0 possession loss -…
+751238165705289700,Fri Jul 08 02:15:10 +0000 2016,RT @Arsenal: https://t.co/dxPq1C6IuU
+750219434875248600,Tue Jul 05 06:47:06 +0000 2016,RT @darrenrovell: Iceland soccer team's homecoming is as awesome as imagined https://t.co/fm8IEZaerG (via @KMachinSK, @ruvithrottir)
+750218874038067200,Tue Jul 05 06:44:52 +0000 2016,RT @BBCSport: 10% of the country's population turned up!  What a welcome home for Iceland's #Euro2016 players... https://t.co/WF5y5xgpMs
+750061314672734200,Mon Jul 04 20:18:47 +0000 2016,RT @ArsenalCreator1: 40 DAYS LEFT | Barclays Premier League 2016/2017🔥 #Arsenal https://t.co/9q2o2SWiPO
+750060818301980700,Mon Jul 04 20:16:49 +0000 2016,RT @FootyHumour: 😂😂😂 https://t.co/tthe8hHuO4
+749724499218559000,Sun Jul 03 22:00:24 +0000 2016,RT @ElSpanishGooner: Football Twitter accept it, this Euro is ours https://t.co/mWCzJCW9nT
+749724432453677000,Sun Jul 03 22:00:08 +0000 2016,RT @iDanTheGunner: Some players crumble under pressure. Others thrive off it. https://t.co/QKrsJTfSSj
+749723775831150600,Sun Jul 03 21:57:32 +0000 2016,RT @wengerknowsbest: Yes, we are delighted to have Giroud, Koscielny, Ramsey and Ozil in the semi finals. But overall, we are used to finis…
+749665338636116000,Sun Jul 03 18:05:19 +0000 2016,RT @F1: FINAL SPEED TRAP 🏁 TOP 10: A one-two for @ForceIndiaF1 - but no points to take home from Austria #AustrianGP 🇦🇹 https://t.co/SjtDwh…
+749536269424742400,Sun Jul 03 09:32:26 +0000 2016,RT @IamAmmarr: A map of every car bomb explosion in #Baghdad since 2003. Atleast 82 Killed and 160 injured in overnight bombings. https://t…
+749531707489955800,Sun Jul 03 09:14:19 +0000 2016,RT @Squawka: ON THIS TRANSFER DAY: In 2001, Sol Campbell joined Arsenal from Spurs on a free transfer.  He never lived it down. https://t.c…
+749531523838124000,Sun Jul 03 09:13:35 +0000 2016,RT @br_uk: The good, the bad and the ugly: #GER's penalty shoot-out win over #ITA #Euro2016 https://t.co/wplu6oy49L
+749462064599490600,Sun Jul 03 04:37:35 +0000 2016,RT @Squawka: Gianluigi Buffon in tears at the end of the game.  Right in the feels. ☹️☹️☹️ https://t.co/yQWu0nS9Iq
+749461917241008100,Sun Jul 03 04:37:00 +0000 2016,RT @11tegen11: #ITA had a very tough time linking to Éder. And they sorely missed the distribution from defensive midfield. https://t.co/aZ…
+749461310132265000,Sun Jul 03 04:34:35 +0000 2016,RT @8Fact_Footballl: Gianluigi Buffon has stated he will play for #ITA at the 2018 World Cup in Russia.  He'll be back. https://t.co/w8lIom…
+749288521765007400,Sat Jul 02 17:07:59 +0000 2016,RT @TheArseneView: Dortmund are a tad bit salty over the Mkhitaryan deal and it's brilliant! https://t.co/OMkde7LCfb
+749288044616781800,Sat Jul 02 17:06:05 +0000 2016,RT @colintrainor: As many pointed out, it was Gündogan's move that had incurred the wrath of BVB. Move to Manchester at your peril! https:/…
+747682694864187400,Tue Jun 28 06:47:00 +0000 2016,RT @sszy: Congrats to Iceland-if everyone that wants to play can play then likely the national team will thrive #Soccernomics https://t.co/…
+747682544334872600,Tue Jun 28 06:46:24 +0000 2016,RT @sszy: my daughter said to me tonight "how can you be disappointed? You literally wrote the book on Why England Lose" #Soccernomics
+747602155503161300,Tue Jun 28 01:26:58 +0000 2016,RT @GissiSim: “You can leave Europe! You can go wherever the hell you want!”  Icelandic commentator after win. Voice of #Euro2016 https://t…
+747067381248254000,Sun Jun 26 14:01:58 +0000 2016,RT @8Fact_Footballl: On this day, one year ago, West Ham signed Dimitri Payet for just £10.7m.   Stroke of genius. ⚒ https://t.co/WuYYZjnF4o
+747067140797173800,Sun Jun 26 14:01:00 +0000 2016,RT @FootyHumour: The Irish fans never forget 😂  #FRAIRL #EURO2016 https://t.co/vrFYc75VCy
+746199503531761700,Fri Jun 24 04:33:20 +0000 2016,RT @FootyHumour: 😂😂😂 https://t.co/FOQkGix38y
+745108161065951200,Tue Jun 21 04:16:43 +0000 2016,RT @Starmas_: Roy Hodgson took Tottenham to France thats why Arsenal's Ramsey is set to finish above them  Its not Rocket science.
+744982028106367000,Mon Jun 20 19:55:31 +0000 2016,RT @itvfootball: Arsenal new boy Xhaka went to introduce himself to new teammate Giroud tonight https://t.co/9cLc5FsPI5
+741924336232063000,Sun Jun 12 09:25:20 +0000 2016,RT @miketipster: One Russian fan shoots a flare gun into the England end. How has a flare gun got into the stadium?   https://t.co/wkMg1PJq…
+741755592625131500,Sat Jun 11 22:14:49 +0000 2016,RT @wengerknowsbest: Exceptional wins today for Xhaka and Ramsey. And even Kanu scored the winning goal for Wales, which was outstanding.
+741738735406972900,Sat Jun 11 21:07:50 +0000 2016,RT @ArsenalCreator1: UNREAL JACK WILSHERE https://t.co/sH2wjzrp8X
+741738446054514700,Sat Jun 11 21:06:41 +0000 2016,RT @Wilshoholic: Van Persie playing for Romania now apparently https://t.co/uuwCUShbVk
+741395133065629700,Fri Jun 10 22:22:28 +0000 2016,RT @colintrainor: Only surprising thing about Payet's finish was that it was with his left foot. He had only 4 shots with his left foot in…
+741394545514975200,Fri Jun 10 22:20:08 +0000 2016,RT @8Fact_Footballl: Payet became the first French player to score and assist in a European finals game since Thierry Henry in 2000. https:…
+741394501386657800,Fri Jun 10 22:19:58 +0000 2016,RT @8Fact_Footballl: Payet: "Emotion came over me. If someone told me this would be happening a year ago, I'd  have called them crazy." htt…
+741394318569525200,Fri Jun 10 22:19:14 +0000 2016,RT @davidhickman14: Olivier Giroud celebrating his goal tonight for France #FRA #AFC https://t.co/PflelhTfSi
+741394292011196400,Fri Jun 10 22:19:08 +0000 2016,RT @wengerknowsbest: France did well tonight. Giroud showed the sort of top top quality and super hair you need to win a European Champions…
+729052898362048500,Sat May 07 20:58:50 +0000 2016,RT @Squawka: Andy King scores!  He's won League One, the Championship &amp; the Premier League with Leicester. Through thick &amp; thin. https://t.…
+729052758792351700,Sat May 07 20:58:17 +0000 2016,RT @LCFC: That just happened. https://t.co/lrfGy2qX4k
+729052323612364800,Sat May 07 20:56:33 +0000 2016,RT @davidhickman14: 10 years ago today #Arsenal said  goodbye to Highbury with Thierry Henry  scoring a hat-trick against Wigan #afc https:…
+727293645855068200,Tue May 03 00:28:12 +0000 2016,RT @GaryLineker: Leicester City have won the Premier League. The biggest sporting shock of my lifetime, and it's only my team.
+727291764235751400,Tue May 03 00:20:43 +0000 2016,RT @Squawka: Mark Schwarzer has won back to back Premier League titles with different clubs: Chelsea and Leicester. https://t.co/6XsSIg2Prh
+727291168015454200,Tue May 03 00:18:21 +0000 2016,RT @Millar_Colin: It won't get covered due to the obvious tonight but Hiddink getting pushed over into bench here is a total disgrace: http…
+727290830038425600,Tue May 03 00:17:00 +0000 2016,RT @GeoffArsenal: Mark Albrighton, gets rejected by Aston Villa, ends up winning the PL at Leicester... The same year Villa get relegated.…
+727246260000972800,Mon May 02 21:19:54 +0000 2016,RT @LCFC: Leicester City. Champions of England. https://t.co/WRwfysTn2N
+727245694608805900,Mon May 02 21:17:39 +0000 2016,RT @premierleague: Congratulations Leicester City!  The dream has become a reality... https://t.co/8UTbpbzpYL
+727245580775395300,Mon May 02 21:17:12 +0000 2016,RT @paddypower: The owner of Newly-promoted Leicester City says the club will be in the top 5 of the Premier League within 3 years. http://…
+727245491231137800,Mon May 02 21:16:51 +0000 2016,RT @TheFutbolFeed: Football won today and money lost.   Thank you @LCFC
+726662467053604900,Sun May 01 06:40:07 +0000 2016,RT @McLarenF1: Racer, champion, legend. Gone too soon, but always close to our hearts. RIP, Ayrton Senna. #RememberSenna https://t.co/6IkDc…
+723545356462637000,Fri Apr 22 16:13:50 +0000 2016,RT @ArsenalTerje: Video of the walk-out during the game https://t.co/8eVcLGBUMO
+711244833067651100,Sat Mar 19 17:35:57 +0000 2016,RT @WelBeast: Alexis be like: "So this how it feels to be Theo Walcott" https://t.co/sPe5KjB1tT
+711079916318502900,Sat Mar 19 06:40:37 +0000 2016,RT @BadgerGP: Every F1 fan during this qualifying session. #AusGP https://t.co/uF5MwYb1vs
+706109281624576000,Sat Mar 05 13:29:06 +0000 2016,RT @Pekka65: WorldClass!!!! https://t.co/GKWtn0cGwf
+705056970852560900,Wed Mar 02 15:47:35 +0000 2016,RT @wengerknowsbest: Can we bounce back against Swansea? I believe yes. We just need to finish bouncing back from the bounce-back of the pr…
+705056528143757300,Wed Mar 02 15:45:50 +0000 2016,RT @wengerknowsbest: Look, we need to show solidly solid solidarity and consistently consistent consistency. Backed by stubbornly stubborn …
+700575642350387200,Fri Feb 19 07:00:23 +0000 2016,RT @wengerknowsbest: I'm little bit surprised Rooney has fallen to a knee injury before we face him next week. Normally he falls unexpected…
+699650692391301100,Tue Feb 16 17:44:58 +0000 2016,RT @Squawka: ON THIS DAY: In 2011, Arsenal beat Barcelona 2-1 thanks to two late goals from Robin van Persie &amp; Andrei Arshavin. https://t.c…
+698942824293642200,Sun Feb 14 18:52:09 +0000 2016,RT @InsideTheOx: Best commentary ever just listen  https://t.co/zLFl8On6Km
+698870409123491800,Sun Feb 14 14:04:24 +0000 2016,RT @Squawka: Arsenal become the only team to do the Premier League double over Leicester City this season.  Dat Guy... https://t.co/6lzE7pN…
+698869663170748400,Sun Feb 14 14:01:26 +0000 2016,RT @Comical_Yiannis: https://t.co/6V5Cn2kKem
+691525284567261200,Mon Jan 25 07:37:30 +0000 2016,RT @WelBeast: Every top club has a mid table team they struggle against:  Man United= Southampton Liverpool= Palace Man City= Sunderland Ar…
+691524576258322400,Mon Jan 25 07:34:41 +0000 2016,RT @PetrCech: Disappointed with the result... Great team effort and attitude down to 10 men ... plenty of points to play for ! Let's keep g…
+691270726150721500,Sun Jan 24 14:45:58 +0000 2016,RT @FootbalIStuff: Arsenal vs. Chelsea in last 20 years https://t.co/yodVi8u1Rm
+690990309413486600,Sat Jan 23 20:11:42 +0000 2016,RT @WelBeast: 😂😂😂😂😂😂😂 WTF is this? 😂😂😂 https://t.co/qaJZkcSYEW
+690532476964343800,Fri Jan 22 13:52:26 +0000 2016,RT @WelBeast: Tony Gale's combined Arsenal and Chelsea team before and after we signed Petr Cech. https://t.co/n9OyaL7LNy
+690532186613624800,Fri Jan 22 13:51:17 +0000 2016,RT @ArsenalMoh8: This happened at Stamford Bridge earlier this season. The steward gave me the go ahead to share this only yesterday! https…
+689601432434016300,Wed Jan 20 00:12:48 +0000 2016,RT @JamesHorncastle: Sarri seems to be the hardest word
+689600966409084900,Wed Jan 20 00:10:57 +0000 2016,RT @FouadAFC: This is Jöel. Jöel used to be benched. Jöel developed Özil vision. Jöel starts now. Jöel is smart. Be like Jöel. https://t.co…
+689067191191257100,Mon Jan 18 12:49:55 +0000 2016,RT @wengerknowsbest: Were Stoke physical and direct? Yes, of course. They were physically on the pitch and directly trying to beat us.
+688882196178796500,Mon Jan 18 00:34:49 +0000 2016,RT @BestAFCGoals: The greatest commentary in English football history #arsenal https://t.co/zfH8yREAUB
+688819868280336400,Sun Jan 17 20:27:08 +0000 2016,RT @socraticjuan: Who did this? 😭😭  https://t.co/yHvyBO0ifN
+688096227724951600,Fri Jan 15 20:31:39 +0000 2016,RT @br_uk: 'Watch me whip, now watch Elneny' #Arsenal https://t.co/E2HZDEJqCy
+688077129276260400,Fri Jan 15 19:15:46 +0000 2016,RT @hmafc: Britannia memories tho https://t.co/RM6fKTg828
+687950045967036400,Fri Jan 15 10:50:47 +0000 2016,RT @wengerknowsbest: We look forward now to Stoke. Well, we look ahead to Stoke anyway. Overall, basically, we have no option but to go the…
+687624158734192600,Thu Jan 14 13:15:49 +0000 2016,RT @wengerknowsbest: We are exceptionally delighted to sign Mohamed Elneny. He has exceptional spirit, exceptional hair &amp; is basically exce…
+687421759348412400,Wed Jan 13 23:51:33 +0000 2016,RT @TheGunnersWay: Can (Liverpool): "I told Flamini he's really bad he replied he could buy Liverpool and sell me."
+687418937466826800,Wed Jan 13 23:40:20 +0000 2016,RT @MesutOzil1088: There was no time to blink during the match! A pity we couldn’t take the 3 points with us to London! 😒 But chin up, we'r…
+687400480310444000,Wed Jan 13 22:27:00 +0000 2016,RT @callumAFC90: Played out of his skin tonight! No reason to drop him when Sanchez is back. Walcott should be on the bench. https://t.co/i…
+687400117884837900,Wed Jan 13 22:25:34 +0000 2016,RT @bry5913: Monreal did not deserve to be in a team that conceded 3 goals tonight. Put on a clinic in how to defend against a pacy winger.…
+687242634453110800,Wed Jan 13 11:59:47 +0000 2016,RT @Sports_NDTV: Sania, Martina equal 1994 record of Gigi Fernandez, Natasha Zvereva of winning 28 consecutive doubles matches https://t.co…
+687241887288172500,Wed Jan 13 11:56:48 +0000 2016,RT @KingKozak: That was longer than expected
+687241879990046700,Wed Jan 13 11:56:47 +0000 2016,RT @KingKozak: Last tweet till Aston Villa win a Premier League game
+686951135836414000,Tue Jan 12 16:41:28 +0000 2016,RT @Arsenal_Goals: Andrey Arshavin's 4 Goals vs Liverpool #AFC https://t.co/4AHTCzqopX
+686908831692017700,Tue Jan 12 13:53:22 +0000 2016,RT @paddypower: Steven Caulker will be eligible to make his Liverpool debut v Arsenal tomorrow. https://t.co/kzLC0PyEua
+685442523385299000,Fri Jan 08 12:46:47 +0000 2016,RT @wengerknowsbest: Might Troy Deeney come to this club? I can tell you, I believe maybe yes. Saturday 2 April, 3pm. Watford at home.
+685442409551904800,Fri Jan 08 12:46:19 +0000 2016,RT @wengerknowsbest: There is little bit confusion over signing Pierre-Emerick Aubameyang. I merely bought my friends Pierre and Eric a boo…
+684336217664536600,Tue Jan 05 11:30:43 +0000 2016,RT @wengerknowsbest: My players will have a two-day rest. At least I hope they rest. To show consistently consistent consistency we need re…
+684317795706777600,Tue Jan 05 10:17:31 +0000 2016,RT @GeniusFootball: FIFA Celebrations in real life 😂 https://t.co/dWg7xyqbCz
+684066462634389500,Mon Jan 04 17:38:48 +0000 2016,RT @wengerknowsbest: Overall I believe 9 points from 12 over Christmas is quite good. It was almost perfect apart from that accidental 4-0 …
+683777669020815400,Sun Jan 03 22:31:14 +0000 2016,RT @wengerknowsbest: Is Elneny close? I can now tell you, yes. How close? Very close. He plays for Basel and they are only in Switzerland.
+683723206390190100,Sun Jan 03 18:54:50 +0000 2016,RT @Aakanxit: 6th sense tells me its Arsenal's league this year.
+683581829761269800,Sun Jan 03 09:33:03 +0000 2016,RT @wengerknowsbest: I must say, Koscielny took his goal today little bit like a striker. Is he like a new signing? Judge me in February.
+683352693721595900,Sat Jan 02 18:22:32 +0000 2016,RT @Arsenal: .@Arsenal reached a club milestone after their 1-0 win against Newcastle United #AFCvNUFC https://t.co/SPtB3H8pUk
+683346849541967900,Sat Jan 02 17:59:19 +0000 2016,RT @Bosscielny6: Reporter: "Congrats! Who could have seen that result coming?"  King Petr: "Well we could." *smug look*   WHAT A MAN! https…
+683345921514455000,Sat Jan 02 17:55:38 +0000 2016,RT @theawayfans: When you forget to switch accounts 😂 https://t.co/7XLrGBBS9B
+683337833604485100,Sat Jan 02 17:23:29 +0000 2016,RT @WelBeast: Trying to locate Chelsea on the table like... https://t.co/jfuvVrP8nH
+683260897452662800,Sat Jan 02 12:17:46 +0000 2016,RT @OzilWizardry: "Mesut.... I love you" LOOOOOL Nasri https://t.co/NjMI0RxMNz
+682915594845306900,Fri Jan 01 13:25:40 +0000 2016,RT @ReadArsenalFC: How about you sit down and appreciate Emmanuel Eboue for 30 seconds?  https://t.co/fUtIyLiptT
+682562306446766100,Thu Dec 31 14:01:49 +0000 2015,RT @GeniusFootball: Oliver Kahn and Manuel Neuer, who was making his debut for Schalke. https://t.co/wjDgW1Mc2U
+682561383704088600,Thu Dec 31 13:58:09 +0000 2015,RT @MatahoIic: Love photos of Özil and his pets. https://t.co/L4t2NYgzsd
+682561206020735000,Thu Dec 31 13:57:27 +0000 2015,RT @wengerknowsbest: We are proud to win the 2015 calendar championship. Will there be little bit open top bus parade? I don't know. Is it …
+682561141503991800,Thu Dec 31 13:57:12 +0000 2015,RT @wengerknowsbest: I will be busy in the market, that is for sure. We are definitely little bit short. Eggs, milk, bread. Little bit frui…
+681559473605849100,Mon Dec 28 19:36:55 +0000 2015,RT @HectorBellerin: Back to winning ways with a clean sheet! Also congrats to @petrcech on your 170 record clean sheets!! #COYG https://t.c…
+680963615680278500,Sun Dec 27 04:09:12 +0000 2015,RT @wengerknowsbest: Southampton's 5th goal was handball and their 6th was completely unacceptable. Sorry? We lost 4-0? Right, I lost track…
+680870197079584800,Sat Dec 26 21:57:59 +0000 2015,RT @SweeperGK: The only time in the game the Arsenal defenders helped Petr Cech out https://t.co/KWHLIRESLR
+680865715646144500,Sat Dec 26 21:40:11 +0000 2015,RT @AngelaTsaturian: When you offer Arsenal to go top of the table https://t.co/2u7ySyyouk
+680710219182166000,Sat Dec 26 11:22:17 +0000 2015,RT @wengerknowsbest: Christmas is little bit time for giving and goodwill. So hopefully Southampton will be good and give us the three poin…
+679807390376525800,Wed Dec 23 23:34:46 +0000 2015,RT @JameswhufcJones: Unreal banter from The Sun https://t.co/rUO9V5GekF
+678280028828880900,Sat Dec 19 18:25:35 +0000 2015,RT @Halopenos: What the fuck is going on in the PSG game https://t.co/1PAUeeUhkt
+674023616191819800,Tue Dec 08 00:32:07 +0000 2015,RT @hmafc: Olympiacos away memories &lt;3 https://t.co/vIpJSJrfkd
+670676741199908900,Sat Nov 28 18:52:50 +0000 2015,RT @8Fact_Footballl: 4 years ago today, Jamie Vardy scored for Fleetwood vs Gateshead in front of 768 people! Anything is possible. 👏🏼 http…
+670668728124706800,Sat Nov 28 18:20:59 +0000 2015,RT @RobertReid64: Jamie Vardy's goal against Gateshead on Saturday saw him become the first Fleetwood player to score in four consecutive g…
+670668211835248600,Sat Nov 28 18:18:56 +0000 2015,RT @premierleague: CONGRATULATIONS, @vardy7!  Jamie Vardy scores for the 11th #BPL match in a row #LEIMUN https://t.co/pCKO5ZdtE5
+670477644866166800,Sat Nov 28 05:41:42 +0000 2015,RT @Arsenal: Morning. On this day in 2010 @JackWilshere scored his first @PremierLeague goal for @Arsenal https://t.co/Ut9Mh6lpAI https://t…
+669303907600961500,Tue Nov 24 23:57:41 +0000 2015,RT @wengerknowsbest: Well yes, I must say Jon Toral is playing exceptionally well on loan at Birmingham. Might he be the new Coquelin? I do…
+669303824524443600,Tue Nov 24 23:57:21 +0000 2015,RT @wengerknowsbest: Is January an ideal time in the transfer market? Not especially. I prefer March, when there isn't one.
+669303287045337100,Tue Nov 24 23:55:13 +0000 2015,RT @TerjeGoal: Özi​l's goal with the full build-up. Brilliant football. 1-0 https://t.co/Nz4pOXsVqm
+663635157514068000,Mon Nov 09 08:32:05 +0000 2015,RT @premierleague: .@MesutOzil1088 is the first player in the top five European leagues to reach double figures for assists in 2015/16 http…
+663381981061849100,Sun Nov 08 15:46:03 +0000 2015,RT @Podolski10: Come on #Gunners 👍🏻 #LondonIsRed good luck !! #Poldi https://t.co/GwxarDNS83
+663379483655802900,Sun Nov 08 15:36:08 +0000 2015,RT @FeoWalcutt: Well, you have got to give it to him.   What a world class volley in the North London Derby.  https://t.co/irbz0GU0PS
+663108857774915600,Sat Nov 07 21:40:46 +0000 2015,RT @Henryesque: I know which one I believe https://t.co/4kzQh5XpZ2
+662405271680098300,Thu Nov 05 23:04:58 +0000 2015,RT @Arsenal: #OTD in 1932, Gillespie Road tube station was renamed as ‘Arsenal’: https://t.co/ivKfOcGdRj https://t.co/SX8P5ujJdB
+660827728489406500,Sun Nov 01 14:36:22 +0000 2015,RT @PetrCech: Great team effort = great win !  Clean sheet on top ! Happy Halloween 🎃 👍🏻
+660468240502648800,Sat Oct 31 14:47:54 +0000 2015,RT @LowkeyMo_: Mourinho begging Abramovich for one more chance  https://t.co/mwgg5aTj4B
+660466499237335000,Sat Oct 31 14:40:58 +0000 2015,RT @BallinInHD: When Courtois returns from injury https://t.co/0OMXoFQ0Dp
+658037770150129700,Sat Oct 24 21:50:04 +0000 2015,RT @SheWore: This is what it's all about Gabriel get in there https://t.co/BLW5fps1xa
+656936723046342700,Wed Oct 21 20:54:54 +0000 2015,RT @GurjitAFC: Video: Alexis sending Vidal back to Chile. https://t.co/iPn312ZDAH #Arsenal
+656591668091727900,Tue Oct 20 22:03:47 +0000 2015,RT @HectorBellerin: What a result!!! Great spirit and performance from the team. #COYG https://t.co/98zJjLqAzI
+656576914807767000,Tue Oct 20 21:05:09 +0000 2015,RT @LeviTheGooner: If Bellerin's run doesn't make you happy then screw you  https://t.co/pumiy9Bt5I
+656576687044468700,Tue Oct 20 21:04:15 +0000 2015,RT @ffarsenalfc: 90th minute and young Bellerin is running like that.. Insane https://t.co/tCz5RQ59QM
+656576507230486500,Tue Oct 20 21:03:32 +0000 2015,RT @GeoffArsenal: Differences aside,   I think we are all proud to be Arsenal tonight.   #Believe.
+656576404864258000,Tue Oct 20 21:03:08 +0000 2015,RT @MickTheGooner: Absolutely fantastic performance from Arsenal. Got tactics spot on against the German champions. Special mention to Čech…
+656576370793971700,Tue Oct 20 21:03:00 +0000 2015,RT @arsenalfantv: So proud to be an Arsenal fan tonight.
+656576224303697900,Tue Oct 20 21:02:25 +0000 2015,RT @Nabit_97: FFS.... Arsenal fans https://t.co/sdZhOgoron
+656576102052339700,Tue Oct 20 21:01:55 +0000 2015,RT @samuelJayC: Last two home games:  Arsenal 3-0 Man Utd Arsenal 2-0 Bayern https://t.co/qE9TrtZsfQ
+656571964736282600,Tue Oct 20 20:45:29 +0000 2015,RT @ArsenalHindi: PHATA POSTER NIKLA JIROOOOOOOOOOOOOOOOOOOOOOOOOOOO
+656571485084065800,Tue Oct 20 20:43:35 +0000 2015,RT @FutbolSergi: Losing against Olympiakos and Dinamo Zagreb then going on to win against Bayern is so Arsenal.
+656530309043855400,Tue Oct 20 17:59:58 +0000 2015,RT @Arsenal: Emirates Stadium is ready for #AFCvBAY. How are you feeling, @Arsenal fans? https://t.co/0NtJerHcOy
+656215574129811500,Mon Oct 19 21:09:19 +0000 2015,RT @Kiyaawe: ON THIS DAY: Two years ago #Arsenal did this.  Wilshere scored the Incredible  #tiki-taka goal for AFC v Norwich https://t.co/…
+655045089924878300,Fri Oct 16 15:38:14 +0000 2015,RT @Arsenal: Morning. #OTD in 2004 @Arsenal went 49 @premierleague games unbeaten. Watch how they did it: http://t.co/z0lIm6FsCl http://t.c…
+654067559629721600,Tue Oct 13 22:53:52 +0000 2015,RT @goldnewsuk: Arsenal gods are giving RVP a hard time 😂😂😂😂 Karma  http://t.co/lP66vg1EL4
+653386840939069400,Mon Oct 12 01:48:56 +0000 2015,RT @TSBible: Andrea Pirlo; "Football is played with the head. Your feet are just the tools." http://t.co/SawU9t2cjJ
+651295453867307000,Tue Oct 06 07:18:31 +0000 2015,RT @Arsenal: When you've just beaten Man United 3-0... https://t.co/8PGldRlzZ9
+650725118730195000,Sun Oct 04 17:32:12 +0000 2015,RT @LFC: Liverpool FC has announced that Brendan Rodgers will leave his post with immediate effect: http://t.co/it2bKIJQbc http://t.co/M3Af…
+650386513105158100,Sat Oct 03 19:06:42 +0000 2015,RT @Le77y64: BEAUTIFUL. https://t.co/XEIlbVsHue
+649732124954755100,Thu Oct 01 23:46:24 +0000 2015,RT @wengerknowsbest: Did I start as manager of this club today in 1996? Look, I have been in this job 19 years, I don't have to comment on …
+649471497296330800,Thu Oct 01 06:30:46 +0000 2015,RT @wengerknowsbest: We are little bit short in defensive midfield, yes, but we should be alright. Ramsey, Chambers, Debuchy, Bielik, Jenko…
+649471473103544300,Thu Oct 01 06:30:40 +0000 2015,RT @wengerknowsbest: Arteta out Coquelin doubt, in out in out shake it all about. Might have to play DM myself and turn around, that's what…
+649471403486498800,Thu Oct 01 06:30:23 +0000 2015,RT @wengerknowsbest: We are very very low tonight. We did not see that coming. We thought Felipe Pardo was the Crystal Palace manager.
+649471351384866800,Thu Oct 01 06:30:11 +0000 2015,RT @wengerknowsbest: I believe it is a small small village in Nottinghamshire, little bit close to Worksop. RT @Adorayyble: @wengerknowsbes…
+649471297018314800,Thu Oct 01 06:29:58 +0000 2015,RT @wengerknowsbest: I accept the performance was completely unacceptable and the manager has to be accountable. But enough about Chelsea l…
+649471273165307900,Thu Oct 01 06:29:52 +0000 2015,RT @wengerknowsbest: Overall, I believe we still have a small small chance to qualify from our group. Bayern Munich might lose twice to us …
+649470740669014000,Thu Oct 01 06:27:45 +0000 2015,RT @wengerknowsbest: We congratulate Man City on staying invincible for five whole games.
+649470399449813000,Thu Oct 01 06:26:24 +0000 2015,RT @wengerknowsbest: Coquelin is out of Tottenham due to little bit short-term knee swelling. Will he be back for Leicester? Yes. Which sea…
+649470291312267300,Thu Oct 01 06:25:58 +0000 2015,RT @wengerknowsbest: We are delighted Gabriel's ban has been overturned and Costa has a three-match ban. Now we just wait for the result to…
+649470190753828900,Thu Oct 01 06:25:34 +0000 2015,RT @wengerknowsbest: We look forward now to facing Sheffield Wednesday, in the week of Monday 26 October. Or it might be Sheffield Tuesday.…
+649470062982774800,Thu Oct 01 06:25:04 +0000 2015,RT @wengerknowsbest: We are little bit disappointed Gabriel has been banned for one match today. We could have used that ban on the Tottenh…
+649470012391039000,Thu Oct 01 06:24:52 +0000 2015,RT @wengerknowsbest: Have we worked Sanchez little bit too hard, too early? I don't know. I'll ask him when he returns from his morning tri…
+649469549578989600,Thu Oct 01 06:23:01 +0000 2015,RT @wengerknowsbest: Is Olympiacos now a must-win game? Yes. But show me a game you must not win.
+649469513805774800,Thu Oct 01 06:22:53 +0000 2015,RT @wengerknowsbest: Arteta and Flamini will be little bit short for Olympiacos. Coquelin might be little bit short. Cazorla is little bit …
+649467652650463200,Thu Oct 01 06:15:29 +0000 2015,RT @osakasaul: Looking for a #startupjob? RiteTag's hiring #php ppl- http://t.co/aIbwsQaB7w #marketing http://t.co/aIbwsQaB7w
+646709165591789600,Wed Sep 23 15:34:15 +0000 2015,RT @FootyAccums: Diego Costa has not had a red card in over three years (2012) but has received in over 15 games suspension...   Such a top…
+645607197355962400,Sun Sep 20 14:35:25 +0000 2015,RT @LukeShaw23: Thank you everyone for your messages , words can't describe how gutted I am , my road to recovery starts now, I will come b…
+645418569245814800,Sun Sep 20 02:05:52 +0000 2015,RT @andros_townsend: @FootballManager do you wanna tell her or shall I? @Hazelosullivan1 http://t.co/3GkgMEgiMy
+644236470534996000,Wed Sep 16 19:48:38 +0000 2015,RT @wengerknowsbest: Bouldie just played 'zagreb' in Travel Scrabble for 57 on a triple word score, but I said you can't use names. Little …
+644236335453237200,Wed Sep 16 19:48:06 +0000 2015,RT @wengerknowsbest: Debuchy in, Bellerout. In out in out, shake it all about. Little bit rotation and you turn around. That's what it's al…
+642960068888145900,Sun Sep 13 07:16:40 +0000 2015,RT @FootballTroIIz: 1. Hold on to John Stones 2. Beat Chelsea 3v1  Roberto Martinez be like https://t.co/R05o6HrI8i
+642959792286396400,Sun Sep 13 07:15:34 +0000 2015,RT @SundayChants: A brilliant gesture of fair play. http://t.co/u5wMygv0VQ
+640900164056707100,Mon Sep 07 14:51:21 +0000 2015,RT @Parmpal_: This is Brilliant! #ThierryHenry! #TheKing! http://t.co/f0yjkNeEkx
+637852341866233900,Sun Aug 30 05:00:23 +0000 2015,RT @premierleague: #CFC 1-2 #CPFC  Impressive Palace hand Jose Mourinho just his 2nd #BPL loss at home. Report: http://t.co/90ReJZqnbB http…
+637852321557422100,Sun Aug 30 05:00:18 +0000 2015,RT @premierleague: #LFC 0-3 #WHUFC   The Hammers claim their 1st ever #BPL win at Anfield. Report: http://t.co/V2WvqRego8 http://t.co/GIUqD…
+637852295494008800,Sun Aug 30 05:00:12 +0000 2015,RT @premierleague: #NUFC 0-1 #Arsenal   A Coloccini OG gave Arsenal an 8th straight win over Newcastle. Report: http://t.co/qOltacnMa3 http…
+633329432451776500,Mon Aug 17 17:27:58 +0000 2015,RT @Arsenal: It was a @MesutOzil1088 masterclass at Selhurst Park yesterday... http://t.co/7IOiUPLwU6
+633278252941975600,Mon Aug 17 14:04:35 +0000 2015,RT @piersmorgan: Specialist in delusion.  #mourinho
+633142684920741900,Mon Aug 17 05:05:53 +0000 2015,RT @Squawka: Let's play José Mourinho Blame Roulette. #CFC https://t.co/4ORPFpO1kR
+632924155336335400,Sun Aug 16 14:37:32 +0000 2015,RT @Arsenal: .@Arsenal secure their first points of the season with a hard-fought win. The #CPFCvAFC report http://t.co/pYJOFsidei http://t…
+632924133970587600,Sun Aug 16 14:37:27 +0000 2015,RT @Arsenal: GOAL FOR @Arsenal! .@Alexis_Sanchez' header is turned into the Palace net by Delaney 2-1 (55) #CPFCvAFC
+631335332219191300,Wed Aug 12 05:24:07 +0000 2015,RT @rfatone1: Xherdan Shaqiri: Bayern --&gt; Inter Inter --&gt; Stoke  Next transfer window: Stoke --&gt; Havant and Waterlooville http://t.co/Q10L9…
+631124265455083500,Tue Aug 11 15:25:25 +0000 2015,RT @aaronramsey: Disappointed about Sunday but remain positive that it'll be a successful season. Must bounce back and return to winning wa…
+630726567384068100,Mon Aug 10 13:05:06 +0000 2015,RT @sportlobster: Things could be about to get awkward... 🙈 https://t.co/Fe0XxBG3np
+630599013541109800,Mon Aug 10 04:38:15 +0000 2015,RT @FunnyGooner: Chelsea fans cannot fathom this substitution.  'We can play two strikers? At the same time?'
+630598946251931600,Mon Aug 10 04:37:59 +0000 2015,RT @FunnyGooner: Arsenal Twitter is one Alexis Sanchez injury away from a complete meltdown.
+630598914341638100,Mon Aug 10 04:37:51 +0000 2015,RT @FunnyGooner: This rage, confusion, heart ache, desperation, panic and fear that Arsenal might get relegated.. I've missed this.
+630598847895507000,Mon Aug 10 04:37:35 +0000 2015,RT @FunnyGooner: Some fans leaving early to avoid traffic. Fair enough
+630598601853382700,Mon Aug 10 04:36:37 +0000 2015,RT @FunnyGooner: Can Benzema head away corners like Giroud?
+630448766256984000,Sun Aug 09 18:41:13 +0000 2015,Regardless of the result, there's nothing better than seeing a player care as much as the fans. @Alexis_Sanchez is that player. #Arsenal
+630444042900275200,Sun Aug 09 18:22:27 +0000 2015,RT @BarryArsenal7: #AlexisSanchez after the game today putting the work in The rest of the team should have joined him !!! #Winner http://t…
+628351230058885100,Mon Aug 03 23:46:22 +0000 2015,RT @TSBible: This lot never stood a chance! https://t.co/tgQYwlPq0j
+628048563579265000,Mon Aug 03 03:43:40 +0000 2015,RT @PetrCech: What a day @Wembley ! Thank you @arsenal fans and @ChelseaFC fans for your support ! http://t.co/8fNKgSPNNY
+627872197714026500,Sun Aug 02 16:02:51 +0000 2015,RT @FunnyGooner: Hopefully Arteta won't injure his aging arm by carrying too many trophies in such a brief period of time
+627871901390606300,Sun Aug 02 16:01:41 +0000 2015,RT @FaktanyaBPL: Petr Cech:  3 Match 3 Trophy  Barclays Asia Trophy ✔ Emirates Cup ✔ Community Shield ✔  http://t.co/JA8JHA5AUK
+627560716480987100,Sat Aug 01 19:25:08 +0000 2015,RT @goldnewsuk: Remember when Rafa Benitez had magic powers and controlled the graphics on Sky TV? No me neither lol https://t.co/0VYkRuGVL9
+626408716724604900,Wed Jul 29 15:07:30 +0000 2015,RT @Arsenal: Good luck to @13Szczesny13, who is to join AS Roma on loan for the 2015/16 season. Full story: http://t.co/eQSNujDkYA http://t…
+626362169177706500,Wed Jul 29 12:02:33 +0000 2015,RT @FootballRascal: Hector Bellerin at the Emirates on a zebra - because why not http://t.co/jsKl9RAzGT
+626341118007865300,Wed Jul 29 10:38:54 +0000 2015,RT @osakasaul: .@arsenalians's thoughts on Wector #ChromeExtension http://t.co/i8Bz1Im0uR
+626323124259127300,Wed Jul 29 09:27:24 +0000 2015,RT @osakasaul: Working on the Hunt, @arsenalians @palash96_a Keep an eye out for http://t.co/h8SCdXYSpZ to go live.
+626323082290987000,Wed Jul 29 09:27:13 +0000 2015,RT @ZubinPratap: http://t.co/DZ50u4RNhI how impressive that young CS students are creating brilliant little improvements to life like this?…
+625447012851417100,Sun Jul 26 23:26:02 +0000 2015,Sent using @Ritetag's Twitter autocomplete feature (cc @osakasaul) #IThinkItWorks
+625358869946957800,Sun Jul 26 17:35:47 +0000 2015,RT @Mata_esque: "All of them, they are buying the title." Chelsea's Jose Mourinho on his Premier League rivals.   Hmmmmm http://t.co/GZgkJs…
+625057981575532500,Sat Jul 25 21:40:10 +0000 2015,RT @wengerknowsbest: We are delighted to beat Lyon 6-0, yes, of course, but it's too early to talk about winning the Emirates Cup.
+624919909022076900,Sat Jul 25 12:31:31 +0000 2015,RT @goldnewsuk: Get more Arsenal followers now  Just RT if you're a Gooner that FOLLOWS BACK  Follow all who RT &amp; gain  #GoonerFamily http:…
+624358321047232500,Thu Jul 23 23:19:58 +0000 2015,RT @FootyAccums: Sagna looks weird with a shaved head http://t.co/bUKO1YRNEG
+624297827150250000,Thu Jul 23 19:19:35 +0000 2015,RT @DeludedBrendan: .@KFC_UKI Sorry my mistake, It was just Raheem Sterling. http://t.co/63In0iYnDO
+623282845742555100,Tue Jul 21 00:06:25 +0000 2015,RT @fia: #FIA to retire car number 17 from the FIA Formula One World Championship http://t.co/ddQBC5qR1S #RIPJules #F1
+623282396981428200,Tue Jul 21 00:04:38 +0000 2015,RT @paddypower: Another look at the best moment in the #Ashes so far... https://t.co/OeVgJe3cnh
+622894888611283000,Sun Jul 19 22:24:48 +0000 2015,RT @JSPF1_10: RT If you want the @fia to retire Car Number #17 in honours for Jules &amp; for the pole position to be left for him in Hungary! …
+622893991281864700,Sun Jul 19 22:21:14 +0000 2015,RT @RGrosjean: Yesterday we lost one of the best guys and best drivers I've ever met. I'll miss you so much my friend... #RIPJules http://t…
+622893418558046200,Sun Jul 19 22:18:58 +0000 2015,RT @ElieRizkF1: Rest in peace buddy, we will miss you so much! #RIPJules @Jules_Bianchi http://t.co/qJGZveNU3m
+622149769129934800,Fri Jul 17 21:03:58 +0000 2015,RT @Adeel_AFC: Ramsey trying to find Chelsea's history http://t.co/Wp2vBnRFxC
+621643591572566000,Thu Jul 16 11:32:36 +0000 2015,RT @Arsenal: .@MesutOzil1088 savours the view at the top of @marinabaysands #YaGunnersYa #ArsenalSingapore http://t.co/IHBSQE9RGN
+621407874057568300,Wed Jul 15 19:55:57 +0000 2015,RT @virgingalactic: From time to time, the world is reminded of the wonder of science &amp; exploration. Thanks, @NASA #PlutoFlyby, for making …
+621310945126514700,Wed Jul 15 13:30:47 +0000 2015,RT @HosmerAFC: Here was Akpom's goal: https://t.co/JQkQXmUOgW
+621310255352315900,Wed Jul 15 13:28:02 +0000 2015,RT @Arsenal: Half-time: Singapore Select XI 0-1 @Arsenal #BAT2015 #ArsenalSingapore
+621124677306421200,Wed Jul 15 01:10:37 +0000 2015,@osakasaul @launch_lister @kanishkvashisht 🙌
+621123265063358500,Wed Jul 15 01:05:00 +0000 2015,RT @TSBible: Petr Cech looking in fine form during Arsenal's open training session in Singapore today... https://t.co/YwjF8Qz1ul
+621036084772769800,Tue Jul 14 19:18:35 +0000 2015,RT @ArsenalHindi: "Namaste Auntyji. Wanted to feel the essence of India, the rich cultural &amp; trad.." "YE LE KATHAL SOONGH AAJ HI KAATA" htt…
+620750291672002600,Tue Jul 14 00:22:57 +0000 2015,RT @NewHorizons2015: Happy Pluto Eve--flyby is tomorrow! WOW. #PlutoFlyby http://t.co/x2MoHBUBpJ
+620750066597269500,Tue Jul 14 00:22:03 +0000 2015,RT @gunnerpunner: When you live-tweet your Football Manager game  https://t.co/j5SNEMy1jv
+620749415939059700,Tue Jul 14 00:19:28 +0000 2015,RT @Spyder_Webb: #PlutoFact: 1/2 day! ONE HALF DAY! Until @NASANewHorizons #PlutoFlyBy! Just 12 hours! #Pluto #NewHorizons #FlyBy #KBO http…
+620641867810484200,Mon Jul 13 17:12:06 +0000 2015,RT @MarsCuriosity: You guys! July 14 is @NASANewHorizons' #PlutoFlyby—50 years to the day that #Mariner4 flew by my home, Mars. https://t.c…
+620641034041626600,Mon Jul 13 17:08:48 +0000 2015,RT @bennyrogers188: Can't wait for the #PlutoFlyBy tomorrow! Proud To be an Astronomy geek!
+620639769911910400,Mon Jul 13 17:03:46 +0000 2015,RT @FootyFansChants: The Benteke song! http://t.co/orP62r6dJD
+620635835004653600,Mon Jul 13 16:48:08 +0000 2015,RT @Coral: Oh behave, Raheem https://t.co/BYOsQuUdjL
+620635044793561100,Mon Jul 13 16:45:00 +0000 2015,RT @Danielfloyd1981: What do you think Raheem Sterling's best position will be next season? #AFC #GoonerFamily http://t.co/RWm69xfI4R
+620633223819718700,Mon Jul 13 16:37:46 +0000 2015,RT @HackIndia2015: #HackIndia2015 is a good place to start! Join us at Bangalore this weekend! http://t.co/fRCeYdemSD https://t.co/0yeFYBke…
+620633035973595100,Mon Jul 13 16:37:01 +0000 2015,RT @tomgunner14: Raheem Sterling = £49m  Arsenal invincible squad = £47m http://t.co/He3rgGtC32
+620386103082627100,Mon Jul 13 00:15:47 +0000 2015,RT @GoonerLDN: "Trust me, we will be back. Trust me. Save this interview.” Get's sold to @Fenerbahce for 5boxes of Turkish delights. http:/…
+620375849599004700,Sun Jul 12 23:35:03 +0000 2015,RT @physorg_com: Astronomer's ashes nearing icy world he discovered: Pluto http://t.co/dcI00Z8m8G
+620374909005377500,Sun Jul 12 23:31:18 +0000 2015,RT @coreyspowell: 2 days to #Pluto as of this minute. Best flyby images will be 300x as sharp! http://t.co/eFEZjx0oWs @NewHorizons2015 http…
+619969926770507800,Sat Jul 11 20:42:03 +0000 2015,RT @PetrCech: Starting new chapter at 33 years of age with 333 games in the premier league ... That's an easy choice 😄 http://t.co/UIIVuGIk…
+619661037164302300,Sat Jul 11 00:14:38 +0000 2015,RT @samdiamond9: @Persie_Official my son is gutted you're leaving 😭😂 #mufc #VanPersie #ManUtd http://t.co/bXexmQdbQt
+619272958595330000,Thu Jul 09 22:32:33 +0000 2015,RT @AFC_GLEN: 61000 seats   Imagine that on a Thursday night ?   🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵👦🏼👴🏿👷🏼👵🏻🔵🔵🔵🔵👵🏻🔵🔵🔵🔵👵🏻👦🏼👷🏼🔵👴🏿🔵🔵🔵🔵🔵👵🏻🔵👵🏻👴🏿🔵👦🏼🔵🔵👦🏼🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵👵🏻🔵🔵🔵👵🏻…
+619270739812708400,Thu Jul 09 22:23:44 +0000 2015,RT @MesutsVision: RVP 2012 "I look forward to spending many years working with Sir Alex Ferguson." http://t.co/DvmhJoOQfi
+619232638109290500,Thu Jul 09 19:52:20 +0000 2015,RT @piersmorgan: That little boy inside you definitely never screamed 'Fenerbahçe' did he, Robin...  @Persie_Official
+619123109560369200,Thu Jul 09 12:37:06 +0000 2015,RT @smeagol_11: Robin Van Persie and Cesc Fabregas enjoying their holiday together http://t.co/lKrk8cvy8H
+618941475296972800,Thu Jul 09 00:35:21 +0000 2015,RT @Podolski10: Thanks Gunners !!! #Poldi #Gunner #RedArmy #thanks #arsenal #LondonIsRed #oneofyou #whoisTottenham #LP9 http://t.co/Yl8fN8A…
+618680137094008800,Wed Jul 08 07:16:53 +0000 2015,RT @Squawka: COUNTDOWN: It is now one month until the start of the 2015/16 Premier League season and we cannot wait. http://t.co/4zC2fkelDg
+618464492427436000,Tue Jul 07 17:00:00 +0000 2015,RT @Arsenal: THANK YOU! #Arsenal6m http://t.co/Dcl7fMXKJo http://t.co/vCJmHaRkvX
+618206819698110500,Mon Jul 06 23:56:06 +0000 2015,RT @ffsArsenaI: When you get bored of keeping Di Maria in your pocket so you go score a goal as well http://t.co/fNihkqVmRx
+618206165579620400,Mon Jul 06 23:53:30 +0000 2015,RT @goldnewsuk: "I would do anything for this club. If Wenger asked me to petrol bomb White Heart lane I would" Wilshere #arsenal http://t.…
+618205895856513000,Mon Jul 06 23:52:25 +0000 2015,RT @Arsenal: There's only one @Alexis_Sanchez http://t.co/kafvXINvJR
+617843743312314400,Sun Jul 05 23:53:22 +0000 2015,RT @LeanderAlphabet: Carli Lloyd is the first man or woman to score a natural hat-trick (3 goals in a half) in a World Cup final. Or to do …
+617843599258988500,Sun Jul 05 23:52:47 +0000 2015,RT @Squawka: Take a bow, Carli Lloyd. First ever goal scored from the half-way line in World Cup Final history. http://t.co/quxef3bBKL
+617843424411029500,Sun Jul 05 23:52:06 +0000 2015,RT @SoccerrProblems: Why is this so funny 😂 #USAJPN http://t.co/mty9uikdej
+617673669867782100,Sun Jul 05 12:37:33 +0000 2015,RT @9jareigns: I remember when Wenger bought Koscielny and a lot of Arsenal fans were so angry because they wanted Chris Samba or Scott Dan…
+617654674359857200,Sun Jul 05 11:22:04 +0000 2015,RT @ArsenalsCannon: Arsenal fans supporting Chile. Man Utd fans supporting Argentina. Spurs fans waiting for a player to make it at an inte…
+617467790824312800,Sat Jul 04 22:59:27 +0000 2015,RT @Squawka: How to win the Copa America like a boss. Alexis Sanchez with the Panenka. http://t.co/2GLotgQzpY
+617467216556982300,Sat Jul 04 22:57:11 +0000 2015,RT @Guy_AFC6: Apart from Sanchez, Bravo and Vidal, the rest of Chile's team are nothing special. But they have so much pride in playing for…
+617445403722559500,Sat Jul 04 21:30:30 +0000 2015,RT @FunnyGooner: RVP will look back and wonder if one  title was worth destroying all his legacy. And goodluck getting in the Dutch team by…
+617440702750797800,Sat Jul 04 21:11:49 +0000 2015,RT @aaronramsey: Good luck @Podolski10 at your new club! Will be missed around the place, take it easy #brudda #aha
+617091803334881300,Fri Jul 03 22:05:25 +0000 2015,RT @Simply_Spurs: Tottenham fans to Paulinho. https://t.co/0jPgjYRGAc
+616608912381313000,Thu Jul 02 14:06:35 +0000 2015,RT @FitbitIN: A new fit is taking over India. #ANewFitIsComing http://t.co/iJebERN5gq
+616396023741612000,Thu Jul 02 00:00:38 +0000 2015,RT @Arsenal: “I believe I will win trophies at @Arsenal. It is as simple as that.” - @PetrCech http://t.co/13PkUDxLQ0 http://t.co/RgwM4ofGmM
+616229436891869200,Wed Jul 01 12:58:41 +0000 2015,RT @CarlBovis_AFC: In the last 2 years Arsenal have taken top players from Real Madrid, Barcelona, Man Utd &amp; Chelsea, as opposed to losing …
+611493590632521700,Thu Jun 18 11:20:07 +0000 2015,RT @GrandPrixDiary: Never say Nevers. https://t.co/QKB3bRFwyO
+611493328903733200,Thu Jun 18 11:19:05 +0000 2015,RT @DeludedBrendan: First 7 away fixtures.   v Stoke  v Arsenal  v Man United  v Everton  v Spurs  v Chelsea  v Man City   In my eyes thats…
+610433035045990400,Mon Jun 15 13:05:51 +0000 2015,RT @FunnyGooner: I stuck with you when u loaned Carl, when we lost to Birmingham and Bradford Arsene but this is too much. #WengerOut http:…
+609678259157008400,Sat Jun 13 11:06:38 +0000 2015,RT @TelegraphNews: Prince George watches on excitedly as Royal family arrive at Trooping the Colour parade http://t.co/YKQy4hzi2U http://t.…
+607637847990927400,Sun Jun 07 19:58:46 +0000 2015,RT @FootbaIIBattIes: If you watch the game, you don't see Özil, but if you watch Özil, you see the game. http://t.co/HL9Ld0LCKL
+607635965939564500,Sun Jun 07 19:51:18 +0000 2015,RT @Squawka: The scenes from Barcelona's victory parade today. Keep an eye out for Javier Mascherano sat at the front. http://t.co/qILr8d3i…
+607129973527179300,Sat Jun 06 10:20:40 +0000 2015,RT @Futbol_Bible: When you realise it's CL Final today. https://t.co/G3yGC3X2Y6
+606949628739645400,Fri Jun 05 22:24:02 +0000 2015,RT @GeoffArsenal: Wenger: "When the time comes for my retirement, I will buy a season ticket and be here in red and white every week."
+606157676624478200,Wed Jun 03 17:57:06 +0000 2015,RT @TheTXI: Quiz: Which one of these incidents resulted in action by the @FA? http://t.co/Aay57ckl9c
+606104750124232700,Wed Jun 03 14:26:47 +0000 2015,RT @gunnerblog: What if Jack Wilshere can prove at the @FA tribunal that Tottenham are indeed 'shit'? Shouldn't be too hard.
+605780459008585700,Tue Jun 02 16:58:10 +0000 2015,RT @GrandPrixDiary: Out of touch old man, mired in dodgy financial deals, quits as head of his sport. Damn. Not the one I was hoping for. h…
+605779748921315300,Tue Jun 02 16:55:21 +0000 2015,RT @Squawka: BREAKING: Sepp Blatter has stepped down as FIFA President after 16 years in charge. Victory for football! http://t.co/FhbzaXSJ…
+605779445073379300,Tue Jun 02 16:54:09 +0000 2015,RT @Marcotti: Blatter has resigned. Wow. Wow. Wow.
+605738044121976800,Tue Jun 02 14:09:38 +0000 2015,RT @MesutOzil1088: Always happy assisting. This time our two @Arsenal photographs @Stuart_PhotoAFC &amp; @priceyd101 😁 #youhavebeenassisted htt…
+605459060737966100,Mon Jun 01 19:41:03 +0000 2015,RT @Ladbrokes: Hamburg hadn't scored a direct free-kick all season... until the equaliser in the 90th min of their play-off 2nd leg http://…
+605075292474843100,Sun May 31 18:16:06 +0000 2015,RT @8Fact_Footballl: Arsene Wenger: “My most successful years are 2007-2013. Keeping stability while fighting with billionaires” http://t.c…
+605074819311272000,Sun May 31 18:14:13 +0000 2015,RT @henrywinter: Wenger on buying players: "I am not in a buying mood tonight. I will buy drinks for my players." #afc
+604997746567708700,Sun May 31 13:07:57 +0000 2015,RT @Arsenal: Incredible support! #WeAreArsenal http://t.co/a0sYdgKH2M
+604929894569484300,Sun May 31 08:38:20 +0000 2015,RT @FA: .@Arsenal #FACupFinal winners 1930, 1936, 1950, 1971, 1979, 1993, 1998, 2002, 2003, 2005, 2014, 2015 #record http://t.co/fLzohd81kR
+604929260034220000,Sun May 31 08:35:49 +0000 2015,RT @ThierryHenry: Congratulations to all my boys @Arsenal Fantastic performance. #2015FACupWinners #COYG
+604903288970952700,Sun May 31 06:52:37 +0000 2015,RT @aaronramsey: WHAT DID SHE WEAR? 🏆 http://t.co/YAWmIL6bom
+604903196100722700,Sun May 31 06:52:15 +0000 2015,RT @Alexis_Sanchez: ⚽️ So happy to lift my first FA Cup!! Come on Gunners!!!thanks 🇬🇧👍🏻 http://t.co/jM4dJpEIy2
+604898316866830300,Sun May 31 06:32:51 +0000 2015,RT @Nico_Yennaris: Congrats to everyone @Arsenal! FA cup winners 👏🏽🏆 #AFC #FACup
+604898295211647000,Sun May 31 06:32:46 +0000 2015,RT @krisolsson: Congratulations @Arsenal FA Cup winners 2015👏
+604898121546494000,Sun May 31 06:32:05 +0000 2015,RT @Podolski10: #theo #theo
+604898110309986300,Sun May 31 06:32:02 +0000 2015,RT @Podolski10: Yessssssss #bfg
+604898054236299300,Sun May 31 06:31:49 +0000 2015,RT @Podolski10: Come on #gunners http://t.co/PiIccwlLgI
+604897848925118500,Sun May 31 06:31:00 +0000 2015,RT @slovenianGooner: A very big praise to senor @_nachomonreal. What a marvelous player he turned into. One of best this season!
+604897696055369700,Sun May 31 06:30:23 +0000 2015,RT @CalumChambers95: What a win! Champions!!🏆 #WeAreArsenal http://t.co/8tq9UWgLsH
+604748451734159400,Sat May 30 20:37:21 +0000 2015,RT @Artekkers: With this FA Cup win, Arsenal will have won as many trophies in the last 2 years as Man City, Man United, Liverpool and Spur…
+604748030244356100,Sat May 30 20:35:40 +0000 2015,RT @wengerknowsbest: We are super exceptionally delighted. To win 12 FA Cups is absolutely outstanding. I must say, 13 next season has litt…
+604747347789148200,Sat May 30 20:32:58 +0000 2015,RT @Sagnaofficial: Looking at them just wanna make me celebrate something with my team as well..
+604746221639450600,Sat May 30 20:28:29 +0000 2015,RT @gunnerpunner: This is fun, but nothing is as much fun as winning your first trophy in 10 years from 2-0 down.
+604744697773318100,Sat May 30 20:22:26 +0000 2015,RT @AllAboutTheAFC: Haha! I love this from Coquelin and Giroud! xD https://t.co/3ybumn0HJs #AFC #FACup
+604744271879503900,Sat May 30 20:20:44 +0000 2015,RT @Arsenal: CHAMPIONES! #WeAreArsenal http://t.co/zH2KKreCoC
+604723878435225600,Sat May 30 18:59:42 +0000 2015,RT @gunnerblog: FA Cup Winners 2015: Arsenal. http://t.co/e9iPGfhmpH
+604723667902144500,Sat May 30 18:58:52 +0000 2015,RT @ArsenalHindi: Wenger ke ghar me daer hai. Andher nahi. http://t.co/g5pw6FSVCE
+604723437253337100,Sat May 30 18:57:57 +0000 2015,RT @8Fact_Footballl: Arsenal are the first team to score at least 3 goals in consecutive FA Cup finals since Blackburn in 1890 &amp; 1891. http…
+604722983412711400,Sat May 30 18:56:09 +0000 2015,RT @MickTheGooner: Arsenal FA Cup Winners 2015! http://t.co/y5o1pbHEUM
+604722882623602700,Sat May 30 18:55:45 +0000 2015,RT @Artekkers: - @HectorBellerin last season vs this season http://t.co/gdysTPFME5
+604722645389606900,Sat May 30 18:54:48 +0000 2015,RT @UberAFC: ALEXIS DEBUT ARSENAL SEASON:  APPS: 52 GOALS: 25 ASSISTS: 13 TROPHIES: 2  WORLD CLASS! http://t.co/G8palAYiEH
+604722118207545300,Sat May 30 18:52:42 +0000 2015,RT @TheGunnersWay: http://t.co/njZ3kDSUoV
+604551874016968700,Sat May 30 07:36:13 +0000 2015,RT @alabasterretard: I just want another moment like this 😌 http://t.co/Uzr5OdewMo
+604551089627594800,Sat May 30 07:33:06 +0000 2015,RT @MickTheGooner: ♬ Que sera sera! What ever will be will be! We`re going to Wemberly! Que sera sera! ♬ #WeAreArsenal #SheWore 💛💙💛 http://…
+604551016437055500,Sat May 30 07:32:48 +0000 2015,RT @UberAFC: There is estimated to be up to 500 million people worldwide watching the FA Cup Final 2015 tomorrow. http://t.co/CTyv1W3fEP
+604550788350812200,Sat May 30 07:31:54 +0000 2015,RT @OlivierKGooner: When you're celebrating winning the FA cup but there's a Twitter poll http://t.co/0TgmDKJRoI
+604550639851442200,Sat May 30 07:31:19 +0000 2015,RT @mertesacker: Wembley calling !!! Let's make it our game gooners .... #COYG #FACupFinal @Arsenal http://t.co/ahLmV336ei
+604147160431505400,Fri May 29 04:48:02 +0000 2015,RT @LiamWade10: Groundsman at Liverpool now planting potatoes and carrots, so they have something to lift at the end of next season http://…
+603959136770859000,Thu May 28 16:20:53 +0000 2015,RT @MesutOzil1088: Only two days left!!! It's getting exciting ... 🔥🔥🔥😊 #YaGunnersYa #Wembley #FACupFinal #WeAreReady http://t.co/CPuW1pVKSd
+603415023466098700,Wed May 27 04:18:47 +0000 2015,RT @rfatone1: WEMBLEY, WEMBLEY!!! http://t.co/UKQoeu3gXB
+603414968029941800,Wed May 27 04:18:33 +0000 2015,RT @goonergang: On this day in 89' Chelsea were celebrating promotion. And Arsenal were celebrating winning the League at Anfield. http://t…
+603109469040431100,Tue May 26 08:04:37 +0000 2015,RT @arsenalpostcard: 4 DAYS TO GO! #WeAreArsenal #FACupFinal #COYG @Arsenal http://t.co/49jzrA5lcn
+603021125275156500,Tue May 26 02:13:34 +0000 2015,RT @gunnerpunner: Arsenal players have seemingly been promised Amazon vouchers if they successfully refer a friend this summer http://t.co/…
+603020911982321700,Tue May 26 02:12:43 +0000 2015,RT @DeludedBrendan: Hi @realmadrid  Where do I send my CV?  Brendan.
+602723582926426100,Mon May 25 06:31:14 +0000 2015,RT @fkhanage: When you see Liverpool &amp; Tottenham struggle after selling their best players, you realise just how good a job Wenger did, yea…
+602723335999397900,Mon May 25 06:30:16 +0000 2015,RT @DeludedBrendan: Ignoring the first half then we drew that game 1-1.  That's a fantastic result away against Stoke.
+602723183016325100,Mon May 25 06:29:39 +0000 2015,RT @DeludedBrendan: When you consider it could be 6 or 7 nil I'd say 5-0 isn't that bad.   Stoke is a tough place to come.
+602722216355082200,Mon May 25 06:25:49 +0000 2015,RT @Classorla: Wilshere wins BBC goal of the year for the 2nd consecutive year. Here's his incredible strike yesterday: #afc https://t.co/4…
+602510552804364300,Sun May 24 16:24:44 +0000 2015,RT @GurjitAFC: Wenger’s reaction to Ramsey's shot. http://t.co/KWEQxkneZm #Arsenal
+600042452158931000,Sun May 17 20:57:23 +0000 2015,RT @PhantomGoal: Feel sorry for Neymar. He can try to celebrate tonight, but he'll know deep down that relegated QPR captain Joey Barton th…
+599845674847445000,Sun May 17 07:55:28 +0000 2015,RT @Arsenal: Also today… In 2003 @piresrobert7’s goal helped @Arsenal retain the FA Cup against Southampton http://t.co/J6Wzccriar http://t…
+599845641104334800,Sun May 17 07:55:20 +0000 2015,RT @Arsenal: On this day last year... @Arsenal completed a historic comeback to win the FA Cup! Pictures: http://t.co/UbnkihhQHS http://t.c…
+597827798993084400,Mon May 11 18:17:09 +0000 2015,RT @premierleague: TEAM NEWS Arsenal unchanged for 5th straight #BPL match for 1st time since 1994; Ki Sung-yueng replaces Nelson Oliveira …
+597802867500720100,Mon May 11 16:38:04 +0000 2015,RT @freebets: This is how the #PremierLeague table would look, if the season started on January 1st 2015: http://t.co/BEr09nWPsm
+595313916424642600,Mon May 04 19:47:52 +0000 2015,RT @Arsenal: .@Alexis_Sanchez gives @Arsenal the lead with his 15th @premierleague goal of the season #HCFCvAFC http://t.co/wZOwSZQfws
+594292140664082400,Sat May 02 00:07:42 +0000 2015,RT @IPL: ZAK is BACK #DDvsKXIP #IPL @DelhiDaredevils http://t.co/3q16Hp9Alh
+593535248228425700,Wed Apr 29 22:00:05 +0000 2015,RT @Squawka: Juventus' home form in Serie A this season:   WWWWWWDDWWWWWWWWW http://t.co/B12eXwaeIp
+593533515137843200,Wed Apr 29 21:53:11 +0000 2015,RT @chrisgraham79: Chelsea's first win by more than one goal in the league since January.  102 days.
+593533484259352600,Wed Apr 29 21:53:04 +0000 2015,RT @ChampsAFC: "Boring Boring Chelsea" they even send their own fans to sleep. 😂 http://t.co/0JEScsr1iX
+593533269741731800,Wed Apr 29 21:52:13 +0000 2015,RT @Squawka: Juventus are now unbeaten in 45 successive home matches in Serie A:   Won: 41 Drawn: 4 Scored: 104 Conceded: 21 http://t.co/lR…
+593533234878685200,Wed Apr 29 21:52:05 +0000 2015,RT @wengerknowsbest: Did Chelsea win 3-1 at Leicester tonight? Yes. Was it exciting? Not especially.
+593530363667828700,Wed Apr 29 21:40:40 +0000 2015,RT @tomgunner14: Dear Chelsea fans, Stop making too much noise. The title you are about to win is only your 5th. Something #Arsenal did 77 …
+593449955299348500,Wed Apr 29 16:21:09 +0000 2015,RT @br_uk: Damn alphabet.  For the first time in 100 years Arsenal will not start the season top of the league #AFC http://t.co/PmolYzWZ8e
+592375336702189600,Sun Apr 26 17:11:00 +0000 2015,RT @UberAFC: The Chelsea fans are terrible, but at least they've got banter. http://t.co/M09TSYcKwB
+592375188748107800,Sun Apr 26 17:10:25 +0000 2015,RT @samwhittingtxn: Imagine celebrating a draw like you've just won the World Cup https://t.co/D2OiY5EfQq
+592373173972312000,Sun Apr 26 17:02:25 +0000 2015,RT @Parmpal_: Live pictures of Cesc Fabregas In Coquelin's pocket http://t.co/EZaBmoBsKN
+592373116384477200,Sun Apr 26 17:02:11 +0000 2015,RT @FeoWalcutt: Sanchez with Hazard and Oscar http://t.co/kFfkGgySJe
+592372518612312000,Sun Apr 26 16:59:48 +0000 2015,RT @slovenianGooner: Disgusting club but a great display by Chelsea. Deserved Champions? Yes. But the worst style of play you could win it …
+592372169520320500,Sun Apr 26 16:58:25 +0000 2015,RT @AFCMozart: Chelsea are everything thats wrong with modern day Football. I'm not even being bitter, i just hate what they've done to the…
+592201253440086000,Sun Apr 26 05:39:16 +0000 2015,RT @wengerknowsbest: "...Hello?" "....I sink I wake you up." "...Mourinho? It's the middle of the night!" "Champions do not sleep." "Well I…
+592201181419692000,Sun Apr 26 05:38:58 +0000 2015,RT @wengerknowsbest: I can tell you, I have no regrets about not signing Eden Hazard. Alexis Sanchez is far better looking.
+592201152831365100,Sun Apr 26 05:38:52 +0000 2015,RT @wengerknowsbest: Will Fabregas get a warm reception? Yes, very warm, hot. How hot? Maybe little bit volcanic eruption molten lava hot.
+592200721015115800,Sun Apr 26 05:37:09 +0000 2015,RT @samuelJayC: http://t.co/Eqzmh2Zfvo
+592200355263438800,Sun Apr 26 05:35:41 +0000 2015,RT @salokya: Need rescue equipment here. Multi story house collapsed. Many feared trapped #nepalquake http://t.co/YLld9KxAXe http://t.co/Jd…
+592200309168025600,Sun Apr 26 05:35:30 +0000 2015,RT @ndtv: Nepal earthquake: 'We will evacuate India's U-14 girls football team on priority,' tweets Foreign Minister Sushma Swaraj
+592199850319605800,Sun Apr 26 05:33:41 +0000 2015,RT @ndtv: India's under-14 girls football team stuck in Nepal due to earthquake http://t.co/nX5WQNEJHX http://t.co/uYxaTv1vaN
+587078503977345000,Sun Apr 12 02:23:17 +0000 2015,RT @premierleague: This is the first time @Arsenal have won EIGHT successive #BPL matches since March 2004 http://t.co/7j7cBITCTX
+585743047683608600,Wed Apr 08 09:56:39 +0000 2015,RT @arsenalfantv: London's trophy cabinets! #LondonIsRed http://t.co/4kA9oSP1Vh
+585743005103091700,Wed Apr 08 09:56:29 +0000 2015,RT @F1: #Vettel’s recovery from a lap-one spin in Brazil in 2012 is a surefire #65YearsOfF1 moment: https://t.co/FhGU2PPQyp http://t.co/Y6P…
+579509893129961500,Sun Mar 22 05:08:19 +0000 2015,RT @OneBobbyPires: Gabriel's only wearing gloves to make sure he doesn't leave fingerprints.
+579024005451149300,Fri Mar 20 20:57:35 +0000 2015,RT @Santi_Classorla: Eduardo's first goal for Arsenal against Sheffield. Miss you Dudu #AFC https://t.co/eTnKobJ8vh
+577902069648085000,Tue Mar 17 18:39:24 +0000 2015,RT @CornellBRSN: Home to @CornellMSoccer &amp; @CornellWSoccer Berman Field is a less popular @CornellSports venues, Read more on Berman http:/…
+574269560695713800,Sat Mar 07 18:05:07 +0000 2015,RT @Futbol_Bible: CLASS: Petr Cech after the final whistle of the League Cup final.👏 http://t.co/l1YDms5SC1
+572458903058964500,Mon Mar 02 18:10:12 +0000 2015,RT @AFCBanta: Adam Johnson walking into the Year 8 School Disco Like:  https://t.co/aPTjqyvQjB
+572458529598128100,Mon Mar 02 18:08:43 +0000 2015,RT @SkySportsNewsHQ: BREAKING: Sunderland suspend Adam Johnson pending outcome of a police investigation #SSNHQ
+572458478431817700,Mon Mar 02 18:08:31 +0000 2015,RT @danroan: Sunderland have announced midfielder Adam Johnson has been suspended by the club pending the outcome of a police investigation.
+570658949906751500,Wed Feb 25 18:57:50 +0000 2015,RT @UberAFC: Monaco fans arrive early to The Emirates and remind themselves of the 19 year old Henry at Monaco! #AFCvMFC http://t.co/rDGLh2…
+569426595871649800,Sun Feb 22 09:20:54 +0000 2015,RT @GrandPrixDiary: Happy Birthday to @MercedesAMGF1 chief, triple F1 champion and all round legend, Niki Lauda. http://t.co/vVjAixQSk0
+569426415466225660,Sun Feb 22 09:20:11 +0000 2015,RT @F1: A few early moments on the final day at Barcelona - first Rosberg spun at T5, then Kvyat stopped in the pit lane #F1 http://t.co/YZ…
+569425567415717900,Sun Feb 22 09:16:49 +0000 2015,RT @ForceIndiaF1: Car #27 leaves the pits as we return to track. Nico out to set his first times laps of the day. #FeelTheForce http://t.co…
+569424611613528060,Sun Feb 22 09:13:01 +0000 2015,RT @MickTheGooner: Arsenal's defence made 81 clearances against Crystal Palace - that's more than any other team in a single Premier League…
+564839307375308800,Mon Feb 09 17:32:39 +0000 2015,RT @ibnlive: #MissionDelhi I Here's what yesterday's exit polls had to say about the possible outcome of the Delhi elections http://t.co/XD…
+564211840620961800,Sat Feb 07 23:59:20 +0000 2015,RT @Coral: Nigel Pearson, manager/wrestler https://t.co/VdARaJJ7VU
+563804255338111000,Fri Feb 06 20:59:44 +0000 2015,RT @Microsoft: Watch it again: the #empowering story of Braylon O'Neill. https://t.co/yWd0iW3GdJ
+561910013170831360,Sun Feb 01 15:32:41 +0000 2015,RT @Fresh_Arsenal: Mesut Ozil's game by numbers: 87% pass success, 7 take ons, 2 chances created, 1 assist, 1 goal #AFCLive http://t.co/YZ1…
+561786898562416640,Sun Feb 01 07:23:28 +0000 2015,RT @Sports_NDTV: Leander Paes-Martina Hingis win 6-4, 6-3 to clinch #AusOpen mixed doubles title http://t.co/lsFFInqzfi http://t.co/kKZiy7D…
+559951986611605500,Tue Jan 27 05:52:11 +0000 2015,RT @ndtv: Maharashtra government announces state funeral for eminent cartoonist RK Laxman http://t.co/KppuYegwH0 http://t.co/MKvIy5roUz
+559951725482606600,Tue Jan 27 05:51:09 +0000 2015,RT @ESPNcricinfo: Happy birthday to two outstanding left-arm bowlers: Vaas and Vettori  Combined international wickets: 1450 http://t.co/zk…
+559951279355478000,Tue Jan 27 05:49:23 +0000 2015,RT @samuelJayC: Arsenal don't play a game outside of London until March 17 (Monaco away). #AFC
+559033072302428160,Sat Jan 24 17:00:45 +0000 2015,"@officialbantams: Chelsea fans around us outstandingly gracious in defeat, great to see from them #bcafc" Those aren't Chelsea fans.
+557700190212481000,Wed Jan 21 00:44:21 +0000 2015,RT @TheGunnersWay: This is dirty ended mans career, Santi destroyed him ffs. #tekkers  Vine by @WorldCIass    https://t.co/FtuYlfPWGk
+557130689120702460,Mon Jan 19 11:01:21 +0000 2015,RT @NOT_MOTD: Santi Cazorla yesterday. http://t.co/MaFZ3tEFak
+557130429040316400,Mon Jan 19 11:00:19 +0000 2015,RT @Rickyinho_: It's the remix to Ignition Koscielny edition Runnin' out of space in my pockets These strikers are no competition http://t.…
+556921801918251000,Sun Jan 18 21:11:19 +0000 2015,RT @ArsenalHindi: PHOOLON KA TAARON KA SABKA KEHNA HAI, EK HAZAARON MEIN DAVID OSPINA HAI
+556921789880606700,Sun Jan 18 21:11:16 +0000 2015,RT @ArsenalHindi: PHATA POSTER NIKLA JIROOOOOOOOOOOOOOOOOOOOOOOOOOO
+556921667490816000,Sun Jan 18 21:10:47 +0000 2015,RT @ArsenalHindi: "Koscielny Koscielny?" "Jee Bapu?" "Sergio Aguero hai jaib mein?" "Naa Bapu" "Jhooth bolta hai?" "Naa Bapu"  "Jaib dikhao…
+556920480066568200,Sun Jan 18 21:06:04 +0000 2015,RT @ArsenalsRelated: Santi Cazorla celebrating Olivier Giroud's goal. Hahaha. #Arsenal https://t.co/JUmKPOqPJ3
+556920205973020700,Sun Jan 18 21:04:58 +0000 2015,RT @ArsenalsRelated: Ospina should start every game just for his chant.
+556799766651080700,Sun Jan 18 13:06:23 +0000 2015,RT @TheNaique: .@ABdeVilliers17 what are you?
+555466728709169150,Wed Jan 14 20:49:22 +0000 2015,RT @GeniusFootball: Another one 😂😂😂 https://t.co/v5gysVOlgz
+555306132353191940,Wed Jan 14 10:11:13 +0000 2015,RT @NOT_MOTD: Never forget. http://t.co/cC50PmwsO4
+552677157416095740,Wed Jan 07 04:04:37 +0000 2015,RT @wengerknowsbest: Podolski's move to Inter has freed up little bit space in the squad. His 18-strong social media back room staff has go…
+552525763753553900,Tue Jan 06 18:03:02 +0000 2015,RT @wengerknowsbest: I believe Man City have signed FFP for an undisclosed fee on a long-term contract.
+552088883156885500,Mon Jan 05 13:07:01 +0000 2015,RT @MesutOzil1088: The title holder has done its duty: next round! 😊👍👏⚽⚽ #FACup #AFCvHCFC
+552088754798600200,Mon Jan 05 13:06:31 +0000 2015,RT @hmafc: Never seen a player consistently put opposition players in hospitals as consistently as Coquelin 2014/15 http://t.co/Ppdfa7Vlz6
+551764739643027460,Sun Jan 04 15:38:59 +0000 2015,RT @Podolski10: Keeping an eye on the FA Cup today, hoping to see an Arsenal victory! #AFC #FACup good luck...
+551453702905544700,Sat Jan 03 19:03:02 +0000 2015,RT @wengerknowsbest: Does Podolski's move to Inter mean a striker signing is little bit imminent at this club? I don't know. I don't Cavani…
+551453678377254900,Sat Jan 03 19:02:57 +0000 2015,RT @wengerknowsbest: Podolski to Inter? Look, I told you, it is a joke and not serious. You don't listen. He's arrived in Milan? Sorry, can…
+551453644466319360,Sat Jan 03 19:02:49 +0000 2015,RT @wengerknowsbest: Well yes, we are super disappointed to lose at Southampton. Especially as we had started the year unbeaten for several…
+551445460741664800,Sat Jan 03 18:30:17 +0000 2015,RT @MassaFelipe19: Happy birthday my brother 🎂 be strong!! Love you 🙏 http://t.co/XDvCQ8R3mZ
+551445357058478100,Sat Jan 03 18:29:53 +0000 2015,RT @Dany_Kvyat: Happy birthday Michael ! #KeepFightingMichael
+551445251211010050,Sat Jan 03 18:29:27 +0000 2015,RT @MessiMinutes: Crazy stat:   The 1st week of the 2014 World Cup was watched by 87.6m globally.  The 1st week of the @IndSuperLeague was …
+551406149354782700,Sat Jan 03 15:54:05 +0000 2015,RT @ESPNFC: Shock Alert. Seventh-tier Blyth Spartans have a 2-0 lead over Championship side Birmingam City. As you were, then.
+551390386514436100,Sat Jan 03 14:51:27 +0000 2015,RT @Podolski10: I can't express in words my gratitude towards Arsenal fans for all they have done for me in my years… http://t.co/HKEtadIayS
+551105444840615940,Fri Jan 02 19:59:11 +0000 2015,RT @OsmanZtheGooner: You don't joke with Tottenham on a Thursday. They have experience to play on that day.
+551003798999531500,Fri Jan 02 13:15:17 +0000 2015,RT @FIFAfootbaII: Thierry Henry on Gerrard.... http://t.co/ssKYu3qq4b
+551003648503726100,Fri Jan 02 13:14:41 +0000 2015,RT @samwhittingtxn: As Gerrard announces he will leave Liverpool, here's a great photo of the Premier League's greatest ever midfielder htt…
+550728173998968800,Thu Jan 01 19:00:03 +0000 2015,RT @FunnyGooner: Fabregas has now 14 assists but don't worry, rats hibernate in winter.
+550707214868951040,Thu Jan 01 17:36:46 +0000 2015,RT @GeniusFootball: Forever Blue: Lots of Man City fans dressed as sky blue seats for today's New Years game. http://t.co/ZvUxUvQI0A
+550706695228239900,Thu Jan 01 17:34:42 +0000 2015,RT @FeoWalcutt: "ARE YOU MORE COMMITTED THAN ME?" http://t.co/bJ1emdxZZG
+550706611434434560,Thu Jan 01 17:34:22 +0000 2015,RT @Arsenal: Wenger: "I am disappointed because it was a self-inflicted defeat. We made the mistakes at the back and we were punished" #SFC…
+550706509185699840,Thu Jan 01 17:33:58 +0000 2015,RT @adrianjclarke: Big chance for Ospina in the FA Cup on Sunday. If he plays well, he should probably stay in the team.
+550427873698263040,Wed Dec 31 23:06:46 +0000 2014,RT @RehanArsenal: Happy New Year: http://t.co/wNfPABJ9O7
+550427855213953000,Wed Dec 31 23:06:41 +0000 2014,RT @priceyd101: Good bye 2014. Easy to pick my favourite weekend of the year. #facup http://t.co/7BPR8hbE7j
+550416942717083650,Wed Dec 31 22:23:20 +0000 2014,RT @arsenal_tickets: Best moment of 2014 is Wenger intentionally drawing 3-3 against Anderlecht so that we got Monaco in the draw. #Genius
+550414765508423700,Wed Dec 31 22:14:40 +0000 2014,RT @EssaBastaki: #bestmemoriesof2014 http://t.co/SkpGBFWVvQ
+550218703699071000,Wed Dec 31 09:15:36 +0000 2014,RT @SkySportsNewsHQ: POLL: Aaron Ramsey's strike against Galatasaray has 39% of the vote for Goal of the Year. Keep voting using the follow…
+550207553284497400,Wed Dec 31 08:31:17 +0000 2014,RT @Squawka: No Premier League player completed more passes in the final third during 2014 than Santi Cazorla (802). http://t.co/pGyrF66OPY
+549277310013034500,Sun Dec 28 18:54:50 +0000 2014,RT @premierleague: .@Arsenal are the only top 6 team to win in the #BPL today http://t.co/fQQ0teHzJ3
+549277184888537100,Sun Dec 28 18:54:20 +0000 2014,RT @GoonerStat: How many point are going to North London tonight lads? http://t.co/Wep7pY1WXx
+549262468556419100,Sun Dec 28 17:55:51 +0000 2014,RT @Squawka: Chelsea have now picked up 4 yellow cards for diving in the Premier League this season, more than any other side. http://t.co/…
+548721543610507260,Sat Dec 27 06:06:25 +0000 2014,RT @premierleague: Arsenal 2-1 QPR. Arsene Wenger became the 2nd manager to reach 400 #BPL wins http://t.co/GULogJ1d5d
+548721523435913200,Sat Dec 27 06:06:20 +0000 2014,RT @GeniusFootball: Happiness is playing football under the snow http://t.co/A9yWQkxpGX
+548573444724387840,Fri Dec 26 20:17:55 +0000 2014,RT @tomgunner14: Alexis Sanchez's 10th Premier League goal, the second fastest player to reach double figures in Arsenal's history.
+548573414810587140,Fri Dec 26 20:17:48 +0000 2014,RT @tomgunner14: Eduardo Vargas (Alexis's Chile team mate) points the way to help Rob Green save Sanchez penalty. http://t.co/4x5vRc4whp
+548572999700344800,Fri Dec 26 20:16:09 +0000 2014,RT @Arsenal: Wenger: "Giroud deserved the red card. He knows he made a mistake and I know him well enough to think he will not do it again"…
+548572691267993600,Fri Dec 26 20:14:56 +0000 2014,RT @RehanArsenal: Loool https://t.co/GtucPc2MJ5
+545507525236650000,Thu Dec 18 09:15:03 +0000 2014,RT @OfficialVieira: Henry is exactly what young players should aspire to. Talent, but more than that, work ethic, commitment. This is the r…
+545507497688461300,Thu Dec 18 09:14:57 +0000 2014,RT @OfficialVieira: What a pleasure to play with you, what a great career to look back on. You really are one of the best @ThierryHenry htt…
+545020002810994700,Wed Dec 17 00:57:49 +0000 2014,RT @GaryLineker: Following Ronaldo's blank, Messi has now failed to score despite Barca banging in 8....In his defence he wasn't playing.
+544820696728502300,Tue Dec 16 11:45:51 +0000 2014,RT @Sarahmalik459: Take a moment to pray for them and Pakistan.  #PeshawarAttack http://t.co/jzIc7kiRa0
+544805479898435600,Tue Dec 16 10:45:23 +0000 2014,RT @piersmorgan: Thank you @ThierryHenry for all the goals &amp; trophies - and the sheer, majestic glory of the way you played football. What …
+543848265561940000,Sat Dec 13 19:21:45 +0000 2014,RT @premierleague: FULL-TIME Arsenal 4-1 Newcastle. Giroud and Cazorla each score twice as Arsenal return to form in the #BPL #ARSNEW http:…
+542477804378804200,Wed Dec 10 00:36:01 +0000 2014,RT @GaryLineker: On a night when one PL side has gone out, with probably another to follow tomorrow, it's worth noting Wenger's great CL qu…
+542446239598407700,Tue Dec 09 22:30:36 +0000 2014,RT @MickTheGooner: Love Szczesny's reaction to Ramsey's special goal! #Arsenal https://t.co/VbzYOgqqsg
+541471764241743900,Sun Dec 07 05:58:23 +0000 2014,RT @scg: TRULY BEAUTIFUL. Prayer service for #PhillipHughes underway on the @SCG held by @SwamyArmy. http://t.co/azMLJWPQc6 #408 #63notoutf…
+541471572943728640,Sun Dec 07 05:57:37 +0000 2014,RT @rogerfederer: Just landed in Delhi. Look who I found on the plane #PistolPete http://t.co/dWFwvVncNQ
+540261203852148740,Wed Dec 03 21:48:03 +0000 2014,RT @FunnyGooner: Credit to Ramsey. Didn't waste his time appealing for a handball (knew ref wouldn't give it) beat his man, and provided a …
+500716497497767940,Sat Aug 16 18:51:30 +0000 2014,RT @readsupport: Congrats to #AFC fans for winning the roller-coaster Twitter battle v #CPFC. Check out this graphic of Twitter fans! http:…
+498526042428940300,Sun Aug 10 17:47:25 +0000 2014,RT @readsupport: .@aaronramsey had no less than 50,000 supporters on Twitter during the #AFC v #MCFC, comfortably beating Yaya Toure (18,72…
+498492401812766700,Sun Aug 10 15:33:44 +0000 2014,RT @readsupport: Closing stages of the Twitter battle between @Arsenal and @MCFC - vote for your team NOW! http://t.co/CwyBnHepke
+498338536177676300,Sun Aug 10 05:22:20 +0000 2014,RT @readsupport: #AFC vs #MCFC - the season opener at Wembley is hours away! Who are you rooting for? Live Twitter Battle &gt; http://t.co/Cwy…
+477848657857749000,Sat Jun 14 16:22:52 +0000 2014,I'm supporting Guarín in the #COLvsGRE Twitter Player Battle - who are you rooting for? #WorldCup http://t.co/ykUPCzxsnV
+477848657857749000,Sat Jun 14 16:22:52 +0000 2014,I'm supporting Guarín in the #COLvsGRE Twitter Player Battle - who are you rooting for? #WorldCup http://t.co/ykUPCzxsnV

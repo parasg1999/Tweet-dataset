@@ -1,0 +1,679 @@
+id,created_at,text
+1260704467206299600,Wed May 13 22:52:22 +0000 2020,Looking for rockstar Deno developers with 3 - 5 years experience 😆 https://t.co/CaFMctwz3I
+1260694405977014300,Wed May 13 22:12:23 +0000 2020,RT @swyx: ✍️IE11 Mainstream End Of Life in Oct 2020  Making the case for why web developers can drop *free support* for IE 11 by 13 Oct, 20…
+1260359753374417000,Wed May 13 00:02:36 +0000 2020,Slack is down during COVID-19, panic! haha https://t.co/tIkbuL67lE
+1260339700801273900,Tue May 12 22:42:55 +0000 2020,@MarkFunk Maybe not very "production-ready", but I really liked the idea of jsonbox, free HTTP based JSON storage: https://t.co/t7CXOQahsp
+1260069486226337800,Tue May 12 04:49:11 +0000 2020,RT @vercel: Next.js 9.4:  ◆ React Fast Refresh ◆ Incremental Static Regeneration (beta) ◆ New Environment Variables Support ◆ Built-in Fetc…
+1259604067820515300,Sun May 10 21:59:46 +0000 2020,@rbzhu Using web sockets, https://t.co/RMaMT8nvvx does this. They only allow one tab open.
+1259257757783347200,Sat May 09 23:03:39 +0000 2020,I thought I was the only person that did this 😂 https://t.co/lRtQk4WRG5
+1258760408321495000,Fri May 08 14:07:22 +0000 2020,RT @markdalgleish: Our layout components are so good that we're legit forgetting how to write CSS. This could be a problem.
+1257677088514953200,Tue May 05 14:22:39 +0000 2020,@pgotthardt @tailwindcss @bonsaistudio Nice! And for the CSS-in-JS haters: &lt;button class={tw`font-bold text-white`}&gt; It's just a class! 😄
+1257436263155675100,Mon May 04 22:25:41 +0000 2020,A brand new 16" MacBook Pro just arrived in post! It's like Christmas 😍
+1255851211997065200,Thu Apr 30 13:27:16 +0000 2020,RT @mikaelainalem: Safari fixed their outline on focus 👏. It looks far better than other browsers. Another way to fix a11y, other than rais…
+1255107816919937000,Tue Apr 28 12:13:16 +0000 2020,@kageman You can possibly speak to the registrar and, possibly, if you have proof that someone "stole" the domain,… https://t.co/RY4XRvKrNM
+1254389165052944400,Sun Apr 26 12:37:37 +0000 2020,RT @matthewrdev: The #covidsafe app is now available in Australia 😷  However, it's a shame that they have decided not to release the source…
+1254384030574731300,Sun Apr 26 12:17:12 +0000 2020,RT @AllThingsSmitty: 🔥 TIL a #CSS trick to handle that annoying mobile viewport bug with `100vh` in WebKit (iOS Safari)! #WebDev #ProTip ht…
+1253167545139425300,Thu Apr 23 03:43:20 +0000 2020,@flpwgr I thought you'd be using a stream of $wine #rxjs 😄
+1252366902686408700,Mon Apr 20 22:41:52 +0000 2020,@wesbos @syntaxfm Immutable Records and Tuples: #{ a: 1 } === #{ a: 1 }  https://t.co/ldtAcFv26q
+1251399882025300000,Sat Apr 18 06:39:16 +0000 2020,RT @_developit: Please don't open issues on JS repos asking why they aren't written in TypeScript :(
+1251362572000878600,Sat Apr 18 04:11:01 +0000 2020,@Daniel15 @sebmarkbage @codesandbox Create React App too
+1250591678609551400,Thu Apr 16 01:07:45 +0000 2020,@sebmck GitHub Actions? Listen to CheckRunEvent and merge if checkrun.conclusion is successful, it can probably cle… https://t.co/E6gVKN5mVx
+1250405491307458600,Wed Apr 15 12:47:55 +0000 2020,@drbreak Web UI dev is difficult, the web doesn't have a set of ready to use components out of the box, with built-… https://t.co/GKR992M90i
+1250216982521114600,Wed Apr 15 00:18:51 +0000 2020,RT @natfriedman: Today we're making GitHub free for teams of unlimited size, for private and public work. 🎉  Every developer on earth shoul…
+1248947757936603100,Sat Apr 11 12:15:24 +0000 2020,😂😂😂 https://t.co/vqlstO2g0J
+1248926144017006600,Sat Apr 11 10:49:31 +0000 2020,@thekitze @timneutkens @GHengeveld @thepanta82 Did you know you can contribute to Next.js too???
+1248799202982805500,Sat Apr 11 02:25:06 +0000 2020,🤯 https://t.co/OZMnnBZgCL
+1248787736720359400,Sat Apr 11 01:39:32 +0000 2020,@ryanflorence @ReactTraining I'm sure @kentcdodds has that many users for his OSS projects. I'm just trying to make… https://t.co/pulI5zx6Ub
+1248781466072305700,Sat Apr 11 01:14:37 +0000 2020,@ryanflorence But if React Router wasn't open source, @ReactTraining may never have existed, right?
+1248780482394738700,Sat Apr 11 01:10:42 +0000 2020,@TiagoRBF I'm sure @Google haha
+1248746675931242500,Fri Apr 10 22:56:22 +0000 2020,@rauchg Thanks for the weekend project idea!
+1248743453824913400,Fri Apr 10 22:43:34 +0000 2020,@TiagoRBF https://t.co/5t0Ju1XRL1
+1248547527990730800,Fri Apr 10 09:45:02 +0000 2020,I keep reading what "JAM Stack" is and I come to the conclusion I've been JAMming for years! 😄
+1248424168661454800,Fri Apr 10 01:34:51 +0000 2020,@jaffathecake @mathias Should it be `Promise.fulfill(123)` then? And: `new Promise((fulfill, reject) =&gt; fulfill(123))` 😄
+1248131270099390500,Thu Apr 09 06:10:58 +0000 2020,Serverless https://t.co/d3oIafkFut
+1246380695116599300,Sat Apr 04 10:14:49 +0000 2020,One cool thing with `await` is it will work on any thenable (has `.then` function), eg: const thenable = await { th… https://t.co/aXBUeJLoEN
+1246370626266263600,Sat Apr 04 09:34:48 +0000 2020,await null; await undefined; await 'WTF???';
+1246369842132729900,Sat Apr 04 09:31:41 +0000 2020,Why does `await` not throw when a function isn't async/return a promise? Been trying to fix a bug for half an hour,… https://t.co/M2NDeumKHN
+1246212118371659800,Fri Apr 03 23:04:57 +0000 2020,RT @dynamodb: Whether you are using a SQL or NoSQL database, you should use scans sparingly because they can consume large amounts of syste…
+1245658492515405800,Thu Apr 02 10:25:02 +0000 2020,@benni_dsbrg @swyx Yup 😢 haha
+1245536829782147000,Thu Apr 02 02:21:35 +0000 2020,@swyx Most airlines have to, due to a lot of corporate businesses having MS Windows locked to a certain version and… https://t.co/YErl3Xxozx
+1245473256951464000,Wed Apr 01 22:08:58 +0000 2020,RT @marvinhagemeist: ⚛️ Preact Devtools 0.2.1 is out now 🙌  - 🚀 Much improved element picker (!!) - 📨 Better filtering - 🩳 Refreshed design…
+1244436540438098000,Mon Mar 30 01:29:26 +0000 2020,@EmmaBostian const flat = (arr, depth) =&gt; depth&gt;1 ? flat([].concat(...arr), depth-1) : [].concat(...arr);  flat([1,… https://t.co/1sxd0pqpsF
+1244025283067297800,Sat Mar 28 22:15:15 +0000 2020,RT @deno_land: v0.38.0 released with Chrome Devtools support (--inspect) and automated documentation "deno doc". Try "deno upgrade" if you…
+1243907476228956200,Sat Mar 28 14:27:07 +0000 2020,@_developit @kentcdodds Tweet-sized Axios 😛Usage: axi0s.interceptors.req = cfg =&gt; {   cfg.headers['access-control-a… https://t.co/s0WYm7BRDu
+1243906650550849500,Sat Mar 28 14:23:50 +0000 2020,@_developit @kentcdodds axi0s = { interceptors: { req: cfg =&gt; cfg, res: rs =&gt; rs.json() } }; ['GET', 'POST', 'PATCH… https://t.co/f0OrjVOcmd
+1243885362943934500,Sat Mar 28 12:59:15 +0000 2020,@ManuelBieh @kentcdodds @_developit Exactly my point... react-dom? Why add 115kb of minified JS (non-gzip) to your… https://t.co/eN5yHhS9z5
+1243721931007774700,Sat Mar 28 02:09:50 +0000 2020,@kentcdodds Axios? Why add 13kb of minified JS to your bundle. Use native fetch and @_developit unfetch 1kb polyfill 🙂
+1243284970468028400,Thu Mar 26 21:13:30 +0000 2020,@TiagoRBF if(url.contains('https://t.co/wGkTroXHZx'))   position = 0  😄
+1243105039029112800,Thu Mar 26 09:18:31 +0000 2020,@marvinhagemeist Yeah, always inline regex, I'll try not to forget that! 😄
+1243103248153596000,Thu Mar 26 09:11:24 +0000 2020,Of course Bill Gates predicted COVID-19 over 5 years ago. He's has been fighting viruses since Windows 95 😂
+1243100058234441700,Thu Mar 26 08:58:44 +0000 2020,@marvinhagemeist WAT?!? Today I Learned! There's possibly a few of my own bugs in the wild related to this haha
+1242278140669333500,Tue Mar 24 02:32:43 +0000 2020,@drbreak Leave shopping items you want in your cart for a couple of weeks until they start emailing you with discounts and coupons
+1238589475380326400,Fri Mar 13 22:15:17 +0000 2020,@ItamarSilverst1 @jlongster https://t.co/E3XKMButBV
+1238363365761618000,Fri Mar 13 07:16:48 +0000 2020,@BenLesh We're definitely in the 3rd world when it comes to toilets, Asia and especially Japan are way ahead! Haha
+1237855519647223800,Wed Mar 11 21:38:48 +0000 2020,@marvinhagemeist @preactjs Haha no problem! I was worried we had missed an edge case in the prop normalisation regex 😄
+1237845497303335000,Wed Mar 11 20:58:59 +0000 2020,@marvinhagemeist @preactjs This was fixed in: https://t.co/V7ehwi1lOG
+1236845518921191400,Mon Mar 09 02:45:25 +0000 2020,@marvinhagemeist @_developit I was planning to sit down and do this later today! Thanks @marvinhagemeist 😃
+1236627328739848200,Sun Mar 08 12:18:25 +0000 2020,RT @mredwards: I've heard that coronavirus is going to cause a massive shortage of books, which will be essential when we're all stuck at h…
+1236620211924504600,Sun Mar 08 11:50:08 +0000 2020,@mxstbr Moved to Manly in November, loving it here! Visas are hard to get, but there's lots of high paid tech jobs in Sydney.
+1235557244097286100,Thu Mar 05 13:26:17 +0000 2020,@pgotthardt @Twitter Sync it to localStorage, just in case I accidentally close the tab too 😄
+1234255252074811400,Sun Mar 01 23:12:38 +0000 2020,RT @preactjs: ⚛️ Preact 10.3.3 is out 💫  - 🔀 improved conditional rendering - 🐤 Fixed many SVG attribute casing issues - 🦄 Some react event…
+1233876486433591300,Sat Feb 29 22:07:33 +0000 2020,@matthiasendler https://t.co/NyFelsYfIb
+1233745522319446000,Sat Feb 29 13:27:09 +0000 2020,@matthiasendler I was just going to tag trivago and realized it's you haha I think Uber have their own JavaScript f… https://t.co/TqxMmuEFhL
+1233610614863364000,Sat Feb 29 04:31:04 +0000 2020,@marvinhagemeist Centered
+1233174444371087400,Thu Feb 27 23:37:53 +0000 2020,@gabe_ragland @rob__gordon I think `useLayoutEffect` would be preferred here?
+1233006423010791400,Thu Feb 27 12:30:14 +0000 2020,RT @devongovett: Releasing a new UI component without accessibility support is irresponsible. Seeing these libraries shared widely by commu…
+1231392336862515200,Sun Feb 23 01:36:25 +0000 2020,Future of serverless JS/TS/WASM is V8 Isolates. No containers, super fast startup time, isolated code, independent… https://t.co/zhNbpCsxv1
+1229898995922681900,Tue Feb 18 22:42:25 +0000 2020,RT @_developit: Library authors: if you care about its size, take 30 seconds and install this Github action to run on PRs:  https://t.co/rI…
+1229365022758822000,Mon Feb 17 11:20:36 +0000 2020,RT @addyosmani: Tip: Shave up to 90% off the size of Google Fonts requests by declaring only characters you need with &amp;text: https://t.co/U…
+1228402424114643000,Fri Feb 14 19:35:35 +0000 2020,@schafele @TiagoRBF @opencollect ? That's how @trivago_tech donates to Webpack and Babel 😃 https://t.co/sDLDJUK5bk
+1228218312246513700,Fri Feb 14 07:23:59 +0000 2020,“Serverless financially rewards good design (instantly, not in some potential distant future)„
+1227690685043638300,Wed Feb 12 20:27:23 +0000 2020,@DheerajAvvari @instagram Quick hack: use Instagram's PWA on your phone or put Instagram in mobile mode in dev tool… https://t.co/3CBZBVZxvf
+1227549497812631600,Wed Feb 12 11:06:21 +0000 2020,RT @shinework: 💥Introducing OpenChakra (beta)!  An open-source visual editor for #reactjs !  ✨ Based on Chakra UI by @thesegunadebayo 🎨 Dra…
+1227176013395685400,Tue Feb 11 10:22:16 +0000 2020,@EfeGurkan Hype-driven Development FTW!!!
+1227175355959500800,Tue Feb 11 10:19:39 +0000 2020,@EfeGurkan @drbreak To be honest, I'm surprised you still write JavaScript. The most hyped language...ah wait, that… https://t.co/nGXoXVY8Nv
+1227171732651298800,Tue Feb 11 10:05:15 +0000 2020,@EfeGurkan @drbreak Haha I don't really know anyone using Parcel atm... Don't know what hype you're talking about?… https://t.co/nlXJlOov4r
+1227154663755014100,Tue Feb 11 08:57:25 +0000 2020,@devongovett Great! Thanks Devon 😃
+1227121579336667100,Tue Feb 11 06:45:57 +0000 2020,@devongovett Really nice! Can you share the parcel plugin? Would love to use this to document my library.
+1224436093245767700,Mon Feb 03 20:54:48 +0000 2020,RT @ryanflorence: I wish programmers worried about accessibility with the same righteous vigor as testing.
+1220895826672640000,Sat Jan 25 02:27:02 +0000 2020,RT @arcanis: Introducing Yarn 2! 🧶🌟 https://t.co/PZMf0IChFu
+1220480771296620500,Thu Jan 23 22:57:45 +0000 2020,RT @betaorbust: Holy smokes! @Microsoft comes flying into the ring with Puppeteer-on-12-cups-of-coffee — Playwright does native browser aut…
+1220124820098039800,Wed Jan 22 23:23:20 +0000 2020,RT @_developit: HTM's preact integration now includes hooks.  4.6kb for VDOM + JSX + hooks with no build step is good value-for-money, IMO.…
+1220124717249650700,Wed Jan 22 23:22:56 +0000 2020,RT @Baconbrix: 🔥 I'm pretty HYPED about this one https://t.co/CfhkAkPHYU   @preactjs 💙 @expo web!!
+1218808029426008000,Sun Jan 19 08:10:53 +0000 2020,RT @dan_abramov: When discussing Concurrent Mode, we haven’t focused on server rendering as much. However, it’s an essential part of the pi…
+1218313240561668000,Fri Jan 17 23:24:46 +0000 2020,@trivago_tech @pgotthardt 👏👏👏 https://t.co/hb0dwWznUV
+1218132418621624300,Fri Jan 17 11:26:15 +0000 2020,@JoshWComeau Funny story, I started coding at 10yo, went to uni late, quit after 6 months, never valued my coding s… https://t.co/XR83EZLryz
+1216169902228172800,Sun Jan 12 01:27:54 +0000 2020,RT @NicoloRibaudo: We just released Babel 7.8.0! 🐠  Some notable new features are:   🟧 ECMAScript 2020 support enabled by default 🚀Configur…
+1215496939015245800,Fri Jan 10 04:53:47 +0000 2020,RT @sebmarkbage: I'm getting pretty convinced that testing that relies on asserting on implementation details like what react-test-renderer…
+1214851404667375600,Wed Jan 08 10:08:40 +0000 2020,@drbreak @pikapkg Tun tun tunnnnn! Upcoming in the next episode of snowpack... Hahahaha
+1214741969408147500,Wed Jan 08 02:53:48 +0000 2020,RT @preactjs: ⚛️ @preactjs 10.2.0 is fresh out of the oven!  - 🦀 new useErrorBoundary hook - 🦥 lazy() works with non-default exports - 🦄Usu…
+1214740177437917200,Wed Jan 08 02:46:41 +0000 2020,RT @pikapkg: Snowpack v1.0 introduces a new feature that everyone said was impossible without a bundler: TREE-SHAKING.  Ready for productio…
+1213236327254085600,Fri Jan 03 23:10:55 +0000 2020,@jaffathecake I actually think this is really readable 🤔 Maybe I'm just used to it...
+1212231530744934400,Wed Jan 01 04:38:13 +0000 2020,RT @year_progress: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+1212208701420867600,Wed Jan 01 03:07:30 +0000 2020,@natural_clar @dan_abramov This is because parseInt receives 2 arguments, the number and radix. Map functor passes… https://t.co/16d7QoSdfY
+1211137493594062800,Sun Dec 29 04:10:54 +0000 2019,RT @slightlylate: If you animate things on the web in a custom way (not Web Animations or CSS animations over a fixed interval), now is the…
+1208955742578864000,Mon Dec 23 03:41:24 +0000 2019,@dan_abramov My folder structure wasn't very good because I put my component in index.js instead of putting it in C… https://t.co/n5MmOralzf
+1207920473675141000,Fri Dec 20 07:07:37 +0000 2019,@_developit How's grid? Still haven't used it yet haha
+1207557899150430200,Thu Dec 19 07:06:53 +0000 2019,@markdalgleish Vue is really JS-in-HTML-in-JS 😆
+1207424865814241300,Wed Dec 18 22:18:15 +0000 2019,@mostruash Anıl!!! Hope you're good man!
+1207387535023804400,Wed Dec 18 19:49:55 +0000 2019,H8rs gonna H8, V8ers gonna V8 😂 https://t.co/Vtx83diiVG
+1207186187678449700,Wed Dec 18 06:29:50 +0000 2019,@BenLesh Hey Ben 😀 Just wondering if there's any updates on RxJS FObs (RxJS v7)? Is this in development? Did the id… https://t.co/HH4KERHEQr
+1206705714439131100,Mon Dec 16 22:40:36 +0000 2019,RT @preactjs: ⚛️ @preactjs 10.1.1 is fresh out of the oven!  Little pre christmas present 🎁  - 🗳️ Component stacks - 🐳 Fix for cWRP not bei…
+1206653638094901200,Mon Dec 16 19:13:40 +0000 2019,@_kieranmc @preactjs Thanks mate! 😁 Haha
+1206652736478908400,Mon Dec 16 19:10:05 +0000 2019,RT @habazzi: Amazing work by James here. The barrier is mostly mental for contributing to your favorite libraries.   Remember, 99% of devs,…
+1206535760268021800,Mon Dec 16 11:25:16 +0000 2019,Merged 🎉 Thanks to the @preactjs team for feedback and merging this so quickly! It will be in the next release 😃 https://t.co/wxbwadSICB
+1206416233492430800,Mon Dec 16 03:30:18 +0000 2019,@preactjs @marvinhagemeist @_developit https://t.co/DnBJroLAsX
+1206389350776180700,Mon Dec 16 01:43:29 +0000 2019,I think I've found a bug in @preactjs X, creating an issue and PR now 😃Excited to contribute to such a great librar… https://t.co/meOdEc8hcH
+1206035321789407200,Sun Dec 15 02:16:42 +0000 2019,RT @drbreak: I created a little framework called 🥁bassdrum that let's you create reactive type safe components with #rxjs and  @preactjs. I…
+1205073582432252000,Thu Dec 12 10:35:05 +0000 2019,RT @Suhail: Programming is one of the most incredible ways to turn 1 hour into feeling like only 10 minutes have passed.
+1201747119209533400,Tue Dec 03 06:16:55 +0000 2019,RT @ChadRigetti: Technology moves fast.   April 1, 2010: quantum computers on Amazon Web Services is an April fools day joke. https://t.co/…
+1201665335440490500,Tue Dec 03 00:51:56 +0000 2019,RT @benni_dsbrg: ❤️😂 https://t.co/lhpPopDxp1
+1201665208474751000,Tue Dec 03 00:51:26 +0000 2019,@benni_dsbrg @trivago_tech @dawchihliou @TheLarkInn @twbartel Hahaha just saw this! What a conference! Miss you guys
+1201664803044917200,Tue Dec 03 00:49:49 +0000 2019,TIL: debug(function, condition) https://t.co/uRBndU4xo3
+1200591986551484400,Sat Nov 30 01:46:50 +0000 2019,RT @BenLesh: @DavidKPiano bro$.pipe(   weDidThat(),   inTheYear(2018) ) .subscribe(itLooks =&gt; console.log('awful still')  maybe$   |&gt; inThe…
+1200240063138816000,Fri Nov 29 02:28:25 +0000 2019,The advantage of redux is dispatching actions that can be handled by various reducers that update state where neede… https://t.co/X5PORLnatU
+1199837010925514800,Wed Nov 27 23:46:49 +0000 2019,RT @mweststrate: Just wondering how many years of software engineering it takes, until you are not disappointed with yourself anymore, when…
+1199595889410490400,Wed Nov 27 07:48:42 +0000 2019,RT @marvinhagemeist: Sooooooon🙈⚛️🙌💫 @preactjs   Need to sort a few things out, but it's close to being ready for a first public alpha 💯 htt…
+1199594846039658500,Wed Nov 27 07:44:33 +0000 2019,@flpwgr Yup, I'm always open it in incognito, so annoying lol
+1199446652798455800,Tue Nov 26 21:55:41 +0000 2019,RT @flschweiger: Say hey to @SnapfeedDev, the interactive user feedback tool for #FlutterDev 👋 Private beta is launching within the next 72…
+1199446513904046000,Tue Nov 26 21:55:08 +0000 2019,@flschweiger @SnapfeedDev Amazing stuff guys! 😃
+1197774922807832600,Fri Nov 22 07:12:49 +0000 2019,RT @nodejs: Announcing core Node.js support for ECMAScript modules: https://t.co/aNcd0NJmuu
+1197465602903830500,Thu Nov 21 10:43:42 +0000 2019,RT @pgotthardt: Remember how I mentioned December 2nd would be amazing? We're hosting a little conference to celebrate our Open Source spon…
+1197239637493735400,Wed Nov 20 19:45:47 +0000 2019,RT @flpwgr: Open Source? trivago!  https://t.co/QefvqwdYK9
+1195208209490940000,Fri Nov 15 05:13:37 +0000 2019,RT @pomber: Had to build a new blog and some tools to be able to publish this post with the format I wanted. It took some time but it's fin…
+1194731944447099000,Wed Nov 13 21:41:07 +0000 2019,@Swizec @trekinbami A carpenter's toolset lasts over 6 times longer than a MacBook nowadays
+1194140387616538600,Tue Nov 12 06:30:29 +0000 2019,@acemarke I think something is a Standard when it becomes the most common/agreed way of achieving something. RSK is… https://t.co/HwRYT42XK2
+1193293192994508800,Sat Nov 09 22:24:02 +0000 2019,RT @dan_abramov: @hswolff @reactnative "Concurrent Mode" is just React eventually. So definitely coming to RN. Fabric (ongoing RN architect…
+1193292430361018400,Sat Nov 09 22:21:00 +0000 2019,RT @addyosmani: Optional Chaining &amp; Nullish Coalescing are coming to JavaScript! They're short, readable and are both available to try in C…
+1191285301894738000,Mon Nov 04 09:25:23 +0000 2019,This! I've tried and continue trying to advocate to use web technologies, but my friends, colleagues and clients/bo… https://t.co/YrwUDWRNCK
+1190030003368538000,Thu Oct 31 22:17:17 +0000 2019,@_developit Keep 2 different versions of VS Code! haha
+1189630085936009200,Wed Oct 30 19:48:09 +0000 2019,RT @tomdale: As a senior engineer in a new role, it's tempting to focus on bold, sweeping changes that justify your lofty title. This is a…
+1189107044244045800,Tue Oct 29 09:09:46 +0000 2019,@flpwgr @_danielcaldas @figmadesign @CompuIves @codesandbox Add me to the next live session 😁 haha
+1189062974276718600,Tue Oct 29 06:14:39 +0000 2019,@_danielcaldas @figmadesign I've never tried it either! I know @CompuIves has worked on "@codesandbox Live" though,… https://t.co/d93tXy8JRz
+1188968054027214800,Mon Oct 28 23:57:28 +0000 2019,@figmadesign Really interested in stuff like this. I'm sure for text editor collaboration it's way more difficult to keep things in sync.
+1188967741434155000,Mon Oct 28 23:56:14 +0000 2019,Great article from @figmadesign showing that collaboration capability for visual editors isn't as intimidating as i… https://t.co/F1kdzMhbvz
+1188941203095470000,Mon Oct 28 22:10:46 +0000 2019,RT @zeithq: SWR: React Hooks for Remote Data Fetching  ◆ Light ◆ Backend agnostic ◆ Realtime updates ◆ Fast nav / back ◆ Local mutations ◆…
+1187632719338950700,Fri Oct 25 07:31:20 +0000 2019,@MicheleBertoli @reactjs Found some reddit posts about this happening for long recorded streams, it's still process… https://t.co/HSM3X87xz1
+1187628528906326000,Fri Oct 25 07:14:41 +0000 2019,@levelsio WAT?!?!? As crazy as it is, even if they did do this, why would there not be a unit test for when a page… https://t.co/mhshCqTfYu
+1187620105418494000,Fri Oct 25 06:41:12 +0000 2019,@MicheleBertoli @reactjs Yeah, trying to work that out too... Maybe some YouTube limitation? Hopefully tomorrow it'll be fixed 😃
+1187100702369181700,Wed Oct 23 20:17:17 +0000 2019,@drbreak @flpwgr @nathanmarcos @trivago_tech Nice! Wish I could join you all!
+1186547481636507600,Tue Oct 22 07:38:59 +0000 2019,RT @sanketsahu: I'm super excited 🤩 to announce https://t.co/ZUZ0XQVrPP, a browser-based design tool that codes React Native &amp; React.  Desi…
+1184935134841069600,Thu Oct 17 20:52:05 +0000 2019,@Swizec Interesting! haha `useLayoutEffect` should better as it runs synchronously immediately after React has perf… https://t.co/pSO9hrr891
+1184721629512753200,Thu Oct 17 06:43:42 +0000 2019,RT @addyosmani: Tip: DevTools Performance monitor can show if your site has a memory leak in real-time 🚰  Three dot menu &gt; More tools &gt; Per…
+1184572441739186200,Wed Oct 16 20:50:53 +0000 2019,@joelnet Closures!
+1184569263434031000,Wed Oct 16 20:38:15 +0000 2019,@marvinhagemeist Something like this? 😁 haha https://t.co/AMxQWscnWR
+1182201061039165400,Thu Oct 10 07:47:51 +0000 2019,RT @kennethrohde: WASM terminal as a PWA ♥️  https://t.co/5ad1VVMQzj
+1180237558099243000,Fri Oct 04 21:45:36 +0000 2019,@EfeGurkan My girlfriend's got the Xiaomi Mi A3, it's just as good as my Pixel 2 and cost a little over 200€
+1180215729255145500,Fri Oct 04 20:18:51 +0000 2019,@EfeGurkan You have an iPhone??? Shocked!  Pixel 3 or Xiaomi Mi A3
+1178409172355833900,Sun Sep 29 20:40:15 +0000 2019,@ryanflorence const [num, setNum] = useState(1);  I've always deconstructed objects, but rarely arrays, I'd never t… https://t.co/BEy0za6FI2
+1178407286793887700,Sun Sep 29 20:32:45 +0000 2019,@ryanflorence Convert to Boolean with !! `!!0 === false`  Also love to go through Preact source to find some of… https://t.co/ZziBlvR18F
+1177539960875831300,Fri Sep 27 11:06:18 +0000 2019,Middle management... https://t.co/NLjjDE0LkN
+1175176852123422700,Fri Sep 20 22:36:09 +0000 2019,@getify Works, x = {} I find this useful for: const x = {   a: 1,   ...(boolVal &amp;&amp; { b: 2 }) }
+1174989280680145000,Fri Sep 20 10:10:49 +0000 2019,@CompuIves I try to follow: "Write code that is easy to delete, not easy to extend"
+1174785653101346800,Thu Sep 19 20:41:40 +0000 2019,RT @zeithq: Want stateful apps but don’t want to manage databases?  Check out our guide on creating powerful full-stack apps with Next.js,…
+1172980719955562500,Sat Sep 14 21:09:31 +0000 2019,RT @christianalfoni: 📣📄 New article: "Taking Immer one step further"  Never spent this much time researching for an article. Thanks to @mwe…
+1170273491041603600,Sat Sep 07 09:51:57 +0000 2019,RT @UberOpenSource: Read about how Uber integrated open source query language GraphQL into our Customer Care platform, making for more targ…
+1169383032387752000,Wed Sep 04 22:53:35 +0000 2019,RT @youyuxi: Reactivity with different tradeoffs https://t.co/AL2rWUlj2L
+1168949066161643500,Tue Sep 03 18:09:10 +0000 2019,@NanciVeitch @aamct2 @ustwo @AnjiMenon I'll ask around 🙂
+1168128470280540200,Sun Sep 01 11:48:24 +0000 2019,@flpwgr again = next Friday 😁 haha
+1167124142501630000,Thu Aug 29 17:17:34 +0000 2019,@twbartel This is one of the reasons why I liked JavaScript Guild meetings @trivago_tech. I could present something… https://t.co/DjswtDsjRr
+1165945749282197500,Mon Aug 26 11:15:03 +0000 2019,RT @year_progress: ▓▓▓▓▓▓▓▓▓▓░░░░░ 65%
+1163824179818328000,Tue Aug 20 14:44:41 +0000 2019,Native JavaScript Modules 💪 https://t.co/3qAT7rCyWK
+1162857327650734000,Sat Aug 17 22:42:46 +0000 2019,RT @DasSurma: Serial API is _very_ exciting. Think of the Arduino ecosystem — what am I saying, the entire IoT ecosystem 🤯  (cc @noopkat) h…
+1161790549856268300,Thu Aug 15 00:03:46 +0000 2019,RT @GregorySchier: Sooo many people tell me about their fear of having their idea, code, product stolen. Don't worry!  - Code is the "easy"…
+1161790205122285600,Thu Aug 15 00:02:24 +0000 2019,RT @shl: Being a founder is hard. Being an early employee is hard. Being a VC is hard. Being a politician is hard. Being an engineer is har…
+1159198376245833700,Wed Aug 07 20:23:24 +0000 2019,RT @hdjirdeh: Native lazy loading just launched on Chrome 76 ✨  &lt;img loading=”lazy”&gt; &lt;iframe loading=”lazy”&gt;&lt;/iframe&gt;  https://t.co/0mk3XLg…
+1158884119708885000,Tue Aug 06 23:34:39 +0000 2019,RT @peggyrayzis: Really excited about the new @apollographql hooks! ⚓️  They help you write simpler code by eliminating false hierarchy in…
+1152268793244192800,Fri Jul 19 17:27:43 +0000 2019,@DanoHusar @tkadlec @xo4n @intercom Sure, sorry, I have no real context on the product. Great work and progress :)… https://t.co/d8WWjJC15r
+1152143078851039200,Fri Jul 19 09:08:10 +0000 2019,@tkadlec @xo4n @intercom @DanoHusar 240kb is still huge for this app.. I think something around 50kb (maybe less) i… https://t.co/rdXp4PQKrx
+1151891430782185500,Thu Jul 18 16:28:12 +0000 2019,@bdnrzio @DB_Bahn @kwiat Hahaha you did this redesign in 2012?
+1151631049757265900,Wed Jul 17 23:13:33 +0000 2019,RT @trivago_tech: Kyle Simpson (@getify) Teams up with trivago to create a JS Developer Excellence program -  https://t.co/dSdvz3rYiz
+1151395214902353900,Wed Jul 17 07:36:25 +0000 2019,@bdnrzio Deutsche Bahn or RheinBahn apps have horrible UIs but are still used by thousands of people! They need a r… https://t.co/xmOhlSjuvZ
+1150887570068426800,Mon Jul 15 21:59:13 +0000 2019,RT @danbarker: I just got a nice little shiver when working out whether the binary on the ribbon of the new £50 banknote meant anything.  1…
+1149263383222505500,Thu Jul 11 10:25:17 +0000 2019,@bdnrzio @martin1schramm @Strava Really nice redesign man! 😃
+1149012480661827600,Wed Jul 10 17:48:17 +0000 2019,RT @framer: Say hello to Framer Motion, the successor to Pose by @PopmotionJS. A truly simple @ReactJS animation library that designers wil…
+1148902960560255000,Wed Jul 10 10:33:06 +0000 2019,🤯 https://t.co/Tee1ebM1z6
+1148200346847719400,Mon Jul 08 12:01:09 +0000 2019,RT @zeithq: Next.js 9:  ⬩ Built-in Zero-Config TypeScript Support ⬩ File system-Based Dynamic Routing ⬩ Automatic Static Optimization ⬩ API…
+1147439634198278100,Sat Jul 06 09:38:21 +0000 2019,RT @rauchg: Building on top of React truly feels like standing on the shoulders of giants. Suspense will make Next.js *so* good 🤩!
+1147093020598329300,Fri Jul 05 10:41:02 +0000 2019,RT @sospedra_r: lmao! looking for the source of this masterpiece 😆🤣 #javascript #git #geek https://t.co/WvdKh20eck
+1146187638275301400,Tue Jul 02 22:43:22 +0000 2019,RT @year_progress: ▓▓▓▓▓▓▓▓░░░░░░░ 50%
+1144235414867386400,Thu Jun 27 13:25:56 +0000 2019,RT @shl: At a dinner, I asked @kevin what features they shipped that actually led to noticeable growth.  His answer paraphrased: "Speed, pe…
+1143653739406004200,Tue Jun 25 22:54:34 +0000 2019,RT @meusPartum: Something that’s super neat about the new https://t.co/oY6VAFOD9m - We are recreating the DOM in webGL and applying post pr…
+1143616382808023000,Tue Jun 25 20:26:07 +0000 2019,RT @addyosmani: Google Search shipped support for Service Workers: https://t.co/npO9ZZWHWc It helped reduce cache churn. On average, repeat…
+1143180972193734700,Mon Jun 24 15:35:57 +0000 2019,RT @housecor: Two concerning trends I'm seeing in modern React apps:  1. Creating custom hooks when the Hook is only useful for one compone…
+1142491956569940000,Sat Jun 22 17:58:03 +0000 2019,RT @youyuxi: I think as developers we need to battle this "don't adopt anything from your competitor" mindset. A good idea doesn't become a…
+1141819817642680300,Thu Jun 20 21:27:13 +0000 2019,RT @flschweiger: @FlutterComm @Nash0x7E2 @Jeroen_Meijer98 @nlycskn @FlutterWk @FlutterDev @timsneath Look @bdnrzio! Your new #FlutterCommun…
+1140549381529034800,Mon Jun 17 09:18:57 +0000 2019,RT @ScottKellum: Literally ALL THE THINGS in CSS. Your JS in CSS, your HTML in CSS, your data in CSS.  It started out as a joke, but it’s a…
+1137076583427125200,Fri Jun 07 19:19:18 +0000 2019,@bmeurer @dissimile @v8js I feel spread is a lot more readable than Object.assign
+1136655442120249300,Thu Jun 06 15:25:50 +0000 2019,@hillelcoren @Apple @invoiceninja How does Spotify get around this for example?
+1136332332879757300,Wed Jun 05 18:01:54 +0000 2019,RT @norbertkozsir: With all the hype around #SwiftUI &amp; #flutter, I present the early alpha of the widget-maker! 🎉  I'm looking for a few br…
+1136330167046070300,Wed Jun 05 17:53:18 +0000 2019,RT @FlutterDev: Some of the new Lenovo Smart Clock faces are implemented in Flutter!  🥳✨ Learn more about the new clock here → https://t.co…
+1135846124831563800,Tue Jun 04 09:49:53 +0000 2019,RT @prisma: 👀 Prisma 2 is Coming Soon  https://t.co/83JenyNv4G
+1135807960620384300,Tue Jun 04 07:18:14 +0000 2019,RT @intelligibabble: It's really exciting to see three behemoth companies (Facebook, Google, Apple) all investing heavily into the declarat…
+1135685122479595500,Mon Jun 03 23:10:07 +0000 2019,RT @acdlite: BUILD REACT INTO IOS YOU COWARDS
+1132528136443387900,Sun May 26 06:05:23 +0000 2019,@sebmck @NetflixUIE @NetflixPT Hahaha you know too much!
+1132524454918148100,Sun May 26 05:50:45 +0000 2019,@sebmck Talking about Portugal 👀 Limited content... @NetflixUIE @NetflixPT
+1130435049252376600,Mon May 20 11:28:12 +0000 2019,RT @aerotwist: English is the JavaScript of natural languages: easy to begin with, entirely bonkers, but used so widely you can't really av…
+1128430447338369000,Tue May 14 22:42:38 +0000 2019,@flpwgr Get this on Hacker News! Let's see how out of hand it can get! Haha
+1128429931178934300,Tue May 14 22:40:35 +0000 2019,@flpwgr You're missing `location.reload(true)` (although behaviour is slightly different...) I'll send a PR! hahaha
+1128429533777006600,Tue May 14 22:39:00 +0000 2019,@flpwgr 536 ways to reload a page 🤯 hahaha
+1126935803366498300,Fri May 10 19:43:27 +0000 2019,@sebmck @NikkitaFTW Plus 10 million tourists hahaha
+1126370777157083100,Thu May 09 06:18:14 +0000 2019,RT @addyosmani: 📢 Announcing Google Fonts will soon support setting `font-display` via a new query parameter. This unlocks controlling web…
+1125914352719024100,Wed May 08 00:04:34 +0000 2019,RT @FlutterDev: From mobile to the web! 📱➡ 🌐  We're excited to announce the first technical preview of Flutter for web, bringing Flutter to…
+1125881037341388800,Tue May 07 21:52:11 +0000 2019,Finally! Google sees your website the same as your users! https://t.co/2h9Or7gQsC
+1124249132539899900,Fri May 03 09:47:35 +0000 2019,@marckohlbrugge - "Browse products made by our community" - "Browse community made products"
+1121179970301071400,Wed Apr 24 22:31:50 +0000 2019,@drpicox @kentcdodds Check the article, it recommends using setState/useState plus Context for application state...
+1120832869633368000,Tue Apr 23 23:32:34 +0000 2019,Really liking Svelte 3 https://t.co/POPtKviyYE
+1120663980618293200,Tue Apr 23 12:21:28 +0000 2019,RT @Rich_Harris: I didn't mean for this to come out today, but the cat it out of the bag, so...  🚨🚨🚨 SVELTE 3 IS HERE 🚨🚨🚨  https://t.co/2Z2…
+1120639846396022800,Tue Apr 23 10:45:34 +0000 2019,@n26 Lisbon tech hub anytime?
+1120482355062476800,Tue Apr 23 00:19:45 +0000 2019,@kentcdodds Curious if time travel could be possible in any way? That is a bit benefit of redux imo.. With setState… https://t.co/hMSh7tyQ1p
+1118465193846161400,Wed Apr 17 10:44:16 +0000 2019,@levelsio Isn't that going to eat 3x the data? Not the best for mobile users.. Is this just for JSON responses?
+1117390773526331400,Sun Apr 14 11:34:55 +0000 2019,#FacebookDown #whatsappdown #instagramdown hahahaha https://t.co/SBGWezn6O4
+1116976429349187600,Sat Apr 13 08:08:27 +0000 2019,RT @lukeed05: Introducing `dimport`, an ESModule polyfill allowing you to run `import`, `export`, and `import()` in any browser – even IE!…
+1116120566514298900,Wed Apr 10 23:27:34 +0000 2019,RT @rauchg: Next.js in *production*, in some cases serving the *primary experience* with hundreds of millions of MAUs… https://t.co/c9SFbV2…
+1114449346593001500,Sat Apr 06 08:46:44 +0000 2019,@remi_rousselet BLoC is the new redux, it's cool, but you might not need it.. especially when starting out!
+1114448200021233700,Sat Apr 06 08:42:10 +0000 2019,@flschweiger @2Dimensions Smooth!
+1112991890943737900,Tue Apr 02 08:15:19 +0000 2019,@mndflp After trivago not many workplaces "play hard" haha
+1111361627885109200,Thu Mar 28 20:17:14 +0000 2019,@flpwgr Finalmente! Chega de férias hahaba
+1111062302596517900,Thu Mar 28 00:27:50 +0000 2019,RT @rauchg: Being optimistic about the future is the best way to live the present
+1110867810799046700,Wed Mar 27 11:34:59 +0000 2019,@Ryanair @jpswaine Site is really slow, trying to access my booking and purchase an extra bag! Payment is timing out... Frustrating...
+1110154816519589900,Mon Mar 25 12:21:48 +0000 2019,RT @sindresorhus: Let's take a moment to appreciate how awesome programming is; You can single-handedly build almost anything you can imagi…
+1109967642562121700,Sun Mar 24 23:58:02 +0000 2019,@rauchg "Jugaad" in Hindi, Bengali and Punjabi. Roughly translates to a "hack", "quick fix" or "work around". A lot… https://t.co/cYiI94H4wH
+1109674127030452200,Sun Mar 24 04:31:43 +0000 2019,RT @sophiebits: Good API design is the hardest part of building libraries.
+1109673309438967800,Sun Mar 24 04:28:28 +0000 2019,@floydophone @dan_abramov @reactjs Preference is difficult in an open source community...
+1109672634122453000,Sun Mar 24 04:25:47 +0000 2019,@flschweiger @atoka93 @flutter_school I miss these Frederik moments hahaha
+1109072377776955400,Fri Mar 22 12:40:35 +0000 2019,Tweet-sized CSS-in-JS Hook 😎 https://t.co/sGXUYfJZrK
+1109054375480184800,Fri Mar 22 11:29:03 +0000 2019,@spekulatius1984 Depends how much I trust and use the site or service. Google, Twitter or Github. If not trusting o… https://t.co/lRDSpD0gTw
+1108748232681754600,Thu Mar 21 15:12:32 +0000 2019,@icookandcode @ReactNativeComm @zeithq @reactjs @GraphQL @SendGrid @yarnpkg Nice stuff, would you open source it? S… https://t.co/bXZnDMyTuw
+1108494377998004200,Wed Mar 20 22:23:49 +0000 2019,RT @munificentbob: I wrote a thing about the work we've been doing on the Dart language recently: https://t.co/i2ZBRmvmeA. It's been really…
+1106269935251148800,Thu Mar 14 19:04:40 +0000 2019,RT @bmeurer: Unpopular opinion: To run a project successfully, you generally need two kinds of people: those who are good at execution and…
+1105944288339390500,Wed Mar 13 21:30:40 +0000 2019,RT @behrang_y: Working on @babeljs was great! Thanks everyone for supports and reviews. Thanks @NicoloRibaudo for patiently reviewing every…
+1105944257406386200,Wed Mar 13 21:30:33 +0000 2019,@behrang_y @babeljs @NicoloRibaudo Amazing stuff @behrang_y 😃
+1105646128186437600,Wed Mar 13 01:45:53 +0000 2019,RT @kentcdodds: Hey, check this out. You can install Progressive Web Apps natively on macOS now!  Neat! https://t.co/M5gH6kXQOO
+1104326900292509700,Sat Mar 09 10:23:45 +0000 2019,RT @petekofficial: @InDareds 3 new releases coming between April and May 😉
+1102821788441104400,Tue Mar 05 06:42:58 +0000 2019,RT @preactjs: ⚛️ Preact X is now in alpha!! 🚨  ❮❯ Fragments! 🎣 Hooks! 🔖 createContext 👮‍♀️ componentDidCatch 🔬 DevTools &amp; Profiler support…
+1101529683131355100,Fri Mar 01 17:08:36 +0000 2019,@NikkitaFTW @koldpt Same in Lisbon too. Companies from UK, Germany and SF hiring devs for a 1/5 of the cost.. 😥
+1101004415627079700,Thu Feb 28 06:21:23 +0000 2019,RT @cristianbote_: goober🥜v1.1.0 is out🎉! Fresh from the oven! 🔥  ✅ web components supports(via target, huge thanks to @skaryon 💯) ✅ Object…
+1100669958739161100,Wed Feb 27 08:12:22 +0000 2019,RT @spotifyindia: Hello, India! Now there's only one way to download Spotify. https://t.co/T3DTz6wkUD #SpotifyIndia https://t.co/IKUhLMgHM7
+1100449443357298700,Tue Feb 26 17:36:07 +0000 2019,RT @flutterio: We launched Flutter 1.2, the first feature update for Flutter, at Mobile World Congress!  ✅ Faster compiled code ✅ Android A…
+1100392493403787300,Tue Feb 26 13:49:49 +0000 2019,@N26_Support I currently can't login on the android or web app, I get a success response, but then logged out strai… https://t.co/cHuIQFkQh0
+1096756071153258500,Sat Feb 16 12:59:58 +0000 2019,RT @pgotthardt: I’m really excited about @trivago_tech being a gold sponsor for @JSKongress ! It’s an amazing conference with a highly inte…
+1095961399505965000,Thu Feb 14 08:22:14 +0000 2019,@drbreak @flpwgr What's the CPC? 😂
+1093605403320086500,Thu Feb 07 20:20:21 +0000 2019,@mostruash But you're not creating your own, you follow a pattern, it's pushing UI development forward.. Moving awa… https://t.co/ccwqhWAFJG
+1093604473283465200,Thu Feb 07 20:16:39 +0000 2019,@benni_dsbrg @mostruash will-change: transform;
+1093584898802311200,Thu Feb 07 18:58:52 +0000 2019,@mostruash Check Flutter, coming to the browser soon too
+1093070860863316000,Wed Feb 06 08:56:16 +0000 2019,RT @mweststrate: Since y'all eagerly awaiting hooks anyway, here is a new blog as distraction:  "UI as an afterthought"   Or: how will Reac…
+1093070345081368600,Wed Feb 06 08:54:13 +0000 2019,RT @ReactJSNews: React v16.8: The One With Hooks https://t.co/wuixgSPXas
+1089860407228018700,Mon Jan 28 12:19:04 +0000 2019,@seenickcode @flutterio Write a blog post called "You might not need BLoC" haha
+1089556485603057700,Sun Jan 27 16:11:23 +0000 2019,RT @jordwalke: @dhh I don't see how treating the web as a compile target reduces it to a closed platform. I believe the exact opposite is t…
+1089262152114950100,Sat Jan 26 20:41:49 +0000 2019,RT @dan_abramov: (1) Maybe you can want web to win over native apps.  (2) Or maybe you want to preserve techniques like shipping artisanal…
+1087880864246190100,Wed Jan 23 01:13:04 +0000 2019,@jmulfiw @mjackson I thought exactly the same as I read that tweet! I think he just proved the problem of that arti… https://t.co/pU2ZI0ekab
+1085927994823200800,Thu Jan 17 15:53:04 +0000 2019,RT @DadsPuns: The only thing Flat-Earthers fear  Is sphere itself.
+1085261703493894100,Tue Jan 15 19:45:27 +0000 2019,RT @jckarter: Ideas often get copied from well-known established projects into new projects with the background behind those decisions lost…
+1083289936428757000,Thu Jan 10 09:10:22 +0000 2019,RT @ProjectDrawdown: If consumers are given sustainability information on food labels, they’ll make greener dietary choices that benefit th…
+1082439075104211000,Tue Jan 08 00:49:20 +0000 2019,@marvinhagemeist @drbreak Thanks for the invite Marvin! I'm not living in Dusseldorf anymore though :/
+1082405375310266400,Mon Jan 07 22:35:26 +0000 2019,RT @apollographql: 📍 My API  |  |  |____________________________                                                 | 📍Writing documentation…
+1082405044010520600,Mon Jan 07 22:34:07 +0000 2019,@drbreak @marvinhagemeist Nice! 😃 Tell me if there's a recording, excited to have a read through the source code when it's released!
+1082354698592706600,Mon Jan 07 19:14:03 +0000 2019,RT @github: New year, new upgrades.  Introducing unlimited free private repositories, and a new unified Enterprise product. https://t.co/6Y…
+1080757052828471300,Thu Jan 03 09:25:35 +0000 2019,RT @flschweiger: I have implemented this beautiful UI by @shakuro with @flutterio on my flight back from NYC to Germany (actually I'm tweet…
+1080131198951792600,Tue Jan 01 15:58:40 +0000 2019,RT @year_progress: ░░░░░░░░░░░░░░░ 0%
+1078357029062955000,Thu Dec 27 18:28:45 +0000 2018,RT @2Dimensions: The History of Everything is now open source! https://t.co/DeIqlwjpVo #FlutterIO #OpenDesign #MadeWith2D @flutterio https:…
+1076421954679304200,Sat Dec 22 10:19:27 +0000 2018,RT @remi_rousselet: I've just published a port of React hooks to flutter: https://t.co/mnd6qsnbuS  Go give them a try! @flutterio @FlutterC…
+1076294008866066400,Sat Dec 22 01:51:02 +0000 2018,RT @flschweiger: I published a blog post about how #Flutter is using Widgets, Elements &amp; RenderObjects under the hood: https://t.co/64LnCnM…
+1076096941765939200,Fri Dec 21 12:47:58 +0000 2018,@jmulfiw @flpwgr @DeutscheBank @_tomorrow_one Nice, I'll check it out! You got a referral link?
+1075873716737855500,Thu Dec 20 22:00:57 +0000 2018,@flpwgr @DeutscheBank What?? The N26 competition is real! Haha
+1075873553512325100,Thu Dec 20 22:00:18 +0000 2018,@flschweiger Learnt this from the Yo flutter app source code, thank you 😃
+1072477222659911700,Tue Dec 11 13:04:30 +0000 2018,RT @flschweiger: We have recreated the original Yo! app in a three hour #Flutter workshop. The best part? The attendees never wrote a singl…
+1070634892701110300,Thu Dec 06 11:03:44 +0000 2018,RT @mimic_xr: Believe it or not this shoe is AR! Great work from our team; our unique capture method allows for photo-realistic 3D objects…
+1070256664018862100,Wed Dec 05 10:00:47 +0000 2018,@iandevlin You and a few others proved me wrong at trivago, I learnt so much about HTML semantics and accessability… https://t.co/XEEW5ianmH
+1070026523716055000,Tue Dec 04 18:46:18 +0000 2018,RT @timsneath: What's #Hummingbird? This post has all the details... #Flutter #FlutterLive https://t.co/VXuqhDIZCe
+1069959853152587800,Tue Dec 04 14:21:22 +0000 2018,@flpwgr @EfeGurkan @mostruash @drbreak @pgotthardt @twbartel @dawchihliou @bitwre @electricsand @carlopattirg hahah… https://t.co/Q0xYqgFHbR
+1069948810984607700,Tue Dec 04 13:37:29 +0000 2018,@flpwgr @EfeGurkan @mostruash @drbreak @pgotthardt @twbartel @dawchihliou @bitwre @electricsand @carlopattirg npm 6… https://t.co/8XaOYCSTSX
+1069921414080356400,Tue Dec 04 11:48:37 +0000 2018,@EfeGurkan @flpwgr @mostruash @drbreak @pgotthardt @twbartel @dawchihliou @bitwre @electricsand @carlopattirg Wow,… https://t.co/XZ62DYl08f
+1069911403727859700,Tue Dec 04 11:08:51 +0000 2018,@EfeGurkan @flpwgr @mostruash @drbreak @pgotthardt @twbartel @dawchihliou @bitwre @electricsand @carlopattirg
+1069910013748088800,Tue Dec 04 11:03:19 +0000 2018,npm6 or yarn for 2019? Is yarn still better? What are you going to use?
+1068074490389778400,Thu Nov 29 09:29:37 +0000 2018,`pbcopy &lt; ~/.ssh/id_rsa.pub` 😆 https://t.co/jTTI8mBX0L
+1068073781577609200,Thu Nov 29 09:26:48 +0000 2018,RT @letsencrypt: Ladies, if he:  - is insecure - can be easily manipulated - doesn't have a private key - uses port 80  He's not your man,…
+1067888426354188300,Wed Nov 28 21:10:15 +0000 2018,@TiagoRBF You just made me feel so good about my 150 followers #influencer
+1067493390013644800,Tue Nov 27 19:00:31 +0000 2018,@whenguitweets Parabéns Gui! Abraço
+1063216942956388400,Thu Nov 15 23:47:27 +0000 2018,@marvinhagemeist @preactjs When can we see it? 😃
+1063033563896074200,Thu Nov 15 11:38:46 +0000 2018,RT @setimmediate: Gameboy emulator in #WebAssembly, written in Rust and WebGL 2.0! Still have some audio bugs to track down and underused f…
+1060521615908331500,Thu Nov 08 13:17:11 +0000 2018,RT @wSokra: Ideas from Svelte applied to React.js...  Compile React Components to native DOM operations to eliminate the react and react-do…
+1060521470063976400,Thu Nov 08 13:16:36 +0000 2018,RT @iamdevloper: Between privacy settings, mailing lists, App Store links, cookie settings and ads, I don’t think I’ve seen actual website…
+1059744781956456400,Tue Nov 06 09:50:19 +0000 2018,Can't handle the amount of people with their #WebSummit badges on the morning bus haha
+1059731167228891100,Tue Nov 06 08:56:13 +0000 2018,@TiagoRBF You're in Lisbon? I would've had some craft beer with you 🍻
+1059730796775460900,Tue Nov 06 08:54:45 +0000 2018,@ImRafaelCosta See you soon mate!
+1059730299364491300,Tue Nov 06 08:52:46 +0000 2018,@wardpeet @marvinhagemeist @_oliverjam @preactjs Great work, can't wait to see it 😃
+1059561358348480500,Mon Nov 05 21:41:28 +0000 2018,RT @mjackson: Which tool do you use to manage your JavaScript dependencies?  (Please RT for greater sample size, thanks!)
+1059560851491995600,Mon Nov 05 21:39:27 +0000 2018,@_oliverjam @preactjs Nice! Where is the latest preact code?
+1057660007678910500,Wed Oct 31 15:46:10 +0000 2018,@_developit @preactjs @marvinhagemeist @hrmny_ @lukeed05 @kristoferbaxter @andre_wiggins @wardpeet @habazzi I had a… https://t.co/q7irdyL2sO
+1057554303039258600,Wed Oct 31 08:46:08 +0000 2018,@_developit @preactjs @marvinhagemeist @hrmny_ @lukeed05 @kristoferbaxter @andre_wiggins @wardpeet @habazzi In Reac… https://t.co/1JgRVmZhOz
+1055874054249504800,Fri Oct 26 17:29:26 +0000 2018,RT @dan_abramov: @naholyr @whymclovin I think you’re overcomplicating it 🙂 React always knows which component is executing because React is…
+1055774479438278700,Fri Oct 26 10:53:45 +0000 2018,@mostruash @_developit @hrmny_ @rahul1sethi @conorcussell @preactjs @dan_abramov The "magic" is also scaring me, st… https://t.co/QwbB6PEz6E
+1055617186604245000,Fri Oct 26 00:28:44 +0000 2018,@_developit @hrmny_ @rahul1sethi @conorcussell @preactjs Like @dan_abramov said... Hooks aren't re-inventing the wh… https://t.co/BjElx1jXNV
+1055505478783062000,Thu Oct 25 17:04:51 +0000 2018,Functional React with React Hooks! It has some similarities with @trivago_tech's Melody API 😃 Let's forget classes… https://t.co/IsUEREYe3n
+1051843811683516400,Mon Oct 15 14:34:41 +0000 2018,RT @mjackson: If coding doesn't feel like being totally lost and having no clue what you're doing, followed by hours of trying different th…
+1050075335184851000,Wed Oct 10 17:27:24 +0000 2018,@flpwgr @limebike *Scooting hahaha
+1050071019703144400,Wed Oct 10 17:10:15 +0000 2018,Can someone explain this payment system? I'm in Portugal, where the currency is EUR, my balance is in GBP, charging… https://t.co/fHZK48e8ab
+1049577266353713200,Tue Oct 09 08:28:15 +0000 2018,RT @linclark: Function calls between JavaScript and WebAssembly are finally fast! 🎉  wasm » JS 🔥 ~750ms → 450ms JS » wasm 🔥 ~5500ms → 450ms…
+1047097214902898700,Tue Oct 02 12:13:24 +0000 2018,RT @typescriptlang: Happy Monday and birthday to us! TypeScript's been public for 6 wonderful years as of today! 🎉🎂🎉  Thanks to everyone wh…
+1045214744079208400,Thu Sep 27 07:33:08 +0000 2018,RT @dan_abramov: @kiarash_zar Do you know the decorators spec has already changed? It will change again. There's a good reason we don't all…
+1044255186905157600,Mon Sep 24 16:00:12 +0000 2018,@jmulfiw @EmmaWedekind Open concept with home office when you need some real focus
+1043841599694925800,Sun Sep 23 12:36:45 +0000 2018,RT @farfetch: Today, the Portuguese and British flags fly over @nyse as the bell rings on our IPO. Thank you to all of our customers and su…
+1038140427579347000,Fri Sep 07 19:02:20 +0000 2018,RT @laanlabs: Copy + Paste reality with this 3d scanning app we’ve been hacking on… Share scans with iMessage &amp; view in AR on #iOS12. Help…
+1038139600500346900,Fri Sep 07 18:59:03 +0000 2018,@kageman Miss you Gurugrammmmmm! 😆
+1034801373253185500,Wed Aug 29 13:54:07 +0000 2018,@whenguitweets Check Paste: https://t.co/NW7eZP979K
+1034377705016492000,Tue Aug 28 09:50:37 +0000 2018,RT @SupraMario: Guys, we did it! We broke the English language! (via Facebook) https://t.co/3xi7NcN1kf
+1034354624302665700,Tue Aug 28 08:18:54 +0000 2018,RT @left_pad: Done. Babel 7 is Released 🎤  https://t.co/zQoeCiZN6p https://t.co/gUsILuQBnK
+1031826516408246300,Tue Aug 21 08:53:06 +0000 2018,RT @HTTPArchive: 🤔 What are the most popular HTML elements actually used on the web? Do &lt;table&gt;s usually have a &lt;tbody&gt;? Is &lt;marquee&gt; dead…
+1027660204425531400,Thu Aug 09 20:57:40 +0000 2018,RT @dawchihliou: It’s a pleasure training with @getify in his one week workshop at @trivago_tech #youdontknowjs https://t.co/UAfxsxSCZr
+1024562036787871700,Wed Aug 01 07:46:39 +0000 2018,RT @rauchg: Don't tell me how to live my life https://t.co/M9WY9DmF1h
+1024201900806365200,Tue Jul 31 07:55:36 +0000 2018,RT @ryanflorence: You slacked w/ the person sitting next to you (headphones, ofc), sent a pull request to the person across from you, revie…
+1021763765690413000,Tue Jul 24 14:27:19 +0000 2018,RT @trivago_tech: There are three free spots left for a 5-day JavaScript workshop with @getify, and one might have your name on it... More…
+1020058146931437600,Thu Jul 19 21:29:48 +0000 2018,RT @pgotthardt: We believe in Open Source. And we wrote down why in this article https://t.co/HX9bkDX65H
+1019105407606849500,Tue Jul 17 06:23:57 +0000 2018,RT @left_pad: Happy to say that @trivago_tech is sponsoring Babel! https://t.co/KDqlSSH3GQ
+1018535814630789100,Sun Jul 15 16:40:36 +0000 2018,I just did nothing. Let's #donothing together. https://t.co/LD82ZRuwJz
+1017703217797451800,Fri Jul 13 09:32:09 +0000 2018,RT @geteslint: Postmortem for Malicious Packages Published on July 12th, 2018 https://t.co/METfDYBuh5
+1016940556214300700,Wed Jul 11 07:01:37 +0000 2018,RT @trivago_tech: We are proud to announce our continued sponsoring of #webpack. More details at https://t.co/qCONirow4Z by @TheLarkInn
+1016940491122888700,Wed Jul 11 07:01:21 +0000 2018,RT @deepigoyal: By the way, Zomato turns 10 today. Read our 10th anniversary blog post here - https://t.co/rNJc5Q4PFU https://t.co/bYUJoLNR…
+1014259234815561700,Tue Jul 03 21:27:00 +0000 2018,The Figma for Coding! Amazing work @CompuIves! 😃 https://t.co/HNSnaF72lJ
+1014047338984362000,Tue Jul 03 07:25:00 +0000 2018,RT @year_progress: ▓▓▓▓▓▓▓▓░░░░░░░ 50%
+1013024536114102300,Sat Jun 30 11:40:45 +0000 2018,RT @trivago_tech: Our very own @pgotthardt wrote a nice article about Melody, trivago's JavaScript framework which just got open-sourced! 😃…
+1011747752831791100,Tue Jun 26 23:07:16 +0000 2018,RT @ProfFeynman: If you cannot explain something in simple terms, you don't understand it yourself. https://t.co/Cs9W1P7LW8
+1011741558167793700,Tue Jun 26 22:42:39 +0000 2018,RT @flschweiger: #n8 is in public beta now 🙌 Grab a copy while it's still hot: https://t.co/mPehXro0eA
+1009668912164868100,Thu Jun 21 05:26:42 +0000 2018,RT @leeb: Excellent cross-analysis of React Native by @schrockn comparing notes between the recent AirBnB blog posts and recent "State of R…
+1009475436445880300,Wed Jun 20 16:37:53 +0000 2018,RT @timsneath: Announcing Flutter Release Preview 1: live from Beijing! https://t.co/vHbcY8x9Ee #Flutter
+1009016351917334500,Tue Jun 19 10:13:39 +0000 2018,RT @wesbos: This will cover the whole stack! And front-end testing!   Here is a diagram detailing the pieces I ended up choosing after a ye…
+1009011360368418800,Tue Jun 19 09:53:49 +0000 2018,RT @ChromiumDev: JavaScript modules are now supported in all major browsers!   @addyosmani and @mathias explain:  🔥 how to use JS modules 🚀…
+1008460774380130300,Sun Jun 17 21:25:59 +0000 2018,RT @dan_abramov: As Vue becomes mainstream and people who like it can make a case for it at their companies more easily, I hope to see less…
+1008460474869080000,Sun Jun 17 21:24:48 +0000 2018,RT @prisma: Introducing GraphQL for Visual Studio Code  ✅ Intelligent autocompletion ✅ Jump-to-definition from anywhere ✅ Schema-based quer…
+1006535804158730200,Tue Jun 12 13:56:50 +0000 2018,@ImRafaelCosta .gif is a file format with bad compression and no control over its playing state, export to a video… https://t.co/yHyPIqwM3v
+1006534789892067300,Tue Jun 12 13:52:49 +0000 2018,RT @pedronauck: I'm so happy to announce Docz! 😍🚀 A simple and powerful tool that'll help you a lot documenting things!  https://t.co/nVnbg…
+1005030809689055200,Fri Jun 08 10:16:32 +0000 2018,RT @stefanjudis: Holy! I just created a React project in @codesandboxapp, pushed it to GitHub, made it editable with @contentful and deploy…
+1004662514481815600,Thu Jun 07 09:53:03 +0000 2018,RT @bphogan: Software dev is 20% code and 80% people.   Yet this industry pushes coding. We create code “bootcamps” , create “everyone shou…
+1001714915281899500,Wed May 30 06:40:21 +0000 2018,Celebrating the “what if UI was a function of state?” 😃 https://t.co/JE4MQpmpb7
+1000308374884544500,Sat May 26 09:31:16 +0000 2018,RT @fr3ino: Because of #GDPR, USA Today decided to run a separate version of their website for EU users, which has all the tracking scripts…
+997019151083495400,Thu May 17 07:41:03 +0000 2018,RT @vaughnwallace: Our latest @NatGeo cover is one for the ages  #PlanetorPlastic https://t.co/NssiHOtaYc
+995590337124028400,Sun May 13 09:03:28 +0000 2018,RT @swyx: I think 80% of companies who say they need to hire more engineers actually don’t.  They need to - motivate better - communicate b…
+994099612507168800,Wed May 09 06:19:51 +0000 2018,RT @dan_abramov: A Gentle Introduction to Prepack, Part 1 https://t.co/et8rMOverV
+990083482348085200,Sat Apr 28 04:21:11 +0000 2018,@RaphaelSaunier @andrestaltz I wish I’d wrote reduxbag on a flight, took me like 2 days to write 30 lines of code 😆 @andrestaltz
+989801452137861100,Fri Apr 27 09:40:30 +0000 2018,RT @figmadesign: You asked, we answered! Now you can update a design in Figma &amp; sync those changes to your website with Figma to React 👊: h…
+988004214969393200,Sun Apr 22 10:38:55 +0000 2018,RT @mxstbr: This article by @cramforce is a must-read for any web application engineer. 👏👏👏  https://t.co/q7Lplkthnr
+987007258608525300,Thu Apr 19 16:37:22 +0000 2018,@robinvdvleuten @andrestaltz MRA - Minimal Reactive Apps 😁 haha
+986998606036074500,Thu Apr 19 16:02:59 +0000 2018,@robinvdvleuten @andrestaltz Thanks @robinvdvleuten, I tried to make the API as similar to redux observable as poss… https://t.co/d0IoqwTk6g
+986621076338806800,Wed Apr 18 15:02:49 +0000 2018,Thanks to @andrestaltz and his callbag spec for streams (and iterables) 😃 Tell me what you think?
+986620704060821500,Wed Apr 18 15:01:21 +0000 2018,Just published reduxbag, callbag-based middleware for redux! 👜 Tiny (&gt;350b) 👜 Zero dependencies 👜 Similar API to re… https://t.co/YP3Qf4GJNh
+985532050815049700,Sun Apr 15 14:55:25 +0000 2018,#Fluttering @flutterio https://t.co/gN1iorY8yx
+984376982409502700,Thu Apr 12 10:25:36 +0000 2018,RT @jensenharris: Leaving a big company job for a startup can rejuvenate your career and make you love work again.💖  But landing a startup…
+980400467690905600,Sun Apr 01 11:04:21 +0000 2018,RT @deeplearnjs: We are so excited to be joining Tensorflow as TensorFlow.js, an ecosystem of tools and libraries for machine learning in J…
+979662585669804000,Fri Mar 30 10:12:16 +0000 2018,RT @addyosmani: Service Workers shipped in Safari for iOS 11.3!! Modern support for offline-caching &amp; network resilience coming to millions…
+979421668367093800,Thu Mar 29 18:14:57 +0000 2018,@flschweiger We’re going to get kicked out! 😂😂😂
+979279763696226300,Thu Mar 29 08:51:04 +0000 2018,RT @popmotionjs: 🚀 🍻 Introducing Pose, a declarative motion system for HTML, SVG &amp; React!  CSS-like syntax, zero-config animations, FLIP, a…
+978966893662031900,Wed Mar 28 12:07:50 +0000 2018,@flschweiger Amazzzzsinngg 😂
+978396262339891200,Mon Mar 26 22:20:21 +0000 2018,RT @CompuIves: 🔴  Introducing CodeSandbox Live  🔴  Real time collaboration in CodeSandbox. We're doing it live!  - Create a live session fo…
+977197567393050600,Fri Mar 23 14:57:10 +0000 2018,RT @leeb: This is it. Product APIs should map to the product developers way of thinking, so they need to share ownership. https://t.co/gmBs…
+976533087638249500,Wed Mar 21 18:56:45 +0000 2018,RT @TheLarkInn: PSA: Just because @typescriptlang feels nicer then #JavaScript to write coming from CPP/C#/Java/etc, doesn't mean you shoul…
+974909546702483500,Sat Mar 17 07:25:23 +0000 2018,@petekofficial @ReleaseRecUK ❤️
+973960363212492800,Wed Mar 14 16:33:40 +0000 2018,Just launched a side-project with two friends 🚀 It’s a digital detox experiment to give you back the free time you… https://t.co/FBKZnSqbmB
+972642262860615700,Sun Mar 11 01:16:00 +0000 2018,Never thought I'd be this excited to launch "nothing"! ⭕️ Stay tuned. We're live in a few hours... ⏰… https://t.co/lBTv0MIDuT
+968884169668530200,Wed Feb 28 16:22:41 +0000 2018,RT @andrestaltz: A programmer is not just someone who writes code. A programmer: - Reads code - Writes code - Understands code - Deletes co…
+968005975029551100,Mon Feb 26 06:13:03 +0000 2018,RT @TheLarkInn: Also, huge thanks to @trivago_tech for giving us the honor of naming webpack 4 with the release/codename: Legato!  With you…
+966014239797325800,Tue Feb 20 18:18:37 +0000 2018,@_BrianKimball @bdc @quentinrousseau @mxstbr @gatsbyjs https://t.co/lPBVtE4WIP
+966013599343956000,Tue Feb 20 18:16:04 +0000 2018,@bdc You can make these with “SQIP” – SVG-based image placeholder by @tbaldauf https://t.co/lPBVtE4WIP
+964817634821800000,Sat Feb 17 11:03:44 +0000 2018,RT @mweststrate: I don't get were the sentiment that new context replaces state management is coming from. If you have 100 todos you would…
+964763817153564700,Sat Feb 17 07:29:53 +0000 2018,@darkpatterns Unsubscribing from @awscloud... https://t.co/XRYBk17yBm
+963912628841144300,Wed Feb 14 23:07:34 +0000 2018,Getting more convinced over Observables :) Promises are eager, not lazy, never synchronous and .then() is too opini… https://t.co/ujpikpJQPS
+962635160654053400,Sun Feb 11 10:31:21 +0000 2018,RT @andrestaltz: Started a wiki page to track and categorize all the callbag 👜 utilities so far: https://t.co/tDRrdZYgW1  Impressively many…
+961289269385072600,Wed Feb 07 17:23:16 +0000 2018,RT @reybango: Welcoming Progressive Web Apps to Microsoft Edge and Windows 10 - https://t.co/eEvG4cJnVl
+961286254146080800,Wed Feb 07 17:11:17 +0000 2018,@tbaldauf We should have 2G Tuesdays at @trivago_tech!
+961153830305108000,Wed Feb 07 08:25:05 +0000 2018,@kageman Maybe your wife as your valentines present? @AnjiMenon 😂 #suspecteveryone Miss you KG! 😃
+961033045041205200,Wed Feb 07 00:25:07 +0000 2018,RT @ajlkn: When Elon Musk launches a fucking car into orbit and you still can’t vertically align shit in CSS https://t.co/bofaVMZNcD
+960185493584523300,Sun Feb 04 16:17:15 +0000 2018,@oerhoert @aadsm I keep functions small, if I need a space, then it maybe has too much logic and can be separated into another function.
+959787010998329300,Sat Feb 03 13:53:50 +0000 2018,RT @trivago_tech: if you are at #FOSDEM18 don't miss the talk about writing concise and elegant #rust code by our dev @matthiasendler - 9:3…
+959382168203071500,Fri Feb 02 11:05:08 +0000 2018,Ready for @FOSDEM :D One of the biggest Open Source Events in Europe and it's free for everyone! #opensource… https://t.co/GBEaBNzfF2
+957442763653636100,Sun Jan 28 02:38:37 +0000 2018,Needed this so much! :D Thanks! https://t.co/kiDYP0ydOB
+957087190718169100,Sat Jan 27 03:05:42 +0000 2018,RT @iamdevloper: after a long day of debugging JS:  &gt; ....maybe `undefined` could be a function
+957086585098461200,Sat Jan 27 03:03:18 +0000 2018,RT @tomayac: .@trivago’s great Progressive Web App (PWA) is all of a sudden fully supported on 📱 iOS 11.3 Beta 1. No single character of co…
+956542019349856300,Thu Jan 25 14:59:23 +0000 2018,RT @benschwarz: ⭐️ Safari 11.1, a huge update: • Service workers!! • Payment request  • Image decode API • Beacon API • &lt;img /&gt; with video…
+953765828125749200,Wed Jan 17 23:07:48 +0000 2018,RT @linclark: Compile WebAssembly faster than it comes in with streaming compilation and our new baseline compiler  How it works → https://…
+951002216273498100,Wed Jan 10 08:06:11 +0000 2018,@acdlite a for Array. c for Comma-separated??? 🤔
+950822539948908500,Tue Jan 09 20:12:13 +0000 2018,RT @gandharva: The year has just began and bad news have started coming in.  Kapil Mohan passed away. A Padmashree, retd. Brigadier and las…
+949305363001638900,Fri Jan 05 15:43:30 +0000 2018,Friday :) https://t.co/gNidN7n13t
+949226602268852200,Fri Jan 05 10:30:32 +0000 2018,RT @thogge: love this, on hard work:  "given two people of approximately the same ability, and one person who works 10% more than the other…
+944356616543129600,Fri Dec 22 23:58:57 +0000 2017,RT @wSokra: webpack 4 alpha.2  * WASM -&gt; WASM/ESM importing * ESM -&gt; WASM validates exports * Minimizer (uglifyjs) caches and parallizes *…
+944355613647220700,Fri Dec 22 23:54:58 +0000 2017,RT @CodeWisdom: “The true test of intelligence is not how much we know how to do, but how to behave when we don’t know what to do.” – John…
+943031244048224300,Tue Dec 19 08:12:23 +0000 2017,Growing up as a Millennial... https://t.co/fclX5c1byd
+943026245457137700,Tue Dec 19 07:52:32 +0000 2017,RT @wycats: JavaScript code is much more expensive, byte for byte, than an image, because of the time spent parsing and compiling it.  It's…
+941701118316482600,Fri Dec 15 16:06:57 +0000 2017,RT @graphcool: ⚡️ GraphQL databases  —  A preview into the future of Graphcool https://t.co/4IHjJSNlTB
+941360135284445200,Thu Dec 14 17:32:00 +0000 2017,RT @flightradar24: 🎄 Finished! A Christmas tree and ‘tree topper’ by an @Airbus A380.  https://t.co/CEadIGqKtt https://t.co/eDclHp0Hum
+941012468696080400,Wed Dec 13 18:30:30 +0000 2017,@ImRafaelCosta Catching the @litecoin wave? Haha
+941008362019393500,Wed Dec 13 18:14:11 +0000 2017,Proud to work somewhere that supports open source, hopefully one day it will become a norm everywhere 😃 https://t.co/C9QgoT4S4T
+939274310295973900,Fri Dec 08 23:23:41 +0000 2017,RT @v8js: As webpack/V8/Node.js version numbers increase, build times decrease: https://t.co/VjDTjOieUd   TL;DR Regularly install updates 🚀…
+938552220815188000,Wed Dec 06 23:34:21 +0000 2017,RT @ericsimons40: Introducing Turbo: 5x faster than Yarn &amp; NPM, and runs natively in-browser 🔥  Super excited to finally announce this!  ht…
+938105636243558400,Tue Dec 05 17:59:47 +0000 2017,RT @Lifeattrivago: Tech Get Together is an annual event organised by trivago to encourage our techies to exchange ideas and build trust. Th…
+936131583723044900,Thu Nov 30 07:15:36 +0000 2017,RT @Reza_Zadeh: Mozilla has released open source speech recognition model &amp; data. Word error rate 6.5%, which is close to human.  Data: htt…
+936119738048139300,Thu Nov 30 06:28:32 +0000 2017,@DheerajAvvari @Zomato Amazing @DheerajAvvari and the team! 😃
+936118659369586700,Thu Nov 30 06:24:15 +0000 2017,RT @xo4n: Big Fan of @polinapok1 and @ivanapetrovicme. They just made our memcache response times faster last release. Hopefully they will…
+936010891698561000,Wed Nov 29 23:16:01 +0000 2017,RT @EricJorgenson: I still find this concept absolutely staggering:  "On a daily basis, 15 percent of searches -- 500 million -- have never…
+935659228034994200,Tue Nov 28 23:58:38 +0000 2017,RT @leeb: Very cool to see AWS integrating serverless GraphQL into its offerings. This feels like just the beginning! https://t.co/RexVhes1…
+935265821110173700,Mon Nov 27 21:55:22 +0000 2017,@brian_d_vaughn https://t.co/aYBAeH2eY6, so easy and learnt a lot about GraphQL
+935265821110173700,Mon Nov 27 21:55:22 +0000 2017,@brian_d_vaughn https://t.co/aYBAeH2eY6, so easy and learnt a lot about GraphQL
+933388146372436000,Wed Nov 22 17:34:10 +0000 2017,RT @sophiebits: How to build a good test suite:  1. Every time you fix a bug, add tests that would have caught it 2. Wait a year or two  (T…
+932997363689549800,Tue Nov 21 15:41:20 +0000 2017,RT @acdlite: Reading the source is literally how I got my current job. I read the React Fiber source then bugged @sebmarkbage and @sophiebi…
+931799656857854000,Sat Nov 18 08:22:04 +0000 2017,@_developit Save your bitcoin 😆
+931320178872340500,Fri Nov 17 00:36:48 +0000 2017,RT @kotlin: Kotlin/Native v0.4 is here: Objective-C interop, WebAssembly and more: https://t.co/9QpkMPOJoq https://t.co/sohrRrcnkw
+930780759505473500,Wed Nov 15 12:53:20 +0000 2017,RT @jmperezperez: Exploring SVG as placeholders for lazy-loading images — Edges, shapes, silhouettes and blur filters. https://t.co/WljXxd8…
+930744914484301800,Wed Nov 15 10:30:54 +0000 2017,@NikkitaFTW Ahhh.. this happened in Lisbon too, but it's not really Uber that's unsafe, it's the mentality of the l… https://t.co/QVIwM7WNi8
+930742577468502000,Wed Nov 15 10:21:37 +0000 2017,@NikkitaFTW What's wrong/unsafe with Uber in Porto? My experiences in Lisbon have been good.
+930704987486916600,Wed Nov 15 07:52:15 +0000 2017,RT @wycats: Front end software development is:  - real-time (instant load, 60fps) - distributed, incremental (synchronize remote data as ne…
+930704574423420900,Wed Nov 15 07:50:36 +0000 2017,RT @wycats: @TheLarkInn Basically "maybe you're overthinking front-end" is just another way of saying that front-end isn't "serious program…
+930054633434869800,Mon Nov 13 12:47:58 +0000 2017,RT @trivago_tech: Interesting read on how webpack reached more than $400K annual funding. Including a mention of trivago :-) https://t.co/9…
+928357101965140000,Wed Nov 08 20:22:35 +0000 2017,RT @rauchg: Genius https://t.co/hO1Tb2Qkfp
+928034246639411200,Tue Nov 07 22:59:41 +0000 2017,RT @b00giZm: Great @Lifeattrivago Vitamin Session by my awesome colleague @tbaldauf about living and embracing the minimal lifestyle 👏 http…
+927473836563497000,Mon Nov 06 09:52:48 +0000 2017,@onebrightlight Login with Facebook and get targeted ads while you 💩 haha
+925976740538830800,Thu Nov 02 06:43:53 +0000 2017,RT @TheLarkInn: For those interested in seeing the "Proof of Concept", on #webpack and #WebAssembly, you can see this branch. https://t.co/…
+925339152350146600,Tue Oct 31 12:30:20 +0000 2017,RT @andrestaltz: It took me months of research to write this new blog post:  "The Web began dying in 2014, here's how" https://t.co/JMKvulI…
+925311314666418200,Tue Oct 31 10:39:43 +0000 2017,RT @wSokra: https://t.co/r7MrUpiR9E
+924616033046007800,Sun Oct 29 12:36:55 +0000 2017,RT @sebmarkbage: It's embarrassing that "turn it off and on again" is still the primary way to fix computers, apps, websites, toasters... S…
+923550563253604400,Thu Oct 26 14:03:07 +0000 2017,RT @TheLarkInn: We love this team and the relationship we've created in these past two years with #webpack. Thank you for everything. ♥️ ht…
+923546996039876600,Thu Oct 26 13:48:57 +0000 2017,The @trivago_tech crew with @TheLarkInn at #ReactiveConf 😃 https://t.co/MBhmIlEPa1
+922934637999153200,Tue Oct 24 21:15:39 +0000 2017,RT @jkup: You know you built a great PWA when folks are willing to demo it live with the network turned off! @trivago at #ChromeDevSummit h…
+922771681034334200,Tue Oct 24 10:28:07 +0000 2017,RT @blainekasten: This thread is blowing my mind as a non-designer: https://t.co/xu2KxG0FOT
+920923140980662300,Thu Oct 19 08:02:41 +0000 2017,RT @ValaAfshar: Talented employees commit when  1 paid well 2 mentored 3 challenged 4 inspired 5 involved 6 appreciated 7 trusted 8 empower…
+920540663111995400,Wed Oct 18 06:42:51 +0000 2017,Proud to have worked on this! Conversational UIs are the future 😃 https://t.co/PBfzUVzhyO
+919630224928788500,Sun Oct 15 18:25:06 +0000 2017,RT @chicoxyzzy: With Edge 16 release (October 17) we will have #WebAssembly and Shared Memory in JavaScript available in all modern browser…
+918536662145216500,Thu Oct 12 17:59:40 +0000 2017,RT @zenorocha: The new GitHub dependency graph for JavaScript is great 🔥 https://t.co/Lw0fR09mCj
+918526394908344300,Thu Oct 12 17:18:52 +0000 2017,RT @graphcool: ⚡️ Announcing the Preview of the Graphcool Framework https://t.co/lXQadP46GI
+918167016925691900,Wed Oct 11 17:30:50 +0000 2017,RT @samccone: So excited to see that https://t.co/7IfXnMhLbb is finally out of private beta and open to everyone! Finally e2e testing for t…
+916950324979667000,Sun Oct 08 08:56:08 +0000 2017,Didn't realise how much I value @Medium's "X min read" caption until reading a blog post without it. Is it worth my unknown amount of time?
+916584665233920000,Sat Oct 07 08:43:08 +0000 2017,RT @sebmck: No idea why British tourists go abroad and stay at a hotel eating British breakfast and then go out to a British pub.
+916442427157868500,Fri Oct 06 23:17:55 +0000 2017,RT @youyuxi: Compiling a Vue file directly into a vanilla web component like @stenciljs does sounds totally doable, will probably try it so…
+914830484710072300,Mon Oct 02 12:32:38 +0000 2017,RT @RichRogersIoT: The challenge with adding more engineers to a project. Just moving from 3 developers to 4 doubles the number of lines of…
+914573013689004000,Sun Oct 01 19:29:33 +0000 2017,RT @jacobsoboroff: Just got this pic from friend aboard the Air France CDG to LAX flight that suffered engine failure &amp; landed safely in Ca…
+913681002601558000,Fri Sep 29 08:25:01 +0000 2017,RT @trivago_tech: With @xenji, @rk3rn3r, @b00giZm, and @twbartel, an amazing 4 trivago speakers will take the stage today at #codetalkshh
+913502603081863200,Thu Sep 28 20:36:07 +0000 2017,RT @expo_io: Introducing Expo AR. Using ARKit w Expo. https://t.co/myQWyd3eZ0
+913306958207348700,Thu Sep 28 07:38:41 +0000 2017,😂 https://t.co/VVopQpBk3Z
+913170631776235500,Wed Sep 27 22:36:59 +0000 2017,RT @addyosmani: JavaScript's dynamic import() is shipping in Chrome! Lazy-load ES modules when a user needs them 🔥  https://t.co/nBss8a6zQX…
+912935953714606100,Wed Sep 27 07:04:27 +0000 2017,RT @trivago_tech: Accessibility at trivago - https://t.co/WIVw5whoz1 #a11y
+910569632028938200,Wed Sep 20 18:21:32 +0000 2017,RT @dan_abramov: Also this wouldn’t happen if @trueadm hadn’t written a script that generates sizes on every build and guilts you into find…
+902812640971550700,Wed Aug 30 08:38:01 +0000 2017,RT @sebmarkbage: It's weird when people think that when you work on a project, you must think that everything in it is perfect.
+902426002319704000,Tue Aug 29 07:01:39 +0000 2017,RT @sebmarkbage: Congrats to Glimmer on landing a binary bytecode delivery mechanism. This is definitely in the right direction. https://t.…
+902053155906703400,Mon Aug 28 06:20:06 +0000 2017,RT @CompuIves: I just published “How I created a parallel, offline, extensible, browser based bundler” https://t.co/CMPfbfWALb
+901455646159245300,Sat Aug 26 14:45:48 +0000 2017,RT @addyosmani: Should browsers offer manual control of request priority for JavaScript, CSS, images..? 🤔 Thoughts welcome on https://t.co/…
+900738396812869600,Thu Aug 24 15:15:43 +0000 2017,@twbartel @radovanjanjic @radovanjanjic best way to digest a schnitzel 😂 Please share the code 😎 haha
+898725501115793400,Sat Aug 19 01:57:11 +0000 2017,@whenguitweets 'Good artists copy; great artists steal'
+898154135610159100,Thu Aug 17 12:06:47 +0000 2017,RT @ChromeDevTools: Introducing Puppeteer: A modern Node.js API for headless Chrome. Built with ❤️ by the Chrome team. https://t.co/VrtaoQg…
+896597257713197000,Sun Aug 13 05:00:18 +0000 2017,RT @googleresearch: Check out deeplearn.js, an open source WebGL-accelerated JavaScript library for ML that runs in your browser → https://…
+896596431859003400,Sun Aug 13 04:57:01 +0000 2017,@whenguitweets @PayPal Great UI and copy @AnjiMenon! Haha
+895495982900813800,Thu Aug 10 04:04:14 +0000 2017,RT @jaffathecake: Well this makes me happy. https://t.co/je1f3Mpf8B
+895031431793127400,Tue Aug 08 21:18:16 +0000 2017,RT @zeithq: Next.js 3.0  https://t.co/kmnJPQCQip https://t.co/2mpUw3dsWe
+893472148865593300,Fri Aug 04 14:02:14 +0000 2017,RT @jaffathecake: Ok yes this is very exciting https://t.co/eQjBKm3C2n
+893451049566183400,Fri Aug 04 12:38:24 +0000 2017,RT @jdalton: webpack's support of a pure-module field fulfills the promise of tree-shaking we were sold. Thank you @wSokra! 🙌 🎉https://t.co…
+893030863826542600,Thu Aug 03 08:48:44 +0000 2017,RT @TheLarkInn: I just published “🎊 trivago helps secure webpack’s future 🎊” https://t.co/qirJhpcL8a
+893029818840866800,Thu Aug 03 08:44:35 +0000 2017,Proud to work at @trivago_tech 🤗 https://t.co/roNUeVsBST
+892695647421386800,Wed Aug 02 10:36:42 +0000 2017,RT @tkadlec: Really dig this! @code extension showing how much code you're pulling in when you import a package from @WixEng https://t.co/A…
+889189261513195500,Sun Jul 23 18:23:34 +0000 2017,@AnjiMenon @whenguitweets I recently built a C-Test to add "/night" under each price, I think it's still running haha
+887570688202203100,Wed Jul 19 07:11:56 +0000 2017,RT @OpenEdAI: OpenSource AI in Education Hackathon 28Jul-4th Aug https://t.co/ckVX94OjD8 Sponsored by @Google, judges @harvardnlp, Hal Abel…
+885741342349021200,Fri Jul 14 06:02:46 +0000 2017,@whenguitweets speak is for screen readers pronunciation. SpeechSynthesisMarkupLanguage is a lot more interesting,… https://t.co/6KfWOGMLXE
+885121231233712100,Wed Jul 12 12:58:40 +0000 2017,RT @dan_abramov: Like, wouldn’t it be great if React/Angular/Ember/etc could be published in some way that parse cost is paid once and not…
+884468601188753400,Mon Jul 10 17:45:21 +0000 2017,@jaffathecake 😎 https://t.co/5MfJpulhkZ
+883367718715568100,Fri Jul 07 16:50:50 +0000 2017,RT @Vjeux: Not writing semi-colons, the gift that keeps on giving... :( https://t.co/5MviITHwrh
+882834924537086000,Thu Jul 06 05:33:42 +0000 2017,RT @jaredforsyth: It's done! For all you @reactjs JavaScript folks who want to learn @reasonml, here you go! "A ReasonReact Tutorial" https…
+882329718003044400,Tue Jul 04 20:06:12 +0000 2017,@mxstbr Worked on this recently at trivago, it can be confusing, browser support, using VAPID, I could write a blog… https://t.co/pYwuPmvXMu
+880092973446332400,Wed Jun 28 15:58:10 +0000 2017,RT @_developit: Regardless of the humbling fact that it uses preact, https://t.co/HuYTnSNelP is also one of the most convincing PWA's I've…
+880088248030294000,Wed Jun 28 15:39:24 +0000 2017,@whenguitweets Great presentation! :D
+878713825721233400,Sat Jun 24 20:37:56 +0000 2017,Thanks @tom_says_things! My first project at @trivago_tech 😃 https://t.co/JMnpYTuDkP
+877932327866912800,Thu Jun 22 16:52:32 +0000 2017,@EfeGurkan I got a middle seat too, must be related to Brexit or something... xD
+877925357772578800,Thu Jun 22 16:24:51 +0000 2017,RT @estellevw: IE makes up 4.3% of the web. 20% of people live with disabilities. When it comes to development, which is your priority? via…
+876688476716105700,Mon Jun 19 06:29:55 +0000 2017,This... And thanks to trivago for doing recruiting the right way :) https://t.co/AT32p9syMP
+876567582878429200,Sun Jun 18 22:29:32 +0000 2017,@tom_says_things At least it works offline ;) haha
+876383939803443200,Sun Jun 18 10:19:48 +0000 2017,Working out @Ryanair's "random" seat allocation. Middle seats (B/E) go first, so view layout and check-in later to get a better seat! 🙂
+874185876430913500,Mon Jun 12 08:45:29 +0000 2017,RT @sebmck: Yarn tip: You can alias a package by using `yarn add fake-name@npm:left-pad`. Now you can use `require("fake-name")` to require…
+873206800069341200,Fri Jun 09 15:54:59 +0000 2017,Only @ken_wheeler 😂 https://t.co/QsZhZYTW8i
+872908243844165600,Thu Jun 08 20:08:37 +0000 2017,RT @evanwallace: Figma loads 3x faster after switching to #WebAssembly! Details are here: https://t.co/fP43r0HZIq. Very exciting for the fu…
+872872745050280000,Thu Jun 08 17:47:34 +0000 2017,RT @ProductHunt: "It is a mistake to assume much about your community before you get in there and observe them doing their thing."https://t…
+872732415508262900,Thu Jun 08 08:29:57 +0000 2017,RT @elm_europe: Elm = now! #elmeurope https://t.co/yuGVUT794h
+872729892328271900,Thu Jun 08 08:19:55 +0000 2017,RT @samccone: 60FPS Motion Blur in JS  🐐 Web Audio 🗣️ JS bundle: 3.8kb 😱   Source: https://t.co/pfiaA3de2B 🧐
+872093519699218400,Tue Jun 06 14:11:12 +0000 2017,RT @matzatorski: 🎉 Super excited about this! CRRA now has a CLI. Run: yarn create reason-react-app MyApp More coming very soon! https://t.c…
+870240953793163300,Thu Jun 01 11:29:46 +0000 2017,RT @cpojer: When I started to work on JavaScript testing, this is what I was hoping would one day happen: https://t.co/fxYuUUzZ9T
+870046437492576300,Wed May 31 22:36:50 +0000 2017,RT @drbreak: Just realized that the little maze game I did for our @trivago_tech PWA offline page was shown on Google #io17 💪 https://t.co/…
+869109292976275500,Mon May 29 08:32:57 +0000 2017,Great stuff! Beautiful execution of great UI and UX! :D https://t.co/eo6KVufIxD
+868842191954825200,Sun May 28 14:51:35 +0000 2017,RT @andpoul: software engineers: still sure your job isn't going to be automated? https://t.co/nJDhpmDVpf
+868836457795997700,Sun May 28 14:28:48 +0000 2017,RT @sebmarkbage: Have you read about Facebook's BigPipe? It's still how FB works. There are variants but it's a principal must read. https:…
+868647959847731200,Sun May 28 01:59:46 +0000 2017,Will stop complaining about taxes... haha https://t.co/gKF8dC5HJP
+865175631381893100,Thu May 18 12:01:59 +0000 2017,Happy to be working on the team that built this! 😃 https://t.co/NqogdyJOUk
+865083339887214600,Thu May 18 05:55:15 +0000 2017,RT @tomayac: Companies with Progressive Web Apps rolled out to production. Happy to see my partner @trivago on it. 🎉 Congrats, @trivago_tec…
+864759188056141800,Wed May 17 08:27:11 +0000 2017,RT @linclark: If you're coming to my #reacteurope talk, I have 2 prereqs for you:  ⚛ Fiber: https://t.co/KqCTuBIjvf 🔧 WebAssembly: https://…
+864727315653197800,Wed May 17 06:20:32 +0000 2017,Most of my colleagues at @ReactEurope or #GoogleIO, going to be a lonely day watching live streams! 😆
+864375045237469200,Tue May 16 07:00:44 +0000 2017,RT @AirbnbEng: Learn about how we rearchitected our Airbnb's Frontend!  https://t.co/Xc7s59gpve
+863803217066561500,Sun May 14 17:08:30 +0000 2017,RT @sehurlburt: Also a lot of people forget that code is often the easy part  Hard parts: communication, prioritizing, planning, learning,…
+861840886195519500,Tue May 09 07:10:54 +0000 2017,RT @marjakh: Slides for my Parser talk in #jsconfeu @jsconfeu https://t.co/ookudyiAyM
+860993067733717000,Sat May 06 23:01:58 +0000 2017,RT @auchenberg: Electrino — reduces your Electron app size by 99.9% with platform provided web runtimes (WebKit, EdgeHTML). https://t.co/AB…
+859747905661546500,Wed May 03 12:34:08 +0000 2017,Yay! The trivago Progressive Web App is LIVE! 😃 https://t.co/IXcAtz5MpF #pwa #killthedinosaur
+859540317871251500,Tue May 02 22:49:15 +0000 2017,RT @malyw: Huge news: Native ECMAScript modules are implemented in Chrome 60! ESM implementation is in all the major browsers!🎉 https://t.c…
+857111343480143900,Wed Apr 26 05:57:23 +0000 2017,RT @imguic: Wow... https://t.co/ayLKRZJ0Gb react + sketch
+856269180605169700,Sun Apr 23 22:10:56 +0000 2017,RT @eanplatter: Starting out with @reasonml is 1000x easier with that bucklescript output right in your face. Javascript output you can act…
+856071287717994500,Sun Apr 23 09:04:34 +0000 2017,RT @manekinekko: understanding async/await in 7 seconds https://t.co/IJOQJ2DR35
+855336458655195100,Fri Apr 21 08:24:37 +0000 2017,That feeling when you hit 100/100 on @____lighthouse!!! :D #ProgressiveWebApp #PWA https://t.co/nKGwczoMra
+853743321205923800,Sun Apr 16 22:54:04 +0000 2017,RT @_mwc: Can you tell which is phishing?   You can't. That's the problem with Unicode look-a-like character substitution.   https://t.co/4…
+853730795894308900,Sun Apr 16 22:04:17 +0000 2017,RT @mxstbr: Reductive, an official reimplementation of Redux in @reasonml! 😍  https://t.co/bQe67dCnY8
+853434190053986300,Sun Apr 16 02:25:41 +0000 2017,When India strikes @trivago! :D https://t.co/5fQvB5CGIP
+851910659168243700,Tue Apr 11 21:31:43 +0000 2017,RT @TheLarkInn: My #webpack talk is up!! ❤️&amp; Thanks to @Una @linclark @kosamari @sarah_edo who inspired me to teach tech w/ art. 👩🏼‍🎨https:…
+851484746098102300,Mon Apr 10 17:19:17 +0000 2017,RT @ann_tronic: Totally amazed by my co-newbies from literally allover the world starting at @trivago @Lifeattrivago #Checkin #allsmiles ht…
+850101565197340700,Thu Apr 06 21:43:01 +0000 2017,@sebmarkbage Component is part of the system Plugins are addon's to the system
+849907532885872600,Thu Apr 06 08:52:01 +0000 2017,Still don't really understand how this is possible! Great job @_developit :D https://t.co/THGaATzLNG
+849201029711372300,Tue Apr 04 10:04:37 +0000 2017,RT @addyosmani: JavaScript &amp; CSS code coverage are out of experiments in @ChromeDevTools. Useful for discovering potential size savings in…
+847812497642053600,Fri Mar 31 14:07:05 +0000 2017,How creativity achieves perfection! Writing a piece of music, developing a product, less is more! https://t.co/x3JmkeWn9D
+847767513731657700,Fri Mar 31 11:08:20 +0000 2017,RT @philnash: I'm totally turning on the Chrome dev tools verbose logging and violations. Looks like really useful data. Thanks @umaar! #Re…
+847761908711256000,Fri Mar 31 10:46:04 +0000 2017,RT @apollographql: We're excited to announce Apollo Client 1.0! https://t.co/XPC4XUvOaw #GraphQL
+847760230066790400,Fri Mar 31 10:39:24 +0000 2017,Best example to explain asynchronous code! Thanks @chantastic and great article around the setState object literal… https://t.co/YNtB56PwH2
+847221194583683100,Wed Mar 29 22:57:28 +0000 2017,RT @0point5twins: Busy morning so far, updating all my Euros https://t.co/t0Njj35nAO
+847215545288183800,Wed Mar 29 22:35:01 +0000 2017,@kentcdodds @nzgb @_zouhir @mjavascript It yields, until next is called! Closures = scope confusion! redux-saga! Love how @UberEng used it!
+847104506345246700,Wed Mar 29 15:13:47 +0000 2017,RT @bmeurer: 💡 Use &amp;&amp; and || with care in your hot #JavaScript code. See for example https://t.co/B6lQdJ7H21. /cc @_developit https://t.co/…
+847098300356608000,Wed Mar 29 14:49:07 +0000 2017,@_prateekbh @owencm +1, PWAs on PlayStore :D
+847093795816648700,Wed Mar 29 14:31:13 +0000 2017,@imguic this might be available somewhere on @figmadesign, it has a the "undo" stack and is always saving changes, just needs "commits"! 😀
+847092565757366300,Wed Mar 29 14:26:20 +0000 2017,Facebook messenger is teasing me! Delete or @reactjs? #reactofcourse #reactingonreact https://t.co/vGkCa9Thx2
+846985116882800600,Wed Mar 29 07:19:22 +0000 2017,RT @JI: Neat post from Uber on React Native in production, downloading new JS bundles, embedding WebViews, Flow type checks: https://t.co/t…
+846852114747965400,Tue Mar 28 22:30:52 +0000 2017,RT @01alchemist: I can also 😎 debug #webassembly in @FirefoxNightly even better with local values in scope 😍 #WASM #Debug #Firefox https://…
+846849525755056100,Tue Mar 28 22:20:35 +0000 2017,RT @addyosmani: Congrats to @emberjs for shipping https://t.co/UGLsbYD1pE. Verified their hello world app is now _30KB_ in production mode.…
+846848878083231700,Tue Mar 28 22:18:00 +0000 2017,RT @mxstbr: 🎉 Super excited to announce ✨ polished, the lightweight toolset for writing styles in JavaScript!  https://t.co/QwtR78C17Y http…
+846287167890604000,Mon Mar 27 09:05:58 +0000 2017,RT @alex_frantic: I think I *finally* understood @_chenglou's talk on taming the metalanguage https://t.co/Rv7xZdZFnc
+844323561586262000,Tue Mar 21 23:03:18 +0000 2017,Hotel? https://t.co/XBEPqF17I9
+843777107788550100,Mon Mar 20 10:51:53 +0000 2017,@imguic @sarna_pranu Apply this to development too! :D
+843620408603656200,Mon Mar 20 00:29:13 +0000 2017,@sharifsbeat How does performance compare between each library?
+843240957193736200,Sat Mar 18 23:21:25 +0000 2017,@grabbou @ryanflorence Living is an antipattern 😆
+841720481342447600,Tue Mar 14 18:39:35 +0000 2017,RT @mpjme: This old answer by @wvo on the traps of OOP is making the rounds, it's still great: https://t.co/nnFPQLsl64
+841645922148859900,Tue Mar 14 13:43:19 +0000 2017,RT @dan_abramov: I think Create React Native App will turn out more important than people realize. Works on Windows and doesn’t need GBs of…
+841073370372427800,Sun Mar 12 23:48:12 +0000 2017,@dan_abramov @babeljs "super() outside of 'constructor' method"? Does @flowtype catch this? So excited about it! haha
+841071786456412200,Sun Mar 12 23:41:54 +0000 2017,@ReactEurope Dammmnn! Just checked tickets again, didn't realise that round 2 had finished... 2018 it is then...
+841070112312553500,Sun Mar 12 23:35:15 +0000 2017,Everyone have a great time at React Conf, I just hope I can make @ReactEurope this year! 😀
+841068656998117400,Sun Mar 12 23:29:28 +0000 2017,@yaypie I can argue with this.. We used to develop documents, now we develop apps! Plus, how do you know you're doing it correctly now?
+841033205109162000,Sun Mar 12 21:08:36 +0000 2017,We built a similar system at Zomato! Great high-order component to handle code splitting :D Especially the preload!… https://t.co/7BOA7JEtUD
+841031305315930100,Sun Mar 12 21:01:03 +0000 2017,😀 https://t.co/txB07g4PGV
+840340445137907700,Fri Mar 10 23:15:49 +0000 2017,RT @slightlylate: If you work on the web, please read: "World Wide Web, Not Wealthy Western Web (Part 1)": https://t.co/bh2NsS0gcP via @sma…
+840262295708143600,Fri Mar 10 18:05:17 +0000 2017,RT @iamdevloper: Serverless = "someone else is responsible for these servers going down"
+840261851216793600,Fri Mar 10 18:03:31 +0000 2017,“Working as a woman can #suck” 😕 https://t.co/auaoPXpuhM
+839217919267582000,Tue Mar 07 20:55:18 +0000 2017,RT @AnjiMenon: Jotted down a few things about #UXWriting and wrote my first post on Medium: https://t.co/gjuDGRiaPZ  #UX Copy #ProductCopyw…
+837988750785458200,Sat Mar 04 11:31:01 +0000 2017,RT @graphcool: ⚡️ We're very excited to announce our new GraphQL Subscriptions API in collaboration with @apollographql https://t.co/MAGWPZ…
+837987863409086500,Sat Mar 04 11:27:30 +0000 2017,RT @AirbnbEng: Read about how we used experiments to successfully move our search page to @reactjs!   https://t.co/1TqK5KYULu
+837934307700277200,Sat Mar 04 07:54:41 +0000 2017,RT @dan_abramov: Experimenting with inline warnings in React Fiber @ChromeDevTools Timeline integration. https://t.co/CPqeNVSce8
+836520400175652900,Tue Feb 28 10:16:19 +0000 2017,RT @deepigoyal: Here's what our 'cloud kitchen' business is about. Know more about Zomato Infrastructure Services - https://t.co/VYEMlcoGf2…
+834519793990393900,Wed Feb 22 21:46:38 +0000 2017,@ryanflorence Just add a try {} catch {} bro! 😁
+834517341446615000,Wed Feb 22 21:36:53 +0000 2017,@ryanflorence @_developit 😂😂😂
+834515642858364900,Wed Feb 22 21:30:08 +0000 2017,@spikebrehm @ryanflorence To work? I bet it's a screenshot of the map! haha
+834514063493181400,Wed Feb 22 21:23:51 +0000 2017,@_developit Didn't understand promises until questioned about them! Missing catch, all, etc... but it's just 10 LOC https://t.co/TgFWembNwd
+834507494261039100,Wed Feb 22 20:57:45 +0000 2017,@_developit I also thought "preact" was just a "hype", until I read the source code! So inspiring! Simplicity is a feature... 😃
+834503195195895800,Wed Feb 22 20:40:40 +0000 2017,@_developit Size matters! Haha I've learnt a lot from your readable minifications ~indexOf and now status/200|0 == 1 😃
+834396805949452300,Wed Feb 22 13:37:55 +0000 2017,What is up with @_developit and his 500b? hahaha
+834356419323449300,Wed Feb 22 10:57:26 +0000 2017,RT @daniel_bilar: Sargam: MS-LinkedIn service to help India gov train &amp; find work for middle &amp; low-skilled workers https://t.co/sxWn64mamR…
+833570392807575600,Mon Feb 20 06:54:03 +0000 2017,RT @SwedeninUSA: We look forward to informing the US administration about Swedish immigration and integration policies. https://t.co/x5G3eu…
+832511757876883500,Fri Feb 17 08:47:25 +0000 2017,"To understand recursion, you first need to understand recursion, to recursion understand." 🤔
+832140284125278200,Thu Feb 16 08:11:18 +0000 2017,RT @petekofficial: Here are the news I've been wanting to tell you all. I'm playing for the first time on Ministry of Sound Club... https:/…
+832108700693323800,Thu Feb 16 06:05:48 +0000 2017,Lisbon has plenty of talent, don't let startups abuse the unemployment rate to underpay developers! https://t.co/BC4M2DmOV0
+831837649715462100,Wed Feb 15 12:08:45 +0000 2017,RT @BenNadel: “Write code that’s easy to delete, not easy to extend.”  … is one of the best pieces of programming advice I’ve ever read.
+831529034110509000,Tue Feb 14 15:42:25 +0000 2017,- Be my Valent...? - Nein!
+831020327228551200,Mon Feb 13 06:01:00 +0000 2017,Amazing "Trip Experiences API" by #Uber! Going Home? Turn on the lights! Airport? Check-in! Music for length of trip! Making traffic joyful!
+830628045673242600,Sun Feb 12 04:02:13 +0000 2017,RT @sharifsbeat: Published "What If React Was Really Only The V in MVC?"  This should replace the slides for my talk @ReactVienna https://t…
+830624597850550300,Sun Feb 12 03:48:31 +0000 2017,@_ericelliott Or even better, explain it to someone with a non technical backgroud
+830281844767617000,Sat Feb 11 05:06:32 +0000 2017,RT @addyosmani: New: JavaScript Start-up Performance. What slows down web apps from booting up? Learn how to measure &amp; improve https://t.co…
+830279372900753400,Sat Feb 11 04:56:43 +0000 2017,RT @jaffathecake: CSS can now load progressively in Chrome Canary with the "Experimental Web Platform features" flag. Details: https://t.co…
+830233441169846300,Sat Feb 11 01:54:12 +0000 2017,RT @czaplic: Check out this in-browser @elmlang editor, very well done! Great work @luke_dot_js!  https://t.co/4i6ydXNC3Y https://t.co/BUNw…
+830165608629051400,Fri Feb 10 21:24:39 +0000 2017,What matters is how you shape your application state, not what library you use! #3amthoughts #zomatohackathon
+830165304646852600,Fri Feb 10 21:23:27 +0000 2017,I've complained about redux having too much boilerplate, but it's so declarative, easy to understand and fun to write when you get into it!
+830130813832482800,Fri Feb 10 19:06:23 +0000 2017,7 hours into the hackathon! Still setting up my webpack and babel configuration! #JSLife #JSiseasytheysaid #zomatohackathon
+830022570325930000,Fri Feb 10 11:56:16 +0000 2017,#zomatohackathon has started! https://t.co/VkQRQrRcwm
+829627226543026200,Thu Feb 09 09:45:19 +0000 2017,RT @Baleinho: Hitler died in 1945. Trump was born in 1945. Coincidence? I don't think so. Mistery? Maybe. Hotel? Trivago.
+829540201865236500,Thu Feb 09 03:59:30 +0000 2017,RT @ThePracticalDev: I like this story 😁 https://t.co/RPaJJF5d9e https://t.co/y6dqfrwOEi
+829374041106501600,Wed Feb 08 16:59:15 +0000 2017,RT @ChromiumDev: V8 5.7 news! 🔥  ES2017 async functions now as fast as Promises ⚡️⚡️ Promises perf doubled 🔍 15% faster RegExp  https://t.c…
+827341015283441700,Fri Feb 03 02:20:43 +0000 2017,RT @Paul_Kinlan: So excited by this. It might seem little, but it's a great big step. https://t.co/3JZZODmQfl
+826987711495934000,Thu Feb 02 02:56:49 +0000 2017,RT @runkitdev: Make “works on my machine” a thing of the past. Introducing new Stack Traces, the best way to file bugs on GitHub! https://t…
+826323776631615500,Tue Jan 31 06:58:35 +0000 2017,RT @Zomato: 😝 https://t.co/samIcS4YIi
+825662875070918700,Sun Jan 29 11:12:24 +0000 2017,RT @jordwalke: Versioning/dependency management might sound really boring but you know what's *not* boring? My software building/running re…
+825572581533102100,Sun Jan 29 05:13:36 +0000 2017,RT @jamescbell4: @ohanhi When people ask me why I came to work in India, I answer: To learn functional programming, especially currying! Ha…
+825572540063965200,Sun Jan 29 05:13:26 +0000 2017,@ohanhi When people ask me why I came to work in India, I answer: To learn functional programming, especially currying! Hahaha
+825321522273218600,Sat Jan 28 12:35:59 +0000 2017,RT @jmspool: Design is not being creative.  It's solving hard problems.   You may come to a creative solution, but only after you've done t…
+825037687287525400,Fri Jan 27 17:48:07 +0000 2017,@sarah_edo Amazing meme! Haha Keep me updated about Paris, I'm interested!
+824986968064798700,Fri Jan 27 14:26:35 +0000 2017,@sarah_edo @lbineau @vlh @SaraSoueidan @Diaco_ml @greensock @rachelnabors @jaffathecake also what about width/max-width?
+824838615519817700,Fri Jan 27 04:37:05 +0000 2017,RT @Leech: I'm not a robot.. https://t.co/6hHkhkmoWN
+824663115409154000,Thu Jan 26 16:59:42 +0000 2017,RT @ESnextNews: TurboScript: JS dialect for fast parallel programming @01alchemist [Compiles to asm.js and WebAssembly] https://t.co/ftjFDD…
+824641178771468300,Thu Jan 26 15:32:32 +0000 2017,@ryanflorence HOC = Receives a component that returns a component. Factory = Receives a variable that returns a component
+821698871042543600,Wed Jan 18 12:40:51 +0000 2017,RT @okonetchnikov: ✏️ Just published my new blog post “React at 60fps”: https://t.co/TdvvIq9nWD   Thanks @karlhorky for editing and @mxstbr…
+818770684125978600,Tue Jan 10 10:45:17 +0000 2017,RT @wex1200: Best advice I can give for 2017: surround yourself with people who are obsessed w/ trying to shape the future, not people livi…
+818379346054217700,Mon Jan 09 08:50:15 +0000 2017,@kageman too much Black Mirror? Hahaha
+818227700351438800,Sun Jan 08 22:47:40 +0000 2017,@jesslynnrose What I'll be working on, how I'll be making a difference and what I'll learn!
+818226175847694300,Sun Jan 08 22:41:36 +0000 2017,@davidwalshblog I was in Moscow yesterday, -22 degrees F! I didn't know it could get that cold! haha
+818214770109071400,Sun Jan 08 21:56:17 +0000 2017,#OpenDataMatters https://t.co/5ioIpbCyIY
+817678405722312700,Sat Jan 07 10:24:58 +0000 2017,The possibilities with this are endless! So excited about WebAssembly! https://t.co/8hPwmCmnpu
+817669985694781400,Sat Jan 07 09:51:30 +0000 2017,RT @chicoxyzzy: Just updated my "Compiling Rust to WebAssembly Guide" with instructions how to run wasm in Node.js! https://t.co/9acRt26Ba2…
+817669966493286400,Sat Jan 07 09:51:26 +0000 2017,RT @dan_abramov: @codylindley The goal is createClass =&gt; ES6 classes =&gt; functions. One step at a time.
+817666923148279800,Sat Jan 07 09:39:20 +0000 2017,RT @imguic: The new mobile website is now online yeah https://t.co/8bcaRU7hMk - it's a progressive web app, still some ui fixes left tho!
+817303867645890600,Fri Jan 06 09:36:41 +0000 2017,2017 Goal is to have a few listed in the next few months! :D #PWAFTW
+817297820449382400,Fri Jan 06 09:12:39 +0000 2017,Here's your Progressive Web App Store! Try before you 1-click install! I wanted to build something like this! 😀 https://t.co/kYYgIUnOOV
+815072849324961800,Sat Dec 31 05:51:25 +0000 2016,Learning about CPU heat dissipation! If you want to develop a fast site on mobile then test on a slow device, in summer, in Africa! 😂
+814917898070151200,Fri Dec 30 19:35:41 +0000 2016,RT @rauchg: Three limits every UI engineer should know. Important to remember! https://t.co/lNGy2d6fRq https://t.co/fdWB8Mivre
+814917274087788500,Fri Dec 30 19:33:13 +0000 2016,@sharifsbeat I was questioning :) Looking at the jsbins, it seems the virtual dom still works, so I'm wondering whats the trade-offs are...
+814713751266070500,Fri Dec 30 06:04:29 +0000 2016,@sharifsbeat Re-rendering to dom node? Won't that re-render the whole app? A high-order component with prop component would be better?
+814677619220172800,Fri Dec 30 03:40:55 +0000 2016,Differences between objects and closures! https://t.co/stuMiiWyvI
+813784343285928000,Tue Dec 27 16:31:21 +0000 2016,@sebmck Go to the Açores Islands too!
+813442260834521100,Mon Dec 26 17:52:02 +0000 2016,RT @CodeWisdom: “Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” -…
+813442260834521100,Mon Dec 26 17:52:02 +0000 2016,RT @CodeWisdom: “Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” -…
+813319586661560300,Mon Dec 26 09:44:34 +0000 2016,@trueadm Wow nice! What about poor Tesco? haha
+812484695589953500,Sat Dec 24 02:27:01 +0000 2016,RT @D__Gilbertson: I wrote a thing about web performance #javascript #webdevelopment #reactjs https://t.co/3gOIgnG0Kr
+811955213011562500,Thu Dec 22 15:23:02 +0000 2016,@HDFCBank_Cares What's the limit on international purchases and withdrawals of cash abroad at the moment?
+811116587100950500,Tue Dec 20 07:50:38 +0000 2016,@mzabriskie check the source code haha
+810847474717966300,Mon Dec 19 14:01:17 +0000 2016,Refreshness of "Immutable UIs" by @leeb! So good! :D https://t.co/sXigvZKNcG
+809271826647957500,Thu Dec 15 05:40:13 +0000 2016,"Simplicity is a feature."
+807964387394789400,Sun Dec 11 15:04:55 +0000 2016,@nikgraf #suspectallarrays haha
+807963053669040100,Sun Dec 11 14:59:37 +0000 2016,@nikgraf check out https://t.co/TW1zMwe1EK
+807815647946100700,Sun Dec 11 05:13:53 +0000 2016,@_ericelliott CSS and I like anime.js
+807741590391226400,Sun Dec 11 00:19:36 +0000 2016,Sometimes I hear the problems people have in life. I'm worrying if I dispatch actions in my reducer or action creator! 😂 #redux #fpthinking
+807475228611706900,Sat Dec 10 06:41:11 +0000 2016,Hahahahaha "Even though the air is like soup, let's congratulate Delhi Aiport on being Carbon Neutral"!😂 https://t.co/LVvB1K2BUu
+807319543366287400,Fri Dec 09 20:22:33 +0000 2016,Today I was asked about how Promises work, so I wrote a tiny polyfill! #PinkyPromise #10LOC #PromisePolyfill #es6… https://t.co/tSvCF0S68r
+807170522224230400,Fri Dec 09 10:30:23 +0000 2016,Niiiiceeee :D https://t.co/AY5UHEY54u
+806752848214003700,Thu Dec 08 06:50:42 +0000 2016,RT @addyosmani: @_developit I think the real win is both Inferno &amp; Preact have pretty low parse/exec costs out of the box. Want to look at…
+806058973522698200,Tue Dec 06 08:53:29 +0000 2016,RT @Justinwillis96: The future is near. Going from the web to an actual apk fully integrated into the OS. PWA's and the modern web are amaz…
+805965076154839000,Tue Dec 06 02:40:22 +0000 2016,I've been using the "Just walk out technology" for years and now I have to pay for it?!?! #AmazonGo https://t.co/CjbjwSm2r5
+805316529042559000,Sun Dec 04 07:43:17 +0000 2016,RT @sharifsbeat: Not sure when to use Redux? You could use withReducer and easily refactor to Redux should you ever need to. Be pragmatic.…
+804439144520745000,Thu Dec 01 21:36:52 +0000 2016,.@dan_abramov Thought this was a typo, but every time I look at Redux source code, I say "Dam, Abramov! Why didn't… https://t.co/uohQy5nuw9
+804243902639112200,Thu Dec 01 08:41:03 +0000 2016,@wesbos @dan_abramov Testing out https://t.co/kJ4nkeJ336 with dynamic-polyfill package but will cause slight boot up delay on older browsers
+804241823325487100,Thu Dec 01 08:32:47 +0000 2016,@imguic Not seen a single trump tweet, must be following the right people! :D javascript &gt; politics haha
+804001327781023700,Wed Nov 30 16:37:08 +0000 2016,@imguic Forget webviews, React Native it!!!
+803967742676058100,Wed Nov 30 14:23:41 +0000 2016,RT @Rich_Harris: Something I've been working on the last couple of weeks – a totally new approach to building UIs https://t.co/8FV0pevAWM
+803838836048621600,Wed Nov 30 05:51:27 +0000 2016,@mweststrate Using arrow functions don't bind "this", so "self" variable is not needed, seems cleaner? https://t.co/Q4eSscyCV9
+801664640266563600,Thu Nov 24 05:51:59 +0000 2016,@mweststrate why no arrow functions instead of "self"? MobX version is so clean!
+800740706042056700,Mon Nov 21 16:40:36 +0000 2016,RT @rauchg: @trueadm @addyosmani @dan_abramov I thought the P in PWA was Preact
+800414401018740700,Sun Nov 20 19:03:58 +0000 2016,@Jack_Franklin Great first video! Thanks Jack! :D
+799301782610460700,Thu Nov 17 17:22:49 +0000 2016,Starting a new #ReactNative project this weekend, not sure whether to use #MobX again or profound my #Redux knowledge! #TheStruggleIsReal
+799254941814489100,Thu Nov 17 14:16:42 +0000 2016,@meneenja OLD MONK is the ANSWER! #solutiontoallproblems haha
+799253813211185200,Thu Nov 17 14:12:13 +0000 2016,Just spent half an hour debugging a cache problem, seems I misspelled cacheKey as cache_key somewhere! 😄 #fml #shouldbelinting #phpproblems
+798886543700037600,Wed Nov 16 13:52:49 +0000 2016,Thanks to my brother @petekofficial for getting me through this afternoon! Great mix! :D https://t.co/5mdg2Qy09P
+797156484995919900,Fri Nov 11 19:18:11 +0000 2016,RT @iamdevloper: being handed a legacy codebase you have no idea about https://t.co/rKJIR55Yj5
+796266538248511500,Wed Nov 09 08:21:51 +0000 2016,RT @jorilallo: The only real winner of tonight: real-time Javascript
+795890088819294200,Tue Nov 08 07:25:58 +0000 2016,@andrestaltz "We're committed to (control) your privacy and security"
+793438030849867800,Tue Nov 01 13:02:22 +0000 2016,RT @samccone: https://t.co/nghdsfmHHB  jaw drop https://t.co/Kb9SdyFPiB
+791833950972940300,Fri Oct 28 02:48:20 +0000 2016,JS Problems?!?! Haha #null https://t.co/n4OHPzbqoK
+791628757425541100,Thu Oct 27 13:12:58 +0000 2016,RT @iamdevloper: - hey how did your hackathon go? - not too bad, we got Babel set up - yep… - yep.
+791618020334456800,Thu Oct 27 12:30:18 +0000 2016,RT @souza_aleff: Ok, @elmlang is amazing but I still have to deal with css somewhere ¬¬ https://t.co/OYJEUE0KQ2
+791038741506773000,Tue Oct 25 22:08:27 +0000 2016,@mjackson haha does "knowing JavaScript" even exist??? Haha
+791037706411180000,Tue Oct 25 22:04:20 +0000 2016,@wesbos I know you have to make a living, but opportunities to learn should be for all, he's gone out his way to email you haha
+791035205792305200,Tue Oct 25 21:54:24 +0000 2016,RT @dan_abramov: These two snippets are different:  // 1 obj.method();  // 2 var method = obj.method; method();  Learn why and you’ll under…
+790450487782957000,Mon Oct 24 07:10:56 +0000 2016,Switching to first tab on mac: [CMD]+[1] Missed the [1], hit [Q] instead 😶 #MondayMornings
+790199517471658000,Sun Oct 23 14:33:40 +0000 2016,“How To Accept Over-Engineering For What It Really Is” by @FagnerBrack https://t.co/5bC1Fo0Xg2
+786783695021695000,Fri Oct 14 04:20:25 +0000 2016,Love how good actions easily become chain reactions. Just holding a door for someone can improve a lot of people's day #morningthoughts
+786304932643164200,Wed Oct 12 20:37:59 +0000 2016,@HenrikJoreteg I've fallen for this... Just because it's a library or someone else does it, doesn't mean it's a good practice!
+786302677307097100,Wed Oct 12 20:29:01 +0000 2016,RT @ThePracticalDev: A true JavaScript expert https://t.co/5tGQ5xknUF https://t.co/dWUx0p353K
+786225703628918800,Wed Oct 12 15:23:09 +0000 2016,.@Zomato decreasing load times from 3.8 seconds to well under a second :D https://t.co/Ylaj27x5oT
+786066546082938900,Wed Oct 12 04:50:43 +0000 2016,@Uber_Delhi I want to use POOL more often but the incompetence of other passengers is terrible, drivers should wait 2/3 minutes like said! 😒
+784002128759099400,Thu Oct 06 12:07:28 +0000 2016,@mweststrate componentShouldRerender() ? Haha
+783932798528806900,Thu Oct 06 07:31:58 +0000 2016,#SteveJobs, I wonder what the #iPhone7 would be like if you were still around? #RIPSteveJobs
+783735991202750500,Wed Oct 05 18:29:56 +0000 2016,RT @addyosmani: Introducing Progressive Web Apps with @reactjs: new series on perf, patterns &amp; tools  1) https://t.co/aHaUZAcSLo  2) https:…
+783733308106518500,Wed Oct 05 18:19:16 +0000 2016,@addyosmani Build PWA with React but can't have client-side routing (dynamic urls), this is causing real trouble with caching and app shells
+783723812239974400,Wed Oct 05 17:41:32 +0000 2016,@dan_abramov @ryanflorence "const"! If beginners try re-assign it, they will get an error, research why and learn "let" as an alternative
+783188810444206100,Tue Oct 04 06:15:38 +0000 2016,@github come back! I need youuu! #unicornseverywhere https://t.co/cVBO4NYdK8
+782885065340563500,Mon Oct 03 10:08:39 +0000 2016,@Jack_Franklin Thanks! Still upset that "Elm won't save us from Brexit" though... hahaha
+782876993859780600,Mon Oct 03 09:36:35 +0000 2016,Testing on this bad boy today! If code runs smoothly on this, it should be smooth on anything! #60fps https://t.co/iZ24Dkd1vi
+782874813706698800,Mon Oct 03 09:27:55 +0000 2016,RT @msafi: Why do functional programmers homeschool their kids?  Because they hate classes  *ba dum tss*
+782870836713779200,Mon Oct 03 09:12:07 +0000 2016,Watched @Jack_Franklin @elmlang for JavaScript developers this weekend! Functional programming ftw, Elming tonight! 😃
+782868612038135800,Mon Oct 03 09:03:16 +0000 2016,@AnjiMenon woohoooo!!
+782655589184712700,Sun Oct 02 18:56:48 +0000 2016,RT @btaylor: The best feeling in software is when you are so obsessed with an idea that all you can think about is getting back to a keyboa…
+782261930241122300,Sat Oct 01 16:52:32 +0000 2016,Vue 2.0 is Here! https://t.co/Jh2nkCO3Y4
+781231710763556900,Wed Sep 28 20:38:49 +0000 2016,Google Allo’s limitations explained in one word: “India” https://t.co/o63lLn8SPK
+780267827819221000,Mon Sep 26 04:48:41 +0000 2016,Morning rant at people that don't know how to #UberPool ✅ 😑
+780108334259015700,Sun Sep 25 18:14:55 +0000 2016,Why Code in Node.js often gets Rejected by SoundCloud! Amazing talk by @pcalcado! #functionalprogramming https://t.co/8ogjZMtxwN
+779994321474814000,Sun Sep 25 10:41:52 +0000 2016,Just been to #DesignDisruptors screening! Met some interesting people with cool ideas. Need to attend more of these! 😃
+779216236798419000,Fri Sep 23 07:10:02 +0000 2016,RT @HenrikJoreteg: It's easy to undervalue your time. But it's the most finite resource we have and I think we should treat it as such.
+778639025259155500,Wed Sep 21 16:56:24 +0000 2016,Finally installed #VIM 😁 https://t.co/cRU3rS49aM
+778118887883808800,Tue Sep 20 06:29:34 +0000 2016,https://t.co/TJyBA6huNK
+777124883289419800,Sat Sep 17 12:39:45 +0000 2016,To tell someone they're wrong, first tell them how they're right! https://t.co/Xb1m6MwpVB
+776697927486021600,Fri Sep 16 08:23:10 +0000 2016,RT @ZomatoIN: Happy #EngineersDay 🍕 🖥 https://t.co/qpfJRJSJMe
+775263607437271000,Mon Sep 12 09:23:42 +0000 2016,RT @dan_abramov: Good to keep in mind when comparing libraries and approaches 🤔 https://t.co/9OBvS0UQlh
+770974326019338200,Wed Aug 31 13:19:37 +0000 2016,RT @MicheleBertoli: This is how we catch #reactjs developers at @YPlan https://t.co/5MPY9SwfmH
+764076685310386200,Fri Aug 12 12:30:52 +0000 2016,RT @ZomatoIN: We've partnered with the good folks at @AkshayaPatra to do a little something for those who need it. https://t.co/upIt8r3G70
+762643075915186200,Mon Aug 08 13:34:13 +0000 2016,When @GoogleIndia posts a GIF of your code running! :D https://t.co/TJg10mUaIf
+754294705622515700,Sat Jul 16 12:40:46 +0000 2016,@nolanlawson @nparashuram @seattlejs Was this talk recorded? :D
+735834011793133600,Thu May 26 14:04:34 +0000 2016,You know you're writing good code when converting desktop to mobile takes minimal changes! #Zomato #O2 #Web #SoonInReact #SelfPatOnTheBack
+724494608076435500,Mon Apr 25 07:05:49 +0000 2016,RT @deepigoyal: Tech freshers – join @Zomato, work on live projects and decide if you want to stay. https://t.co/5NJ7no41EK https://t.co/eb…
+722279779408285700,Tue Apr 19 04:24:53 +0000 2016,RT @ZomatoIN: Trial Week is back! Spend a week working on super cool live projects with our tech team 👉 https://t.co/tf5fCEModn 💻 https://t…
+722120905086730200,Mon Apr 18 17:53:34 +0000 2016,https://t.co/8maYzmCbLU
+720645218291220500,Thu Apr 14 16:09:43 +0000 2016,#killallbugs https://t.co/v9LYGCOuEI
+720645218291220500,Thu Apr 14 16:09:43 +0000 2016,#killallbugs https://t.co/v9LYGCOuEI

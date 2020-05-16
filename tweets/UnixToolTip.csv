@@ -799,7 +799,6 @@ id,created_at,text
 1029488233472831500,Tue Aug 14 22:01:36 +0000 2018,Setting up a second keyboard for more shortcuts  https://t.co/cTVl5zU7EH
 1029407352963915800,Tue Aug 14 16:40:13 +0000 2018,Vertically align code around = signs using Emacs: M-x align-regex =
 1029399807029391400,Tue Aug 14 16:10:13 +0000 2018,10 Linux Commands That Will Save Your Time - Azer Koçulu's Journal https://t.co/HegjBfLEeg
-1029399807029391400,Tue Aug 14 16:10:13 +0000 2018,10 Linux Commands That Will Save Your Time - Azer Koçulu's Journal https://t.co/HegjBfLEeg
 1029044968583843800,Mon Aug 13 16:40:13 +0000 2018,mv -i moves files, asking for confirmation before overwriting an existing file.
 1027957815921598500,Fri Aug 10 16:40:16 +0000 2018,cp -u will only copy files that don't exist, or are newer than their existing counterparts, in the destination directory.
 1027900920955383800,Fri Aug 10 12:54:11 +0000 2018,"Bash Infinity is a modern boilerplate / framework / standard library for bash" https://t.co/vBA2awps7l
@@ -1398,7 +1397,6 @@ id,created_at,text
 821130544461320200,Mon Jan 16 23:02:32 +0000 2017,RT @RegexTip: Comparing regular expressions in Perl, Python, and Emacs https://t.co/HdSOAM1YwP
 821049478618710000,Mon Jan 16 17:40:24 +0000 2017,mv -i moves files, asking for confirmation before overwriting an existing file.
 821026777166450700,Mon Jan 16 16:10:12 +0000 2017,Shell scripts run in their own subshell, so a cd in a script effects only the subshell. To script a cd, use an alias instead.
-821026777166450700,Mon Jan 16 16:10:12 +0000 2017,Shell scripts run in their own subshell, so a cd in a script effects only the subshell. To script a cd, use an alias instead.
 821006285076361200,Mon Jan 16 14:48:46 +0000 2017,‘You are Not Expected to Understand This’: An Explainer on Unix’s Most Notorious Code Comment https://t.co/38exs49zgK
 819962334072410100,Fri Jan 13 17:40:29 +0000 2017,cp - u will only copy files that don't exist, or are newer than their existing counterparts, in the destination directory.
 819599934836142100,Thu Jan 12 17:40:26 +0000 2017,Filter out lines containing 'spam':  sed '/spam/d' somefile
@@ -1598,7 +1596,6 @@ id,created_at,text
 748541737698725900,Thu Jun 30 15:40:32 +0000 2016,New Twitter account: @FunctorFact for functional programming and category theory. https://t.co/biMVyuOCwD
 748194454004203500,Wed Jun 29 16:40:33 +0000 2016,ls -X will group files by extension.
 748167590661349400,Wed Jun 29 14:53:48 +0000 2016,RT @mattmight: You don't really learn git. It just crushes your life into a git-shaped hole.
-748167590661349400,Wed Jun 29 14:53:48 +0000 2016,RT @mattmight: You don't really learn git. It just crushes your life into a git-shaped hole.
 748167521736360000,Wed Jun 29 14:53:32 +0000 2016,RT @mattmight: They told me offline use was a big advantage of git over svn. But, how are you supposed to use git without google?
 747832071729610800,Tue Jun 28 16:40:34 +0000 2016,Inside less, /foo will search for 'foo'.
 747545034300391400,Mon Jun 27 21:39:59 +0000 2016,RT @shapr: OH: "What's that weird output?"  "I don't know, I think I've angered the shell."
@@ -1797,7 +1794,6 @@ id,created_at,text
 681974545654222800,Tue Dec 29 23:06:16 +0000 2015,RT @RegexTip: Emacs and regex  The good: Many functions take regex arguments The bad: Limited features compared to PCRE The ugly: \|, \(, \…
 681892647259246600,Tue Dec 29 17:40:50 +0000 2015,'Don't ever, ever plan a backup strategy. Plan a restore strategy.' -- Paul Randal
 681530267958440000,Mon Dec 28 17:40:52 +0000 2015,Shuffling Emacs windows https://t.co/XNRTiF75tY
-680443052465459200,Fri Dec 25 17:40:40 +0000 2015,diff3 compares three files line by line.
 680443052465459200,Fri Dec 25 17:40:40 +0000 2015,diff3 compares three files line by line.
 680080693855162400,Thu Dec 24 17:40:47 +0000 2015,chmod +x marks a file as executable
 679795201599221800,Wed Dec 23 22:46:20 +0000 2015,Find what time the sun will rise and set with Emacs. M-x sunrise-sunset
@@ -2020,7 +2016,8 @@ id,created_at,text
 606863163099914200,Fri Jun 05 16:40:27 +0000 2015,Print the first seven lines of a file: sed 7q &lt;file&gt;
 606551333064171500,Thu Jun 04 20:01:21 +0000 2015,Display a file with line numbers: cat -n or nl.
 606500796717514800,Thu Jun 04 16:40:32 +0000 2015,To search for directories with find, specify -type d. To search for files, specify -type f.
-606297794807263200,Thu Jun 04 03:13:53 +0000 2015,"Now that’s an oxymoron, a graphical userinterface for Unix." -- Donald A. Norman
+606297794807263200,Thu Jun 04 03:13:53 +0000 2015,"Now that’s an oxymoron, a graphical user
+interface for Unix." -- Donald A. Norman
 606285354044391400,Thu Jun 04 02:24:27 +0000 2015,Emacs window management comes in handy when all you have is a terminal to a remote machine. Just like it did in the 1980's.
 606138401247641600,Wed Jun 03 16:40:31 +0000 2015,Three surprises with bc http://t.co/EqqV2Zv3tb
 605874299614822400,Tue Jun 02 23:11:04 +0000 2015,@phantompizza This account used to be SedAwkTip, then I broadened it to Unix utilities in general.
@@ -2197,7 +2194,6 @@ id,created_at,text
 553607271440465900,Fri Jan 09 17:40:33 +0000 2015,Negative space in operating systems http://t.co/Pps44j8IGI
 553244914298150900,Thu Jan 08 17:40:41 +0000 2015,'It is easier to port a shell than a shell script.' -- Larry Wall
 552882516991160300,Wed Jan 07 17:40:38 +0000 2015,sed pattern for lines not containing spam: /spam/!
-552591020589068300,Tue Jan 06 22:22:20 +0000 2015,Create a Plotly dashboard in under 10 minutes http://t.co/ucKu9iTOVj
 552591020589068300,Tue Jan 06 22:22:20 +0000 2015,Create a Plotly dashboard in under 10 minutes http://t.co/ucKu9iTOVj
 552520121517092860,Tue Jan 06 17:40:36 +0000 2015,Perl has a utility a2p to convert awk scripts into perl scripts.
 552157771685433340,Mon Jan 05 17:40:46 +0000 2015,Show how many times each line in a sorted file is repeated: uniq -c
@@ -2598,7 +2594,6 @@ id,created_at,text
 435453671154126850,Mon Feb 17 16:40:20 +0000 2014,Replacing 20 applications with Emacs org-mode http://t.co/3qbWfXwblJ
 435438638902808600,Mon Feb 17 15:40:36 +0000 2014,Show line endings in a file: cat -E
 435239686840541200,Mon Feb 17 02:30:02 +0000 2014,Linux kernel map http://t.co/D1OHL6kjz1
-435239686840541200,Mon Feb 17 02:30:02 +0000 2014,Linux kernel map http://t.co/D1OHL6kjz1
 434351505035264000,Fri Feb 14 15:40:43 +0000 2014,The option -i or --ignore-case tells diff to do a case-insensitive comparison.
 433989096391077900,Thu Feb 13 15:40:38 +0000 2014,List files containing a match for a regular expression: grep -l
 433681024158285800,Wed Feb 12 19:16:28 +0000 2014,"Perl is extremely useful.  ... But, Perl is as dangerous as it is ugly." http://t.co/0QNTMbxJfP by @mattmight
@@ -2998,7 +2993,6 @@ id,created_at,text
 331780765429944300,Tue May 07 14:41:13 +0000 2013,More daily tip Twitter accounts: http://t.co/GqokCpqiMl
 331418309734055940,Mon May 06 14:40:57 +0000 2013,'The enjoyment of one's tools is an essential ingredient of successful work.' -- Donald E. Knuth
 331119239131983900,Sun May 05 18:52:33 +0000 2013,RT @RegexTip: Perl regex to replace all Cyrillic characters with question marks: s/\p{Cyrillic}/?/g
-331119239131983900,Sun May 05 18:52:33 +0000 2013,RT @RegexTip: Perl regex to replace all Cyrillic characters with question marks: s/\p{Cyrillic}/?/g
 329606319646572540,Wed May 01 14:40:45 +0000 2013,GNU Coreutils Cheat Sheet http://t.co/oXlIjdPOPL by @pkrumins
 329598863860195300,Wed May 01 14:11:07 +0000 2013,Pretty pictures made by hacking 420,000 Linux machines http://t.co/N0xgmmYJOl
 329243949816487940,Tue Apr 30 14:40:49 +0000 2013,In bash, !?foo will repeat the most recent command that contained the string 'foo'.
@@ -3204,5 +3198,4 @@ id,created_at,text
 276350278175948800,Wed Dec 05 15:40:15 +0000 2012,Addresses in sed specify which lines to act on. They can be line numbers or regular expressions.
 275987895716831230,Tue Dec 04 15:40:16 +0000 2012,In awk, records are split into fields by a separator. By default fields are separated by white space.
 275694427081670660,Mon Dec 03 20:14:08 +0000 2012,Love your terminal http://t.co/TEVXBiF6
-275625498984456200,Mon Dec 03 15:40:14 +0000 2012,In Emacs, list lines matching a regular expression: M-x occur
 275625498984456200,Mon Dec 03 15:40:14 +0000 2012,In Emacs, list lines matching a regular expression: M-x occur

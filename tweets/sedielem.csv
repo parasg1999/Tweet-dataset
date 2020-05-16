@@ -997,7 +997,6 @@ id,created_at,text
 568340077711126500,Thu Feb 19 09:23:28 +0000 2015,@GaborMelis @ogrisel @AlecRad good to know, thanks! I've been prodding the authors as well :) They said v3 is coming soon!
 568336748335521800,Thu Feb 19 09:10:14 +0000 2015,@GaborMelis @ogrisel @AlecRad by "lowered" you mean something like lambda=1-1e-5 or so? Or did you increase beta1 from the start?
 568320887881142300,Thu Feb 19 08:07:13 +0000 2015,@GaborMelis @ogrisel @AlecRad interesting! lambda should be 1-1e-8, right? Do you tune this? Seems like it takes a lot of steps to decay.
-568320887881142300,Thu Feb 19 08:07:13 +0000 2015,@GaborMelis @ogrisel @AlecRad interesting! lambda should be 1-1e-8, right? Do you tune this? Seems like it takes a lot of steps to decay.
 566556794663620600,Sat Feb 14 11:17:20 +0000 2015,RT @MrChrisJohnson: Searching for PhD and MS summer interns interested in music recommendations at scale at @Spotify NYC. DM for details.
 565184111804153860,Tue Feb 10 16:22:47 +0000 2015,RT @fwyffels: A lot of interest our @ResearchUGent #ReservoirLab #DeepLearning workshop by #SanderDieleman http://t.co/kstBUws07V http://t.…
 565183088272371700,Tue Feb 10 16:18:43 +0000 2015,RT @dirkvandenpoel: Great Deep Learning Tutorial by @sedielem @ugent @ResearchUGent #neuralnets #GPUacceleration #Theano with @BieBiep http…

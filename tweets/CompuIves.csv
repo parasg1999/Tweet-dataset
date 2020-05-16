@@ -199,7 +199,6 @@ id,created_at,text
 1226925791570776000,Mon Feb 10 17:47:58 +0000 2020,TIL about doctests in Elixir.  Documentation is generated from code in Elixir, which is already very cool, but with… https://t.co/piMMcAFY8a
 1226138907726798800,Sat Feb 08 13:41:10 +0000 2020,@matthewcp @TimvdLippe @treshugart Ah, that makes sense. Yes we should change that. We could even skip transpilatio… https://t.co/zbWGIn4tEH
 1226094742972326000,Sat Feb 08 10:45:41 +0000 2020,@TimvdLippe @matthewcp @treshugart I do see the advantage of being able to see the exact source code. I can take a… https://t.co/f0QPkAoXNA
-1226094742972326000,Sat Feb 08 10:45:41 +0000 2020,@TimvdLippe @matthewcp @treshugart I do see the advantage of being able to see the exact source code. I can take a… https://t.co/f0QPkAoXNA
 1226093993341182000,Sat Feb 08 10:42:42 +0000 2020,@TimvdLippe @matthewcp @treshugart I'm not sure how we would add globals like the HMR api. I do understand that pro… https://t.co/LEkNqSQ49Z
 1226093096036970500,Sat Feb 08 10:39:08 +0000 2020,@TimvdLippe @matthewcp @treshugart Our "bundler" is written in such a way that it uses "eval" to execute code. "Eva… https://t.co/8nq7Ulp7VO
 1225929930501959700,Fri Feb 07 23:50:46 +0000 2020,Two technologies that impress me about their performance and scalibility every time: Elixir and Postgres
@@ -599,7 +598,6 @@ id,created_at,text
 1158047318026985500,Sun Aug 04 16:09:30 +0000 2019,RT @react_india: @geeky_writer_ @threepointone @NikkitaFTW @ritz078 @_ananyaneogi @carolstran @dabit3 @tlakomy @_philpl @CompuIves : Making…
 1158046902098780200,Sun Aug 04 16:07:51 +0000 2019,@SvenVD_Zee @imAnushree Yes! We have an office in TQ, let me know if you want to drop by 😄
 1158046445439717400,Sun Aug 04 16:06:02 +0000 2019,@getDanArias @imAnushree Thank you! I'm also super happy with the floor!
-1158046445439717400,Sun Aug 04 16:06:02 +0000 2019,@getDanArias @imAnushree Thank you! I'm also super happy with the floor!
 1158046307522625500,Sun Aug 04 16:05:29 +0000 2019,@AfricanSinatra That's understandable, I think that Amsterdam is the only known city. I lived on the university cam… https://t.co/PIuR9Vdk44
 1158044201910722600,Sun Aug 04 15:57:07 +0000 2019,@bobvanluijt Sounds good! We have a get-together with CodeSandbox until 14th of August, after that I'll have more time so we can meet up 😄
 1158043996356317200,Sun Aug 04 15:56:18 +0000 2019,@imAnushree Yes! I found something I'm really happy with, lots of natural light! https://t.co/IoJyJ3AM4a
@@ -798,7 +796,6 @@ id,created_at,text
 1136620752466317300,Thu Jun 06 13:07:59 +0000 2019,@NicolasBrondin @codesandbox Heyo! Could you share the sandbox id with me? I'll take a look
 1136383972781494300,Wed Jun 05 21:27:06 +0000 2019,I've only heard about how incredible it was from them today, thanks a lot for being such a great host! https://t.co/ZhOPDWyGcb
 1136359621927592000,Wed Jun 05 19:50:21 +0000 2019,@fizzXbuzz @codesandbox Hey! What OS do you experience this with?
-1136240652881207300,Wed Jun 05 11:57:36 +0000 2019,@oleg008 That makes sense, I'm going for declarative by default with imperative escape hatches in some scenarios. I… https://t.co/hlfAAPEBEY
 1136240652881207300,Wed Jun 05 11:57:36 +0000 2019,@oleg008 That makes sense, I'm going for declarative by default with imperative escape hatches in some scenarios. I… https://t.co/hlfAAPEBEY
 1136238733659902000,Wed Jun 05 11:49:59 +0000 2019,Mixing declarative code with imperative code is so tricky... I can only imagine the number of bugs that arise from it.
 1136231796620873700,Wed Jun 05 11:22:25 +0000 2019,RT @0xca0a: react-spring/zdog is out today. teaches rs how to animate zdog natively (previous demos re-render views 6o times/sec, now anima…
@@ -1199,7 +1196,6 @@ id,created_at,text
 1108020152384344000,Tue Mar 19 14:59:25 +0000 2019,This update is the first update of our four this week. Stay tuned for the other three the coming three days!
 1108020146893799400,Tue Mar 19 14:59:23 +0000 2019,Here's a picture of the new editor. We added:  - Menubar - Statusbar - Preview panes (devtools) - New color theme a… https://t.co/E1LAPrkJ60
 1108020133321031700,Tue Mar 19 14:59:20 +0000 2019,I'm happy to announce CodeSandbox v3! 🚀 This is one of our biggest updates yet. Highlights:  - VSCode Extensions -… https://t.co/zsq5IWuKqi
-1108020133321031700,Tue Mar 19 14:59:20 +0000 2019,I'm happy to announce CodeSandbox v3! 🚀 This is one of our biggest updates yet. Highlights:  - VSCode Extensions -… https://t.co/zsq5IWuKqi
 1107757530783117300,Mon Mar 18 21:35:51 +0000 2019,@JoshWComeau Wow, this is so cool. I've been playing together with some friends for the past hour with it. Really beautiful!!
 1107750645703036900,Mon Mar 18 21:08:29 +0000 2019,RT @JoshWComeau: Announcing Tinkersynth 🎺  Create unique generative art through serendipitous experimentation with an over-the-top whimsica…
 1106583429821460500,Fri Mar 15 15:50:23 +0000 2019,@fahad19 Me too!!
@@ -1398,7 +1394,6 @@ id,created_at,text
 1080539467096776700,Wed Jan 02 19:00:59 +0000 2019,RT @transitive_bs: Check out this cool React Fluid Animation! @codesandbox https://t.co/eYhZKuvpA5  @reactjs @reactjsnews @webgl #webgl #re…
 1080539380434067500,Wed Jan 02 19:00:38 +0000 2019,@transitive_bs @codesandbox @reactjs @ReactJSNews @WebGL Wow, that's so cool! Picked for the explore page :D
 1080476423138299900,Wed Jan 02 14:50:28 +0000 2019,@chr_norm Hey, that's awesome! The fields we're using:   - sandboxId (if sent from editor) - feedback - emoji (sad/… https://t.co/MArcK6in4T
-1080463380585111600,Wed Jan 02 13:58:38 +0000 2019,The website of @css got a redesign and I LOVE it! The combination of dark backgrounds with the bright colors and gr… https://t.co/w8v5NhXeSj
 1080463380585111600,Wed Jan 02 13:58:38 +0000 2019,The website of @css got a redesign and I LOVE it! The combination of dark backgrounds with the bright colors and gr… https://t.co/w8v5NhXeSj
 1080440282355826700,Wed Jan 02 12:26:51 +0000 2019,@swcarlosrj @codesandbox So if I understand correctly you want to merge the csb-... branch with the graphql branch?
 1080437916403421200,Wed Jan 02 12:17:27 +0000 2019,@swcarlosrj @codesandbox Hey! Do you have the url to the GitHub sandbox? I can take a look
@@ -1599,7 +1594,6 @@ id,created_at,text
 1060467504668131300,Thu Nov 08 09:42:10 +0000 2018,RT @ReactEurope: 🔥🔥🔥 Our 2019’s call for paper is now open 📅🎙, submit your proposals and get a chance to share the stage with @CompuIves, @…
 1060119079208566800,Wed Nov 07 10:37:39 +0000 2018,RT @PrettierCode: We just landed HTML, Angular, Vue and MDX support among other great features in the latest 1.15 version!  Grab it while i…
 1059972712129577000,Wed Nov 07 00:56:02 +0000 2018,@AndaristRake I normally reset the cache by making an empty commit. Did the sync not work or follow up?
-1059972712129577000,Wed Nov 07 00:56:02 +0000 2018,@AndaristRake I normally reset the cache by making an empty commit. Did the sync not work or follow up?
 1059876015047147500,Tue Nov 06 18:31:48 +0000 2018,RT @leeb: I’m thrilled to announce the intent to form the GraphQL Foundation, in partnership with @linuxfoundation, @fbOpenSource, and near…
 1059794719469908000,Tue Nov 06 13:08:45 +0000 2018,@VivekNayyar09 Thank you for the PR! Really appreciated 😀
 1059749764269531100,Tue Nov 06 10:10:07 +0000 2018,@jonycheung @codesandboxapp Thank you so much!! We all really appreciate this!
@@ -1798,7 +1792,6 @@ id,created_at,text
 1052594467985875000,Wed Oct 17 16:17:32 +0000 2018,Here's the best part: all the VSCode functionality is added on top of the existing editor, and the added bundle siz… https://t.co/u10ZKW9Wff
 1052594462768148500,Wed Oct 17 16:17:30 +0000 2018,I'm so proud to finally release VSCode in CodeSandbox!  We now run a big chunk of @code directly in the browser, so… https://t.co/okHfvx6G7F
 1052129716428247000,Tue Oct 16 09:30:46 +0000 2018,RT @NikkitaFTW: Now available for Firefox too: https://t.co/6IvArZyn88 🎉 https://t.co/B6J5Gh3CzO
-1051956384139481100,Mon Oct 15 22:02:01 +0000 2018,RT @NikkitaFTW: 👋 I made a small chrome extension that adds a open in codesanbox button to a GitHub repo if the repo has a package.json 👩‍💻…
 1051956384139481100,Mon Oct 15 22:02:01 +0000 2018,RT @NikkitaFTW: 👋 I made a small chrome extension that adds a open in codesanbox button to a GitHub repo if the repo has a package.json 👩‍💻…
 1051956374509428700,Mon Oct 15 22:01:58 +0000 2018,A button to open GitHub repos in CodeSandbox 😍 https://t.co/kWxIIh4FCi
 1051473674489028600,Sun Oct 14 14:03:54 +0000 2018,RT @jaredforsyth: I'm basically wanting "react, but with a reconciler that's built around animation/transition/gestures". First demo! 🎉 ani…
@@ -2197,7 +2190,6 @@ id,created_at,text
 1036984569034096600,Tue Sep 04 14:29:22 +0000 2018,RT @jacrobsco: @CompuIves So true! You’ll never stick with coding for the sake of coding. Rather it should just be the medium you use to tu…
 1036983836658348000,Tue Sep 04 14:26:27 +0000 2018,@jacrobsco Yes for me too! For me it was the idea that you can build a world (a game) and change how the world beha… https://t.co/C5CA5VYbzf
 1036983532038639600,Tue Sep 04 14:25:14 +0000 2018,@pete_tnt Oh yes absolutely! We can learn a lot from those tools.
-1036980295550083100,Tue Sep 04 14:12:23 +0000 2018,This book by @munificentbob sparked my interest in getting more serious about programming: https://t.co/mHw1OGFaOA.… https://t.co/FEsitScro4
 1036980295550083100,Tue Sep 04 14:12:23 +0000 2018,This book by @munificentbob sparked my interest in getting more serious about programming: https://t.co/mHw1OGFaOA.… https://t.co/FEsitScro4
 1036980293947850800,Tue Sep 04 14:12:22 +0000 2018,I think game development is one of the most satisfying and rewarding types of development.  It's also a good way to… https://t.co/UogtFP1mvo
 1036978530394021900,Tue Sep 04 14:05:22 +0000 2018,RT @mgechev: 📢 Guess.js now supports Next.js ❤️ Speed your Next.js applications up by using predictive prefetching 🔮 📗 Demo and integration…
@@ -2598,7 +2590,6 @@ id,created_at,text
 1018882085849886700,Mon Jul 16 15:36:33 +0000 2018,@01BoDuke01 @_philpl Oii, do you mean that installing local fonts doesn't work?
 1018879860096274400,Mon Jul 16 15:27:43 +0000 2018,@jbrancha @sarah_edo @code @NikkitaFTW Thank you!!
 1018879734275592200,Mon Jul 16 15:27:13 +0000 2018,RT @CompuIves: You can easily install your own VSCode theme in 4 steps:  1. Open VSCode 2. Press (CMD/CTRL) + Shift + P 3. Enter 'Developer…
-1018879734275592200,Mon Jul 16 15:27:13 +0000 2018,RT @CompuIves: You can easily install your own VSCode theme in 4 steps:  1. Open VSCode 2. Press (CMD/CTRL) + Shift + P 3. Enter 'Developer…
 1018874928936964100,Mon Jul 16 15:08:07 +0000 2018,@marcelcutts @code @NikkitaFTW With Adobe After Effects and Photoshop! Thanks 😄
 1018872768610406400,Mon Jul 16 14:59:32 +0000 2018,@alexnmoldovan Thank you @alexnmoldovan 😄. Also big thanks to @NikkitaFTW!
 1018871074648395800,Mon Jul 16 14:52:48 +0000 2018,High Contrast (for better a11y) by @code https://t.co/riEt8IyrIT
@@ -2797,7 +2788,6 @@ id,created_at,text
 1012396317782499300,Thu Jun 28 18:04:26 +0000 2018,RT @dfmcphee: We just shipped a @codesandboxapp integration in our style guide. You can now take any code you are playing with in the playg…
 1012373584365449200,Thu Jun 28 16:34:06 +0000 2018,@_SeanGroff @codesandboxapp Not yet sadly! Haha yea I used your counter for my Vue Amsterdam talk I believe, thanks for that!
 1012373233373466600,Thu Jun 28 16:32:42 +0000 2018,@pedronauck @mxstbr @rauchg @kentcdodds @_developit Do whatever you think is best for the project! I absolutely don… https://t.co/CpsCrKyNrH
-1012323394224869400,Thu Jun 28 13:14:39 +0000 2018,@Fyrunaa That is beautiful 😍
 1012323394224869400,Thu Jun 28 13:14:39 +0000 2018,@Fyrunaa That is beautiful 😍
 1012296048310702100,Thu Jun 28 11:26:00 +0000 2018,@Kevin_Granger @pixelastic @algolia @codesandboxapp Thank you very much!! 😁😁
 1012273149818306600,Thu Jun 28 09:55:00 +0000 2018,The interactive tutorial to @algolia uses @codesandboxapp 😍😍!!   https://t.co/m2HWR3vjDb
@@ -3233,5 +3223,4 @@ id,created_at,text
 994218587727519700,Wed May 09 14:12:37 +0000 2018,@jonkemp @codesandboxapp @knoxville_js I'm so happy with this 😄😄! I wish I could be there.
 994217675546128400,Wed May 09 14:09:00 +0000 2018,RT @changelog: 🙌 New episode of The Changelog!  💬 Burnout, open source, and datasette 🎙 @jesslynnrose, @left_pad, @simonw, @adamstac 🏷 #cul…
 994217479827263500,Wed May 09 14:08:13 +0000 2018,@matthewhughes @TheNextWeb @StephenCookDev Oh absolutely! I was already planning on getting a ticket but I'm first… https://t.co/wBozyGxKyc
-994216208768659500,Wed May 09 14:03:10 +0000 2018,RT @jonkemp: JUST ANNOUNCED: Kickstart Your Web App Development with @codesandboxapp by me @jonkemp @knoxville_js, Monday, May 21, 2018 at…
 994216208768659500,Wed May 09 14:03:10 +0000 2018,RT @jonkemp: JUST ANNOUNCED: Kickstart Your Web App Development with @codesandboxapp by me @jonkemp @knoxville_js, Monday, May 21, 2018 at…

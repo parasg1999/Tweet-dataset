@@ -397,7 +397,6 @@ id,created_at,text
 1218322294348619800,Sat Jan 18 00:00:44 +0000 2020,@fashy within a group it's AND vs. OR
 1218320695882547200,Fri Jan 17 23:54:23 +0000 2020,@dan_abramov Oh I like that. So much more human to invert the action and condition
 1218319843457478700,Fri Jan 17 23:51:00 +0000 2020,@remi_rousselet @erikras real talk, I almost wrote a query language today.
-1218319843457478700,Fri Jan 17 23:51:00 +0000 2020,@remi_rousselet @erikras real talk, I almost wrote a query language today.
 1218319154979266600,Fri Jan 17 23:48:16 +0000 2020,@claudiopro very interesting. have to try this out
 1218318056046375000,Fri Jan 17 23:43:54 +0000 2020,@evanplaice yeah this is my plan. it's 10x easier to code too
 1218317843432984600,Fri Jan 17 23:43:03 +0000 2020,@jdan I've been reverse engineering an A all day and yes, it is insane and even weirder to code. It appears that it… https://t.co/GoNWteHylQ
@@ -796,7 +795,6 @@ id,created_at,text
 1190667473697300500,Sat Nov 02 16:30:21 +0000 2019,If you built the Deathstar, would you ...?
 1190594713373565000,Sat Nov 02 11:41:14 +0000 2019,@zachariahCurtis this one ain’t open source
 1190441806183485400,Sat Nov 02 01:33:38 +0000 2019,@ForceTheIssue @jdan but yeah, Nathan built a prototype once
-1190441656157425700,Sat Nov 02 01:33:02 +0000 2019,@ForceTheIssue @jdan ultimately, you don’t have enough info for validation without building out a bunch of graphql… https://t.co/sS1tKtYhhD
 1190441656157425700,Sat Nov 02 01:33:02 +0000 2019,@ForceTheIssue @jdan ultimately, you don’t have enough info for validation without building out a bunch of graphql… https://t.co/sS1tKtYhhD
 1190427655004467200,Sat Nov 02 00:37:24 +0000 2019,@erinfoox thank you 🙏
 1190395660568268800,Fri Nov 01 22:30:16 +0000 2019,brb building some next level shit
@@ -1796,7 +1794,6 @@ id,created_at,text
 1127198171141156900,Sat May 11 13:06:00 +0000 2019,@ken_wheeler I feel you. I think npm went from scrappy underdog to villain with the last management snafu. GitHub h… https://t.co/1jmrdSKmvD
 1127196155169914900,Sat May 11 12:58:00 +0000 2019,I still find it messed up that I buy coffee and muffins and server infra  from the same company. https://t.co/TkzGr7J5OF
 1127075128716746800,Sat May 11 04:57:05 +0000 2019,https://t.co/GlAxalYGYv
-1127075128716746800,Sat May 11 04:57:05 +0000 2019,https://t.co/GlAxalYGYv
 1127073822316822500,Sat May 11 04:51:53 +0000 2019,@markdalgleish Golf clap 👏
 1127038990505345000,Sat May 11 02:33:29 +0000 2019,@ZackArgyle I wish it actually was. However, ktlint isn’t as deterministic as prettier
 1127034495776055300,Sat May 11 02:15:37 +0000 2019,@mcrowder65 It was a link to the first js package readme
@@ -1992,7 +1989,6 @@ id,created_at,text
 1115400571547209700,Mon Apr 08 23:46:34 +0000 2019,RT @dabit3: Ok, so @appjsconf was ridiculously good last week, but guess what?  🤩 React Native EU is coming up later this year!!  Tickets a…
 1115399263775858700,Mon Apr 08 23:41:22 +0000 2019,@AWSSupport The entire top of the table should be sticky so I can use those pretty buttons y’all put in there with… https://t.co/CkQNTT7WBx
 1115398874942910500,Mon Apr 08 23:39:49 +0000 2019,@AWSSupport Furthermore the text wrap on the table cells on medium screen sizes makes it extremely hard to opticall… https://t.co/UROdOmqiu1
-1115397952204410900,Mon Apr 08 23:36:09 +0000 2019,@AWSSupport Yes, actually. Search on this view is has no typo sensitivity and is hard to work with. While the bolle… https://t.co/WQGT6e3YVv
 1115397952204410900,Mon Apr 08 23:36:09 +0000 2019,@AWSSupport Yes, actually. Search on this view is has no typo sensitivity and is hard to work with. While the bolle… https://t.co/WQGT6e3YVv
 1115379234523045900,Mon Apr 08 22:21:46 +0000 2019,@miekd My team may have some bandwidth and we're in NYC. DMs are open
 1115364164548034600,Mon Apr 08 21:21:53 +0000 2019,@pbrdmn @AWS Also acceptable
@@ -2391,7 +2387,6 @@ id,created_at,text
 1090025066111352800,Mon Jan 28 23:13:22 +0000 2019,@ryanflorence @acdlite @DavidKPiano Feels weird to me. It's basically &lt;Fetch method="POST"&gt;
 1089884040990257200,Mon Jan 28 13:52:59 +0000 2019,@birkirgudjonson @DannPetty @shellypalmer Where is your office?
 1089882365315481600,Mon Jan 28 13:46:19 +0000 2019,@birkirgudjonson @DannPetty Yep! @shellypalmer runs strategy and management consulting group and I lead our engineering teams
-1089713093331075100,Mon Jan 28 02:33:41 +0000 2019,RT @youyuxi: In the meanwhile the Chinese market has evolved into a parallel universe where content distribution is now dominated by the wa…
 1089713093331075100,Mon Jan 28 02:33:41 +0000 2019,RT @youyuxi: In the meanwhile the Chinese market has evolved into a parallel universe where content distribution is now dominated by the wa…
 1089700760093376500,Mon Jan 28 01:44:41 +0000 2019,@ryanflorence @Xopsy @sebmarkbage @jordwalke @aweary @reactjs It’s not really like generators. It’s sync async. You… https://t.co/fQvKyEzOXr
 1089699838734811100,Mon Jan 28 01:41:01 +0000 2019,@Xopsy @ryanflorence @sebmarkbage @jordwalke @aweary @reactjs https://t.co/0yHEKa5RfL
@@ -2792,7 +2787,6 @@ id,created_at,text
 1066023449678803000,Fri Nov 23 17:39:30 +0000 2018,@thekitze @ReactAlicante Bruh
 1066006135281541100,Fri Nov 23 16:30:42 +0000 2018,Don’t do it https://t.co/gGDE5FwPHi
 1066002352740683800,Fri Nov 23 16:15:40 +0000 2018,First day on snow ❄️☃️⛷🎿 https://t.co/N6ct84J2sP
-1066002352740683800,Fri Nov 23 16:15:40 +0000 2018,First day on snow ❄️☃️⛷🎿 https://t.co/N6ct84J2sP
 1065994367419277300,Fri Nov 23 15:43:57 +0000 2018,People often ask about “synchronizing” or “sharing” interim Formik form state and Redux. This never works out. Form… https://t.co/e1ypFQMVjD
 1065970244773208000,Fri Nov 23 14:08:05 +0000 2018,@smakosh You’ll need to store it in state
 1065961148095348700,Fri Nov 23 13:31:56 +0000 2018,@smakosh Just move this behavior above Formik into as a prop
@@ -2990,7 +2984,6 @@ id,created_at,text
 1057005753964380200,Mon Oct 29 20:26:24 +0000 2018,@jshez Yes. You should wait.
 1057003983439585300,Mon Oct 29 20:19:22 +0000 2018,@iboum Here ya go https://t.co/sxRkHA9Ycd
 1057003887977226200,Mon Oct 29 20:18:59 +0000 2018,@barce Always!
-1057003842322227200,Mon Oct 29 20:18:48 +0000 2018,@dagda1 not sure what you mean. can you elaborate?
 1057003842322227200,Mon Oct 29 20:18:48 +0000 2018,@dagda1 not sure what you mean. can you elaborate?
 1057003364268105700,Mon Oct 29 20:16:54 +0000 2018,There are also some cool extras in the full-suspense folder. Worth a read. We didn't get this far in my talk becaus… https://t.co/8LrpYFLmjl
 1057003360098881500,Mon Oct 29 20:16:53 +0000 2018,tl;dr Here's your React Suspense adoption strategy.... https://t.co/UAqPbrPi2M

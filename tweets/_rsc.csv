@@ -399,7 +399,6 @@ id,created_at,text
 1120318142264291300,Mon Apr 22 13:27:14 +0000 2019,RT @chaosprime: last week i got to witness an engineering department lose a full day's work because if you put an emoji in a git commit mes…
 1119989163888193500,Sun Apr 21 15:39:59 +0000 2019,RT @FrancescoC: It is with great sadness that I share news of Joe Armstrong's passing away earlier today. Whilst he may no longer be with u…
 1118993251061596200,Thu Apr 18 21:42:35 +0000 2019,https://t.co/CQEU7LYRZx
-1118993251061596200,Thu Apr 18 21:42:35 +0000 2019,https://t.co/CQEU7LYRZx
 1117957179938672600,Tue Apr 16 01:05:36 +0000 2019,@jessfraz @rob_pike Eventually Dennis Ritchie suggested doing Streams instead, and that's what happened for Eighth… https://t.co/tXYNNSo9n1
 1117956939978293200,Tue Apr 16 01:04:39 +0000 2019,@jessfraz @rob_pike I asked Rob. He said he did try to write a window system on top of 7th Ed mpx (by Greg Chesson)… https://t.co/F3BAM7SBzz
 1116873548591697900,Sat Apr 13 01:19:39 +0000 2019,RT @jessfraz: Wrote a blog post with @simpsoka on questions to ask yourself to make sure you are in the right mindset to think, behave and…
@@ -597,7 +596,6 @@ id,created_at,text
 1034499776379793400,Tue Aug 28 17:55:41 +0000 2018,@BenLubar Not going to happen but you could stop using _ in your file names. :-)
 1034496285099941900,Tue Aug 28 17:41:49 +0000 2018,Wondering what's going on with Go 2, generics, and error handling? Don't have time to read 100 pages of docs? Watch… https://t.co/cQdulPeT8P
 1034474274168483800,Tue Aug 28 16:14:21 +0000 2018,RT @golang: 🎊 We just announced an update for Go 2!   This includes preliminary draft designs for generics, error handling, and error value…
-1034423401534906400,Tue Aug 28 12:52:12 +0000 2018,Sure is quiet around here. #golang
 1034423401534906400,Tue Aug 28 12:52:12 +0000 2018,Sure is quiet around here. #golang
 1034143181032620000,Mon Aug 27 18:18:42 +0000 2018,RT @_rsc: @KevinBowrin Because the pre-built packages are non-module builds and can’t be reused. Sorry. Disable cgo for now or install gcc.
 1034143103509311500,Mon Aug 27 18:18:23 +0000 2018,@KevinBowrin Because the pre-built packages are non-module builds and can’t be reused. Sorry. Disable cgo for now or install gcc.
@@ -798,7 +796,6 @@ id,created_at,text
 983529897124618200,Tue Apr 10 02:19:35 +0000 2018,RT @floschechter: Let me tell you a story about how a typo helped end World War Two... (thread) https://t.co/HxismWwlzE
 981881883402305500,Thu Apr 05 13:10:58 +0000 2018,RT @francesc: Definitely feeling the #justforfunc love today https://t.co/qy57kk5KeA
 981881844466618400,Thu Apr 05 13:10:48 +0000 2018,RT @bketelsen: @francesc @_rsc @Sajma I will enjoy the CORBA show.
-981881844466618400,Thu Apr 05 13:10:48 +0000 2018,RT @bketelsen: @francesc @_rsc @Sajma I will enjoy the CORBA show.
 981701831247228900,Thu Apr 05 01:15:30 +0000 2018,I did my part. Do yours. :-) https://t.co/CDUAgEU7PN
 981297082358272000,Tue Apr 03 22:27:10 +0000 2018,RT @b0rk: having productive conversations when I disagree https://t.co/KfSUagXFzF
 979542433653514200,Fri Mar 30 02:14:49 +0000 2018,RT @KirkBater: This image is a TCP/IP Joke.  This tweet is a UDP joke.  I don't care if you get it. https://t.co/GLy8QadqOC
@@ -997,7 +994,6 @@ id,created_at,text
 912390172393820200,Mon Sep 25 18:55:43 +0000 2017,RT @jboursiquot: GoBridge helps individuals from underrepresented communities attend GothamGo 2017 https://t.co/VXnMAdILlX #golang @gothamg…
 911008200559874000,Thu Sep 21 23:24:15 +0000 2017,RT @rob_pike: Ten years ago today Go started.  https://t.co/CWC5EO63xU …  Thanks to @reneefrench for the art,  to gophers everywhere for th…
 910270595715170300,Tue Sep 19 22:33:16 +0000 2017,RT @directhex: Technophobes: “computers are barely working magic”  Nerds: “computers do as they’re told”  Elder nerds: “computers are barel…
-909979499630035000,Tue Sep 19 03:16:33 +0000 2017,RT @techoglot: "Orion's Belt is a big waist of space."  Terrible joke. Only three stars.
 909979499630035000,Tue Sep 19 03:16:33 +0000 2017,RT @techoglot: "Orion's Belt is a big waist of space."  Terrible joke. Only three stars.
 909164747161038800,Sat Sep 16 21:19:01 +0000 2017,RT @Jermolene: Astonishing: Tetris inside Conway’s Game of Life, built via a full RISC processor with its own assembly language https://t.c…
 901540263499370500,Sat Aug 26 20:22:03 +0000 2017,@anastasop @bradfitz Probably a blog post at some point. The code is not super useful. Keynote is just as good.
@@ -1591,7 +1587,6 @@ id,created_at,text
 576402954548310000,Fri Mar 13 15:22:28 +0000 2015,@dgryski Most likely http://t.co/QX01GgA4rv.
 576186455665545200,Fri Mar 13 01:02:10 +0000 2015,@_rsc I liked munificent's note: "A party isn't a failure just because everyone eventually has to go home." https://t.co/BL8O3OCWCT
 576186220767760400,Fri Mar 13 01:01:14 +0000 2015,Thank you, Google Code. You served us very well. http://t.co/fMLd8IFpfq
-575990592431267840,Thu Mar 12 12:03:53 +0000 2015,RT @rob_pike: http://t.co/SuEGifohN8
 575990592431267840,Thu Mar 12 12:03:53 +0000 2015,RT @rob_pike: http://t.co/SuEGifohN8
 574227445810749440,Sat Mar 07 15:17:46 +0000 2015,RT @davecheney: Simplicity and collaboration, my closing keynote from @GopherConIndia http://t.co/Pg8KfNvKR4 #golang
 573909821881188350,Fri Mar 06 18:15:38 +0000 2015,RT @MIT_CSAIL: "No computer has ever been designed that is aware of what it's doing; but most of the time, we aren't either." - Minsky #SCI…

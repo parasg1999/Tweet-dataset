@@ -199,7 +199,6 @@ id,created_at,text
 1163599764337954800,Mon Aug 19 23:52:57 +0000 2019,Happy to share that Milos Djermanovic (https://t.co/h535zHrcii) is the newest member of the ESLint team. Welcome aboard, Milos!
 1163597753064263700,Mon Aug 19 23:44:57 +0000 2019,@bjankord Hi @bjankord, no, we are still planning that release and hope to have it out soon (probably as ESLint 6.2.1).
 1163466137071308800,Mon Aug 19 15:01:57 +0000 2019,@dr_sensor We aren’t directly involved in this transition, but this is a good place to start: https://t.co/9aOd2qo8YK
-1163466137071308800,Mon Aug 19 15:01:57 +0000 2019,@dr_sensor We aren’t directly involved in this transition, but this is a good place to start: https://t.co/9aOd2qo8YK
 1163217096924422100,Sun Aug 18 22:32:22 +0000 2019,ESLint 6.2.0 has been released: https://t.co/L7srPm1jkE  This release adds support for parsing ES2020 features (big… https://t.co/GNOG0yi2fk
 1162468334241308700,Fri Aug 16 20:57:03 +0000 2019,On Monday (August 19th), the ESLint team will release a fix for a security issue. The issue affects users that run… https://t.co/IqUrKlA7Bt
 1162010436868329500,Thu Aug 15 14:37:31 +0000 2019,RT @thenativeweb: Whether you do #JavaScript or #TypeScript, with or without #React and #JSX - our super-strict @geteslint rules make sure…
@@ -798,7 +797,6 @@ id,created_at,text
 915371760970752000,Wed Oct 04 00:23:29 +0000 2017,RT @denar90_: @geteslint doc improvements PR looks like PWA guide Good FMP 🍼 Good TTI 🍹 Accessable 🍻 Offline 💪 https://t.co/lcOS9zJhPE #pwa…
 914283275157307400,Sun Oct 01 00:18:14 +0000 2017,RT @slicknet: There would have been no ESLint had I not started following Ariya's work. https://t.co/yfaonZL0UM
 913861407082520600,Fri Sep 29 20:21:52 +0000 2017,ESLint v4.8.0 has been released: https://t.co/MD54uk2PUL
-913861407082520600,Fri Sep 29 20:21:52 +0000 2017,ESLint v4.8.0 has been released: https://t.co/MD54uk2PUL
 913794301766680600,Fri Sep 29 15:55:13 +0000 2017,RT @kentcdodds: Also, here's your reminder that eslint and prettier are not mutually exclusive. I suggest you use them both! https://t.co/y…
 912478314698178600,Tue Sep 26 00:45:57 +0000 2017,@FezVrasta @ForbesLindesay @stevenlangbroek @lucapette ESLint works with TypeScript through a custom parser: https://t.co/8Q7bO7N60H
 911308841509208000,Fri Sep 22 19:18:53 +0000 2017,RT @wrseward: If you write @vuejs components you *need* to try out its official ESLint plugin https://t.co/UKdzBizY3y. Absolutely love it!
@@ -917,7 +915,9 @@ id,created_at,text
 883478888453595100,Sat Jul 08 00:12:35 +0000 2017,RT @PolicyGenius: “Easy Contract Tests with eslint-plugin-graphql” by PG's own Justin Schulz https://t.co/F27a2eTPKg @GraphQL @apollographql
 883156590261448700,Fri Jul 07 02:51:54 +0000 2017,RT @Eli_White: I'm looking for new maintainers for the Sublime ESLint Formatter. I don't have sufficient bandwidth anymore. :( https://t.co…
 883111427870818300,Thu Jul 06 23:52:26 +0000 2017,RT @CalvinF: My first commit to @eslint has been merged, yay! And my second pull request is in review. #OpenSource  https://t.co/XQwNA2UQwz
-882991976403976200,Thu Jul 06 15:57:47 +0000 2017,RT @mikemaccana: JS people: I made 'eslint-must-use-await' helps you find and get rid of callbacks and .then().https://t.co/EplfEkAWOE #e…
+882991976403976200,Thu Jul 06 15:57:47 +0000 2017,RT @mikemaccana: JS people: I made 'eslint-must-use-await' helps you find and get rid of callbacks and .then().
+
+https://t.co/EplfEkAWOE #e…
 881957213811597300,Mon Jul 03 19:26:00 +0000 2017,RT @_SeanGroff: Trying to adopt the #js functional programming style? This ESLint config enforces you to follow the FP coding style. https:…
 881957182236876800,Mon Jul 03 19:25:52 +0000 2017,@boriscoder @rauschma Yes. https://t.co/kp8cYdy3r3
 881906509667475500,Mon Jul 03 16:04:31 +0000 2017,@cyberomin You're welcome! ❤️
@@ -996,7 +996,6 @@ id,created_at,text
 855448353571655700,Fri Apr 21 15:49:15 +0000 2017,RT @rickdgraaff: Everyone should be linting their code! Not only JS but if you do, ESlint #reactamsterdam
 854110362513231900,Mon Apr 17 23:12:33 +0000 2017,@ljharb @jessebeach You are correct, it's just text-based.
 853429920579571700,Sun Apr 16 02:08:43 +0000 2017,@glauberfunez ❤
-853324908809433100,Sat Apr 15 19:11:26 +0000 2017,@kyleshevlin Yes, that's what we recommend. https://t.co/jyQ7sEeoVT
 853324908809433100,Sat Apr 15 19:11:26 +0000 2017,@kyleshevlin Yes, that's what we recommend. https://t.co/jyQ7sEeoVT
 853075877701107700,Sat Apr 15 02:41:53 +0000 2017,@jergason We ship with "eslint:recommended", which you can extend. This has only rules that catch potential problems and no style rules.
 853071491910557700,Sat Apr 15 02:24:27 +0000 2017,RT @alexlande: This. JSLint helped me seriously learn JS (as opposed to trying random stuff until it worked), and ESLint taught me the basi…
@@ -1192,7 +1191,6 @@ id,created_at,text
 786607855671455700,Thu Oct 13 16:41:41 +0000 2016,RT @Jadengore: Set up an ESLint config for your organization https://t.co/isxars31ge #eslint #nodejs #javascript #js #es6
 786607638544920600,Thu Oct 13 16:40:50 +0000 2016,RT @defmethodinc: Great post from @randallocalypse, one of our talented devs here at @defmethodinc @cyrusinnovation https://t.co/RSDmV3XaEP
 786607316854382600,Thu Oct 13 16:39:33 +0000 2016,RT @marshallswain: a little utility that skips ESLint in unsupported node versions: https://t.co/LNPcr1Jz3g  Useful for testing legacy node…
-786607103825748000,Thu Oct 13 16:38:42 +0000 2016,RT @tonygentilcore: It's too easy to write regexes w/ 💩 perf! Added https://t.co/185re2tDdQ @geteslint rule to protect. #perfmatters  https…
 786607103825748000,Thu Oct 13 16:38:42 +0000 2016,RT @tonygentilcore: It's too easy to write regexes w/ 💩 perf! Added https://t.co/185re2tDdQ @geteslint rule to protect. #perfmatters  https…
 785874993234096100,Tue Oct 11 16:09:33 +0000 2016,RT @thorstenfrommen: Want to use #ESLint for #WordPress projects but don't know how to do it right? Here's how: https://t.co/ocwZEvBEyI //…
 785515596154679300,Mon Oct 10 16:21:26 +0000 2016,RT @bsideup: Friendly reminder that you can use YAML to configure ESLint: https://t.co/pdQjcz1iXa https://t.co/ijnnEZMWCx
@@ -2170,7 +2168,6 @@ id,created_at,text
 591764420205813800,Sat Apr 25 00:43:26 +0000 2015,@elijahmanor looks like this rule would be of interest to you: http://t.co/ilFyPYdflj
 591764249115922400,Sat Apr 25 00:42:46 +0000 2015,RT @NoahMarconi: Eslint for code smell http://t.co/qO91zdjW7H
 591679769286086700,Fri Apr 24 19:07:04 +0000 2015,ESLint v0.20.0 released: http://t.co/6osPE4VWcV
-591679769286086700,Fri Apr 24 19:07:04 +0000 2015,ESLint v0.20.0 released: http://t.co/6osPE4VWcV
 591679689887862800,Fri Apr 24 19:06:45 +0000 2015,@rafayepes if you have other questions, please contact the mailing list. Twitter is very hard for these types of discussions.
 591656763776086000,Fri Apr 24 17:35:39 +0000 2015,@rafayepes this rule is what you're looking for: http://t.co/6N4TMHBBRg
 591638774108434400,Fri Apr 24 16:24:10 +0000 2015,@anddoutoi CLIEngine doesn't do output, so --quiet doesn't make sense there.
@@ -2562,7 +2559,6 @@ id,created_at,text
 490947259941388300,Sun Jul 20 19:52:02 +0000 2014,@peolanha how would you prefer to be notified that an update is available? @sindresorhus
 490730249236123650,Sun Jul 20 05:29:43 +0000 2014,We have a new proposal for our plugin system to allow shareable rules. What do you think? https://t.co/myBbxFfrvt
 489199291596931100,Wed Jul 16 00:06:14 +0000 2014,We are thinking about incorporating an update notifier (https://t.co/Icg04aGlql by @sindresorhus) in the CLI. Useful?
-489199291596931100,Wed Jul 16 00:06:14 +0000 2014,We are thinking about incorporating an update notifier (https://t.co/Icg04aGlql by @sindresorhus) in the CLI. Useful?
 488364560760332300,Sun Jul 13 16:49:19 +0000 2014,New in ESLint 0.7.x: no-mixed-spaces-and-tabs http://t.co/NfVO3BBrUG
 488363784289804300,Sun Jul 13 16:46:14 +0000 2014,RT @focusaurus: eslint hurray! First non-frustrating linter experience.
 487303532878368800,Thu Jul 10 18:33:10 +0000 2014,ESLint v0.7.4 released: http://t.co/cjiSXdJJnc
@@ -2759,7 +2755,6 @@ id,created_at,text
 429440857276555260,Sat Feb 01 02:27:33 +0000 2014,RT @tvii: @geteslint in case you didn't know, there is a syntactic checker for Vim as well https://t.co/ksGPAiAlsu #vim #syntactic
 428215648179605500,Tue Jan 28 17:19:01 +0000 2014,@glenndejaeger @addyosmani @yeoman thanks, we're pretty excited, too!
 428018406927773700,Tue Jan 28 04:15:15 +0000 2014,@xjamundx @jergason sounds like a good idea for a rule that others would like, too. Want to file an issue for it?
-427651059721330700,Mon Jan 27 03:55:32 +0000 2014,We believe in timely responses to requests.  Only 1 open PR right now: https://t.co/7lGdBrJxZZ Only 20 open issues: https://t.co/nvm7n5AotO
 427651059721330700,Mon Jan 27 03:55:32 +0000 2014,We believe in timely responses to requests.  Only 1 open PR right now: https://t.co/7lGdBrJxZZ Only 20 open issues: https://t.co/nvm7n5AotO
 427242283096764400,Sun Jan 26 00:51:12 +0000 2014,If you'd like to help us fill out our rule documentation, there are several rules that could use help: https://t.co/xaM6tHE8vc
 427231189078790140,Sun Jan 26 00:07:07 +0000 2014,We're starting work on a @yeoman generator to help build features for ESLint. https://t.co/NPn1yKFecA

@@ -198,7 +198,6 @@ id,created_at,text
 1252939555872870400,Wed Apr 22 12:37:23 +0000 2020,@WrocTypeScript https://t.co/kQUy1aImUB
 1252939094516260900,Wed Apr 22 12:35:33 +0000 2020,RT @WrocTypeScript: Fight the good fight. https://t.co/X1axWgkmX8
 1252921291700658200,Wed Apr 22 11:24:48 +0000 2020,If you have questions or need help getting started, feel free to comment on the issue or reach out to us on Discord👇 https://t.co/e0UoTYkXjf
-1252921291700658200,Wed Apr 22 11:24:48 +0000 2020,If you have questions or need help getting started, feel free to comment on the issue or reach out to us on Discord👇 https://t.co/e0UoTYkXjf
 1252921289360187400,Wed Apr 22 11:24:48 +0000 2020,Want to contribute to OSS?  We are migrating the Hasura console from #JavaScript to #TypeScript and would love your… https://t.co/mPzOWnGRcH
 1252805397389295600,Wed Apr 22 03:44:17 +0000 2020,@loop_of_Willis We meant, in the quoted thread above! 😉  Feel free to have a closer look at it and check out our do… https://t.co/jycqX7qVdO
 1252800332083708000,Wed Apr 22 03:24:09 +0000 2020,We recently talked about various ways to write custom business logic in Hasura!  How do you choose to add custom bu… https://t.co/xFhsZ6JX6t
@@ -398,7 +397,6 @@ id,created_at,text
 1246022790911672300,Fri Apr 03 10:32:37 +0000 2020,RT @khaled_garbaya: 🔥Part 1 of building a social network app using the #jamstack  recording is premiering now on youtube  Stack used so far…
 1245819324196982800,Thu Apr 02 21:04:07 +0000 2020,Stay tuned for Part 3: High Scores with Hasura Actions!
 1245819323467198500,Thu Apr 02 21:04:07 +0000 2020,In Part 2 (UI &amp; Subscriptions), we:  🎮 Display top scores on our leaderboard UI 🎮 Continue exploring @gazuntype's G… https://t.co/18UWFi1xRP
-1245819323467198500,Thu Apr 02 21:04:07 +0000 2020,In Part 2 (UI &amp; Subscriptions), we:  🎮 Display top scores on our leaderboard UI 🎮 Continue exploring @gazuntype's G… https://t.co/18UWFi1xRP
 1245819322720645000,Thu Apr 02 21:04:07 +0000 2020,In Part 1 (Queries &amp; Mutations), we:  🎮 Set up our Postgres database with Hasura 🎮 Explore @gazuntype's GraphQL cli… https://t.co/RAqQupjm3K
 1245819322074685400,Thu Apr 02 21:04:07 +0000 2020,📽️ In this 3-part series, we build a @unity3d leaderboard with #Hasura!  Follow as @BarisTumerkan, a #Unity dev who… https://t.co/JeRzeZOYTA
 1245810406204903400,Thu Apr 02 20:28:41 +0000 2020,✍️"Building a Realtime Geolocation App with Hasura GraphQL" by @praveenweb 🔗https://t.co/v32UwHVLWB  Building data-… https://t.co/Gt6K55MpoQ
@@ -597,7 +595,6 @@ id,created_at,text
 1223975366080921600,Sun Feb 02 14:24:02 +0000 2020,RT @yakuter: Bugün deneysel çalışmalarda Hasura (@HasuraHQ)  ile GraphQL'e bir şans vereyim dedim. Adamlar efsane ürün geliştirmişler. Birk…
 1223608785958137900,Sat Feb 01 14:07:22 +0000 2020,Here's the recording from the Hasura community call we hosted this week 👉 https://t.co/bGu2IWO0Jy  Topics covered:… https://t.co/DXim2Y4qFZ
 1223391813039526000,Fri Jan 31 23:45:12 +0000 2020,RT @dariocravero: @mvachhar Have you tried @HasuraHQ? Takes away a lot of the pain through its automation!
-1223289971194450000,Fri Jan 31 17:00:31 +0000 2020,.@tanmaigo's talk at the @bytesizedcode online GraphQL conference starts in 5 minutes!  Topic: GraphQL as a scalabl… https://t.co/hMotTUN6yY
 1223289971194450000,Fri Jan 31 17:00:31 +0000 2020,.@tanmaigo's talk at the @bytesizedcode online GraphQL conference starts in 5 minutes!  Topic: GraphQL as a scalabl… https://t.co/hMotTUN6yY
 1223237344167202800,Fri Jan 31 13:31:24 +0000 2020,Updatable views are a powerful feature in Postgres that make it possible to read &amp; write to views.  🐘 In this… https://t.co/QML1FOq85U
 1223196329997848600,Fri Jan 31 10:48:25 +0000 2020,RT @gideon_devs: I am in love with @HasuraHQ ❤️❤️❤️
@@ -1198,7 +1195,6 @@ id,created_at,text
 1179756243222585300,Thu Oct 03 13:53:01 +0000 2019,🎟️Registrations for our October raffle are open!   Signup here👉🏿https://t.co/y1ddQxuTcS
 1179756240953434000,Thu Oct 03 13:53:01 +0000 2019,Hey there @program247365!  You've won the September Hasura swag raffle🍾🍾🍾  #swag https://t.co/7RUQFy9FZt
 1179745868754251800,Thu Oct 03 13:11:48 +0000 2019,RT @kameshvit: Simple Node.js app to get GraphQL APIs instantly from CSV. Inspiration from @HasuraHQ   Website: https://t.co/8c9tJ9vDq2  So…
-1179745868754251800,Thu Oct 03 13:11:48 +0000 2019,RT @kameshvit: Simple Node.js app to get GraphQL APIs instantly from CSV. Inspiration from @HasuraHQ   Website: https://t.co/8c9tJ9vDq2  So…
 1179739751848366000,Thu Oct 03 12:47:30 +0000 2019,🎉 The GraphQL Bangalore meetup is back this week with  exciting talks by @praveenweb, @sangeeth96, @_rishichandra a… https://t.co/tugiDqJrQD
 1179709030345793500,Thu Oct 03 10:45:25 +0000 2019,"I have found Hasura is a wonderful tool for bootstrapping a GraphQL based web application with real-time features"… https://t.co/Y1k5L3fbL1
 1179675640078848000,Thu Oct 03 08:32:44 +0000 2019,RT @tmthyrd: @ryanflorence @adamwathan @flexdinesh @HasuraHQ I have to say @HasuraHQ is awesome. Full CRUD api in about 10 minutes of setti…
@@ -1396,7 +1392,6 @@ id,created_at,text
 1169339351685316600,Wed Sep 04 20:00:01 +0000 2019,Check out this passportjs based boilerplate for auth with Hasura ⤵️  🔗 Built-in endpoints for login &amp; signup 📄 Knex… https://t.co/2UaZepYs36
 1169277638810071000,Wed Sep 04 15:54:47 +0000 2019,@FlutterDev @Firebase @cntaspinar This guide was written an a guest post under the Hasura Technical Writer Program… https://t.co/Rir4qMm7eH
 1169269144757264400,Wed Sep 04 15:21:02 +0000 2019,@FlutterDev @Firebase ☑️Part 2 will cover how to setup Auth with Firebase and Hasura. ☑️Part 3 will cover how to bu… https://t.co/MWPijKWFPr
-1169267839259177000,Wed Sep 04 15:15:51 +0000 2019,Here's an in-depth guide on how to build scalable Flutter apps using:   🛎️serverless ☑️GraphQL 👹Hasura  🔥 Firebase… https://t.co/noBAwuIFyH
 1169267839259177000,Wed Sep 04 15:15:51 +0000 2019,Here's an in-depth guide on how to build scalable Flutter apps using:   🛎️serverless ☑️GraphQL 👹Hasura  🔥 Firebase… https://t.co/noBAwuIFyH
 1169211624273531000,Wed Sep 04 11:32:28 +0000 2019,.@malgamves explains how to migrate a web app backend from a Firebase realtime DB to a realtime  GraphQL backend +… https://t.co/BENKyizwJZ
 1169181982254715000,Wed Sep 04 09:34:41 +0000 2019,Here's how you can add GraphQL APIs to your existing Heroku Postgres using Hasura 👉 https://t.co/GGbBNHn1Sc… https://t.co/2pT3AwG3uJ
@@ -2196,7 +2191,6 @@ id,created_at,text
 1111304563527745500,Thu Mar 28 16:30:29 +0000 2019,🎥🔴 We are live on Hasura streams  👉🏾 https://t.co/TKfiqMVGzH    #GraphQL https://t.co/N4NmtNpkOi
 1111290046739611600,Thu Mar 28 15:32:48 +0000 2019,RT @VladimirNovick: Excited to announce that before @ReactAmsterdam on April 9th I will be doing free workshop hosted by @ReaktorNow. The t…
 1111173004552228900,Thu Mar 28 07:47:43 +0000 2019,🖋️ @rubydwarf wrote a couple of posts on #GraphQL &amp; Vue.js    🇯🇵 Thanks to @moksahero, you can now read them in Jap… https://t.co/7AQ3wtkVs4
-1111173004552228900,Thu Mar 28 07:47:43 +0000 2019,🖋️ @rubydwarf wrote a couple of posts on #GraphQL &amp; Vue.js    🇯🇵 Thanks to @moksahero, you can now read them in Jap… https://t.co/7AQ3wtkVs4
 1111144647815036900,Thu Mar 28 05:55:02 +0000 2019,@moksahero https://t.co/FbvQ8yhnaz
 1111144326824972300,Thu Mar 28 05:53:46 +0000 2019,RT @graphqlasia: Did you know we have 30 speakers from 10 countries 🌏 speaking at #GraphQLAsia this year 👀!   💫💫🇮🇳🇯🇵🇹🇭🇺🇸🇦🇺🇺🇦🇫🇷🇬🇧🇮🇱🇮🇩💫💫  Che…
 1111055302487613400,Thu Mar 28 00:00:01 +0000 2019,🥧 It's really simple to setup a git push workflow to deploy Lambdas using @CircleCI   Here's how 👉🏾… https://t.co/M7FOe4D0Io
@@ -2395,7 +2389,6 @@ id,created_at,text
 1103239306347331600,Wed Mar 06 10:22:02 +0000 2019,.@tanmaigo will be speaking at the JavaScript Bedford meetup this evening about how GraphQL streamlines API develop… https://t.co/jqRdebQmC7
 1103168023551074300,Wed Mar 06 05:38:47 +0000 2019,RT @wadenick: We're truly excited and proud to share @digitalocean's Marketplace launch today, and we also want to thank our new partners w…
 1103147009479868400,Wed Mar 06 04:15:17 +0000 2019,RT @gordonj: I'll be live streaming with the lovely crew at @dnistream this Thursday. 7pm GMT. I'll be chatting on #graphql #postgres and #…
-1102992236386627600,Tue Mar 05 18:00:16 +0000 2019,The Hasura GraphQL Engine comes with native support for @postgis 🌏 topology operators 👉🏾 https://t.co/pV9i3vcvK4… https://t.co/3CZlgsbsNN
 1102992236386627600,Tue Mar 05 18:00:16 +0000 2019,The Hasura GraphQL Engine comes with native support for @postgis 🌏 topology operators 👉🏾 https://t.co/pV9i3vcvK4… https://t.co/3CZlgsbsNN
 1102972793963065300,Tue Mar 05 16:43:00 +0000 2019,.@tanmaigo will be giving an intro to GraphQL at the Vue Charlotte Meetup next week.   🗓️14th March at 8pm EST 👉🏾… https://t.co/Kgv3cbNExc
 1102964908105191400,Tue Mar 05 16:11:40 +0000 2019,RT @eads: Today I wrote about how @ProPublicaIL built The Ticket Trap, from the design and strategic choices to the nitty gritty of geocodi…
@@ -2596,7 +2589,6 @@ id,created_at,text
 1092287427694211100,Mon Feb 04 05:03:11 +0000 2019,RT @lidderupk: Excited to have @tanmaigo from @HasuraHQ give a talk on #GraphQL at @IBMDeveloperSF meetup. New to graphql or have used it i…
 1091750597240463400,Sat Feb 02 17:30:00 +0000 2019,GraphQL Contributor Days is happening this Friday in San Francisco!  Here's a look at what to expect ➡️… https://t.co/ySToXqEOP3
 1091395806958112800,Fri Feb 01 18:00:12 +0000 2019,Big thanks to @thisdotmedia for partnering with us for GraphQL Contributor Days.   We can't wait! https://t.co/kD3eIbDLOy #graphql
-1091395806958112800,Fri Feb 01 18:00:12 +0000 2019,Big thanks to @thisdotmedia for partnering with us for GraphQL Contributor Days.   We can't wait! https://t.co/kD3eIbDLOy #graphql
 1091365610632740900,Fri Feb 01 16:00:12 +0000 2019,The Hasura Technical Writer program is a way for you to support the Hasura GraphQL engine by writing technical cont… https://t.co/y9KeJST0nG
 1091326886880325600,Fri Feb 01 13:26:20 +0000 2019,RT @tanmaigo: @MykolaKozyr @UUDreams @HasuraHQ Actually this one is better. We just added support for postgis operators in the graphql api…
 1091210543149461500,Fri Feb 01 05:44:01 +0000 2019,RT @matldupont: Fantastic talks from all our speakers tonight!  @HasuraHQ @GraphQL @reactjs on everyone’s mind! https://t.co/rGKz07sUkG
@@ -2796,7 +2788,6 @@ id,created_at,text
 1071058618898882600,Fri Dec 07 15:07:28 +0000 2018,@JavaScriptDaily Totally agree.😂
 1071058154929025000,Fri Dec 07 15:05:38 +0000 2018,@lara_hogan @QcMaude https://t.co/QvONMO693O
 1071057613863948300,Fri Dec 07 15:03:29 +0000 2018,@sanchayan_maity @FnConf Awesome! Our cofounder @tainmaigo will be speaking there, I'm sure you'll love his talk!
-1071057613863948300,Fri Dec 07 15:03:29 +0000 2018,@sanchayan_maity @FnConf Awesome! Our cofounder @tainmaigo will be speaking there, I'm sure you'll love his talk!
 1071057225442041900,Fri Dec 07 15:01:56 +0000 2018,@raghu_ugare @FnConf Looking forward to hear this!
 1071056757571629000,Fri Dec 07 15:00:04 +0000 2018,@Alientrap This is incredible!
 1071056317626880000,Fri Dec 07 14:58:20 +0000 2018,@kunjee @FableCompiler @FnConf https://t.co/HI7SKqgkmL
@@ -2995,7 +2986,6 @@ id,created_at,text
 1064894992995500000,Tue Nov 20 14:55:25 +0000 2018,📢 Announcing a DIY Realtime #GraphQL #BaaS that uses Hasura GraphQL Engine, @digitalocean &amp; @auth0 to help you set… https://t.co/3LriVyOo6r
 1064733743548530700,Tue Nov 20 04:14:40 +0000 2018,RT @twnsndco: Having now worked with 2 graphql projects – @shoe_kicker via @HasuraHQ's postgres wrapper and a new sketch data plugin with @…
 1064432829327585300,Mon Nov 19 08:18:57 +0000 2018,RT @AETackaberry: @swyx @reactjs @typescriptlang @apollographql @ReactStaticJS ARGH!  @apollographql @reactjs  @GraphQL @HasuraHQ
-1064431923529867300,Mon Nov 19 08:15:21 +0000 2018,RT @swyx: @AETackaberry @reactjs @typescriptlang @apollographql @ReactStaticJS @GraphQL @HasuraHQ oh man i had no idea you took part! hasur…
 1064431923529867300,Mon Nov 19 08:15:21 +0000 2018,RT @swyx: @AETackaberry @reactjs @typescriptlang @apollographql @ReactStaticJS @GraphQL @HasuraHQ oh man i had no idea you took part! hasur…
 1063860664039559200,Sat Nov 17 18:25:22 +0000 2018,@AdamRNeary Yes! This is the kind of tutorials we need this month.
 1063855947171446800,Sat Nov 17 18:06:37 +0000 2018,@trickydisco78 @gatsbyjs It's great indeed.

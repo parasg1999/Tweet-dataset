@@ -199,7 +199,6 @@ id,created_at,text
 1252028883257356300,Mon Apr 20 00:18:41 +0000 2020,RT @shubhie: (4) Secondly, there is a funded project -- an eng team led by me -- literally working on this problem. Staffing speaks louder…
 1252025840239440000,Mon Apr 20 00:06:36 +0000 2020,RT @codeguru_io: We are excited to bring our next course on serverless in depth using aws-amplify and qausar.  Kindly feel to provide your…
 1252014578663223300,Sun Apr 19 23:21:51 +0000 2020,RT @ProfFeynman: The happiest people in the world are the ones who:  • love what they're doing • accept things that they can't change • fin…
-1252014578663223300,Sun Apr 19 23:21:51 +0000 2020,RT @ProfFeynman: The happiest people in the world are the ones who:  • love what they're doing • accept things that they can't change • fin…
 1252014390460551200,Sun Apr 19 23:21:06 +0000 2020,RT @MCU_Fanatics: Marvel has reportedly got the rights to the #Hulk back, meaning a solo movie can now happen! https://t.co/kIZDXV156k http…
 1252001024409133000,Sun Apr 19 22:27:59 +0000 2020,@ryanjonesirl I know there were a couple people that manually built it out with CDK but don't have any links off th… https://t.co/3rWAEgtrFb
 1251988593393860600,Sun Apr 19 21:38:36 +0000 2020,@ryanjonesirl Nope this isn't the case, it's just simpler to do it that way.
@@ -996,7 +995,6 @@ id,created_at,text
 1218026283575079000,Fri Jan 17 04:24:30 +0000 2020,@SamVerschueren @chrismunns @AWSAmplify @ednergizer @mohit
 1218004111695630300,Fri Jan 17 02:56:24 +0000 2020,@jamonholmgren This has to be a joke right?
 1218003462484418600,Fri Jan 17 02:53:49 +0000 2020,@JoeEmison @AWSAmplify @ednergizer @mohit
-1218003462484418600,Fri Jan 17 02:53:49 +0000 2020,@JoeEmison @AWSAmplify @ednergizer @mohit
 1217980200392122400,Fri Jan 17 01:21:23 +0000 2020,RT @zack_hartmann: Day614 of #365DaysOfCode @CareerDevs  Building an app with #AWS #Amplify #DataStore to keep track of my interactions wit…
 1217971491779694600,Fri Jan 17 00:46:47 +0000 2020,@mwarkentin @chrismunns @AWSAmplify @TheSwaminator
 1217970074469855200,Fri Jan 17 00:41:09 +0000 2020,@geetharganesh @chrismunns @AWSAmplify @ednergizer can you give more details on what you mean by "mature OIDC support"?
@@ -1194,7 +1192,6 @@ id,created_at,text
 1209258292721127400,Mon Dec 23 23:43:38 +0000 2019,RT @JustJake: Expo is React Native covered in gasoline  One of the best development experiences I've ever used. Just built a full app Andro…
 1209243743590797300,Mon Dec 23 22:45:49 +0000 2019,RT @dabit3: Beautiful news - some good news for a change  https://t.co/YCeFmymbqV
 1209197301966803000,Mon Dec 23 19:41:17 +0000 2019,Muted words:  Rise of Skywalker John Snow Unpopular opinion Deploy on a Friday Let vs Const JavaScript
-1209138582885191700,Mon Dec 23 15:47:57 +0000 2019,@colmmacc @rchrdbyd Infinitely more scalable as well. Engineers who own product are empathetic to customer needs wi… https://t.co/k9TPwjBw6a
 1209138582885191700,Mon Dec 23 15:47:57 +0000 2019,@colmmacc @rchrdbyd Infinitely more scalable as well. Engineers who own product are empathetic to customer needs wi… https://t.co/k9TPwjBw6a
 1208915007423033300,Mon Dec 23 00:59:32 +0000 2019,RT @sperand_io: Rails for the cloud https://t.co/ZQrXEA9HxF
 1208913568218964000,Mon Dec 23 00:53:49 +0000 2019,@bianchiluca @jeremy_daly @dabit3 @AWSAmplify Amplify supports custom CloudFormation stacks so you have access to the total AWS ecosystem
@@ -1589,7 +1586,6 @@ id,created_at,text
 1185998530617299000,Sun Oct 20 19:17:39 +0000 2019,@daveadams @rafalwilinski @tlakomy @AWSAmplify That's the point of Amplify, the architecture is designed for you to… https://t.co/NpFcbRZ13a
 1185976730508394500,Sun Oct 20 17:51:01 +0000 2019,RT @shovelsofcode: @rafalwilinski @tlakomy @AWSAmplify Amplify is the bomb!
 1185976390300004400,Sun Oct 20 17:49:40 +0000 2019,RT @tokiotrev: You either die a hero or live long enough to see yourself become the villain https://t.co/M2Kgp0Vt4y
-1185976390300004400,Sun Oct 20 17:49:40 +0000 2019,RT @tokiotrev: You either die a hero or live long enough to see yourself become the villain https://t.co/M2Kgp0Vt4y
 1185974739350634500,Sun Oct 20 17:43:06 +0000 2019,@brianleroux @JoeEmison I don't think this is just an AWS thing or even a cloud only thing. There's a lot of change… https://t.co/7UcxipoWwx
 1185968613976494000,Sun Oct 20 17:18:46 +0000 2019,RT @JoeEmison: Here’s my take on how the history of PaaS will be written:  1. There was a recognition early on that we could improve speed…
 1185968521374662700,Sun Oct 20 17:18:24 +0000 2019,@brianleroux @JoeEmison Authz will need to continually evolve, it's a moving target as long as attackers techniques… https://t.co/ZAgz8q4gMr
@@ -1786,7 +1782,6 @@ id,created_at,text
 1174343846743793700,Wed Sep 18 15:26:05 +0000 2019,RT @Johnny_suputama: Here is another one of Yukawa’s wire sculptures: a cat chasing another cat. Note the expression of the real cat at the…
 1174343675079323600,Wed Sep 18 15:25:25 +0000 2019,RT @Johnny_suputama: Japanese artist Atsuko Yukawa has been creating miniature, battery-powered wire sculptures. Here is one of her latest:…
 1174337652146884600,Wed Sep 18 15:01:29 +0000 2019,@sergimansilla What pieces of control do you not have and what more debugging do you need?
-1173999633049116700,Tue Sep 17 16:38:19 +0000 2019,Case Study: AWS AppSync Helps Public Good Software Do Good by Prompting Real-Time Reader Action  @publicgood is a l… https://t.co/GcInOqh1Or
 1173999633049116700,Tue Sep 17 16:38:19 +0000 2019,Case Study: AWS AppSync Helps Public Good Software Do Good by Prompting Real-Time Reader Action  @publicgood is a l… https://t.co/GcInOqh1Or
 1173966798800052200,Tue Sep 17 14:27:50 +0000 2019,RT @changelog: Finally, a way to eat chips while coding without greasing up your keyboard 👏👏 https://t.co/OuYaJljudj
 1173957672208486400,Tue Sep 17 13:51:34 +0000 2019,RT @dabit3: I will have an announcement next week around JAMstack CMS - A modern CMS built with @gatsbyjs &amp; serverless technologies.  For n…
@@ -1985,7 +1980,6 @@ id,created_at,text
 1161716385904357400,Wed Aug 14 19:09:04 +0000 2019,RT @pusher: How to build a #serverless mobile app with @ReactNative and @AWSAmplify by @amanhimself https://t.co/pmnvXcDw0m
 1161716239258943500,Wed Aug 14 19:08:29 +0000 2019,RT @jeffbarr: #AWS Amplify Console - Hosting for Fullstack Serverless Apps - https://t.co/1YaRwDl4s6 https://t.co/XkBjEjmuFr
 1161507331076776000,Wed Aug 14 05:18:22 +0000 2019,RT @collinped: I 😍 @AWSAmplify . Great work to the team over there. One of the slickest CLI's I've seen!
-1161507331076776000,Wed Aug 14 05:18:22 +0000 2019,RT @collinped: I 😍 @AWSAmplify . Great work to the team over there. One of the slickest CLI's I've seen!
 1161502111009579000,Wed Aug 14 04:57:37 +0000 2019,RT @jessfraz: Nothing is more fun than making the impossible possible
 1161349588512469000,Tue Aug 13 18:51:33 +0000 2019,RT @mcnees: Just speaking as a physicist, what the heck. How. https://t.co/8WrmHZ8yFB
 1161310418276499500,Tue Aug 13 16:15:54 +0000 2019,RT @freezydorito: i hate it when functional programming nerds are all like 'oooo mutation is bad' have you even SEEN the x men movie you ar…
@@ -2182,7 +2176,6 @@ id,created_at,text
 1150999135836753900,Tue Jul 16 05:22:33 +0000 2019,@sperand_io @ilyasu @schrockn Of note while the default implementations are AWS specific, our design goals are to a… https://t.co/ABJMBt6kEc
 1150964791634100200,Tue Jul 16 03:06:04 +0000 2019,RT @CedrusDigital: A great overview on how to migrate a legacy application to a #serverless ecosystem leveraging Amazon #AppSync, #AWS #Lam…
 1150912764308623400,Mon Jul 15 23:39:20 +0000 2019,@esh Ok we just released a built in trigger for that use case: https://t.co/4e52u1QbMe
-1150897027611447300,Mon Jul 15 22:36:48 +0000 2019,@esh If G Suite can be Google sign in, or can be a custom OAuth provider, then this should be doable with federatio… https://t.co/7LoM2e5gaY
 1150897027611447300,Mon Jul 15 22:36:48 +0000 2019,@esh If G Suite can be Google sign in, or can be a custom OAuth provider, then this should be doable with federatio… https://t.co/7LoM2e5gaY
 1150635816676294700,Mon Jul 15 05:18:51 +0000 2019,RT @ThePracticalDev: - What CORS is, and what it is not - How it looks in the browser - Tricky things about CORS  https://t.co/Ix7FOB9teH h…
 1150609214059888600,Mon Jul 15 03:33:08 +0000 2019,RT @thevarunraja: [1/100] Using AWS amplify, created a lambda function that talks to AWS SES, to send out emails. #100DaysOfCode
@@ -2582,7 +2575,6 @@ id,created_at,text
 1126504633340350500,Thu May 09 15:10:08 +0000 2019,RT @dabit3: React Native + @expo + @awsamplify = 🔥🚀  Building a React Native Mobile App with AWS Amplify and Expo by @amanhimself  https://…
 1126347355379265500,Thu May 09 04:45:10 +0000 2019,RT @reactnative: We'll be on reactiflux for a Q&amp;A tomorrow. Join us and ask us hard questions! https://t.co/4lcwZHMYdU
 1126316800344375300,Thu May 09 02:43:45 +0000 2019,RT @jeffbarr: Amazon S3 Path Deprecation Plan - The Rest of the Story - https://t.co/0C3epGdui7 #AWS https://t.co/AchjydsQWz
-1126316800344375300,Thu May 09 02:43:45 +0000 2019,RT @jeffbarr: Amazon S3 Path Deprecation Plan - The Rest of the Story - https://t.co/0C3epGdui7 #AWS https://t.co/AchjydsQWz
 1126239713637978100,Wed May 08 21:37:26 +0000 2019,Getting more visibility into GraphQL performance with AWS AppSync logs https://t.co/BrkPkKdV4U via @awscloud
 1125972584447660000,Wed May 08 03:55:58 +0000 2019,RT @AngeBassa: Don’t you trust numbers?  Nope.  But isn’t your job to come up with numbers?  No; my job is to prevent people from using the…
 1125843627119267800,Tue May 07 19:23:32 +0000 2019,Tune in 30 mins from now! https://t.co/jLliGnZt5t
@@ -2981,7 +2973,6 @@ id,created_at,text
 1082808368140406800,Wed Jan 09 01:16:47 +0000 2019,RT @dabit3: New video - "Deploying Existing AWS Amplify Projects using the Amplify CLI"  👉 Deploy a React Native app complete with authenti…
 1082688075111645200,Tue Jan 08 17:18:47 +0000 2019,RT @ProfFeynman: Teach principles not formulas.
 1082317835106345000,Mon Jan 07 16:47:35 +0000 2019,@bill_turner @beckje01 @tednaleid @nicolaus Amplify is not just JS thought, you can use the toolchain including GraphQL on native platforms
-1082317835106345000,Mon Jan 07 16:47:35 +0000 2019,@bill_turner @beckje01 @tednaleid @nicolaus Amplify is not just JS thought, you can use the toolchain including GraphQL on native platforms
 1082162819427008500,Mon Jan 07 06:31:36 +0000 2019,@swyx I want to do a bigger writeup on the Amplify site, maybe with some portions of the original doc I wrote (it w… https://t.co/K6L0FFmJHU
 1082160381689131000,Mon Jan 07 06:21:55 +0000 2019,Even the concept of escape hatches that we also use in Amplify when you must drop down to the DOM primitives is her… https://t.co/Xg2T16dmXg
 1082159136509329400,Mon Jan 07 06:16:58 +0000 2019,Love this @necolas talk. “More time working on product and serving users, less time wrestling with underlying platf… https://t.co/m4JqIRQGj8
@@ -3190,5 +3181,4 @@ id,created_at,text
 1061285926666551300,Sat Nov 10 15:54:17 +0000 2018,@tyleralove @dabit3 @AlexOfori AppSync has batch invoke for Lambda resolvers
 1061146311695560700,Sat Nov 10 06:39:30 +0000 2018,RT @ashteya: Cool stuff! Will be using this in the next part of my Ionic 4 + AppSync tutorial! https://t.co/2K2aKwU7WM https://t.co/EvVkPfA…
 1060973526599983100,Fri Nov 09 19:12:55 +0000 2018,GraphQL goodness before the weekend - Angular codegen support in Amplify CLI has just landed:… https://t.co/40YpyzaDTV
-1060941745725141000,Fri Nov 09 17:06:38 +0000 2018,RT @dabit3: Would anyone be interested in a GraphQL newsletter along the same lines as the OpenGraphQL publication? A newsletter that is op…
 1060941745725141000,Fri Nov 09 17:06:38 +0000 2018,RT @dabit3: Would anyone be interested in a GraphQL newsletter along the same lines as the OpenGraphQL publication? A newsletter that is op…

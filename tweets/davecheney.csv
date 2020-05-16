@@ -199,7 +199,6 @@ id,created_at,text
 1243479717497340000,Fri Mar 27 10:07:22 +0000 2020,@DanielMorsing Bollocks, bollocks, bollocks
 1243378066606309400,Fri Mar 27 03:23:26 +0000 2020,@errbear3 @mauilion https://t.co/yscH7KoldY
 1243375801820541000,Fri Mar 27 03:14:26 +0000 2020,@mauilion @errbear3 https://t.co/SQUe7p5UXQ
-1243375801820541000,Fri Mar 27 03:14:26 +0000 2020,@mauilion @errbear3 https://t.co/SQUe7p5UXQ
 1243371535898820600,Fri Mar 27 02:57:29 +0000 2020,@mauilion @errbear3 https://t.co/jrP0Ki1dSB
 1243324416223662000,Thu Mar 26 23:50:15 +0000 2020,RT @404Cause: @jboursiquot @davecheney It's only Golang if it comes from the Golang Region in Indonesia.  In all other cases, it's Sparklin…
 1243324077583941600,Thu Mar 26 23:48:54 +0000 2020,RT @RobinWigg: This is hilarious. A Norwegian TV programme pitted some professional stock-pickers against an astrologist, some beauty blogg…
@@ -398,7 +397,6 @@ id,created_at,text
 1233513234986127400,Fri Feb 28 22:04:07 +0000 2020,RT @sethvargo: I love talking about Google, but I always preface:  "Just because something worked for Google doesn't mean it will work for…
 1233505870727798800,Fri Feb 28 21:34:51 +0000 2020,@kstewart @jboursiquot Two concur’s don’t make a right.
 1233218524182483000,Fri Feb 28 02:33:02 +0000 2020,RT @whereistanya: Sometimes Repeat Yourself.   Context should drive this decision, says @lucamezzalira   #OReillySACon https://t.co/0NfIZtk…
-1233156358561620000,Thu Feb 27 22:26:01 +0000 2020,@thepacketrat la virus más fina
 1233156358561620000,Thu Feb 27 22:26:01 +0000 2020,@thepacketrat la virus más fina
 1233118586622734300,Thu Feb 27 19:55:55 +0000 2020,RT @benbjohnson: Are you a senior Go developer in Europe looking for a remote job working on databases? Please hit me up in DMs.
 1233108577427918800,Thu Feb 27 19:16:09 +0000 2020,@peter_szilagyi Are these stats from runtime memstats?
@@ -1596,7 +1594,6 @@ id,created_at,text
 1149239755403432000,Thu Jul 11 08:51:24 +0000 2019,@DanielMorsing Your talents are wasted on us mortals.
 1149229513009586200,Thu Jul 11 08:10:42 +0000 2019,RT @michaelbolton: Heuristic: if you’re finding it hard to figure out how to test something, that’s an *extremely* important test result, w…
 1149228830344613900,Thu Jul 11 08:07:59 +0000 2019,@ymotongpoo The ‘performance’ governor might give more consistent readings. I can’t find something online about the… https://t.co/jvNGpxKHp2
-1149228830344613900,Thu Jul 11 08:07:59 +0000 2019,@ymotongpoo The ‘performance’ governor might give more consistent readings. I can’t find something online about the… https://t.co/jvNGpxKHp2
 1149225257426804700,Thu Jul 11 07:53:47 +0000 2019,RT @textfiles: https://t.co/gyfXhWawHL
 1149224938554839000,Thu Jul 11 07:52:31 +0000 2019,@joonas_fi @webRat @golang You’re welcome. I aim to keep it sassy
 1149217708887515100,Thu Jul 11 07:23:47 +0000 2019,@ymotongpoo @marcaruel Also, if you have a thermald process running, shut it down. I found that process added at le… https://t.co/Z3ezdjZa4p
@@ -1996,7 +1993,6 @@ id,created_at,text
 1133312414575808500,Tue May 28 10:01:50 +0000 2019,@CAFxX @DanielMorsing I think if you compile this code with gccgo -oShade you get that message
 1133293628632133600,Tue May 28 08:47:11 +0000 2019,@DanielMorsing package main  import (     "fmt" )  func main() {     const (         a = 1         b         c     )     fmt.Println(b) }
 1133291037038825500,Tue May 28 08:36:53 +0000 2019,@bitcynth A strong opening gambit
-1133291037038825500,Tue May 28 08:36:53 +0000 2019,@bitcynth A strong opening gambit
 1133290754728550400,Tue May 28 08:35:46 +0000 2019,@DanielMorsing I’ll see your bet and raise you  package main  import "fmt"  func main() { var a, b *int var c = b s… https://t.co/LCeNOFkzxm
 1133288972875063300,Tue May 28 08:28:41 +0000 2019,Too easy? What does this program print?  package main  import "fmt"  func main() {     var a, b *int     var c = b… https://t.co/JtzFzdIm42
 1133280200844693500,Tue May 28 07:53:49 +0000 2019,@kasiazien One for the archives https://t.co/82YepznITG
@@ -2393,7 +2389,6 @@ id,created_at,text
 1110844884062212100,Wed Mar 27 10:03:53 +0000 2019,@goinggodotnet Is there any open bug?
 1110844751073460200,Wed Mar 27 10:03:21 +0000 2019,RT @addyosmani: https://t.co/J14rZYL8j5 is amazing. Free service to remove the background of any photo 100% automatically. https://t.co/PTn…
 1110843936501874700,Wed Mar 27 10:00:07 +0000 2019,@sachee Superb!
-1110843936501874700,Wed Mar 27 10:00:07 +0000 2019,@sachee Superb!
 1110837092744077300,Wed Mar 27 09:32:55 +0000 2019,RT @LondonGophers: Fellow #gophers, our last meet-up's playlist is ready for you 📽: https://t.co/WjVHxbCA5V - Check out @nicholascwng @benj…
 1110810370648784900,Wed Mar 27 07:46:44 +0000 2019,RT @mattklein123: I wrote "Do understand that all of these interactions are not sparking joy" in an email to a vendor this week, and I'm no…
 1110795864971325400,Wed Mar 27 06:49:06 +0000 2019,@trevhutch @dogpossum I like stuff the Sam does. I think she’s neat.
@@ -2592,7 +2587,6 @@ id,created_at,text
 1100293407488888800,Tue Feb 26 07:16:05 +0000 2019,@mattgillard @simonwaight “Make changing your organisation easy, then make the easy organisational change” (with apologies to @KentBeck)
 1100291528025550800,Tue Feb 26 07:08:37 +0000 2019,@jaydestro Pa-pa-pa-pa-yuuuuubikeeeey
 1100285587951472600,Tue Feb 26 06:45:01 +0000 2019,@vllry I do not wear this crown lightly. This review has over 500,000 views. https://t.co/ab8Kj3ZWNa
-1100280169581801500,Tue Feb 26 06:23:29 +0000 2019,crowdsourcing. https://t.co/og6nNcDjD2
 1100280169581801500,Tue Feb 26 06:23:29 +0000 2019,crowdsourcing. https://t.co/og6nNcDjD2
 1100247617315909600,Tue Feb 26 04:14:08 +0000 2019,If you’re @‘ing me about the correct size or definition of a microservice, you missed Bezos’ point as well.
 1100246353584640000,Tue Feb 26 04:09:06 +0000 2019,@michaelsobota @jbeda When it comes down to arguing about Planck’s constant you might be dividing the value add of… https://t.co/kQgOcTbFBY

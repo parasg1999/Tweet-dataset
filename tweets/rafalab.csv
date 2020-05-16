@@ -199,7 +199,6 @@ id,created_at,text
 1179421541706207200,Wed Oct 02 15:43:02 +0000 2019,Unpopular opinion: The GRE can be useful for quantitative PhDs. I did my undergrad in a university that doesn't eve… https://t.co/y8YYg2pAa7
 1179395550166343700,Wed Oct 02 13:59:45 +0000 2019,@rmflight @sandakano @stephaniehicks Correct, no normalization. Input should be the raw counts.
 1179107965577523200,Tue Oct 01 18:57:00 +0000 2019,RT @sandakano: Need to apply dimension reduction to non-normally distributed data? Try our implementation of generalized PCA! It is now ava…
-1179107965577523200,Tue Oct 01 18:57:00 +0000 2019,RT @sandakano: Need to apply dimension reduction to non-normally distributed data? Try our implementation of generalized PCA! It is now ava…
 1176882968503079000,Wed Sep 25 15:35:39 +0000 2019,@maaris_m You are right! Thanks for the correction.
 1176854758868410400,Wed Sep 25 13:43:34 +0000 2019,More advanced: the coefficient of variation is not always useful. It only makes sense when 0 is the natural point o… https://t.co/XsKJPP2Km7
 1176854757991825400,Wed Sep 25 13:43:33 +0000 2019,Motivating the coefficient of variation (CV) for beginners:  Boss: Measure it 5 times.  You: 8, 8, 9, 6, and 8''  B… https://t.co/6s7cuECFMG
@@ -398,7 +397,6 @@ id,created_at,text
 973915337539424300,Wed Mar 14 13:34:45 +0000 2018,Happy #PiDay #rstats!   &gt; k &lt;- 0:500; 4 * sum((-1)^k / (2*k+1)) [1] 3.14  Here is an old post on how to use paralle… https://t.co/TFDkgz1LOY
 971900600710557700,Fri Mar 09 00:08:54 +0000 2018,@ClarkGRichards @Keith_Not_Kevin @dataandme Keep in mind that when I first made that plot @hadleywickham was probab… https://t.co/FfzI3mbjVF
 963858492099510300,Wed Feb 14 19:32:26 +0000 2018,#AcademicValentines https://t.co/NTY4oAl9ZC
-961266346842624000,Wed Feb 07 15:52:11 +0000 2018,Happy e day #rstats !  &gt; round(sum(1/sapply( 0:20, factorial)), 3) [1] 2.718
 961266346842624000,Wed Feb 07 15:52:11 +0000 2018,Happy e day #rstats !  &gt; round(sum(1/sapply( 0:20, factorial)), 3) [1] 2.718
 959897226955952100,Sat Feb 03 21:11:47 +0000 2018,@olgavitek @drob @robinson_es My experience is similar. This is the part non-stats students struggle with the most,… https://t.co/4oGtmifImI
 956579084070543400,Thu Jan 25 17:26:40 +0000 2018,RT @ASA_SciPol: The Puerto Rico govt is considering a proposal to weaken &amp; possibly dismantle PR Institute of Statistics (PRIS). Strong, tr…
@@ -797,7 +795,6 @@ id,created_at,text
 395594673571389440,Wed Oct 30 16:54:54 +0000 2013,@dartdog Independent identically distributed... like coin tosses
 395593993485946900,Wed Oct 30 16:52:12 +0000 2013,.@sinanaral says data we thought was IID is not. True in genomics too! See batch effect work from @leekgroup for examples #futureofstats
 395589243004674050,Wed Oct 30 16:33:19 +0000 2013,@stat110 says we need context for stats parameters when teaching. I agree. We also need it for interpreting randomness. #futureofstats
-390621830878208000,Wed Oct 16 23:34:36 +0000 2013,@kwbroman @StrictlyStat touché!  truce?
 390621830878208000,Wed Oct 16 23:34:36 +0000 2013,@kwbroman @StrictlyStat touché!  truce?
 390616234976243700,Wed Oct 16 23:12:22 +0000 2013,@StrictlyStat, So we are sharing embarrassing pics of our friends now? @kwbroman, are you sure you want to play this game?  ;)
 390116947737600000,Tue Oct 15 14:08:23 +0000 2013,Teaching least squares to a 5th grader by calibrating a programmable robot http://t.co/ii2A3OdvWf

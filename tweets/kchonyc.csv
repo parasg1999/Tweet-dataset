@@ -199,7 +199,6 @@ id,created_at,text
 1247937361775939600,Wed Apr 08 17:20:27 +0000 2020,RT @lintool: The Neural Covidex https://t.co/O7koXw1Fmr got a nice shout-out in ACM TechNews today https://t.co/J2MUguhYx9 (second item)!
 1247907239484174300,Wed Apr 08 15:20:45 +0000 2020,a very nice effort from Kakao Brain. the only caveat is that translations are a bit unnatural. for instance, in Kor… https://t.co/j4PX5wrPXE
 1247888395948281900,Wed Apr 08 14:05:52 +0000 2020,😢 https://t.co/qVptjNWSrQ
-1247888395948281900,Wed Apr 08 14:05:52 +0000 2020,😢 https://t.co/qVptjNWSrQ
 1247691050812145700,Wed Apr 08 01:01:42 +0000 2020,RT @iclr_conf: There was a technical issue with the Doodle form for presentation slots, and unfortunately we will have to use another proce…
 1247632126373245000,Tue Apr 07 21:07:33 +0000 2020,also, don't use your family as an excuse to the person whose closest family member lives across an ocean. https://t.co/44RkeyhNcW
 1247626383641268200,Tue Apr 07 20:44:44 +0000 2020,unless you are ready to and have volunteered for any dangerous job yourself, don't ask those, who report to you, to… https://t.co/IilLFX9Mmm
@@ -598,7 +597,6 @@ id,created_at,text
 1202707283219796000,Thu Dec 05 21:52:16 +0000 2019,@jacobeisenstein I endore this message
 1202612416103755800,Thu Dec 05 15:35:18 +0000 2019,RT @LakeBrenden: We're inviting applications for our Faculty Fellows position at the Center for Data Science @NYUDataScience. A unique, ind…
 1202365372655120400,Wed Dec 04 23:13:38 +0000 2019,it has arrived! @jacobeisenstein https://t.co/9mGDH4zfZv
-1202365372655120400,Wed Dec 04 23:13:38 +0000 2019,it has arrived! @jacobeisenstein https://t.co/9mGDH4zfZv
 1202281675008495600,Wed Dec 04 17:41:03 +0000 2019,RT @_willfalcon: If you’re using @PyTorchLightnin feel free to join our @SlackHQ channel for any questions!  https://t.co/CLDA7ZvFOd
 1202279848875634700,Wed Dec 04 17:33:47 +0000 2019,how to make causal inferences using text by Brandon Stewart at @NYUDataScience https://t.co/sQPsihEh4n
 1202067398305702000,Wed Dec 04 03:29:35 +0000 2019,@GaryMarcus @yoavgo @ylecun @LakeBrenden @egrefen @LittleBimble oh certainly. one step at a time :)
@@ -798,7 +796,6 @@ id,created_at,text
 1185212158671499300,Fri Oct 18 15:12:53 +0000 2019,RT @iclr_conf: ⏳ The review period for #ICLR2020 is slowly wrapping up, and our reviewers have been working hard on their assessments. If y…
 1185002576351240200,Fri Oct 18 01:20:05 +0000 2019,RT @kjgeras: Do you have a PhD (or soon will) and want to join us in these efforts? Apply for a postdoc! https://t.co/jO9DLNkE1E  If you di…
 1184929158125772800,Thu Oct 17 20:28:20 +0000 2019,@hllo_wrld @egrefen @NYUDataScience I can't say anything on others' behalf, but can say I was almost fooled. very a… https://t.co/rntVW3LvqF
-1184929158125772800,Thu Oct 17 20:28:20 +0000 2019,@hllo_wrld @egrefen @NYUDataScience I can't say anything on others' behalf, but can say I was almost fooled. very a… https://t.co/rntVW3LvqF
 1184928072006545400,Thu Oct 17 20:24:01 +0000 2019,@egrefen at NLP/Text-as-Data seminar @NYUDataScience https://t.co/r1gyPFTdnj
 1184859135277490200,Thu Oct 17 15:50:06 +0000 2019,https://t.co/wIYB7DaK12 https://t.co/wIYB7DaK12
 1184857868744515600,Thu Oct 17 15:45:04 +0000 2019,Jae-jun Han from Samsung on quantization https://t.co/z75O32RRkf
@@ -997,7 +994,6 @@ id,created_at,text
 1168075510552789000,Sun Sep 01 08:17:58 +0000 2019,tell me. how many times should I bibtex before pdflatex twice? https://t.co/HncIEUhIsp
 1168053554877091800,Sun Sep 01 06:50:43 +0000 2019,@zacharylipton a good paper with SOTA results - REJECT!
 1167857723347820500,Sat Aug 31 17:52:33 +0000 2019,RT @gabrielpeyre: @kchonyc @xtimv @xtimv post is great and highlights the key aspect of mitigating time vs memory, which is the most crucia…
-1167857717219774500,Sat Aug 31 17:52:32 +0000 2019,RT @xtimv: @kchonyc The analysis can be stated more tightly BTW. It's something like FLOPS{ ∇f } ≤ 4*FLOPS{ f }, but I have to look it up i…
 1167857717219774500,Sat Aug 31 17:52:32 +0000 2019,RT @xtimv: @kchonyc The analysis can be stated more tightly BTW. It's something like FLOPS{ ∇f } ≤ 4*FLOPS{ f }, but I have to look it up i…
 1167855581350322200,Sat Aug 31 17:44:02 +0000 2019,@xtimv got it. I thought misunderstanding was on computing the gradient not on the asymptotic complexity.
 1167854237268762600,Sat Aug 31 17:38:42 +0000 2019,@xtimv would love to hear what points are misunderstood often
@@ -1331,7 +1327,8 @@ id,created_at,text
 1136715211853971500,Thu Jun 06 19:23:20 +0000 2019,RT @fhuszar: Notes on the "Limitations of the Empirical Fisher Approximation" by Kunstner et al.: an excellently written discussion paper.…
 1136331695920156700,Wed Jun 05 17:59:22 +0000 2019,I can confirm this. cuv effectively saved my PhD. https://t.co/nqpJqkLRk2
 1136294676665946100,Wed Jun 05 15:32:16 +0000 2019,RT @LudovicDenoyer: Can we learn to detect objects without any supervision? Yes, if we assume that an object is a part of an image that can…
-1136283895022927900,Wed Jun 05 14:49:26 +0000 2019,RT @thoma_gu: Please check out our recent work with @seayong08 @kchonyc and Victor! We found that vanilla zero-shot NMT usually fails due…
+1136283895022927900,Wed Jun 05 14:49:26 +0000 2019,RT @thoma_gu: Please check out our recent work with 
+@seayong08 @kchonyc and Victor! We found that vanilla zero-shot NMT usually fails due…
 1136064264177967100,Wed Jun 05 00:16:42 +0000 2019,triple digits or didn't happen? awesome work by @roeeaharoni, Melvin Johnson and @orf_bnw https://t.co/aPb2ADqy2N
 1136061788188024800,Wed Jun 05 00:06:51 +0000 2019,RT @NeuralGen: 📣 Our final schedule with the titles of the talks is up! Check the online version here: https://t.co/zKK79vDkUA See you on T…
 1135972853000691700,Tue Jun 04 18:13:28 +0000 2019,RT @avdnoord: VQVAE-2 finally out!  Powerful autoregressive models in a hierarchical compressed latent space. No modes were collapsed in th…
@@ -1397,7 +1394,6 @@ id,created_at,text
 1130461267704123400,Mon May 20 13:12:23 +0000 2019,RT @ylecun: Alex Conneau defends his PhD at FAIR-Paris.  He and Guillaume Lample showed that completely-unsupervised language translation i…
 1130215234923356200,Sun May 19 20:54:45 +0000 2019,https://t.co/PggMeeewxK
 1130215123136766000,Sun May 19 20:54:18 +0000 2019,"The report’s key recommendation: “.. support the research and development .. of AI innovation.”  The think tank th… https://t.co/KHqzDeiays
-1129470800409628700,Fri May 17 19:36:38 +0000 2019,RT @togelius: We still have a few seats left for the AI and Games summer school - you still have a chance to register! https://t.co/v96iTxW…
 1129470800409628700,Fri May 17 19:36:38 +0000 2019,RT @togelius: We still have a few seats left for the AI and Games summer school - you still have a chance to register! https://t.co/v96iTxW…
 1129442196023894000,Fri May 17 17:42:58 +0000 2019,RT @CalixtoIacer: Interested in integrating vision &amp; language with latent variable models? Interested in multi-modal machine translation? C…
 1129386753608114200,Fri May 17 14:02:39 +0000 2019,RT @togelius: Guess who won the AAMAS 2019 best paper award? @giuse_tweets, me and @eXascaleInfolab did, that's who. Or rather, our paper "…
@@ -1797,7 +1793,6 @@ id,created_at,text
 1095829242057818100,Wed Feb 13 23:37:05 +0000 2019,if you're uncomfortable with google colab, the source can be found at https://t.co/rmX3aMdf8L https://t.co/rad1wxH9PC
 1095715366389665800,Wed Feb 13 16:04:35 +0000 2019,RT @jacobeisenstein: NLP textbook update! (https://t.co/xcwz5cahTP)  1) The book is in production with @mitpress, and I just finished revie…
 1095689784683622400,Wed Feb 13 14:22:56 +0000 2019,RT @Miles_Brundage: "ELF OpenGo: An Analysis and Open Reimplementation of AlphaZero," Tian et al.: https://t.co/v09uKEH36H
-1095349916862476300,Tue Feb 12 15:52:25 +0000 2019,RT @dirkweissenborn: @kchonyc Sounds very similar to this: https://t.co/B04CjC6hUp
 1095349916862476300,Tue Feb 12 15:52:25 +0000 2019,RT @dirkweissenborn: @kchonyc Sounds very similar to this: https://t.co/B04CjC6hUp
 1095298939161636900,Tue Feb 12 12:29:51 +0000 2019,RT @Thom_Wolf: PT-BERT 0.5 out💥 Pretty big release w. not 1 but TWO new pretrained models: -classic: OpenAI's GPT -brand-new: Transformer-X…
 1094967215135309800,Mon Feb 11 14:31:42 +0000 2019,awesome! https://t.co/MSDSDFSPRB
@@ -2398,7 +2393,6 @@ id,created_at,text
 1050747430805954600,Fri Oct 12 13:58:04 +0000 2018,@egrefen @lmthang @manaalfar @GoogleAI I forgot to add &lt;/s&gt;
 1050747160634028000,Fri Oct 12 13:56:59 +0000 2018,@egrefen @lmthang @manaalfar @GoogleAI end of sentence?
 1050747008590450700,Fri Oct 12 13:56:23 +0000 2018,@nlpnoah because of noise in the input, it's probably quite a bit different after marginalizing this input noise out, but yes
-1050747008590450700,Fri Oct 12 13:56:23 +0000 2018,@nlpnoah because of noise in the input, it's probably quite a bit different after marginalizing this input noise out, but yes
 1050746552476737500,Fri Oct 12 13:54:34 +0000 2018,@egrefen @lmthang @manaalfar @GoogleAI dude what do you mean by a forest worth of "GPU" time? they used TPU pods!
 1050540425197572100,Fri Oct 12 00:15:30 +0000 2018,the paper behind BERT is now online: https://t.co/kKDzq3GF5W   BERT: Pre-training of Deep Bidirectional Transformer… https://t.co/AkGkqXklHx
 1050522878939197400,Thu Oct 11 23:05:46 +0000 2018,https://t.co/NySKXijF4N
@@ -2797,7 +2791,6 @@ id,created_at,text
 1014257784748200000,Tue Jul 03 21:21:14 +0000 2018,RT @ylecun: It's official!  Bloomsbury AI joins Facebook. Welcome Guillaume Bouchard, Sebastian Riedel, and the team! https://t.co/ajTH0Cjh…
 1014250103824056300,Tue Jul 03 20:50:43 +0000 2018,because you can't simply win #ENGCOL
 1014250057296642000,Tue Jul 03 20:50:32 +0000 2018,RT @Thom_Wolf: @dennybritz @kchonyc @zacharylipton Maybe because this explanation is very relevant for training but remains silent on what…
-1014236045574099000,Tue Jul 03 19:54:51 +0000 2018,goooooooooooool #ENGCOL last minute equalizer!
 1014236045574099000,Tue Jul 03 19:54:51 +0000 2018,goooooooooooool #ENGCOL last minute equalizer!
 1014037509247037400,Tue Jul 03 06:45:56 +0000 2018,RT @naverlabseurope: and so #PAISS2018 begins! France’s #Prairie 1st international summer school in #ai #paiss2018 with @ylecun  @julienmai…
 1014022221789040600,Tue Jul 03 05:45:11 +0000 2018,RT @lzamparo: Now up on @bioarxiv: BindSpace; large-scale multi-entity embedding for decoding TF binding signals https://t.co/nR1WS6VuEp

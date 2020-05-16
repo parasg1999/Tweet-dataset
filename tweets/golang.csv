@@ -271,7 +271,8 @@ id,created_at,text
 730438921885098000,Wed May 11 16:46:24 +0000 2016,RT @GCPPodcast: .@enneff and @broady tell us about #golang, its popularity on the cloud, and how you can use it on @googlecloud! https://t.…
 727531201125183500,Tue May 03 16:12:09 +0000 2016,RT @peterbourgon: Go best practices, six years in ☞ https://t.co/Ca9r7vzdVX  Successor to Go in Production talk from 2014; lots of #golang…
 722994186971045900,Thu Apr 21 03:43:41 +0000 2016,Go 1.6.2 is released!  Announcement: https://t.co/TcQX3mY732  Download: https://t.co/StazJXrC1k  #golang https://t.co/sJBrhAd12p
-721765144699613200,Sun Apr 17 18:19:54 +0000 2016,RT @francesc: Very interesting! Implementing a KernelNetwork Stack in #golang with the CSP Style https://t.co/RhCwxtsxIN https://t.co/FuAh…
+721765144699613200,Sun Apr 17 18:19:54 +0000 2016,RT @francesc: Very interesting! Implementing a Kernel
+Network Stack in #golang with the CSP Style https://t.co/RhCwxtsxIN https://t.co/FuAh…
 720065362742497300,Wed Apr 13 01:45:35 +0000 2016,Go 1.6.1 and 1.5.4 are released to address two security issues.  Info: https://t.co/nSRDm4Ivwt  Download: https://t.co/StazJXrC1k  #golang
 708058491739447300,Thu Mar 10 22:34:34 +0000 2016,RT @_rsc: today's contribution to the programming hexicon: 0xb01dfacedebac1e. http://t.co/sOK1zcCSQW
 700537707194265600,Fri Feb 19 04:29:39 +0000 2016,@theory they were in 1.5
@@ -396,7 +397,6 @@ id,created_at,text
 596141393984131100,Thu May 07 02:35:58 +0000 2015,RT @Sajma: A video of my talk on #golang for #Java Programmers at @nyjavasig is now available: https://t.co/B83ZfIn6Uk
 590926938513879000,Wed Apr 22 17:15:35 +0000 2015,RT @francesc: Go for C++ developers (video + slides) https://t.co/jljPNULiqk #golang #cpp http://t.co/OG5645IrkI
 590886835179552800,Wed Apr 22 14:36:14 +0000 2015,Developing with #golang? Tell us about your dev environment in this survey: http://t.co/keKQNC8Xw1 Just 4 questions! http://t.co/gTHYSq2F9j
-589125547986329600,Fri Apr 17 17:57:30 +0000 2015,RT @GopherCon: See our amazing program of speakers at http://t.co/qIgjdrxxQa #golang
 589125547986329600,Fri Apr 17 17:57:30 +0000 2015,RT @GopherCon: See our amazing program of speakers at http://t.co/qIgjdrxxQa #golang
 586183769851359200,Thu Apr 09 15:07:56 +0000 2015,RT @francesc: Polymer Gopher: #AppEngine, #Golang, #Polymer, and Cloud Endpoints Live coding on YouTube!  http://t.co/tsF6zFY6BP http://t.c…
 582939065407934500,Tue Mar 31 16:14:38 +0000 2015,RT @golangchallenge: The second Go Challenge is now live http://t.co/h7aOFWqAAR Have fun!! #golang
@@ -967,7 +967,9 @@ id,created_at,text
 429958970179350500,Sun Feb 02 12:46:21 +0000 2014,RT @dlsniper: Vitess looks awesome! Kudos to @YouTube for open sourcing this! Thank you! And the best part is that is written in #golang /c…
 429958617547440100,Sun Feb 02 12:44:57 +0000 2014,RT @francesc: "Vitess is around 70kLOC, if it was C++ it would be around 200k" Sugu Sougoumarane talking at the #golang devroom at #fosdem
 429957534242590700,Sun Feb 02 12:40:39 +0000 2014,@_andy_tea http://t.co/gqU5cq6QYH
-429957282513031200,Sun Feb 02 12:39:39 +0000 2014,RT @Pollux234: Vitess on #Youtube, written in @golang.10k/40k connections on a MySQL server.Just sit down and respect ! http://t.co/4ntRi…
+429957282513031200,Sun Feb 02 12:39:39 +0000 2014,RT @Pollux234: Vitess on #Youtube, written in @golang.
+10k/40k connections on a MySQL server.
+Just sit down and respect ! http://t.co/4ntRi…
 429956635482947600,Sun Feb 02 12:37:04 +0000 2014,But he goes on to say that the project needs better documentation to be usable by others, and that they're working on it.
 429956466620239900,Sun Feb 02 12:36:24 +0000 2014,"Vitess is production ready," says Sugu, after explaining how one of the largest sites on the internet uses it everywhere. #understatement
 429954251293732860,Sun Feb 02 12:27:36 +0000 2014,Is the stream still looking good?
@@ -982,7 +984,8 @@ id,created_at,text
 429928160734744600,Sun Feb 02 10:43:55 +0000 2014,@orrc @Camlistore I agree it's frustrating. Sorry
 429927990869639200,Sun Feb 02 10:43:15 +0000 2014,Next up is Matt Cottingham with "Interfaces: a new leaf for an old book" #golang #FOSDEM http://t.co/gqU5cq6QYH
 429925216148807700,Sun Feb 02 10:32:13 +0000 2014,@orrc jeeze he works on @Camlistore full time, I think he should be able to say a few words about it. FOSDEM should have amplification.
-429924904130330600,Sun Feb 02 10:30:59 +0000 2014,RT @Pollux234: Really awesome #camlistore talk :-o@bradfitz @enneff @golang
+429924904130330600,Sun Feb 02 10:30:59 +0000 2014,RT @Pollux234: Really awesome #camlistore talk :-o
+@bradfitz @enneff @golang
 429921347100487700,Sun Feb 02 10:16:51 +0000 2014,Still streaming live from http://t.co/gqU5cq6QYH #golang #FOSDEM
 429920731942907900,Sun Feb 02 10:14:24 +0000 2014,~@camlistore is pure go. "About half this room has code in this thing." @bradfitz http://t.co/YDBMchE0qu
 429919645932724200,Sun Feb 02 10:10:05 +0000 2014,Live demo success! @Camlistore live search queries in the web UI show changes in real time.
@@ -996,7 +999,6 @@ id,created_at,text
 429907408086114300,Sun Feb 02 09:21:28 +0000 2014,@arsatiki :-(
 429906273770164200,Sun Feb 02 09:16:57 +0000 2014,@arsatiki adjusted microphone placement. Any better?
 429905916096700400,Sun Feb 02 09:15:32 +0000 2014,I spoke to the #FOSDEM video people and there's not much we can do about the quality. An issue with network congestion. Sorry. :-(
-429903993582919700,Sun Feb 02 09:07:53 +0000 2014,I'm hearing reports that the video stream is choppy. Anyone else having issues?
 429903993582919700,Sun Feb 02 09:07:53 +0000 2014,I'm hearing reports that the video stream is choppy. Anyone else having issues?
 429903308577177600,Sun Feb 02 09:05:10 +0000 2014,First talk underway and the #golang devroom at #fosdem is already full. :-) http://t.co/nnePjdnmdE
 429902080715665400,Sun Feb 02 09:00:17 +0000 2014,Starting now, Péter Szilágyi talking about Iris Decentralized Messaging https://t.co/zIJ7Jsbi8F #golang #fosdem http://t.co/nd4XcmaeZt
@@ -1196,7 +1198,6 @@ id,created_at,text
 345057771621867500,Thu Jun 13 05:59:18 +0000 2013,Go 1.1.1 was just released https://t.co/5yAXUJtnID #golang
 345009890785378300,Thu Jun 13 02:49:02 +0000 2013,@notlion and may you parse many more!
 344955779826188300,Wed Jun 12 23:14:01 +0000 2013,Cube Slam, a fun WebRTC demo with a backend built with Go on App Engine https://t.co/NIZQ2dpYFx #golang Code: https://t.co/dqmQu1iDpX
-344951700446126100,Wed Jun 12 22:57:48 +0000 2013,Go and the Google Cloud Platform #golang #blog http://t.co/3nT0hlOxXG
 344951700446126100,Wed Jun 12 22:57:48 +0000 2013,Go and the Google Cloud Platform #golang #blog http://t.co/3nT0hlOxXG
 344656420358217700,Wed Jun 12 03:24:28 +0000 2013,Interested in what might be in Go 1.2? This doc is a tentative TODO list of major areas of work. https://t.co/PfOwXrPGV0 #golang
 344627437742731260,Wed Jun 12 01:29:18 +0000 2013,RT @rob_pike: @mattfarina package convert;import "math";const x=math.Pi/180;func Rad(d float64)float64{return d*x};func Deg(r float64)float…

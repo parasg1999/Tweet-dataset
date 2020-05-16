@@ -399,7 +399,6 @@ id,created_at,text
 1072862157677580300,Wed Dec 12 14:34:05 +0000 2018,The Eastern European ML Community is teaching a great summer school in Romania this year. Check it out. https://t.co/cp5AvdM3Rg
 1072291891658469400,Tue Dec 11 00:48:03 +0000 2018,Deadline extended to Dec 21 https://t.co/SiaoVuN42O
 1071396984177811500,Sat Dec 08 13:32:01 +0000 2018,#NeurIPS2018 The number of unique z vectors seen during training turns out to be a way to control capacity and prev… https://t.co/3HECiO4cIH
-1071396984177811500,Sat Dec 08 13:32:01 +0000 2018,#NeurIPS2018 The number of unique z vectors seen during training turns out to be a way to control capacity and prev… https://t.co/3HECiO4cIH
 1071394087683661800,Sat Dec 08 13:20:30 +0000 2018,RT @dwf: Reminder that you can catch "Unsupervised Control Through Non-Parametric Discriminative Rewards" and "Amortized Q-Learning" at the…
 1071169395827896300,Fri Dec 07 22:27:39 +0000 2018,RT @karol_kurach: "Frechet Video Distance" - a new video metric well correlated with human perceived quality. Very useful if you're working…
 1071169378958356500,Fri Dec 07 22:27:35 +0000 2018,RT @TomUnterthiner: Our paper on evaluating generative models for video is out! A cool new metric and new datasets to drive progress in thi…
@@ -598,7 +597,6 @@ id,created_at,text
 1046508180920889300,Sun Sep 30 21:12:48 +0000 2018,@AndrewTouchet I might make a github repo, yes, but I don't actually need to track many papers to make this graph.… https://t.co/cNwP5rBXGO
 1046499690802376700,Sun Sep 30 20:39:03 +0000 2018,@dessie5555 https://t.co/OCllCxe23p Fig 1.8, 1.10 and 1.11
 1046498143636844500,Sun Sep 30 20:32:55 +0000 2018,@NandoDF Any specific papers you'd like to make sure I hit?
-1046497105995399200,Sun Sep 30 20:28:47 +0000 2018,@triketora Thank you for warning us
 1046497105995399200,Sun Sep 30 20:28:47 +0000 2018,@triketora Thank you for warning us
 1046440393825349600,Sun Sep 30 16:43:26 +0000 2018,If you made a big neural net or dataset recently, let me know the # of examples / “neurons” / average # connections… https://t.co/4nhl5W4PMI
 1046182922716213200,Sat Sep 29 23:40:20 +0000 2018,@D_Berthelot_ML Maybe something wrong on just your street? I live not far away and mine works ok https://t.co/qrZu231vkv
@@ -999,7 +997,6 @@ id,created_at,text
 990671540848025600,Sun Apr 29 19:17:55 +0000 2018,RT @colinraffel: I'll (help) present 3 posters @ICLR18: Realistic Evaluation of Semi-Supervised Learning https://t.co/OspDK6mVGZ Mon 4/30 4…
 989953744778420200,Fri Apr 27 19:45:39 +0000 2018,RT @SussilloDavid: Google Cloud Platform announces new credits program for researchers  https://t.co/Fge6oWOgSH
 989943311434567700,Fri Apr 27 19:04:12 +0000 2018,RT @elaClaudia: Check out our poster at ICLR showcasing our work on GANs on Tuesday. @LiamFedus @balajiln @shakir_za @goodfellow_ian https:…
-989943311434567700,Fri Apr 27 19:04:12 +0000 2018,RT @elaClaudia: Check out our poster at ICLR showcasing our work on GANs on Tuesday. @LiamFedus @balajiln @shakir_za @goodfellow_ian https:…
 989876458339188700,Fri Apr 27 14:38:33 +0000 2018,@timnitGebru @zephoria @datasociety Thanks!
 989655288813838300,Thu Apr 26 23:59:42 +0000 2018,@Amir_Arsalan_ @samfin55 @AndrewLBeam @zakkohane @NicolasPapernot I don’t quite understand the threat model. If som… https://t.co/Sc2pyUgJ7D
 989314399084003300,Thu Apr 26 01:25:07 +0000 2018,RT @hardmaru: Using GANs and CMA-ES to procedurally generate Mario levels 🎮 https://t.co/gsfBvgTbdN
@@ -1198,7 +1195,6 @@ id,created_at,text
 969776035649675300,Sat Mar 03 03:26:39 +0000 2018,4 years of GAN progress (source: https://t.co/hlxW3NnTJP ) https://t.co/kmK5zikayV
 969353358891888600,Thu Mar 01 23:27:05 +0000 2018,@nazaroff24 I also learned a lot from this book but it’s not as specific to the ideas within linear algebra that ar… https://t.co/AtoHTQBlXI
 969306960263749600,Thu Mar 01 20:22:42 +0000 2018,@nazaroff24 I learned a lot of linear algebra from my friend Zico Kolter’s lecture notes when I took Andrew Ng’s ma… https://t.co/JJmDQmbjrg
-969306376802418700,Thu Mar 01 20:20:23 +0000 2018,@nazaroff24 What would you like to learn more about? Linear algebra in general or a specific topic?
 969306376802418700,Thu Mar 01 20:20:23 +0000 2018,@nazaroff24 What would you like to learn more about? Linear algebra in general or a specific topic?
 969255912908058600,Thu Mar 01 16:59:52 +0000 2018,@AlejandroMllo Very welcome!
 969255395150540800,Thu Mar 01 16:57:48 +0000 2018,Yoshua, Aaron, and I have released the LaTeX template for the Deep Learning book: https://t.co/ldgr4N9Ni6 Useful if… https://t.co/EIIYR2zmRH
@@ -1599,7 +1595,6 @@ id,created_at,text
 937051216755900400,Sat Dec 02 20:09:54 +0000 2017,RT @vukosi: Very thankful for the time spent at #SOCML. We continue the journey to share our work, our stories and our networks. Enjoyed th…
 936783935886975000,Sat Dec 02 02:27:49 +0000 2017,RT @karpathy: Wow, GANs are on a roll. Quite amazing results from pix2pixHD: https://t.co/sJUNWiWd9i Also the most tangible glimpse so far…
 936621027471196200,Fri Dec 01 15:40:29 +0000 2017,@ethancaballero @soumithchintala @realDonaldTrump Donald Trump tries to keep discussion on twitter and make it infl… https://t.co/rsL98LdMzi
-936621027471196200,Fri Dec 01 15:40:29 +0000 2017,@ethancaballero @soumithchintala @realDonaldTrump Donald Trump tries to keep discussion on twitter and make it infl… https://t.co/rsL98LdMzi
 936616806348832800,Fri Dec 01 15:23:42 +0000 2017,@jeremyphoward @soumithchintala OK, Soumith agreed. We’ll discuss at NIPS, not tweet about it until then, but share conclusions after
 936616249303351300,Fri Dec 01 15:21:29 +0000 2017,@jeremyphoward @soumithchintala I’m fine with sharing things openly once we reach a good conclusion but twitter is… https://t.co/w4Kue1gshr
 936616027252711400,Fri Dec 01 15:20:37 +0000 2017,@jeremyphoward @soumithchintala I’ve proposed that we all meet at NIPS and discuss it rather than tweet.
@@ -1799,7 +1794,6 @@ id,created_at,text
 917170551562444800,Sun Oct 08 23:31:14 +0000 2017,RT @techreview: Stay on the cutting edge by attending the emerging tech conference of the year: #EmTechMIT. Register today! - https://t.co/…
 916702015408922600,Sat Oct 07 16:29:26 +0000 2017,RT @lishali88: Really excited to participate in the first @3Blue1Brown video on deep learning! https://t.co/gttUyqOfcA
 916360744253382700,Fri Oct 06 17:53:21 +0000 2017,Face swapping videos with CycleGAN: https://t.co/3VFKfYnVhP
-916360744253382700,Fri Oct 06 17:53:21 +0000 2017,Face swapping videos with CycleGAN: https://t.co/3VFKfYnVhP
 916046715983061000,Thu Oct 05 21:05:31 +0000 2017,@ellisorellis Best to wait and include the new work
 916009444604993500,Thu Oct 05 18:37:24 +0000 2017,RT @timhwang: New job! Excited to be joining the Ethics and Governance of AI Fund as its Director. Announced earlier this year: https://t.c…
 915790666252222500,Thu Oct 05 04:08:04 +0000 2017,RT @liu_mingyu: Snowy to summery image translation. Results from our NIPS 17 paper (https://t.co/Zu8pm1KXCQ) Full video available in https:…
@@ -1998,7 +1992,6 @@ id,created_at,text
 880263833301901300,Thu Jun 29 03:17:07 +0000 2017,"We use the Greek α prefix for α-GAN, as AEGAN and most other Latin prefixes seem to have been taken" https://t.co/sZIKlmhMG2 :D
 880260212770218000,Thu Jun 29 03:02:43 +0000 2017,@TedInRealLife @zeynep no problem, there's more than one recent paper that is frequently called "classic"
 880258928075874300,Thu Jun 29 02:57:37 +0000 2017,@TedInRealLife @zeynep It's one of my own papers that people call "classic" and while I appreciate the compliment i… https://t.co/deUmCQIu3O
-880238159803539500,Thu Jun 29 01:35:05 +0000 2017,A rare exception to Betteridge's law: https://t.co/n4qyUvGXDh (also, can't believe this article doesn't mention arxiv)
 880238159803539500,Thu Jun 29 01:35:05 +0000 2017,A rare exception to Betteridge's law: https://t.co/n4qyUvGXDh (also, can't believe this article doesn't mention arxiv)
 880181767260569600,Wed Jun 28 21:51:00 +0000 2017,@zeynep Yes, it's also amazing to see how well some work from the 1950s and 1980s has held up
 880179878267674600,Wed Jun 28 21:43:30 +0000 2017,@halhod Thanks! Didn't know your twitter handle
@@ -2399,7 +2392,6 @@ id,created_at,text
 815610867953741800,Sun Jan 01 17:29:18 +0000 2017,@gkowarzyk happy new year to you too!
 814602257912057900,Thu Dec 29 22:41:27 +0000 2016,@davegershgorn it's a research area. Evader still has the advantage for now
 814600523030462500,Thu Dec 29 22:34:33 +0000 2016,@davegershgorn the right way to evade face recognition is to do it with adversarial examples: https://t.co/jysLnRifUn
-814600523030462500,Thu Dec 29 22:34:33 +0000 2016,@davegershgorn the right way to evade face recognition is to do it with adversarial examples: https://t.co/jysLnRifUn
 814149869287841800,Wed Dec 28 16:43:49 +0000 2016,@soumithchintala @markus_with_k @TimSalimans I endorse this advice :)
 814149580153491500,Wed Dec 28 16:42:40 +0000 2016,@markus_with_k @soumithchintala @TimSalimans my intuition is that you always want the discriminator to be optimal, shouldn't ever weaken it
 813952794877014000,Wed Dec 28 03:40:43 +0000 2016,@haldaume3 @azeem @pmangg BTW, related project: https://t.co/OxIR25Lg47 (not appropriate for NLP though, relies on continuous inputs)
@@ -2699,5 +2691,4 @@ id,created_at,text
 776552751186620400,Thu Sep 15 22:46:18 +0000 2016,@multihyphenate @OpenAI travel grants for the self-organizing conference have been announced. (have i understood the question correctly?)
 776545271211630600,Thu Sep 15 22:16:34 +0000 2016,On Monday I'll speak via Skype at HORSE 2016 about adversarial examples: https://t.co/hlqm0dhn4I
 776122003174494200,Wed Sep 14 18:14:39 +0000 2016,@goodfellow_ian It's also in collaboration with Adobe
-776114481692684300,Wed Sep 14 17:44:46 +0000 2016,Amazing computer assisted art demo from Berkeley. Draw a triangle, a GAN turns it into a photo-realistic mountain. https://t.co/fRG8eCUcNK
 776114481692684300,Wed Sep 14 17:44:46 +0000 2016,Amazing computer assisted art demo from Berkeley. Draw a triangle, a GAN turns it into a photo-realistic mountain. https://t.co/fRG8eCUcNK

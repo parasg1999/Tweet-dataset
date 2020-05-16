@@ -399,7 +399,6 @@ id,created_at,text
 1229531845349392400,Mon Feb 17 22:23:30 +0000 2020,Building a static serverless website using S3 and CloudFront - https://t.co/0JZZw3P5Sd #AWS (well done,… https://t.co/opwNqpuFsL
 1229478379293835300,Mon Feb 17 18:51:02 +0000 2020,RT @adhorn: And OUT!  Part 2 of my series on Operational Excellence is now published - "On the importance of tools" I hope you enjoy it :)…
 1228842127439777800,Sun Feb 16 00:42:48 +0000 2020,A very clever idea from my ever-creative friend Danielle! https://t.co/VFssc0zGlw
-1228842127439777800,Sun Feb 16 00:42:48 +0000 2020,A very clever idea from my ever-creative friend Danielle! https://t.co/VFssc0zGlw
 1228502178534289400,Sat Feb 15 02:11:58 +0000 2020,@WhyHiAnnabelle We're hiring at AWS for those skills. DM me for more info!
 1228501919552794600,Sat Feb 15 02:10:56 +0000 2020,@alexander_sulin It is a regular EBS volume, so 16 TB max size. However, you need to ensure consistency at the file… https://t.co/ZIZDTJKKba
 1228501127835996200,Sat Feb 15 02:07:47 +0000 2020,@bradfitz You could build one of these:  https://t.co/4YgXjJ3STu
@@ -799,7 +798,6 @@ id,created_at,text
 1191840698485461000,Tue Nov 05 22:12:20 +0000 2019,@ethericlights Nope, just a yoga ball. Works wonders for my back!
 1191741718694989800,Tue Nov 05 15:39:01 +0000 2019,@mliebow I would like to, but I don't have enough space to set them up.
 1191741570959073300,Tue Nov 05 15:38:26 +0000 2019,@ayaz_khan That's the challenge! With a lot of care.
-1191741570959073300,Tue Nov 05 15:38:26 +0000 2019,@ayaz_khan That's the challenge! With a lot of care.
 1191741501618786300,Tue Nov 05 15:38:10 +0000 2019,@ale_menezes There's an Echo Show to the right of my monitor.
 1191740317201911800,Tue Nov 05 15:33:27 +0000 2019,Keith's Layers for #AWS Lambda &amp; Python 3.7 - https://t.co/RyIEqUgNjf , including full build pipeline. Nice work,… https://t.co/USd9Sj9ilT
 1191737360712487000,Tue Nov 05 15:21:42 +0000 2019,@hellosafezone I use the blue yoga ball as my chair.
@@ -1197,7 +1195,6 @@ id,created_at,text
 1149316313547866100,Thu Jul 11 13:55:37 +0000 2019,RT @Stelligent: @Werner  announces #AWS Cloud Developer kit, a software development framework for defining cloud infrastructure in code. @A…
 1149315568756908000,Thu Jul 11 13:52:39 +0000 2019,#AWS Cloud Development Kit (CDK) – TypeScript and Python are Now Generally Available - https://t.co/ETcnt9yqp8 https://t.co/iOdFHRDPRG
 1149314452052799500,Thu Jul 11 13:48:13 +0000 2019,Amazon EventBridge - Event-Driven #AWS Integration for your SaaS Applications - https://t.co/K6KGoZkhIP https://t.co/jdi75AoYAA
-1149314452052799500,Thu Jul 11 13:48:13 +0000 2019,Amazon EventBridge - Event-Driven #AWS Integration for your SaaS Applications - https://t.co/K6KGoZkhIP https://t.co/jdi75AoYAA
 1149308149049909200,Thu Jul 11 13:23:10 +0000 2019,RT @monadic: Firecracker VMs but with a Docker container developer experience!  Announcing Ignite - a new container VM technology for our 5…
 1149134936391049200,Thu Jul 11 01:54:53 +0000 2019,RT @danilop: This is so cool! Introducing Amazon CloudWatch Anomaly Detection – Now in Preview – apply machine-learning algorithms to conti…
 1149083080281317400,Wed Jul 10 22:28:49 +0000 2019,Coming Soon to the University of British Columbia - Cloud Innovation Centre - https://t.co/exkq6j1rwK https://t.co/lB0GWo0BYc
@@ -1396,7 +1393,6 @@ id,created_at,text
 1123955098793795600,Thu May 02 14:19:12 +0000 2019,How Twitch Monitors its Services with Amazon CloudWatch - https://t.co/SyxwX27hpa #AWS https://t.co/vqG1qbSTZv
 1123944661796708400,Thu May 02 13:37:43 +0000 2019,Make that New Shepard...
 1123940087908175900,Thu May 02 13:19:33 +0000 2019,T-14 to today's Blue Origin launch of New Shepherd - watch it live at https://t.co/5S75leGCOd https://t.co/dgJLxtSkP2
-1123696927827271700,Wed May 01 21:13:19 +0000 2019,And a fun time was had by all. Thanks for the invite @QuetzalliAle and @timjrobinson ! https://t.co/uTjxHAvSnj
 1123696927827271700,Wed May 01 21:13:19 +0000 2019,And a fun time was had by all. Thanks for the invite @QuetzalliAle and @timjrobinson ! https://t.co/uTjxHAvSnj
 1123675255241945100,Wed May 01 19:47:12 +0000 2019,Sneaking in to the #AWS Twitch Studio to surprise @QuetzalliAle and @timjrobinson . https://t.co/rnTpY7smHd
 1123654543906967600,Wed May 01 18:24:54 +0000 2019,RT @awsgeek: My visual notes on Amazon Elastic Container Service for Kubernetes (EKS), scalable container management for your Kubernetes cl…
@@ -1797,7 +1793,6 @@ id,created_at,text
 1083797220472762400,Fri Jan 11 18:46:07 +0000 2019,RT @QuinnyPig: Thanks to @jeffbarr, @abbyfuller, and @acvisneski for lunch! https://t.co/fcRDTSSUJw
 1083794866784489500,Fri Jan 11 18:36:46 +0000 2019,RT @schwartz_cio: A different way to think about vendor lock-in the cloud era. https://t.co/XcJle6ZB3y
 1083776386337189900,Fri Jan 11 17:23:20 +0000 2019,My daughter Grace is doing some cool ecommerce with VR - check it out! https://t.co/JazNWzfptr
-1083776386337189900,Fri Jan 11 17:23:20 +0000 2019,My daughter Grace is doing some cool ecommerce with VR - check it out! https://t.co/JazNWzfptr
 1083774952933707800,Fri Jan 11 17:17:39 +0000 2019,RT @chuckm: CloudFormation support for Amazon DocumentDB is now live! https://t.co/uzfzMiq9RI
 1083774710888845300,Fri Jan 11 17:16:41 +0000 2019,@QuinnyPig Your daughter is thinking the same thing about you!
 1083442696461574100,Thu Jan 10 19:17:22 +0000 2019,Very cool #AWS customer &amp; story - How @limebike Leverages Data to Keep Their E-Scooters Charged and Acessible -… https://t.co/JXN6snyMfv
@@ -1995,7 +1990,6 @@ id,created_at,text
 1067547452578791400,Tue Nov 27 22:35:21 +0000 2018,@MikeTalonNYC @reillyusa Yes, one of my favorite creations! More pics are available at https://t.co/bS8deEfokz
 1067533737271775200,Tue Nov 27 21:40:51 +0000 2018,RT @simon_elisha: If you are an AWS Podcast listener and at re:Invent tonight (Tuesday) @jeffbarr  and I have a special recording prior to…
 1067531689298059300,Tue Nov 27 21:32:43 +0000 2018,#AWS Ground Station - Ingest and Process Data from Orbiting Satellites - https://t.co/lL4G6iZnhk #reinvent https://t.co/nIPBmDvIbZ
-1067515899291172900,Tue Nov 27 20:29:58 +0000 2018,RT @simon_elisha: Grab the spiffy new AWS Podcast sticker from any AWS stand in the Venetian Expo Hall!! https://t.co/cs7WC4IxWj
 1067515899291172900,Tue Nov 27 20:29:58 +0000 2018,RT @simon_elisha: Grab the spiffy new AWS Podcast sticker from any AWS stand in the Venetian Expo Hall!! https://t.co/cs7WC4IxWj
 1067466725535305700,Tue Nov 27 17:14:34 +0000 2018,@bwest Break some legs!
 1067466429190926300,Tue Nov 27 17:13:23 +0000 2018,Find her if you need a pin or a sticker! https://t.co/6AMY8RmDSS
@@ -2196,7 +2190,6 @@ id,created_at,text
 1058132093354442800,Thu Nov 01 23:02:04 +0000 2018,@Tim__Brooks There is a whole series of puzzles. Just one has been released so far.
 1058129768351096800,Thu Nov 01 22:52:50 +0000 2018,Wow, a few hours into the #AWSQuest puzzle and a few people have already found the first solution. If you’re playin… https://t.co/ATSS4IloZX
 1058084801226268700,Thu Nov 01 19:54:09 +0000 2018,AWS Quest 2 - The Road to re:Invent - https://t.co/wnhRsmhgn2 - Go for it, puzzle solvers! https://t.co/vu2rkALLrA
-1058084801226268700,Thu Nov 01 19:54:09 +0000 2018,AWS Quest 2 - The Road to re:Invent - https://t.co/wnhRsmhgn2 - Go for it, puzzle solvers! https://t.co/vu2rkALLrA
 1058080699201183700,Thu Nov 01 19:37:51 +0000 2018,Same here! I was sitting in front of a Teletype Model 33 in 7th grade, cranking out BASIC code. https://t.co/9CRsMSp3Pg
 1058011530468352000,Thu Nov 01 15:03:00 +0000 2018,New #AWS Quick Start - CI/CD Pipeline to test CloudFormation Templates Using AWS TaskCat - https://t.co/AfaLL2D86B… https://t.co/3OmQB6tZ4S
 1057794999759196200,Thu Nov 01 00:42:35 +0000 2018,TaskCat - Test all the [#AWS] CloudFormation Things - https://t.co/RkZrmecc3w - Built by the QuickStart team, tests… https://t.co/txnCAnppjh
@@ -2395,7 +2388,6 @@ id,created_at,text
 1030111625322229800,Thu Aug 16 15:18:44 +0000 2018,Come and join our Developer Relations team! Talk to Brandon... https://t.co/ll2QIOKVRs
 1030087967652503600,Thu Aug 16 13:44:44 +0000 2018,RT @awscloud: Twilio offers 50+ additional TTS voices with Amazon Polly integration. https://t.co/czKtZEWh4y https://t.co/hsYoVctsEU
 1029912836846174200,Thu Aug 16 02:08:49 +0000 2018,RT @awscloud: Amazon CloudFront expands in Nordics with first Edge locations in Norway &amp; Denmark.  https://t.co/R15KITorgr https://t.co/9dz…
-1029812526807048200,Wed Aug 15 19:30:14 +0000 2018,New - Amazon AI Hackathon - Build Intelligent Applications using ML APIs and Serverless - win cash and #AWS credits! https://t.co/0Xf2IzqUOM
 1029812526807048200,Wed Aug 15 19:30:14 +0000 2018,New - Amazon AI Hackathon - Build Intelligent Applications using ML APIs and Serverless - win cash and #AWS credits! https://t.co/0Xf2IzqUOM
 1029415418383855600,Tue Aug 14 17:12:16 +0000 2018,S3 Cost: Amazon Cloud Storage Costs Explained: https://t.co/icsDKX3Jkt #AWS (nice post, @RachelDines ) https://t.co/118pD9DweQ
 1028674881599094800,Sun Aug 12 16:09:38 +0000 2018,Two Years with [#AWS] CloudFormation: Lessons Learned - https://t.co/nqhV0FJi8y - Thanks for writing this,… https://t.co/lfUSVLgj1B
@@ -2795,7 +2787,6 @@ id,created_at,text
 973328318157045800,Mon Mar 12 22:42:09 +0000 2018,#AWS Summit Season is Almost Here - Get Ready to Register - https://t.co/agc2iaQ55E #AWSQuest https://t.co/7vmLaMfDDz
 973327901738262500,Mon Mar 12 22:40:29 +0000 2018,A puzzle has been solved and one part of Ozz has been unlocked! #AWSQuest https://t.co/666cP18nBP
 972963087023161300,Sun Mar 11 22:30:51 +0000 2018,Working on #AWSQuest? Here's some helpful discussion - https://t.co/AhLG0JFhMg #iwantmyrobotback ! https://t.co/rT2iK8oIuT
-972959009136296000,Sun Mar 11 22:14:39 +0000 2018,Michael is digging in but has barely scratched the surface! https://t.co/RQ9YWnKWaQ
 972959009136296000,Sun Mar 11 22:14:39 +0000 2018,Michael is digging in but has barely scratched the surface! https://t.co/RQ9YWnKWaQ
 972382654682120200,Sat Mar 10 08:04:25 +0000 2018,The only thing we have to Amazon Sphere is Sphere itself.. https://t.co/10ePHa1xLj
 972380967477194800,Sat Mar 10 07:57:43 +0000 2018,RT @acvisneski: @kicksopenminds @abbyfuller @jeffbarr @awscloud You will find clues to the parts of Ozz hidden all around AWS, not just vid…

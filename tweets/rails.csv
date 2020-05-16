@@ -199,7 +199,6 @@ id,created_at,text
 685489905351393300,Fri Jan 08 15:55:03 +0000 2016,RT @dhh: The Ruby on Rails website has basically been unchanged since 2005! Can’t wait to share the new look @asianmack cooked up for us 👌
 679318131588898800,Tue Dec 22 15:10:38 +0000 2015,RT @dhh: I returned to @fullstackradio to talk  Basecamp 3, Rails 5, majestic monoliths, and big rewrites with @adamwathan, https://t.co/VB…
 678621086796406800,Sun Dec 20 17:00:49 +0000 2015,RT @dhh: Action Cable is the highlight of Rails 5: WebSockets made incredibly easy. I made a video to show you, https://t.co/2kJ9tMrSjr ✌️
-678621086796406800,Sun Dec 20 17:00:49 +0000 2015,RT @dhh: Action Cable is the highlight of Rails 5: WebSockets made incredibly easy. I made a video to show you, https://t.co/2kJ9tMrSjr ✌️
 677966688025972700,Fri Dec 18 21:40:29 +0000 2015,RT @eileencodes: So cool to be a part of the @Rails 5 beta release today. It's a seriously awesome version.  https://t.co/oWZnR0dlOI
 677964434539716600,Fri Dec 18 21:31:31 +0000 2015,RT @dhh: Rails 5.0.0.beta1: Action Cable, API mode, Rails command, https://t.co/Q1Q85ciiNM – It's out! "gem install rails -v 5.0.0.beta1" a…
 677953244258279400,Fri Dec 18 20:47:03 +0000 2015,RT @Miguelgraz: Today my first PR to @rails was merged https://t.co/ILEBtDZMwq it'll be part of Rails 5, so glad to be helping at least a l…
@@ -399,7 +398,6 @@ id,created_at,text
 462249784519458800,Fri May 02 15:18:31 +0000 2014,@jennlv17 no es brujería, es inteligencia artificial ;)
 462249327373860860,Fri May 02 15:16:42 +0000 2014,@cupakromer ping to @pixeltrix!!
 462248968723107840,Fri May 02 15:15:16 +0000 2014,RT @railsgirls: Almost there! It’s the FINAL SPURT for our Summer of Code! Help fund the last teams:  http://t.co/j392CmdE4w / #rgsoc http:…
-462248968723107840,Fri May 02 15:15:16 +0000 2014,RT @railsgirls: Almost there! It’s the FINAL SPURT for our Summer of Code! Help fund the last teams:  http://t.co/j392CmdE4w / #rgsoc http:…
 461300707019481100,Wed Apr 30 00:27:13 +0000 2014,RT @RailsGirlsSoC: FINAL SPURT: Help us fund the last #rgsoc teams this week:  http://t.co/9HA1OXJGja #communitypower http://t.co/7GyGxeajfM
 459714567258796000,Fri Apr 25 15:24:28 +0000 2014,@josevalim Congrats José!!!
 459388498982621200,Thu Apr 24 17:48:47 +0000 2014,RT @dhh: Congratulations to all the Ruby hero award winners for this year: @kytrinyx, @deadprogram, @rafaelfranca, @sferik, @tom_enebo, @dr…
@@ -597,7 +595,6 @@ id,created_at,text
 177474979884052480,Wed Mar 07 19:25:07 +0000 2012,What is docrails? http://t.co/jFIKXPkh
 175286443143475200,Thu Mar 01 18:28:39 +0000 2012,Rails 3.2.2 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/4I1buLnj
 175286345676234750,Thu Mar 01 18:28:16 +0000 2012,Rails 3.1.4 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/eYHMyYYX
-175286260762546180,Thu Mar 01 18:27:55 +0000 2012,Rails 3.0.12 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/XhnbSu3J
 175286260762546180,Thu Mar 01 18:27:55 +0000 2012,Rails 3.0.12 has been released! It contains important fixes, so consider updating. See the announcement here: http://t.co/XhnbSu3J
 173587571501318140,Sun Feb 26 01:57:56 +0000 2012,Edge Rails: PATCH is the new primary HTTP method for updates http://t.co/dkYFvkWR
 172458275214864400,Wed Feb 22 23:10:31 +0000 2012,Rails 3.2.2.rc1, 3.1.4.rc1, and 3.0.12.rc1 have been released! Please give them a try and report any issues. https://t.co/cHEttjqS

@@ -199,7 +199,6 @@ id,created_at,text
 1126619637880217600,Thu May 09 22:47:07 +0000 2019,Yesterday, I said I successfully synchronized data in real-time from AWS Aurora to TiDB. In this webinar, I will sh… https://t.co/fMpszfF7CL
 1126187668499337200,Wed May 08 18:10:38 +0000 2019,RT @PingCAP: Look! #TiDB Operator is officially certified just in time for @RedHatSummit! Check it out. cc @RedHatPartners @rhc4tp #RHSummi…
 1125843181981950000,Tue May 07 19:21:46 +0000 2019,RT @Percona: At #PerconaLive this year, @PingCAP will be hosting a full track dedicated to #TiDB their open source NewSQL database with MyS…
-1125843181981950000,Tue May 07 19:21:46 +0000 2019,RT @Percona: At #PerconaLive this year, @PingCAP will be hosting a full track dedicated to #TiDB their open source NewSQL database with MyS…
 1125842040044961800,Tue May 07 19:17:14 +0000 2019,Just finished a little experiment of synchronizing data from multiple Aurora instances to one #TiDB Cluster to do r… https://t.co/45rEv3SCfK
 1125505989094957000,Mon May 06 21:01:53 +0000 2019,Thank you, @Percona  😋 https://t.co/aJUOyALt7T
 1125457725817643000,Mon May 06 17:50:06 +0000 2019,Just posted to HN: https://t.co/NSh1ZxTXmQ https://t.co/mwIDoVRVHq
@@ -598,7 +597,6 @@ id,created_at,text
 928847800791580700,Fri Nov 10 04:52:27 +0000 2017,@Kee_Kun @googollee 也没那么夸张，比如打死我也不支持存储过程和外键
 926296808715931600,Fri Nov 03 03:55:43 +0000 2017,Hmm, at first glance, I think TiDB could have its seat in Serverless architecture. #OpenFaaS 🤔 https://t.co/MXeRd1Xcqx
 926295620398321700,Fri Nov 03 03:51:00 +0000 2017,#逃离北上广 （虽然 NYC 也算是北上广。。。） LOL😂 https://t.co/D5LjJ86skq
-926295620398321700,Fri Nov 03 03:51:00 +0000 2017,#逃离北上广 （虽然 NYC 也算是北上广。。。） LOL😂 https://t.co/D5LjJ86skq
 926275049161658400,Fri Nov 03 02:29:15 +0000 2017,It's me! 😋 https://t.co/CvTs1WCRiX
 925977030365253600,Thu Nov 02 06:45:02 +0000 2017,Thanks Vadim! https://t.co/1TJilW349K
 925175436195143700,Tue Oct 31 01:39:47 +0000 2017,RT @ifesdjeen: On Disk IO, Part 5: Access Patterns in LSM Trees on SSDs, HDDs and more, is now out! https://t.co/OtaPlXt4pS
@@ -870,7 +868,8 @@ id,created_at,text
 12090829983,Tue Apr 13 06:43:54 +0000 2010,我决定有空做一个twitter的桌面客户端
 12090818777,Tue Apr 13 06:43:28 +0000 2010,经过n天痛苦的编译, 终于把webkit编译出来了
 12090796204,Tue Apr 13 06:42:37 +0000 2010,@aoi_sola 私は、あなたが私の女神ですあなたを愛して
-12019625156,Mon Apr 12 00:58:48 +0000 2010,RT @aoi_sola: 我使用的是翻译。谢谢。在中国我的球迷。 I use a translator in chinese. Thank you for my fans in China.
+12019625156,Mon Apr 12 00:58:48 +0000 2010,RT @aoi_sola: 我使用的是翻译。谢谢。在中国我的球迷。
+ I use a translator in chinese. Thank you for my fans in China.
 11459954599,Fri Apr 02 03:12:00 +0000 2010,微产阶级 利用微博客传播真相和维护权利，争取自由、民主、科学的无产阶级先锋组织。 我志愿加入该组织，愿为全天下人的自由、民主、科学发展贡献微薄之力量。
 11458542725,Fri Apr 02 02:41:42 +0000 2010,你们不能剥夺我们吃地沟油的权利!
 10916639392,Tue Mar 23 08:47:33 +0000 2010,google 真汉子啊!

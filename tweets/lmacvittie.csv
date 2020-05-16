@@ -399,7 +399,6 @@ id,created_at,text
 1151196736448319500,Tue Jul 16 18:27:44 +0000 2019,@jpmorgenthal @interop I think you're right there - they don't. But that's okay. Because enterprises generally don'… https://t.co/Gbf9uiAzrM
 1151191090667671600,Tue Jul 16 18:05:18 +0000 2019,@jpmorgenthal @interop That last graf nails it. Love it! "[Cloud-native apps are] designed to leverage and are inti… https://t.co/7jkRXKmkvf
 1151176630758531100,Tue Jul 16 17:07:51 +0000 2019,@lmclaughlin Thank you! Those are some great definitions.
-1151176630758531100,Tue Jul 16 17:07:51 +0000 2019,@lmclaughlin Thank you! Those are some great definitions.
 1151158901502558200,Tue Jul 16 15:57:24 +0000 2019,I'm a glutton for punishment...   Please define "cloud-native" as you understand it....   Seriously, looking for yo… https://t.co/NTlmrLVbcc
 1150843509206917100,Mon Jul 15 19:04:08 +0000 2019,Developers can’t do all the #security things after all. https://t.co/Pds9EgZeXh
 1150011469431496700,Sat Jul 13 11:57:55 +0000 2019,https://t.co/BqZkBY6PhH
@@ -598,7 +597,6 @@ id,created_at,text
 1091351843320619000,Fri Feb 01 15:05:30 +0000 2019,It has been 0 days since Lori forgot to translate time zones and was ready for a meeting 2 hours before it was sche… https://t.co/lbKUUxUDNe
 1090454466766225400,Wed Jan 30 03:39:39 +0000 2019,#PolarVortex2019 https://t.co/ox8pI3QfV2
 1090371262281592800,Tue Jan 29 22:09:01 +0000 2019,@rjhintz Yeah. I get that. It is reality for many folks though - sometimes strategically, often accidentally.
-1090345328119820300,Tue Jan 29 20:25:58 +0000 2019,@rjhintz Lock-in is only part of the equation. And I think we tend to focus too narrowly on live migration when sim… https://t.co/0WFYXT8xec
 1090345328119820300,Tue Jan 29 20:25:58 +0000 2019,@rjhintz Lock-in is only part of the equation. And I think we tend to focus too narrowly on live migration when sim… https://t.co/0WFYXT8xec
 1090315044041175000,Tue Jan 29 18:25:38 +0000 2019,@rjhintz Multi-cloud is an organizational strategy not an application architecture. Multiple clouds because differe… https://t.co/MocjkLnWJC
 1090261002803830800,Tue Jan 29 14:50:53 +0000 2019,#Containers offer the portability needed to execute efficiently in a #multicloud world. https://t.co/7oQznVDSws
@@ -999,7 +997,6 @@ id,created_at,text
 966788009302679600,Thu Feb 22 21:33:18 +0000 2018,#nodejs "This destroyed 3 production server after a single deploy!" &lt;&lt; PSA kids: don't deploy untested updates in p… https://t.co/Cf8r4nLuCB
 966768618045366300,Thu Feb 22 20:16:14 +0000 2018,@fox11news Something going on NB 41 south of Scheuring. DePere and Lawrence responding https://t.co/xC6wf5N4Rx
 966746397608464400,Thu Feb 22 18:47:57 +0000 2018,By 2020, 30% of search is voice-conducted. Here’s what that means for your business. https://t.co/q0zmaLQEEU &lt;&lt; Als… https://t.co/vPbujh9MvN
-966746397608464400,Thu Feb 22 18:47:57 +0000 2018,By 2020, 30% of search is voice-conducted. Here’s what that means for your business. https://t.co/q0zmaLQEEU &lt;&lt; Als… https://t.co/vPbujh9MvN
 966744042825449500,Thu Feb 22 18:38:35 +0000 2018,Excuse me while I have a digital grandma moment.... ain’t she adorable?? That’s 5.5 pounds of cute right there.  An… https://t.co/zmw5qAC8cs
 966333258744123400,Wed Feb 21 15:26:17 +0000 2018,@cshl1 We call that an undocumented feature!
 966316099590672400,Wed Feb 21 14:18:06 +0000 2018,NO FIX FOR YOU! IOTA vulnerable to replay attack. Won't be fixed. #security vulnerability #blockchain… https://t.co/GEq7yx1NkA
@@ -1399,7 +1396,6 @@ id,created_at,text
 885543855705268200,Thu Jul 13 16:58:02 +0000 2017,Great point. Lots of help on YouTube, SlideShare, etc...to keep up with fast pace if you can't attend in person… https://t.co/1n7vNzM7hl
 885542575720902700,Thu Jul 13 16:52:57 +0000 2017,A5: Attend conferences, subscribe to content that tracks threats/updates, network #cloudchat #security
 885542134740385800,Thu Jul 13 16:51:12 +0000 2017,@CloudSecChris @efeatherston @kaynemcgladrey @JeffCutler I did see a survey that said basically that. They knew, th… https://t.co/gLV6lX2npK
-885542134740385800,Thu Jul 13 16:51:12 +0000 2017,@CloudSecChris @efeatherston @kaynemcgladrey @JeffCutler I did see a survey that said basically that. They knew, th… https://t.co/gLV6lX2npK
 885541924702171100,Thu Jul 13 16:50:22 +0000 2017,@efeatherston @CloudSecChris @kaynemcgladrey @JeffCutler Agreed. They don't get that "access for me over Internet =… https://t.co/loMtt2vzXy
 885541182314598400,Thu Jul 13 16:47:25 +0000 2017,@kaynemcgladrey @efeatherston True. So many of the exploits thus far are on the app/db side, though, which shouldn'… https://t.co/4ZlqRweIBa
 885540249467859000,Thu Jul 13 16:43:42 +0000 2017,Q4. But rush to market is biggest threat. #Security gates disappear. Testing doesn't happen or is ignored. #cloudchat
@@ -1598,7 +1594,6 @@ id,created_at,text
 851947164158787600,Tue Apr 11 23:56:47 +0000 2017,New OWASP TopTen #security https://t.co/uz2hiXYOxn
 851871905023877100,Tue Apr 11 18:57:43 +0000 2017,Automation vendors need to stop storing plain-text credentials in config files. Seriously. #security
 851869719091068900,Tue Apr 11 18:49:02 +0000 2017,Growth of "Other Devices" as share of web traffic interesting. As is dominance of #mobile over tablet/PCs...… https://t.co/FfRNFzhnkg
-851867579329134600,Tue Apr 11 18:40:32 +0000 2017,@gbpressgazette Meanwhile, the comp sci program at GB is melting down. So this is going to help ... how?
 851867579329134600,Tue Apr 11 18:40:32 +0000 2017,@gbpressgazette Meanwhile, the comp sci program at GB is melting down. So this is going to help ... how?
 851867109093015600,Tue Apr 11 18:38:40 +0000 2017,Pink fluffy unicorns, dancing on rainbows... https://t.co/BVAT6u9iOj
 851862165267066900,Tue Apr 11 18:19:01 +0000 2017,Register now for #F5Agility17 &amp; get early bird prices! https://t.co/ITtyihqToV  &lt;&lt; Bonus, you get to see ME! Wait..that is good, right?
@@ -1998,7 +1993,6 @@ id,created_at,text
 808759396859670500,Tue Dec 13 19:44:00 +0000 2016,The Great #Cloud Diaspora: 10 Years of Change https://t.co/f4P87XEDmW https://t.co/ooHGBNh5Vs
 808744839823192000,Tue Dec 13 18:46:10 +0000 2016,Fan of KFC? Here's some finger-licking good advice for your password: Change it now https://t.co/tV6f2trb3d &lt; Do it lickety-split! #security
 808743814823342100,Tue Dec 13 18:42:05 +0000 2016,The Classes of #Container Monitoring  https://t.co/KR4NRJ5M9d &lt;&lt; "Data isn’t of much use if you don’t do anything with it." &lt;3 this #DevOps
-808743814823342100,Tue Dec 13 18:42:05 +0000 2016,The Classes of #Container Monitoring  https://t.co/KR4NRJ5M9d &lt;&lt; "Data isn’t of much use if you don’t do anything with it." &lt;3 this #DevOps
 808740773042810900,Tue Dec 13 18:30:00 +0000 2016,US Department of Transportation hopes to mandate V2V communications https://t.co/OmpH5toSnN &lt;&lt; #IoT #security No, this won't end poorly
 806947457045143600,Thu Dec 08 19:44:00 +0000 2016,The Great #Cloud Diaspora: 10 Years of Change https://t.co/f4P87XEDmW https://t.co/zrsDD7pBSo
 806946200393891800,Thu Dec 08 19:39:01 +0000 2016,#TBT Post: You can’t differentiate until you do something different https://t.co/4B0oTi3BSf &lt;&lt; #cloud  Apropos of Amazon's announce
@@ -2197,7 +2191,6 @@ id,created_at,text
 778665990557163500,Wed Sep 21 18:43:33 +0000 2016,@jamesurquhart @jeffsussna you forgot to add "as a service"
 778663290234953700,Wed Sep 21 18:32:49 +0000 2016,@jeffsussna Right now it stands for #snark
 778662332830330900,Wed Sep 21 18:29:01 +0000 2016,Stop. Just Stop. #HTTPS is not faster than HTTP. https://t.co/2NTUNduHZQ #webperf https://t.co/xJXyK5ZsVx
-778655899774771200,Wed Sep 21 18:03:27 +0000 2016,@svenbaumgartner Its a funny small world even in tech apparently. My maiden name is Baumgartner. :-)
 778655899774771200,Wed Sep 21 18:03:27 +0000 2016,@svenbaumgartner Its a funny small world even in tech apparently. My maiden name is Baumgartner. :-)
 778597069355442200,Wed Sep 21 14:09:41 +0000 2016,Vim = 26.1% Emacs = 5.2%   #justsayin  https://t.co/hgDGG763on
 778596323427745800,Wed Sep 21 14:06:43 +0000 2016,Shippable Survey: Developers Increasing Use of #Containers for New Apps  https://t.co/dLHOqJSxfJ &lt;&lt; Echo chamber survey but interesting
@@ -2597,7 +2590,6 @@ id,created_at,text
 724990123323064300,Tue Apr 26 15:54:49 +0000 2016,@jimgaynor Yeah, that is a sad panda unfortunately.
 724985671836962800,Tue Apr 26 15:37:08 +0000 2016,Agreed. Awesome #IoT infographic.  https://t.co/DR3e4iRVZw
 724980803290189800,Tue Apr 26 15:17:47 +0000 2016,Web tech FotD: Secure cookies still not common https://t.co/s4qtVjh1FF &lt;&lt; I saw 12% of orgs in Jan-Mar '16 use cookie encryption  #security
-724964859687882800,Tue Apr 26 14:14:26 +0000 2016,#Microservices architectural example: https://t.co/8vOo86TQcG &lt;&lt; Textbook Y-axis scaling pattern https://t.co/eVXTgjqZ1Q #API #DevOps
 724964859687882800,Tue Apr 26 14:14:26 +0000 2016,#Microservices architectural example: https://t.co/8vOo86TQcG &lt;&lt; Textbook Y-axis scaling pattern https://t.co/eVXTgjqZ1Q #API #DevOps
 724964031862300700,Tue Apr 26 14:11:09 +0000 2016,"Most car recalls today are software related" &amp; "Apps are serving as an underlying infrastructure today" #IoT https://t.co/7opH1pz378
 724951796477771800,Tue Apr 26 13:22:31 +0000 2016,@What_Matrix :-) You're talking to her. Can help connect to marketing as well. l.macvittie at f5 dot com
@@ -3196,7 +3188,6 @@ id,created_at,text
 666340743657726000,Mon Nov 16 19:43:07 +0000 2015,My best RTs this week came from: @shanselman @releaseteam @CloudExpo @jtroyer #thankSAll Who were yours? https://t.co/6Fpu3chESc
 666323895692095500,Mon Nov 16 18:36:11 +0000 2015,Roses are red.   Mondays are hard.   I suck at poetry.   COFFEE.
 666301735598579700,Mon Nov 16 17:08:07 +0000 2015,ICYMI: The Power of the Proxy: Request Routing Memcached https://t.co/dfKPPfCnss #DevOps #scale
-666293458903150600,Mon Nov 16 16:35:14 +0000 2015,@graafe I know they're trying to unify, not sure what stage that's in, but goal is 1 f5 account for everything.
 666293458903150600,Mon Nov 16 16:35:14 +0000 2015,@graafe I know they're trying to unify, not sure what stage that's in, but goal is 1 f5 account for everything.
 666293073161420800,Mon Nov 16 16:33:42 +0000 2015,@graafe Thank you! Am going to dig into that... I don't like that either :-(
 666292294442754000,Mon Nov 16 16:30:36 +0000 2015,@graafe You're welcome. Is that content on one of our sites (https://t.co/Zm6QPaqOPy or https://t.co/Qxq5V7lop8) that's requiring that??

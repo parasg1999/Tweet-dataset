@@ -199,7 +199,6 @@ id,created_at,text
 1128454899258126300,Wed May 15 00:19:48 +0000 2019,Amazingly in-depth presentation about everything you can do with the Sources panel that @lisafrench recently presen… https://t.co/PP9GGvxtea
 1128445824608788500,Tue May 14 23:43:44 +0000 2019,RT @NashProgrammers: Wonderful group at our talk on @ChromeDevTools last night! #womenintech https://t.co/z7xDUPlQTK
 1128430833730084900,Tue May 14 22:44:10 +0000 2019,RT @kaycebasques: I'll just put this out there. If you want to write a better guide for this violation, we will host it at https://t.co/LBk…
-1128430833730084900,Tue May 14 22:44:10 +0000 2019,RT @kaycebasques: I'll just put this out there. If you want to write a better guide for this violation, we will host it at https://t.co/LBk…
 1128423912805548000,Tue May 14 22:16:40 +0000 2019,RT @kaycebasques: Tip: Drag the top-level tabs in @ChromeDevTools to reorder them. Note how the Network panel is first from the left in the…
 1128385664183988200,Tue May 14 19:44:41 +0000 2019,RT @kaycebasques: @matundaphilip @ChromeDevTools We've got lots and lots of docs at https://t.co/0drG4HeJBR if you want to learn more about…
 1128385086909341700,Tue May 14 19:42:23 +0000 2019,RT @spazef0rze: Here's an HTML hacker tip: when using @ChromeDevTools (@FirefoxDevTools, Chromedge, …) to increment or decrement an attribu…
@@ -398,7 +397,6 @@ id,created_at,text
 1090708514618527700,Wed Jan 30 20:29:08 +0000 2019,RT @FirefoxDevTools: Can't find that DOM node that has a pesky scrollbar you want to get rid of? Now in @FirefoxNightly, elements that are…
 1090693421126234100,Wed Jan 30 19:29:10 +0000 2019,Coming to a DevTools near you in Chrome 72: https://t.co/SVbm2a9shu https://t.co/7RJ2pZXt8P
 1090692976743858200,Wed Jan 30 19:27:24 +0000 2019,More on the Performance Monitor: https://t.co/2xpId3DFro https://t.co/iUAuNOvPXX
-1090306299261145100,Tue Jan 29 17:50:53 +0000 2019,RT @umaar: Dev Tips: DevTools - Instant performance suggestions with Console Violations ⚡️  https://t.co/tneIMfxKpz - Useful as you don't n…
 1090306299261145100,Tue Jan 29 17:50:53 +0000 2019,RT @umaar: Dev Tips: DevTools - Instant performance suggestions with Console Violations ⚡️  https://t.co/tneIMfxKpz - Useful as you don't n…
 1090030449752105000,Mon Jan 28 23:34:45 +0000 2019,@jbadan1 @airercode500 Star this issue and leave a comment saying that you'd also like this feature: https://t.co/kUUdFy78jy
 1090030361092866000,Mon Jan 28 23:34:24 +0000 2019,@airercode500 Actually, we already had a request for this. Star the issue and leave a comment saying that you'd als… https://t.co/521VZJZcim
@@ -599,7 +597,6 @@ id,created_at,text
 1037345863905947600,Wed Sep 05 14:25:01 +0000 2018,RT @Anaizing: Marking and measuring performance from here to here in @ChromeDevTools, fantastic workshop on @FrontendMasters by @jkup 🧐 htt…
 1037099995114041300,Tue Sep 04 22:08:01 +0000 2018,@giganticmouth @kaycebasques :) Thanks for bringing to my attention --- @kaycebasques
 1037099325531160600,Tue Sep 04 22:05:22 +0000 2018,@giganticmouth Whoops, that was me. Didn't know it had that backstory. I just thought it was funny that everyone el… https://t.co/lU7p0WxauW
-1037099325531160600,Tue Sep 04 22:05:22 +0000 2018,@giganticmouth Whoops, that was me. Didn't know it had that backstory. I just thought it was funny that everyone el… https://t.co/lU7p0WxauW
 1037061175970648000,Tue Sep 04 19:33:46 +0000 2018,@VorticonCmdr They get saved to your Downloads folder, which you can set from the Advanced section of chrome://sett… https://t.co/JtcNoLPeBS
 1037047083792916500,Tue Sep 04 18:37:46 +0000 2018,RT @FirefoxDevTools: The new Responsive Design Mode has landed in Firefox Nightly, now with a setting to left-align the viewport for precis…
 1037046945930403800,Tue Sep 04 18:37:13 +0000 2018,RT @ChromiumDev: It's Chrome's 10th birthday✨ We're celebrating with a fun 10 year retrospective of "The Capable Web" authored by our very…
@@ -799,7 +796,6 @@ id,created_at,text
 996869882909098000,Wed May 16 21:47:55 +0000 2018,@lgarron @dontGoPlastic @JoelEinbinder what's your preference for APIs that aren't working?
 996804231200849900,Wed May 16 17:27:03 +0000 2018,Now in Canary: Function argument hints in the Console. As you type out a function, the Console shows you the expect… https://t.co/RWnBUdMiQV
 996450137382649900,Tue May 15 18:00:00 +0000 2018,Congrats to the @MSEdgeDev folks on shipping the Edge DevTools Protocol. Very cool to see it aligned with our own p… https://t.co/jEC2DmCbLI
-996450137382649900,Tue May 15 18:00:00 +0000 2018,Congrats to the @MSEdgeDev folks on shipping the Edge DevTools Protocol. Very cool to see it aligned with our own p… https://t.co/jEC2DmCbLI
 996135697349148700,Mon May 14 21:10:32 +0000 2018,Tip: Diagonal stripes in the Overview represent non-main-thread activity. https://t.co/LoQGvD4M86 https://t.co/KXM5laIxnT
 994623097910317000,Thu May 10 17:00:00 +0000 2018,How to debug a remote node.js app with DevTools https://t.co/2zYulWmDuZ
 994596399625859100,Thu May 10 15:13:55 +0000 2018,In case you missed it, here's @paul_irish and @_developit doing our yearly "what's new" roundup at I/O https://t.co/9cnYb0j7wD
@@ -998,7 +994,6 @@ id,created_at,text
 969656987880271900,Fri Mar 02 19:33:35 +0000 2018,@maxharris9 There's a limitation in 65 (that we fixed in 66) where if you make a change in Styles pane, and the cha… https://t.co/ojJmHYeOmT
 969656582190452700,Fri Mar 02 19:31:59 +0000 2018,@maxharris9 Are you editing from the Elements panel, or the Sources panel?
 969656430499307500,Fri Mar 02 19:31:23 +0000 2018,@maxharris9 Is this dev build or prod?
-969656204283732000,Fri Mar 02 19:30:29 +0000 2018,@zackster Your responses are generally great and detailed, it's just an ongoing challenge to prioritize the big lis… https://t.co/871Gy1TMAz
 969656204283732000,Fri Mar 02 19:30:29 +0000 2018,@zackster Your responses are generally great and detailed, it's just an ongoing challenge to prioritize the big lis… https://t.co/871Gy1TMAz
 969655882836406300,Fri Mar 02 19:29:12 +0000 2018,@mathias @jamischarles @v8js @mxstbr Shows how much I know! --- Kayce
 969655740817289200,Fri Mar 02 19:28:38 +0000 2018,@megatomche We got the whole list of filterable properties here: https://t.co/NjKFnfuapY
@@ -1598,7 +1593,6 @@ id,created_at,text
 885603716904005600,Thu Jul 13 20:55:54 +0000 2017,@steveax What's your testing workflow?
 885603551845601300,Thu Jul 13 20:55:15 +0000 2017,@steveax Forwarded the feedback to the team
 884814129629810700,Tue Jul 11 16:38:22 +0000 2017,@waliurjs What are your favorites?
-884814129629810700,Tue Jul 11 16:38:22 +0000 2017,@waliurjs What are your favorites?
 884813959261335600,Tue Jul 11 16:37:41 +0000 2017,@lowmess Nope, we just shipped it in Chrome 59! You're a first edition reader ;)
 884530881313951700,Mon Jul 10 21:52:50 +0000 2017,@NutonDev @elrond25 We've got a tutorial on that topic. Let us know what you think https://t.co/88wwhHRAbi
 884491760986013700,Mon Jul 10 19:17:23 +0000 2017,@jiayi_ghu @deepak_a You can star it (after logging in)
@@ -1998,7 +1992,6 @@ id,created_at,text
 760559123226202100,Tue Aug 02 19:33:20 +0000 2016,The Application panel has landed in Stable! It's got all the old features of the Resources panel, plus many new ones.
 760504326636712000,Tue Aug 02 15:55:35 +0000 2016,@TheLarkInn can you give some examples of what you're trying to do? cc @paul_irish ^@kaycebasques
 760499144091762700,Tue Aug 02 15:34:59 +0000 2016,@matthewcp thanks, I created a feature request: https://t.co/7EruAx8D3A ^@kaycebasques
-760499144091762700,Tue Aug 02 15:34:59 +0000 2016,@matthewcp thanks, I created a feature request: https://t.co/7EruAx8D3A ^@kaycebasques
 760495656058236900,Tue Aug 02 15:21:08 +0000 2016,@matthewcp any other criteria to go off of? ^@kaycebasques
 760495506149691400,Tue Aug 02 15:20:32 +0000 2016,@matthewcp got it, so you're looking for some sort of filtered list of growing objects ^@kaycebasques
 760495001641988100,Tue Aug 02 15:18:32 +0000 2016,@matthewcp how about allocation timelines? Do you use them / do they help? ^@kaycebasques
@@ -2197,7 +2190,6 @@ id,created_at,text
 667392533836660700,Thu Nov 19 17:22:34 +0000 2015,@tyndev nope. That's the whole point :) The DevTools are now mobile-first by default. If we see enough complains, we might reconsider.
 667386351159869400,Thu Nov 19 16:58:00 +0000 2015,@_JayGeorge what do you mean by clean view?
 667123527812689900,Wed Nov 18 23:33:38 +0000 2015,Missed our announcements this morning? Watch now to learn about Device Mode v2, Animation Inspection and Layout Mode https://t.co/HURED06eo6
-667064051021779000,Wed Nov 18 19:37:17 +0000 2015,The cat's out of the bag! A new, streamlined and always-on Device Mode for a mobile-first generation. Open DevTools in Canary now to try.
 667064051021779000,Wed Nov 18 19:37:17 +0000 2015,The cat's out of the bag! A new, streamlined and always-on Device Mode for a mobile-first generation. Open DevTools in Canary now to try.
 667016976800190500,Wed Nov 18 16:30:14 +0000 2015,Hey! Yes, you! Tune in to #ChromeDevSummit at 9:30 to learn about the latest and greatest coming to DevTools. https://t.co/pxFPBtlrtV
 666999011749052400,Wed Nov 18 15:18:51 +0000 2015,@zapatoche thanks much!
@@ -2505,5 +2497,4 @@ id,created_at,text
 531789957921509400,Mon Nov 10 12:46:20 +0000 2014,@addyosmani @rachelnabors correct, we'll let you know once ready!
 531763273772056600,Mon Nov 10 11:00:18 +0000 2014,RT @umaar: DevTools Tip: Click on an existing selector to edit it. If your new selector no longer applies, it'll fade out. http://t.co/oGqb…
 531762111043891200,Mon Nov 10 10:55:41 +0000 2014,RT @jkup: TIL: The 'h' key in Chrome / Firefox DevTools toggles the selected element's visibility #mindblown
-531760658212470800,Mon Nov 10 10:49:55 +0000 2014,We thought official DevTools news, info, and troubleshooting might be more interesting than a commit log. Follow us if you agree!
 531760658212470800,Mon Nov 10 10:49:55 +0000 2014,We thought official DevTools news, info, and troubleshooting might be more interesting than a commit log. Follow us if you agree!

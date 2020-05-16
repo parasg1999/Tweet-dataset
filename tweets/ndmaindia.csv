@@ -369,7 +369,8 @@ id,created_at,text
 1255423577702137900,Wed Apr 29 09:08:00 +0000 2020,Coronavirus recovered patients share stories of survival and hope.  https://t.co/nW61oP7XLi  #CoronaWarriors… https://t.co/ilZQcH3LEg
 1255404660778811400,Wed Apr 29 07:52:50 +0000 2020,Guidelines for Home Isolation of very mild/presymptomatic #COVIDー19 cases.  @MoHFW_INDIA   Download from link below… https://t.co/1257UI46dE
 1255400903542222800,Wed Apr 29 07:37:54 +0000 2020,RT @COVIDNewsByMIB: #CoronaVirusUpdates:   State-wise details of Total Confirmed #COVID19 cases (till 29 April, 2020, 08:00 AM)   ➡️States…
-1255391105501335600,Wed Apr 29 06:58:58 +0000 2020,A Low Pressure area is very likely to form over south Andaman Sea and neighbourhood duringnext 48 hours. https://t.co/MZn5Jsfs9w
+1255391105501335600,Wed Apr 29 06:58:58 +0000 2020,A Low Pressure area is very likely to form over south Andaman Sea and neighbourhood during
+next 48 hours. https://t.co/MZn5Jsfs9w
 1255365271306502100,Wed Apr 29 05:16:18 +0000 2020,RT @PIB_India: #IndiaFightsCorona :  @MoHFW_INDIA asks States to ensure that patients coming to hospitals for non-#COVID19 essential servic…
 1255365152465137700,Wed Apr 29 05:15:50 +0000 2020,RT @COVIDNewsByMIB: #IndiaFightsCorona:  📍 Guidelines for home🏡 isolation  ➡️For very mild/ pre-symptomatic case:  #StayAtHome  Via @MoHFW_…
 1255339683007082500,Wed Apr 29 03:34:38 +0000 2020,RT @COVIDNewsByMIB: #IndiaFightsCorona:  #COVID19 India UPDATE:  ▪️ Total Cases - 31332 ▪️Active Cases - 22629 ▪️Cured/Discharged- 7695 ▪️D…
@@ -598,7 +599,6 @@ id,created_at,text
 1253549611328782300,Fri Apr 24 05:01:31 +0000 2020,RT @COVIDNewsByMIB: #CoronaFacts 📌  Here are the answers to some common myths linked to #COVID19 (Part 3) 👇  #StayHome #StayAwareStaySafe #…
 1253549569264124000,Fri Apr 24 05:01:21 +0000 2020,RT @COVIDNewsByMIB: #CoronaFacts📌  Here are the answers to some common myths linked to #COVID19 (Part 2) 👇  #StayHome #StayAwareStaySafe #I…
 1253549550112870400,Fri Apr 24 05:01:17 +0000 2020,RT @COVIDNewsByMIB: #CoronaFacts📌  Here are the answers to some common myths linked to #COVID19 👇  #StayHome #StayAwareStaySafe #IndiaFight…
-1253549484107161600,Fri Apr 24 05:01:01 +0000 2020,RT @IndiaDST: Antiviral nano-coatings to be upscaled for #masks to combat #COVID19 . @drharshvardhan @Ashutos61 @IndiaDST @iitdelhi @COVIDN…
 1253549484107161600,Fri Apr 24 05:01:01 +0000 2020,RT @IndiaDST: Antiviral nano-coatings to be upscaled for #masks to combat #COVID19 . @drharshvardhan @Ashutos61 @IndiaDST @iitdelhi @COVIDN…
 1253549426636775400,Fri Apr 24 05:00:47 +0000 2020,RT @COVIDNewsByMIB: #CoronaVirusUpdates:   State-wise details of Total Confirmed #COVID19 cases (till 24 April, 2020, 08:00 AM)   ➡️States…
 1253549357187489800,Fri Apr 24 05:00:31 +0000 2020,RT @MoHFW_INDIA: #IndiaFightsCorona:  आइए हम अपने और अपने आसपास के सभी लोगों की सेहत का ध्यान रखें। हमें मिलकर #COVID19 से लड़ना है।   #Cor…
@@ -999,7 +999,6 @@ id,created_at,text
 1251368902015107000,Sat Apr 18 04:36:10 +0000 2020,RT @PIB_India: 50,000 Reusable Face Masks supplied by RCD, Delhi  Masks made by Work from Home during #Lockdown Period  Read here: https://…
 1251368816300327000,Sat Apr 18 04:35:49 +0000 2020,RT @PIBImphal: #IndiaFightsCorona  Farmers of Jirdin Village, West  Siang district, Aalo cultivating their paddy field by maintaining #Soci…
 1251368580639146000,Sat Apr 18 04:34:53 +0000 2020,RT @ICMRDELHI: India has rapidly expanded its testing capabilities and ICMR approved COVID-19 testing laboratories are located across the c…
-1251368580639146000,Sat Apr 18 04:34:53 +0000 2020,RT @ICMRDELHI: India has rapidly expanded its testing capabilities and ICMR approved COVID-19 testing laboratories are located across the c…
 1251368525538574300,Sat Apr 18 04:34:40 +0000 2020,RT @moayush: Yoga for adults - A natural way to boost your immunity.  Let’s utilize this confinement period as an opportunity to take care…
 1251363349863915500,Sat Apr 18 04:14:06 +0000 2020,RT @COVIDNewsByMIB: #IndiaFightsCorona:   Stop believing bogus claims and join the race of refuting false myths on #COVID19.   #BreakTheCha…
 1251363253768253400,Sat Apr 18 04:13:43 +0000 2020,RT @MoHFW_INDIA: #IndiaFightsCorona:  Let us express our gratitude towards the healthcare workers and remind ourselves of the critical role…
@@ -1198,7 +1197,6 @@ id,created_at,text
 1250391410190069800,Wed Apr 15 11:51:57 +0000 2020,RT @PIB_India: We have asked districts to formulate District-level Crisis Management Plan for #COVID19; one failure can be the reason for t…
 1250391402757775400,Wed Apr 15 11:51:56 +0000 2020,RT @PIB_India: Even in those districts which are not infected, community engagement needs to be undertaken to upgrade health infrastructure…
 1250391392381055000,Wed Apr 15 11:51:53 +0000 2020,RT @PIB_India: Teams need to be formed in advance, without waiting for emergence of cases. Districts where cases are being reported but are…
-1250391383904366600,Wed Apr 15 11:51:51 +0000 2020,RT @PIB_India: Districts have been told to promote proper pharmaceutical and non-pharmaceutical interventions and to orient all staff invol…
 1250391383904366600,Wed Apr 15 11:51:51 +0000 2020,RT @PIB_India: Districts have been told to promote proper pharmaceutical and non-pharmaceutical interventions and to orient all staff invol…
 1250391375889088500,Wed Apr 15 11:51:49 +0000 2020,RT @PIB_India: We have asked districts to use #AIIMS Call centre and perform patient clinical management as per protocol and strive to see…
 1250391365784965000,Wed Apr 15 11:51:47 +0000 2020,RT @PIB_India: Districts have been told to set up dedicated #COVIDHospitals, #COVIDHealthCentres and #COVIDCareCentres. We have been asked…
@@ -1799,7 +1797,6 @@ id,created_at,text
 1247773767272562700,Wed Apr 08 06:30:23 +0000 2020,RT @narendramodi: Spoke to His Majesty Sultan of Oman about COVID-19 and how to limit its impact.  Also expressed thanks for HM's personal…
 1247773733952999400,Wed Apr 08 06:30:15 +0000 2020,RT @narendramodi: देशवासियों की यही वो भावना है, जो कोरोना महामारी के समय सबसे बड़ा संबल है। #IndiaFightsCorona https://t.co/ija18XLrJ2
 1247764097791217700,Wed Apr 08 05:51:57 +0000 2020,RT @DDNewsHindi: सोशल डिस्टेंसिंग का पालन करने के लिए गोवा पुलिस फिल्मी गाने गाकर लोगों को कर रही जागरूक @DGP_Goa #SocialDistancing  #StayH…
-1247764097791217700,Wed Apr 08 05:51:57 +0000 2020,RT @DDNewsHindi: सोशल डिस्टेंसिंग का पालन करने के लिए गोवा पुलिस फिल्मी गाने गाकर लोगों को कर रही जागरूक @DGP_Goa #SocialDistancing  #StayH…
 1247763734413463600,Wed Apr 08 05:50:31 +0000 2020,RT @drharshvardhan: आज @DDNewslive को दिए एक इंटरव्यू में, मैंने देश में #COVID19  की वर्तमान स्थिति, भारत द्वारा उठाए जा रहे कदमों और #loc…
 1247763610329206800,Wed Apr 08 05:50:01 +0000 2020,RT @COVIDNewsByMIB: #CoronaVirusUpdates:   State-wise details of Total Confirmed #COVID19 cases so far (till 08 April, 2020, 08:00 AM)  ➡️S…
 1247763512039837700,Wed Apr 08 05:49:38 +0000 2020,RT @DDNewslive: PM @narendramodi to interact with floor leaders of all parties via video conference https://t.co/uS2FsCUoBU
@@ -1998,7 +1995,6 @@ id,created_at,text
 1246771422095003600,Sun Apr 05 12:07:25 +0000 2020,RT @narendramodi: Thank you for the support @karanjohar. #9pm9minute https://t.co/m4Muv9qPcd
 1246771402222358500,Sun Apr 05 12:07:20 +0000 2020,RT @PIB_India: .@MoHFW_INDIA issues advisory to start rapid antibody-based blood test for #COVID19; Strategy for areas reporting clusters (…
 1246771362770739200,Sun Apr 05 12:07:11 +0000 2020,RT @DrJitendraSingh: IIT-Roorkee has developed a low-cost portable ventilator that can be useful in the fight against #Covid_19 .  The vent…
-1246771332777312300,Sun Apr 05 12:07:04 +0000 2020,RT @PIB_India: Government, to ensure that the farmers do not suffer from any adverse fall out of #LockDown, grants relaxations for Agricult…
 1246771332777312300,Sun Apr 05 12:07:04 +0000 2020,RT @PIB_India: Government, to ensure that the farmers do not suffer from any adverse fall out of #LockDown, grants relaxations for Agricult…
 1246771319770771500,Sun Apr 05 12:07:01 +0000 2020,RT @PIB_India: Actor @Miqbalkhan urges people to come out in their balconies and show unity by lighting diyas and flashlights at 9PM today…
 1246771301944975400,Sun Apr 05 12:06:56 +0000 2020,RT @narendramodi: We are in this together. India united at #9pm9minute. https://t.co/au0tfBzE70
@@ -2199,7 +2195,6 @@ id,created_at,text
 1245582649957077000,Thu Apr 02 05:23:40 +0000 2020,RT @MoHFW_INDIA: #IndiaFightsCorona:  Know about the answers to some frequently asked questions regarding #COVID19 with our #COVIDFAQ.  Kee…
 1245582618734637000,Thu Apr 02 05:23:32 +0000 2020,RT @PIB_India: Following up on the Supreme Court's observations, @HMOIndia writes to States/UTs to take measures to fight #FakeNews in orde…
 1245582582302949400,Thu Apr 02 05:23:24 +0000 2020,RT @PIBHindi: जवाहरलाल नेहरू सेंटर फॉर एडवांस्ड सांइसटफिक रिसर्च (जेएनसीएएसआर) ने एक एंटी-माइक्रोबियल कोटिंग विकसित की है, इससे #COVID19 के…
-1245582582302949400,Thu Apr 02 05:23:24 +0000 2020,RT @PIBHindi: जवाहरलाल नेहरू सेंटर फॉर एडवांस्ड सांइसटफिक रिसर्च (जेएनसीएएसआर) ने एक एंटी-माइक्रोबियल कोटिंग विकसित की है, इससे #COVID19 के…
 1245581667114205200,Thu Apr 02 05:19:45 +0000 2020,What can Gram Panchayats do to prevent Corona Virus and manage the migrant workers.  #coronavirusinindia #Lockdown21 https://t.co/G1HxrGCEVO
 1245581649003208700,Thu Apr 02 05:19:41 +0000 2020,RT @NIRDPR_India: #IndiaFightsCorona   Watch what #GramPanchayats can do to prevent #CoronaVirus and Manage the #Migrantworkers  @MoRD_GOI…
 1245576764471955500,Thu Apr 02 05:00:17 +0000 2020,RT @COVIDNewsByMIB: PM @narendramodi to hold a video conference today with all state Chief Ministers to discuss measures against #COVID19…
@@ -2399,7 +2394,6 @@ id,created_at,text
 1244298224183070700,Sun Mar 29 16:19:49 +0000 2020,RT @PIBFactCheck: Correct Answer: Yes  Social distancing, washing hands and respiratory hygiene are effective ways to prevent #Coronavirus…
 1244298195041013800,Sun Mar 29 16:19:42 +0000 2020,RT @PIBFactCheck: गृह मंत्रालय द्वारा ऐसा कोई भी निर्देश सोशल मीडिया को लेकर नहीं जारी किया गया है |  ध्यान दें : कोरोनावायरस पर आधिकारिक औ…
 1244298160039530500,Sun Mar 29 16:19:33 +0000 2020,RT @PIBFactCheck: Beware of Fake UPI ID being circulating on the pretext of PM CARES Fund.  #PIBFactcheck: The correct UPI ID of #PMCaresFu…
-1244298160039530500,Sun Mar 29 16:19:33 +0000 2020,RT @PIBFactCheck: Beware of Fake UPI ID being circulating on the pretext of PM CARES Fund.  #PIBFactcheck: The correct UPI ID of #PMCaresFu…
 1244298041969918000,Sun Mar 29 16:19:05 +0000 2020,RT @PIB_India: Government approves  ‘Pradhan Mantri Garib Kalyan Package: Insurance Scheme for Health Workers Fighting COVID-19’  Insurance…
 1244298025645691000,Sun Mar 29 16:19:01 +0000 2020,RT @PIBHomeAffairs: Press Release 👇 https://t.co/saVPzQsRix
 1244297994905604000,Sun Mar 29 16:18:54 +0000 2020,RT @PIBHomeAffairs: #IndiaFightsCoronavirus MHA issues Addendum to the guidelines issued reg. #lockdownindia and lays down additional categ…
@@ -2598,7 +2592,6 @@ id,created_at,text
 1243855458739224600,Sat Mar 28 11:00:25 +0000 2020,RT @PIB_India: .@RailMinIndia to give full refund for all tickets for journey period from 21st March - 14th April 2020 due to cancellation…
 1243855263464972300,Sat Mar 28 10:59:39 +0000 2020,RT @PIBHomeAffairs: #IndiaFightsCorona  Below is a list of state and Union Territory-wise public helpline numbers for #COVID19.  Please sha…
 1243855220280443000,Sat Mar 28 10:59:28 +0000 2020,RT @PIBFactCheck: #PIBFactCheck:  Please don't fall for report claiming India has entered Stage 3 - i.e community transmission of #Covid19…
-1243840772870271000,Sat Mar 28 10:02:04 +0000 2020,Find important information on #COVID2019 #Coronavirus here  https://t.co/KTXdd6tj7c  #CoronaUpdate  #Lockdown21
 1243840772870271000,Sat Mar 28 10:02:04 +0000 2020,Find important information on #COVID2019 #Coronavirus here  https://t.co/KTXdd6tj7c  #CoronaUpdate  #Lockdown21
 1243837617944199200,Sat Mar 28 09:49:32 +0000 2020,RT @rsprasad: Stay Safe, Stay Alert and Stay at Home! Here is to remind you all that what will stay closed all over India during the lockdo…
 1243837544304750600,Sat Mar 28 09:49:14 +0000 2020,RT @HardeepSPuri: We are locked down, but not bogged down.  Our aviation officials &amp; professionals are working round the clock with determi…
@@ -2999,7 +2992,6 @@ id,created_at,text
 1241683089811591200,Sun Mar 22 11:08:12 +0000 2020,RT @AyushmanNHA: It’s time to appreciate the efforts of India’s health workers who are working hard to protect us against #Covid_19. Don’t…
 1241683060162064400,Sun Mar 22 11:08:05 +0000 2020,RT @PIB_India: 80% of people infected with #Covid_19india will only have minor fever and cold: Balram Bhargava, DG, ICMR https://t.co/78IFG…
 1241683028407021600,Sun Mar 22 11:07:57 +0000 2020,RT @PIBHindi: केंद्र सरकार ने राज्य सरकारोंं को आदेश जारी किया है कि जिन 75 ज़िलोंं में पॉजिटिव केस पाए गए हैं वहां आवश्यक सेवाओं को छोड़कर…
-1241683028407021600,Sun Mar 22 11:07:57 +0000 2020,RT @PIBHindi: केंद्र सरकार ने राज्य सरकारोंं को आदेश जारी किया है कि जिन 75 ज़िलोंं में पॉजिटिव केस पाए गए हैं वहां आवश्यक सेवाओं को छोड़कर…
 1241682989907447800,Sun Mar 22 11:07:48 +0000 2020,RT @PIB_India: We have done 16 to 17 thousand tests already and India has capacity to perform 50 to 70 thousand tests a week;   There are 1…
 1241679961884446700,Sun Mar 22 10:55:46 +0000 2020,RT @PIB_India: Only essential services to operate in 75 districts that have reported positive cases   All train services including sub-urba…
 1241676827556491300,Sun Mar 22 10:43:19 +0000 2020,RT @PIB_India: LIVE Now  Media briefing on current Novel #Coronavirus situation in the country at National Media Centre in #NewDelhi   #Ind…
@@ -3198,7 +3190,6 @@ id,created_at,text
 1239823283320770600,Tue Mar 17 07:58:00 +0000 2020,#Coronavirus Prevention: Recommendations for using a facemask.  @MoHFW_INDIA  #COVID19india #coronavirusinindia… https://t.co/rMlrOlizHB
 1239813536118755300,Tue Mar 17 07:19:16 +0000 2020,RT @DDNewslive: Total number of #coronavirus cases rise to 126 in India  Third death confirmed from Mumbai due to #COVID19 https://t.co/RM1…
 1239813272045383700,Tue Mar 17 07:18:13 +0000 2020,RT @MoHFW_INDIA: Everyone need not wear a mask.  Know, when and how to wear a mask!  #COVID19 #IndiaFightsCorona #CoronaOutbreak #HealthFor…
-1239812713146024000,Tue Mar 17 07:16:00 +0000 2020,RT @MoHFW_INDIA: #CoronaVirusUpdate: #COVID19  In continuation of the travel advisory issued on 11th March, 2020 and 16th March, 2020, the…
 1239812713146024000,Tue Mar 17 07:16:00 +0000 2020,RT @MoHFW_INDIA: #CoronaVirusUpdate: #COVID19  In continuation of the travel advisory issued on 11th March, 2020 and 16th March, 2020, the…
 1239807680459481000,Tue Mar 17 06:56:00 +0000 2020,Preventive measures for #COVID19:  @MoHFW_INDIA   #COVID19india #coronavirusinindia #CoronavirusOutbreak #2019nCoV… https://t.co/duMy3GFbnW
 1239801699264385000,Tue Mar 17 06:32:14 +0000 2020,RT @lg_ladakh: Gen.Syed Ata Hasnain (Retd.) member #NDMA called on LG @R_K_Mathur   Disaster management preparedness and measures to fight…

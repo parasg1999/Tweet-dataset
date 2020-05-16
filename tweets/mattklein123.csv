@@ -199,7 +199,6 @@ id,created_at,text
 1222652004087910400,Wed Jan 29 22:45:28 +0000 2020,@caitie @EnvoyProxy Let's be real. Sadly, very few people care about security until it causes an issue.
 1222610858427089000,Wed Jan 29 20:01:58 +0000 2020,HTTP/1.1 was ratified 23 years ago. When I started writing @EnvoyProxy ~5 years ago I decided to not support HTTP/1… https://t.co/suonGBsOKj
 1222177689391353900,Tue Jan 28 15:20:42 +0000 2020,RT @jerrinot: The Power of Open Source ♥️: Todd Greer from Google is working on Envoy Proxy HTTP cache filter. It's still WIP, but @ozcanno…
-1222177689391353900,Tue Jan 28 15:20:42 +0000 2020,RT @jerrinot: The Power of Open Source ♥️: Todd Greer from Google is working on Envoy Proxy HTTP cache filter. It's still WIP, but @ozcanno…
 1222036958991401000,Tue Jan 28 06:01:30 +0000 2020,Chaser.   Working with the #OSS community on @EnvoyProxy has been the most gratifying experience of my career by fa… https://t.co/8eoKewD92C
 1222036952444104700,Tue Jan 28 06:01:28 +0000 2020,Shot. 1/ https://t.co/lBbkdeFrnL
 1222034906840088600,Tue Jan 28 05:53:20 +0000 2020,@victortrac Yes, pretty unbelievable. I replied.
@@ -398,7 +397,6 @@ id,created_at,text
 1184903077557457000,Thu Oct 17 18:44:42 +0000 2019,Can't. Stop. Tweeting.  So many amazing things that the @EnvoyProxy community is working on right now. ❤️
 1184902871512305700,Thu Oct 17 18:43:53 +0000 2019,WASM v8 support about to land in @EnvoyProxy. Super cool. 🚀  https://t.co/4zCswRO8lL https://t.co/e39X2cohEj
 1184900101157740500,Thu Oct 17 18:32:53 +0000 2019,Oh yeah. HTTP/3 support coming to @EnvoyProxy real soon now. https://t.co/jkY2X8EUNO
-1184898605062082600,Thu Oct 17 18:26:56 +0000 2019,Super excited to see @tonya11en land experimental adaptive concurrency in @EnvoyProxy. "Too many knobs" is one of t… https://t.co/kohJfs6F8S
 1184898605062082600,Thu Oct 17 18:26:56 +0000 2019,Super excited to see @tonya11en land experimental adaptive concurrency in @EnvoyProxy. "Too many knobs" is one of t… https://t.co/kohJfs6F8S
 1184879154837147600,Thu Oct 17 17:09:39 +0000 2019,RT @rgs_: What have I been up to lately?  Here's a short story of some of the fun we've been having with @EnvoyProxy at @PinterestEng:  htt…
 1184617481752592400,Wed Oct 16 23:49:51 +0000 2019,@bradfitz @YNasretdinov I'm going to have to rework this blog post. 😢  https://t.co/fck5A7bO76
@@ -999,7 +997,6 @@ id,created_at,text
 1090288148544778200,Tue Jan 29 16:38:45 +0000 2019,@CloudNativeFdn P.S., worry not, I will still be fighting hard for ☁ native monorepos and Go++. 🚀
 1090287410896871400,Tue Jan 29 16:35:49 +0000 2019,Honored to announce that I've been elected to the @CloudNativeFdn TOC. I'm super excited to help guide which projec… https://t.co/e0dEcz1ohH
 1090067747352924200,Tue Jan 29 02:02:58 +0000 2019,@EnvoyProxy @snowypeas @SquareEng https://t.co/eY8f7qOpwA
-1090067747352924200,Tue Jan 29 02:02:58 +0000 2019,@EnvoyProxy @snowypeas @SquareEng https://t.co/eY8f7qOpwA
 1090067624807956500,Tue Jan 29 02:02:28 +0000 2019,Very excited to announce our newest @EnvoyProxy maintainer, @snowypeas from @SquareEng. Congrats and thank you so m… https://t.co/NXka9d4KRh
 1090027596262195200,Mon Jan 28 23:23:25 +0000 2019,This just happened. Red fox eating our cat food. Look at that tail! So beautiful. https://t.co/95DmXqy8yv
 1089624327610200000,Sun Jan 27 20:40:58 +0000 2019,@_msw_ Sure, it's true there is philanthropy, foundation fellowships, etc., but realistically there are so few of t… https://t.co/fEz7bS9YGT
@@ -1398,7 +1395,6 @@ id,created_at,text
 1032098641647829000,Wed Aug 22 02:54:26 +0000 2018,@eiichikitagawa I am going in 2 weeks! 😀
 1032098524064698400,Wed Aug 22 02:53:58 +0000 2018,@eiichikitagawa They are easy to get year round in Seattle, but I had a hard time finding them in Japan last May.
 1032098193331216400,Wed Aug 22 02:52:39 +0000 2018,@zlizan @lestrrat This trip I am going to Yokohama, Nara, Okayama, Matsuyama, and Hiroshima. Hiroshima maybe? Last… https://t.co/WAVuAGbA8H
-1032090566132035600,Wed Aug 22 02:22:20 +0000 2018,@lestrrat Yeah the big ones! Thank you so much for all this info. Very educational. 😀
 1032090566132035600,Wed Aug 22 02:22:20 +0000 2018,@lestrrat Yeah the big ones! Thank you so much for all this info. Very educational. 😀
 1032085374149906400,Wed Aug 22 02:01:43 +0000 2018,@lestrrat Ah interesting. What months? Last time I was there in May so I guess also missed it. Why only winter? They are so good!!!
 1032082727636414500,Wed Aug 22 01:51:12 +0000 2018,P.S. super excited to go to Japan again. 😀
@@ -2997,7 +2993,6 @@ id,created_at,text
 872298473823117300,Wed Jun 07 03:45:37 +0000 2017,@tgraf__ @hartley @EnvoyProxy But either way cool stuff and happy to see you pursue it.
 872298341123727400,Wed Jun 07 03:45:05 +0000 2017,@tgraf__ @hartley @EnvoyProxy Dpdk/envoy interesting as isolated edge device. Very skeptical about kernel involvement for side car.
 872297958401876000,Wed Jun 07 03:43:34 +0000 2017,@tgraf__ @hartley @EnvoyProxy I would say "cool", and maybe appealing to some users, but most don't care about this… https://t.co/kfAmDwXVEW
-872297958401876000,Wed Jun 07 03:43:34 +0000 2017,@tgraf__ @hartley @EnvoyProxy I would say "cool", and maybe appealing to some users, but most don't care about this… https://t.co/kfAmDwXVEW
 872291252695294000,Wed Jun 07 03:16:55 +0000 2017,@tgraf__ @hartley @EnvoyProxy Moving away from joking, a DPDK/Envoy approach seems a lot more compelling. With a DP… https://t.co/h1Gip3ywio
 872290386663751700,Wed Jun 07 03:13:29 +0000 2017,@tgraf__ @hartley @EnvoyProxy You should just run @EnvoyProxy IN the kernel. 💥
 872268167380222000,Wed Jun 07 01:45:11 +0000 2017,@tgraf__ @EnvoyProxy Some rewrite already supported. Not sure what you mean exactly. Please open GH issue.
@@ -3195,7 +3190,6 @@ id,created_at,text
 832251023460757500,Thu Feb 16 15:31:21 +0000 2017,RT @paulwaldman1: I'm sure he'll arrive at the solution everyone can agree on: just cut income taxes for the wealthy and forget about offse…
 832250435532501000,Thu Feb 16 15:29:00 +0000 2017,RT @ID_AA_Carmack: This. https://t.co/0JAHkzU8aN
 831735187667054600,Wed Feb 15 05:21:36 +0000 2017,RT @poniewozik: Within two days Fox News is just going to be a video loop of an American flag and military-band music https://t.co/jZ1mjSaa…
-831735187667054600,Wed Feb 15 05:21:36 +0000 2017,RT @poniewozik: Within two days Fox News is just going to be a video loop of an American flag and military-band music https://t.co/jZ1mjSaa…
 831734220758319100,Wed Feb 15 05:17:45 +0000 2017,RT @ObsoleteDogma: Imagine how quickly Republicans would investigate Trump’s Russia ties if he said he thought 39.6% was the appropriate to…
 831528289093054500,Tue Feb 14 15:39:27 +0000 2017,RT @chrislhayes: Sources tell me This-Is-Fine Dog is now in the running to be the new national security advisor.
 831524637351649300,Tue Feb 14 15:24:57 +0000 2017,RT @software_daily: [podcast] Service Proxying with @MattKlein123 @lyft #Envoy #microservices https://t.co/Be9VbZais8 https://t.co/QpqsU24h…
@@ -3229,5 +3223,4 @@ id,created_at,text
 826472974475685900,Tue Jan 31 16:51:26 +0000 2017,RT @PowerDNS_Bert: The @IETF releases stunning statement, implicating USA may no longer an acceptable meeting venue, 2018 relocation: https…
 826469142924386300,Tue Jan 31 16:36:13 +0000 2017,RT @chrislhayes: After a terrorist attack on a Canadian mosque by a Trump fan, I wonder if Canada will take measures for extreme vetting of…
 826320940522803200,Tue Jan 31 06:47:19 +0000 2017,@JillWetzler I get a lot of nginx. :)
-826309287634886700,Tue Jan 31 06:01:00 +0000 2017,RT @TeaPainUSA: More Muslims have been killed by Trump supporters in the past 24 hours than Americans killed by refugees from banned countr…
 826309287634886700,Tue Jan 31 06:01:00 +0000 2017,RT @TeaPainUSA: More Muslims have been killed by Trump supporters in the past 24 hours than Americans killed by refugees from banned countr…

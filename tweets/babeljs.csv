@@ -199,7 +199,6 @@ id,created_at,text
 1097932012323778600,Tue Feb 19 18:52:44 +0000 2019,RT @existentialism: Shoutout to @circleci for supporting @babeljs 🙏  https://t.co/DcHftkBcpv
 1096526015743041500,Fri Feb 15 21:45:49 +0000 2019,RT @existentialism: Also, awesome stuff from @TschinderDaniel on making our parser errors actually usable!  https://t.co/8xu1Xljywj https:/…
 1096523852224626700,Fri Feb 15 21:37:13 +0000 2019,RT @NicoloRibaudo: Babel 7.3.3 is out!  - 🐛 Fixed a bug when parsing `let [newline]` - 🚀@babel/standalone is 30% smaller - 📦Update "lodash"…
-1096523852224626700,Fri Feb 15 21:37:13 +0000 2019,RT @NicoloRibaudo: Babel 7.3.3 is out!  - 🐛 Fixed a bug when parsing `let [newline]` - 🚀@babel/standalone is 30% smaller - 📦Update "lodash"…
 1096443251245092900,Fri Feb 15 16:16:56 +0000 2019,RT @NicoloRibaudo: Here you are another [good first issue] bug in @babeljs!  Does anyone want to work on it? 👀 If yes, please leave a comme…
 1096131363030401000,Thu Feb 14 19:37:36 +0000 2019,RT @Mappletons: Unsure what @babeljs does? It's exactly like a translating babelfish from Hitchhiker's Guide to the Galaxy. But with ES5. A…
 1095368152614084600,Tue Feb 12 17:04:53 +0000 2019,Who sustains our open source infrastructure?  We're really glad to see this! Now @babeljs, @webpack, and @geteslint… https://t.co/b20TvknHaN
@@ -796,7 +795,6 @@ id,created_at,text
 902626744741584900,Tue Aug 29 20:19:20 +0000 2017,RT @callmevlad: @TheLarkInn @webflowapp @babeljs So much of our business is built on open source tools, and we're humbled by the tireless e…
 902626711879209000,Tue Aug 29 20:19:12 +0000 2017,RT @TheLarkInn: 🚨🚨 This is such incredible news!! 🚨🚨   Thank you so much @webflowapp for sponsoring #webpack, @babeljs and #mochajs!!!!   #…
 902626683592826900,Tue Aug 29 20:19:06 +0000 2017,RT @opencollect: @left_pad @TheLarkInn @rowanoulton @BrendanEich not anymore! https://t.co/7PLfGcSSYH &lt;3 Thank you @webflowapp for being aw…
-902616463529398300,Tue Aug 29 19:38:29 +0000 2017,RT @whymclovin: 🎉 I'm now a proud supporter of @babeljs. You should support them too! https://t.co/mZQHU6Cij9 #opencollective
 902616463529398300,Tue Aug 29 19:38:29 +0000 2017,RT @whymclovin: 🎉 I'm now a proud supporter of @babeljs. You should support them too! https://t.co/mZQHU6Cij9 #opencollective
 902616411020853200,Tue Aug 29 19:38:16 +0000 2017,RT @johnny_87: I can’t give much at the moment, but happy to support @babeljs great product! #babel
 902613135508598800,Tue Aug 29 19:25:15 +0000 2017,RT @holtbt: @babeljs I maintain that Babel 6 is 1 of the most important things to happen to JS in its history. Thanks to @sebmck, @thejames…
@@ -1538,5 +1536,4 @@ id,created_at,text
 552982747430805500,Thu Jan 08 00:18:55 +0000 2015,RT @sambreed: ok, @thejameskyle successfully convinced me to use @6to5js for basically everything. even does jsx! #feelsgoodman http://t.co…
 552899235771736060,Wed Jan 07 18:47:04 +0000 2015,RT @JavaScriptDaily: 6to5 · Turn ES6+ code into readable vanilla ES5: https://t.co/jkolHv9vy3
 552630133131989000,Wed Jan 07 00:57:45 +0000 2015,Come see @thejameskyle speak at @SFJavaScript about #6to5. http://t.co/foqFHq0k0b
-552377358192480260,Tue Jan 06 08:13:19 +0000 2015,Check out the new site and documentation! https://t.co/EITJmSRwcC
 552377358192480260,Tue Jan 06 08:13:19 +0000 2015,Check out the new site and documentation! https://t.co/EITJmSRwcC

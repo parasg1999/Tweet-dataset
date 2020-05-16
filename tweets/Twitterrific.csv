@@ -199,7 +199,6 @@ id,created_at,text
 1242792724920557600,Wed Mar 25 12:37:30 +0000 2020,@emd You can swipe images away but not when you are zoomed into them. Double tap to zoom back out then swipe them away.
 1242624049290805200,Wed Mar 25 01:27:14 +0000 2020,@scottaw No, what’s happening is your decision e has most likely lost network connection or has a slow connection a… https://t.co/OS9UVcSm1K
 1242573282672545800,Tue Mar 24 22:05:31 +0000 2020,@exkclamation Probably iOS networking out to lunch temporarily. I’ve seen it across many apps lately including Instagram &amp; Safari.
-1242573282672545800,Tue Mar 24 22:05:31 +0000 2020,@exkclamation Probably iOS networking out to lunch temporarily. I’ve seen it across many apps lately including Instagram &amp; Safari.
 1242568899146780700,Tue Mar 24 21:48:06 +0000 2020,@exkclamation Roll over the timestamp and see what they were posted with. If they were posted with Twitter for Adve… https://t.co/IGp5BCUV08
 1242505988487491600,Tue Mar 24 17:38:06 +0000 2020,@gemko Yep, happens sometimes. Caching bug. Will return eventually. Can delete and re-add the account if you don’t… https://t.co/jpWSJrA7iG
 1242452877576155100,Tue Mar 24 14:07:04 +0000 2020,@schussman 👍
@@ -399,7 +398,6 @@ id,created_at,text
 1227002705425637400,Mon Feb 10 22:53:36 +0000 2020,@peds48 @gemko Yep, this is helpful. We’ve actually seen it too. Not sure why yet. Thank you! cc @BigZaphod
 1226635108087730200,Sun Feb 09 22:32:54 +0000 2020,@jablair It looks correct here. Most likely an iOS bug. Can happen sometimes when the mode changes while you are lo… https://t.co/IccBz2AGrd
 1226183606810349600,Sat Feb 08 16:38:47 +0000 2020,@26thGryhnds Drop us a line at webmaster@iconfactory.com
-1226183606810349600,Sat Feb 08 16:38:47 +0000 2020,@26thGryhnds Drop us a line at webmaster@iconfactory.com
 1226183417580138500,Sat Feb 08 16:38:02 +0000 2020,@Yaroslav_Ya Twitter discontinued the ability of 3rd party apps like ours to send push notifications back in Aug of… https://t.co/ZWYr21LcSe
 1226143902496850000,Sat Feb 08 14:01:01 +0000 2020,@flyingsaltfish Using the new threads feature? It’s pretty easy. What could we be doing better?
 1226127081047810000,Sat Feb 08 12:54:11 +0000 2020,@wageh84 When we released v6 we moved to a subscription model. We’re asking people who purchased the app so long ag… https://t.co/wdhv5sCBEX
@@ -598,7 +596,6 @@ id,created_at,text
 1214627766760616000,Tue Jan 07 19:20:00 +0000 2020,@seriousboar Yes we show replies to quoted tweets.
 1214550969628942300,Tue Jan 07 14:14:51 +0000 2020,@strangebirds By default in Twitterrific replies are color coded orange, yes. The color of the button itself though… https://t.co/ErVVUTKAWQ
 1214262836614054000,Mon Jan 06 19:09:54 +0000 2020,@EABowers Unfortunately its a bug with iOS. No idea why it happens nor how to work around it. We’ve reported it to… https://t.co/ao7OamF9tD
-1214048242528391200,Mon Jan 06 04:57:11 +0000 2020,@jasonology @Allieeee7 A single swipe to the left on a tweet to show discussions in Twitterrific, FYI.
 1214048242528391200,Mon Jan 06 04:57:11 +0000 2020,@jasonology @Allieeee7 A single swipe to the left on a tweet to show discussions in Twitterrific, FYI.
 1214026195303649300,Mon Jan 06 03:29:35 +0000 2020,RT @Allieeee7: If you’re on the regular twitter app, switch to Twitterrific. It’s unquestionably better.
 1213916914080239600,Sun Jan 05 20:15:20 +0000 2020,@leonrobineau If you are talking about polls, there’s no API from twitter for 3rd party apps like ours to display t… https://t.co/xPEOOKXUBY
@@ -999,7 +996,6 @@ id,created_at,text
 1192557994065698800,Thu Nov 07 21:42:37 +0000 2019,@DoMoreDisney We recommend you turn on notifications from the official Twitter client and then use Twitterrific for… https://t.co/rJGNKgOAgw
 1192550469475942400,Thu Nov 07 21:12:43 +0000 2019,@DoMoreDisney We don’t show replies to replies by default, there’s no API for this from Twitter. If you wan to see… https://t.co/g3cGVbgDr7
 1192550127245963300,Thu Nov 07 21:11:21 +0000 2019,@mishu70 It appears to be a bug that’s crept in. We’re working on it now. Stay tuned, thx.
-1192550127245963300,Thu Nov 07 21:11:21 +0000 2019,@mishu70 It appears to be a bug that’s crept in. We’re working on it now. Stay tuned, thx.
 1192550030223302700,Thu Nov 07 21:10:58 +0000 2019,@RustyHilliard77 It’s a bug we’re working on. Hang in there, thx.
 1192521426424782800,Thu Nov 07 19:17:18 +0000 2019,@mehgcap Its a bug, we’re working on it. Hang in there, thx.
 1192511853592809500,Thu Nov 07 18:39:16 +0000 2019,@blindconfucius Yep, we’re working on it. Hang in there, thx.
@@ -1198,7 +1194,6 @@ id,created_at,text
 1187837132511088600,Fri Oct 25 21:03:35 +0000 2019,@Dar_Ulakhbar You can’t delete a single DM, not even on https://t.co/mNjvlpDVPK. All you can do is leave a conversa… https://t.co/kzBA8llQEy
 1187827317420236800,Fri Oct 25 20:24:35 +0000 2019,@Milannino Turn off sync reading position in prefs. Does that solve it?
 1187827194158039000,Fri Oct 25 20:24:06 +0000 2019,@brendonjustin_ Yep, this one is tricky. We’re working on it now. Hopefully will have something in the next update.… https://t.co/6YenUBcuSK
-1187827098091741200,Fri Oct 25 20:23:43 +0000 2019,@RotorDriven Yep, this one is tricky. We’re working on it now. Hopefully will have something in the next update. St… https://t.co/GW5jWygXV8
 1187827098091741200,Fri Oct 25 20:23:43 +0000 2019,@RotorDriven Yep, this one is tricky. We’re working on it now. Hopefully will have something in the next update. St… https://t.co/GW5jWygXV8
 1187826961932046300,Fri Oct 25 20:23:11 +0000 2019,@AndrewEml No, this is an iOS 13 only feature and we need to still support 12 as well. Doing both is problematic. E… https://t.co/Et5NEQ76fe
 1187826711481725000,Fri Oct 25 20:22:11 +0000 2019,@UndisputedDMG Do you have iCloud drive permissions set for Twitterrific across ALL your devices? Do you have more than one Apple ID?
@@ -1598,7 +1593,6 @@ id,created_at,text
 1170485175630860300,Sat Sep 07 23:53:07 +0000 2019,RT @rob_muc_86: After 2 years of android it is the only thing I miss. @Twitterrific is just the best twitter client ever. https://t.co/k6jv…
 1170467255890657300,Sat Sep 07 22:41:54 +0000 2019,@isaiah HUGS! 💕
 1170457580923211800,Sat Sep 07 22:03:27 +0000 2019,@lightningjeff Yep, because the author is using Twitter Ad Composer which doesn’t make their media available in the… https://t.co/lPYxbzhFjW
-1170457349527675000,Sat Sep 07 22:02:32 +0000 2019,@_vonStein For a part of the UI that isn’t shown often, yes.
 1170457349527675000,Sat Sep 07 22:02:32 +0000 2019,@_vonStein For a part of the UI that isn’t shown often, yes.
 1170414247127462000,Sat Sep 07 19:11:16 +0000 2019,@t87 Okay, great.
 1170414147441496000,Sat Sep 07 19:10:52 +0000 2019,@_vonStein No, sorry. The account switcher, preferences, Appearance panel and others are Twitterrific chrome outsid… https://t.co/oiaF4y9F7p
@@ -2399,7 +2393,6 @@ id,created_at,text
 1141009845375705100,Tue Jun 18 15:48:40 +0000 2019,@citizenkang Sorry you feel that way but we’ve been giving users free updates for seven years. That represents over… https://t.co/LYK3U7OqMH
 1140980799665320000,Tue Jun 18 13:53:15 +0000 2019,@pwdunn Afraid not. Twitter discontinued notifications for 3rd party apps back in August of last year. You can read… https://t.co/ZcG6mOQDId
 1140973134121721900,Tue Jun 18 13:22:48 +0000 2019,@gingerfox2019 It’s on the list to look at, yes.
-1140973134121721900,Tue Jun 18 13:22:48 +0000 2019,@gingerfox2019 It’s on the list to look at, yes.
 1140952244252098600,Tue Jun 18 11:59:47 +0000 2019,@CraigGrannell That’s good feedback, we appreciate it. Will def take a look!
 1140817826804117500,Tue Jun 18 03:05:39 +0000 2019,@flickchickbruin Def sounds like a problem with the App Store. I’d delete the app, restart the device and do a fres… https://t.co/8cJbvc80Ko
 1140805732604043300,Tue Jun 18 02:17:36 +0000 2019,@ShannonPieper @BigZaphod I wonder if simply deleting and re-installing would have done the trick without logging o… https://t.co/dfer8tAtD1
@@ -2999,7 +2992,6 @@ id,created_at,text
 1139135707228844000,Thu Jun 13 11:41:31 +0000 2019,@jeremydickson4 @BigZaphod View a profile or a conversation. Those are popover windows.
 1139129435347722200,Thu Jun 13 11:16:36 +0000 2019,@gingerfox2019 @pabloseoane90 @dubie76 Today’s update is only for the iOS version. We haven’t committed to anything… https://t.co/fSQfxBfrwU
 1139129214752501800,Thu Jun 13 11:15:43 +0000 2019,@ThePatK @AppleVis Yep, nice addition!
-1139129214752501800,Thu Jun 13 11:15:43 +0000 2019,@ThePatK @AppleVis Yep, nice addition!
 1139129117037736000,Thu Jun 13 11:15:20 +0000 2019,@ChangelingMx @ThePatK @AppleVis We haven’t ruled it out but we’re not committing to anything right now. :-)
 1139125764111118300,Thu Jun 13 11:02:00 +0000 2019,@jeremydickson4 @BigZaphod These keys are all close normal popover windows for you, correct?
 1139125581092663300,Thu Jun 13 11:01:17 +0000 2019,@ThePatK @AppleVis We currently support as much as we can. Twitter limits much of what third-party apps can do unfortunately
@@ -3198,7 +3190,6 @@ id,created_at,text
 1125812197332901900,Tue May 07 17:18:39 +0000 2019,Download @Twitterrific 😉 https://t.co/sGP0jFBzAi https://t.co/SWlAHs46VL
 1125811509181984800,Tue May 07 17:15:55 +0000 2019,@fortyrunner @bazzacollins @jonhoneyball @pcpro @jack Welcome aboard! Glad to have you 😊
 1125771510025789400,Tue May 07 14:36:58 +0000 2019,@swanksalot If Apple News exists on your device the link will default to opening it there. That’s how iOS works, ca… https://t.co/7TvBNMkz1d
-1125740434007965700,Tue May 07 12:33:29 +0000 2019,@rom Because Twitter doesn’t provide that information to 3rd party apps any longer.
 1125740434007965700,Tue May 07 12:33:29 +0000 2019,@rom Because Twitter doesn’t provide that information to 3rd party apps any longer.
 1125512395009314800,Mon May 06 21:27:20 +0000 2019,@SirpresSo Seems like we’ll be able to accommodate this latest change. Won’t be easy but at least it’s possible. This time.
 1125495706943410200,Mon May 06 20:21:01 +0000 2019,@lkshrk @telegram Hmm, I can’t invoke the share sheet from Safari for Twitterrific. Works in Photos tho. Gonna have… https://t.co/BVPyqq9PxH

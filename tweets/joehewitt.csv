@@ -399,7 +399,6 @@ id,created_at,text
 660666108945403900,Sun Nov 01 03:54:09 +0000 2015,@davewiner it ain't over til... tomorrow night. Go Yanks! ;)
 655527561259159600,Sat Oct 17 23:35:24 +0000 2015,@mgsiegler minor league football strikes again.
 655527233860202500,Sat Oct 17 23:34:06 +0000 2015,@HerringWSJ it’s minor league football, dude. Should be expected from amateurs
-655527233860202500,Sat Oct 17 23:34:06 +0000 2015,@HerringWSJ it’s minor league football, dude. Should be expected from amateurs
 655516563571761200,Sat Oct 17 22:51:42 +0000 2015,@nanderson true but the new devices are so much better at multitasking, so watching a video while doing other stuff should become common
 655513343621398500,Sat Oct 17 22:38:54 +0000 2015,@kfury lots of wishful thinking with these context menu thingies
 655512712357646300,Sat Oct 17 22:36:24 +0000 2015,@nanderson if a video is playing full screen, wouldn’t it make sense to keep playing it PiP when you exit?
@@ -794,7 +793,6 @@ id,created_at,text
 130147158044323840,Sat Oct 29 05:01:15 +0000 2011,@jayroh nah, wait til June :)
 130146800479911940,Sat Oct 29 04:59:49 +0000 2011,@kenstone only in St. Louis will they be remembered. Just like nobody remembers the 82 Cards won it all. Forgettable teams.
 130145184771092480,Sat Oct 29 04:53:24 +0000 2011,@kenstone it does if you want to be remembered as a great team.
-130144706263912450,Sat Oct 29 04:51:30 +0000 2011,@kenstone great teams play well from April - October, not just September - October.
 130144706263912450,Sat Oct 29 04:51:30 +0000 2011,@kenstone great teams play well from April - October, not just September - October.
 130143785593225220,Sat Oct 29 04:47:51 +0000 2011,@nsxdavid I think April - September tells a different story: mediocre.
 130143659118166020,Sat Oct 29 04:47:20 +0000 2011,@JeffBNimble no, it means they had a well-timed hot streak.
@@ -1195,7 +1193,6 @@ id,created_at,text
 117059234377633800,Fri Sep 23 02:14:30 +0000 2011,Timeline is one feature Google+ can't copy, since they only have about 10 minutes of your life on file.
 117055592165679100,Fri Sep 23 02:00:02 +0000 2011,@mdhughes I think you're right about RSS, though. In the long run, RSS reader apps might be the only "web" we have.
 117055427744768000,Fri Sep 23 01:59:23 +0000 2011,@mdhughes there are orders of magnitude more websites than apps, likewise orders of magnitude more I've visited than apps installed
-117055427744768000,Fri Sep 23 01:59:23 +0000 2011,@mdhughes there are orders of magnitude more websites than apps, likewise orders of magnitude more I've visited than apps installed
 117055256222896130,Fri Sep 23 01:58:42 +0000 2011,@FTLJohnson I feel your pain
 117051494381002750,Fri Sep 23 01:43:45 +0000 2011,@mdhughes the only way apps can solve this is if people start publishing through apps everyone has installed, e.g. Facebook, Twitter, etc..
 117051312700526600,Fri Sep 23 01:43:02 +0000 2011,@mdhughes think about all the web pages you click through - would you jump through those app store hoops a dozen or more times a day?
@@ -1394,7 +1391,6 @@ id,created_at,text
 112015888735150080,Fri Sep 09 04:14:03 +0000 2011,@randypeterman that's neat but not quite what I need
 112015753712115710,Fri Sep 09 04:13:31 +0000 2011,@searls oh the joys of an immature platform.
 112013902665097220,Fri Sep 09 04:06:10 +0000 2011,@eneko that's why it's called mod_rewrite, not mod_route
-112013637652197380,Fri Sep 09 04:05:06 +0000 2011,@eneko no. it changes the url to another url *before* it even gets to PHP. I want to change the URL before it gets to the Express pipeline
 112013637652197380,Fri Sep 09 04:05:06 +0000 2011,@eneko no. it changes the url to another url *before* it even gets to PHP. I want to change the URL before it gets to the Express pipeline
 112013158838837250,Fri Sep 09 04:03:12 +0000 2011,@eneko I don't want to redirect, I want to change the URL of the request in process. have you ever used mod_rewrite?
 112012243239043070,Fri Sep 09 03:59:34 +0000 2011,@eneko mod-rewrite is to change one url to another, routing is binding a function to a url. not the same thing
@@ -1595,7 +1591,6 @@ id,created_at,text
 104009225608495100,Thu Aug 18 01:58:26 +0000 2011,@Onerunjunior yes, it is, though in 3 years with this car I've only been ticketed in SF
 103995439375847420,Thu Aug 18 01:03:39 +0000 2011,Every time I come to SF I get a ticket for no front license plate. No other city cares - somebody is desperate for money!
 103935351810306050,Wed Aug 17 21:04:53 +0000 2011,Can someone make a directory of coffee/laptop oriented coffee shops? Too often the ones in Yelp are food oriented or super tiny.
-103935351810306050,Wed Aug 17 21:04:53 +0000 2011,Can someone make a directory of coffee/laptop oriented coffee shops? Too often the ones in Yelp are food oriented or super tiny.
 103917398284959740,Wed Aug 17 19:53:33 +0000 2011,@johnjbarton that would be ideal wouldn't it. Maybe I'll work on that
 103908731464589310,Wed Aug 17 19:19:06 +0000 2011,@spune of course I've heard of them. Giant frameworks are a different story
 103892158347616260,Wed Aug 17 18:13:15 +0000 2011,@miksago crazy we've come this far without such a thing. working on a node module for json apis, thinking of adding this
@@ -1794,7 +1789,6 @@ id,created_at,text
 91570234305167360,Thu Jul 14 18:10:19 +0000 2011,@bartt Great Bear
 91569888820342780,Thu Jul 14 18:08:57 +0000 2011,@dustineichler I think Yuri is in Los Altos
 91568867750580220,Thu Jul 14 18:04:54 +0000 2011,So happy to be living in Los Gatos again and working at my favorite coffee shop every day. This time I'm here for good.
-91562537522446340,Thu Jul 14 17:39:44 +0000 2011,@_pTracker Pandora doesn't let me choose exactly what I listen to, which is a good thing, but I need the option sometimes.
 91562537522446340,Thu Jul 14 17:39:44 +0000 2011,@_pTracker Pandora doesn't let me choose exactly what I listen to, which is a good thing, but I need the option sometimes.
 91560148476235780,Thu Jul 14 17:30:15 +0000 2011,@engers when I was a "youth" I paid way more than $9.99/month for CDs.
 91560028821135360,Thu Jul 14 17:29:46 +0000 2011,@CoreyDotCom I don't know yet. I know people who prefer Spotify but I've only been using it for an hour.
@@ -1995,7 +1989,6 @@ id,created_at,text
 78494327164248060,Wed Jun 08 16:11:20 +0000 2011,@hiitsnico what, because of iMessage? I'd say RIM has done most of the work to kill themselves.
 78493775705542660,Wed Jun 08 16:09:09 +0000 2011,@RayS everyone has a tendency to do that
 78493383663943680,Wed Jun 08 16:07:35 +0000 2011,All the talk about Apple killing this or killing that. Does Apple care about "killing" anything? They create their own niche and dominate it
-78493383663943680,Wed Jun 08 16:07:35 +0000 2011,All the talk about Apple killing this or killing that. Does Apple care about "killing" anything? They create their own niche and dominate it
 78490288670257150,Wed Jun 08 15:55:17 +0000 2011,@sjpinches I guess if your readers often read the paper on the tube the prog bar is useful. Overall I'm very impressed.
 78353922179338240,Wed Jun 08 06:53:25 +0000 2011,@andybee true, but it speaks to the old world where readers read one and only one publication, rather than hopping around
 78340321762738180,Wed Jun 08 05:59:22 +0000 2011,@asadotzler my complaints are more to do with mobile browsers. #1, they need to catch up to desktop browsers. #2, parity with native APIs
@@ -2194,7 +2187,6 @@ id,created_at,text
 68108607492857860,Wed May 11 00:22:12 +0000 2011,Kinda weird how many Amazon Web Services don't have a GUI in their management console.
 68074771241369600,Tue May 10 22:07:44 +0000 2011,you can tell that barefoot coffee plays pandora by the nauseatingly repeating rosetta stone ads.
 68073848683245570,Tue May 10 22:04:04 +0000 2011,RT @rik24d: @joehewitt Hyphenation is coming to CSS. Firefox nightly has support : http://t.co/yM3tjTT http://t.co/Im2x7X3
-68073848683245570,Tue May 10 22:04:04 +0000 2011,RT @rik24d: @joehewitt Hyphenation is coming to CSS. Firefox nightly has support : http://t.co/yM3tjTT http://t.co/Im2x7X3
 68073789031849980,Tue May 10 22:03:50 +0000 2011,@charlietuna is that what you're using in flipboard?
 68068195247988740,Tue May 10 21:41:37 +0000 2011,In the absence of real hyphenation in HTML/CSS, this is a good solution.  http://r2.ly/b33h
 68024393309233150,Tue May 10 18:47:33 +0000 2011,Please, somebody tell me the new Galaxy Tab 10.1 is actually a decent tablet.
@@ -2392,7 +2384,6 @@ id,created_at,text
 19468145525792770,Mon Dec 27 19:02:22 +0000 2010,RT @lauracope: been maliciously impersonated online? it'll be a misdemeanor starting Jan. 1. share your story: kalexander@santacruzsenti ...
 19157157115076610,Sun Dec 26 22:26:36 +0000 2010,@Xerargh everyone in my family after I gave my niece one for christmas
 18919499268882430,Sun Dec 26 06:42:14 +0000 2010,@Xerargh nobody thinks it is a contraction, they think it is actually called iTouch.
-18811906823294976,Sat Dec 25 23:34:42 +0000 2010,I give up telling people it's actually called "iPod Touch". Apple should just rename it iTouch and get it over with.
 18811906823294976,Sat Dec 25 23:34:42 +0000 2010,I give up telling people it's actually called "iPod Touch". Apple should just rename it iTouch and get it over with.
 18067759917170690,Thu Dec 23 22:17:44 +0000 2010,@FeffCacho @thesteamer I'm game. When will you be here steve?
 10867292216762368,Sat Dec 04 01:25:39 +0000 2010,@johnniemanzari thus confirming yourself as one who sees the world as black or white.

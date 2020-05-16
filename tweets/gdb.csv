@@ -199,7 +199,6 @@ id,created_at,text
 1123056266186616800,Tue Apr 30 02:47:33 +0000 2019,Super impressed with today’s Song of the Day! https://t.co/ikEpTxSuPs
 1122975100880343000,Mon Apr 29 21:25:02 +0000 2019,@teropa Nice find :)! Sadly server currently ignores that variable, but we'll add to the UI soon.
 1122967610423820300,Mon Apr 29 20:55:16 +0000 2019,Achievement unlocked — #MuseNet at the top of the Classical charts on @SoundCloud this week. (Maybe means that Soun… https://t.co/bnXsiyq9CA
-1122967610423820300,Mon Apr 29 20:55:16 +0000 2019,Achievement unlocked — #MuseNet at the top of the Classical charts on @SoundCloud this week. (Maybe means that Soun… https://t.co/bnXsiyq9CA
 1122513890967875600,Sun Apr 28 14:52:21 +0000 2019,RT @claytonjubb: Our Sunday family breakfast is going to have the soundtrack provided by OpenAI this week instead of one of our vinyl recor…
 1122363739481747500,Sun Apr 28 04:55:42 +0000 2019,RT @ArntRJohansen: With #MuseNet, I feel that @openai has taken a great leap forward in the field of music generation. No other tool I've t…
 1122296962223468500,Sun Apr 28 00:30:21 +0000 2019,RT @sam_havens: #MuseNet is going to change music more than autotune did. Here's my favorite peice from today: https://t.co/txPweTnEQ7  (Ye…
@@ -598,7 +597,6 @@ id,created_at,text
 1057684743980965900,Wed Oct 31 17:24:28 +0000 2018,An agent which learned to play Mario without rewards. Instead, it was incentivized to avoid "boredom" (that is, get… https://t.co/zHK5z6pUBk
 1057672973098700800,Wed Oct 31 16:37:42 +0000 2018,Performance on Montezuma's Revenge, on which the 2015 DQN algorithm famously achieved a score of 0. We've now devel… https://t.co/eCpg1yuM96
 1054836551346094100,Tue Oct 23 20:46:46 +0000 2018,That feeling when you point your agent at a totally fresh environment, and it starts learning without any tuning. Never gets old.
-1054833246536519700,Tue Oct 23 20:33:38 +0000 2018,Congrats to my co-founder @ilyasut for winning the Market for Intelligence award for ideas. Ilya is a visionary and… https://t.co/qAeg87J8rX
 1054833246536519700,Tue Oct 23 20:33:38 +0000 2018,Congrats to my co-founder @ilyasut for winning the Market for Intelligence award for ideas. Ilya is a visionary and… https://t.co/qAeg87J8rX
 1054419012317139000,Mon Oct 22 17:07:37 +0000 2018,A lot of OpenAI's AGI safety research focus on specifying goals without reward functions — since it's clear that we… https://t.co/Fk5oI5aqSn
 1050825015925432300,Fri Oct 12 19:06:21 +0000 2018,RT @ohnadj: Hey, that's me presenting! 😁 I wrote a blog post of learnings and advice from my experience in the Summer 2018 cohort: https://…
@@ -999,7 +997,6 @@ id,created_at,text
 1023967321549881300,Mon Jul 30 16:23:28 +0000 2018,My favorite part of the result: the robot's grasps are recognizable and can be labeled with the standard taxonomy o… https://t.co/4RYdgn32SM
 1023965102142185500,Mon Jul 30 16:14:39 +0000 2018,The system built for Dota, applied to tasks in the physical world: https://t.co/XcluFLBNoA. Step towards truly general-purpose AI systems.
 1023587170039214100,Sun Jul 29 15:12:53 +0000 2018,@paultomkinson @OpenAI Rescheduled to the 5th!
-1023587170039214100,Sun Jul 29 15:12:53 +0000 2018,@paultomkinson @OpenAI Rescheduled to the 5th!
 1023418093391888400,Sun Jul 29 04:01:02 +0000 2018,@skyzdev @OpenAI Moved to the 5th! https://t.co/ROsYG6b0n9
 1023087648447987700,Sat Jul 28 06:07:58 +0000 2018,@Sittya @OpenAI Moved to the 5th: https://t.co/ROsYG6b0n9!
 1022989366652620800,Fri Jul 27 23:37:25 +0000 2018,Impromptu planning meeting for our Aug 5th Benchmark event. https://t.co/4R7CutWDjg
@@ -1399,7 +1396,6 @@ id,created_at,text
 681546957442031600,Mon Dec 28 18:47:11 +0000 2015,@cauerego Too early to say for sure! Today we're focused on developing new capabilities in deep learning.
 681232114814042100,Sun Dec 27 21:56:07 +0000 2015,@cauerego Right now I'm super swamped, but let's keep in touch. We're focused on the long term, so there may be opportunities down the road!
 681227396658286600,Sun Dec 27 21:37:22 +0000 2015,@cauerego Reply for you! https://t.co/g8ZzH3Ki1J
-681227396658286600,Sun Dec 27 21:37:22 +0000 2015,@cauerego Reply for you! https://t.co/g8ZzH3Ki1J
 681207825083715600,Sun Dec 27 20:19:36 +0000 2015,@cauerego Thanks for the questions — working on a reply!
 680213545309474800,Fri Dec 25 02:28:41 +0000 2015,@rafeco @harper Always fun. My favorite is getting back into a bricked machine where you have no password.
 680208160917868500,Fri Dec 25 02:07:17 +0000 2015,(Fortunately, when you get it wrong, these days you usually can blow away an instance rather than try to remember how your ILOM works.)
@@ -1599,7 +1595,6 @@ id,created_at,text
 566316657283321860,Fri Feb 13 19:23:07 +0000 2015,@tomwalki Ah got it. Will pass that along internally.
 566312440674021400,Fri Feb 13 19:06:22 +0000 2015,@tomwalki Sorry, think I'm missing something — how's that different from the current implementation?
 566285156483219460,Fri Feb 13 17:17:57 +0000 2015,@tomwalki (So we're definitely working on fixing that.)
-566285156483219460,Fri Feb 13 17:17:57 +0000 2015,@tomwalki (So we're definitely working on fixing that.)
 566285088644530200,Fri Feb 13 17:17:40 +0000 2015,@tomwalki (It sounds kinda arbitrary, but it's a consequence of the bank transfer networks. Making this stuff easier is why we exist though)
 566284730660687900,Fri Feb 13 17:16:15 +0000 2015,@tomwalki Hey Tom — unfortunately, for now you'll need a US-based USD bank account: https://t.co/jsbv9ZzTEk.
 565443378683600900,Wed Feb 11 09:33:01 +0000 2015,@waitinggirl13 @jaythenerdkid @stripe We definitely want to help out here. We've just replied to your email with more details.
@@ -1798,7 +1793,6 @@ id,created_at,text
 498927074779070460,Mon Aug 11 20:20:58 +0000 2014,@stellarjob +++@ELagergren thanks. Have some +++!
 498925832035770400,Mon Aug 11 20:16:02 +0000 2014,@stellarjob +++@shennyg thanks!
 498924756411093000,Mon Aug 11 20:11:46 +0000 2014,@stellarjob +++@cannikin Thanks — have some +++ :).
-498924232429273100,Mon Aug 11 20:09:41 +0000 2014,@stellarjob +++@olvr_s have some +++ :)
 498924232429273100,Mon Aug 11 20:09:41 +0000 2014,@stellarjob +++@olvr_s have some +++ :)
 498924115982835700,Mon Aug 11 20:09:13 +0000 2014,@stellarjob +++@thomasreggi thanks for looking around :).
 498923894120923140,Mon Aug 11 20:08:20 +0000 2014,@stellarjob +++@rap_pad Thanks!
@@ -2199,7 +2193,6 @@ id,created_at,text
 438025574636724200,Mon Feb 24 19:00:09 +0000 2014,@mdlugajczyk But new iterative development will remain in Ruby for the foreseeable future.
 438025461067546600,Mon Feb 24 18:59:42 +0000 2014,@mdlugajczyk Stripe for example is starting to rewrite certain stable/known components in Go.
 438025303315587100,Mon Feb 24 18:59:05 +0000 2014,@mdlugajczyk They tend to be less productive for small codebases, though partly because they force you to write better code from the start.
-438025303315587100,Mon Feb 24 18:59:05 +0000 2014,@mdlugajczyk They tend to be less productive for small codebases, though partly because they force you to write better code from the start.
 438024932606226400,Mon Feb 24 18:57:36 +0000 2014,@benbjohnson Also, Stripe is heavily invested, so regardless of why most people like it, we very much care about helping it succeed.
 438024386214232060,Mon Feb 24 18:55:26 +0000 2014,@benbjohnson While I think it's losing ground, it is a low-barrier-to-entry lang with a strong supporter base and lots of existing infra.
 438018930913714200,Mon Feb 24 18:33:45 +0000 2014,@ccheever I feel like Python has a much more solid foundation than Ruby at the moment. Much killer apps (numpy, etc), many bigco support.
@@ -2398,7 +2391,6 @@ id,created_at,text
 414190512606699500,Sat Dec 21 00:28:08 +0000 2013,.@JorgeO Beyond thrilled to be working with you. Welcome to Stripe!
 414083949237780500,Fri Dec 20 17:24:41 +0000 2013,RT @coda: I’m delighted to announce that I’ll be joining @stripe as an engineer after the winter break. Looking forward to getting back to …
 414075253963243500,Fri Dec 20 16:50:08 +0000 2013,@lmeyerov Feedback noted. Glad you enjoyed! :)
-413937973588000800,Fri Dec 20 07:44:38 +0000 2013,@lmeyerov @seldo (We should make that more clear on the global page...)
 413937973588000800,Fri Dec 20 07:44:38 +0000 2013,@lmeyerov @seldo (We should make that more clear on the global page...)
 413937679273717760,Fri Dec 20 07:43:27 +0000 2013,@lmeyerov @seldo You can accept payments from anywhere: https://t.co/HhiEKG97nx. (You need to be in those countries to accept payments.)
 408746205900853250,Thu Dec 05 23:54:24 +0000 2013,@starsandrobots @collision @stripe (This was an internal demo of CTF3. It's gonna be big.)
@@ -2798,7 +2790,6 @@ id,created_at,text
 202184450535211000,Mon May 14 23:51:44 +0000 2012,@collision @mattknox @antifuchs woah when did @patrickc stop being a lisper? Or is he just not sufficiently in your life?
 202072644827353100,Mon May 14 16:27:27 +0000 2012,Startups Are Hard: https://t.co/Lt1RaJnz (blog post of the week)
 201915125853208580,Mon May 14 06:01:32 +0000 2012,@DelyanRaychev I had it for 3 days. Realized all I want in a phone is good calling &amp; email. No phone has good calling, and email on droid++.
-201915125853208580,Mon May 14 06:01:32 +0000 2012,@DelyanRaychev I had it for 3 days. Realized all I want in a phone is good calling &amp; email. No phone has good calling, and email on droid++.
 201909780497965060,Mon May 14 05:40:17 +0000 2012,Bought an iPad today. Let's see if it lasts longer than the iPhone did...
 201870179330834430,Mon May 14 03:02:55 +0000 2012,Imagine a world with no readline.
 201870100729573380,Mon May 14 03:02:37 +0000 2012,@bpopov Ah cool, good to know.
@@ -3197,7 +3188,6 @@ id,created_at,text
 107160495865331710,Fri Aug 26 18:40:27 +0000 2011,@sidd s/united//. As much fun as it is standing in line for security for an hour...
 106777822726590460,Thu Aug 25 17:19:51 +0000 2011,@boucher I'm a fan of LDAP's goals, but I hate the actual protocol. The tools built around it are pretty unpleasant as well.
 106760433142210560,Thu Aug 25 16:10:45 +0000 2011,I hate how the great security struggle of the day is preventing people from rooting their own hardware.
-106463127763304450,Wed Aug 24 20:29:22 +0000 2011,@ebroder @ezyang Or Pinocchio's...
 106463127763304450,Wed Aug 24 20:29:22 +0000 2011,@ebroder @ezyang Or Pinocchio's...
 106462234884050940,Wed Aug 24 20:25:49 +0000 2011,@ezyang It's not the same when you have to buy it yourself though.
 106461283263582200,Wed Aug 24 20:22:02 +0000 2011,@ezyang (The pizza that is :).)

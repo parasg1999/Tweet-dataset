@@ -398,7 +398,6 @@ id,created_at,text
 1157713922146951200,Sat Aug 03 18:04:42 +0000 2019,@darryl_young @thekitze Hey Darryl 👋 I'd love to learn more about what exactly put you off! Did you experience any… https://t.co/2NewV6gJoY
 1157657947792695300,Sat Aug 03 14:22:17 +0000 2019,RT @schickling: @thekitze We're still 100% committed to letting developers build GraphQL servers without being a database expert. We're wor…
 1156853902874226700,Thu Aug 01 09:07:18 +0000 2019, starts teaching GraphQL to their engineers 😮 https://t.co/jODCvZjWDm
-1156853902874226700,Thu Aug 01 09:07:18 +0000 2019, starts teaching GraphQL to their engineers 😮 https://t.co/jODCvZjWDm
 1156557833103712300,Wed Jul 31 13:30:49 +0000 2019,RT @tazsingh: Tools like this make you just want to write more code in it.  Tools like this make it easy for you to write *the right* code.…
 1156557553880510500,Wed Jul 31 13:29:43 +0000 2019,RT @tazsingh: In GraphQL server news, I remain *extremely* impressed with the DX of everything released by @prisma. Last night I set up Nex…
 1156478638998655000,Wed Jul 31 08:16:08 +0000 2019,@ThisIsMissEm @ryanflorence 👀 https://t.co/1o2Z5yPQ32
@@ -596,7 +595,6 @@ id,created_at,text
 1129428256883662800,Fri May 17 16:47:34 +0000 2019,RT @jnwng: super stoked to speak @thegraphqlconf again this year, but more importantly stoked to hear and learn from all the other speakers…
 1129379143634829300,Fri May 17 13:32:25 +0000 2019,RT @prisma: ✨ CodeSandbox is the best online code editor! Learn how to use the library-version of Prisma (without a server) from @NikkitaFT…
 1129098371434799100,Thu May 16 18:56:44 +0000 2019,RT @_marktani: Watching the videos from @graphqlasia and my excitement for @thegraphqlconf inspired me to write this article!  If you're ar…
-1129022964761018400,Thu May 16 13:57:05 +0000 2019,RT @prisma: 🙌 All ready for GraphQL Conf? It's June 20th &amp; 21st in Berlin!  🚀 @nikolasburk will speak about the Yoga framework 🧘‍♀️and buil…
 1129022964761018400,Thu May 16 13:57:05 +0000 2019,RT @prisma: 🙌 All ready for GraphQL Conf? It's June 20th &amp; 21st in Berlin!  🚀 @nikolasburk will speak about the Yoga framework 🧘‍♀️and buil…
 1128959333205717000,Thu May 16 09:44:14 +0000 2019,RT @cmcaboy: @nikolasburk @prisma Thank you for the shout out! This is an amazing framework. The Nexus developer experience is top notch.
 1128949459973476400,Thu May 16 09:05:00 +0000 2019,Really nice tutorial on GraphQL Nexus and @prisma by @cmcaboy 👏 Highly recommend watching it if you want to learn m… https://t.co/Lg2owceRMt
@@ -796,7 +794,6 @@ id,created_at,text
 1100004784843747300,Mon Feb 25 12:09:12 +0000 2019,RT @soleio: @kelsey_ah Reminds me of this great @claychristensen quote via @jasonfried: https://t.co/9MPJZ1BnAy
 1099952910878806000,Mon Feb 25 08:43:04 +0000 2019,@francisrod01 @prisma Hey @francisrod01 👋 I assume with "native" ORM, you're referring to ORMs that are used as a l… https://t.co/4iw9Y6olrY
 1099951275544903700,Mon Feb 25 08:36:34 +0000 2019,RT @kelsey_ah: ~ productivity hack ~  When I can't figure something out, I start writing an ask for help (email, tweet, text to someone)  9…
-1099950503658750000,Mon Feb 25 08:33:30 +0000 2019,@kelsey_ah This is exactly what I was trying to express here: https://t.co/dSksORRcTw Asking good questions is real… https://t.co/0xc9vRkmrZ
 1099950503658750000,Mon Feb 25 08:33:30 +0000 2019,@kelsey_ah This is exactly what I was trying to express here: https://t.co/dSksORRcTw Asking good questions is real… https://t.co/0xc9vRkmrZ
 1099745702907916300,Sun Feb 24 18:59:42 +0000 2019,@mwarger I'd also recommend you to check out GraphQL Nexus, a code-first GraphQL library for JavaScript and TypeScr… https://t.co/4924nzSsOz
 1099745331485556700,Sun Feb 24 18:58:13 +0000 2019,@mwarger This is indeed a super interesting area! We've recently published a blog post series about this topic on t… https://t.co/Tk3CcSipw4
@@ -1196,7 +1193,6 @@ id,created_at,text
 1007978369391226900,Sat Jun 16 13:29:05 +0000 2018,RT @lanwin: The best thing at @graphqleu was the 20min Talk format. I liked it a lot better then the classic long talks and also the focus…
 1007912451634065400,Sat Jun 16 09:07:09 +0000 2018,RT @jnwng: So happy to have had the opportunity to speak @graphqleu - learned a ton to take back to @CourseraEng, caught up with many famil…
 1007623437588795400,Fri Jun 15 13:58:42 +0000 2018,RT @graphqleu: 🔨 A new GraphQL extension for @code just got announced by @jnwng in his talk at GraphQL Europe! Read more details about it o…
-1007623437588795400,Fri Jun 15 13:58:42 +0000 2018,RT @graphqleu: 🔨 A new GraphQL extension for @code just got announced by @jnwng in his talk at GraphQL Europe! Read more details about it o…
 1007623226925764600,Fri Jun 15 13:57:52 +0000 2018,RT @prisma: Introducing GraphQL for Visual Studio Code  ✅ Intelligent autocompletion ✅ Jump-to-definition from anywhere ✅ Schema-based quer…
 1007397289684545500,Thu Jun 14 23:00:05 +0000 2018,RT @notrab: Fantastic evening in the @prisma office. What a great community. There’s going to be exciting things happening tomorrow that’s…
 1007254050180657200,Thu Jun 14 13:30:54 +0000 2018,GraphQL Europe &amp; Chill 😏🍿  👉 https://t.co/b2hQXuneuQ https://t.co/ph3yS0x1tE
@@ -1594,7 +1590,6 @@ id,created_at,text
 933994714403090400,Fri Nov 24 09:44:27 +0000 2017,RT @nikita_sinhal: Currently wrangling with #graphql. Thanks to https://t.co/BcNvnrH4Cd for giving me that aha! moment on how it works with…
 933442800359739400,Wed Nov 22 21:11:20 +0000 2017,RT @rwenderlich: Learn what https://t.co/Yfu6KOOAN8 is like behind the scenes in this great @_SwiftCoders podcast episode with our Associat…
 933359646219305000,Wed Nov 22 15:40:55 +0000 2017,RT @jlengstorf: A GraphQL feature I've been missing just landed thanks to the @graphcool team. Schema imports!  # import User from "name.gr…
-932895622050525200,Tue Nov 21 08:57:03 +0000 2017,RT @graphqlweekly: 💡GraphQL Server Basics 👩‍🏫 Apollo Client 2.0 by @peggyrayzis 🎓Angular &amp; Apollo tutorial on https://t.co/qRjJfJcCAQ by @b…
 932895622050525200,Tue Nov 21 08:57:03 +0000 2017,RT @graphqlweekly: 💡GraphQL Server Basics 👩‍🏫 Apollo Client 2.0 by @peggyrayzis 🎓Angular &amp; Apollo tutorial on https://t.co/qRjJfJcCAQ by @b…
 931546581974777900,Fri Nov 17 15:36:27 +0000 2017,🙌 Just arrived at @freiheit_com, really excited to give this Friday’s Hackertalk about #GraphQL 👨‍🏫
 930918249029603300,Wed Nov 15 21:59:40 +0000 2017,RT @htmlandbacon: "Typical @GraphQL API"  @notrab at @SunderlandDigi 👌 https://t.co/8qbk3dWHUG
@@ -2390,7 +2385,6 @@ id,created_at,text
 459705311428112400,Fri Apr 25 14:47:41 +0000 2014,you know you're on #eclipse when internal errors occur while showing internal errors #Android i prefer #xcode http://t.co/boZNGavCfV
 459597266614243300,Fri Apr 25 07:38:21 +0000 2014,RT @thsaueressig: The flow of value: An interview with Michael Spence http://t.co/qXc7LVVBBH via @sharethis &gt; good read about global econom…
 459362746971484160,Thu Apr 24 16:06:28 +0000 2014,RT @casademora: Writing apps is easy, creating products from apps is the hard part…
-459362746971484160,Thu Apr 24 16:06:28 +0000 2014,RT @casademora: Writing apps is easy, creating products from apps is the hard part…
 459346887028797440,Thu Apr 24 15:03:26 +0000 2014,RT @Cameramanager: Launch of #babylive at @rijnstate. The parents of these little ones can watch them anywhere &amp; anytime from now on http:/…
 459346805751545860,Thu Apr 24 15:03:07 +0000 2014,RT @iamdevloper: If meetings were like Pokemon battles:  PM uses “burndown chart” * developer has fainted *
 459316787512111100,Thu Apr 24 13:03:50 +0000 2014,@gupta_james wow that's good news, thanks for the info!
@@ -2439,5 +2433,4 @@ id,created_at,text
 446712903966937100,Thu Mar 20 18:20:30 +0000 2014,@ios_dev_tips @bitwaker Awesome!Was just working on AL today forcing myself to apply it in a new project.Also helpful http://t.co/aDEp1l5TFv
 446710661264191500,Thu Mar 20 18:11:35 +0000 2014,Taking Android baby steps with @AukeZwaan
 446541099960901600,Thu Mar 20 06:57:49 +0000 2014,First @appsterdam event attended, great OpenStack lecture from @bongo! @appsterdam you will definitely see me around again!
-444729801996509200,Sat Mar 15 07:00:22 +0000 2014,Sind am Tatort. LOL
 444729801996509200,Sat Mar 15 07:00:22 +0000 2014,Sind am Tatort. LOL

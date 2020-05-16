@@ -399,7 +399,6 @@ id,created_at,text
 1125934948236628000,Wed May 08 01:26:25 +0000 2019,@SenhorRaposa Nope. Just an email address to sign up for notifications when it's done.
 1125934827461578800,Wed May 08 01:25:56 +0000 2019,Oh, and we haven't forgotten about primary elections, either. We've converted 2018 official precinct-results from 2… https://t.co/TI0h5mLPrN
 1125934088945393700,Wed May 08 01:23:00 +0000 2019,Another way to help us is to let us know what's useful, what isn't, and what you'd like to see from us.   We can't… https://t.co/rB7gEabo2s
-1125934088945393700,Wed May 08 01:23:00 +0000 2019,Another way to help us is to let us know what's useful, what isn't, and what you'd like to see from us.   We can't… https://t.co/rB7gEabo2s
 1125933941423259600,Wed May 08 01:22:25 +0000 2019,Here's one way you could really help: if you know your state's political geography well, we'd welcome a fresh set o… https://t.co/5EKqTzQI8i
 1125933722203766800,Wed May 08 01:21:32 +0000 2019,In New York we still have two counties to get results from &amp; we're working on the others. In Texas we're way ahead… https://t.co/VLxgYLJd2D
 1125933566506995700,Wed May 08 01:20:55 +0000 2019,Michigan usually produces machine-readable data but has not completed that task yet (the SOS has posted PDFs for ev… https://t.co/sFEkgOfUlh
@@ -798,7 +797,6 @@ id,created_at,text
 1069017977285152800,Sat Dec 01 23:58:41 +0000 2018,@PrdNewEnglander @TabulaPDF I would just focus on the data and arrange a results template: https://t.co/yxHWDeAABw
 1069014521581326300,Sat Dec 01 23:44:57 +0000 2018,@PrdNewEnglander @TabulaPDF Tabula allows you to draw multiple tables, and to define templates to reuse
 1069006569013162000,Sat Dec 01 23:13:21 +0000 2018,@JohnMifflin2 Yep, we won't do unofficial ones.
-1069006569013162000,Sat Dec 01 23:13:21 +0000 2018,@JohnMifflin2 Yep, we won't do unofficial ones.
 1069004281746006000,Sat Dec 01 23:04:16 +0000 2018,@PrdNewEnglander For Lawrence, I'd recommend using @TabulaPDF - it makes extracting tables from electronic PDFs sup… https://t.co/c3jEHvJ6dm
 1069002873311305700,Sat Dec 01 22:58:40 +0000 2018,In previous years we've purchased precinct-level election results from Pennsylvania. We're still going to do that t… https://t.co/INlunV7Raj
 1068993963724611600,Sat Dec 01 22:23:16 +0000 2018,@PrdNewEnglander Lawrence's is a PDF, so I'll need to dump that out to text first. Might require a bit more tweaking.
@@ -1195,7 +1193,6 @@ id,created_at,text
 1005263950408245200,Sat Jun 09 01:42:57 +0000 2018,All that said, if you'd like to help us out in converting election results into data, we'd love to hear from you: o… https://t.co/7ssMZQ0lBd
 1005260995869265900,Sat Jun 09 01:31:12 +0000 2018,We've always viewed our work as "plumbing" - the foundation for others to build useful things with - and that's wha… https://t.co/kl97u1cxJi
 1005260568654155800,Sat Jun 09 01:29:31 +0000 2018,You might sensibly ask: isn't this project kinda our competition?  Only in the sense that we're both working to get… https://t.co/zU4NT3fBPv
-1005257544615546900,Sat Jun 09 01:17:30 +0000 2018,RT @MITelectionlab: First: we now have full precinct coverage for the 2016 federal elections in all 50 states &amp; DC (though we're still mopp…
 1005257544615546900,Sat Jun 09 01:17:30 +0000 2018,RT @MITelectionlab: First: we now have full precinct coverage for the 2016 federal elections in all 50 states &amp; DC (though we're still mopp…
 1005218659558740000,Fri Jun 08 22:42:59 +0000 2018,We've converted Texas 2018 primary precinct results into CSV data for 72 counties: https://t.co/OSxOK2PJOY  #txlege
 1004700230556799000,Thu Jun 07 12:22:56 +0000 2018,Sometimes when we request precinct results from Texas counties, they will send us voter history files instead. Here… https://t.co/gGak6IxMXB
@@ -1596,7 +1593,6 @@ id,created_at,text
 913923582694215700,Sat Sep 30 00:28:56 +0000 2017,Want to see how our volunteers work? Check out the PDF parsing of NJ files by @xangregg using @TabulaPDF &amp; JMP: https://t.co/VLrYCRtg5c
 913889580167962600,Fri Sep 29 22:13:49 +0000 2017,Today we've posted the county "recap sheets" from Kentucky for the 2016 general election: https://t.co/SBGJjM7dCf
 913575038632284200,Fri Sep 29 01:23:57 +0000 2017,RT @xangregg: This dull-looking chart is great news! It means my Hudson Co, NJ @openelex PDF processed data all agree with reported totals.…
-913575038632284200,Fri Sep 29 01:23:57 +0000 2017,RT @xangregg: This dull-looking chart is great news! It means my Hudson Co, NJ @openelex PDF processed data all agree with reported totals.…
 913489086584901600,Thu Sep 28 19:42:24 +0000 2017,@cwarshaw @derekwillis In some cases. if we ask for precinct results, we try to ask for all races. So we have some… https://t.co/5AH7kXTaPF
 913444085410730000,Thu Sep 28 16:43:35 +0000 2017,Precinct-level election results from 2016 in Jeff Davis County, Texas: https://t.co/CrFnX2BFHv https://t.co/iaVtLZiB87
 913434543918633000,Thu Sep 28 16:05:40 +0000 2017,In terms of converting Texas precinct-level results to CSV files, we've completed 92 so far: https://t.co/1UANOqfuak
@@ -1996,7 +1992,6 @@ id,created_at,text
 854107178353008600,Mon Apr 17 22:59:54 +0000 2017,@IQuantNY Via email.
 854107122451304400,Mon Apr 17 22:59:41 +0000 2017,@KrukMatt @TanyasTwit @mikefarb1 @vidalexperience @LBoudica08 @ItsBW @AKraus59 @TrickFreee @Holly_not_Dolly… https://t.co/KRTEosOSFO
 854097756947984400,Mon Apr 17 22:22:28 +0000 2017,@IQuantNY From the city clerk, division of elections.
-854097756947984400,Mon Apr 17 22:22:28 +0000 2017,@IQuantNY From the city clerk, division of elections.
 854081002578337800,Mon Apr 17 21:15:53 +0000 2017,@IvanTheK It's a lookup table, not actual results.
 854077586850414600,Mon Apr 17 21:02:19 +0000 2017,@Patri_kos it's true; Excel can have a bad reputation.
 854069768147611600,Mon Apr 17 20:31:15 +0000 2017,We only need precinct-level results from 6 Miss. counties for the 2015 general election. Can you help?… https://t.co/rpN5IFjIAT
@@ -2395,7 +2390,6 @@ id,created_at,text
 750711488663388200,Wed Jul 06 15:22:21 +0000 2016,Hey, polisci folks: if you collect election results (or want to), please read this &amp; get in touch: https://t.co/cnCpyfKXs6
 749722897237811200,Sun Jul 03 21:54:02 +0000 2016,We've posted county-level results for FL presidential primary from March: https://t.co/31FGO4JgsU https://t.co/86nmiTidhn
 749354150647988200,Sat Jul 02 21:28:46 +0000 2016,Did we mention it is an image PDF? https://t.co/n8gkxcs2RY
-749353965100339200,Sat Jul 02 21:28:02 +0000 2016,If you were going to design an election results report to defeat machine-readability, this would be a good contender https://t.co/f0N2UmUl7y
 749353965100339200,Sat Jul 02 21:28:02 +0000 2016,If you were going to design an election results report to defeat machine-readability, this would be a good contender https://t.co/f0N2UmUl7y
 749314489921732600,Sat Jul 02 18:51:10 +0000 2016,We now have precinct results for 25 of 36 Oregon counties for the 2016 primary: https://t.co/Ggyv3WWN65  #orpol
 748904836175958000,Fri Jul 01 15:43:21 +0000 2016,Be a contributor, like @hodgesmr! https://t.co/9EFQPktIYd
@@ -2996,7 +2990,6 @@ id,created_at,text
 598650106540367900,Thu May 14 00:44:42 +0000 2015,We've posted some more tasks for Oregon results: some of these aren't simple, but others are. Pitch in! https://t.co/gcGJmxDtnK
 598462508429680600,Wed May 13 12:19:15 +0000 2015,@billlaboon thank you, and happy to answer any questions.
 598445487822344200,Wed May 13 11:11:37 +0000 2015,@billlaboon any chance any of them like elections? http://t.co/Me2UChkt4q
-598445487822344200,Wed May 13 11:11:37 +0000 2015,@billlaboon any chance any of them like elections? http://t.co/Me2UChkt4q
 598439442567843800,Wed May 13 10:47:36 +0000 2015,@basantaepthapa In many cases, yes.
 597810410356617200,Mon May 11 17:08:03 +0000 2015,@johnmifflin2 here you go: https://t.co/jqM0tN9irD
 597793986523324400,Mon May 11 16:02:47 +0000 2015,We've added 2014 general election raw precinct results for Nevada: https://t.co/jqM0tN9irD
@@ -3202,5 +3195,4 @@ id,created_at,text
 478992503987658750,Tue Jun 17 20:08:06 +0000 2014,New interview w/ John Wack + Sarah Whitt of IEEE's elections data standards team. These 2 are doing amazing work! http://t.co/wMVlerIvmr
 477582835159560200,Fri Jun 13 22:46:35 +0000 2014,Miss. precinct results are amazing. This is from Washington Co. in 2012 Top number is Obama, followed by Romney. http://t.co/RqslPa6hNJ
 476472932391063550,Tue Jun 10 21:16:14 +0000 2014,RT @SaraSchnadt: here is our @openelex report from @TCampDC http://t.co/b6x2rRsUNq
-475288661379280900,Sat Jun 07 14:50:21 +0000 2014,RT @waldojaquith: An explanation of the state of my project of turning Virginia’s closed corporation records into open data. http://t.co/B3…
 475288661379280900,Sat Jun 07 14:50:21 +0000 2014,RT @waldojaquith: An explanation of the state of my project of turning Virginia’s closed corporation records into open data. http://t.co/B3…

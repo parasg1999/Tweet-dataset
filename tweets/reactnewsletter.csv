@@ -199,7 +199,6 @@ id,created_at,text
 979773513144983600,Fri Mar 30 17:33:03 +0000 2018,What's New in React 16.3.0?  https://t.co/J88AeVm7pO https://t.co/2s0SuEDVtN
 979456732471660500,Thu Mar 29 20:34:17 +0000 2018,Just released: React v16.3 https://t.co/lcBAd1PRsZ
 979411131549798400,Thu Mar 29 17:33:04 +0000 2018,ICYMI: "Update on Async Rendering" from the official React blog https://t.co/YwYiJ1PV7A https://t.co/rq3o6tHu9a
-979411131549798400,Thu Mar 29 17:33:04 +0000 2018,ICYMI: "Update on Async Rendering" from the official React blog https://t.co/YwYiJ1PV7A https://t.co/rq3o6tHu9a
 979076294326521900,Wed Mar 28 19:22:33 +0000 2018,React meetup and conference recordings from Q4 2017 - https://t.co/EbbFte5Wwh https://t.co/zAcsCzeMpN
 978323958314553300,Mon Mar 26 17:33:02 +0000 2018,“React Velocity is a web application that allows you to visualize your React project's component hierarchy before e… https://t.co/BKPqG0zl0u
 977961565784821800,Sun Mar 25 17:33:01 +0000 2018,Hooking Up Firebase to Your Redux Store –  https://t.co/RGofI0jGP4 https://t.co/2C4ep40uuX
@@ -397,7 +396,6 @@ id,created_at,text
 807654365146345500,Sat Dec 10 18:33:00 +0000 2016,How to Render Components Outside the Main ReactJS App https://t.co/xYpMEiG0gw
 806929577650098200,Thu Dec 08 18:32:57 +0000 2016,“Testing React components with Jest and Enzyme” https://t.co/rEdiI1OPzF
 804755285021753300,Fri Dec 02 18:33:06 +0000 2016,Should you store your form state in Redux? https://t.co/ftWBPMkxY8 https://t.co/yYzESVsGsB
-804392883046535200,Thu Dec 01 18:33:02 +0000 2016,Shipping Flowtype Definitions in NPM Packages – https://t.co/afiaYPvdss
 804392883046535200,Thu Dec 01 18:33:02 +0000 2016,Shipping Flowtype Definitions in NPM Packages – https://t.co/afiaYPvdss
 804030505746366500,Wed Nov 30 18:33:05 +0000 2016,Why Redux Need Reducers To Be “Pure Functions” –  https://t.co/OgB6BJVzBA https://t.co/6gTYnfiCdp
 803668120439291900,Tue Nov 29 18:33:06 +0000 2016,A Practical Guide to Redux https://t.co/0f6Jy4WkAx
@@ -797,7 +795,6 @@ id,created_at,text
 601145692761952300,Wed May 20 22:01:16 +0000 2015,"JSX Looks Like An Abomination, but it’s Good for You" - @_ericelliott https://t.co/ALUxANSzgI
 600698392436576300,Tue May 19 16:23:51 +0000 2015,"One Concern, One File." via @intelligibabble - http://t.co/2WAipka7AX
 599454105677860900,Sat May 16 05:59:30 +0000 2015,"How I learned to stop worrying and love React" - http://t.co/UjJUO0Ie9j
-599269250142867500,Fri May 15 17:44:57 +0000 2015,RT @tylermcginnis33: Excited to be attending @ReactEurope next month. I'll be taking @reactnewsletter with me so if you can't make it, don'…
 599269250142867500,Fri May 15 17:44:57 +0000 2015,RT @tylermcginnis33: Excited to be attending @ReactEurope next month. I'll be taking @reactnewsletter with me so if you can't make it, don'…
 598341595541282800,Wed May 13 04:18:47 +0000 2015,RT @hacker_adi: Hands down, the best explanation of React.js concepts: http://t.co/zPxrDeCxYy via @tylermcginnis33
 596398257988735000,Thu May 07 19:36:39 +0000 2015,"Best practices for building large React applications" http://t.co/uOpBrngSie

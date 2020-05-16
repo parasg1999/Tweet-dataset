@@ -399,7 +399,6 @@ id,created_at,text
 1193954798187401200,Mon Nov 11 18:13:01 +0000 2019,This Keynote is dedicated to celebrating diversity in the web ecosystem. 🎊  Tune in now to hear from @anilfromoz,… https://t.co/C0R81jThTD
 1193952733419602000,Mon Nov 11 18:04:48 +0000 2019,SOMETHING                  AWESOME                                 THIS                                         WAY… https://t.co/vKVzGfl3zy
 1193943859870351400,Mon Nov 11 17:29:33 +0000 2019,🔴#ChromeDevSummit 2019 is [LIVE] now!  Join the party to hear from Chrome engineers and leading web developers for… https://t.co/tpiN4NbLGB
-1193943859870351400,Mon Nov 11 17:29:33 +0000 2019,🔴#ChromeDevSummit 2019 is [LIVE] now!  Join the party to hear from Chrome engineers and leading web developers for… https://t.co/tpiN4NbLGB
 1193943010637037600,Mon Nov 11 17:26:10 +0000 2019,Pssst. Hey you! Wanna come backstage? 🎟️  Follow @googledevs on Instagram for exclusive behind-the-scenes coverage… https://t.co/lcg04DiO4Z
 1193918512865017900,Mon Nov 11 15:48:50 +0000 2019,RT @v8js: JavaScript gains first-class support for global substring replacement! 🔥   @mathias explains the new String.prototype.replaceAll…
 1193685950917791700,Mon Nov 11 00:24:42 +0000 2019,🎈#ChromeDevSummit is going down tomorrow in San Francisco, CA!  Tune in to hear from speakers like @paul_irish and… https://t.co/pYy2KnPHyJ
@@ -599,7 +598,6 @@ id,created_at,text
 1146067605222039600,Tue Jul 02 14:46:24 +0000 2019,RT @mathias: 🔥 Array.prototype.sort is now stable in Chrome, Firefox, Safari, and Node.js!  https://t.co/wiWbBOmJ7J https://t.co/ufOvUMgzz4
 1145778512663650300,Mon Jul 01 19:37:39 +0000 2019,RT @igrigorik: robots.txt was penned 25 years ago, is now used by 500M+ sites, and — finally — has an IETF spec: https://t.co/JjJRVPXPts 🎉…
 1144497904222007300,Fri Jun 28 06:48:58 +0000 2019,RT @ChromiumDev: 🌒 Dark Mode—Overhyped or Necessity?  Learn all(!) about dark mode and how to support it in @tomayac’s article “Hello Darkn…
-1144497904222007300,Fri Jun 28 06:48:58 +0000 2019,RT @ChromiumDev: 🌒 Dark Mode—Overhyped or Necessity?  Learn all(!) about dark mode and how to support it in @tomayac’s article “Hello Darkn…
 1144282773160681500,Thu Jun 27 16:34:07 +0000 2019,📺 Next week on The State of the Web, @felipehoffa and @rick_viscomi chat about using BigQuery to answer "BigQuestio… https://t.co/0oQKYZD8WH
 1144258272268116000,Thu Jun 27 14:56:46 +0000 2019,🌒 Dark Mode—Overhyped or Necessity?  Learn all(!) about dark mode and how to support it in @tomayac’s article “Hell… https://t.co/kj9kGHvNuI
 1143817026156277800,Wed Jun 26 09:43:24 +0000 2019,@vusydung1 Yes?
@@ -798,7 +796,6 @@ id,created_at,text
 1115315645028155400,Mon Apr 08 18:09:05 +0000 2019,@the_esocchi this information is really old! you would want to follow ServiceWorker API instead.   https://t.co/bLJC1kgUHS
 1115252434258075600,Mon Apr 08 13:57:55 +0000 2019,RT @Paul_Kinlan: Wrote up some notes on the Android Logcat interface I built with Web USB and webadb.js so that I can debug KaiOS from the…
 1115220407982940200,Mon Apr 08 11:50:39 +0000 2019,@TarasNovak @YouTube If you use https://t.co/RlzegEWTil (or double right-click) yes, it not, this is their "mini player" feature.
-1115216611428974600,Mon Apr 08 11:35:34 +0000 2019,@TarasNovak User has to interact with the page first to be able to enter PiP. See https://t.co/P0koSHKoO5  Hopefully this will help.  ^fr
 1115216611428974600,Mon Apr 08 11:35:34 +0000 2019,@TarasNovak User has to interact with the page first to be able to enter PiP. See https://t.co/P0koSHKoO5  Hopefully this will help.  ^fr
 1115193410959347700,Mon Apr 08 10:03:23 +0000 2019,@wapiflapi Regarding security, 1. User can't input anything in the PiP window.  2. The only interacble piece is the… https://t.co/lEagpaBxfL
 1115191747209060400,Mon Apr 08 09:56:46 +0000 2019,@boleroo Indeed! Check out https://t.co/vqPc0LoKDD ^fr
@@ -1599,7 +1596,6 @@ id,created_at,text
 1007807225799348200,Sat Jun 16 02:09:01 +0000 2018,RT @estark37: another cool thing on Canary this week: the omnibox has gotten smarter about remembering sites that redirected you to https,…
 1007728477548752900,Fri Jun 15 20:56:06 +0000 2018,Augmented Reality with WebXR, now available in Chrome Canary: nothin' but web.  How we built it:… https://t.co/6uDnAKQo2R
 1007727588511543300,Fri Jun 15 20:52:34 +0000 2018,Try out Augmented Reality in Chrome Canary on ARCore-capable Android: flip on chrome://flags #webxr and #webxr-hit-… https://t.co/iXfNzofPUe
-1007727588511543300,Fri Jun 15 20:52:34 +0000 2018,Try out Augmented Reality in Chrome Canary on ARCore-capable Android: flip on chrome://flags #webxr and #webxr-hit-… https://t.co/iXfNzofPUe
 1007657998095970300,Fri Jun 15 16:16:02 +0000 2018,RT @mathias: What do @v8js and other JS engines have in common? How do they optimize `https://t.co/NWPZrYsV5d`? How about `array[42]`?  Thi…
 1007647362779701200,Fri Jun 15 15:33:47 +0000 2018,Wanna know which ideas were discussed and which proposal made it to ECMAScript spec at TC39 meeting? May meeting no… https://t.co/fntwaJHVD8
 1007645863311740900,Fri Jun 15 15:27:49 +0000 2018,Speaking of shows, "The Standard" with @samthor will be back 🔙 for brand new season✨ with brand new set🌈  Can't wai… https://t.co/ihCM9BEu0c
@@ -2199,7 +2195,6 @@ id,created_at,text
 955485225789800400,Mon Jan 22 17:00:04 +0000 2018,⚡️Supercharged is now building a PWA with WordPress!   Watch @DasSurma’s new series CommitLog →… https://t.co/g3tEb5rq1S
 955442142868070400,Mon Jan 22 14:08:52 +0000 2018,@wildbillch @googlechrome It’s becoming a thing! &lt;img&gt; is getting an `async` tag. The problem why we can’t just do… https://t.co/SwUn4NAQRn
 955412164667498500,Mon Jan 22 12:09:45 +0000 2018,@JoshSouthwell @googlechrome @DasSurma I’m not sure many fixes are deployed on a Sunday. So let’s wait for the US t… https://t.co/9pQZKQjXTx
-955412164667498500,Mon Jan 22 12:09:45 +0000 2018,@JoshSouthwell @googlechrome @DasSurma I’m not sure many fixes are deployed on a Sunday. So let’s wait for the US t… https://t.co/9pQZKQjXTx
 955406341711032300,Mon Jan 22 11:46:37 +0000 2018,@JoshSouthwell @googlechrome Canary is our nightly release. Sometimes it’s just broken. Sorry about that. If the is… https://t.co/krdo2kT22e
 955086447719211000,Sun Jan 21 14:35:28 +0000 2018,@BhuwanBhasker @ChromeDevTools @googlechrome No, your server must be misconfigured. If you open the network panel o… https://t.co/qJHc78EB0b
 955085943010136000,Sun Jan 21 14:33:28 +0000 2018,@TylerZey Because WebP tends to be significantly smaller. With &lt;picture&gt;, you can provide both WebP and JPG/PNG and… https://t.co/X7wLBolPIC
@@ -2798,7 +2793,6 @@ id,created_at,text
 907099567715262500,Mon Sep 11 04:32:44 +0000 2017,Hi Asia friends👋 PWA Roadshow is hitting the road again✨ This week in Indonesia🇮🇩 Got any question about PWA? Ask us in reply to this tweet💪
 907098293255028700,Mon Sep 11 04:27:40 +0000 2017,Did you know @___lighthouse is now inside of Chrome DevTools? Check out Audit panel to see score of your web app 💯 https://t.co/EC8IrXGH0V
 906318711044300800,Sat Sep 09 00:49:53 +0000 2017,RT @AMPhtml: AMP Roadshow registration links are up for 🇸🇬 Singapore (Oct 6), 💂 London (Nov 16) and 🥘 Madrid (Nov 14). Join us! https://t.c…
-906318711044300800,Sat Sep 09 00:49:53 +0000 2017,RT @AMPhtml: AMP Roadshow registration links are up for 🇸🇬 Singapore (Oct 6), 💂 London (Nov 16) and 🥘 Madrid (Nov 14). Join us! https://t.c…
 906210090331418600,Fri Sep 08 17:38:16 +0000 2017,RT @addyosmani: Using Lighthouse in @ChromeDevTools, continuous integration &amp; with real phones on WebPageTest: https://t.co/S4ZV2DJOTN new…
 906194902454648800,Fri Sep 08 16:37:55 +0000 2017,RT @workboxjs: Congrats to @Starbucks for releasing a preview of their Progressive Web App! It uses Workbox for runtime caching https://t.c…
 906156233744203800,Fri Sep 08 14:04:16 +0000 2017,⭐️ The team building Workbox.js started new twitter account 👉 @workboxjs  Follow for updates like these💯 https://t.co/GS02XUxQyc
@@ -2997,7 +2991,6 @@ id,created_at,text
 892807857711833100,Wed Aug 02 18:02:35 +0000 2017,RT @gauntface: In 10 mins the #workbox team will be discussing plans for the library on the chromiumdev slack channel.  https://t.co/OXzmwj…
 892804046700064800,Wed Aug 02 17:47:26 +0000 2017,RT @rob_dodson: Just published a post on Accessibility for Teams. Everyone has a role to play!  https://t.co/oamz3inoFE
 892777076742385700,Wed Aug 02 16:00:16 +0000 2017,Can coding be creative? @kosamari  talks to @Mustafa_x  in #DesVDev about her experience with 'creative code'.… https://t.co/l2ZflslJS2
-892770719448289300,Wed Aug 02 15:35:01 +0000 2017,📢 Save the date! 📢   Chrome Dev Summit 2017 will be October 23rd and 24th at Yerba Buena Centre for the Arts in SF.  More info soon ⚡️
 892770719448289300,Wed Aug 02 15:35:01 +0000 2017,📢 Save the date! 📢   Chrome Dev Summit 2017 will be October 23rd and 24th at Yerba Buena Centre for the Arts in SF.  More info soon ⚡️
 892735643452932100,Wed Aug 02 13:15:38 +0000 2017,RT @agektmr: Interested in Payment Request API? Try a codelab: https://t.co/aaXcCKi6DO
 892685754949922800,Wed Aug 02 09:57:23 +0000 2017,RT @Paul_Kinlan: Ever wanted TweetDeck for https://t.co/8xelFn1M5o? no? tough, here it is https://t.co/w1XUKqUpCD

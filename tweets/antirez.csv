@@ -599,7 +599,6 @@ id,created_at,text
 1176466098809704400,Tue Sep 24 11:59:10 +0000 2019,Popular open source projects receiving few contributions are, very often, not well coded, too complex for what they… https://t.co/a3zrSyRJUC
 1176168269281157000,Mon Sep 23 16:15:42 +0000 2019,@jdsully3 It's a different story, Redis is for me an artifact more similar to a piece of art, so I don't do complet… https://t.co/tXW0LV6KaK
 1176088020107374600,Mon Sep 23 10:56:49 +0000 2019,From HN: "We should accept that most famous CTOs, engineers [...] are not geniuses (also, they're often corrupted b… https://t.co/HrehvRivwd
-1176088020107374600,Mon Sep 23 10:56:49 +0000 2019,From HN: "We should accept that most famous CTOs, engineers [...] are not geniuses (also, they're often corrupted b… https://t.co/HrehvRivwd
 1174071335875747800,Tue Sep 17 21:23:14 +0000 2019,@ricardclau @albertobernalc @rgarridocamps Moreover I have two pixels (one my wife and one mine), the wife pixel 2X… https://t.co/lkQ9ZwmEP2
 1174070887374606300,Tue Sep 17 21:21:27 +0000 2019,@ricardclau @albertobernalc @rgarridocamps 9 years ago it was totally worth it IMHO. I hope you'll enjoy your pixel… https://t.co/39p9q3phwj
 1174005002689556500,Tue Sep 17 16:59:39 +0000 2019,Implementing RESP3 in the old good Lua debugger. Those are the small but time consuming tasks nobody plans when doi… https://t.co/eZANsKoTe5
@@ -1399,7 +1398,6 @@ id,created_at,text
 1092472293731778600,Mon Feb 04 17:17:46 +0000 2019,@codemonkeyism To deny the evidence is not a good idea indeed. IMHO the solution is governments to start planning t… https://t.co/KzxhcBADqf
 1092456353065566200,Mon Feb 04 16:14:26 +0000 2019,@ejsmith @artiks Not at this extend, usual Cluster limits, but certain things should be done, like MGET should fan-… https://t.co/zRLImRlQvI
 1092454076498038800,Mon Feb 04 16:05:23 +0000 2019,@ejsmith @artiks To be honest also more work on our side from the POV of client implementations could also help, ha… https://t.co/OyR07LxQfa
-1092454076498038800,Mon Feb 04 16:05:23 +0000 2019,@ejsmith @artiks To be honest also more work on our side from the POV of client implementations could also help, ha… https://t.co/OyR07LxQfa
 1092453819584335900,Mon Feb 04 16:04:22 +0000 2019,@ejsmith @artiks What we hope is that having a good proxy part of the Redis project may mitigate a lot the problem… https://t.co/xCSWnDmo6E
 1092453600595460100,Mon Feb 04 16:03:29 +0000 2019,@ejsmith @artiks Thanks for the trust Eric! Not that I'm right, it's just that unfortunately those designs are full… https://t.co/TKiYwf8hmA
 1092450710296309800,Mon Feb 04 15:52:00 +0000 2019,@ejsmith @artiks Design is indeed not absolute and a personal matter. However other Redis clustering (private) envi… https://t.co/oMAg0oSxlo
@@ -1599,7 +1597,6 @@ id,created_at,text
 1079099792263970800,Sat Dec 29 19:40:13 +0000 2018,@Nick_Craver Hahaha saw the second tweet too late.
 1079099691709673500,Sat Dec 29 19:39:49 +0000 2018,@Nick_Craver The green bordered tag explaining to plug it on the socket is the best.
 1079055927897219100,Sat Dec 29 16:45:55 +0000 2018,This is very important and goes over the ex partner. In general the random asshole you casually stumbled upon from… https://t.co/J83q8igDIA
-1079055927897219100,Sat Dec 29 16:45:55 +0000 2018,This is very important and goes over the ex partner. In general the random asshole you casually stumbled upon from… https://t.co/J83q8igDIA
 1079045667530702800,Sat Dec 29 16:05:09 +0000 2018,@artem_zin Thanks for sharing. Would love to learn more about the remaining step.
 1078335557489569800,Thu Dec 27 17:03:26 +0000 2018,@willyhakim Thanks and have a wonderful 2019!
 1077966137969832000,Wed Dec 26 16:35:29 +0000 2018,RT @veltman: key to getting in shape faster is joining a gym you can't exit https://t.co/cSZGbzpfKa
@@ -1798,7 +1795,6 @@ id,created_at,text
 1061216961823154200,Sat Nov 10 11:20:14 +0000 2018,@marcgravell @onyxraven Yep, I working on a new spec trying to solve all those issues. Probably HELLO should have A… https://t.co/Wn7dxXNgvU
 1060938117660770300,Fri Nov 09 16:52:13 +0000 2018,@onyxraven @marcgravell Actually we must find a way for it to work even for Redis 7 even if it will have no effects… https://t.co/JXqtw08Chp
 1060937612712656900,Fri Nov 09 16:50:12 +0000 2018,@onyxraven @marcgravell But only for Redis 6. From 7 default. Even if sending the handshake would work anyway hopef… https://t.co/qF9eHM55Yx
-1060937223326048300,Fri Nov 09 16:48:39 +0000 2018,@onyxraven @marcgravell Yes
 1060937223326048300,Fri Nov 09 16:48:39 +0000 2018,@onyxraven @marcgravell Yes
 1060931669069365200,Fri Nov 09 16:26:35 +0000 2018,@Nick_Craver @marcgravell Blog post updated. Btw I'm glad I posted this so that I received this perspective and ideas...
 1060931025960910800,Fri Nov 09 16:24:02 +0000 2018,@Nick_Craver @marcgravell Yep that's true. I could say that the idea of changing protocol on a per-connection basis… https://t.co/uolUFupPfI
@@ -2399,7 +2395,6 @@ id,created_at,text
 1034062283448746000,Mon Aug 27 12:57:14 +0000 2018,RT @travis_robert: I think Americans conceptualize going to non-car-dependent cities like going to the zoo or an amusement park. They enjoy…
 1034056385607163900,Mon Aug 27 12:33:48 +0000 2018,@evilsocket @bettercap Vanilla JavaScript...
 1034001247030992900,Mon Aug 27 08:54:42 +0000 2018,@abrkn Alpha of the module work in progress. I stopped a few months ago to finish Redis 5, once it is GA I’ll resum… https://t.co/pZeI4FC4tV
-1034001247030992900,Mon Aug 27 08:54:42 +0000 2018,@abrkn Alpha of the module work in progress. I stopped a few months ago to finish Redis 5, once it is GA I’ll resum… https://t.co/pZeI4FC4tV
 1033998510981566500,Mon Aug 27 08:43:50 +0000 2018,RT @rndmcnlly: I'm visualizing what time of day my daughter was sleeping/napping during the first year of hear life. Future parents take no…
 1033490257294123000,Sat Aug 25 23:04:13 +0000 2018,@GnaneshKunal Sorry no good suggestions about books that are good and updated enough. Better to just read the doc…
 1033293593748889600,Sat Aug 25 10:02:45 +0000 2018,@codemonkeyism Thanks Stephan, sure, 99% of time that’s what I’ll do hopefully :-) However I liked the discussion t… https://t.co/Bd5YH2wE5h
@@ -2798,7 +2793,6 @@ id,created_at,text
 1003925343898689500,Tue Jun 05 09:03:48 +0000 2018,When I read Github is vital and its disappearing would be a disaster I'm like WTF, we live in a bubble or alike. We… https://t.co/J4h3JaXG3A
 1003924370471911400,Tue Jun 05 08:59:56 +0000 2018,@supercoco9 It’s probably an NP complete problem, and they use the infamous rand() algorithm.
 1003738746875994100,Mon Jun 04 20:42:20 +0000 2018,@_beatpanic Could you imagine that?! What a move! Windows 11 totally open source.
-1003738626398867500,Mon Jun 04 20:41:51 +0000 2018,@fallenhitokiri Yep, but kinda compressed those into server/cloud :-)
 1003738626398867500,Mon Jun 04 20:41:51 +0000 2018,@fallenhitokiri Yep, but kinda compressed those into server/cloud :-)
 1003734307918278700,Mon Jun 04 20:24:42 +0000 2018,Today there are three huge software divisions in the world: mobile, servers (call it cloud if you must), and deskto… https://t.co/l9uewY4gXa
 1003692882165948400,Mon Jun 04 17:40:05 +0000 2018,@el33th4xor https://t.co/LGMknP7f83
@@ -3199,7 +3193,6 @@ id,created_at,text
 991710294631206900,Wed May 02 16:05:33 +0000 2018,@kjaleshire OMG!!1111one checking immediately, thanks
 991670473774784500,Wed May 02 13:27:19 +0000 2018,@vboykis I actually commit it, as a generic version containing all the fields and their description. Then different… https://t.co/wnBiSQBmsS
 991666509050208300,Wed May 02 13:11:34 +0000 2018,@vboykis Include local.conf is my way
-991666509050208300,Wed May 02 13:11:34 +0000 2018,@vboykis Include local.conf is my way
 991630374068478000,Wed May 02 10:47:59 +0000 2018,@sklivvz @riffraff @sole24ore High frequency traders do machine learning a lot to forecast the short term. With the… https://t.co/tkDeXnk8cD
 991586163579289600,Wed May 02 07:52:18 +0000 2018,@xmal Asimov psychological equations ftw
 991585865175588900,Wed May 02 07:51:07 +0000 2018,I you do the exercise of following both the market and financial market experts for a few months, you realize they… https://t.co/jj9CZBjfkQ
@@ -3238,6 +3231,5 @@ id,created_at,text
 990057965754331100,Sat Apr 28 02:39:48 +0000 2018,@luca3m I like this observation...
 990057771486740500,Sat Apr 28 02:39:01 +0000 2018,@dormando Really! I'll send a draft here asap. I've the feeling the Redis protocol is going to be an overkill for m… https://t.co/ug8dz3Vxmp
 990056076513984500,Sat Apr 28 02:32:17 +0000 2018,@itamarhaber Awww! Enjoy and safe travel.
-990055838755668000,Sat Apr 28 02:31:20 +0000 2018,@lonbaker Yep it's a super cool city and they know it, and also know the average salaries figures.
 990055838755668000,Sat Apr 28 02:31:20 +0000 2018,@lonbaker Yep it's a super cool city and they know it, and also know the average salaries figures.
 990055557988937700,Sat Apr 28 02:30:14 +0000 2018,For dinner going to eat sushi at PABU, and I believe I'll have better luck there.

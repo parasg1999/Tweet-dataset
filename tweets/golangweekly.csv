@@ -799,7 +799,6 @@ id,created_at,text
 1111387073875865600,Thu Mar 28 21:58:21 +0000 2019,🆕 Issue 255 of Golang Weekly is out now: https://t.co/k9KiUgGnD8 https://t.co/8SaOIYEKjg
 1111386825329799200,Thu Mar 28 21:57:22 +0000 2019,RT @golang: 💫Check out our User Survey Results for 2018. Many thanks to all participants! https://t.co/OtlMYCuy8I
 1111319292560191500,Thu Mar 28 17:29:01 +0000 2019,Serverless Go APIs in 60 Seconds: https://t.co/pm9tJafUcH (A quick illustration of deploying Go apps as-is to a pro… https://t.co/kkW2Ha3QEJ
-1111319292560191500,Thu Mar 28 17:29:01 +0000 2019,Serverless Go APIs in 60 Seconds: https://t.co/pm9tJafUcH (A quick illustration of deploying Go apps as-is to a pro… https://t.co/kkW2Ha3QEJ
 1111288588552020000,Thu Mar 28 15:27:00 +0000 2019,Fixing Service Performance with PProf in Go: https://t.co/axzxxkxq9M
 1110956910793158700,Wed Mar 27 17:29:02 +0000 2019,RT @ServerlessDaily: Building a Useful Serverless Site From Scratch with Go: https://t.co/ZnHYh2nJmO
 1110717904176201700,Wed Mar 27 01:39:19 +0000 2019,RT @headfirstgo: Head First Go went to the printers TODAY! 🥳📘🎆🎉 Print copies should start appearing in retailers in about 3 weeks. Or you c…
@@ -1198,7 +1197,6 @@ id,created_at,text
 1043551503246676000,Sat Sep 22 17:24:01 +0000 2018,Error Handling and Where 'Go2' Gets It Wrong: https://t.co/gnr36lBlfl
 1043471975811821600,Sat Sep 22 12:08:00 +0000 2018,Record and Visualize Sound with Go: https://t.co/GX6NV6NBaE (The example uses Simple DirectMedia Layer to draw a so… https://t.co/TDUQdEWUKK
 1043259076635963400,Fri Sep 21 22:02:01 +0000 2018,Go vs. Python in Code Examples: https://t.co/fiZtqkE1Sc (It's pretty neat to be able to compare syntax side by side.)
-1043175270835003400,Fri Sep 21 16:29:00 +0000 2018,Tarsgo: A High Performance Microservice Framework - https://t.co/oqdLaUkGMl
 1043175270835003400,Fri Sep 21 16:29:00 +0000 2018,Tarsgo: A High Performance Microservice Framework - https://t.co/oqdLaUkGMl
 1043092727376879600,Fri Sep 21 11:01:00 +0000 2018,GORM: A 'Developer Friendly' ORM Library - https://t.co/MA2nBzXPyB
 1043071841353510900,Fri Sep 21 09:38:00 +0000 2018,ql: A Pure Go Embedded SQL Database - https://t.co/DdXB25cnqH
@@ -1599,7 +1597,6 @@ id,created_at,text
 989459371062186000,Thu Apr 26 11:01:11 +0000 2018,Where Did 'golint' Go? https://t.co/W5BSpBt7Yw (The golint package accidentally 'disappeared' for a bit this week.… https://t.co/n2t9Ih8iTT
 989438437899030500,Thu Apr 26 09:38:01 +0000 2018,How to Write Better Unit Tests in Go Using Mocks : https://t.co/pFYnD27qdt (Touting the laurels of the Pegomock mocking framework.)
 989312102023168000,Thu Apr 26 01:16:00 +0000 2018,run: A Universal Mechanism to Manage Goroutine Lifecycles - https://t.co/zYwjC5pTP7
-989312102023168000,Thu Apr 26 01:16:00 +0000 2018,run: A Universal Mechanism to Manage Goroutine Lifecycles - https://t.co/zYwjC5pTP7
 989293479808458800,Thu Apr 26 00:02:00 +0000 2018,Processing Data with Clojure and Go: https://t.co/COMvUJW04O (Comparisons of expressiveness and performance between the two languages.)
 989263283692687400,Wed Apr 25 22:02:01 +0000 2018,Muffet: A Fast, Recursive Website Link Checker - https://t.co/HHociMuXMc
 989232095926120400,Wed Apr 25 19:58:05 +0000 2018,Expreduce: An Experimental Computer Algebra System - https://t.co/EQ242yKTgd
@@ -1798,7 +1795,6 @@ id,created_at,text
 963960050548138000,Thu Feb 15 02:16:00 +0000 2018,An Interesting Pattern to Try for Go Tests: https://t.co/jxAthoww7c (A dissection of the tests in the `net/http/htt… https://t.co/ak7IMduf6g
 963941430434639900,Thu Feb 15 01:02:00 +0000 2018,Gonum: Numeric Libraries for Go - https://t.co/exnhbrmhhe (Covers matrices, statistics, optimization, etc.)
 963911266149519400,Wed Feb 14 23:02:09 +0000 2018,Debugging a Potential Deadlock with go-deadlock: https://t.co/VOXGkEJ40i
-963880033961103400,Wed Feb 14 20:58:02 +0000 2018,Continuously Deploying a Go Application Using Travis CI: https://t.co/OK27uoKIFZ
 963880033961103400,Wed Feb 14 20:58:02 +0000 2018,Continuously Deploying a Go Application Using Travis CI: https://t.co/OK27uoKIFZ
 963827426856927200,Wed Feb 14 17:29:00 +0000 2018,gqlgen: Quickly Create Strictly Typed GraphQL Servers in Go - https://t.co/kYvg0W5WQa
 963796749390401500,Wed Feb 14 15:27:06 +0000 2018,A Practical Example of using NGINX HTTP2 Server Push: https://t.co/cHUfFKrAg3 (NGINX just added support for HTTP2 '… https://t.co/xmCu0bGQbw
@@ -2398,7 +2394,6 @@ id,created_at,text
 888353169708916700,Fri Jul 21 11:01:15 +0000 2017,go-uuid: Wrapper for Linux's Builtin UUID V4 Generator - https://t.co/ak84J8uZfm
 888301546517270500,Fri Jul 21 07:36:07 +0000 2017,httpfake: A 'httptest' Wrapper for Easily Setting Up A Fake Server - https://t.co/C2G71cgbKR
 888187276827779100,Fri Jul 21 00:02:03 +0000 2017,Oak: A Pure Go Game Engine - https://t.co/C7hHdB5Zbs
-888157066740858900,Thu Jul 20 22:02:00 +0000 2017,GoReporter: Static Analysis, Testing, and Code Review Report Tool - https://t.co/Se4KrZvaIV
 888157066740858900,Thu Jul 20 22:02:00 +0000 2017,GoReporter: Static Analysis, Testing, and Code Review Report Tool - https://t.co/Se4KrZvaIV
 888125861068554200,Thu Jul 20 19:58:00 +0000 2017,etcdhcp: A DHCP Server Backed by etcd - https://t.co/QqPFpIsMuX
 888073119503716400,Thu Jul 20 16:28:25 +0000 2017,All this weeks news in #Golang can be found in our weekly newsletter; check your inbox, or find it online here:… https://t.co/tr2h6yytW8

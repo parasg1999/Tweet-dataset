@@ -398,7 +398,6 @@ id,created_at,text
 1242201710627561500,Mon Mar 23 21:29:01 +0000 2020,RT @bwplotka: Reminder:📢 #PromCon2020 Call for Proposal ends this week 23:59 UTC. Submit your @PrometheusIO / @ThanosMetrics / @cortexmetri…
 1242201692092936200,Mon Mar 23 21:28:57 +0000 2020,RT @AlexLundberg9: #linkerd #servicemesh #kubernetes Learn about CommonBond's journey to using Linkerd in production. https://t.co/t0xCBfFM…
 1242196805531697200,Mon Mar 23 21:09:31 +0000 2020,RT @tikvproject: 📢 Spread the word! Our first #TiKV #community meeting is scheduled on Mar. 25, 6pm PST. @CloudNativeFdn Save the calendar…
-1242196805531697200,Mon Mar 23 21:09:31 +0000 2020,RT @tikvproject: 📢 Spread the word! Our first #TiKV #community meeting is scheduled on Mar. 25, 6pm PST. @CloudNativeFdn Save the calendar…
 1242166369858322400,Mon Mar 23 19:08:35 +0000 2020,RT @mattfarina: v2.16.4 of @HelmPack is out. If you're still on Helm v2 we are still releasing fixes.  https://t.co/e4iOi9GPxF
 1242166353001353200,Mon Mar 23 19:08:31 +0000 2020,RT @project_harbor: Introducing the Harbor Operator!  You can now: - deploy Harbor treating Notary, Chartmuseum &amp; Clair as optional  - supp…
 1242119661128429600,Mon Mar 23 16:02:59 +0000 2020,RT @nats_io: Must read for those interested in NATS; how, why &amp; where to use the NATS Messaging System. #NATSioFanClub #Community
@@ -598,7 +597,6 @@ id,created_at,text
 1233432005565722600,Fri Feb 28 16:41:20 +0000 2020,RT @stu: Preview of #KubeCon #CloudNativeCon with @vmcheung @furrier - don't panic @KubeCon_ Amsterdam is still happening https://t.co/s4sn…
 1233427244401545200,Fri Feb 28 16:22:25 +0000 2020,#ICYMI on the blog 💡 Check out the guest post about @fluentd 🤓 https://t.co/zce0auoryg
 1233424302566854700,Fri Feb 28 16:10:44 +0000 2020,RT @CloudNativeCA: We are happy to launch Kubernetes Community Days Quebec on June 18th !!! @kcd_quebec official 1-day CNCF conference cove…
-1233424302566854700,Fri Feb 28 16:10:44 +0000 2020,RT @CloudNativeCA: We are happy to launch Kubernetes Community Days Quebec on June 18th !!! @kcd_quebec official 1-day CNCF conference cove…
 1233424264117702700,Fri Feb 28 16:10:35 +0000 2020,RT @archyufa: Announcing  Kubernetes Community Days Quebec @KCD_Quebec. 1-day conference in beautiful Quebec city covering all things Kuber…
 1233419162699079700,Fri Feb 28 15:50:18 +0000 2020,RT @kubernetesio: 💡 On the blog today for some nice weekend reading ➡️ "Bring your ideas to the world with #kubectl plugins" 🌎 https://t.co…
 1233406633696350200,Fri Feb 28 15:00:31 +0000 2020,RT @KubernetesFin: We are super excited to announce: Kubernetes and CNCF Finland Meetup now has 1000 Kubernauts, wow! 🎉🎊 #CloudNativeNordic…
@@ -796,7 +794,6 @@ id,created_at,text
 1225941599626113000,Sat Feb 08 00:37:08 +0000 2020,RT @esignoretti: [ViDS Podcast] – Episode 33: A Conversation with Jiten Vaidya (@yaempiricist) and Sugu Sougoumarane (@ssougou) about @vite…
 1225877659978289200,Fri Feb 07 20:23:04 +0000 2020,@rmaxio Hi there, registration has been open since October! Here is the link: https://t.co/FFTNZoutLm
 1225855004084461600,Fri Feb 07 18:53:02 +0000 2020,Have you checked out the #CNCF Speaker's Bureau? It is host to CNCF ambassadors, #Meetup organizers, and prominent… https://t.co/5lMA8wG1gO
-1225849553611559000,Fri Feb 07 18:31:23 +0000 2020,RT @nats_io: Familiar with PHP and NATS?   Our community-contributed PHP client for NATS hasn't been updated in quite some time. If you wou…
 1225849553611559000,Fri Feb 07 18:31:23 +0000 2020,RT @nats_io: Familiar with PHP and NATS?   Our community-contributed PHP client for NATS hasn't been updated in quite some time. If you wou…
 1225849404772536300,Fri Feb 07 18:30:47 +0000 2020,RT @cloudnativebern: We proudly announce our first speakers 🎉🎉🎉 Check our website for details https://t.co/8iMfSZpJWB
 1225849315517771800,Fri Feb 07 18:30:26 +0000 2020,RT @kubevirt: #KubeVirt v0.26.0 is live https://t.co/WV8m7wIthP
@@ -996,7 +993,6 @@ id,created_at,text
 1220079806580019200,Wed Jan 22 20:24:28 +0000 2020,RT @BenCodeGeek: I passed CKAD! 😁 The timing was *brutal*, I finished the last exercise with seconds to spare, but managed a respectable 92…
 1220057303761608700,Wed Jan 22 18:55:03 +0000 2020,RT @JimmAngel: Anyone doing rapid on-prem Kubernetes upgrades? What tool are you using?  I'm looking closely at kubespray right now, since…
 1220057190511235000,Wed Jan 22 18:54:36 +0000 2020,RT @rook_io: Calling all production users of @rook_io! We would love your response to this very short survey (1 min) to learn more about yo…
-1220043017542762500,Wed Jan 22 17:58:17 +0000 2020,RT @fintanr: Theres a lot of interesting data points in here, solid work and progress from the @CloudNativeFdn. Interesting (but not surpri…
 1220043017542762500,Wed Jan 22 17:58:17 +0000 2020,RT @fintanr: Theres a lot of interesting data points in here, solid work and progress from the @CloudNativeFdn. Interesting (but not surpri…
 1220042340393308200,Wed Jan 22 17:55:35 +0000 2020,RT @linuxfoundation: Our new Open Source Database track is making its debut at #OSS NA and EU 2020, focusing on databases, deployment, inte…
 1220042303647019000,Wed Jan 22 17:55:27 +0000 2020,RT @nats_io: We liked it so much, we added it to the NATS ecosystem! https://t.co/Bs7n7LXGok 💕  Do you have a client or connector you've bu…
@@ -1396,7 +1392,6 @@ id,created_at,text
 1202412960942919700,Thu Dec 05 02:22:44 +0000 2019,RT @Neurotic: Oooh! Alpha UDP support in @EnvoyProxy just got merged.  Can't wait to play with this and game servers.  https://t.co/A6Ol8I5…
 1202412837588496400,Thu Dec 05 02:22:14 +0000 2019,RT @mattklein123: Super excited to welcome our newest @EnvoyProxy maintainer, @AsraEntr0py! Asra has done absolutely tremendous work on Env…
 1202412786220851200,Thu Dec 05 02:22:02 +0000 2019,RT @lbmkrishna: @CloudNativeFdn is holding their first Kubernetes Forum in Sydney December 12-13 Join other cloud-native experts, adopters,…
-1202391608286560300,Thu Dec 05 00:57:53 +0000 2019,RT @justincormack: Submitted the proposals for the kubey thing in Amsterdam.  Good luck everyone! https://t.co/hywDgm4ejO
 1202391608286560300,Thu Dec 05 00:57:53 +0000 2019,RT @justincormack: Submitted the proposals for the kubey thing in Amsterdam.  Good luck everyone! https://t.co/hywDgm4ejO
 1202391466862973000,Thu Dec 05 00:57:19 +0000 2019,RT @derberq: #KubeCon proposal submitted! See ya in Amsterdam #Kubernetes peepal 😜 https://t.co/x2Fq1dRaTY
 1202391442519253000,Thu Dec 05 00:57:13 +0000 2019,RT @thaJeztah: Time for me to share some of my open source experience. Let's see how this goes! 🤞#kubecon https://t.co/Bip2pVPJCp
@@ -2197,7 +2192,6 @@ id,created_at,text
 1186772235266084900,Tue Oct 22 22:32:04 +0000 2019,RT @thockin: #KubeCon is coming &amp; with it comes Contibutor Summit. The agenda looks AWESOME, and we have more room than in years past.  New…
 1186771722885685200,Tue Oct 22 22:30:02 +0000 2019,RT @JustinChizer: Hey @karenhchu! My attendee at the Munich #Containers #OpenHack wanted to thank you for https://t.co/XMRbVFa7kt he recent…
 1186771572985483300,Tue Oct 22 22:29:26 +0000 2019,RT @dims: Folks, @TashaDrew is the chair for accessibility at Kubecon North America's Contributor Summit, which is coming to San Diego in N…
-1186771572985483300,Tue Oct 22 22:29:26 +0000 2019,RT @dims: Folks, @TashaDrew is the chair for accessibility at Kubecon North America's Contributor Summit, which is coming to San Diego in N…
 1186771532854386700,Tue Oct 22 22:29:17 +0000 2019,RT @castrojo: Anyone have RBAC recommendations for Dinesh? https://t.co/iolGbgCQ37
 1186766688814911500,Tue Oct 22 22:10:02 +0000 2019,RT @bacongobbler: 📯 Helm 3.0.0-beta.5 has been released. Release notes here: https://t.co/CaLz8qwqNb 📯
 1186766533512454100,Tue Oct 22 22:09:25 +0000 2019,RT @fuzzychef: Do you want to know how to enforce your SLOs on Kubernetes?  Join CNPDX next Tuesday!  https://t.co/OcygscIfsD
@@ -2797,7 +2791,6 @@ id,created_at,text
 1166417831795146800,Tue Aug 27 18:30:56 +0000 2019,RT @ibuildthecloud: I really just can't say enough good things about linkerd. You should really give it a try.
 1166417762446536700,Tue Aug 27 18:30:40 +0000 2019,RT @krisnova: You can join our official CNCF mailing list here: https://t.co/2cF1GuSZL3
 1166417617206173700,Tue Aug 27 18:30:05 +0000 2019,RT @LouMM: My stylin' socks for today! We all need a bit of #Kubernetes to each day. https://t.co/y0UtwbguSo
-1166417617206173700,Tue Aug 27 18:30:05 +0000 2019,RT @LouMM: My stylin' socks for today! We all need a bit of #Kubernetes to each day. https://t.co/y0UtwbguSo
 1166417526495969300,Tue Aug 27 18:29:43 +0000 2019,RT @jdolitsky: Try out Helm 3 beta OCI registry support! Docs here: https://t.co/OrQkG1nDi4 https://t.co/zfQwU2H2rl
 1166417403267309600,Tue Aug 27 18:29:14 +0000 2019,RT @derekcollison: We are getting close to crossing 1400 people on the NATS slack channel. Glad to be part of a such a great ecosystem. If…
 1166380307597148200,Tue Aug 27 16:01:50 +0000 2019,New webinar starting in an HOUR (10am PT) 🎥 "How to Choose the Right Proxy Architecture for Microservices-Based App… https://t.co/S6m2A4CXir
@@ -2995,7 +2988,6 @@ id,created_at,text
 1159307984519999500,Thu Aug 08 03:38:57 +0000 2019,RT @jaybeale: I'm grateful to have helped lead the #Kubernetes proj Security Audit WG. Thanks to @trailofbits, @Atredis, &amp; my working group…
 1159271847223054300,Thu Aug 08 01:15:21 +0000 2019,RT @stackshareio: “How Uber developed the #opensource, end-to-end distributed tracing @JaegerTracing (a @CloudNativeFdn project)”  👉https:/…
 1159271820564009000,Thu Aug 08 01:15:14 +0000 2019,RT @dankohn1: Join us for Kubernetes Forums in Seoul and Sydney Dec 9-13. CFP and sponsorships are now open. (We changed the name from Kube…
-1159258051997835300,Thu Aug 08 00:20:32 +0000 2019,RT @olix0r: when an external contribution gets merged https://t.co/JrAdlUwGfL
 1159258051997835300,Thu Aug 08 00:20:32 +0000 2019,RT @olix0r: when an external contribution gets merged https://t.co/JrAdlUwGfL
 1159252210510905300,Wed Aug 07 23:57:19 +0000 2019,RT @HelmPack: Interested in sponsoring Helm Summit EU next month? Learn more about the details here 👉 https://t.co/WgpJLEQzqB  Hurry! Our s…
 1159223838862979000,Wed Aug 07 22:04:35 +0000 2019,RT @technosophos: "Writing a Kubernetes CRD Controller in Rust" https://t.co/ZYV2hD99ep &lt;- 60 lines of code to implement a CRD and a contro…
@@ -3232,5 +3224,4 @@ id,created_at,text
 1148261429574807600,Mon Jul 08 16:03:53 +0000 2019,RT @Microwavables: Don't miss the CFP deadline for KubeCon + CloudNativeCon North America! It is THIS FRIDAY, ya'll!!! https://t.co/Al2iqHr…
 1148250420458000400,Mon Jul 08 15:20:08 +0000 2019,We had a blast at #KubeCon + #CloudNativeCon + #OSS China in Shanghai last month! Check out our recap 😍🌏See you in… https://t.co/qpgxyg5iyT
 1148242432187875300,Mon Jul 08 14:48:23 +0000 2019,RT @irahardianto: Yeah! Finally, a year-long preparation has come into a fruitful result, extremely delighted with the certification!  Than…
-1147307173074165800,Sat Jul 06 00:52:00 +0000 2019,RT @rook_io: Just released v1.0.3. a patch release aimed at fixing issues reported by our @rook_io users and increasing overall stability.…
 1147307173074165800,Sat Jul 06 00:52:00 +0000 2019,RT @rook_io: Just released v1.0.3. a patch release aimed at fixing issues reported by our @rook_io users and increasing overall stability.…

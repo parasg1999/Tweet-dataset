@@ -199,7 +199,6 @@ id,created_at,text
 1169816752861016000,Fri Sep 06 03:37:02 +0000 2019,Glad to see @xgsun's sharing of #TiDB's case study at Zhihu got featured as @Dzone's spotlight for today:… https://t.co/wyNCiWhuEK
 1168458052279754800,Mon Sep 02 09:38:03 +0000 2019,Aug 26 ~ Sep 01, 2019, we landed 59 PRs for #TiDB, 12 PRs for #TiSpark, and 40 PRs for #TiKV and #PD:… https://t.co/dZ4uAYN7oM
 1165910273091199000,Mon Aug 26 08:54:05 +0000 2019,Aug 19 ~ Aug 25, 2019, we landed 59 PRs for #TiDB, 14 PRs for #TiSpark, and 38 PRs for #TiKV and #PD:… https://t.co/ymRlqaiyoh
-1165910273091199000,Mon Aug 26 08:54:05 +0000 2019,Aug 19 ~ Aug 25, 2019, we landed 59 PRs for #TiDB, 14 PRs for #TiSpark, and 38 PRs for #TiKV and #PD:… https://t.co/ymRlqaiyoh
 1164192934335590400,Wed Aug 21 15:09:59 +0000 2019,The front-page of Zhihu (Chinese Quora) recommends you-might-like posts to its 220 million users without repeating… https://t.co/VsW0tFbAGh
 1163934975349186600,Tue Aug 20 22:04:57 +0000 2019,Don't forget to join us tomorrow to learn more about TiDB 3.0 during our live webinar. Register here! https://t.co/ksoTAq5Xxb
 1163561613657424000,Mon Aug 19 21:21:21 +0000 2019,@kevinsxu Thank you for your service! https://t.co/vsxvOyCgYV
@@ -796,7 +795,6 @@ id,created_at,text
 915343230077624300,Tue Oct 03 22:30:06 +0000 2017,https://t.co/sTtUPv0twG
 913908893146689500,Fri Sep 29 23:30:34 +0000 2017,RT @PeterZaitsev: MySQL 8.0.0 first milestone release was released slightly over year ago.   What a great progress in a year! https://t.co/…
 913780407182671900,Fri Sep 29 15:00:00 +0000 2017,RT @RocksDB: RocksDB 5.8 is released. https://t.co/pNW97I05q3
-912966213055144000,Wed Sep 27 09:04:41 +0000 2017,RT @newsycombinator: Why did we choose Rust over Golang or C/C++ to develop TiKV? https://t.co/eQnd6IcorR
 912966213055144000,Wed Sep 27 09:04:41 +0000 2017,RT @newsycombinator: Why did we choose Rust over Golang or C/C++ to develop TiKV? https://t.co/eQnd6IcorR
 912684656675270700,Tue Sep 26 14:25:53 +0000 2017,Every developer has his/her favorite programming language. For the TiKV team members, it's @rustlang https://t.co/9dmCnesYwn
 912257480184406000,Mon Sep 25 10:08:26 +0000 2017,#Gohack2017 See you in Shanghai, China. https://t.co/DefhdOIdHP

@@ -199,7 +199,6 @@ id,created_at,text
 694196522653618200,Mon Feb 01 16:32:03 +0000 2016,RT @WHATWG: All WHATWG standards are being developed on GitHub: https://t.co/R2nNOZzX4D
 693796937963679700,Sun Jan 31 14:04:14 +0000 2016,EPUB: the new XHTML2 "a solution to yesterday’s problem made irrelevant by broader change in the industry"—@jpatokal https://t.co/mmltxemyHQ
 692703229847580700,Thu Jan 28 13:38:14 +0000 2016,RT @yoavweiss: and &lt;link rel=preload&gt; is shipped: https://t.co/uogUzQznEw Enables early download of critical resources &amp; decouples download…
-692703229847580700,Thu Jan 28 13:38:14 +0000 2016,RT @yoavweiss: and &lt;link rel=preload&gt; is shipped: https://t.co/uogUzQznEw Enables early download of critical resources &amp; decouples download…
 692628535869988900,Thu Jan 28 08:41:26 +0000 2016,RT @potch: Mozilla now has a platform status dashboard! Find out what platform features we're working on or plan to support: https://t.co/N…
 691837093832724500,Tue Jan 26 04:16:31 +0000 2016,RT @wanderview: Service workers ship in Firefox 44 tomorrow.
 691821246871371800,Tue Jan 26 03:13:33 +0000 2016,RT @yoavweiss: Just sent out an intent to ship for &lt;link rel=preload&gt; https://t.co/ZiLCWDpt8h
@@ -398,7 +397,6 @@ id,created_at,text
 589373794692694000,Sat Apr 18 10:23:57 +0000 2015,RT @borismus: Excellent – a real permission model for the web. Should pave the way for more interesting APIs! http://t.co/MBJTbTySAr
 589373210283479000,Sat Apr 18 10:21:38 +0000 2015,RT @devtoolslab: A DevTools proxy (WebKit Remote Debugging Protocol) for iOS devices https://t.co/kw8YTjHm5r
 589371120073080800,Sat Apr 18 10:13:19 +0000 2015,RT @bcrypt: congrats on the RFC, @fugueish @sleevi_ @scarybeasts!!1 http://t.co/JdiuxrOmYt #HPKP #PinToWin
-589076797423112200,Fri Apr 17 14:43:47 +0000 2015,RT @stevefaulkner: Notes on Using ARIA in HTML W3C Editor's Draft 17 April 2015 http://t.co/KLyhp9DweS updated and renamed (to disambiguate…
 589076797423112200,Fri Apr 17 14:43:47 +0000 2015,RT @stevefaulkner: Notes on Using ARIA in HTML W3C Editor's Draft 17 April 2015 http://t.co/KLyhp9DweS updated and renamed (to disambiguate…
 588834030524698600,Thu Apr 16 22:39:07 +0000 2015,RT @pauljadam: Cool test from Chrome #a11y dev tools! [Warning] role=main should only appear on significant elements. (not &lt;nav&gt;!) http://t…
 588812738450706400,Thu Apr 16 21:14:31 +0000 2015,RT @awbjs: Final Draft of the ECMAScript 2015 Language Specification (ES6) is now available at http://t.co/pcHkz1muWu Next step: Ecma GA ap…
@@ -798,7 +796,6 @@ id,created_at,text
 334879485541355500,Thu May 16 03:54:25 +0000 2013,RT @koalie: Who fancies a short survey to help W3C improve its Website? https://t.co/McdZobCqwt Anonymous and open till 29 May 2013.
 334672875506241540,Wed May 15 14:13:26 +0000 2013,RT @stevefaulkner: &lt;main&gt; in Firefox 21 stable release :-)
 334505010077507600,Wed May 15 03:06:23 +0000 2013,RT @annevk: Notes on further applifying the web platform: http://t.co/0CLqf7oHtN
-334505010077507600,Wed May 15 03:06:23 +0000 2013,RT @annevk: Notes on further applifying the web platform: http://t.co/0CLqf7oHtN
 331955944248455200,Wed May 08 02:17:19 +0000 2013,RT @mattur: This marks the start of my campaign to Keep The Flying Spaghetti Monster In HTML5 https://t.co/mVbTlPuBat
 331431461930532860,Mon May 06 15:33:12 +0000 2013,RT @stevefaulkner: How to mark up subheadings, subtitles, alternative titles and taglines http://t.co/FBQ0zJxiqr my first born for @html5do…
 330874011800174600,Sun May 05 02:38:06 +0000 2013,RT @planetmozilla: Robert O'Callahan: Web Audio Progress http://t.co/zG3UJh4j4e
@@ -1197,7 +1194,6 @@ id,created_at,text
 214700935509835780,Mon Jun 18 12:47:46 +0000 2012,RT @p01: http://t.co/4kpd9xP5 first iteration of my work on Resource Inspector landed in the Experimental build of Opera Dragonfly
 213563786353844220,Fri Jun 15 09:29:09 +0000 2012,RT @jirkakosek: XSLT 2.0 finally in the browser!!! http://t.co/D750VeL7
 213561934128222200,Fri Jun 15 09:21:47 +0000 2012,RT @stevefaulkner: Opera’s Chief Standards Officer (@chaals) Leaves The Company  http://t.co/Uw7ieg4f #wow
-213560948164792320,Fri Jun 15 09:17:52 +0000 2012,RT @annevk: Notifications for the web platform is nearing completion so if you have any feedback now would be the time: http://t.co/ah4xecTh
 213560948164792320,Fri Jun 15 09:17:52 +0000 2012,RT @annevk: Notifications for the web platform is nearing completion so if you have any feedback now would be the time: http://t.co/ah4xecTh
 213056589844844540,Wed Jun 13 23:53:44 +0000 2012,RT @ericlaw: How'd IE10's JavaScript engine get so much faster? Lots of work! http://t.co/OQtCNWev
 212908989615325200,Wed Jun 13 14:07:13 +0000 2012,RT @scottjehl: Discussion on inapplicable stylesheet downloads continues in parallel both here http://t.co/xihJRyW8 and here http://t.co ...
@@ -1795,7 +1791,6 @@ id,created_at,text
 141295523436048380,Mon Nov 28 23:20:52 +0000 2011,RT @beverloo: GamePad API, revision 10,000 and WebGL for WebKitGTK #WebKit #Chromium http://t.co/PB8DOHhX
 141292043677872130,Mon Nov 28 23:07:02 +0000 2011,RT @WHATWG: http://t.co/fxXMqLOh — Prepare a WebVTT standard. Remove the WebVTT text from the HTML standard; refer to the WebVTT spec in ...
 141291979236589570,Mon Nov 28 23:06:47 +0000 2011,RT @paul_irish: @slicknet more details about IE stylesheet limits at @ericlaw's blog: http://t.co/qioNNgBS
-141291979236589570,Mon Nov 28 23:06:47 +0000 2011,RT @paul_irish: @slicknet more details about IE stylesheet limits at @ericlaw's blog: http://t.co/qioNNgBS
 141291824621961220,Mon Nov 28 23:06:10 +0000 2011,RT @slicknet: Little-known IE10 fact: No more style sheet limits. The bogus 31 style sheet limit is gone! http://t.co/ErjSqjfQ #abouttime
 141091656588984320,Mon Nov 28 09:50:46 +0000 2011,RT @aevans: @richtibbett @glennjones I've been hoping for a resource-driven approach to web intents / sharing: http://t.co/14OGEX0A
 141084618832085000,Mon Nov 28 09:22:49 +0000 2011,RT @dontcallmedom: On the blog: Web APIs vs APIs for Web-based OS http://t.co/ezF2espS
@@ -1994,7 +1989,6 @@ id,created_at,text
 115621623423434750,Mon Sep 19 03:01:57 +0000 2011,RT @SlexAxton: My slides from my #capjs talk on Third Party JavaScript - http://t.co/UaERgRwm
 115620335944073220,Mon Sep 19 02:56:50 +0000 2011,RT @rmurphey: my #capjs slides are up here http://t.co/fRPD8tGt but for all the details, you should of course visit http://t.co/DIE3RQZE
 115619604289699840,Mon Sep 19 02:53:56 +0000 2011,RT @slicknet: My #capjs slides now up on Slideshare: http://t.co/G17xM8H9
-115319881829851140,Sun Sep 18 07:02:57 +0000 2011,RT @sethladd: New post: Box2D, Collision, Damage, for JavaScript http://t.co/m31I9Brq
 115319881829851140,Sun Sep 18 07:02:57 +0000 2011,RT @sethladd: New post: Box2D, Collision, Damage, for JavaScript http://t.co/m31I9Brq
 115289509469503490,Sun Sep 18 05:02:15 +0000 2011,RT @kriszyp: Cool to see webkit patches for the component model + shadow DOM + scoped CSS in action by @slightlylate at #dojoconf
 115035854778535940,Sat Sep 17 12:14:19 +0000 2011,RT @hsivonen: Questionable parts of Acid3 dropped; Firefox and IE score 100/100. http://t.co/JsF1Qj4l
@@ -2195,7 +2189,6 @@ id,created_at,text
 108092315767275520,Mon Aug 29 08:23:10 +0000 2011,RT @donmelton: ATTENTION INTERNETS! WebKit is not 10 years old today. That happened on June 25. I know the date because that's when I st ...
 107667013236834300,Sun Aug 28 04:13:10 +0000 2011,RT @assaf: Just released Zombie 0.10 — uses latest JSDOM to solve the JS context issues, testing with jQuery 1.6.2 http://t.co/zTYYxhP
 107662523410546690,Sun Aug 28 03:55:20 +0000 2011,RT @erikjmoller: Blog updated, loads of Emberwind html5 stuff uploaded on github. http://t.co/5N5ZM5s
-107662523410546690,Sun Aug 28 03:55:20 +0000 2011,RT @erikjmoller: Blog updated, loads of Emberwind html5 stuff uploaded on github. http://t.co/5N5ZM5s
 107449875263782910,Sat Aug 27 13:50:21 +0000 2011,RT @stevefaulkner: HTML5 无障碍 http://t.co/ZsHW6Fi Chinese translation of http://t.co/FkUjCf0 #HTML5 #accessibility
 107153342454693890,Fri Aug 26 18:12:02 +0000 2011,RT @stshank: Lot of serious chat about joystick/game controller support in Firefox. API design isn't easy. http://t.co/9wFjCfJ
 107112605767843840,Fri Aug 26 15:30:09 +0000 2011,IE6 was released ten years ago today. http://t.co/VrC75xH
@@ -2394,7 +2387,6 @@ id,created_at,text
 94726512904908800,Sat Jul 23 11:12:15 +0000 2011,RT @mathias: New in HTML: &lt;a download="filename"&gt; Commit: http://html5.org/r/6318 Spec: http://mths.be/bca
 94726387491012600,Sat Jul 23 11:11:45 +0000 2011,RT @tmpvar: jsdom 0.2.1 released (it's been a long time coming!).  see the changelog here: http://t.co/PfbgBuU - big thanks to everyone  ...
 94716344339152900,Sat Jul 23 10:31:50 +0000 2011,RT @mattur: "...they give us some funny process with change proposals and schedules..." W3C TAG minutes http://t.co/BDJhr5V
-94187223959879680,Thu Jul 21 23:29:18 +0000 2011,RT @sethladd: great conversation on viability of HTML5 games ecosystem (thx @Vincent_Scheib and @mike_acton) Join in: http://t.co/npLKJbC
 94187223959879680,Thu Jul 21 23:29:18 +0000 2011,RT @sethladd: great conversation on viability of HTML5 games ecosystem (thx @Vincent_Scheib and @mike_acton) Join in: http://t.co/npLKJbC
 94185895128862720,Thu Jul 21 23:24:01 +0000 2011,RT @ebidel: Tomorrow is big...my bday and when my book "Using the HTML5 Filesystem API" comes out. Your gift-&gt;get it! http://t.co/Bt5 ...
 94185513149399040,Thu Jul 21 23:22:30 +0000 2011,RT @jmswisher: MDN doc sprint Aug 12-13 http://t.co/KHD0vil I'm holding meetups in Austin both days (http://t.co/TkYIH6j http://t.co/yxx ...
@@ -2595,7 +2587,6 @@ id,created_at,text
 85289231789985800,Mon Jun 27 10:11:52 +0000 2011,RT @maboa: If ur interested in HTML5 audio data API and DSP check out @corban's blog http://t.co/7DteBwb
 85282258881224700,Mon Jun 27 09:44:09 +0000 2011,RT @silviapfeiffer: Ronny has done an awesome job of representing the WebVTT spec in images http://ow.ly/5qSos and demo cue settings htt ...
 85279772506198020,Mon Jun 27 09:34:16 +0000 2011,Rob Manson: "A web standards based model for Augmented Reality" http://goo.gl/j7yyo http://goo.gl/qJXox http://isweb3here.com/
-85279772506198020,Mon Jun 27 09:34:16 +0000 2011,Rob Manson: "A web standards based model for Augmented Reality" http://goo.gl/j7yyo http://goo.gl/qJXox http://isweb3here.com/
 85200191547899900,Mon Jun 27 04:18:03 +0000 2011,RT @RPGJS: RPG JS on Github : http://t.co/0WDYFTM
 85198562488619000,Mon Jun 27 04:11:34 +0000 2011,RT @sethladd: how did I miss HTML5 Grind, the  HTML5 game news site? http://t.co/AOAhuCe
 85191276508614660,Mon Jun 27 03:42:37 +0000 2011,RT @johnallsopp: awesome HTML/CSS audio visualiser (currently Firefox only) from @nambor http://bit.ly/ivjNZh Feel the future!
@@ -2791,7 +2782,6 @@ id,created_at,text
 73778525055885310,Thu May 26 15:52:25 +0000 2011,Playboy and Aside: the wave of web apps grows http://goo.gl/Zyudu "can ignore [content] restrictions Apple sets… avoids paying Apple 30%"
 73746664707473400,Thu May 26 13:45:49 +0000 2011,RT @rwaldron: Just updated to Firefox 7 Nightly. Web Console is way snappier & JavaScript ScratchPad looks like a promising future dev t ...
 73743208424804350,Thu May 26 13:32:05 +0000 2011,RT @reybango: The new Script Junkie blog is now live. The new source for JavaScript, HTML & CSS community news http://bit.ly/jVZzfS
-73742170133250050,Thu May 26 13:27:58 +0000 2011,Beyond HTML5: Experiment with Real-Time Communication in a Browser | Ericsson Labs - http://goo.gl/LZmYt
 73742170133250050,Thu May 26 13:27:58 +0000 2011,Beyond HTML5: Experiment with Real-Time Communication in a Browser | Ericsson Labs - http://goo.gl/LZmYt
 73678991403388930,Thu May 26 09:16:55 +0000 2011,RT @gen: very impressive http://mediaqueri.es/
 73661827258654720,Thu May 26 08:08:42 +0000 2011,RT @dalmaer: SproutCore 2; Lean, Mean, and back to HTML: Today we got a sneak peak at the next version of SproutCore via a de... http:// ...
@@ -2990,7 +2980,6 @@ id,created_at,text
 60660783104786430,Wed Apr 20 11:07:12 +0000 2011,RT @krijnhoetmer: Nice overview of box-shadow rendering (differences) in browsers: http://thany.nl/apps/boxshadows/ (via Fronteers LinkedIn)
 60658855683694590,Wed Apr 20 10:59:32 +0000 2011,In case you missed it: "How Netflix Uses HTML5 to Deliver Amazing User Interfaces" at @functionsource is a must-read http://goo.gl/W24Ck
 60655550421155840,Wed Apr 20 10:46:24 +0000 2011,"HTML5 Accessibility Chops: Just use a (native HTML) button" http://goo.gl/NQhsN from @stevefaulkner
-60655550421155840,Wed Apr 20 10:46:24 +0000 2011,"HTML5 Accessibility Chops: Just use a (native HTML) button" http://goo.gl/NQhsN from @stevefaulkner
 60596748032282620,Wed Apr 20 06:52:45 +0000 2011,RT @hsivonen: Interesting: Ex-Microsoft employees add an IE6 mode to IE8 and IE9: http://www.browsium.com/faqs/
 60568544160657410,Wed Apr 20 05:00:40 +0000 2011,RT @dalmaer: Binary Data In The Browser; The New DataView Specification and The jsDataView Shim: It seems that few people kno... http:// ...
 60563291092684800,Wed Apr 20 04:39:48 +0000 2011,"HTML5 video accessibility and the WebVTT file format" video presentation from @silviapfeiffer http://goo.gl/hSji1 (27 minutes)
@@ -3172,5 +3161,4 @@ id,created_at,text
 38263591245320190,Thu Feb 17 15:48:45 +0000 2011,ANGLE project dev activity http://goo.gl/Y18Sm lets Windows users run WebGL content by translating OpenGL API calls to DirectX API calls
 38256993005211650,Thu Feb 17 15:22:32 +0000 2011,RT @maboa: @codepo8 Challenge accepted! :) http://happyworm.com/blog/2011/02/17/a-few-html5-questions-that-need-answering/ cc @cyberdees
 38243216302022660,Thu Feb 17 14:27:47 +0000 2011,RT @ariyahidayat: #PhantomJS example on using HTML5 #Canvas: 50 lines of code http://goo.gl/6sQXW to produce the color wheel http://twit ...
-38236788476612610,Thu Feb 17 14:02:15 +0000 2011,RT @brucel: Personal blog: Snakeoil, local government, #accessibility and #HTML5 http://bit.ly/hI75nU
 38236788476612610,Thu Feb 17 14:02:15 +0000 2011,RT @brucel: Personal blog: Snakeoil, local government, #accessibility and #HTML5 http://bit.ly/hI75nU

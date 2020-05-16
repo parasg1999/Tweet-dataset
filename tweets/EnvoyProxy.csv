@@ -199,7 +199,6 @@ id,created_at,text
 1125506208507494400,Mon May 06 21:02:45 +0000 2019,RT @Idit_Levine: @ibmtechie @OpenShiftNinja @soloio_inc @DockerCon @IstioMesh @EnvoyProxy Solo’s project are OSS/free as well, build specif…
 1124415856639979500,Fri May 03 20:50:05 +0000 2019,"The open source #EnvoyProxy has taken the modern infrastructure world by storm, and with good reason..." ➡️ Check… https://t.co/hJ1uozYhDP
 1124054998491574300,Thu May 02 20:56:10 +0000 2019,RT @GianArb: #envoy is on stage at #DockerCon! It will be embedded in the Docker Engine itself to guarantee security and elastic scalabilit…
-1124054998491574300,Thu May 02 20:56:10 +0000 2019,RT @GianArb: #envoy is on stage at #DockerCon! It will be embedded in the Docker Engine itself to guarantee security and elastic scalabilit…
 1123686809509224400,Wed May 01 20:33:07 +0000 2019,RT @Joab_Jackson: A new approach to #microservices debugging: #OpenTracing captures everything, incurring overhead &amp; a massive paper trail.…
 1123686618446147600,Wed May 01 20:32:21 +0000 2019,RT @41unhsiv: Wow .. amazing work by @Docker .. they have  really stepped up the game with inbuilt @EnvoyProxy .. it means lots of new cust…
 1123686513588543500,Wed May 01 20:31:56 +0000 2019,RT @portwx: “Cloud native is how we abstract infrastructure from application development.”— @mattklein123, co-creator of @EnvoyProxy: https…
@@ -997,7 +996,6 @@ id,created_at,text
 867460260952330200,Wed May 24 19:20:17 +0000 2017,RT @ZDNet: Google, IBM, and Lyft launch open source project Istio to help solve distributed system problems https://t.co/K6m33RTEgF @natali…
 867460243944386600,Wed May 24 19:20:13 +0000 2017,RT @googlecloud: Announcing #Istio: an open-source project providing a uniform way to manage microservices https://t.co/owT1weFq9K https://…
 867460228916195300,Wed May 24 19:20:09 +0000 2017,RT @TechCrunch: Google, IBM and Lyft launch Istio, an open-source platform for managing and securing microservices https://t.co/U5qmBm19KH…
-867456443997331500,Wed May 24 19:05:07 +0000 2017,Excited for @IstioMesh launch today (👏🏻) and to be a core part of the system. Envoy + Kubernetes = 💥🚀.
 867456443997331500,Wed May 24 19:05:07 +0000 2017,Excited for @IstioMesh launch today (👏🏻) and to be a core part of the system. Envoy + Kubernetes = 💥🚀.
 867440857019932700,Wed May 24 18:03:11 +0000 2017,RT @newsycombinator: Google and IBM announce Istio – a microservices mesh for Kubernetes https://t.co/N67ONvC2ep
 867409065948848100,Wed May 24 15:56:51 +0000 2017,RT @eric_brewer: Happy to announce Istio -- decouple operations from applications https://t.co/MfMI95OxaB

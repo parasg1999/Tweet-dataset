@@ -199,7 +199,6 @@ id,created_at,text
 1253524480820785200,Fri Apr 24 03:21:40 +0000 2020,@qoouep @y0cmen @jlengstorf @gatsbyjs @Netlify Code changes are always slower than data changes as they change more things
 1253523412112171000,Fri Apr 24 03:17:25 +0000 2020,@vgr 😟
 1253508921773310000,Fri Apr 24 02:19:50 +0000 2020,@NiviJah @contentful @gatsbyjs Coming! They're our top requests
-1253508921773310000,Fri Apr 24 02:19:50 +0000 2020,@NiviJah @contentful @gatsbyjs Coming! They're our top requests
 1253508551835701200,Fri Apr 24 02:18:22 +0000 2020,@vgr https://t.co/9TWQkVfVD9
 1253506045877432300,Fri Apr 24 02:08:25 +0000 2020,@jmsve 100 years of sunshine!
 1253502982764675000,Fri Apr 24 01:56:14 +0000 2020,Fractals https://t.co/koFvoD2FJG
@@ -799,7 +798,6 @@ id,created_at,text
 1239955785154613200,Tue Mar 17 16:44:31 +0000 2020,@schickling 👀  How would you define the two?
 1239954084024561700,Tue Mar 17 16:37:45 +0000 2020,@matfrana @gatsbyjs @ReactBricks not sure what that would mean doing — does the plugin need to do something or is this a ts config option?
 1239953784152805400,Tue Mar 17 16:36:34 +0000 2020,@danielvanc @modeveloper @SchauDustin yeah we're actively working on it — we're doing what we can to mitigate thing… https://t.co/LYhHnB5bNB
-1239953784152805400,Tue Mar 17 16:36:34 +0000 2020,@danielvanc @modeveloper @SchauDustin yeah we're actively working on it — we're doing what we can to mitigate thing… https://t.co/LYhHnB5bNB
 1239950513078075400,Tue Mar 17 16:23:34 +0000 2020,@ElijahLynn hehehe
 1239950466408038400,Tue Mar 17 16:23:23 +0000 2020,@danielvanc @modeveloper @SchauDustin sorry the radio silence — it appears that Google Cloud has put a quota on us… https://t.co/XdtZwWQIkD
 1239949643720437800,Tue Mar 17 16:20:06 +0000 2020,@sdboyer yesssss
@@ -998,7 +996,6 @@ id,created_at,text
 1236333879901819000,Sat Mar 07 16:52:21 +0000 2020,@DougieSilkstone yup exactly! Themes are NPM packages so you can push upgrades while still keeping your modifications intact.
 1236327168315019300,Sat Mar 07 16:25:41 +0000 2020,@lfredolo I'm not sure I understand. A starter isn't a theme.
 1236172917882290200,Sat Mar 07 06:12:45 +0000 2020,@vincentriemer haven't heard "clowny"! 😂
-1236146661589536800,Sat Mar 07 04:28:25 +0000 2020,@jongold this is the rare adjective that can mean anywhere from very good to very bad!
 1236146661589536800,Sat Mar 07 04:28:25 +0000 2020,@jongold this is the rare adjective that can mean anywhere from very good to very bad!
 1236143165700051000,Sat Mar 07 04:14:31 +0000 2020,"massive overkill"
 1236136889880477700,Sat Mar 07 03:49:35 +0000 2020,@chantastic @simeonberns perhaps — it'd take years &amp; it's a huge shift &amp; concurrent mode is coming
@@ -1598,7 +1595,6 @@ id,created_at,text
 1218198117826228200,Fri Jan 17 15:47:18 +0000 2020,RT @gatsbyjs: Here's Gatsby's most underrated feature: a good night's 😴!  Read: https://t.co/gFDy9lrv7T  Learn about how Gatsby helps you l…
 1218025451454521300,Fri Jan 17 04:21:12 +0000 2020,@ajr_dev hmmm oh does netlify cms not run while in development?
 1218021819917066200,Fri Jan 17 04:06:46 +0000 2020,@ajr_dev like what was the diff that fixed it?
-1218021713595625500,Fri Jan 17 04:06:20 +0000 2020,@ajr_dev what exactly was wrong?
 1218021713595625500,Fri Jan 17 04:06:20 +0000 2020,@ajr_dev what exactly was wrong?
 1217958361318097000,Thu Jan 16 23:54:36 +0000 2020,@micahgodbolt @gatsbyjs https://t.co/nFiioTv472
 1217936480061907000,Thu Jan 16 22:27:39 +0000 2020,@micahgodbolt @gatsbyjs You can read cli args in the config
@@ -2593,7 +2589,6 @@ id,created_at,text
 1192774444378275800,Fri Nov 08 12:02:42 +0000 2019,RT @BenLesh: Mantis is probably one of the most impressive things in Netflix's tech stack. I never thought they'd open source this.  I work…
 1192606030204522500,Fri Nov 08 00:53:29 +0000 2019,RT @blainekasten: Today is my last day at @FormidableLabs, I'm going to miss all of the geese there so freaking much.  Tomorrow is onto new…
 1192597842398859300,Fri Nov 08 00:20:57 +0000 2019,@schneidmaster wohoo!
-1192534034502389800,Thu Nov 07 20:07:24 +0000 2019,@macdonst @gatsbyjs haven't used this myself but there's a source plugin for pulling in the data that you could the… https://t.co/HReGjMFHGK
 1192534034502389800,Thu Nov 07 20:07:24 +0000 2019,@macdonst @gatsbyjs haven't used this myself but there's a source plugin for pulling in the data that you could the… https://t.co/HReGjMFHGK
 1192521905049260000,Thu Nov 07 19:19:12 +0000 2019,@Conaw @RoamResearch yeah, I've used Scapple for years and love it as a thinking tool. Something like that for Roam… https://t.co/q9nWFfAlNZ
 1192520637924774000,Thu Nov 07 19:14:10 +0000 2019,@davadl does clicking signup not work?

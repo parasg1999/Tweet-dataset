@@ -399,7 +399,6 @@ id,created_at,text
 1108214440002879500,Wed Mar 20 03:51:26 +0000 2019,@AmarachiAmaechi talk about something you're passionate about or super interested in sharing.
 1108159381139394600,Wed Mar 20 00:12:39 +0000 2019,@mattzeunert this is insane. can you file a crbug? no way it should be that slow.
 1108088663483637800,Tue Mar 19 19:31:39 +0000 2019,RT @cramforce: 🙋🏽‍♀️ I wrote a totally serious guest blog post on the @jsconfeu blog about the most serious topic of our time: Web performa…
-1108088663483637800,Tue Mar 19 19:31:39 +0000 2019,RT @cramforce: 🙋🏽‍♀️ I wrote a totally serious guest blog post on the @jsconfeu blog about the most serious topic of our time: Web performa…
 1106985936074596400,Sat Mar 16 18:29:48 +0000 2019,@samccone I started to write a blog post but naturally @chriscoyier nailed this one back in December: https://t.co/gq8TnMr85z
 1105497930054623200,Tue Mar 12 15:57:00 +0000 2019,Chrome DevTools now has improved keyboard navigability. I really enjoy moving around in the Styles pane. See… https://t.co/kFUSqz5JZ1
 1105324175659434000,Tue Mar 12 04:26:34 +0000 2019,@helenhousandi I think you're rad and I told a colleague they should hire you. I don't know what happened there, bu… https://t.co/I974gwh9HV
@@ -598,7 +597,6 @@ id,created_at,text
 1021468848531202000,Mon Jul 23 18:55:26 +0000 2018,@Mustafa_x whoa.
 1021468401582006300,Mon Jul 23 18:53:39 +0000 2018,@samccone this is the kind of birthday wish that dreams are made of. thx man. :)
 1021468171377684500,Mon Jul 23 18:52:44 +0000 2018,@rwaldron you too, dude! https://t.co/clyW2fFYyz
-1021468070450085900,Mon Jul 23 18:52:20 +0000 2018,@oyeharminder thank you! and pro move with adjusting the mentions in the reply. so good. ;)
 1021468070450085900,Mon Jul 23 18:52:20 +0000 2018,@oyeharminder thank you! and pro move with adjusting the mentions in the reply. so good. ;)
 1021467943735939100,Mon Jul 23 18:51:50 +0000 2018,@patrickkettner thx bro. :D
 1021467795379249200,Mon Jul 23 18:51:15 +0000 2018,@Una thanks una! :)
@@ -799,7 +797,6 @@ id,created_at,text
 973069509052448800,Mon Mar 12 05:33:44 +0000 2018,@Jason_DOyley No prob Bob
 972955590921134100,Sun Mar 11 22:01:04 +0000 2018,@ajm113 In addition to what Jason said, https://t.co/AhEU75ZWuf
 972739217464836100,Sun Mar 11 07:41:16 +0000 2018,@ehsanakhgari @dotmanish @littlecalculist I'd be really interested in this for performance measurement. Speed Index… https://t.co/rMp2JNhn1k
-972739217464836100,Sun Mar 11 07:41:16 +0000 2018,@ehsanakhgari @dotmanish @littlecalculist I'd be really interested in this for performance measurement. Speed Index… https://t.co/rMp2JNhn1k
 972734026766213100,Sun Mar 11 07:20:39 +0000 2018,@joekarl b flat? looks beautiful.
 972285046567485400,Sat Mar 10 01:36:33 +0000 2018,@_zouhir Thanks, babe
 972260727133151200,Fri Mar 09 23:59:55 +0000 2018,@styfle @jasnell @nodejs @ChromiumDev yah afaik node's impl of URL matches spec better, now.  we're trailing a lil… https://t.co/fSvHjR5rTi
@@ -998,7 +995,6 @@ id,created_at,text
 933515072722178000,Thu Nov 23 01:58:31 +0000 2017,RT @ebidel: Resize events for DOM elements https://t.co/KVMpOphy65  window.onresize...no longer the only game in town. A mixin that adds a…
 933187240217342000,Wed Nov 22 04:15:50 +0000 2017,@uskay Yeah known bug. Bad bug. :( Fixed two weeks ago.
 933159812698796000,Wed Nov 22 02:26:51 +0000 2017,@jakubkulhan nice one :)
-933131378241167400,Wed Nov 22 00:33:51 +0000 2017,RT @mathias: 🎉 Dynamic `import()` unlocks new capabilities compared to static `import`. Here’s what you should know: https://t.co/pllG1JYdS…
 933131378241167400,Wed Nov 22 00:33:51 +0000 2017,RT @mathias: 🎉 Dynamic `import()` unlocks new capabilities compared to static `import`. Here’s what you should know: https://t.co/pllG1JYdS…
 932678759366369300,Mon Nov 20 18:35:19 +0000 2017,@zachleat This morning I discovered that &lt;input type=number&gt; doesn't do what I had always assumed. And as my luck h… https://t.co/CkejUHdlSg
 932341345477214200,Sun Nov 19 20:14:33 +0000 2017,@Huxpro @ChromeDevTools @jaffathecake It's changed over the years but nowadays it's done totally natively: https://t.co/bpH8rvcoh1
@@ -1398,7 +1394,6 @@ id,created_at,text
 865401452314755100,Fri May 19 02:59:19 +0000 2017,@kdzwinel @s3ththompson hah, not a problem! we've added some new features even @s3ththompson doesn't know about! 🤐 It's gonna be good! 👌
 865394546993053700,Fri May 19 02:31:52 +0000 2017,@rwjblue nice! it'd also be rad to write the data to a trace file and then devtools perf panel could show it, too.
 865392401048678400,Fri May 19 02:23:21 +0000 2017,RT @_developit: Woof! Preact is part of Speedometer 2, how V8 tracks real-world performance! https://t.co/ygsbJfsIjK
-865392401048678400,Fri May 19 02:23:21 +0000 2017,RT @_developit: Woof! Preact is part of Speedometer 2, how V8 tracks real-world performance! https://t.co/ygsbJfsIjK
 865214726220816400,Thu May 18 14:37:20 +0000 2017,RT @addyosmani: My case study on Twitter Lite's PWA: https://t.co/QCEOP7m2Yn  Only 600KB over the wire 75% increase in tweets sent PPRL + R…
 865033659635572700,Thu May 18 02:37:50 +0000 2017,@Jhonnatanhxc @wesbos because it throws a bad invocation error!  :)
 864941364978503700,Wed May 17 20:31:05 +0000 2017,@mjackson @ryanflorence you guys OK if i use this video (or screenshots of it) in a talk of mine?
@@ -1598,7 +1593,6 @@ id,created_at,text
 826887972544929800,Wed Feb 01 20:20:30 +0000 2017,RT @aerotwist: For situations where ¯\_(ツ)_/¯ doesn’t cut it. https://t.co/AwugHZgvdh
 826599247730577400,Wed Feb 01 01:13:12 +0000 2017,@adityapunjani srsly? Remember who shared these?
 826597768474959900,Wed Feb 01 01:07:20 +0000 2017,RT @kdzwinel: Yesterday, after month of work, I've finally committed cookie editing to @ChromeDevTools 🎉 Check it out in today's Canary! ht…
-826597768474959900,Wed Feb 01 01:07:20 +0000 2017,RT @kdzwinel: Yesterday, after month of work, I've finally committed cookie editing to @ChromeDevTools 🎉 Check it out in today's Canary! ht…
 826597749072109600,Wed Feb 01 01:07:15 +0000 2017,RT @ChromeDevTools: Thank you @kdzwinel for all of your contributions over the years https://t.co/l55s6edf8T
 826596570820866000,Wed Feb 01 01:02:34 +0000 2017,@tomdale and for those on Mac, this docker image is clutch: https://t.co/QsQn5Ckcmm
 826477302372462600,Tue Jan 31 17:08:38 +0000 2017,RT @DasSurma: 🖥 MicroTip: Chrome DevTools’ Animation Slowdown + Layer Inspector is 💯 to analyzing how layers are animated. https://t.co/UUD…
@@ -1796,7 +1790,6 @@ id,created_at,text
 785890059975221200,Tue Oct 11 17:09:26 +0000 2016,@getify For example, most parallax effects can be done completely without JS and ends up delivering incredible performance wins.
 785889705715830800,Tue Oct 11 17:08:01 +0000 2016,@getify IMO the positioning of "you might not need" is a soft but effective ploy to have the reader reconsider their toolset for the better
 785889338051612700,Tue Oct 11 17:06:33 +0000 2016,@getify not a bad aspiration. :)
-785887699798372400,Tue Oct 11 17:00:03 +0000 2016,@getify wait, don't you self-identify as a contrarian?
 785887699798372400,Tue Oct 11 17:00:03 +0000 2016,@getify wait, don't you self-identify as a contrarian?
 785885652512481300,Tue Oct 11 16:51:55 +0000 2016,RT @_developit: Dang, `yarn why` is sweet. Tells you why you have a dep. Props @thejameskyle @sebmck @cpojer https://t.co/ij7ZV8EtV9
 785882703149228000,Tue Oct 11 16:40:12 +0000 2016,@jasonlaster11 @asolove also recommended, following @538forecastbot
@@ -1997,7 +1990,6 @@ id,created_at,text
 769398644575506400,Sat Aug 27 04:58:26 +0000 2016,@antimatter15 ummmm this is kind of incredible. like seriously so so good. goddamn.
 769370573877055500,Sat Aug 27 03:06:53 +0000 2016,RT @wesbos: Woah, you can an ES6 spread to see what an emoji is made up of https://t.co/zvurJsfnzj
 769231911998910500,Fri Aug 26 17:55:54 +0000 2016,@anton_kaminsky they are when you're remote debugging or debugging NodeJS. Basically when the host Chrome version may not match the client
-769231911998910500,Fri Aug 26 17:55:54 +0000 2016,@anton_kaminsky they are when you're remote debugging or debugging NodeJS. Basically when the host Chrome version may not match the client
 768938858650087400,Thu Aug 25 22:31:24 +0000 2016,RT @bocoup: JavaScript: The Strange Parts— read about the most bizarre tests we've written in test262: https://t.co/8QRJwCCIgo https://t.co…
 768881223368183800,Thu Aug 25 18:42:23 +0000 2016,RT @dan_abramov: Coming in React 15.4.0: integration with @ChromeDevTools Timeline. https://t.co/xCXtB0k6xT https://t.co/plYCPxOjfO
 768677980272889900,Thu Aug 25 05:14:46 +0000 2016,@SlexAxton @lawnsea hugz + &lt;3z buddy.
@@ -2196,7 +2188,6 @@ id,created_at,text
 747455862692732900,Mon Jun 27 15:45:39 +0000 2016,RT @cramforce: Loving this talk about “How to build a faster browser engine” https://t.co/DQe0lv4wPA All the BlinkOn talks are super awesom…
 746455464276164600,Fri Jun 24 21:30:25 +0000 2016,@darcy @addyosmani @ChromeDevTools true. We're working on higher information density
 746362195085254700,Fri Jun 24 15:19:48 +0000 2016,@marcogmonteiro yup! https://t.co/S7UZCrInSY
-746358554106404900,Fri Jun 24 15:05:20 +0000 2016,Debugging Node.js Nightlies with @ChromeDevTools – In 4 Steps https://t.co/GXyA0aud1k
 746358554106404900,Fri Jun 24 15:05:20 +0000 2016,Debugging Node.js Nightlies with @ChromeDevTools – In 4 Steps https://t.co/GXyA0aud1k
 746250170833182700,Fri Jun 24 07:54:40 +0000 2016,@adamrpearce @driven_by_data true, baseline knowledge of the geography required for the distortion to add value. that's fair.
 746244185032900600,Fri Jun 24 07:30:52 +0000 2016,@adamrpearce @driven_by_data surprised to not see a cartogram. The population density made a lot more clear in https://t.co/o7PgG55zXZ
@@ -2597,7 +2588,6 @@ id,created_at,text
 690602446603685900,Fri Jan 22 18:30:28 +0000 2016,@jkup cause and effect? +@auchenberg https://t.co/H6Kxrdsl9a
 690411450960052200,Fri Jan 22 05:51:31 +0000 2016,RT @lgarron: I just got a @LetsEncrypt through @DreamHost and the new @ChromeDevTools Security panel is pretty useful here! :-) https://t.c…
 690267006583443500,Thu Jan 21 20:17:33 +0000 2016,@mattdesl @_ryanmack i'm using "JavaScript (Babel)" from https://t.co/0cPLtAGgNV… but see no real differences from JavaScript Next any more.
-690267006583443500,Thu Jan 21 20:17:33 +0000 2016,@mattdesl @_ryanmack i'm using "JavaScript (Babel)" from https://t.co/0cPLtAGgNV… but see no real differences from JavaScript Next any more.
 690265444498812900,Thu Jan 21 20:11:21 +0000 2016,@ElijahLynn @ChromeDevTools  what aspects of the state do you want?
 690073933085802500,Thu Jan 21 07:30:21 +0000 2016,@_ryanmack @mattdesl https://t.co/3zskxH5kSy
 690070397056892900,Thu Jan 21 07:16:18 +0000 2016,@rowemore @umaar @addyosmani actually you can do cmd-shift-c right away, it'll open devtools if needed. :D
@@ -2996,7 +2986,6 @@ id,created_at,text
 632296017925292000,Fri Aug 14 21:01:32 +0000 2015,@jasonlaster11 @samccone and it's extensible via window.devtoolsFrameworkUserEventListeners
 632294830681382900,Fri Aug 14 20:56:49 +0000 2015,@jasonlaster11 @samccone  just a improved UI in evt listeners pane: https://t.co/qyxdd2daDY
 632294666570829800,Fri Aug 14 20:56:10 +0000 2015,@HenrikJoreteg we agree. :) we've already started this. https://t.co/gc4X0b5MGe +@sundress
-632294303256088600,Fri Aug 14 20:54:44 +0000 2015,GQ worked hard on their mobile pageload performance.  Results: pageload time is ⬇ 80%. Traffic is ⬆ 80%.  http://t.co/9fbD7Dc6pt
 632294303256088600,Fri Aug 14 20:54:44 +0000 2015,GQ worked hard on their mobile pageload performance.  Results: pageload time is ⬇ 80%. Traffic is ⬆ 80%.  http://t.co/9fbD7Dc6pt
 631961318933798900,Thu Aug 13 22:51:34 +0000 2015,@man1fold @ChromeDevTools ;) http://t.co/GCGIVnxjvV
 631907160092336100,Thu Aug 13 19:16:21 +0000 2015,@TobiReif seems OK. Read this though. http://t.co/WjMkYIxJUo

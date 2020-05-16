@@ -399,7 +399,6 @@ id,created_at,text
 1187083169142464500,Wed Oct 23 19:07:37 +0000 2019,Code less with more Room 2.2 👩‍💻👨‍💻  Watch @fmuntenescu and @danyaguacate dive into the latest Room 2.2 features in… https://t.co/N5q1y8dwwk
 1187076436613464000,Wed Oct 23 18:40:51 +0000 2019,@johnhoford 🥳🎉
 1187076365717098500,Wed Oct 23 18:40:35 +0000 2019,RT @johnhoford: I am super excited to introduce #MotionEditor 🎉🎉🎉  New in #AndroidStudio 4.0 canary 1 (you will also need to update to #Con…
-1187076365717098500,Wed Oct 23 18:40:35 +0000 2019,RT @johnhoford: I am super excited to introduce #MotionEditor 🎉🎉🎉  New in #AndroidStudio 4.0 canary 1 (you will also need to update to #Con…
 1187072116782354400,Wed Oct 23 18:23:42 +0000 2019,🚀 Blast off with Jetpack Compose! 🌙  Earlier today at #AndroidDevSummit we announced the developer preview of… https://t.co/Wj3gn5Qnc1
 1187068618372026400,Wed Oct 23 18:09:47 +0000 2019,🛎 The time has arrived for #AskAndroid! 💁‍♀️  @ChetHaase, @TorNorbye, Stephanie Cuthbertson, and @Davey_Burke are l… https://t.co/4L7IrpdMCK
 1187067127854878700,Wed Oct 23 18:03:52 +0000 2019,We're excited to share some fun facts! 🤓  🚀 Over 80% of the top 10K apps use Jetpack 📸 CameraX is now in beta 📊 Bio… https://t.co/P84fjGyBa5
@@ -999,7 +998,6 @@ id,created_at,text
 1026535878632661000,Mon Aug 06 18:30:00 +0000 2018,RT @GooglePlayDev: Hey #AndroidDev, have any questions about #GooglePlay policies? Join this upcoming webinar for advice and insights on th…
 1026514853270380500,Mon Aug 06 17:06:27 +0000 2018,The wait is over: Android 9 Pie is here!   This new release harnesses the power of machine learning to make your ph… https://t.co/LVkBU0DmWZ
 1025048934593585200,Thu Aug 02 16:01:25 +0000 2018,Why isn't my text red?!? 😡 Understand how to declaratively style text in this article by @crafty ↓ https://t.co/CDiGlGUvkH
-1025048934593585200,Thu Aug 02 16:01:25 +0000 2018,Why isn't my text red?!? 😡 Understand how to declaratively style text in this article by @crafty ↓ https://t.co/CDiGlGUvkH
 1024751091144118300,Wed Aug 01 20:17:53 +0000 2018,Found your type? Automatically apply custom typography to #MaterialComponents on Android including buttons &amp; menus… https://t.co/CBHMdGwDta
 1024339621549932500,Tue Jul 31 17:02:51 +0000 2018,RT @GooglePlayDev: Southeast Asia offers a tremendous opportunity for finding new users and revenue streams. Expand your #AndroidDev busine…
 1024023442482450400,Mon Jul 30 20:06:28 +0000 2018,Learn more about how your apps can support new edge-to-edge screens with display cutouts.   Read the post here ↓ https://t.co/ITyGiEXGVq
@@ -1198,7 +1196,6 @@ id,created_at,text
 976458406407139300,Wed Mar 21 14:00:00 +0000 2018,Go deeper into the ExoPlayer API by learning about playlists and UI customization as we build an #Android video pla… https://t.co/N3SAaPQAvD
 976209267182141400,Tue Mar 20 21:30:01 +0000 2018,Developers are spending valuable time trying to determine when the user has started or ended an activity  Today, we… https://t.co/wk09oothOb
 976152400145903600,Tue Mar 20 17:44:02 +0000 2018,Create wearable apps with #WearOSbyGoogle!  @amadurska runs us through the main design features, tips for developin… https://t.co/qdpA0a8rMh
-976111462098772000,Tue Mar 20 15:01:22 +0000 2018,[2/2] You can make sequences from a list or by specifying a next function. If you never terminate a sequence, it ca… https://t.co/G88phyO304
 976111462098772000,Tue Mar 20 15:01:22 +0000 2018,[2/2] You can make sequences from a list or by specifying a next function. If you never terminate a sequence, it ca… https://t.co/G88phyO304
 976111459955482600,Tue Mar 20 15:01:21 +0000 2018,[1/2] Sequences are lists that never existed. A Sequence is a cousin of Iterator, lazily generating one value at a… https://t.co/6Sm2I3qT5W
 976096018726047700,Tue Mar 20 14:00:00 +0000 2018,Great “toolbox” of handy code snippets to help optimize your #Android app for #ChromeOS 📱+💻=👩💻😁  Read it here → https://t.co/1cnEqT5Mka
@@ -1399,7 +1396,6 @@ id,created_at,text
 909854536726171600,Mon Sep 18 19:00:00 +0000 2017,RT @droidconNYC: Hands-on with #AndroidThings @ #DCNYC17 learn everything you need to know about developing IoT applications $100 off https…
 909824338848862200,Mon Sep 18 17:00:00 +0000 2017,RT @GooglePlayDev: What would you like us to cover more? Or let us know via comments!
 908763220021784600,Fri Sep 15 18:43:30 +0000 2017,Chris Craik explains the thinking behind the new Paging Library in #Android #ArchitectureComponents. https://t.co/rQ2HLaxK6W
-908763220021784600,Fri Sep 15 18:43:30 +0000 2017,Chris Craik explains the thinking behind the new Paging Library in #Android #ArchitectureComponents. https://t.co/rQ2HLaxK6W
 908752273974661100,Fri Sep 15 18:00:00 +0000 2017,RT @GooglePlayDev: Have questions about #GooglePlay policy? Register for September 28 webinar and ask our expert live: https://t.co/oSTVeEQ…
 908737664656007200,Fri Sep 15 17:01:57 +0000 2017,We've partnered with @hacksterio to bring you an #AndroidThings dev challenge!  Learn more and enter to win →… https://t.co/ZTSgYejSl4
 908421470774276100,Thu Sep 14 20:05:30 +0000 2017,SafetyNet Verify Apps API can help identify potentially harmful apps installed on a device  Read more here →… https://t.co/Z7GsGyN6Ya
@@ -1598,7 +1594,6 @@ id,created_at,text
 864940210769023000,Wed May 17 20:26:30 +0000 2017,Latest from #io17: New Actions Console for devs to collect data on app usage, performance &amp; user discovery patterns… https://t.co/M1tgvPLpbJ
 864939405957451800,Wed May 17 20:23:18 +0000 2017,RT @googledevs: News from the #io17 stage: Anyone can now build and publish an Android Instant App. https://t.co/8UsaLx5CxA https://t.co/Me…
 864938289635242000,Wed May 17 20:18:52 +0000 2017,Android Studio 3.0 Canary is now available! Watch #io17 live: https://t.co/FjWhFC3irC
-864937292095516700,Wed May 17 20:14:54 +0000 2017,Android is now supporting the Kotlin programming language, in addition to the Java language and C++.  Watch live:… https://t.co/RCP8Br5dv6
 864937292095516700,Wed May 17 20:14:54 +0000 2017,Android is now supporting the Kotlin programming language, in addition to the Java language and C++.  Watch live:… https://t.co/RCP8Br5dv6
 864935269568438300,Wed May 17 20:06:52 +0000 2017,The #io17 Developer Keynote with @jasontitus has just kicked-off! Follow along on https://t.co/vp91WyY551 . https://t.co/jXE3CVlrTa
 864934899542896600,Wed May 17 20:05:24 +0000 2017,@Kalisecuritty Hi Nicolaus! You can check out some of the changes here https://t.co/LHVIu1TuDZ. Cheers! #io17request
@@ -1799,7 +1794,6 @@ id,created_at,text
 783350174387056600,Tue Oct 04 16:56:50 +0000 2016,RT @madebygoogle: Well hello, #Pixel. #madebygoogle https://t.co/h6KxoC9g79
 783345787350622200,Tue Oct 04 16:39:24 +0000 2016,RT @madebygoogle: It's time to meet a few new devices that have the very best of Google built in. #madebygoogle https://t.co/zEoEjO0HZY
 781623311553982500,Thu Sep 29 22:34:53 +0000 2016,Build Quick Settings Tiles for critical+frequent actions on #AndroidNougat Blog: https://t.co/XR5MDh0e9H Video: https://t.co/ZspaaDko23
-781623311553982500,Thu Sep 29 22:34:53 +0000 2016,Build Quick Settings Tiles for critical+frequent actions on #AndroidNougat Blog: https://t.co/XR5MDh0e9H Video: https://t.co/ZspaaDko23
 781584336856506400,Thu Sep 29 20:00:01 +0000 2016,ExoPlayer v2 makes streaming audio/video even easier w/ API &amp; architecture improvements and many new features: https://t.co/n1jE8eWTpO
 781563174537433100,Thu Sep 29 18:35:56 +0000 2016,@bastetfurry Ha! Fixed https://t.co/2QOeJ1pVrc
 781563104207384600,Thu Sep 29 18:35:39 +0000 2016,@sipatha here you go! https://t.co/2QOeJ1pVrc
@@ -1999,7 +1993,6 @@ id,created_at,text
 715239923364790300,Wed Mar 30 18:11:00 +0000 2016,Enter your experiment for a chance for it (and you) to go to #Google #io16: https://t.co/stSaeg3oxR #AndroidExperiments
 714893405671854100,Tue Mar 29 19:14:04 +0000 2016,.@duhroach shares how to handle work across AsyncTasks and HandlerThreads: https://t.co/ChsiUb8Wfl #Perfmatters https://t.co/ysdi4eqE98
 714870525613310000,Tue Mar 29 17:43:09 +0000 2016,RT @googledevs: Become an #io16extended host in your local developer community. Learn how to start: https://t.co/OZ8IiDZN9j #io16 https://t…
-714870525613310000,Tue Mar 29 17:43:09 +0000 2016,RT @googledevs: Become an #io16extended host in your local developer community. Learn how to start: https://t.co/OZ8IiDZN9j #io16 https://t…
 713422974267834400,Fri Mar 25 17:51:06 +0000 2016,Learn about Registering OAuth clients for Google Sign-in via Isabella Chen and @lmoroney https://t.co/UgHx5QvbP4
 713413087253176300,Fri Mar 25 17:11:49 +0000 2016,#AndroidExperiments I/O Challenge is live! Submit yours to win a trip to #Google #io16. https://t.co/nS5qxjfhYH https://t.co/klFxx0cBjl
 712733060396089300,Wed Mar 23 20:09:38 +0000 2016,5 Pro-tips from @ianhlake on preparing for multi-window on #AndroidN https://t.co/7GrLeYEXkq #BuildBetterApps
@@ -2198,7 +2191,6 @@ id,created_at,text
 674315398335045600,Tue Dec 08 19:51:33 +0000 2015,10 tips to take your game global: https://t.co/dsphlKthMA #GooglePlay
 674293751821418500,Tue Dec 08 18:25:32 +0000 2015,@iamvijaysai @cherylsmiff @iBrent @Droid @YucappGames We jumped the gun on this one. Way too much ☕️ today! Playbook coming soon!
 674290028273647600,Tue Dec 08 18:10:45 +0000 2015,Caching is the computing principle to rule them all. Learn more about it with @dontmesswithjo https://t.co/9BL1f6OYvN
-674027323063013400,Tue Dec 08 00:46:51 +0000 2015,RT @googledevs: Register to learn about the future of mobile and how you can launch a career in Android development, c/o @GA https://t.co/H…
 674027323063013400,Tue Dec 08 00:46:51 +0000 2015,RT @googledevs: Register to learn about the future of mobile and how you can launch a career in Android development, c/o @GA https://t.co/H…
 673984706484895700,Mon Dec 07 21:57:30 +0000 2015,RT @nataliaenvy: This week US military veterans are learning @Android development @google w/@katherine_kuan @Shaneakr &amp; me #HireAHero https…
 673943058925396000,Mon Dec 07 19:12:01 +0000 2015,10 ways to increase your earnings: https://t.co/ZaOUQde2oy #AndroidDevelopers #GooglePlay
@@ -2796,7 +2788,6 @@ id,created_at,text
 568129666885644300,Wed Feb 18 19:27:22 +0000 2015,An updated overview of building for Android Wear by @TimothyJordan http://t.co/JWaHMvkxtM #androidwear
 567756578485325800,Tue Feb 17 18:44:51 +0000 2015,The most common Android rendering perf issue is easier to fix than you think. @duhroach shows you how #PERFMATTERS http://t.co/yEq1z3ltAn
 567738328422694900,Tue Feb 17 17:32:20 +0000 2015,RT @googledevs: All of the latest Google Developer announcements, resources (and fun) are only a subscription away! http://t.co/fSg7KQU2Qq …
-566260319509426200,Fri Feb 13 15:39:15 +0000 2015,The WebView Beta channel is open for business. Test out your apps w/ the latest WebView before your users get updates http://t.co/NwOwlkETFq
 566260319509426200,Fri Feb 13 15:39:15 +0000 2015,The WebView Beta channel is open for business. Test out your apps w/ the latest WebView before your users get updates http://t.co/NwOwlkETFq
 565585356108873700,Wed Feb 11 18:57:11 +0000 2015,#AndroidDev story: @guardian lifts app rating to 4.4 &amp; captures users who are 10-20X more engaged than web users http://t.co/DmWfRZ1Yim
 565580111958003700,Wed Feb 11 18:36:21 +0000 2015,Attending #GDC2015 in SF? Get a sneak peek at what's in store at Google Developer Day on 3/2 http://t.co/jU6OTLhKgq http://t.co/aBXCJ1phuD

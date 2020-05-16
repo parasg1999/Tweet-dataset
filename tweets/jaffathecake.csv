@@ -399,7 +399,6 @@ id,created_at,text
 1252602634030190600,Tue Apr 21 14:18:34 +0000 2020,The trap is set. Now we wait.
 1252600189065592800,Tue Apr 21 14:08:51 +0000 2020,@housecor Ah, fair enough. This is a reasonable model. Although, I tend to use IDB, or the cache API, since you're… https://t.co/IeNYdSohWL
 1252592410829435000,Tue Apr 21 13:37:57 +0000 2020,@housecor But that's how max-age works
-1252592410829435000,Tue Apr 21 13:37:57 +0000 2020,@housecor But that's how max-age works
 1252592056540815400,Tue Apr 21 13:36:32 +0000 2020,@theSdev (and no faces are visible)
 1252591852307583000,Tue Apr 21 13:35:44 +0000 2020,@theSdev (I checked)
 1252583088535875600,Tue Apr 21 13:00:54 +0000 2020,@PicardParis To be honest I reckon he cares more about food than my stinky pits at this point
@@ -1199,7 +1198,6 @@ id,created_at,text
 1238527310090952700,Fri Mar 13 18:08:16 +0000 2020,@johnwilander @dfabu @webkit I'm voicing frustration about an API that shipped without a standard, for years, and n… https://t.co/4SaUsCJCsq
 1238526163514986500,Fri Mar 13 18:03:42 +0000 2020,@johnwilander @dfabu Hey, I remember when the @webkit account was retweeting everything negative about service work… https://t.co/SH0Z88WS9C
 1238506808723091500,Fri Mar 13 16:46:48 +0000 2020,@johnwilander Oh come on, you're no stranger to snark yourself https://t.co/di4L2qbUck.  I think my point was valid… https://t.co/PcoxtUIVPE
-1238506808723091500,Fri Mar 13 16:46:48 +0000 2020,@johnwilander Oh come on, you're no stranger to snark yourself https://t.co/di4L2qbUck.  I think my point was valid… https://t.co/PcoxtUIVPE
 1238504138960502800,Fri Mar 13 16:36:11 +0000 2020,@johnwilander Sounds like the API should be called request2005Storage() ☹️
 1238490407513796600,Fri Mar 13 15:41:37 +0000 2020,@johnwilander The storage access API doesn't grant access to storage then? ☹️
 1238478790889701400,Fri Mar 13 14:55:28 +0000 2020,@johnwilander I'm talking about requestStorageAccess. I don't think we should ship things, especially for years, without a spec.
@@ -1599,7 +1597,6 @@ id,created_at,text
 1229381707570217000,Mon Feb 17 12:26:54 +0000 2020,@dgrammatiko @addyosmani Shipped in Chrome
 1229373931129319400,Mon Feb 17 11:56:00 +0000 2020,@addyosmani PR to update the explainer https://t.co/plCU8VErGQ
 1229371232061182000,Mon Feb 17 11:45:16 +0000 2020,@addyosmani fwiw, here's a simple version of the example: https://t.co/2iSSZB6M9q
-1229371232061182000,Mon Feb 17 11:45:16 +0000 2020,@addyosmani fwiw, here's a simple version of the example: https://t.co/2iSSZB6M9q
 1229355167285420000,Mon Feb 17 10:41:26 +0000 2020,RT @girlie_mac: [🆕 Revised] Thank you all for your help me! Algorithm is hard!  ✏️ Rewrite O(n^2) section  🧮 New example may be more compli…
 1229342504765546500,Mon Feb 17 09:51:07 +0000 2020,@TejasKumar_ When travelling to Europe: No. Travelling light. Travelling further and staying in hotel: Sometimes. T… https://t.co/xtFF4g2p2Q
 1229167224562356200,Sun Feb 16 22:14:37 +0000 2020,@suz__oswald @nevali A guy who went to my school was called Robert Hardon and his nickname was Nobert. Still makes me laugh.
@@ -1798,7 +1795,6 @@ id,created_at,text
 1226902499270873000,Mon Feb 10 16:15:25 +0000 2020,@NicholasPeretti Why is this a PR against PROXX? Are you expecting it to be merged?
 1226899247146029000,Mon Feb 10 16:02:29 +0000 2020,@NicholasPeretti Those imports are dependent on other Rollup plugins
 1226897124555493400,Mon Feb 10 15:54:03 +0000 2020,@NicholasPeretti It might need the -b flag
-1226895921775956000,Mon Feb 10 15:49:17 +0000 2020,@NicholasPeretti Does PROXX build for you?
 1226895921775956000,Mon Feb 10 15:49:17 +0000 2020,@NicholasPeretti Does PROXX build for you?
 1226886948804939800,Mon Feb 10 15:13:37 +0000 2020,@barneycarroll @alastc Right, but that doesn't stop it being a clunky line.
 1226885931233210400,Mon Feb 10 15:09:35 +0000 2020,@NicholasPeretti I don't use the default plugin because it doesn't perform type checking.
@@ -1999,7 +1995,6 @@ id,created_at,text
 1222193065932267500,Tue Jan 28 16:21:48 +0000 2020,@davatron5000 @ChromiumDev @DasSurma yay!
 1222193030444322800,Tue Jan 28 16:21:40 +0000 2020,@davatron5000 @ChromiumDev @DasSurma uh oh
 1222189087349792800,Tue Jan 28 16:06:00 +0000 2020,@rafaels_dev @miguel_demoura a 'proxy' you say??
-1222189087349792800,Tue Jan 28 16:06:00 +0000 2020,@rafaels_dev @miguel_demoura a 'proxy' you say??
 1222188555444899800,Tue Jan 28 16:03:53 +0000 2020,@JorisGriffioen @rafaels_dev It wouldn't be 100s of GBs for a single user. But I don't see why the browser is a bad tool for this.
 1222185904783208400,Tue Jan 28 15:53:21 +0000 2020,@Sushubh Which part specifically do you disagree with?
 1222185736339849200,Tue Jan 28 15:52:41 +0000 2020,@OSM_Pontarlier Are you telling me you've internalised all 8800+ rules that are required to tell if two URLs are part of the same site?
@@ -2198,7 +2193,6 @@ id,created_at,text
 1217967296959914000,Fri Jan 17 00:30:06 +0000 2020,RT @alicegoldfuss: Software Engineers  20-25: gotta get a job gotta get a job gotta get a job 25-29: gotta get promoted gotta get promoted…
 1217965522131865600,Fri Jan 17 00:23:03 +0000 2020,@JamesHealey94 Haha I hadn't made the connection, I thought you'd divined it somehow. Good recommendation.
 1217964947700842500,Fri Jan 17 00:20:46 +0000 2020,@JamesHealey94 Mate, good fucking guess. It absolutely is.
-1217963039175204900,Fri Jan 17 00:13:11 +0000 2020,Plastic fork snapped. Phase two is gonna get messy. https://t.co/bzGNZ1jcyd
 1217963039175204900,Fri Jan 17 00:13:11 +0000 2020,Plastic fork snapped. Phase two is gonna get messy. https://t.co/bzGNZ1jcyd
 1217961937218293800,Fri Jan 17 00:08:49 +0000 2020,@seaotta I once got a Thai soup and took it to my room. For whatever reason the container dissolved half way throug… https://t.co/YJsiLaWz0a
 1217961553183506400,Fri Jan 17 00:07:17 +0000 2020,@jesslynnrose ey up the fuckin north
@@ -2399,7 +2393,6 @@ id,created_at,text
 1215288974744412200,Thu Jan 09 15:07:25 +0000 2020,@crgeary @AdamRackis Yeah, I *think* it mostly comes down to dictionaries it ships with, but I'm not an expert on the implementation.
 1215286974661169200,Thu Jan 09 14:59:28 +0000 2020,@DasSurma Also, makes the library look smaller 😀
 1215285554461409300,Thu Jan 09 14:53:49 +0000 2020,@DasSurma hahaha yep! Although also sorta myself. I did some spring cleaning on https://t.co/JvZm4OGpO7 (not yet pu… https://t.co/GTJH1MXyFc
-1215285554461409300,Thu Jan 09 14:53:49 +0000 2020,@DasSurma hahaha yep! Although also sorta myself. I did some spring cleaning on https://t.co/JvZm4OGpO7 (not yet pu… https://t.co/GTJH1MXyFc
 1215285116320256000,Thu Jan 09 14:52:05 +0000 2020,We often talk about the gzipped size of libraries, but maybe it's time we default to the brotli size? https://t.co/TNkl41RUM9
 1215280302442061800,Thu Jan 09 14:32:57 +0000 2020,RT @Paul_Kinlan: Looks like Chrome will soon use orientation EXIF information to correctly rotate the image by default. Can be overridden w…
 1215271199946739700,Thu Jan 09 13:56:47 +0000 2020,@beardoftooting @deats @robmanuel (to be fair, there was once a Viz strip called 'Wacky Racists', which was a parod… https://t.co/uti9nWzok6
@@ -2598,7 +2591,6 @@ id,created_at,text
 1213420408017436700,Sat Jan 04 11:22:24 +0000 2020,@mountain_ghosts Especially Redux it seems.
 1213417363716083700,Sat Jan 04 11:10:18 +0000 2020,@sil yeah, I gone did a mistake
 1213416008863699000,Sat Jan 04 11:04:55 +0000 2020,@Chris_EP_ Seems better to just have:  function getUnique(arr) {   return [...new Set(arr)]; }
-1213415521238032400,Sat Jan 04 11:02:59 +0000 2020,@iamcherta I used to like chaining for chaining's sake back in the jQuery days. Not so bothered these days.
 1213415521238032400,Sat Jan 04 11:02:59 +0000 2020,@iamcherta I used to like chaining for chaining's sake back in the jQuery days. Not so bothered these days.
 1213415062238646300,Sat Jan 04 11:01:09 +0000 2020,@lball70 mate what is going on?
 1213415001182130200,Sat Jan 04 11:00:55 +0000 2020,@janl The only part of reduce it's using is the looping part. So why not use... a loop.  The examples that are doin… https://t.co/jxqYbd8eLf
@@ -2998,7 +2990,6 @@ id,created_at,text
 1203273121345802200,Sat Dec 07 11:20:42 +0000 2019,RT @css: “Off The Main Thread” https://t.co/GlDw1t3lrP https://t.co/q6nid3pEXl
 1202962114685612000,Fri Dec 06 14:44:52 +0000 2019,@john_shepherd Yessssss! I salvaged my flash CV a few years back https://t.co/M2Hc9YS3L3
 1202958942906781700,Fri Dec 06 14:32:16 +0000 2019,Looking forward to giving a talk at my old university https://t.co/Nm9SL8Gsd9
-1202958942906781700,Fri Dec 06 14:32:16 +0000 2019,Looking forward to giving a talk at my old university https://t.co/Nm9SL8Gsd9
 1202944678829731800,Fri Dec 06 13:35:35 +0000 2019,I really like this way of describing an album https://t.co/WxY5A6qoeb
 1202916466850500600,Fri Dec 06 11:43:29 +0000 2019,@mikehall314 https://t.co/oFNDi5fnsx  I heard "colour" when the subtitles said "colour", but listening with eyes cl… https://t.co/QLKBYXRFRq
 1202899083565908000,Fri Dec 06 10:34:24 +0000 2019,@sebflipper Ugh. Embarrassing.
@@ -3236,5 +3227,4 @@ id,created_at,text
 1195296437669642200,Fri Nov 15 11:04:12 +0000 2019,@felixge IMO, it's worth it for autocomplete
 1195295927805841400,Fri Nov 15 11:02:11 +0000 2019,geng gengengengen geng geng g-geng https://t.co/ciMegtxZ82
 1195290246256234500,Fri Nov 15 10:39:36 +0000 2019,@DasSurma @aerotwist @Paul_Kinlan @TimvdLippe Not hearing much denial here
-1195185831658631200,Fri Nov 15 03:44:42 +0000 2019,@aerotwist @Paul_Kinlan @DasSurma @TimvdLippe cc @British_Airways someone has shat gas all over this plane. Please advise.
 1195185831658631200,Fri Nov 15 03:44:42 +0000 2019,@aerotwist @Paul_Kinlan @DasSurma @TimvdLippe cc @British_Airways someone has shat gas all over this plane. Please advise.

@@ -198,7 +198,6 @@ id,created_at,text
 890210336548175900,Wed Jul 26 14:00:58 +0000 2017,An excellent case study on adding better Flow types to @apollographql. https://t.co/9IcbBaIWDB
 890209911484760000,Wed Jul 26 13:59:16 +0000 2017,RT @mark_volkmann: @Andreyco @flowtype @satya164 @grabbou A recent talk I gave on Flow: https://t.co/YuwB0gujBN
 890209508630253600,Wed Jul 26 13:57:40 +0000 2017,RT @mutebg: @flowtype is exceptionally smart, just love the way it helps me catching the errors
-890209508630253600,Wed Jul 26 13:57:40 +0000 2017,RT @mutebg: @flowtype is exceptionally smart, just love the way it helps me catching the errors
 890040960918315000,Wed Jul 26 02:47:55 +0000 2017,@zero__bias This is something we are working on.
 890040866823323600,Wed Jul 26 02:47:33 +0000 2017,@zero__bias Thank you for letting us know!
 890040743368155100,Wed Jul 26 02:47:04 +0000 2017,@sseraphini @Andreyco @satya164 @grabbou This is something we will provide guidance on in an upcoming version.
@@ -545,5 +544,4 @@ id,created_at,text
 534786031732928500,Tue Nov 18 19:11:40 +0000 2014,RT @jlipps: Excited to see @flowtype joining the JS types + #ES6 scene. Lot of energy being put into making JS more awesome.
 534783826124623900,Tue Nov 18 19:02:54 +0000 2014,@tomekg_ Flow does much more type inference than other JavaScript type checkers. Missing annotations are treated as inferable static types.
 534782452653621250,Tue Nov 18 18:57:27 +0000 2014,RT @stevedomin: This 1st version of @flowtype is hot already. Good job @fb_engineering... https://t.co/f88f3QtB93
-534768316079169540,Tue Nov 18 18:01:16 +0000 2014,We're thrilled to launch the very first version of our JavaScript static type checker! We'd love your feedback. https://t.co/Q5gN5zTjUi
 534768316079169540,Tue Nov 18 18:01:16 +0000 2014,We're thrilled to launch the very first version of our JavaScript static type checker! We'd love your feedback. https://t.co/Q5gN5zTjUi

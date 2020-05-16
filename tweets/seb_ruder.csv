@@ -199,7 +199,6 @@ id,created_at,text
 1207746420842909700,Thu Dec 19 19:36:00 +0000 2019,“Nature does not shuffle the data, so we shouldn't either”—Leon Bottou (ICML 2019 Keynote) via @dabelcs' fantastic… https://t.co/eTFGahLWMf
 1207403913932136400,Wed Dec 18 20:55:00 +0000 2019,Great to see VCs being excited about NLP. Recent examples:  - @Lux_Capital's investment in @huggingface:… https://t.co/W7Fq0o7VPe
 1207275616124452900,Wed Dec 18 12:25:11 +0000 2019,@WWRob Thanks for pointing that out! I meant Indic here as "languages spoken in India" rather than the linguistic l… https://t.co/1Ra5520Hh3
-1207275616124452900,Wed Dec 18 12:25:11 +0000 2019,@WWRob Thanks for pointing that out! I meant Indic here as "languages spoken in India" rather than the linguistic l… https://t.co/1Ra5520Hh3
 1207082700131229700,Tue Dec 17 23:38:36 +0000 2019,RT @loretoparisi: Thanks @seb_ruder. When dealing with indic languages and #nlp it’s also important to mention libindic suite and indic-tra…
 1207074241830674400,Tue Dec 17 23:05:00 +0000 2019,Pretrained language models for 12 Indic languages in the iNLTK toolkit: https://t.co/kynTAIeep5 https://t.co/nWYc2nkscI
 1207062589114589200,Tue Dec 17 22:18:42 +0000 2019,NLP internship / PhD opportunities for speakers of low-resource languages (particularly African 🌍): - PhD w/… https://t.co/JyODnD9orL
@@ -398,7 +397,6 @@ id,created_at,text
 1174820982193893400,Thu Sep 19 23:02:03 +0000 2019,RT @eurnlp: The complete schedule of EurNLP 2019 is now available. We will have 12 high-quality talks + 1 keynote from amazing speakers, a…
 1174809108169613300,Thu Sep 19 22:14:52 +0000 2019,RT @shebogholo: I recently trained a language model for #Swahili using @fastdotai and @PyTorch for ~130 mins. I consider this as a stepping…
 1174744631461986300,Thu Sep 19 17:58:40 +0000 2019,RT @emnlp2019: We have published a list of hotels remote from the protesting areas and advise participants to book one of these hotels. Stu…
-1174739295099326500,Thu Sep 19 17:37:28 +0000 2019,@ancatmara Good to know it found a new home. ☺️
 1174739295099326500,Thu Sep 19 17:37:28 +0000 2019,@ancatmara Good to know it found a new home. ☺️
 1174642450260025300,Thu Sep 19 11:12:38 +0000 2019,RT @ThomasScialom: Episodic Memory in Lifelong Language Learning  https://t.co/9DPQF2MnTr  Motivation: prevent catastrophic forgetting in n…
 1174406359808467000,Wed Sep 18 19:34:30 +0000 2019,RT @alienelf: Caling all African NLPers (or even African devs or ML students interested in NLP) 📢 💥🤯  Let's put Africa on the NLP map 🌍♥️🚀…
@@ -799,7 +797,6 @@ id,created_at,text
 1117538884513148900,Sun Apr 14 21:23:27 +0000 2019,@jorgecarcavallo I think that's a fantastic idea! I wish you a lot of success!
 1117538712735424500,Sun Apr 14 21:22:46 +0000 2019,@Maaarcocr Definitely! Stay tuned for news on this. :)
 1117538121401479200,Sun Apr 14 21:20:25 +0000 2019,@basakbuluz Well done! 👏
-1117538121401479200,Sun Apr 14 21:20:25 +0000 2019,@basakbuluz Well done! 👏
 1117442712775602200,Sun Apr 14 15:01:18 +0000 2019,RT @alienelf: Last chance to get your @DeepIndaba applications in at  https://t.co/uL5u50OKci or https://t.co/1YN29kvXVF  Plz retweet @Jeff…
 1117430221773443100,Sun Apr 14 14:11:40 +0000 2019,RT @PiotrCzapla: Our ULMFiT won 1st place on Poleval2019, @misterkardas  tweaks have put our version far above ensemble of BERT. Showing ho…
 1117215241371291600,Sat Apr 13 23:57:25 +0000 2019,RT @sleepinyourhat: I'm hiring a postdoc for work on language understanding in NLP! Interested in working on transfer learning (think BERT)…
@@ -998,7 +995,6 @@ id,created_at,text
 1088412926803873800,Thu Jan 24 12:27:18 +0000 2019,RT @adamshamsudeen: @seb_ruder @Smerity @jeremyphoward We were working on the Malayalam Language model and text classifier for the past few…
 1088394648761061400,Thu Jan 24 11:14:40 +0000 2019,RT @_aylien: Great to be featured on @siliconrepublic's list of 25 European #deeptech #startups to watch in 2019, alongside some other exci…
 1088375986025123800,Thu Jan 24 10:00:30 +0000 2019,Natural Questions: A new QA dataset consisting of 300,000+ naturally occurring questions (posed to Google search) w… https://t.co/sBxZx3pBoV
-1088124526842519600,Wed Jan 23 17:21:18 +0000 2019,A comprehensive overview and break-down of 14 NLP research paper highlights from 2018 https://t.co/ap00YX9Oc9
 1088124526842519600,Wed Jan 23 17:21:18 +0000 2019,A comprehensive overview and break-down of 14 NLP research paper highlights from 2018 https://t.co/ap00YX9Oc9
 1088080133641158700,Wed Jan 23 14:24:54 +0000 2019,RT @delliott: I have funding for a Ph.D student to work in the general area of multimodal machine learning from images, videos, audio, and…
 1088079634049232900,Wed Jan 23 14:22:54 +0000 2019,RT @alex_conneau: 1/4 XLM: Cross-lingual language model pretraining. We extend BERT to the cross-lingual setting. New state of the art on X…
@@ -1199,7 +1195,6 @@ id,created_at,text
 1060172342712778800,Wed Nov 07 14:09:18 +0000 2018,@tavoaguilar91 I assume you mean prediction is at the word level as most of the LMs use character-level features. A… https://t.co/N63rIB6B33
 1060164442757980200,Wed Nov 07 13:37:54 +0000 2018,New post on my #EMNLP2018 Highlights: Inductive bias, cross-lingual learning, and more https://t.co/IrqcZaQ8rM
 1060155044161564700,Wed Nov 07 13:00:33 +0000 2018,RT @parsaghaffari: "Off-the-Shelf Unsupervised NMT" by @Mystical_Wiz, @seb_ruder and @anotherjohng explores unsupervised MT as a multi-task…
-1060155044161564700,Wed Nov 07 13:00:33 +0000 2018,RT @parsaghaffari: "Off-the-Shelf Unsupervised NMT" by @Mystical_Wiz, @seb_ruder and @anotherjohng explores unsupervised MT as a multi-task…
 1060097259428331500,Wed Nov 07 09:10:56 +0000 2018,RT @nigelhcollier: PhD funding just announced by The Alan Turing Institute @turinginst at https://t.co/UtEeHuFqw6. Happy to hear from highl…
 1059859719924277200,Tue Nov 06 17:27:03 +0000 2018,RT @SanhEstPasMoi: Excited to announce that our paper “A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks” has…
 1059859152447647700,Tue Nov 06 17:24:47 +0000 2018,We have a new hierarchical multi-task learning model coming out at #AAAI2019. Great work and super interesting anal… https://t.co/rTgvJQKJZ4
@@ -1397,7 +1392,6 @@ id,created_at,text
 1040226406335217700,Thu Sep 13 13:11:16 +0000 2018,Join us at the Frontiers of Natural Language Processing session at 4.30 pm in the Van der Sterr building at the… https://t.co/qIO2BN5A38
 1040226007561760800,Thu Sep 13 13:09:41 +0000 2018,@linbo_pythoner Thanks for the question! Those are just to represent a binary classification task, e.g. predicting… https://t.co/ZlxctCi4VG
 1040216640229654500,Thu Sep 13 12:32:27 +0000 2018,David Silver on success stories in Reinforcement Learning at the #DLIndaba2018. Fascinating to hear about RL intuit… https://t.co/SQm5TmE51p
-1040212682035654700,Thu Sep 13 12:16:44 +0000 2018,Just presented ULMFiT at the #DLIndaba2018. Great to see lots of people excited about progress in #nlproc! https://t.co/7c3HQCbhFR
 1040212682035654700,Thu Sep 13 12:16:44 +0000 2018,Just presented ULMFiT at the #DLIndaba2018. Great to see lots of people excited about progress in #nlproc! https://t.co/7c3HQCbhFR
 1040212241252008000,Thu Sep 13 12:14:59 +0000 2018,RT @tymwol: I just found this exhaustive series of posts on word embeddings in #NLProc #DeepLearning by @seb_ruder (1) https://t.co/fT0FpwW…
 1040212205713666000,Thu Sep 13 12:14:50 +0000 2018,RT @Sasha511: @DeepIndaba Posters: Universal Language Model Fine-tuning for Text Classification by @seb_ruder and @jeremyphoward 🤓 #DLIndab…
@@ -1598,7 +1592,6 @@ id,created_at,text
 1015256209891446800,Fri Jul 06 15:28:37 +0000 2018,@deliprao I guess a bit niche unless you want to crowd-source / create it yourself. Or: You can write to the startu… https://t.co/w2WU3UXsws
 1015140093387001900,Fri Jul 06 07:47:13 +0000 2018,@deliprao Sounds like this Cards Against Humanity for Startups might be what you're looking for. https://t.co/enIMuIjZLM
 1014948783661224000,Thu Jul 05 19:07:01 +0000 2018,@realdoug @jeremyphoward We're working on applying it to some sequence labeling tasks at the moment. Feel free to t… https://t.co/VTYUSKr4A2
-1014948783661224000,Thu Jul 05 19:07:01 +0000 2018,@realdoug @jeremyphoward We're working on applying it to some sequence labeling tasks at the moment. Feel free to t… https://t.co/VTYUSKr4A2
 1014791285851459600,Thu Jul 05 08:41:11 +0000 2018,@alanyttian @_aixile @minjunli Very cool!
 1014416482883817500,Wed Jul 04 07:51:51 +0000 2018,@uku_peter Thanks! Feel free to contribute if there's anything you'd like to add. :)
 1013432919988240400,Sun Jul 01 14:43:31 +0000 2018,@romanthecap Cool! 👍🏻
@@ -1797,7 +1790,6 @@ id,created_at,text
 994637358770327600,Thu May 10 17:56:40 +0000 2018,@artetxem Awesome! Looking forward to reading your paper! :)
 994542073993924600,Thu May 10 11:38:02 +0000 2018,@Shahnawazgrewal @emnlp2018 Well, you can send me a draft if it's related to my research areas (transfer learning,… https://t.co/ylGIM4xl4z
 994541172793200600,Thu May 10 11:34:27 +0000 2018,@Shahnawazgrewal Thanks! 😊
-994493726138519600,Thu May 10 08:25:55 +0000 2018,RT @parsaghaffari: Stance detection is an important tool for highlighting bias in media, and reflecting it to consumers. Read about how we…
 994493726138519600,Thu May 10 08:25:55 +0000 2018,RT @parsaghaffari: Stance detection is an important tool for highlighting bias in media, and reflecting it to consumers. Read about how we…
 994493636388819000,Thu May 10 08:25:34 +0000 2018,Instead of going completely unsupervised, we can leverage identically spelled words as weakly supervised seeds, whi… https://t.co/Ps5Y9AH8ya
 994492978793197600,Thu May 10 08:22:57 +0000 2018,@acl2018 @licwu We analyze the limitations of current unsupervised x-lingual embedding models, which are one of the… https://t.co/5fbPbGEnP4
@@ -2198,7 +2190,6 @@ id,created_at,text
 924986212330410000,Mon Oct 30 13:07:53 +0000 2017,New NLP News - Paperclip maximizer, Generative models, Debugging ML, ICLR, Interpretability (with link this time) https://t.co/YTEAxuzdUg
 924985545700380700,Mon Oct 30 13:05:14 +0000 2017,@naivebayesian Thanks! :)
 924938999122276400,Mon Oct 30 10:00:16 +0000 2017,NLP News - Paperclip maximizer, Generative models, Debugging ML, Evolution Strategies, Interpretability, arXiv, ICLR 2018, Multi-hop QA
-924938999122276400,Mon Oct 30 10:00:16 +0000 2017,NLP News - Paperclip maximizer, Generative models, Debugging ML, Evolution Strategies, Interpretability, arXiv, ICLR 2018, Multi-hop QA
 924557559087992800,Sun Oct 29 08:44:34 +0000 2017,RT @hardmaru: A Visual Guide to Evolution Strategies https://t.co/LEfMMLqZOY https://t.co/AvkjBOiWJR
 923845690912014300,Fri Oct 27 09:35:51 +0000 2017,@ehfo0 Thanks! I'm glad it's helpful! What's AVEB? :)
 923825238961516500,Fri Oct 27 08:14:35 +0000 2017,Learning a hierarchical policy to solve mazes by @OpenAI - interesting approach; first author is a high schooler! https://t.co/peVDYhw2pY
@@ -2397,7 +2388,6 @@ id,created_at,text
 885600919471231000,Thu Jul 13 20:44:47 +0000 2017,@gneubig Awesome! Are you going to have some at @emnlp2017 too? 😀
 884860238515621900,Tue Jul 11 19:41:35 +0000 2017,@xxplusdata Thanks! 😊
 884771800131010600,Tue Jul 11 13:50:10 +0000 2017,@DashingD3js @revue Ah, thanks for the pointer! Fixed those links now. :)
-884765007589888000,Tue Jul 11 13:23:10 +0000 2017,@DashingD3js @revue Thanks for the shout-out! 😍 Small correction: The site is https://t.co/0h8zWma2dl.
 884765007589888000,Tue Jul 11 13:23:10 +0000 2017,@DashingD3js @revue Thanks for the shout-out! 😍 Small correction: The site is https://t.co/0h8zWma2dl.
 884699063123300400,Tue Jul 11 09:01:08 +0000 2017,@NeillGernon Thanks! :)
 884690475453739000,Tue Jul 11 08:27:00 +0000 2017,@statsforbios 👍🏻 I'll put it here on Twitter as well, so you should also be able to see it here then. :)
@@ -2797,7 +2787,6 @@ id,created_at,text
 779814434436943900,Sat Sep 24 22:47:04 +0000 2016,@karpathy This is so awesome! Thanks for the link!
 779783060065755100,Sat Sep 24 20:42:23 +0000 2016,Nice blog post on language modelling on the 1B Word Benchmark &amp; when (not) to use LSTMs by @deliprao https://t.co/Lo5z8HdjYB #deeplearning
 779751563455787000,Sat Sep 24 18:37:14 +0000 2016,RT @withfries2: @karpathy is live now at Bay Area Deep Learning School starting off with history of neural nets https://t.co/j7GYsgb5fC
-779724199246037000,Sat Sep 24 16:48:30 +0000 2016,The secret ingredients of word2vec -- new blog post on word2vec's success factors and its link to dist semantics https://t.co/Iw0zVv1Qsv
 779724199246037000,Sat Sep 24 16:48:30 +0000 2016,The secret ingredients of word2vec -- new blog post on word2vec's success factors and its link to dist semantics https://t.co/Iw0zVv1Qsv
 779587931249872900,Sat Sep 24 07:47:01 +0000 2016,Where Will Artificial Intelligence come from? -- interesting blog post by @sebnowozin https://t.co/YbTsQcmE2O
 779376791714566100,Fri Sep 23 17:48:01 +0000 2016,Supervision by constraining the output space, e.g. to the laws of physics https://t.co/2dmj1P06kd #MachineLearning #deeplearning
@@ -3249,5 +3238,4 @@ id,created_at,text
 695521606425321500,Fri Feb 05 08:17:27 +0000 2016,RT @demishassabis: Thrilled to officially announce the 5-game challenge match between #AlphaGo and Lee Sedol in Seoul from March 9th-15th f…
 695217875586515000,Thu Feb 04 12:10:32 +0000 2016,@nlothian That's a good one. Cheers!
 694913323377246200,Wed Feb 03 16:00:21 +0000 2016,I can't believe the richness of annotations in @drfeifei's VisualGenome. Do we have something comparable in #nlproc? https://t.co/UCu32c9DbY
-694911028212154400,Wed Feb 03 15:51:14 +0000 2016,@_rockt Great job! Can't wait to read the paper! :)
 694911028212154400,Wed Feb 03 15:51:14 +0000 2016,@_rockt Great job! Can't wait to read the paper! :)

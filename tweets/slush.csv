@@ -1599,7 +1599,6 @@ id,created_at,text
 901093542852001800,Fri Aug 25 14:46:56 +0000 2017,@SooMartindale @deadalnix I believe network effect of BItcoin has huge advantage comparing to any other chain around. Let market decide.
 901093250001510400,Fri Aug 25 14:45:46 +0000 2017,@SooMartindale @deadalnix Thank you! Yes, there'll be disagreement most of time. That's why sticking with original… https://t.co/5v9SCXcQxU
 901091314216906800,Fri Aug 25 14:38:05 +0000 2017,@SooMartindale @deadalnix You see, they "just" bumped the limit. And fucked badly with other things b/c unaware of… https://t.co/Qa0ONXp9Vj
-901091314216906800,Fri Aug 25 14:38:05 +0000 2017,@SooMartindale @deadalnix You see, they "just" bumped the limit. And fucked badly with other things b/c unaware of… https://t.co/Qa0ONXp9Vj
 901090846413652000,Fri Aug 25 14:36:13 +0000 2017,@SooMartindale @deadalnix Sometimes the easiest solution isn't the best. I would go with 2MB myself, too. But I pre… https://t.co/zaEMyJHahl
 901089781676953600,Fri Aug 25 14:32:00 +0000 2017,@SooMartindale @deadalnix This is not directly related to Segwit. Actually, Segwit allow next tech to improve curre… https://t.co/Xp0iq6eLtc
 901089460892422100,Fri Aug 25 14:30:43 +0000 2017,@SooMartindale @deadalnix Although I've had some fights w/them b/c BIP 39/43, I still believe they're the most skil… https://t.co/dHkuhvYlmZ
@@ -1799,7 +1798,6 @@ id,created_at,text
 890223080123113500,Wed Jul 26 14:51:36 +0000 2017,@DreamsCrypto @TREZOR is #bitcoin wallet where you're sole owner of your private keys. Even if we would like to pre… https://t.co/UsAGXHy21x
 890151249991147500,Wed Jul 26 10:06:10 +0000 2017,@blueRAP @petertoddbtc @Bixincom We are not an exchange. But if some exchange allows such functionality, we may integrate it.
 889973159121764400,Tue Jul 25 22:18:30 +0000 2017,@sherrykochmail @dgenr818 @ViaBTC Buying? Not really.
-889973159121764400,Tue Jul 25 22:18:30 +0000 2017,@sherrykochmail @dgenr818 @ViaBTC Buying? Not really.
 889968348238233600,Tue Jul 25 21:59:23 +0000 2017,@spiroseliot @jimmysong @ViaBTC Price won't reflect real sentiment unless there's easy enough way to trade BCC for… https://t.co/B91as0NQkj
 889967733231673300,Tue Jul 25 21:56:57 +0000 2017,@jimmysong @ViaBTC I doubt @ShapeShift_io will have enough liquidity and big enough limits on BCC. Maybe they plan to use ViaBTC internally?
 889967043151249400,Tue Jul 25 21:54:12 +0000 2017,@jimmysong @ViaBTC Considering ViaBTC will be the only market trading BCC, I would prefer to trade it there to get the best price available.
@@ -1996,7 +1994,6 @@ id,created_at,text
 869260961626157000,Mon May 29 18:35:37 +0000 2017,Chain split with &lt;&lt;50% hashrate is risky business. Users don't risk much. Miners supporting it do; they may lose $ if users jump back.
 869260238049996800,Mon May 29 18:32:45 +0000 2017,@Excellion @slush_pool We didn't decide how to handle chain split yet. It is effectively like running two pools.
 869259848151699500,Mon May 29 18:31:12 +0000 2017,@jimcch @AriDavidPaul @nemeth_andor @jbeyda @BitcoinTrezor What exactly do you mean by "install backdoor"? We're do… https://t.co/BcjxI4Knvd
-869259034901319700,Mon May 29 18:27:58 +0000 2017,@Excellion @slush_pool BIP148 doesn't have any formal voting process for miners. How would you like to signal it?
 869259034901319700,Mon May 29 18:27:58 +0000 2017,@Excellion @slush_pool BIP148 doesn't have any formal voting process for miners. How would you like to signal it?
 868935156031246300,Sun May 28 21:00:59 +0000 2017,@DavidJools85 @RSKsmart It's on beta wallet yet. Go to https://t.co/lsn6Xi3mVX.
 868036188027879400,Fri May 26 09:28:49 +0000 2017,@1cyrilblanc1 TREZOR support ETC now.
@@ -2397,7 +2394,6 @@ id,created_at,text
 842737582899454000,Fri Mar 17 14:01:11 +0000 2017,@matshenricson Voting by miners is only one of possible ways how to introduce changes. #uasf
 842736865040105500,Fri Mar 17 13:58:20 +0000 2017,RT @jgarzik: .@lopp @Satoshi_N_ Yes; It's a huge problem:   #Bitcore Core devs think there is zero time pressure.   Real world disagrees.
 842736332543811600,Fri Mar 17 13:56:13 +0000 2017,@BronxR I was never neutral. Originally I was pro-XT/Classic. Now I'm against BU.
-842736332543811600,Fri Mar 17 13:56:13 +0000 2017,@BronxR I was never neutral. Originally I was pro-XT/Classic. Now I'm against BU.
 842736176939307000,Fri Mar 17 13:55:36 +0000 2017,@SooMartindale @BronxR Let me fix that for you: "SW would make Trezor (or any other HW wallet) easier to code meaning more secure."
 842723147514372100,Fri Mar 17 13:03:50 +0000 2017,@1stCrassCitizen Pool is signalling Segwit by default. However miners can opt-in for other proposal, that's why some blocks are non-segwit.
 842722466762051600,Fri Mar 17 13:01:07 +0000 2017,@matshenricson Bitcoin as Gold is Bitcoin without Segwit. Just activate it and whole world of new applications and solutions will appear.
@@ -2596,7 +2592,6 @@ id,created_at,text
 797038267921236000,Fri Nov 11 11:28:25 +0000 2016,@kyuupichan Anyway mining with more than ~30%+ of hashrate doesn't have economic sense. You're literally mining against yourselves.
 797037609327480800,Fri Nov 11 11:25:48 +0000 2016,@kyuupichan Bitcoin will lose value if controlled by single entity. If you invest to overtake the network's hashrate, you take the risk.
 797033019303465000,Fri Nov 11 11:07:34 +0000 2016,Its a good time to discuss roadmap for mining algorithm changes. 75% hashrate in one place is disaster for #bitcoin. https://t.co/TcNhiJEUoM
-797033019303465000,Fri Nov 11 11:07:34 +0000 2016,Its a good time to discuss roadmap for mining algorithm changes. 75% hashrate in one place is disaster for #bitcoin. https://t.co/TcNhiJEUoM
 796653832038125600,Thu Nov 10 10:00:49 +0000 2016,@1cyrilblanc1 working hard on hardware and enclosure, still few months to go.
 796436879432417300,Wed Nov 09 19:38:43 +0000 2016,RT @SwiftOnSecurity: Something that took me a long time to understand: If you even think about security, you're already an exceptional tale…
 796188608977915900,Wed Nov 09 03:12:11 +0000 2016,@TuurDemeester And #bitcoin follows...
@@ -2794,7 +2789,6 @@ id,created_at,text
 770606489161572400,Tue Aug 30 12:57:58 +0000 2016,RT @Excellion: According to legend, if you say Blockchain three times fast, your databases will magically become immutable &amp; your company a…
 770556836453941200,Tue Aug 30 09:40:40 +0000 2016,@1cyrilblanc1 I don't need to decide if I stand behind ETH or ETC, because I stand behind Bitcoin.
 770554668426620900,Tue Aug 30 09:32:03 +0000 2016,@1cyrilblanc1 TREZOR may work in any ETH/ETC wallet. We don't "stand" on any side.
-770553695037694000,Tue Aug 30 09:28:11 +0000 2016,@1cyrilblanc1 Integrating Ethereum to myTREZOR would be difficult; better to add TREZOR to Mist, there's full support for contracts already.
 770553695037694000,Tue Aug 30 09:28:11 +0000 2016,@1cyrilblanc1 Integrating Ethereum to myTREZOR would be difficult; better to add TREZOR to Mist, there's full support for contracts already.
 770552902012272600,Tue Aug 30 09:25:02 +0000 2016,@1cyrilblanc1 @BitcoinTrezor @Jman__12 myTREZOR is built for Bitcoin-like coins and we don't have any plans to add Ethereum there.
 769966123093729300,Sun Aug 28 18:33:23 +0000 2016,@1cyrilblanc1 TREZOR will support both. There's no difference between ETH and ETC from technical side.
@@ -3238,5 +3232,4 @@ id,created_at,text
 273814319056183300,Wed Nov 28 15:43:15 +0000 2012,RT @pycke: Congratulations @slushcz for relaying the first 25-block.Half of all bitcoins (10,500,000) have now been created #bitcoinhalv ...
 273642238150590460,Wed Nov 28 04:19:28 +0000 2012,@progressbarsk Any chance to make a video of Amir's talk?
 273639944738730000,Wed Nov 28 04:10:21 +0000 2012,RT @zooko: A hacker tradition that I'd like to be rid of: common use of strong but vague language like "broken" or "bloated" instead of  ...
-273639647891058700,Wed Nov 28 04:09:10 +0000 2012,RT @BitcoinMagazine: Block Reward Halving: A Guide http://t.co/g1oBJasf #bitcoin
 273639647891058700,Wed Nov 28 04:09:10 +0000 2012,RT @BitcoinMagazine: Block Reward Halving: A Guide http://t.co/g1oBJasf #bitcoin

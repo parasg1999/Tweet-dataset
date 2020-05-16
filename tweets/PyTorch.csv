@@ -199,7 +199,6 @@ id,created_at,text
 1169700371566141400,Thu Sep 05 19:54:35 +0000 2019,RT @spacy_io: Out now: spacy-pytorch-transformers v0.4.0!  🤗 Support for @HuggingFace's DistilBERT 📦 Pre-packaged DistilBERT model 📝 More s…
 1169226215162617900,Wed Sep 04 12:30:27 +0000 2019,RT @arturbekasov: Neural Spline Flows accepted to @NeurIPSConf! Come and talk to us in Vancouver. #NeurIPS2019  Work with @conormdurkan, @d…
 1169012259391189000,Tue Sep 03 22:20:16 +0000 2019,RT @ezyang: Great blog post by @cwillycs about contributing to PyTorch for the very first time. Best quote: “I don’t have a PhD in ML… I ca…
-1169012259391189000,Tue Sep 03 22:20:16 +0000 2019,RT @ezyang: Great blog post by @cwillycs about contributing to PyTorch for the very first time. Best quote: “I don’t have a PhD in ML… I ca…
 1168845098710421500,Tue Sep 03 11:16:02 +0000 2019,Are you an artist who uses @runwayml ? You can now trivially wrap PyTorch models in Runway pipelines. This post by… https://t.co/2Dtcfq3ZtW
 1167187528434086000,Thu Aug 29 21:29:26 +0000 2019,RT @jeremyphoward: fastai v2 is be a total rewrite, and is a *huge* jump in quality over v1. It's now at a point where enthusiastic early a…
 1166727015170531300,Wed Aug 28 14:59:31 +0000 2019,RT @SanhEstPasMoi: There is a trend for huge Transformers. We went the other way: decreasing the size! 🤗  Introducing DistilBERT: a smaller…

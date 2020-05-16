@@ -199,7 +199,6 @@ id,created_at,text
 1239248613437575200,Sun Mar 15 17:54:28 +0000 2020,@brunns This is Ireland, not the UK.   You had me worried there for a moment…
 1239242247637434400,Sun Mar 15 17:29:10 +0000 2020,RT @monkchips: check out this young man. fuck yeah @Zionwilliamson. https://t.co/b4brz3tXJd https://t.co/2tD9IGsrx5
 1239198306884034600,Sun Mar 15 14:34:34 +0000 2020,@martinfowler @pmgandhi +1 to Concordia. I’d perhaps suggest it sits between catan et al and brass in terms of comp… https://t.co/wY5sBfJrBR
-1239198306884034600,Sun Mar 15 14:34:34 +0000 2020,@martinfowler @pmgandhi +1 to Concordia. I’d perhaps suggest it sits between catan et al and brass in terms of comp… https://t.co/wY5sBfJrBR
 1239198076344111000,Sun Mar 15 14:33:39 +0000 2020,@pmgandhi @martinfowler That is *brilliant*. Just be warned it’s a step up in complexity from the others you mentioned.
 1239139335485689900,Sun Mar 15 10:40:14 +0000 2020,@thecamjackson @mjackson @sarah_edo @dan_abramov Finally, work out what motivates you. I like having a schedule and… https://t.co/lWlyJ0P1hf
 1239139062335897600,Sun Mar 15 10:39:09 +0000 2020,@thecamjackson @mjackson @sarah_edo @dan_abramov Work out very clearly what the purpose is in writing the book. Who… https://t.co/EBh1xLZV3w
@@ -799,7 +798,6 @@ id,created_at,text
 1196418521284202500,Mon Nov 18 13:22:58 +0000 2019,@kealan_m Thanks Kealan!
 1196418455379075000,Mon Nov 18 13:22:42 +0000 2019,@suhailpatel Two nasty accidents on the M25
 1196385048481747000,Mon Nov 18 11:09:57 +0000 2019,@ruthmalan @conways_law What I’m especially interested in are mechanisms to help highlight and/or resolve the tensi… https://t.co/U4VWJWF64y
-1196385048481747000,Mon Nov 18 11:09:57 +0000 2019,@ruthmalan @conways_law What I’m especially interested in are mechanisms to help highlight and/or resolve the tensi… https://t.co/U4VWJWF64y
 1196383424925319200,Mon Nov 18 11:03:30 +0000 2019,@stack72 I accept bribery in the form of awesome submissions.
 1196383253109837800,Mon Nov 18 11:02:49 +0000 2019,Bit of a day. Up at 4.30am to make a 9.55am flight from heathrow for #GOTOcph. The journey to the airport normally… https://t.co/3KtmwZkB5C
 1196382779413606400,Mon Nov 18 11:00:56 +0000 2019,@stack72 No promises at all. I’m just one of the co-chairs and the wider program committee will review submissions,… https://t.co/Ct7ARhF6rl
@@ -1398,7 +1396,6 @@ id,created_at,text
 1169986658462253000,Fri Sep 06 14:52:11 +0000 2019,@simonw That is often the problem here. You may have a more nuanced take, but that isn't what you initially said. I… https://t.co/hWi90NdWpm
 1169984560693678000,Fri Sep 06 14:43:51 +0000 2019,@simonw So you'd only use an OS operating system? Guessing you're running linux on your laptop then, right? If you… https://t.co/l4ib6yunyw
 1169984030483370000,Fri Sep 06 14:41:44 +0000 2019,@simonw The problem with "don't use serverless, it's lock-in!" is taht it lumps all tech in together. S3 is serverl… https://t.co/mVWtZeIk6W
-1169984030483370000,Fri Sep 06 14:41:44 +0000 2019,@simonw The problem with "don't use serverless, it's lock-in!" is taht it lumps all tech in together. S3 is serverl… https://t.co/mVWtZeIk6W
 1169983836270321700,Fri Sep 06 14:40:58 +0000 2019,@simonw EC2 isn't portable in a seamless fashion. Think of all your IAM rules for example. RDS? It's portable only… https://t.co/NnedsWAaEe
 1169983438709018600,Fri Sep 06 14:39:23 +0000 2019,WTAF. This must go down as self own of the week. Bloody hell. https://t.co/vf39gWDhsv
 1169982493388431400,Fri Sep 06 14:35:38 +0000 2019,@simonw Isn't this just a drastic oversimplifcation? This is basically an argument that says "don't use public cloud".
@@ -1598,7 +1595,6 @@ id,created_at,text
 1153689045500924000,Tue Jul 23 15:31:17 +0000 2019,@jeffsussna I don’t mind having titles that say “the buck stops with me”, but when the role descriptions are so poo… https://t.co/iVUUZRP0tV
 1153682407092105200,Tue Jul 23 15:04:54 +0000 2019,@AndyFurnival2 I think a lot of that is natural. The database is traditionally the only domain of the DBA, and seei… https://t.co/40Juqco7q1
 1153681999875514400,Tue Jul 23 15:03:17 +0000 2019,Just saw a job add for “Head Of Software Development - Frontend”. There is nothing better for slowing down your pac… https://t.co/5RaSEaDzeQ
-1153681999875514400,Tue Jul 23 15:03:17 +0000 2019,Just saw a job add for “Head Of Software Development - Frontend”. There is nothing better for slowing down your pac… https://t.co/5RaSEaDzeQ
 1153676549088059400,Tue Jul 23 14:41:38 +0000 2019,@AndyFurnival2 People often state that stored procs are essential “due to performance”, but the truth is often that… https://t.co/h5zYtFtEd6
 1153676349598552000,Tue Jul 23 14:40:50 +0000 2019,@AndyFurnival2 Hmm…I don’t address them directly, but the issues are likely very similar. In general, I’ve found th… https://t.co/0szal8dVZt
 1153676048149692400,Tue Jul 23 14:39:38 +0000 2019,@stefanisg I don’t have a whole chapter on that, but I do discuss it throughout, especially in the first and second… https://t.co/PqFqgqFHaV
@@ -1796,7 +1792,6 @@ id,created_at,text
 1142853438176407600,Sun Jun 23 17:54:27 +0000 2019,RT @icelandcricket: ICELAND 158-7 (20) Deonarain 40, Pope 2-19 SUTTON BENGER 85-8 (20) Berry 18, Cook 2-7 WON BY 73 RUNS As usual we fielde…
 1142752227116929000,Sun Jun 23 11:12:16 +0000 2019,Really looking forward to this one. Come see me @mipsytipsy  @helenFindsLife @SheekaPatak @scottcoulton @lauralifts… https://t.co/vAQdJNThDj
 1142751433848250400,Sun Jun 23 11:09:07 +0000 2019,@Shipitcon @mipsytipsy @helenFindsLife @SheekaPatak @scottcoulton @lauralifts @grandazz @bhuga @CrivetiMihai You’re more than welcome!
-1142176961315377200,Fri Jun 21 21:06:22 +0000 2019,RT @Twistingthejar: Amazing conversations at @RebelConf 3rd summit in cork ‘Debugging your Brain’ ending a jam packed 2 days! #mentahealthi…
 1142176961315377200,Fri Jun 21 21:06:22 +0000 2019,RT @Twistingthejar: Amazing conversations at @RebelConf 3rd summit in cork ‘Debugging your Brain’ ending a jam packed 2 days! #mentahealthi…
 1142001781431513100,Fri Jun 21 09:30:16 +0000 2019,RT @ICC: Congratulations to England all-rounder Moeen Ali who is making his 100th ODI appearance today in Leeds.  He received his 💯 cap fro…
 1141992728798081000,Fri Jun 21 08:54:18 +0000 2019,RT @JorgeO: Static types in Ruby have been wildly popular within Stripe. Teams don’t go back to untyped code once they add types. https://t…
@@ -1996,7 +1991,6 @@ id,created_at,text
 1131118058792194000,Wed May 22 08:42:15 +0000 2019,But people who are pushing service meshes can make sure that they at least are clear about how to use the tool well… https://t.co/fv8TTdp6wG
 1131118004379557900,Wed May 22 08:42:02 +0000 2019,The same orgs who made ESBs and API Gateways quagmires of productivity may well make the same mistakes with service… https://t.co/1sY26cKM3n
 1131117745343541200,Wed May 22 08:41:00 +0000 2019,Service meshes, as a concept, are a good idea to help solve some of problems we created with microservice architect… https://t.co/WLBcrSnRZl
-1131117683158736900,Wed May 22 08:40:45 +0000 2019,So, back to the original concept. Keeping endpoints smart and pipes dumb was always about keeping business function… https://t.co/ZerMM55Weo
 1131117683158736900,Wed May 22 08:40:45 +0000 2019,So, back to the original concept. Keeping endpoints smart and pipes dumb was always about keeping business function… https://t.co/ZerMM55Weo
 1131117566733291500,Wed May 22 08:40:17 +0000 2019,Putting business logic into middleware is problematic from a view of deployment as you need to coordinate the rollo… https://t.co/okA4kNFnuT
 1131117455907205100,Wed May 22 08:39:51 +0000 2019,People would do business process orchestration in message broker layers. It's now common to see people doing the sa… https://t.co/RjMQV57iA4
@@ -2993,7 +2987,6 @@ id,created_at,text
 1050400766819795000,Thu Oct 11 15:00:32 +0000 2018,RT @MazherArshad: Nothing better than intense moments of Test cricket. #PakvAus https://t.co/U2eYgweHRv
 1050400506827472900,Thu Oct 11 14:59:30 +0000 2018,RT @CricProf: "At 524 minutes, Khawaja's knock was the longest an Aussie has batted in the fourth innings of a Test. Labelled a man who cou…
 1050400278942548000,Thu Oct 11 14:58:36 +0000 2018,RT @joshschon: 💪 #PAKvAUS https://t.co/Q2ZcxLhMOG
-1050400278942548000,Thu Oct 11 14:58:36 +0000 2018,RT @joshschon: 💪 #PAKvAUS https://t.co/Q2ZcxLhMOG
 1050362404830367700,Thu Oct 11 12:28:06 +0000 2018,RT @AWSStats: Longest inns in the 4th inns of a Test: 645 mins (185*) MA Atherton Eng v SA Johannesburg 1995 524 mins (141) Usman Khawaja A…
 1050361781334487000,Thu Oct 11 12:25:38 +0000 2018,RT @benjonescricket: Khawaja's innings is the longest (in terms of minutes) an Australian batsman has ever batted in the fourth innings of…
 1050344636097724400,Thu Oct 11 11:17:30 +0000 2018,RT @ESPNcricinfo: Usman Khawaja stands between Pakistan and victory in Dubai  https://t.co/lpcpDZNOJo #PAKvAUS https://t.co/dhwCpJH8Cr
@@ -3190,7 +3183,6 @@ id,created_at,text
 1038689052462129200,Sun Sep 09 07:22:22 +0000 2018,Nice to see the VSTS team doing this  nice overview of flags, and also showing how they use them - it’s that sort o… https://t.co/1AYfhVWOTu
 1038687590977859600,Sun Sep 09 07:16:34 +0000 2018,@RonJeffries @nverinaud @GeePawHill @jbrains @marick Inherently though, I see no reason why I’d automatically ditch… https://t.co/vfZgjLuXFp
 1038687038734786600,Sun Sep 09 07:14:22 +0000 2018,@RonJeffries @nverinaud @GeePawHill @jbrains @marick So as end-to-end tests start to not work for you, people tend… https://t.co/zPVcoODKJZ
-1038687038734786600,Sun Sep 09 07:14:22 +0000 2018,@RonJeffries @nverinaud @GeePawHill @jbrains @marick So as end-to-end tests start to not work for you, people tend… https://t.co/zPVcoODKJZ
 1038686430275534800,Sun Sep 09 07:11:57 +0000 2018,@RonJeffries @nverinaud @GeePawHill @jbrains This is all why I also don’t just talk about the test pyramid, but als… https://t.co/b1uJQgBTM4
 1038686020462628900,Sun Sep 09 07:10:19 +0000 2018,@RonJeffries @nverinaud @GeePawHill @jbrains End-to-end testing (across multiple services) also becomes increasingl… https://t.co/3VxqEWCA4z
 1038685498548604900,Sun Sep 09 07:08:15 +0000 2018,@RonJeffries @nverinaud @GeePawHill @jbrains The types of tests you need in a microservice environment vary based o… https://t.co/iSZaQtJUpY
@@ -3209,5 +3201,4 @@ id,created_at,text
 1037853339575353300,Fri Sep 07 00:01:33 +0000 2018,A few minutes of search and replace to make some people feel more welcome? Nope! Not for me! That’s not the communi… https://t.co/ohl8RDxs2G
 1037838599952195600,Thu Sep 06 23:02:58 +0000 2018,RT @stryker1: @cstross how is Operation Yellowhammer not the name of a Laundry File?
 1037609270668341200,Thu Sep 06 07:51:42 +0000 2018,No, they really aren’t! If we think this is what successful AI looks like, then we deserve what we get! https://t.co/aDNlXYu2TQ
-1037608548283416600,Thu Sep 06 07:48:50 +0000 2018,@ghohpe @trulsjor Ok, that might be closer to the truth!
 1037608548283416600,Thu Sep 06 07:48:50 +0000 2018,@ghohpe @trulsjor Ok, that might be closer to the truth!

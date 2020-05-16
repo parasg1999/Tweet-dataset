@@ -198,7 +198,6 @@ id,created_at,text
 1213215346502459400,Fri Jan 03 21:47:33 +0000 2020,https://t.co/QNqbLUYtTU
 1213214139817939000,Fri Jan 03 21:42:46 +0000 2020,https://t.co/OOCMzrd7fE
 1213161473431593000,Fri Jan 03 18:13:29 +0000 2020,RT @justincormack: After a decade of stability apparently the Intel cache line size is doubling to 128 bytes to break those careful optimis…
-1213161473431593000,Fri Jan 03 18:13:29 +0000 2020,RT @justincormack: After a decade of stability apparently the Intel cache line size is doubling to 128 bytes to break those careful optimis…
 1213157241882382300,Fri Jan 03 17:56:40 +0000 2020,https://t.co/Kx7vKVS0ll
 1211245745044697000,Sun Dec 29 11:21:04 +0000 2019,Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs https://t.co/LGvMi7IeGQ
 1210615990997799000,Fri Dec 27 17:38:39 +0000 2019,RT @WIRED: Of the advanced propulsion concepts that could theoretically get humans to another solar system, few have generated as much exci…
@@ -969,7 +968,6 @@ id,created_at,text
 1030484988079341600,Fri Aug 17 16:02:21 +0000 2018,RT @starwars: Take to the skies with #StarWarsResistance. Premieres Sunday, October 7 at 10pm ET/PT on @DisneyChannel. https://t.co/GqcM0dS…
 1030484470015643600,Fri Aug 17 16:00:17 +0000 2018,RT @andy_pavlo: .@prashanth_menon's #LLVM ROF paper is runner-up for #VLDB18 Best Paper: https://t.co/ieHtQFaRdw  This means a lot to us. A…
 1030083922284236800,Thu Aug 16 13:28:39 +0000 2018,RT @curi0usJack: Handy! Just learned AWS EC2 instances have metadata that can be queried via HTTP GET requests. Example, get the public IP…
-1030083922284236800,Thu Aug 16 13:28:39 +0000 2018,RT @curi0usJack: Handy! Just learned AWS EC2 instances have metadata that can be queried via HTTP GET requests. Example, get the public IP…
 1029752743731376100,Wed Aug 15 15:32:40 +0000 2018,RT @rseroter: To maintain transparency as your company scales, you may have to first define "transparency." Good @firstround story on how I…
 1029419172537753600,Tue Aug 14 17:27:11 +0000 2018,RT @SInow: This is the basketball equivalent of a dad joke  (via @Trevor_Luznak) https://t.co/8GEWRRaL2h
 1029186599559606300,Tue Aug 14 02:03:01 +0000 2018,@eightnoteight @abhinavjohri https://t.co/3mC1vIsHT8
@@ -1365,7 +1363,6 @@ id,created_at,text
 952920836846977000,Mon Jan 15 15:10:06 +0000 2018,RT @bitfield: How to handle one million requests a second: “Traditionally we would build a worker-tier architecture, using Sidekiq, Resque,…
 952836869829488600,Mon Jan 15 09:36:27 +0000 2018,RT @ahmetb: Good compilation of 10 Kubernetes management tools https://t.co/3jJR46KmcH
 952599230626984000,Sun Jan 14 17:52:09 +0000 2018,RT @BanzaiCloud: Deep dive into running @ApacheZeppelin #ApacheSpark  notebooks on Kubernetes the cloud native way - this is the second pos…
-952599230626984000,Sun Jan 14 17:52:09 +0000 2018,RT @BanzaiCloud: Deep dive into running @ApacheZeppelin #ApacheSpark  notebooks on Kubernetes the cloud native way - this is the second pos…
 952258087926210600,Sat Jan 13 19:16:34 +0000 2018,RT @NASAAmes: Findings from our @NASAKepler space telescope this week include insights into how planets beyond our solar system evolve and…
 952159926150840300,Sat Jan 13 12:46:31 +0000 2018,RT @Benjojo12: Introducing DNSFS, true cloud storage! Store your files in other peoples DNS Caches!  https://t.co/oynEAFliLn https://t.co/i…
 951876274376491000,Fri Jan 12 17:59:23 +0000 2018,RT @LewisKaneshiro: Comparing unified streaming/queuing @apache_pulsar vs. @apachekafka: how a segment-based architecture delivers better p…
@@ -1560,7 +1557,6 @@ id,created_at,text
 931770920108097500,Sat Nov 18 06:27:53 +0000 2017,RT @timperrett: Tell me again how slow the JVM is... Apple doing 3Tb/sec with Netty https://t.co/AGVF3p1ntN
 931768988920569900,Sat Nov 18 06:20:13 +0000 2017,Deathblow Dealt to Dark Matter Disks https://t.co/LJTdocKMQQ
 931750298573463600,Sat Nov 18 05:05:56 +0000 2017,RT @headinthebox: Happy 8-th *official* birthday Rx!  https://t.co/Exlin1AJWU https://t.co/9gDgn0owA2
-931750298573463600,Sat Nov 18 05:05:56 +0000 2017,RT @headinthebox: Happy 8-th *official* birthday Rx!  https://t.co/Exlin1AJWU https://t.co/9gDgn0owA2
 931557653968326700,Fri Nov 17 16:20:26 +0000 2017,RT @DavidHodge: Close up video of Tesla Roadster launching from zero https://t.co/6FziM9M755
 931557360203587600,Fri Nov 17 16:19:16 +0000 2017,What's Planned for JDK 10? https://t.co/h96daHpQGU
 931546773725655000,Fri Nov 17 15:37:12 +0000 2017,RT @nthonyChu: Lots of exciting #CosmosDB news at #MSFTConnect: - #Cassandra API - 99.999% read SLA - #Gremlin graph API is now GA - Table…
@@ -1751,7 +1747,6 @@ id,created_at,text
 909469886899826700,Sun Sep 17 17:31:32 +0000 2017,RT @golang_news: Alloy - Boilerplate for creating web applications in Go https://t.co/PawbBiOino #reddit
 909301194065035300,Sun Sep 17 06:21:13 +0000 2017,RT @DisneyXD: You're one week away from all new #DuckTales! Who's going to watch it? https://t.co/bBVHEDyk4m
 909300359079772200,Sun Sep 17 06:17:54 +0000 2017,Interesting Conversation Reading the launch of Eclipse OpenJ9 – Open-source JVM https://t.co/oA7NrYXATa
-909105429883494400,Sat Sep 16 17:23:19 +0000 2017,RT @davidbclinton: Medium article: A brief overview and history of #systemd - the #Linux process manager @ManningBooks - https://t.co/IGdp8…
 909105429883494400,Sat Sep 16 17:23:19 +0000 2017,RT @davidbclinton: Medium article: A brief overview and history of #systemd - the #Linux process manager @ManningBooks - https://t.co/IGdp8…
 909104711340515300,Sat Sep 16 17:20:28 +0000 2017,RT @ProfAbelMendez: Titanium oxide in the atmosphere of WASP-19b https://t.co/9xADUVSZle https://t.co/AbUHXIkJmd
 909104671725314000,Sat Sep 16 17:20:18 +0000 2017,RT @thecoderlife: Not sure if they're off to eat, there are no #bugs, or they are dead... #programmers https://t.co/RPad2LENQ8
@@ -1948,7 +1943,6 @@ id,created_at,text
 879722866870075400,Tue Jun 27 15:27:30 +0000 2017,RT @TrendingGolang: roblaszczak / go-cleanarch: go-cleanarch was created to validate Clean Architecture rules, like a The... https://t.co/x…
 879722765724471300,Tue Jun 27 15:27:06 +0000 2017,RT @TrendingGolang: tigrawap / slit: slit - a modern PAGER for viewing logs, get more than most in less time https://t.co/keIHgFLb4C #golang
 879377373396779000,Mon Jun 26 16:34:38 +0000 2017,RT @MatthiasJSax: Slides and video of my #SparkSummit talk "Introducing Exactly Once Semantics in Apache Kafka" are online now.  https://t.…
-879377155980804100,Mon Jun 26 16:33:46 +0000 2017,RT @gwenshap: Some @apachekafka clusters are running fine with 150,000 partitions. Just saying.
 879377155980804100,Mon Jun 26 16:33:46 +0000 2017,RT @gwenshap: Some @apachekafka clusters are running fine with 150,000 partitions. Just saying.
 879374850824880100,Mon Jun 26 16:24:37 +0000 2017,RT @markrussinovich: Check out @JeffRichter's awesome 6.5 hour free course on cloud application fundamentals: https://t.co/qxIa0qWNLS
 878228759211409400,Fri Jun 23 12:30:27 +0000 2017,RT @Wasp2017: Rev engineering Go debugger for Atom Editor: https://t.co/8hJOnC6fVd #golang #devops #gamedev #indiedev #webdev #IoT  #progra…
@@ -2149,7 +2143,6 @@ id,created_at,text
 707598296475418600,Wed Mar 09 16:05:55 +0000 2016,@NiketChandra @divyansh0103 @weemundo congrats, demo please :D!
 707598181446623200,Wed Mar 09 16:05:27 +0000 2016,@divyansh0103 yes
 707598149695709200,Wed Mar 09 16:05:20 +0000 2016,@divyansh0103 from where ?
-707598149695709200,Wed Mar 09 16:05:20 +0000 2016,@divyansh0103 from where ?
 706914895124504600,Mon Mar 07 18:50:19 +0000 2016,Tesla rival Faraday Future invented its own power inverter, and it's just as cool as the FFZERO1 https://t.co/t5PS8n9nqm
 706890730174681100,Mon Mar 07 17:14:18 +0000 2016,https://t.co/2eU4i8mNQo
 704584608935841800,Tue Mar 01 08:30:35 +0000 2016,“Aerosolve: Machine learning for humans” by @AirbnbNerds https://t.co/Kmc4ZjaNdX
@@ -2343,7 +2336,6 @@ id,created_at,text
 644596338777165800,Thu Sep 17 19:38:37 +0000 2015,@weemundo hahaha.. And so does the internet.. Right ??
 644557958764826600,Thu Sep 17 17:06:07 +0000 2015,@maryjofoley Is it built using C#/Xaml or Winjs based ?
 644557434892107800,Thu Sep 17 17:04:02 +0000 2015,@deanihansen yes.. Definitely.
-644479649943154700,Thu Sep 17 11:54:57 +0000 2015,RT @weemundo: Where are all the windows phone freelancers in India? I have so many client requests for windev. Do connect if you know someo…
 644479649943154700,Thu Sep 17 11:54:57 +0000 2015,RT @weemundo: Where are all the windows phone freelancers in India? I have so many client requests for windev. Do connect if you know someo…
 644447808737554400,Thu Sep 17 09:48:25 +0000 2015,RT @jernej_kavka: New version of Windows 10 SDK is OUT! New version is 26624. :) #wpdev #windev #win10 @GabeAul
 644211073046876200,Wed Sep 16 18:07:43 +0000 2015,@divyansh0103 probably End of the month.
@@ -2576,12 +2568,17 @@ id,created_at,text
 572720580362805250,Tue Mar 03 11:30:01 +0000 2015,Crises for home everywhere http://t.co/d46RTC2LXj
 572671296271753200,Tue Mar 03 08:14:11 +0000 2015,We are now bigger than Uber in its home country US: Ola CEO Bhavish Aggarwal | Techcircle.in -... http://t.co/6qkIjvJaBi
 572669104277991400,Tue Mar 03 08:05:28 +0000 2015,@naveenvone Sure.:D!
-572668288334897150,Tue Mar 03 08:02:14 +0000 2015,RT @mrlacey: RelativePanel + improvements in visual state manager = happier Devs #win10dev #mwc15 http://t.co/Va0k7KzzXz
+572668288334897150,Tue Mar 03 08:02:14 +0000 2015,RT @mrlacey: RelativePanel + improvements in visual state manager = happier Devs
+ #win10dev #mwc15 http://t.co/Va0k7KzzXz
 572668020394340350,Tue Mar 03 08:01:10 +0000 2015,RT @mrlacey: #windows10 gets a new member to the XAML layout control family: RelativePanel #win10dev #mwc15 http://t.co/9eUFwVVc23
-572667957949562900,Tue Mar 03 08:00:55 +0000 2015,RT @diederikkrols: Introducing the XAML Adaptability Toolkit.#win10dev http://t.co/OiZNlRHpxz
-572667900076556300,Tue Mar 03 08:00:41 +0000 2015,RT @diederikkrols: Ignore all those things you can't sniff for.#win10dev http://t.co/BXpgeh2P6m
-572667813405442050,Tue Mar 03 08:00:21 +0000 2015,RT @mrlacey: Q. From audience. "What about apps built with Silverlight?" - A. Migrate to RT. #WPDEV #Win10dev #mwc15
-572667755633090560,Tue Mar 03 08:00:07 +0000 2015,RT @diederikkrols: Extension SDKs allow you to write platform specific code, while still keeping one binary.#win10dev http://t.co/nJom089i…
+572667957949562900,Tue Mar 03 08:00:55 +0000 2015,RT @diederikkrols: Introducing the XAML Adaptability Toolkit.
+#win10dev http://t.co/OiZNlRHpxz
+572667900076556300,Tue Mar 03 08:00:41 +0000 2015,RT @diederikkrols: Ignore all those things you can't sniff for.
+#win10dev http://t.co/BXpgeh2P6m
+572667813405442050,Tue Mar 03 08:00:21 +0000 2015,RT @mrlacey: Q. From audience. "What about apps built with Silverlight?" - A. Migrate to RT. 
+#WPDEV #Win10dev #mwc15
+572667755633090560,Tue Mar 03 08:00:07 +0000 2015,RT @diederikkrols: Extension SDKs allow you to write platform specific code, while still keeping one binary.
+#win10dev http://t.co/nJom089i…
 572667130338021400,Tue Mar 03 07:57:38 +0000 2015,I just voted for Naveen Vijayan at https://t.co/sc9OlKJLRW on @Talenthouse #TileArt
 572393759184306200,Mon Mar 02 13:51:21 +0000 2015,@weemundo https://t.co/x2Ms6wOwji
 567576996788441100,Tue Feb 17 06:51:15 +0000 2015,#60fps on the #mobile #web — #Flipboard Engineering http://t.co/9RE8rdM9zE  #react #fb
@@ -2859,7 +2856,8 @@ id,created_at,text
 326421657759645700,Mon Apr 22 19:46:02 +0000 2013,@divyanshsingh03 seriously. Yr nd apne 480 n IBS ki bhi :\ .. Ytw pln chng mom goin 4 one month nw yay, wil b goin on Fridy :D!!
 326420657963421700,Mon Apr 22 19:42:04 +0000 2013,@divyanshsingh03 tody was yr farewell ?? Ytw congrats 4 becoming Mr. Cse, u desrv tht bro :D!!!
 326420216332570600,Mon Apr 22 19:40:18 +0000 2013,@divyanshsingh03 :o ..:-\  Aree yrr chahte ky h y rgpv waale .. :\!!
-326273642310819840,Mon Apr 22 09:57:52 +0000 2013,@divyanshsingh03  @Weemundo me stil waiting :/ .. Mishi congrtss bhai  :-)!!
+326273642310819840,Mon Apr 22 09:57:52 +0000 2013,@divyanshsingh03  @Weemundo me stil waiting :/ .. Mishi congrtss bhai
+  :-)!!
 326035538467508200,Sun Apr 21 18:11:44 +0000 2013,@pankajpardeshi happy journey ;)!!
 326031351826501600,Sun Apr 21 17:55:06 +0000 2013,@weemundo @divyanshsingh03 jst came back, was with skool frendz.
 325907708756754400,Sun Apr 21 09:43:47 +0000 2013,@pankajpardeshi Nyc meeting u, had a grt tym ;)!!
@@ -2939,7 +2937,6 @@ id,created_at,text
 291199395783921660,Tue Jan 15 15:05:20 +0000 2013,A statement: Statements in C++ - Secret Microsoft Communications - Site Home - MSDN Blogs http://t.co/Dn7JstdV
 291198796443054100,Tue Jan 15 15:02:57 +0000 2013,Rough hack converts an Optimus G to a Nexus 4, minus the constant sellouts http://t.co/gGgHI9Qe
 291198470021337100,Tue Jan 15 15:01:40 +0000 2013,RIM says 15,000 BlackBerry 10 apps submitted in under two days http://t.co/EdPHbHM6
-291198371539075100,Tue Jan 15 15:01:16 +0000 2013,Latest Chrome Beta lets developers integrate speech recognition into their web apps http://t.co/5VKYcf7r
 291198371539075100,Tue Jan 15 15:01:16 +0000 2013,Latest Chrome Beta lets developers integrate speech recognition into their web apps http://t.co/5VKYcf7r
 291191582747656200,Tue Jan 15 14:34:18 +0000 2013,@BlackBerryDev @Mippin please correct the app generator link on the blog. redirects to http://www/blackberryappgenerator.com/ :)!
 291154088324911100,Tue Jan 15 12:05:18 +0000 2013,#CastleOS: The Next Evolution in Home Automation, with whole-home voice control! Demo video: http://t.co/9wsswfRa #homeautomation

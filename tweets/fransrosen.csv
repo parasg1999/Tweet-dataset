@@ -199,7 +199,6 @@ id,created_at,text
 1042416497384149000,Wed Sep 19 14:13:54 +0000 2018,RT @yaelwrites: I interviewed @FransRosen at @detectify about bug bounty hunting, the worst security holes he's uncovered, the biggest payo…
 1042318311093096400,Wed Sep 19 07:43:45 +0000 2018,"There is no reason to do bug bounties. All bugs are already found and the competition is too hard"  – said someone… https://t.co/aKAv2jivQe
 1041980046896980000,Tue Sep 18 09:19:36 +0000 2018,RT @RandyWestergren: XSS Vulnerabilities in Multiple iFrame Busters Affecting Top Tier Sites https://t.co/32SADLTzFZ
-1041980046896980000,Tue Sep 18 09:19:36 +0000 2018,RT @RandyWestergren: XSS Vulnerabilities in Multiple iFrame Busters Affecting Top Tier Sites https://t.co/32SADLTzFZ
 1041344208857169900,Sun Sep 16 15:13:01 +0000 2018,@Viss This just ended up being super creepy https://t.co/NlPtda6jhR
 1041258002920210400,Sun Sep 16 09:30:28 +0000 2018,RT @veckansaffarer: Jobbeskrivning: Res jorden runt och hacka bolag som Uber och Pentagon https://t.co/LjKxBL3Rix https://t.co/qiJvAZaCeG
 1040556032488091600,Fri Sep 14 11:01:05 +0000 2018,@bubblewire @SEC_T_org @Darkarnium @JR0ch17 @NealPoole thanks for letting me :)
@@ -997,7 +996,6 @@ id,created_at,text
 777982907071754200,Mon Sep 19 21:29:13 +0000 2016,@jobertabma @pathetiq @samhouston I agree, I still go back to the argument of 90 ppl out of 17k. Being one of those 90 means that...
 777982129644900400,Mon Sep 19 21:26:08 +0000 2016,@jobertabma @pathetiq @samhouston ...that won't change because of this
 777982053283459100,Mon Sep 19 21:25:50 +0000 2016,@jobertabma @pathetiq @samhouston true indeed but I think I at least talk for a few peeps in that list that I know thinks sharing is crucial
-777982053283459100,Mon Sep 19 21:25:50 +0000 2016,@jobertabma @pathetiq @samhouston true indeed but I think I at least talk for a few peeps in that list that I know thinks sharing is crucial
 777981476226887700,Mon Sep 19 21:23:32 +0000 2016,@jobertabma @pathetiq @samhouston but I get do get the idea that this case is a bit "sharing is sharding" more than "sharing is caring"
 777981218134626300,Mon Sep 19 21:22:31 +0000 2016,@jobertabma @pathetiq @samhouston giving the amount of ppl qualified I don't think it's _that_ "de-incentivising" prevent p2p-help/mentoring
 777961789015388200,Mon Sep 19 20:05:18 +0000 2016,@sasi2103 @sirdarckcat BOOM! :D
@@ -1197,7 +1195,9 @@ id,created_at,text
 739887609477005300,Mon Jun 06 18:32:07 +0000 2016,@owen_lystrup @Hacker0x01 thank you Owen!
 738411490181517300,Thu Jun 02 16:46:32 +0000 2016,RT @HugoHirsh: When @fransrosen talks about a code highlighting extension vulnerability in an extension you use 😐😐😐😐 #securityfest
 738411478823383000,Thu Jun 02 16:46:30 +0000 2016,RT @_grayraven_: Safari defined by @fransrosen. Really no other way to see it now. #securityfest https://t.co/wZwwmYvds2
-738411453183561700,Thu Jun 02 16:46:24 +0000 2016,RT @peterjaric: Someone at @securityfest just now:  "Frans, do you want to marry me?"@fransrosen: "ACCESS DENIED: busy"
+738411453183561700,Thu Jun 02 16:46:24 +0000 2016,RT @peterjaric: Someone at @securityfest just now:  "Frans, do you want to marry me?"
+
+@fransrosen: "ACCESS DENIED: busy"
 738411430374985700,Thu Jun 02 16:46:18 +0000 2016,RT @_grayraven_: I need to get involved in bug bounties! Thanks @fransrosen and #securityfest https://t.co/yIfgWYofXz
 738105605760639000,Wed Jun 01 20:31:04 +0000 2016,RT @NahamSec: "look at this page, it looks vulnerable, can you feel it?" @fransrosen.. I know the feeling!
 738078773585825800,Wed Jun 01 18:44:27 +0000 2016,@jobertabma @hagbarddenstore @Hacker0x01 I mean, impact and signal huh? ;)
@@ -1394,7 +1394,6 @@ id,created_at,text
 695533452066754600,Fri Feb 05 09:04:32 +0000 2016,@Psych0tr1a this was in 2004! not newest version, there's a similar one in v9 though
 694931219230892000,Wed Feb 03 17:11:28 +0000 2016,@martenmickos det lovar jag!
 694927889695957000,Wed Feb 03 16:58:14 +0000 2016,RT @ComputerSweden: Hört talas om "bug bounty hunters"? Träffa prisbelönte @fransrosen #Säkerhetsdagen 24 feb https://t.co/KwQTJEW0bx https…
-694801667099881500,Wed Feb 03 08:36:40 +0000 2016,Ha. Been think about the best character in terms of finding vulns. Backslash is my abs favorite one. https://t.co/9Nva6ALXFY
 694801667099881500,Wed Feb 03 08:36:40 +0000 2016,Ha. Been think about the best character in terms of finding vulns. Backslash is my abs favorite one. https://t.co/9Nva6ALXFY
 694470693916917800,Tue Feb 02 10:41:30 +0000 2016,RT @BenHayak: Microsoft still support applet XSS &lt;applet onerror=alert('xss')&gt;  Works in IE5-11 and surprisingly in Edge @MicrosoftEdge
 693854095195660300,Sun Jan 31 17:51:22 +0000 2016,Looking forward meeting @BrianHonan when speaking at Säkerhetsdagen (the security day) the 24th of Feb https://t.co/XsqK9bNgb5
@@ -1593,7 +1592,6 @@ id,created_at,text
 627339611996459000,Sat Aug 01 04:46:33 +0000 2015,Thanks @cobalt_io for these cards! BUT WHY U MISSPELLED SWEDEN.
 627339208768622600,Sat Aug 01 04:44:57 +0000 2015,Let's play some cards. cc @sasi2103 @internetwache @Bitquark @avlidienbrunn @Almroot http://t.co/m8bygE05W5
 626508896828395500,Wed Jul 29 21:45:35 +0000 2015,@anshuman_bh Haha, maybe...... ;)
-626142076711870500,Tue Jul 28 21:27:58 +0000 2015,RT @avlidienbrunn: Disabling HTTPS Everywhere (and other Chrome extensions) without user interaction: http://t.co/2KfYBr8Ayr #chrome #exten…
 626142076711870500,Tue Jul 28 21:27:58 +0000 2015,RT @avlidienbrunn: Disabling HTTPS Everywhere (and other Chrome extensions) without user interaction: http://t.co/2KfYBr8Ayr #chrome #exten…
 625502451320295400,Mon Jul 27 03:06:20 +0000 2015,@grittygrease I also know mine, it sticks for some reason.
 625499630973775900,Mon Jul 27 02:55:07 +0000 2015,RT @NahamSec: Awesome article by CNBC covering @Bugcrowd, @Hacker0x01, @synack... me and @anshuman_bh were mentioned as well :) http://t.co…
@@ -2194,7 +2192,6 @@ id,created_at,text
 320235170416435200,Fri Apr 05 18:03:08 +0000 2013,@cubiq all depends on what you want to do. relay? i have one. also.
 320172998910935040,Fri Apr 05 13:56:06 +0000 2013,Minor easter updates – http://t.co/358fYvFta2 via @detectify
 319367709815099400,Wed Apr 03 08:36:10 +0000 2013,In Swedish, "beef" (nötfärs) backwards is "shut up" (käften). #insightbymistake
-319367709815099400,Wed Apr 03 08:36:10 +0000 2013,In Swedish, "beef" (nötfärs) backwards is "shut up" (käften). #insightbymistake
 318989563576061950,Tue Apr 02 07:33:33 +0000 2013,@AdamCrouchley The Totally Real Teenage Mutant Ninja Turtles!
 318490931554811900,Sun Mar 31 22:32:10 +0000 2013,Google Nose is here. http://t.co/6RqrK7pApd #hehe
 317717744726442000,Fri Mar 29 19:19:47 +0000 2013,@Vigneshkumarmr thx!! :)
@@ -2393,7 +2390,6 @@ id,created_at,text
 278457117525045250,Tue Dec 11 11:12:04 +0000 2012,@peterjaric thx! yea, slow slow, but they apologized, took approx 2 weeks.
 278407525693538300,Tue Dec 11 07:55:01 +0000 2012,found arabic vinyl, pitched it, recorded it to the op-1, put a beat to it. i now feel like a thug. #hiphop
 278148682900201470,Mon Dec 10 14:46:28 +0000 2012,I'm now listed on Nokia Siemens Networks Responsible Disclosure List. http://t.co/quVlMvQZ
-277546716771778560,Sat Dec 08 22:54:28 +0000 2012,@JanneFI true, confirm is also an alternative, one char more. havent seen those out in the wild though,filters on on* and script though.
 277546716771778560,Sat Dec 08 22:54:28 +0000 2012,@JanneFI true, confirm is also an alternative, one char more. havent seen those out in the wild though,filters on on* and script though.
 277518008354762750,Sat Dec 08 21:00:23 +0000 2012,@JanneFI alert is shorter than prompt though! #1charless :)
 276361661517013000,Wed Dec 05 16:25:29 +0000 2012,I'm now on the Github Responsible Disclosure list. https://t.co/p5Wv9eXJ

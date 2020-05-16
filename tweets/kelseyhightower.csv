@@ -799,7 +799,6 @@ id,created_at,text
 1123631759881584600,Wed May 01 16:54:22 +0000 2019,Today I'm heading to Seattle to deliver the first Customer Empathy Session focused on Anthos. I never knew turning… https://t.co/QhvmtMT0Dd
 1123283022462296000,Tue Apr 30 17:48:36 +0000 2019,@embano1 I’ll always value the education. In many ways knowing how things work helps me appreciate when they just do.
 1123232047441633300,Tue Apr 30 14:26:03 +0000 2019,I remember the days when I built my own gaming PCs. Eventually I sold out and bought a Xbox because I just wanted t… https://t.co/JXVsebQ93F
-1123232047441633300,Tue Apr 30 14:26:03 +0000 2019,I remember the days when I built my own gaming PCs. Eventually I sold out and bought a Xbox because I just wanted t… https://t.co/JXVsebQ93F
 1122669752747323400,Mon Apr 29 01:11:41 +0000 2019,@evanderkoogh @chadfowler @duncan I'm specifically focused on FaaS (functions as a Service) and not Serverless in t… https://t.co/8xut1RSQWx
 1122654500064378900,Mon Apr 29 00:11:05 +0000 2019,@chadfowler @duncan With FaaS you provide a snippet of code and the runtime is provided by the provider (dynamic li… https://t.co/KFNKLt8an8
 1122653080216985600,Mon Apr 29 00:05:26 +0000 2019,@chadfowler @duncan In this context we are talking about container images, the application packaging format, and no… https://t.co/YHpFH2eHdb
@@ -1199,7 +1198,6 @@ id,created_at,text
 1059601244019286000,Tue Nov 06 00:19:57 +0000 2018,"You might not need Kubernetes" https://t.co/qiDIwxRzEC
 1059519420064706600,Mon Nov 05 18:54:49 +0000 2018,I don't run Kubernetes locally, but I do depend on services running in remote clusters. I either extract service IP… https://t.co/eUO2VTmf73
 1059456898724900900,Mon Nov 05 14:46:23 +0000 2018,RT @jeremy_daly: Last week's #ServerlessNYC conference was a great success (thanks again, @iguazio)! Check out my key takeaways and lessons…
-1059456898724900900,Mon Nov 05 14:46:23 +0000 2018,RT @jeremy_daly: Last week's #ServerlessNYC conference was a great success (thanks again, @iguazio)! Check out my key takeaways and lessons…
 1059231427013750800,Sun Nov 04 23:50:26 +0000 2018,@bhcleek After fact checking, and watching multiple debates, I voted three times in ways that surprised me.
 1059219425495138300,Sun Nov 04 23:02:45 +0000 2018,It's your right to vote, but your responsibility to do the research, and make an informed decision. Don't just chec… https://t.co/vuXA5eQG5T
 1059219103888564200,Sun Nov 04 23:01:28 +0000 2018,This is the first year I've spend more than two weeks researching each candidate, and ballot measure, while challen… https://t.co/qQK49Bl2iw
@@ -1398,7 +1396,6 @@ id,created_at,text
 1022548307346829300,Thu Jul 26 18:24:49 +0000 2018,@xennygrimmato_ Look up IP alias in gcp. It’s all real!
 1022175220671471600,Wed Jul 25 17:42:18 +0000 2018,@bradfitz https://t.co/XlWYUSXl7X
 1022170160784859100,Wed Jul 25 17:22:11 +0000 2018,@willhamill Also, don't forget, this stuff is being build in the open, backed by an open source project that will a… https://t.co/MJbTHplRC1
-1022168079013310500,Wed Jul 25 17:13:55 +0000 2018,@willhamill In the GKE case, yes. You spin up a GKE cluster with the add-on to enable Serverless features. Then you… https://t.co/pf1JRh569c
 1022168079013310500,Wed Jul 25 17:13:55 +0000 2018,@willhamill In the GKE case, yes. You spin up a GKE cluster with the add-on to enable Serverless features. Then you… https://t.co/pf1JRh569c
 1022165857248530400,Wed Jul 25 17:05:05 +0000 2018,@willhamill Serverless Containers are fully managed by GCP under the Google Cloud Functions product offering. GKE S… https://t.co/tDcWa0cYS1
 1022165284092751900,Wed Jul 25 17:02:49 +0000 2018,@DPritchett Lambda's support for Go feels like a great middle ground. It allows me to use native Go tooling to buil… https://t.co/IHgqARohld
@@ -1799,7 +1796,6 @@ id,created_at,text
 968863556098773000,Wed Feb 28 15:00:47 +0000 2018,It would be nice to have the platform switch between these modes transparently while optimizing for cost and performance.
 968863143077310500,Wed Feb 28 14:59:08 +0000 2018,I’m starting prototypes using a pure serverless approach then migrating “functions” to containers when I need lower… https://t.co/SJo8ifxyrL
 968633012710723600,Tue Feb 27 23:44:41 +0000 2018,RT @ahmetb: I’m happy to announce “freshpod”: A minikube add-on that automatically restarts updated images.  👉 Read: https://t.co/n0CqmDteP…
-968633012710723600,Tue Feb 27 23:44:41 +0000 2018,RT @ahmetb: I’m happy to announce “freshpod”: A minikube add-on that automatically restarts updated images.  👉 Read: https://t.co/n0CqmDteP…
 968622878408224800,Tue Feb 27 23:04:25 +0000 2018,RT @lauriehannon: So excited to speak at #OSCON this July! Come to Portland and hear me talk about Developing Chatbots for Mycroft and his…
 968618793718222800,Tue Feb 27 22:48:11 +0000 2018,RT @KevJosephAllen: Hard to find a better person to offer advice to #cloudnative developers than @kelseyhightower. Great insights here: htt…
 968593782701731800,Tue Feb 27 21:08:48 +0000 2018,RT @copyconstruct: Happy birthday to @kelseyhightower  He’s been hugely instrumental in democratizing practical distributed systems concept…
@@ -1998,7 +1994,6 @@ id,created_at,text
 964539148068704300,Fri Feb 16 16:37:07 +0000 2018,@scott_lowe I think you need both. Open source projects tend to produce open interfaces, but once they reach stabil… https://t.co/HFvjCiFR97
 964538144719867900,Fri Feb 16 16:33:08 +0000 2018,@asynchio @sallamar All those interfaces can be provided by a managed service. This is not about the value of open… https://t.co/jAIVMvDKWB
 964537508871786500,Fri Feb 16 16:30:37 +0000 2018,@valb00 @cra @asynchio I'm not talking about all of OSS. I'm talking about managed infrastructure. If a managed off… https://t.co/ZiAg15IHwH
-964535674656510000,Fri Feb 16 16:23:19 +0000 2018,@asynchio To your point I also see value in open interfaces backed by reference implementations.
 964535674656510000,Fri Feb 16 16:23:19 +0000 2018,@asynchio To your point I also see value in open interfaces backed by reference implementations.
 964534491669782500,Fri Feb 16 16:18:37 +0000 2018,@asynchio That's a separate argument and one I'm not trying to debate. Open interfaces must provide some form of st… https://t.co/wZXRz5ML03
 964533448277921800,Fri Feb 16 16:14:28 +0000 2018,@samnewman @lawouach Local providers can also offer fully managed services.
@@ -2398,7 +2393,6 @@ id,created_at,text
 950860941020880900,Tue Jan 09 22:44:49 +0000 2018,While not merged yet, the proposed OPA documentation sheds some light on how OPA integrates with Istio authorizatio… https://t.co/nXKSc8V2h0
 950858966912905200,Tue Jan 09 22:36:58 +0000 2018,Istio is about to get a lot more powerful. The community recently added support for the Open Policy Agent: a genera… https://t.co/gvmAzXD5T1
 950853453806555100,Tue Jan 09 22:15:04 +0000 2018,Go AWS! https://t.co/sbxOq0wZy5
-950752113621119000,Tue Jan 09 15:32:22 +0000 2018,@achromosoto I have a packed week here in Mannheim. If Munich was closer I would. https://t.co/kOItobr0Ze
 950752113621119000,Tue Jan 09 15:32:22 +0000 2018,@achromosoto I have a packed week here in Mannheim. If Munich was closer I would. https://t.co/kOItobr0Ze
 950747802224808000,Tue Jan 09 15:15:14 +0000 2018,@foxwhizz @golangFrankfurt I'm leaving Friday morning, but thanks for the offer.
 950747561194938400,Tue Jan 09 15:14:17 +0000 2018,@jpmens Dope is good. It's another way of saying awesome or amazing. I'll let you discover the alternative meanings… https://t.co/SzAIqMuQvd
@@ -2999,7 +2993,6 @@ id,created_at,text
 918615673512890400,Thu Oct 12 23:13:38 +0000 2017,Minneapolis https://t.co/ao0My2RJbj
 918605171965530100,Thu Oct 12 22:31:54 +0000 2017,I’m still waiting for a smartphone that I won’t feel stupid for buying.
 918551441010315300,Thu Oct 12 18:58:24 +0000 2017,@JonPulsifer @jessfraz I can say it again and you reference that
-918551441010315300,Thu Oct 12 18:58:24 +0000 2017,@JonPulsifer @jessfraz I can say it again and you reference that
 918457534847115300,Thu Oct 12 12:45:15 +0000 2017,The number one skill required for learning any complex system is patience.
 918296944346312700,Thu Oct 12 02:07:07 +0000 2017,@Troy0820 @kubernetesio Yep.
 918296676246478800,Thu Oct 12 02:06:03 +0000 2017,Learning is key. https://t.co/NlPachVqNB
@@ -3199,7 +3192,6 @@ id,created_at,text
 905660017847681000,Thu Sep 07 05:12:29 +0000 2017,It's amazing what you learn from those who normally keep quiet.
 905651870827298800,Thu Sep 07 04:40:06 +0000 2017,The 7 Steps of Machine Learning by @yufengg is extra dope! He makes it look so simple. https://t.co/NxhdmUZzVE
 905650098373136400,Thu Sep 07 04:33:04 +0000 2017,RT @francesc: Whoa @yufengg is rocking YouTube with his new #MachineLearning series! Over 66,223 views on this video👏👏👏 https://t.co/v2xXA9…
-905650098373136400,Thu Sep 07 04:33:04 +0000 2017,RT @francesc: Whoa @yufengg is rocking YouTube with his new #MachineLearning series! Over 66,223 views on this video👏👏👏 https://t.co/v2xXA9…
 905573191317315600,Wed Sep 06 23:27:28 +0000 2017,@wattersjames @fastnsilver @jmckenty I'll be there.
 905520427870691300,Wed Sep 06 19:57:48 +0000 2017,@ivanfioravanti @googlecloud Welcome to the platform and thanks for the kind words!
 905449614731485200,Wed Sep 06 15:16:25 +0000 2017,@gregfelice Welcome!
@@ -3228,5 +3220,4 @@ id,created_at,text
 903761660451676200,Fri Sep 01 23:29:05 +0000 2017,@CTOAdvisor @kitcolbert I vote for @kitcolbert!
 903750604744310800,Fri Sep 01 22:45:09 +0000 2017,@agonzalezro Nice touch!
 903749420839198700,Fri Sep 01 22:40:27 +0000 2017,CNCF backing. Domain expertise. Strong developer advocacy. I would add community to the list. https://t.co/BFKHG05orI
-903708300084035600,Fri Sep 01 19:57:03 +0000 2017,That's feeling when all your hard work pays off. Thank you Matt. https://t.co/lbUoifrkHt
 903708300084035600,Fri Sep 01 19:57:03 +0000 2017,That's feeling when all your hard work pays off. Thank you Matt. https://t.co/lbUoifrkHt

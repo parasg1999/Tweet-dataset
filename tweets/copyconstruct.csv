@@ -199,7 +199,6 @@ id,created_at,text
 1247640683449430000,Tue Apr 07 21:41:33 +0000 2020,Had forgotten I was a book reviewer on the book on Chaos Engineeting by @nora_js and @caseyrosenthal   It’s a curat… https://t.co/nz0O4VhmZN
 1247620803643863000,Tue Apr 07 20:22:33 +0000 2020,@rbranson @Cloudflare @fastly So many AWS products suffer from very poor DX. I'd be surprised if it's not considere… https://t.co/ulrNF5j5wD
 1247565837294121000,Tue Apr 07 16:44:08 +0000 2020,@jmoiron @el_bhs @kelseyhightower Yeah but that was a considered and nuanced discussion.   I just threw out “macro… https://t.co/2eUQXAcrue
-1247565837294121000,Tue Apr 07 16:44:08 +0000 2020,@jmoiron @el_bhs @kelseyhightower Yeah but that was a considered and nuanced discussion.   I just threw out “macro… https://t.co/2eUQXAcrue
 1247564216220827600,Tue Apr 07 16:37:42 +0000 2020,RT @rbranson: PostgreSQL really is the world's best database, but isn't perfect. https://t.co/4XcVmJvyPD
 1247563514928976000,Tue Apr 07 16:34:55 +0000 2020,@jmoiron I regret having ever tweeted about micro services. Turns out posts made half in jest at 5:00am in the morn… https://t.co/LsfiHKkWlk
 1247402888546013200,Tue Apr 07 05:56:38 +0000 2020,RT @HenryR: Typed up my notes on AWS' Physalia (but you should read the paper!):  https://t.co/7kTJSL3vuU
@@ -398,7 +397,6 @@ id,created_at,text
 1226597919379222500,Sun Feb 09 20:05:07 +0000 2020,@arshia__ I feel good *after* the workout. During the course of working out, can’t help but hate every moment of it… https://t.co/soQgOhhjk4
 1226570797981917200,Sun Feb 09 18:17:21 +0000 2020,Link to paper https://t.co/ulP12J0LWL  A very approachable and in-depth read about the nuances of user-centric avai… https://t.co/XfWgvXHFna
 1226570790176313300,Sun Feb 09 18:17:19 +0000 2020,Meaningful Availability, NSDI 2020   Fantastic paper from Google that points out why common availability metrics li… https://t.co/oMnsr1TNiY
-1225873965538656300,Fri Feb 07 20:08:23 +0000 2020,@francesc Good luck! Retweeted to signal boost. Wherever you land, they’ll be lucky to have you.
 1225873965538656300,Fri Feb 07 20:08:23 +0000 2020,@francesc Good luck! Retweeted to signal boost. Wherever you land, they’ll be lucky to have you.
 1225873827185348600,Fri Feb 07 20:07:50 +0000 2020,RT @francesc: 📢 LOOKING FOR A JOB 📢  I am considering engineering leadership roles at late-stage startups and public cos with:  - a diverse…
 1225523278363549700,Thu Feb 06 20:54:53 +0000 2020,@YuriShkuro Spam. I had a LinkedIn for a couple of years and only got spam. It wasn’t very useful.
@@ -998,7 +996,6 @@ id,created_at,text
 1159668619032219600,Fri Aug 09 03:31:59 +0000 2019,Last evening my phone’s display froze on me and wouldn’t respond. I got the display replaced today (for free!)  Tur… https://t.co/K4dob4P8z9
 1159545141037654000,Thu Aug 08 19:21:19 +0000 2019,@maria_fibonacci I packed boots to CPH in Nov. Everyone there was wearing sneakers. I got myself a pair of sneakers… https://t.co/FKcbAVQIRU
 1159506447845040000,Thu Aug 08 16:47:34 +0000 2019,@maria_fibonacci When asked why I own a cupboard full of athleisure, I answer - "I wear that to work, to the gym, t… https://t.co/QvPZF7KNuJ
-1159502020656582700,Thu Aug 08 16:29:58 +0000 2019,RT @dvyukov: The first work on structured concurrency that I read was Cilk: https://t.co/vJpNBYZeR1 It had implicit await (sync) in early 9…
 1159502020656582700,Thu Aug 08 16:29:58 +0000 2019,RT @dvyukov: The first work on structured concurrency that I read was Cilk: https://t.co/vJpNBYZeR1 It had implicit await (sync) in early 9…
 1157800183414939600,Sat Aug 03 23:47:29 +0000 2019,@HenryR This isn't probably what you're looking for though. I'm not sure - @xaprb knows a ton about queueing theory… https://t.co/ADRoOQOvOZ
 1157799678450077700,Sat Aug 03 23:45:28 +0000 2019,@HenryR We solved this problem at a previous job in a fairly simple (but effective) manner. I wrote about it here… https://t.co/M8HYOTXzV6
@@ -1799,7 +1796,6 @@ id,created_at,text
 1079908877724934100,Tue Jan 01 01:15:14 +0000 2019,RT @jckarter: There’s always some cost to using an abstraction. “Zero cost” abstractions pay for the abstraction with compile time. Otherwi…
 1079820589643100200,Mon Dec 31 19:24:25 +0000 2018,@old_sound @allspaw @mononcqc Thanks. That does look very interesting.
 1079688475769659400,Mon Dec 31 10:39:26 +0000 2018,The article itself is a bit abstract, which is ironic because I argue for the exact opposite in the article.  As an… https://t.co/FZHpjK9Rhy
-1079688475769659400,Mon Dec 31 10:39:26 +0000 2018,The article itself is a bit abstract, which is ironic because I argue for the exact opposite in the article.  As an… https://t.co/FZHpjK9Rhy
 1079687818887102500,Mon Dec 31 10:36:50 +0000 2018,Wrote about mental models and how decomposition of software layers should reflect this. https://t.co/5fP3pPz4vd Whe… https://t.co/XYLEZRJUE3
 1079652638482808800,Mon Dec 31 08:17:02 +0000 2018,@nora_js @sargun @aspyker +2 to Spark Social. That place is great.
 1079564930716557300,Mon Dec 31 02:28:31 +0000 2018,@HenryR @palvaro I suspect if I were to prepare for a talk, it’d take *way* longer for me than to read through a pa… https://t.co/heaNTviAMz
@@ -2198,7 +2194,6 @@ id,created_at,text
 1056247513018069000,Sat Oct 27 18:13:25 +0000 2018,Went down a bit of a paper reading rabbit hole in the last couple of days. It's fascinating to see the myriad uses… https://t.co/XZ87vYdRxL
 1056242454117019600,Sat Oct 27 17:53:19 +0000 2018,Here's a nice slide deck of the same paper, for those who don't like reading papers but still are interested in clu… https://t.co/1QC5jlSxw4
 1056241494183440400,Sat Oct 27 17:49:30 +0000 2018,The Elasticity and Plasticity in Semi-Containerized Co-locating Cloud Workload: a View from Alibaba Trace -… https://t.co/RDStyvMC1p
-1056081241865240600,Sat Oct 27 07:12:43 +0000 2018,Fast and Accurate Load Balancing for Geo Distributed Storage Systems https://t.co/ZtLs6G1ViL  This paper is an abso… https://t.co/FH94iqhG9n
 1056081241865240600,Sat Oct 27 07:12:43 +0000 2018,Fast and Accurate Load Balancing for Geo Distributed Storage Systems https://t.co/ZtLs6G1ViL  This paper is an abso… https://t.co/FH94iqhG9n
 1055986871904305200,Sat Oct 27 00:57:44 +0000 2018,@dgryski There was an article today on the same topic by the same people https://t.co/ZuXh6GD6tQ
 1055863161776070700,Fri Oct 26 16:46:09 +0000 2018,@rakyll I’m pretty certain every large company has its own fair share of dysfunction. Not uniformly dysfunctional,… https://t.co/Xw0LVptJkS
@@ -2799,7 +2794,6 @@ id,created_at,text
 1014927153064890400,Thu Jul 05 17:41:04 +0000 2018,@BCHNewsUpdate No, I still think Go is a great language for writing distributed systems. I don’t write Go anymore b… https://t.co/bZjBkSpJhO
 1014922976121065500,Thu Jul 05 17:24:28 +0000 2018,Building chaos engineering into the heart of an application. 😎  Now the programmer intentionally kills off processe… https://t.co/yi7oRWxgOO
 1014896156709609500,Thu Jul 05 15:37:54 +0000 2018,Yes, please do monitor the heap size of all apps.   But the most pernicious goroutine leaks are that ones that don’… https://t.co/1onc4Hk6QN
-1014896156709609500,Thu Jul 05 15:37:54 +0000 2018,Yes, please do monitor the heap size of all apps.   But the most pernicious goroutine leaks are that ones that don’… https://t.co/1onc4Hk6QN
 1014892327167393800,Thu Jul 05 15:22:41 +0000 2018,Them: “if you’re leaking goroutines, you’re doing it wrong. “Experts” don’t leak goroutines”   No, even very experi… https://t.co/Xinpd9Y9tC
 1014892067628019700,Thu Jul 05 15:21:39 +0000 2018,Golang fans: Go is a great language for writing distributed systems.   Me: A number of outages in some very popular… https://t.co/NxFQKnt5UD
 1014713025004093400,Thu Jul 05 03:30:12 +0000 2018,@derivativeburke @classyhacker @CityofCupertino Ah - I’m not a US citizen. Umm not sure that’s a requirement but I… https://t.co/7nAmiIRqG9
@@ -3198,7 +3192,6 @@ id,created_at,text
 997321180917846000,Fri May 18 03:41:13 +0000 2018,RT @imwiss: This is so true and important to keep in mind. Excited to dive in to this new book by @copyconstruct #microservices #scale http…
 997310371550523400,Fri May 18 02:58:16 +0000 2018,RT @davidcrawshaw: The moment when you realize emacs is east coast and vi is west coast.
 997291513808748500,Fri May 18 01:43:20 +0000 2018,@davidcrawshaw Agreed. that tweet was by no means an endorsement on my part. Just someone I heard (and was rang somewhat true)
-997278622800003100,Fri May 18 00:52:06 +0000 2018,@mccv even better was someone calling someone else an "open source welfare queen".
 997278622800003100,Fri May 18 00:52:06 +0000 2018,@mccv even better was someone calling someone else an "open source welfare queen".
 997277521748967400,Fri May 18 00:47:44 +0000 2018,OH: “every homebrew deployment system will either die an early death or live long enough to justify the rollout of Kubernetes”
 997227632004448300,Thu May 17 21:29:29 +0000 2018,@lizthegrey @JaegerTracing Thanks!!   I’m to blame for the typos though - I kept making minor changes until the ver… https://t.co/3UFSzvx5s7

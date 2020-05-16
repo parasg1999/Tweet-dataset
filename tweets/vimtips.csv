@@ -581,13 +581,15 @@ id,created_at,text
 4217093067112449,Mon Nov 15 17:00:07 +0000 2010,gq{movement} to wrap text, or just gq while in visual mode. gqap will format the current paragraph.  http://is.gd/7Onk
 3129927805181952,Fri Nov 12 17:00:07 +0000 2010,:match ErrorMsg '\%&gt;80v.\+' uses matching to highlight lines longer than 80 columns.  http://is.gd/8ekT
 2767538039554048,Thu Nov 11 17:00:07 +0000 2010,:scriptnames will list all plugins and _vimrcs loaded. http://is.gd/6PB6n
-2405146789154818,Wed Nov 10 17:00:06 +0000 2010,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+2405146789154818,Wed Nov 10 17:00:06 +0000 2010,to use gvim to edit your git messages set git's core editor as follows:
+ git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
 2042765802217472,Tue Nov 09 17:00:07 +0000 2010,noremap ' ` and noremap ` ' to make marks easier to navigate.  Now ` is easier to reach!  http://is.gd/70Dh
 1680390787964928,Mon Nov 08 17:00:11 +0000 2010,In visual mode, use s" to surround the selected text with " using the surround plugin. http://is.gd/fpwJQ (via @grasselli)
 578117823373312,Fri Nov 05 16:00:08 +0000 2010,/.*fred&.*joe/ will search for fred AND joe, in any order.  http://is.gd/4xZW
 29679072578,Thu Nov 04 16:00:09 +0000 2010,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
 29584110429,Wed Nov 03 16:00:07 +0000 2010,* # g* g# each searches for the word under the cursor (forwards/backwards) http://is.gd/7Onk
-29482900795,Tue Nov 02 16:00:08 +0000 2010,:vimgrep /stext/ **/*.txt | :copen searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
+29482900795,Tue Nov 02 16:00:08 +0000 2010,:vimgrep /stext/ **/*.txt | :copen
+ searches for stext recursively in *.txt files and show results in separate window (via @danechkin)
 29384755032,Mon Nov 01 16:00:10 +0000 2010,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
 29100941025,Fri Oct 29 16:00:08 +0000 2010,Count the number of occurences of a word in a file with :%s/&lt;word&gt;//gn
 29002007814,Thu Oct 28 16:00:10 +0000 2010,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
@@ -611,7 +613,8 @@ id,created_at,text
 26375206547,Mon Oct 04 16:00:09 +0000 2010,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
 26092992413,Fri Oct 01 16:00:07 +0000 2010,:set foldmethod=syntax to make editing long files of code much easier.  zo to open a fold.  zc to close it.  See more http://is.gd/9clX
 25992611041,Thu Sep 30 16:00:06 +0000 2010,g&lt; CTRL-G &gt; to see technical information about the file, such as how many words are in it, or how many bytes it is.  http://is.gd/9cYj
-25895659485,Wed Sep 29 16:00:07 +0000 2010,Edit a command output in Vim as a file: $ command | vim - (via @dlibanori)
+25895659485,Wed Sep 29 16:00:07 +0000 2010,Edit a command output in Vim as a file:
+ $ command | vim - (via @dlibanori)
 25797568752,Tue Sep 28 16:00:06 +0000 2010,/&lt; fred  &gt;/ will search for fred, but not alfred or frederick.  http://is.gd/4xZW (spaces inserted to avoid HTML filtering).
 25699282829,Mon Sep 27 16:00:08 +0000 2010,; is a motion to repeat last find with f. f' would find next quote. c; would change up to the next ' (via @techpickles) http://is.gd/qZIs
 25416806505,Fri Sep 24 16:00:07 +0000 2010,:%s/&lt; ! - -\_.\{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
@@ -704,7 +707,7 @@ id,created_at,text
 13796225684,Tue May 11 16:12:30 +0000 2010,RT @peepcode: Smash Into Vim! It's the new screencast from PeepCode: http://peepcode.com/products/smash-into-vim-i
 13795627379,Tue May 11 16:00:28 +0000 2010,guu converts entire line to lowercase. gUU converts entire line to uppercase.  ~ inverts case of current character.  http://is.gd/7Onk
 13733761016,Mon May 10 16:00:23 +0000 2010,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP
-13555956042,Fri May 07 16:00:12 +0000 2010,to use gvim to edit your git messages set git's core editor as follows: git config --global core.editor "gvim --nofork" (via @EmmanuelOga)
+13555956042,Fri May 07 16:00:12 +0000 2010,to use gvim to edit your git messages set git's core editor as follows:
 13496860336,Thu May 06 16:45:30 +0000 2010,@panozzaj It should be a command. Sorry. I've updated the tip to read :40,50m30
 13494725716,Thu May 06 16:00:24 +0000 2010,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
 13439318929,Wed May 05 17:56:54 +0000 2010,RT @rbxbx: :y&lt;line-number&gt; will yank the passed in ln, :y&lt;ln1, ln2&gt; will yank the range. eg.   :y41 or :y45,50 #vim
@@ -852,7 +855,8 @@ id,created_at,text
 3288380637,Thu Aug 13 16:00:05 +0000 2009,:s/(.*):(.*)/2 : 1/ will reverse fields separated by ':'  http://is.gd/4xZW
 3267457813,Wed Aug 12 16:00:05 +0000 2009,/joe.*fred.*bill/ will search for joe AND fred AND bill, in that order.  http://is.gd/4xZW
 3247506201,Tue Aug 11 16:00:04 +0000 2009,"+y to copy to the X11 (or Windows) clipboard.  "+p to paste from it.  http://is.gd/9dkI (OSX users, see http://is.gd/9dmN)
-3227106643,Mon Aug 10 16:00:18 +0000 2009,:5s/^ +// will compress multiple empty lines into one.  http://is.gd/4xZW
+3227106643,Mon Aug 10 16:00:18 +0000 2009,:5s/^ +/
+/ will compress multiple empty lines into one.  http://is.gd/4xZW
 3147512488,Wed Aug 05 16:00:05 +0000 2009,Ctrl-c to quickly get out of command-line mode.  (Faster than hitting ESC a couple times.)  http://is.gd/GTtq
 3126468234,Tue Aug 04 16:00:07 +0000 2009,:he /\v will set your magic level properly for Vim regexes. Can help avoid confusion! http://is.gd/tj4y
 3106292491,Mon Aug 03 16:00:09 +0000 2009,/joe/s-2 will search for joe and place the cursor at the start of the match, minus two characters.  http://is.gd/4xZW
@@ -872,7 +876,7 @@ id,created_at,text
 2634171724,Tue Jul 14 16:00:05 +0000 2009,/begin\_.*end/ will search for begin AND end over multiple lines.  http://is.gd/4xZW
 2615961037,Mon Jul 13 16:00:10 +0000 2009,:%s/\ r//g to remove all those nasty ^M from a file, or :%s/\ r$//g for only at the end of a line.  http://is.gd/8ejs
 2569901377,Fri Jul 10 16:00:10 +0000 2009,:%s/joe|fred/jerks/g will replace both 'fred' and 'joe' with 'jerks'. http://is.gd/4xZW
-2405367826,Tue Jun 30 16:00:05 +0000 2009,:5s/^ +// will compress multiple empty lines into one.  http://is.gd/4xZW
+2405367826,Tue Jun 30 16:00:05 +0000 2009,:5s/^ +/
 2389176101,Mon Jun 29 16:00:11 +0000 2009,ggguG will lower case the entire file (also known as the Jerry Yang treatment).  http://is.gd/4xZW
 2345652108,Fri Jun 26 16:00:08 +0000 2009,:Sex will open a file explorer in a split window.  I bet you'll remember that one.  http://is.gd/4xZW
 2327959848,Thu Jun 25 16:00:05 +0000 2009,/begin\_.*end/ will search for begin AND end over multiple lines.  http://is.gd/4xZW
@@ -949,7 +953,9 @@ id,created_at,text
 1389561712,Wed Mar 25 18:40:15 +0000 2009,:%s/ \ r//g and :%s/ \ r$// are the correct commands for the previous tip.  Sorry!  (Thanks @susam!)
 1389557115,Wed Mar 25 18:39:26 +0000 2009,@susam You're right.  Another case of part of the tip being eaten somewhere in the pipeline.
 1388661992,Wed Mar 25 16:00:10 +0000 2009,@: to repeat the last executed command.  http://is.gd/9cuP
-1382433097,Tue Mar 24 16:00:06 +0000 2009,:%s///g to remove all those nasty ^M from a file, or :%s/$//g for only at the end of a line.  http://is.gd/8ejs
+1382433097,Tue Mar 24 16:00:06 +0000 2009,:%s/
+//g to remove all those nasty ^M from a file, or :%s/
+$//g for only at the end of a line.  http://is.gd/8ejs
 1311196932,Wed Mar 11 16:00:06 +0000 2009,gf will open the file under the cursor.  (Killer feature.) http://is.gd/4xZW
 1300891129,Mon Mar 09 16:00:13 +0000 2009,ga will display the ASCII, hex, and octal value of the character under the cursor. http://is.gd/4xZW
 1294960841,Sun Mar 08 02:20:48 +0000 2009,Just hit 200 followers.  Thanks!  I hope we're helping.  Check out http://mileszs.github.com for more Vim stuff.  (And Vim Diesel)
@@ -965,7 +971,9 @@ id,created_at,text
 1241426777,Mon Feb 23 17:00:08 +0000 2009,% matches brackets {} [] (), and with matchit.vim, also matches def/end, &lt; ?php/?&gt;, &lt; p&gt;/&lt; /p&gt;, etc.  http://is.gd/N4W
 1231183811,Fri Feb 20 17:00:07 +0000 2009,:%s/&lt; !--\_.{-}-- &gt;// will delete HTML comments, potentially spanning multiple lines. (remove the spaces) http://is.gd/4xZW
 1227424374,Thu Feb 19 17:40:30 +0000 2009,That last tip should have read :%s/ \ r / \ r /g, without all of the spaces.  Sorry!  Also, see @godfoca's response.
-1227282632,Thu Feb 19 17:00:06 +0000 2009,:s///g turn DOS returns (^M) into real returns.  http://is.gd/4xZW
+1227282632,Thu Feb 19 17:00:06 +0000 2009,:s/
+/
+/g turn DOS returns (^M) into real returns.  http://is.gd/4xZW
 1223454628,Wed Feb 18 17:00:06 +0000 2009,:%s/~/sue/igc substitute your last replacement string with sue. http://is.gd/4xZW
 1219519397,Tue Feb 17 17:00:08 +0000 2009,:vmap // y/&lt; C-R &gt;"&lt; CR &gt; will make searching for highlighted text (i.e. in visual mode) require only a highlight and // http://is.gd/4xZW
 1215831112,Mon Feb 16 17:00:06 +0000 2009,Need to edit and run a previous command?  q: then find the command, edit it, and Enter to execute the line.  http://is.gd/9cuP

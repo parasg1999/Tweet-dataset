@@ -599,7 +599,6 @@ id,created_at,text
 1229084732069015600,Sun Feb 16 16:46:50 +0000 2020,RT @JasperDeMoor: Aside from the actionable errors in node_module resolution there's also suggestions for typos in both node_modules and re…
 1229084581086650400,Sun Feb 16 16:46:14 +0000 2020,RT @JasperDeMoor: Parcel 2 will have resolver diagnostics, this will help make any error thrown by the resolver to be super clear and actio…
 1229084236675596300,Sun Feb 16 16:44:51 +0000 2020,@acemarke @sophiebits Right, but this can be difficult if some of the components are not your own (e.g. libraries,… https://t.co/kBzAMFIwvY
-1229084236675596300,Sun Feb 16 16:44:51 +0000 2020,@acemarke @sophiebits Right, but this can be difficult if some of the components are not your own (e.g. libraries,… https://t.co/kBzAMFIwvY
 1229083298074218500,Sun Feb 16 16:41:08 +0000 2020,@AdamRackis @sophiebits https://t.co/lYItXRgNW1 https://t.co/SnnxLVWsz6
 1229082284441002000,Sun Feb 16 16:37:06 +0000 2020,@AdamRackis @sophiebits "Don't do that"? Maybe a way to opt out if you're doing bad things?
 1229082020644475000,Sun Feb 16 16:36:03 +0000 2020,@acemarke @sophiebits Doesn't React already do a diff, only later? Rather than diffing the input (props) it diffs t… https://t.co/Wm8SQI8PhN
@@ -799,7 +798,6 @@ id,created_at,text
 1218558269603451000,Sat Jan 18 15:38:25 +0000 2020,@leads @JorisGriffioen @tommyvedvik @stevensacks Nothing stops you from using div and span too, but when you need a… https://t.co/xfNoyoY8YJ
 1218557465526038500,Sat Jan 18 15:35:14 +0000 2020,@jakobyjonsson See next tweet 😉
 1218557009580048400,Sat Jan 18 15:33:25 +0000 2020,@KyleKochanek I think a system that allows you to edit the real code visually is the way to go. Allows designers to… https://t.co/gj4E6tYAnj
-1218557009580048400,Sat Jan 18 15:33:25 +0000 2020,@KyleKochanek I think a system that allows you to edit the real code visually is the way to go. Allows designers to… https://t.co/gj4E6tYAnj
 1218556468821053400,Sat Jan 18 15:31:16 +0000 2020,@jim_savage The browser shows the internals, but most of the time I’m not writing them directly, I’m using a component library.
 1218383726100402200,Sat Jan 18 04:04:51 +0000 2020,@stevensacks @tommyvedvik I just mean someone building an actual app rather than a component library
 1218383229494808600,Sat Jan 18 04:02:53 +0000 2020,@tommyvedvik @stevensacks Within the design system components sure, but product devs just use higher level components most of the time.
@@ -998,7 +996,6 @@ id,created_at,text
 1204971242291253200,Thu Dec 12 03:48:26 +0000 2019,@mikeal @mjackson It’s the same, just more or less granular right?
 1204963040686264300,Thu Dec 12 03:15:50 +0000 2019,@mikeal @mjackson For example, if two bundles depend on a common dep like react, it is split into a separate bundle… https://t.co/4U37AG3e2L
 1204962966208045000,Thu Dec 12 03:15:32 +0000 2019,@mikeal @mjackson In Parcel 2, we support generating native ESM as output of the bundler. We use normal (non dynami… https://t.co/DovK7quLKl
-1204921724426322000,Thu Dec 12 00:31:40 +0000 2019,@mikeal @ryanflorence @mjackson Feels like there is probably a middle ground between bundling, and loading files in… https://t.co/ufvNJd85w1
 1204921724426322000,Thu Dec 12 00:31:40 +0000 2019,@mikeal @ryanflorence @mjackson Feels like there is probably a middle ground between bundling, and loading files in… https://t.co/ufvNJd85w1
 1204898366313779200,Wed Dec 11 22:58:51 +0000 2019,RT @TschinderDaniel: Released 5.0.0 of react-docgen. 💥 🎉 @typescript  support added via @babeljs, big thanks to  @devongovett and contribut…
 1204866659489476600,Wed Dec 11 20:52:51 +0000 2019,@mjackson Did you see @mikeal’s https://t.co/PqtQllrhj2? Looks pretty promising.
@@ -1599,7 +1596,6 @@ id,created_at,text
 1178822666553135000,Tue Oct 01 00:03:19 +0000 2019,@ryanflorence Who needs bundlers when you can just write everything in one file? 😂
 1178809389085417500,Mon Sep 30 23:10:34 +0000 2019,@Ceige_M 😂
 1178809119299399700,Mon Sep 30 23:09:29 +0000 2019,@orta Still feels like it could be solved in a build...  If you need access to variables, export them. ES module ex… https://t.co/t5BQInPg4N
-1178809119299399700,Mon Sep 30 23:09:29 +0000 2019,@orta Still feels like it could be solved in a build...  If you need access to variables, export them. ES module ex… https://t.co/t5BQInPg4N
 1178804767230836700,Mon Sep 30 22:52:12 +0000 2019,@orta couldn't you get the same benefits listed there by building a large file from many smaller ones?
 1178804431543947300,Mon Sep 30 22:50:52 +0000 2019,RT @orta: He’s not wrong, that’s the whole whole type checker in a single file. Here’s my notes on it, https://t.co/3Osl8X9c8N  https://t.c…
 1178804048100610000,Mon Sep 30 22:49:20 +0000 2019,@BenRuns AFAICT, it is not. 😢
@@ -1999,7 +1995,6 @@ id,created_at,text
 1132028510627745800,Fri May 24 21:00:03 +0000 2019,Whoa, already got a PR from @github dependabot to fix a security vulnerability. Didn't have to enable anything. Pre… https://t.co/mQO3LT4gT2
 1131987402455638000,Fri May 24 18:16:42 +0000 2019,@arcanis not prepack, but similar ideas. optimizing for file size rather than initial runtime perf (though it can also help with that).
 1131987145462206500,Fri May 24 18:15:41 +0000 2019,@RReverser similar in some ideas, but not at all in implementation.
-1131987145462206500,Fri May 24 18:15:41 +0000 2019,@RReverser similar in some ideas, but not at all in implementation.
 1131986328520781800,Fri May 24 18:12:26 +0000 2019,JS optimizer coming along... 🤯🤯🤯 https://t.co/0q60rgdoJl
 1131614324697342000,Thu May 23 17:34:14 +0000 2019,@github oops... 🙈 https://t.co/blrYZJnc6a
 1131610747266486300,Thu May 23 17:20:01 +0000 2019,Just enabled @github's awesome new Sponsor button for @parceljs with a link to our @opencollect! 😍 https://t.co/DJnPAtahne
@@ -2398,7 +2393,6 @@ id,created_at,text
 1078026501415751700,Wed Dec 26 20:35:21 +0000 2018,RT @devongovett: Open sourced the code we used to sync our Christmas lights to music! 🎄💡  https://t.co/8bmwBkUOZM  Includes docs and pictur…
 1077949338993729500,Wed Dec 26 15:28:44 +0000 2018,@nsthorat https://t.co/kjfN4gPTnJ
 1077949273029951500,Wed Dec 26 15:28:28 +0000 2018,@rawkode @danagovett Haha not yet!
-1077949273029951500,Wed Dec 26 15:28:28 +0000 2018,@rawkode @danagovett Haha not yet!
 1077947110681649200,Wed Dec 26 15:19:53 +0000 2018,Open sourced the code we used to sync our Christmas lights to music! 🎄💡  https://t.co/8bmwBkUOZM  Includes docs and… https://t.co/Wt4faYPIhw
 1077740653449228300,Wed Dec 26 01:39:29 +0000 2018,@nsthorat The analysis is pretty simple actually. Just buckets frequency ranges from an FFT into 8 groups, and turn… https://t.co/ypTiLVoh16
 1077726571144851500,Wed Dec 26 00:43:32 +0000 2018,See previous tweets for pics of the wiring process.  https://t.co/sXfwn3HM8E https://t.co/J0GmVRrZLo… https://t.co/V5rNA43G0k
@@ -2592,7 +2586,6 @@ id,created_at,text
 1059810675231346700,Tue Nov 06 14:12:09 +0000 2018,USA people: please go vote today. It’s really important and you will feel good doing it! 🇺🇸 https://t.co/O34nTcRqX3
 1059638177399365600,Tue Nov 06 02:46:43 +0000 2018,RT @AndreasPizsa: Writing a PWA and want automatic updates for your app? Your `manifest` file needs the stay under the same URL.  Just subm…
 1059471988429713400,Mon Nov 05 15:46:20 +0000 2018,@richardiii This is already supported. We have a raw asset which can represent any file to link to.
-1059469781798010900,Mon Nov 05 15:37:34 +0000 2018,Parcel 2 also supports "connected files", which are files that affect assets in the graph, but are not assets thems… https://t.co/ubVNk4rpPe
 1059469781798010900,Mon Nov 05 15:37:34 +0000 2018,Parcel 2 also supports "connected files", which are files that affect assets in the graph, but are not assets thems… https://t.co/ubVNk4rpPe
 1059469781093384200,Mon Nov 05 15:37:34 +0000 2018,Parcel 2 will also support building for multiple targets simultaneously!  You could have a target for modern browse… https://t.co/SIgCAcCGfm
 1059469779226914800,Mon Nov 05 15:37:34 +0000 2018,Parcel 2 will enable even faster rebuilds for file types with multiple parts (e.g. Vue, HTML). 🔥  If you had a Vue… https://t.co/n7mAlh0YJG
@@ -2981,7 +2974,6 @@ id,created_at,text
 1008837873104085000,Mon Jun 18 22:24:26 +0000 2018,@fusionstrings @parceljs @RollupJS @jspm why do you need to use Rollup and Parcel together?
 1008802712698253300,Mon Jun 18 20:04:44 +0000 2018,@martin_hotell @parceljs https://t.co/luLm6GhgG3
 1008789865981304800,Mon Jun 18 19:13:41 +0000 2018,@robcresswell @parceljs we just added tree shaking support in 1.9! It should get the same or even smaller sizes tha… https://t.co/6pgWk3Os4f
-1008783191493132300,Mon Jun 18 18:47:09 +0000 2018,@ahmedlhanafy @jaffathecake @parceljs done back in 1.7 😉 https://t.co/bXbKNqcpMK
 1008783191493132300,Mon Jun 18 18:47:09 +0000 2018,@ahmedlhanafy @jaffathecake @parceljs done back in 1.7 😉 https://t.co/bXbKNqcpMK
 1008782412904423400,Mon Jun 18 18:44:04 +0000 2018,@rafalfilipek @parceljs lol
 1008781397434064900,Mon Jun 18 18:40:02 +0000 2018,@quarterto @jaffathecake @parceljs https://t.co/luLm6GhgG3

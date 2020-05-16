@@ -397,7 +397,6 @@ id,created_at,text
 1057879466087608300,Thu Nov 01 06:18:13 +0000 2018,@prashles @smiegles @Hacker0x01 mine coming up in 8 days 😅, Happy Birthday @smiegles :)
 1057877286819528700,Thu Nov 01 06:09:34 +0000 2018,RT @plenumlab: 1500$ bug in jwt implementation read more about it in my write-up #togetherwehitharder #bugbounty https://t.co/9tlONxHAS9
 1057854581772828700,Thu Nov 01 04:39:20 +0000 2018,@mskwsky Great find @mskwsky :)
-1057854581772828700,Thu Nov 01 04:39:20 +0000 2018,@mskwsky Great find @mskwsky :)
 1057851991781728300,Thu Nov 01 04:29:03 +0000 2018,RT @filedescriptor: Payloads for https://t.co/4UaGSDhY7R are out, enjoy 🎃
 1056731306602782700,Mon Oct 29 02:15:51 +0000 2018,@Yassineaboukir https://t.co/cErlokR40d
 1056730282190102500,Mon Oct 29 02:11:47 +0000 2018,@michenriksen I'm up for it :)
@@ -796,7 +795,6 @@ id,created_at,text
 924535394695233500,Sun Oct 29 07:16:29 +0000 2017,RT @SYNTAXERRORBA: Nice one!  https://t.co/lRztJ8KzyR
 924267506981675000,Sat Oct 28 13:32:00 +0000 2017,RT @EdOverflow: A simple Google dork for finding JSONP endpoints in order to bypass a Content Security Policy.  site:https://t.co/nn6TmqsRp…
 923805266335768600,Fri Oct 27 06:55:13 +0000 2017,RT @asanso: #Slack #SAML authentication bypass https://t.co/IsZeq9WzvT https://t.co/05i7ewMsQp
-923805266335768600,Fri Oct 27 06:55:13 +0000 2017,RT @asanso: #Slack #SAML authentication bypass https://t.co/IsZeq9WzvT https://t.co/05i7ewMsQp
 923401994588471300,Thu Oct 26 04:12:46 +0000 2017,RT @cyberboyIndia: Stealing Amazon EC2 keys via XSS  https://t.co/KKMyD1ONlG
 923013817927209000,Wed Oct 25 02:30:17 +0000 2017,RT @kfalconspb: DNS Tunneling with Burp Collaborator https://t.co/TctIghds9s #ifh DNS tunneling, in my opinion, is the niftiest data exfilt…
 922655667969671200,Tue Oct 24 02:47:08 +0000 2017,RT @d0znpp: I just published “The best Burp plugin I’ve ever seen” https://t.co/Ye68Z63N9G
@@ -830,7 +828,8 @@ id,created_at,text
 912239096818368500,Mon Sep 25 08:55:23 +0000 2017,RT @blubbfiction: AWS Penetration Testing blog post series:  https://t.co/veRdXXzZc0 https://t.co/HKWx9kZlsk
 911014084102938600,Thu Sep 21 23:47:38 +0000 2017,RT @securinti: BLOGGED: "How I hacked hundreds of companies through their helpdesk"  https://t.co/8upUt0ZQkt
 910666385340088300,Thu Sep 21 00:46:00 +0000 2017,RT @frgx: Hey! We upped our bounties (and other updates on our bug bounty program) https://t.co/vJ2QkH3ecf
-910287941229883400,Tue Sep 19 23:42:12 +0000 2017,RT @netbiosX: AWS Penetration Testing Part 1. S3 Buckets https://t.co/PQDpiftBL9
+910287941229883400,Tue Sep 19 23:42:12 +0000 2017,RT @netbiosX: AWS Penetration Testing Part 1. 
+S3 Buckets https://t.co/PQDpiftBL9
 908927283817148400,Sat Sep 16 05:35:26 +0000 2017,RT @mslavco: RCE in vaultpress https://t.co/uVBKKl1LWg and https://t.co/3sUYi2fYN5 write up. Enjoy! :)  https://t.co/thxrrZFAYR
 908927015419445200,Sat Sep 16 05:34:22 +0000 2017,RT @Yassineaboukir: I wrote an article about a tricky case of exploitation of CORS misconfiguration when allowed origin is set to NULL http…
 908009102277615600,Wed Sep 13 16:46:54 +0000 2017,RT @binitamshah: SSRF (Server Side Request Forgery) testing resources :  https://t.co/hhZaXxQZJI , Paper : https://t.co/sbcUEe0K2b
@@ -1316,5 +1315,4 @@ id,created_at,text
 343196866495774700,Sat Jun 08 02:44:43 +0000 2013,Security Ghost http://t.co/hYLJvyROsZ
 337238939280736260,Wed May 22 16:10:03 +0000 2013,@Reckz0r need help
 337238819646627840,Wed May 22 16:09:34 +0000 2013,@Reckz0r r u there?
-306300172470734850,Tue Feb 26 07:10:26 +0000 2013,@agd_scorp hi bro hw r u?
 306300172470734850,Tue Feb 26 07:10:26 +0000 2013,@agd_scorp hi bro hw r u?

@@ -398,7 +398,6 @@ id,created_at,text
 1103732081472008200,Thu Mar 07 19:00:09 +0000 2019,In this video from @hpccouncil's 2019 Stanford Conference, experts from Intel's Data Center Group introduce a new,… https://t.co/XbvhtMZFWd
 1103369706407428100,Wed Mar 06 19:00:12 +0000 2019,To ensure high performance without thermal throttling, @EKWaterBlocks released a new passive heatsink for the Intel… https://t.co/5oqSU4IVbX
 1103007299248025600,Tue Mar 05 19:00:07 +0000 2019,Learn about PCIe SSDs, a key element in today's #data #storage landscape that provides enhanced speed, error detect… https://t.co/DgtqnPrmhV
-1103007299248025600,Tue Mar 05 19:00:07 +0000 2019,Learn about PCIe SSDs, a key element in today's #data #storage landscape that provides enhanced speed, error detect… https://t.co/DgtqnPrmhV
 1102644917032177700,Mon Mar 04 19:00:09 +0000 2019,CIOs expect HPC to be simple to use. To meet these demands, @HPE_HPC provides a #cloud experience with HPC clusters… https://t.co/Y3M09EXMUF
 1101270857131925500,Fri Mar 01 00:00:07 +0000 2019,What if a computer could adapt based on user behavior? See what's possible with devices powered by 8th generation I… https://t.co/M8AC4D0aRp
 1100546077164560400,Wed Feb 27 00:00:06 +0000 2019,Get a detailed look at the heatsink for Intel #Optane 905P M.2 SSD, now available through @EKWaterBlocks:… https://t.co/0EpFtYUMiE
@@ -598,7 +597,6 @@ id,created_at,text
 1027343783506206700,Thu Aug 09 00:00:19 +0000 2018,SPDK tools and libraries empower developers to write high performance, scalable storage applications with lower lat… https://t.co/HIeE0PB1pr
 1027333724424339500,Wed Aug 08 23:20:21 +0000 2018,Welcome to a new era of information enlightenment. Intel #Optane is here. https://t.co/Neaoan4uae #FMS2018 https://t.co/atGM6XLwZ5
 1027327629609906200,Wed Aug 08 22:56:08 +0000 2018,Rob Crooke discusses the future of data storage and memory and the Optane Transformation. https://t.co/bl7y5ACjS4… https://t.co/cCOt72Lf2s
-1027327629609906200,Wed Aug 08 22:56:08 +0000 2018,Rob Crooke discusses the future of data storage and memory and the Optane Transformation. https://t.co/bl7y5ACjS4… https://t.co/cCOt72Lf2s
 1027300954088108000,Wed Aug 08 21:10:08 +0000 2018,Accelerate performance, expand datasets, and eliminate bottlenecks with the world’s most responsive data center SSD… https://t.co/qqoiUUCD5P
 1027297469560905700,Wed Aug 08 20:56:17 +0000 2018,RT @IntelBusiness: Today at #IntelDCISummit we announced that Intel Optane DC Persistent Memory is now shipping. Find out more about our Da…
 1027290900098150400,Wed Aug 08 20:30:11 +0000 2018,“Intel’s Optane technology brings unprecedented capabilities to the high-performance storage realm...its new QLC NA… https://t.co/0YHTyxHPQL
@@ -797,7 +795,6 @@ id,created_at,text
 973215316561055700,Mon Mar 12 15:13:07 +0000 2018,Learn how to increase your #cloud server agility with the Intel #SSD DC P4500 Series. https://t.co/SjEeEdd3ZB https://t.co/68sKLeAkWy
 972277144171761700,Sat Mar 10 01:05:09 +0000 2018,Optimized for fast application loading and fast boot, discover the Intel #Optane SSD 800P: https://t.co/JkE7QtuMIU https://t.co/KvzkpGm1Hd
 972264579173572600,Sat Mar 10 00:15:14 +0000 2018,RT @TweakTown: .@Intel Optane SSD 800P 58GB &amp; 118GB M.2 NVMe PCIe SSD Review https://t.co/sAo1KtWjej https://t.co/I7Jjt8v5fo
-972187028703141900,Fri Mar 09 19:07:04 +0000 2018,The Intel #SSD DC P4500 Series is built with an all new design for #cloud storage architectures. Learn more:… https://t.co/Q1MPfnGZJl
 972187028703141900,Fri Mar 09 19:07:04 +0000 2018,The Intel #SSD DC P4500 Series is built with an all new design for #cloud storage architectures. Learn more:… https://t.co/Q1MPfnGZJl
 971911715444097000,Fri Mar 09 00:53:04 +0000 2018,The galaxy is at your fingertips when you play #StarCitizen with an Intel Optane #SSD 900P Series.… https://t.co/yCMC01uVKE
 971902402210271200,Fri Mar 09 00:16:04 +0000 2018,We're happy to introduce the Intel #Optane SSD 800P. Get the performance of Optane tech in an SSD M.2 form factor.… https://t.co/pZj2ofLOd3
@@ -1397,7 +1394,6 @@ id,created_at,text
 796096217214132200,Tue Nov 08 21:05:03 +0000 2016,Intel's Reputation and Experience in Storage Fuels Productivity in the Automobile Industry https://t.co/XDB71cqCSQ #LovemySSD
 796053540317720600,Tue Nov 08 18:15:28 +0000 2016,#lovemyssd - Tell us why you love yours! https://t.co/PjA7b2iYwR https://t.co/n5CxdYm9rt
 795750386116083700,Mon Nov 07 22:10:51 +0000 2016,Join the Intel SSD Revolution! #LovemySSD https://t.co/PjA7b2iYwR https://t.co/QYsJly8j62
-795739114985295900,Mon Nov 07 21:26:03 +0000 2016,@Casper042 Hi Dan, thanks for the question. currently it is not supported yet.  Take a look at #VSAN for HA storage with VMWare VMs.
 795739114985295900,Mon Nov 07 21:26:03 +0000 2016,@Casper042 Hi Dan, thanks for the question. currently it is not supported yet.  Take a look at #VSAN for HA storage with VMWare VMs.
 795735185413185500,Mon Nov 07 21:10:26 +0000 2016,RT Great write up on Intel Storage Performance Development Kit https://t.co/T4wx2MfXYF
 795697363503321100,Mon Nov 07 18:40:09 +0000 2016,By now you should be motivated... #lovemyssd - Whats stopping you? #mondaymotivation https://t.co/PjA7b2iYwR https://t.co/hKbIlDean2
@@ -2383,7 +2379,6 @@ id,created_at,text
 29671352914935810,Mon Jan 24 22:46:16 +0000 2011,And the other. Password is still 11SVto http://fb.me/RY1fkTQy
 29671162627751936,Mon Jan 24 22:45:31 +0000 2011,Fellow storage enthusiasts, feel free to check out the Intel presentations from Storage Visions 2011. Password: 11VSto http://fb.me/SCQNUAED
 29670754039635970,Mon Jan 24 22:43:53 +0000 2011,Fellow storage enthusiasts, feel free to check out the Intel presentations from Storage Visions 2011. Password: 11VSto http://fb.me/QfNPYFWi
-29669591353401344,Mon Jan 24 22:39:16 +0000 2011,And here's the other. Password: 11VSto http://fb.me/RyCl9PBU
 29669591353401344,Mon Jan 24 22:39:16 +0000 2011,And here's the other. Password: 11VSto http://fb.me/RyCl9PBU
 29669036702830590,Mon Jan 24 22:37:04 +0000 2011,Fellow storage enthusiasts, feel free to check out the Intel presentations from Storage Visions 2011. Password: 11VSto http://fb.me/Tp0njWb6
 29668442827132930,Mon Jan 24 22:34:42 +0000 2011,Fellow storage enthusiasts, feel free to check out the Intel presentations from Storage Visions 2011. Password: 11VSto http://fb.me/ThSumEEv

@@ -399,7 +399,6 @@ id,created_at,text
 1256381855034683400,Sat May 02 00:35:51 +0000 2020,RT @edyong209: Hello! A lot of you have started following me in the last couple of months, so let me introduce you to some people I respect…
 1256381485722079200,Sat May 02 00:34:23 +0000 2020,RT @_rockt: We (@jelennal_ @nntsn @j_foerst @hllo_wrld @jacobandreas @egrefen &amp; yours truly) are organizing the first (virtual) Workshop on…
 1256362762466472000,Fri May 01 23:19:59 +0000 2020,RT @jesseengel: A lot of folks have been asking me my thoughts about the recent Jukebox work by @OpenAI, so I thought a thread might help.…
-1256362762466472000,Fri May 01 23:19:59 +0000 2020,RT @jesseengel: A lot of folks have been asking me my thoughts about the recent Jukebox work by @OpenAI, so I thought a thread might help.…
 1256362688382451700,Fri May 01 23:19:41 +0000 2020,RT @roshan_m_rao: TAPE v0.4 is released! In addition to a number of bugfixes, we've added the TRRosetta model for structure prediction so t…
 1256362338036461600,Fri May 01 23:18:18 +0000 2020,RT @TensorFlow: TensorFlow 2.2.0-rc4 has been released!  Check out the release notes for major features and improvements such as a new Prof…
 1256307515999965200,Fri May 01 19:40:27 +0000 2020,RT @Montreal_AI: Introduction to Keras for Engineers  François Chollet, Colab : https://t.co/BAfXGxSgWT  #DeepLearning #Engineers #Keras ht…
@@ -503,7 +502,8 @@ id,created_at,text
 1255534478870618000,Wed Apr 29 16:28:41 +0000 2020,RT @hardmaru: Fooling Facial Detection with Fashion  Nice article surveying common face detection methods, and tests practical implementati…
 1255534452509474800,Wed Apr 29 16:28:34 +0000 2020,RT @MarioAsselin: Merci de faire circuler ce message sur les conditions de réouverture de l’économie...
 1255534374499635200,Wed Apr 29 16:28:16 +0000 2020,RT @jm_alexia: Pre-doctoral exam in one hour!!! Let's hope it all goes well.
-1255534331742892000,Wed Apr 29 16:28:06 +0000 2020,RT @jeffclune: One Go-Explore agent frequently reaches a score on Montezuma's Revenge ofover 40 million after 12.5 million frames (the equ…
+1255534331742892000,Wed Apr 29 16:28:06 +0000 2020,RT @jeffclune: One Go-Explore agent frequently reaches a score on Montezuma's Revenge of
+over 40 million after 12.5 million frames (the equ…
 1255284273537564700,Tue Apr 28 23:54:27 +0000 2020,RT @fchollet: Here's a Colab that does just that. Download a zip file with 25k images. Get a model training in seconds, with all the best p…
 1255284136962596900,Tue Apr 28 23:53:54 +0000 2020,RT @emmawage: Calling for a temporary ban on data visualization until we figure out what is going on https://t.co/bQAG1PRQAa
 1255284030603493400,Tue Apr 28 23:53:29 +0000 2020,RT @fchollet: You now can train a really good image classification model on 25k images in less than 2 hours, entirely for free, on a Colab…
@@ -598,7 +598,6 @@ id,created_at,text
 1254551890655936500,Sun Apr 26 23:24:13 +0000 2020,RT @peetak_mitra: Very lively and informative panel session @iclr_conf workshop #DiffEq and Deep Learning! This *virtual* workshop has been…
 1254551455228444700,Sun Apr 26 23:22:30 +0000 2020,RT @jburnmurdoch: NEW: a lot of data on reported Covid deaths is highly suspect, so we’ve been looking into excess mortality — how many mor…
 1254551288089641000,Sun Apr 26 23:21:50 +0000 2020,RT @aidanematzadeh: Our cognition (and language capacities) are highly dependent on our memory. AI systems also require similar memory func…
-1254543524365832200,Sun Apr 26 22:50:59 +0000 2020,RT @matthen2: visualizing the computation of a fourier series, for a zig-zag function. Each frequency travels along the surface of rotation…
 1254543524365832200,Sun Apr 26 22:50:59 +0000 2020,RT @matthen2: visualizing the computation of a fourier series, for a zig-zag function. Each frequency travels along the surface of rotation…
 1254543309487378400,Sun Apr 26 22:50:07 +0000 2020,RT @BrettOl11096261: This Earth Day, see how NVIDIA Inception companies use AI and aerial imagery to track deforestation, monitor thawing p…
 1254542971296505900,Sun Apr 26 22:48:47 +0000 2020,RT @svlevine: Check out SQIL -- a very simple way to utilize off-policy RL to imitate demonstrations, just by using 0/1 rewards.  Poster ta…
@@ -1798,7 +1797,6 @@ id,created_at,text
 1245549492188954600,Thu Apr 02 03:11:54 +0000 2020,RT @lawrennd: Fred Hemprecht now talking about Data against COVID-19  https://t.co/AWGLuO84Hw   https://t.co/anbJ0pGES7
 1245547609982488600,Thu Apr 02 03:04:26 +0000 2020,RT @Montreal_AI: Molecular Recognition as an Information Channel: The Role of Conformational Changes  Yonatan Savir and Tsvi Tlusty : https…
 1245547585139548200,Thu Apr 02 03:04:20 +0000 2020,RT @Montreal_AI: Towards Generative Drug Discovery: Metric Learning using Variational Autoencoders  Andrew Gritsevskiy, 2017 : https://t.co…
-1245547585139548200,Thu Apr 02 03:04:20 +0000 2020,RT @Montreal_AI: Towards Generative Drug Discovery: Metric Learning using Variational Autoencoders  Andrew Gritsevskiy, 2017 : https://t.co…
 1245547290045157400,Thu Apr 02 03:03:09 +0000 2020,RT @StanfordHAI: Seniors are the age group most vulnerable to COVID-19. @drfeifei shares one way AI can help them stay safe. https://t.co/4…
 1245544965322784800,Thu Apr 02 02:53:55 +0000 2020,RT @vardi: Coronavirus lockdowns have changed the way Earth moves https://t.co/9pl6mWqsss
 1245544916262027300,Thu Apr 02 02:53:43 +0000 2020,RT @iamtrask: There is *such* a strong relationship between AI (ML) and Cryptography.  They're like brothers.  Cryptography tries to create…
@@ -1998,7 +1996,6 @@ id,created_at,text
 1244621642845782000,Mon Mar 30 13:44:58 +0000 2020,.@Montreal_AI is Launching an Open and Collaborative Joint Task Force in Response to COVID-19  We’re looking for vo… https://t.co/lftajeKZZs
 1244619081015328800,Mon Mar 30 13:34:47 +0000 2020,RT @jakevdp: Altair hit 5,000 github stars this morning! https://t.co/gLqCrttsE2
 1244618863154811000,Mon Mar 30 13:33:55 +0000 2020,RT @AndyBiotech: #COVID19 This is probably the best scientific explainer I have seen on why we should all wear masks against #coronavirus h…
-1244618863154811000,Mon Mar 30 13:33:55 +0000 2020,RT @AndyBiotech: #COVID19 This is probably the best scientific explainer I have seen on why we should all wear masks against #coronavirus h…
 1244618761921007600,Mon Mar 30 13:33:31 +0000 2020,RT @quebecintl: En réaction la crise de la #COVID19, @OptelGroup propose une solution qui permettrait de géolocaliser les individus infecté…
 1244602833443397600,Mon Mar 30 12:30:13 +0000 2020,RT @ValaAfshar: COVID-19 public briefings should only be delivered by scientists and physicians.
 1244600240663146500,Mon Mar 30 12:19:55 +0000 2020,RT @amorgner: @karpathy Awesome, thanks! We're building a knowledge graph on all COVID-19 related info. Maybe we can integrate your work? h…
@@ -2197,7 +2194,6 @@ id,created_at,text
 1243027861155577900,Thu Mar 26 04:11:51 +0000 2020,RT @nature: Nature presents the first episode of the Coronapod, a podcast dedicated to the #COVID19 pandemic. The need for testing and cont…
 1243027686987104300,Thu Mar 26 04:11:09 +0000 2020,RT @Elex_Michaelson: #BREAKING @GavinNewsom says California has distributed 24.5 million N95 masks &amp; secured 100 million new masks.
 1243027262955499500,Thu Mar 26 04:09:28 +0000 2020,RT @jeremyphoward: Learn: - Practical Deep Learning https://t.co/rue2Hahfv5  - Deep Learning Foundations https://t.co/mTfuTz5F0X - Computat…
-1243015695727825000,Thu Mar 26 03:23:30 +0000 2020,RT @Montreal_AI: Lucid  A collection of infrastructure and tools for research in neural network interpretability : https://t.co/RBEB5y16b8…
 1243015695727825000,Thu Mar 26 03:23:30 +0000 2020,RT @Montreal_AI: Lucid  A collection of infrastructure and tools for research in neural network interpretability : https://t.co/RBEB5y16b8…
 1243015601884463000,Thu Mar 26 03:23:08 +0000 2020,RT @Montreal_AI: VIP AI 101 CHEATSHEET  a) VIP AI 101 CHEATSHEET: https://t.co/BgEqPCvn6O  b) Curated Open-Source Codes and Science: https:…
 1243015480711004200,Thu Mar 26 03:22:39 +0000 2020,RT @geoffreyhinton: Shooting someone on Fifth Avenue and getting away with it seems like a minor indiscretion compared with killing thousan…
@@ -2797,7 +2793,6 @@ id,created_at,text
 1240258852148445200,Wed Mar 18 12:48:47 +0000 2020,RT @ilyasut: i like how it suggests that backprop may really be the best algorithm for training neural networks https://t.co/pCQJj8wFJ5
 1240257203761754000,Wed Mar 18 12:42:14 +0000 2020,RT @JackMa: Friends,  Hospitals in outbreak countries will face huge challenges coping with the surge of patients. The clinical practitione…
 1240252864401899500,Wed Mar 18 12:25:00 +0000 2020,RT @ceobillionaire: Deep Reinforcement Learning with OpenAI Gym 101 | WEBINAR  AI Agents Learning from Experience, for All: https://t.co/YE…
-1240252819975831600,Wed Mar 18 12:24:49 +0000 2020,RT @BarackObama: We owe a profound debt of gratitude to all our health professionals and everybody who’ll be on the front lines of this pan…
 1240252819975831600,Wed Mar 18 12:24:49 +0000 2020,RT @BarackObama: We owe a profound debt of gratitude to all our health professionals and everybody who’ll be on the front lines of this pan…
 1240252444891897900,Wed Mar 18 12:23:20 +0000 2020,RT @karoly_zsolnai: This Neural Network Regenerates…Kind Of!  ▶️Full video (ours): https://t.co/E8MAdsPq9S 📜Source paper: https://t.co/DpfW…
 1240252058030215200,Wed Mar 18 12:21:48 +0000 2020,RT @timoreilly: "To understand why the world economy is in grave peril because of the spread of coronavirus, it helps to grasp one idea tha…
